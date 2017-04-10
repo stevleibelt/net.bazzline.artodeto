@@ -1,0 +1,7 @@
+* [OpenKM in Version 6.3.3 erschienen.](http://www.pro-linux.de/news/1/24636/openkm-633-mit-zahlreichen-neuerungen-freigegeben.html)
+* [Gesichtserkennung wird in Drohnen eingebaut und soll nur an den Grenzen eingesetzt werden.](https://www.golem.de/news/grenzschutz-drohnen-sollen-mit-gesichtserkennung-ausgeruestet-werden-1704-127219.html) - Das "wird" interpretiere ich als "wurde" und das "nur an den Grenzen" als "überall".
+* [Die Tomahawks der USA haben eine Treffergenauigkeit von rund 30 Prozent. Die restlichen Raketen landen dann mal irgendwo.](https://blog.fefe.de/?ts=a61469ce)
+* [Fefe trägt langsam eine Liste mit Argumenten zusammen, warum IoT für die Menscheit eine bekloppte Sache ist.](https://blog.fefe.de/?ts=a61464b3)
+* [Hier wird gezeigt wie man Asterix auf einem RaspberryPi einrichtet.](https://opensource.com/article/17/4/asterisk-raspberry-pi-3)
+* [Diese lästigen Fluggäste (lasst euch das Wort auf der Zunge zergehen, ihr seid Gäste ... auch wenn ihr davor bezahlen musstet), am besten wir stellen die alle unter Generalverdacht - oh schau, die EU will das sogar so!](https://www.heise.de/newsticker/meldung/Fluggaeste-als-Risikogruppen-EU-Kommission-foerdert-neues-Big-Data-Projekt-3681123.html)
+* [Fefe hat noch einen interessanten Einsender zum Thema IoT gehabt - wie geht es mit dem Maschinenbaustandort Deutschland weiter, wenn auf einmal überall so ein Stück Hardware sein soll und keiner eine Ahnung hat wie man das gescheit einbaut?](https://blog.fefe.de/?ts=a6157a26)
