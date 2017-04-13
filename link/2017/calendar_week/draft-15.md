@@ -27,3 +27,4 @@
 * [Ansible ist in der Version 2.3 erschienen.](https://www.heise.de/newsticker/meldung/Ansible-2-3-vereinheitlicht-die-Netzwerkanbindung-3684866.html)
 * [Mit Anbox Android Anwendungen auf dem PC starten? K.A. ob man das gut chrooten kann.](https://github.com/anbox/anbox) - Bei der Qualität die man als Linux Benutzer mit Microsoft Skype genervt wird, wäre ich bereit diesen Weg zu gehen.
 * [Responsive Boilerplate Html Web Design Template im Vergleich.](https://opensource.com/article/17/4/boilerplate-web-design-templates)
+* [CDU/CSU und SPD trauen dem Volk nicht und wollen all eure Kommunikationsdaten überprüfen und etwaig verbieten - und das alles voll automatisch.](https://www.heise.de/newsticker/meldung/IT-Sicherheit-Koalition-will-Deep-Packet-Inspection-und-Netzsperren-3685644.html) - Was kann da schon schief gehen? ;-)
