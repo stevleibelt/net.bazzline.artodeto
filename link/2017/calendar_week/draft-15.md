@@ -35,3 +35,4 @@
 * [Der CIA-Chef sieht Wikileaks als Freind.](https://www.heise.de/newsticker/meldung/CIA-Chef-sieht-in-Wikileaks-einen-feindlichen-Geheimdienst-3686088.html)
 * [Warum Krieg? Telepolis fast die Fakten noch einmal zusammen, Krieg wird von den Eliten geführt und hat nur den Grund Machtzonen zu etablieren oder "den Gegner" ins Chaos zu stürzen.](https://www.heise.de/tp/features/Warum-Krieg-3686028.html)
 * [Die USA wirft die größte, nicht atomare Bombe in Afghanistan ab und keinen interessierts. Statt dessen schreiben die Leitmedien lieber darüber wie Trump sein Steak mag.](https://www.heise.de/tp/features/US-Militaer-wirft-staerkste-nicht-nukleare-Bombe-auf-Ziel-in-Afghanistan-ab-3685970.html)
+* [IT in der Schule? Die EFF hat sich das mal angeschaut, kümmert sich wohl keiner um die Daten.](https://www.heise.de/newsticker/meldung/IT-in-der-Schule-Sorgloser-Umgang-mit-Schuelerdaten-3686182.html)
