@@ -28,3 +28,9 @@
 * [CDU/CSU und SPD beschließen Ihr Industriefreundliches Datenschutzgesetzt gegen das eigene Volk.](https://www.golem.de/news/datenschutzverordnung-im-bundestag-fuer-uns-ist-jeden-tag-der-tag-der-inneren-sicherheit-1704-127545.html)
 * [Ein Vertreter des LKA Hamburg redet ganz offen über die strukturellen und personellen Probleme der Polizei und wie wenig er mit der Vorratsdatenspeicherung anfangen kann und will.](https://blog.fefe.de/?ts=a7fcf294)
 * [CDU/CSU und SPD erlauben dem BKA jetzt "Gefährder" mit einer Fußfessel versehen und unter Hausarest stellen darf.](https://www.heise.de/newsticker/meldung/BKA-Gesetz-Bundestag-stimmt-fuer-E-Fussfessel-fuer-Gefaehrder-und-Polizei-Cloud-3698913.html) - Ob so ein Ding eigentlich Krebs verursacht?
+* [Copyleft auf eine Tomatenart - wenigst die kann man züchten ohne verklagt zu werden.](http://www.spiegel.de/wissenschaft/natur/open-source-saatgut-warum-die-tomate-sunviva-abgs-hat-a-1145093.html)
+* [CDU/CSU und SPD schreiben erneut ein Telekomunikationsgesetzt für die Konzerne.](https://www.golem.de/news/tkg-aenderungsgesetz-regierung-will-keinen-schutz-vor-low-speed-und-abzocke-1704-127560.html)
+* [Roundcube hat ein Sicherheitsupdate für die Versionen 1.2.5, 1.1.9 und 1.0.11 veröffentlicht.](https://roundcube.net/news/2017/04/28/security-updates-1.2.5-1.1.9-and-1.0.11)
+* [Alles Terroristen! Dank CDU/CSU und SPD jetzte auch auf jedem Flug.](https://www.heise.de/newsticker/meldung/Bundestag-bringt-Fluggastdatenspeicherung-auf-den-Weg-3699434.html)
+* [CDU/CSU und SPD erlauben Deep Packet Inspection und Netzsperren.](https://www.heise.de/newsticker/meldung/IT-Sicherheit-Bundestag-erlaubt-Deep-Packet-Inspection-und-Netzsperren-3699426.html)
+* [Hier hat sich mal jemand die Werbezeitschrift "Joy" zur Brust genommen.](https://tuxproject.de/blog/2017/04/medienkritik-civ-joy-du-bist-schoen/)
