@@ -18,3 +18,4 @@
 * [Authentifizierung mit PHP 7.1? Hier wird erklärt wie es geht.](http://www.zimuel.it/blog/authenticated-encrypt-with-openssl-and-php-7-1)
 * [Nein? Doch! Oh? - Der Nabu hat sich die Kreuzfahrtschiffe noch einmal angeschaut. Am Besten geht man nur mit Atemschutz auf so ein Ding.](http://www.sonnenseite.com/de/wirtschaft/dicke-luft-bei-kreuzfahrten.html) - Kreuzfahrtschiffe müssen ja ähnliche Abgasnormen wie Kontainerschiffe erfüllen ... also keine. Die magische Hand des freien Marktes hat dazu geführt, dass ein Schiff mehr Dreck in die Luft pumpt als eine große Masse Autos in einer Großstadt.
 * [Hier wird der Begriff "Backfire Effekt" mit einem Cartoon erklärt.](http://theoatmeal.com/comics/believe)
+* [Der Rapper Kollegah redet über die Verantwortung, die ein Prominenter in der Welt hat, über verdorbene Jugend und wie viel die Industrie daran schuld hat.](https://www.youtube.com/watch?v=fzIQUSFzfp8)
