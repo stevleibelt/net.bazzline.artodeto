@@ -1,0 +1,5 @@
+* [Der Pressespiegel zu den Big Brother Awards 2017 ist online.](https://digitalcourage.de/blog/2017/bigbrotherawards-2017-in-den-medien)
+* [Rose Anderson spricht über "The Threat" in einem Interview.](https://www.edge.org/conversation/ross_anderson-the-threat)
+* [Die Hetzpresse schreit wohl im Moment wieder laut das Thema "wir werden alle störben wegen dem Fachkräftemangel" durch die Gegend. Richtig belastende Zahlen gibt es dann nicht, die Bezahlung und der Standort wird dann gern "vergessen".](https://www.heise.de/tp/features/Arbeitsmarkt-Rekordzahl-an-offenen-Stellen-3708720.html) - An Ende fragt man sich noch wie man mit 800 Euro in München überleben soll, ne, ne, wo kommen wir denn da hin?
+* [Nicht nur das Land in dem du geboren wurdest ist wichtig, auch die Region, sonst lebst du mal ratz-fatz Jahrzehnte kürzer als andere in deinem Land.](https://www.heise.de/tp/features/USA-Landkreise-mit-einer-Lebenserwartung-wie-im-Sudan-3708609.html)
+* [Gewinne privatisieren, Schulden sozialisieren ... jetzt auch im Stromnetz.](http://www.sonnenseite.com/de/energie/haushalte-stabilisieren-das-stromnetz.html) - Im Beitrag sind viele tolle Buzzworts enthalten.
