@@ -34,3 +34,4 @@
 * [Tablets, Kameras, Laptops etc. ... alles will die Homeland Security nicht mehr in der Flugkabine in die USA nicht mehr sehen.](https://www.golem.de/news/flugzeug-verbot-von-laptops-auch-auf-eu-usa-fluegen-moeglich-1705-127744.html) - Ich weiß nicht, ist das jetzt eine billige Masche damit man wieder Geld an die Fluglinie zahlt weil man irgendwas machen möchte.
 * [Und da beginnt es ... Google will einen eigenen Stadtteil bauen.](https://www.golem.de/news/google-alphabet-will-eigenen-stadtteil-in-toronto-errichten-1705-127749.html) - Firmen die Stadtteile für Kunden baut? Das kenne ich aus zu vielen Bücher und da geht das immer kacke aus.
 * [11 Lebenserfahrungen aus einem halben Leben voller Open Source - lohnenswert und auch für Closed Source Projekte wichtig!](https://opensource.com/article/17/5/wisdom-half-life-open-source)
+* [Felix von Leitner hat 90 Folie über das IoT-Problem zusammengetragen.](http://ptrace.fefe.de/iot/iot.html)
