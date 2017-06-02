@@ -28,3 +28,6 @@
 * [Horst Seehofer erklärt wie Demokratie funktioniert.](https://blog.fefe.de/?ts=a7d1e247)
 * [Die Rektoren der deutschen Universitäten fassen noch einmal zusammen, wenn das Urheberrecht nicht mehr in Richtung Volkswissen und damit weg vom ewigen Gelddrucken geht, wird sich der Großteil der Bevölkerung Bildung nicht mehr leisten können.](https://www.heise.de/newsticker/meldung/Hochschulrektorenkonferenz-Urheberrechtsreform-nicht-verwaessern-3727028.html)
 * [libmicrohttpd wurde in der Version 0.9.55 veröffentlicht.](https://lists.gnu.org/archive/html/info-gnu/2017-05/msg00014.html)
+* [Nein? Doch! Oh? Die Aktienmärkte werden jetzt noch schneller kaputt gehen, immer mehr Menschen werden durch Software ersetzt.](https://www.heise.de/newsticker/meldung/Computer-ersetzen-an-der-Wall-Street-hoch-bezahlte-Finanz-Analysten-3730284.html) - Ich bin froh das ich keine Software bauen muss die über Hunger und Krieg entscheidet.
+* [Die USA denkt jetzt doch laut darüber nach, dass Computer über den Tod bestimmen sollen.](https://www.heise.de/tp/features/Krieg-mit-KI-Systemen-Ohne-Angst-und-Emotion-aber-mit-hoher-Ungewissheit-3730667.html)
+* [Endlich landet mal ein Fall vor einem Richter der sich mit dem Internet auskennt.](https://www.lawblog.de/index.php/archives/2017/05/31/ein-richter-erklaert-das-internet-und-zwar-gut/)
