@@ -31,3 +31,6 @@
 * [Nein? Doch! Oh? Die Aktienmärkte werden jetzt noch schneller kaputt gehen, immer mehr Menschen werden durch Software ersetzt.](https://www.heise.de/newsticker/meldung/Computer-ersetzen-an-der-Wall-Street-hoch-bezahlte-Finanz-Analysten-3730284.html) - Ich bin froh das ich keine Software bauen muss die über Hunger und Krieg entscheidet.
 * [Die USA denkt jetzt doch laut darüber nach, dass Computer über den Tod bestimmen sollen.](https://www.heise.de/tp/features/Krieg-mit-KI-Systemen-Ohne-Angst-und-Emotion-aber-mit-hoher-Ungewissheit-3730667.html)
 * [Endlich landet mal ein Fall vor einem Richter der sich mit dem Internet auskennt.](https://www.lawblog.de/index.php/archives/2017/05/31/ein-richter-erklaert-das-internet-und-zwar-gut/)
+* [CDU/CSU und SPD sind so von der Impflobby durchsetzt, dass sie auch die Kita als psychologische Druckmaschinen für sich arbeiten lassen wollen - ach und alles überall speicheren.](https://www.heise.de/tp/features/Bundestag-beschliesst-Impfberatungsverweigerer-Meldepflicht-fuer-Kitas-3732686.html)
+* [Das AKW Gundremmingen wird vor seinem Stilllegen noch mehrmals über den Limits gefahren.](https://blog.fefe.de/?ts=a7cfeadf)
+* [Die Autobahnen sind noch nicht ganz privatisiert, da machen sich CDU/CSU und SPD schon an die Privatisierung der Schulen heran.](https://blog.fefe.de/?ts=a7cef8fc)
