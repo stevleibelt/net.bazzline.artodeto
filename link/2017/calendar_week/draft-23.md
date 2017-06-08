@@ -28,3 +28,5 @@
 * [Ihr habt "Open Hardware" gekauft? Dann zertifiziert diese mal lieber, sonst kauft ihr geschlossene Hardware mit einem schönen Logo.](https://opensource.com/article/17/6/open-source-hardware-certification)
 * [GnuPGP started neue Crowdfounding-Runde.](https://www.pro-linux.de/news/1/24814/gnupg-startet-neue-crowd-finanzierungskampagne.html)
 * [Ein Gericht in den USA beschäftigt sich gerade mit der Klage ob ein Verstoß gegen die GPL eine Urheberrechts- und Vertragsverletzung ist.](https://www.golem.de/news/freie-lizenzen-gericht-verhandelt-agpl-vertragsverletzung-1706-128244.html)
+* [Ihr wollt euch Solarplatten aufs Dach hauen? Prüft was alles in der Garantie ist!](http://www.sonnenseite.com/de/tipps/solartipp-lassen-sie-sich-die-garantien-genau-erklaeren.html)
+* [Der Bund verliert durch "Cum-Cum-Geschäfte" 24 Milliarden Euro Steuereinnahmen.](https://blog.fefe.de/?ts=a7c6b137) - Alles für den Dackel, alles für den Club ([hier](https://de.wikipedia.org/wiki/Dividendenstripping) steht was das ist.)!
