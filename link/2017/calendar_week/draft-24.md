@@ -1,0 +1,7 @@
+* [Die Meere werden überfischt und jeder tut nur vor seiner eigenen Haustür so, als würde er sich darum kümmern.](https://www.heise.de/tp/features/Der-grosse-Fischzug-3718149.html)
+* [Outsourcen ist für deine Daten wie alles in die Cloud zu schieben, weg ist weg.](https://blog.fefe.de/?ts=a7c06c8e)
+* [Rspamd wurde in der Version 1.6 veröffentlicht.](http://www.phoronix.com/scan.php?page=news_item&px=rspamd-1.6-Released)
+* [Eine kurze Anleitung wie man mit Go anfängt zu programmieren.](https://opensource.com/article/17/6/getting-started-go)
+* [Schon einmal mit QTractor rumgespielt? Hier könnt ihr lesen was das Ding alles kann.](https://opensource.com/article/17/6/qtractor-audio)
+* [Gewinne privatisieren, Verluste sozialisieren - nachdem Bayer und Monsanto unseren Acker vergiftet und unser Ökosystem zerstört haben, müssen die Verbraucher die Rechnung tragen - hier wird das Trinkwasser teurer, da es immer aufwendiger wird den ganzen Dreck aus dem Wasser zu filtern.](http://www.sonnenseite.com/de/politik/trinkwasser-preissteigerung-bis-zu-45-prozent-erwartet.html)
+* [Rust wurde in der Version 1.18 veröffentlicht.](https://www.pro-linux.de/news/1/24826/rust-118-vorgestellt.html)
