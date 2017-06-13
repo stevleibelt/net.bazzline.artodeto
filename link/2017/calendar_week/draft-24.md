@@ -5,3 +5,5 @@
 * [Schon einmal mit QTractor rumgespielt? Hier könnt ihr lesen was das Ding alles kann.](https://opensource.com/article/17/6/qtractor-audio)
 * [Gewinne privatisieren, Verluste sozialisieren - nachdem Bayer und Monsanto unseren Acker vergiftet und unser Ökosystem zerstört haben, müssen die Verbraucher die Rechnung tragen - hier wird das Trinkwasser teurer, da es immer aufwendiger wird den ganzen Dreck aus dem Wasser zu filtern.](http://www.sonnenseite.com/de/politik/trinkwasser-preissteigerung-bis-zu-45-prozent-erwartet.html)
 * [Rust wurde in der Version 1.18 veröffentlicht.](https://www.pro-linux.de/news/1/24826/rust-118-vorgestellt.html)
+* [Tor wurde in Version 7.0 veröffentlicht.](https://blog.torproject.org/blog/tor-browser-70-released)
+* [Bash und die "parameter expansion".](https://opensource.com/article/17/6/bash-parameter-expansion)
