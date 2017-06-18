@@ -31,3 +31,6 @@
 * [Zum Thema Wasserverschmutzung haben die Netzfrauen auch einen Artikel geschrieben.](https://netzfrauen.org/2017/06/14/guelle-verschmutzung/)
 * [Genmanipulierte Lebensmittel müssen (laut Gesetzt!) nicht immer gekennzeichnet sein - die Netzfrauen geben euch einen Hinweis wie man das System versteht.](https://netzfrauen.org/2016/08/16/wie-man-in-einer-pestizidverseuchten-welt-ueberlebt-the-real-world-challenge-of-surviving-in-a-world-swimming-in-pesticides/)
 * [Die magische Hand des freie Marktes regelt das schon - Die Gurke im Supermarkt muss gerade und in Plastik (sic!) verpackt sein.](https://netzfrauen.org/2017/06/12/gurken/)
+* [Der Film "Thank you for calling - Mobilfunk kann Ihre Gesundheit gefährden." ist als DVD erhältlich :-).](https://shop.diagnose-funk.org/DVD-Thank-you-for-calling-TY4C-85-Minuten-Privatlizenz)
+* [Unsere Ozeane wird von uns scheinbar noch schlimmer geschändet als unser Land.](https://netzfrauen.org/2017/06/18/weltmeere/)
+* [Steam kann man jetzt via Flatpak installieren. Das ist nett, da man so sein System nicht mit Kram zuschachtet.](http://www.phoronix.com/scan.php?page=news_item&px=Flatpak-Steam-Flathub) - Supportet wird das Flatpak-Angebot von Red Hat :-).
