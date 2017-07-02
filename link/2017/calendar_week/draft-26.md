@@ -1,9 +1,0 @@
-* [An JEFTA merkt man, dass die Lenker unserer Welt nichts aus CETA und TTIP lernen wollen.](https://www.heise.de/tp/features/JEFTA-EU-Freihandelsabkommen-mit-Japan-als-Hydra-3755360.html)
-* [JavaScript Frameworks muss man nicht immer nutzen.](https://opensource.com/article/17/6/javascript-frameworks)
-* [18 Open Sources Programme um eure Projekte zu übersetzen.](https://opensource.com/article/17/6/open-source-localization-tools)
-* [Rubikon wurde von ARD geadelt, sie sind so kritisch, dass der ARD sie kurzerhand als "nicht verlässliche Quelle" einstuft.](https://propagandaschau.wordpress.com/2017/06/26/die-ard-liebt-rubikon/)
-* [Da hat 1und1 Drillisch noch nicht einmal richtig übernomme, da wird schon Werbung für steigende Preise gemacht.](https://www.golem.de/news/united-internet-uebernahme-drillisch-will-weg-von-billigangeboten-1706-128580.html) - Klar, wenn Firmen zusammengelegt und Angestellte entlassen werden muss man diesen Gewinn ja mit steigenden Preisen langfristig auffangen.
-* [Doro von den Netzfrauen hat sich die Zeit genommen und sich ihren Erlebnissen als Kind beschäftigt.](https://netzfrauen.org/2017/06/26/der-weisse-zaun/) - Das Lesen dieser Zeilen ist ein guter Anhaltspunkt um selber für kurze Zeit inne zuhalten.
-* [Nachdem man keine Techniker mehr in die USA bringen sollte, sollte man nun auch lieber keine Bücher mitnehmen.](https://www.heise.de/tp/features/Auf-US-Flughaefen-werden-nun-auch-Buecher-kontrolliert-3755806.html)
-* [Und wenn keiner mehr Genmittel aus den USA essen will? Dann gibt es eben Wirtschaftskrieg!](https://netzfrauen.org/2017/06/26/52823/)
-* [Der freie Markt regelt das - in Spanien gibt es ein Gesetzt, dass Naturschutzgebiete reevaluiert werden können, wenn sie abbrennen. Was passiert nun in Spanien? Hier und da brennen die Naturschutzgebiete.](https://blog.fefe.de/?ts=a7aff6f9)
