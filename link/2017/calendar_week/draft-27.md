@@ -1,0 +1,6 @@
+* Es wurde eine neue Rechtschreibung abgesegnet. Die Änderungen wurden in einem [Wörterverzeichnis](http://www.rechtschreibrat.com/DOX/rfdr_Woerterverzeichnis_2017.pdf) und einem [Regelwerk](http://www.rechtschreibrat.com/DOX/rfdr_Regeln_2017.pdf) online verfügbar gemacht.
+* [Was hatten wir schon lange nicht mehr? Der Wunsch nach mehr Militärausgaben.](https://www.heise.de/newsticker/meldung/USA-Anlauf-zu-separater-Weltraum-Kampftruppe-3760877.html) - Jetzt mit dem Wunsch Militär im Weltraum zu haben.
+* [Der Linux Kernel wurde in Version 4.12 veröffentlicht.](https://www.heise.de/ct/artikel/Die-Neuerungen-von-Linux-4-12-3712705.html)
+* [In Hamburg geht das Volk gegen den G20 Gipfel auf die Straße.](http://www.sonnenseite.com/de/politik/g20-10.000-demonstrierten-in-hamburg.html)
+* [Elektroschrott wird noch immer zu wenig bei den Händler zurückgegeben.](https://www.heise.de/newsticker/meldung/Elektroschrott-Rueckgabe-im-Handel-laeuft-schleppend-3760967.html) - Warum? Zum einen wird dies dem Verbraucher selten gesagt, zum anderen sind Discounter von diesem Gesetz ausgenommen - Lobbyarbeit sei dank.
+* [Gruppenverzeichnisse sind bald in Nextcloud verfügbar :-).](https://nextcloud.com/blog/new-version-of-groupfolders-app-is-coming/)
