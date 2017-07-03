@@ -4,3 +4,5 @@
 * [In Hamburg geht das Volk gegen den G20 Gipfel auf die Straße.](http://www.sonnenseite.com/de/politik/g20-10.000-demonstrierten-in-hamburg.html)
 * [Elektroschrott wird noch immer zu wenig bei den Händler zurückgegeben.](https://www.heise.de/newsticker/meldung/Elektroschrott-Rueckgabe-im-Handel-laeuft-schleppend-3760967.html) - Warum? Zum einen wird dies dem Verbraucher selten gesagt, zum anderen sind Discounter von diesem Gesetz ausgenommen - Lobbyarbeit sei dank.
 * [Gruppenverzeichnisse sind bald in Nextcloud verfügbar :-).](https://nextcloud.com/blog/new-version-of-groupfolders-app-is-coming/)
+* [Da es die Wirtschaft nicht macht, müssen es die ausführenden Organe machen und fordern öffentlich ein verschäftes Haftungsrecht für IoT-Geräte.](https://www.heise.de/newsticker/meldung/Internet-der-Dinge-Forscher-fordern-verschaerftes-Haftungsrecht-fuer-vernetzte-Produkte-3761982.html)
+* [Kubernets wurde in der Version 1.7 veröffentlicht.](https://www.golem.de/news/container-orchestrierung-kubernetes-1-7-staerkt-sicherheit-und-stateful-sets-1707-128714.html)
