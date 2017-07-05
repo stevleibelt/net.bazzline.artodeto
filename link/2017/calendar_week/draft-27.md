@@ -28,3 +28,5 @@
 * [Die Bundesnetzagentur bietet dem Bürger über die Webseite SMARD.de aktuelle Strommarktdaten frei an.](https://www.smard.de) - Ich bin auf die ersten Nutzer gespannt :-).
 * [Datenreichtum bei der deutschen Post - 200.000 Umzugsmitteilungen gab es online für alle.](https://www.golem.de/news/kundendaten-datenleck-bei-der-deutschen-post-1707-128751.html)
 * [In Barcelona wurde das erste Bordell mit Sex-Robotern eröffnet.](https://netzfrauen.org/2017/07/05/52976/)
+* [Die sächsiche Landesstiftung Natur und Umwelt hat ein paar schöne Publikation für eure Kinder zum ausdrucken verfügbar.](https://www.lanu.de/de/Service/Publikationen.html)
+* [Sachsenimker.de - Wohl der Imkerverbund für Sachsen.](http://www.sachsenimker.de/)
