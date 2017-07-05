@@ -27,3 +27,4 @@
 * [Tom Secker schreibt einige Gedanken nieder wie die Geheimdienste der USA Einfluss auf die Medien (Filme und Serien primär) nehmen.](https://medium.com/insurge-intelligence/exclusive-documents-expose-direct-us-military-intelligence-influence-on-1-800-movies-and-tv-shows-36433107c307) - Danke an [Fefe](https://blog.fefe.de/?ts=a7a2cc21) für den Link.
 * [Die Bundesnetzagentur bietet dem Bürger über die Webseite SMARD.de aktuelle Strommarktdaten frei an.](https://www.smard.de) - Ich bin auf die ersten Nutzer gespannt :-).
 * [Datenreichtum bei der deutschen Post - 200.000 Umzugsmitteilungen gab es online für alle.](https://www.golem.de/news/kundendaten-datenleck-bei-der-deutschen-post-1707-128751.html)
+* [In Barcelona wurde das erste Bordell mit Sex-Robotern eröffnet.](https://netzfrauen.org/2017/07/05/52976/)
