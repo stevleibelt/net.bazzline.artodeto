@@ -35,3 +35,5 @@
 * [Tolle neue Technik, das Diebstahlsystem (die zwei elektronischen Schranken, durch die ihr immer gehen müsst), schaltet mal eben euer Gehirnimplantat ab.](http://gizmodo.com/why-people-with-brain-implants-are-afraid-to-go-through-1796452196) - [Fefe](https://blog.fefe.de/?ts=a7a3b47d) skizziert weitere "Features".
 * [Nicht nur die Bienen sterben, auch die Vögel werden dank Monsanto/Bayer und anderen Massenvernichtungswaffenhersteller ausgerottet.](https://netzfrauen.org/2017/07/06/hungrige-voegel/)
 * [Passend zum CDU/CSU Wahlprogramm der Vollbeschäftigung ... Eine Studie zeigt auf das Deutschland führend darin ist, dass man mit einer Vollbeschäftigung in die Kategorie "Erwerbsarmut" fällt.](https://www.heise.de/tp/features/Deutschland-Arbeit-schuetzt-nicht-vor-Armut-3766409.html)
+* [Ein batterieloses Mobilfunktelefon wurde von Forschern gebastelt.](https://www.golem.de/news/universitaet-washington-forscher-entwickeln-batterieloses-mobiltelefon-1707-128783.html)
+* [TTIP ist jetzt JEFTA - Die EU und Japan gegen die eigene Bevölkerung.](https://www.heise.de/newsticker/meldung/JEFTA-EU-und-Japan-wollen-Datenaustausch-erleichtern-3766668.html)
