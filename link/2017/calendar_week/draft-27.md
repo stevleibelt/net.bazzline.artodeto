@@ -30,3 +30,8 @@
 * [In Barcelona wurde das erste Bordell mit Sex-Robotern eröffnet.](https://netzfrauen.org/2017/07/05/52976/)
 * [Die sächsiche Landesstiftung Natur und Umwelt hat ein paar schöne Publikation für eure Kinder zum ausdrucken verfügbar.](https://www.lanu.de/de/Service/Publikationen.html)
 * [Sachsenimker.de - Wohl der Imkerverbund für Sachsen.](http://www.sachsenimker.de/)
+* [Die größte Genbude in China verzichtet nun auf den Verkauf von Minischweinen.](https://www.heise.de/newsticker/meldung/Chinesisches-Genomik-Unternehmen-verzichtet-auf-Verkauf-von-Mini-Schweinen-als-Haustiere-3764851.html) - Meine erste Vermutung, die Regierung braucht die Kapazitäten für Supersoldaten.
+* [Wow, endlich einmal etwas Ehrlichkeit bei der Tagesschau, Georg Restle spricht Klartext über die vier Jahre Schande von CDU/CSU und SPD und wie sie unser Grundgesetzt und unsere Freiheit vergewaltigt haben.](https://twitter.com/tagesthemen/status/882334745056747520)
+* [Tolle neue Technik, das Diebstahlsystem (die zwei elektronischen Schranken, durch die ihr immer gehen müsst), schaltet mal eben euer Gehirnimplantat ab.](http://gizmodo.com/why-people-with-brain-implants-are-afraid-to-go-through-1796452196) - [Fefe](https://blog.fefe.de/?ts=a7a3b47d) skizziert weitere "Features".
+* [Nicht nur die Bienen sterben, auch die Vögel werden dank Monsanto/Bayer und anderen Massenvernichtungswaffenhersteller ausgerottet.](https://netzfrauen.org/2017/07/06/hungrige-voegel/)
+* [Passend zum CDU/CSU Wahlprogramm der Vollbeschäftigung ... Eine Studie zeigt auf das Deutschland führend darin ist, dass man mit einer Vollbeschäftigung in die Kategorie "Erwerbsarmut" fällt.](https://www.heise.de/tp/features/Deutschland-Arbeit-schuetzt-nicht-vor-Armut-3766409.html)
