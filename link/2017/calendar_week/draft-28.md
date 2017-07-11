@@ -1,0 +1,2 @@
+* [Die letzten Ziesel (geschützte Art) müssen der Gier von Baukonzernen weichen.](https://netzfrauen.org/2017/07/11/ziesel/) - Das verrückte dabei, die Stadt Wien wusste von den Ziesels und hat das Land trotzdem verkauft.
+* [Die Staaten in Europa hätten keine Geldprobleme wenn es nicht die gewollten Steuerschlupflöcher aka Steueroasen gäbe.](https://netzfrauen.org/2017/07/11/steuerflucht/) - Und was passiert wenn man als Konzern erwischt wird? Nix. Toll ist auch verlinkte Film "[Zeitbume Steuerflucht](http://www.arte.tv/guide/de/047158-000/zeitbombe-steuerflucht)"
