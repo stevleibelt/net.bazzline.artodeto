@@ -28,3 +28,6 @@
 * [Das Bundesverfassungsgericht hat sich um seine Aufgabe gegenüber Gaby Weber gedrückt und hat sich mit einen Formfehler aus der Sache herausgeredet.](https://blog.fefe.de/?ts=a798c2cd) - Ein schwerer Schlag für unsere Bevölkerung.
 * [Wie nutzt man man pages? Hier wird es erklärt.](https://opensource.com/article/17/7/using-man-pages)
 * [Bürgerwunsch? Das hat die CDU noch nie interessiert, deswegen will Mutti TTIP auch noch einmal starten.](https://www.heise.de/newsticker/meldung/Merkel-will-TTIP-Neustart-Plaedoyer-fuer-Freihandel-3769625.html)
+* [Laut sonnenseite.de sterben in Deutschland doppelt so viele Menschen an Autoabgasen als durch Verkehrsunfälle.](http://www.sonnenseite.com/de/umwelt/unter-terrorismusverdacht.html)
+* [Vietnam beendet sein Atomprogramm :-).](http://www.sonnenseite.com/de/politik/vietnam-beendet-sein-atomprogramm.html)
+* [Laut sz.de werden einige Journalisten seit mehr als zehn Jahren durch deutsche Polizeibeamten bei großen Veranstaltungen beaufsichtigt.](https://blog.fefe.de/?ts=a79851c4) - Mit gezogener Waffe am Ende :-O.
