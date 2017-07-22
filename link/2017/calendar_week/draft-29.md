@@ -32,3 +32,5 @@
 * [Wie konnte es passieren, dass es eigentlich alle Dieselbauer im Abgasskandal erwischt? Weil sich ein Kartell zusammengerottet hat, richtig schön mit Absprachen etc. - Wie bei der Glühbirne, nur eben noch schlimmer.](https://blog.fefe.de/?ts=a78cf8af)
 * [Eine weitere Zensurstufe ist bei YouTube installiert worden, suchst du etwas, was YouTube nicht gefällt, bekommst du Gegenprogramme angezeigt - noch sind die Unterschiede wohl offensichtlich.](https://www.heise.de/newsticker/meldung/YouTube-leitet-Suche-nach-Terrorvideos-auf-Gegenpropaganda-um-3780573.html)
 * [Was es nicht alles tolles gibt, mit TalkingArch gibt es ein ArchLinux für Taubstumme oder Blinde - toll!](https://talkingarch.tk/)
+* [BlueGriffon](http://bluegriffon.org/) und [KompoZer](http://kompozer.net/) sind zwei WYSIWYG-HTML-Editoren die angeblich etwas taugen sollen
+* [Was steckt eigentlich im Teebeutel-Tee so drinne, wer produziert es, wie belastet es die Umwelt und wie giftig ist der Konsum? All das trägt ein Artikel der Netzfrauen zusammen.](https://netzfrauen.org/2017/07/22/faktencheck-tee/)
