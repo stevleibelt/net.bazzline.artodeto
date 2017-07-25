@@ -14,3 +14,6 @@
 * [Datenreichtum bei den schwedischen Staatsbürgern.](https://blog.fefe.de/?ts=a788eb06) - Die Cloud klaut.
 * [Augen auf bei der Berufswahl - heute mit dem Thema Ethik und warum man nicht bei Investmentbanken arbeiten sollte.](https://odoepner.wordpress.com/2017/07/24/work-on-profit-maximizing-it-systems-no-thanks/)
 * [Die Mutter aller Hansestädte Lübeck scheint massive Probleme mit ihrer IT-Infrastruktur zu haben.](https://blog.fefe.de/?ts=a788a6c8)
+* [Ring wurde in der Version 1.0 veröffentlicht.](https://www.pro-linux.de/news/1/24973/kommunikationsl%C3%B6sung-ring-10-freigegeben.html)
+* [Ihr habt euch einen Staubsaugerroboter mit WiFi gekauft? Dann ist euer Wohnungsgrundriss bald als Datenreichtum im Netz zu finden.](https://www.heise.de/newsticker/meldung/Roomba-Hersteller-der-Staubsaugerroboter-will-Karten-der-Wohnungen-verkaufen-3782216.html)
+* ["Smart Gun" kann man wie alles hacken, mit Magneten oder mit einem Repeater-Aufbau.](https://www.golem.de/news/armatix-smart-gun-laesst-sich-mit-magneten-hacken-1707-129111.html) - Schöne neue Welt.
