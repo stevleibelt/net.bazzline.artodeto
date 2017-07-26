@@ -25,3 +25,5 @@
 * [Amazon Cloud drosselt jetzt eure IO, wenn ihr zu viel verbraucht.](https://blog.fefe.de/?ts=a7868516)
 * [Datenreichtum bei Unicredit.](https://www.golem.de/news/it-dienstleister-daten-von-400-000-unicredit-kunden-kompromittiert-1707-129130.html) - Nur 400.000 Datensätze aber immerhin.
 * [In dem Artikel geht es um den Dieselmotor aber ich finde das Bild von der Arktis 1980 zu 2012 viel spannenden.](https://www.heise.de/tp/features/Der-Dieselmotor-ist-tot-3783701.html)
+* ["Moderne Putzmittel" sind wie "moderne Nahrungsmittel" - Chemiedreck der nichts taugt, unsere Umwelt belastet und Krebs verursacht.](https://netzfrauen.org/2017/07/26/putzmittel/)
+* ["Für einen Propagandisten ist die beste Lüge eine Lüge, die völlig frei ist von auch nur den leisesten Anklängen an die Wahrheit." - Wahr wird eine Lüge durch Wiederholung und dafür wurden Medien wie auch Facebook gebaut.](https://www.rubikon.news/artikel/die-herrschaft-der-propaganda)
