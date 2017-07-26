@@ -17,3 +17,9 @@
 * [Ring wurde in der Version 1.0 veröffentlicht.](https://www.pro-linux.de/news/1/24973/kommunikationsl%C3%B6sung-ring-10-freigegeben.html)
 * [Ihr habt euch einen Staubsaugerroboter mit WiFi gekauft? Dann ist euer Wohnungsgrundriss bald als Datenreichtum im Netz zu finden.](https://www.heise.de/newsticker/meldung/Roomba-Hersteller-der-Staubsaugerroboter-will-Karten-der-Wohnungen-verkaufen-3782216.html)
 * ["Smart Gun" kann man wie alles hacken, mit Magneten oder mit einem Repeater-Aufbau.](https://www.golem.de/news/armatix-smart-gun-laesst-sich-mit-magneten-hacken-1707-129111.html) - Schöne neue Welt.
+* [145, das ist die aktuelle Anzahl an Kohlekraftwerken die unsere Umwelt verschmutzen - das spannende Detail, dank neuer Filter ist es wie bei dem KFZ's, man sieht den Dreck nicht mehr, aber er ist weiterhin da.](http://www.sonnenseite.com/de/umwelt/schwarze-lungen-schwaches-herz.html)
+* [Dank schlechtem Essen und Chemierückstände im Trinkwasser nimmt die Fruchtbarkeit in der "zivilisierten Welt" stetig ab.](https://www.heise.de/newsticker/meldung/Forscher-Zeugungsfaehigkeit-bei-Maennern-im-Westen-nimmt-dramatisch-ab-3783319.html)
+* [20 Kommandos, die jeder Admin kennen sollte.](https://opensource.com/article/17/7/20-sysadmin-commands) - "python -m json.tool" und "sestatus" sind auch für mich neu.
+* [Kapitalismus at its best, da werden sexuelle Missbrauchsvorwürfe gestreut um dem Konkurrenten schaden zu wollen.](https://blog.fefe.de/?ts=a78687b6)
+* [Das EuGH stoppt das geplante Abkommen der EU mit Kanada bezüglich des gegenseitigen Ausstauschs des Datenreichtumgs der Fluggastbevölkerung.](https://www.heise.de/newsticker/meldung/EuGH-stoppt-geplantes-Fluggastdaten-Abkommen-der-EU-mit-Kanada-3783426.html)
+* [Amazon Cloud drosselt jetzt eure IO, wenn ihr zu viel verbraucht.](https://blog.fefe.de/?ts=a7868516)
