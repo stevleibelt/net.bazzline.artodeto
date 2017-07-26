@@ -23,3 +23,5 @@
 * [Kapitalismus at its best, da werden sexuelle Missbrauchsvorwürfe gestreut um dem Konkurrenten schaden zu wollen.](https://blog.fefe.de/?ts=a78687b6)
 * [Das EuGH stoppt das geplante Abkommen der EU mit Kanada bezüglich des gegenseitigen Ausstauschs des Datenreichtumgs der Fluggastbevölkerung.](https://www.heise.de/newsticker/meldung/EuGH-stoppt-geplantes-Fluggastdaten-Abkommen-der-EU-mit-Kanada-3783426.html)
 * [Amazon Cloud drosselt jetzt eure IO, wenn ihr zu viel verbraucht.](https://blog.fefe.de/?ts=a7868516)
+* [Datenreichtum bei Unicredit.](https://www.golem.de/news/it-dienstleister-daten-von-400-000-unicredit-kunden-kompromittiert-1707-129130.html) - Nur 400.000 Datensätze aber immerhin.
+* [In dem Artikel geht es um den Dieselmotor aber ich finde das Bild von der Arktis 1980 zu 2012 viel spannenden.](https://www.heise.de/tp/features/Der-Dieselmotor-ist-tot-3783701.html)
