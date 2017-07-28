@@ -34,3 +34,5 @@
 * [Der Digitalcourage e.V. klagt vor dem Bundesverfassungsgericht gegegen den Staatstrojaner, helft mit!.](https://www.heise.de/newsticker/meldung/Bundesverfassungsgericht-Digitalcourage-klagt-gegen-Staatstrojaner-3785288.html)
 * [Die Eurosolar hat einmal die großen Parteien zu ihrer Wahllügen bezüglich der erneuerbaren Energien gefragt.](http://www.sonnenseite.com/de/politik/antworten-auf-energiepolitische-wahlpruefsteine-zur-bundestagswahl-2017.html)
 * [Nein? Doch! Oh? - In den USA werden mittlerweile soviele "Painkiller" gefressen, dass es die Menschen kaum noch auf Arbeit schaffen.](https://www.heise.de/tp/features/Opioid-Epidemie-wirkt-sich-auf-US-Wirtschaft-aus-3785361.html)
+* [Es gibt ein Kartenspiel mit dem Namen "Save The Planet" durch das man spielend lernt den Planeten zu retten :-O.](https://opensource.com/article/17/7/save-planet-board-game)
+* [Mehr unruhe in Pakistan dank den Panama Papers - und schon überlegt man nicht, ob diese Papers bewusst veröffentlicht wurden um die Region dort zu destabilisieren.](https://blog.fefe.de/?ts=a785f110)
