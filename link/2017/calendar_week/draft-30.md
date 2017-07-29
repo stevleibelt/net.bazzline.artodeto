@@ -44,3 +44,5 @@
 * [444 Milliarden Euro Lobbyförderung für Umweltverschmutzende Energieproduktion durch den Steuerzahl belastet den Sozialstaat (also auch die Steuerzahler) mit rund 2.758 Milliarden Euro.](http://www.sonnenseite.com/de/politik/wie-mit-steuergeldern-gesundheitsschaedliche-industrien-gefoerdert-werden.html) - Große Umverteilung von Steuergeldern die Krebs und frühen Tod fördern.
 * [TrueOS ist jetzt komplett auf OpenRC gewechselt.](https://www.trueos.org/blog/milestone-complete-openrc-conversion/)
 * [Unser-Korn.de - Die Webermühle aus Sachsen zeigt wie nachaltige und regionale Backwaren entstehen - sehr gut, das Brotmehl ist ein Vollkornmehr, kein Auszugsmehl.](http://unser-korn.de/)
+* [Ölkonzerne und Stromversorger wusste dass CO2 Ausstoß mist ist ... seit 1968.](https://blog.fefe.de/?ts=a783cc78) - Sie haben trotzdem weiter gemacht.
+* [Seitdem google gegen "Fake-News" vorgeht, brechen die Besucherzahlen von den nicht Mainstreammedien weg.](https://blog.fefe.de/?ts=a783cba1) - So wie es die Regierung auch gern will.
