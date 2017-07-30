@@ -46,3 +46,4 @@
 * [Unser-Korn.de - Die Webermühle aus Sachsen zeigt wie nachaltige und regionale Backwaren entstehen - sehr gut, das Brotmehl ist ein Vollkornmehr, kein Auszugsmehl.](http://unser-korn.de/)
 * [Ölkonzerne und Stromversorger wusste dass CO2 Ausstoß mist ist ... seit 1968.](https://blog.fefe.de/?ts=a783cc78) - Sie haben trotzdem weiter gemacht.
 * [Seitdem google gegen "Fake-News" vorgeht, brechen die Besucherzahlen von den nicht Mainstreammedien weg.](https://blog.fefe.de/?ts=a783cba1) - So wie es die Regierung auch gern will.
+* [Eine schöne Zusammenfassung von dem gefühlten Verhalten der heutigen Politiker - Sie sehen dem Dienst am Volk als Dienst an der Industrie und dem Kapital.](https://www.maskenfall.de/?p=12001)
