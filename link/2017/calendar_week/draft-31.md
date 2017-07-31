@@ -1,0 +1,4 @@
+* [Noch gibt es in der ZDF-Mediathek eine Dokumentation mit dem Titel "Verstrahlt in alle Ewigkeit - Endlager verzweifelt gesucht".](http://www.sonnenseite.com/de/tipps/planet-e.-verstrahlt-in-alle-ewigkeit-endlager-verzweifelt-gesucht.html)
+* [Ab dem 02.08.2017 nutzt die Weltbevölkerung wohl mehr Rohstoffe als die Erde nachwachsen lassen kann.](http://www.sonnenseite.com/de/zukunft/erdueberlastungstag-am-2.-august-sind-natuerliche-ressourcen-aufgebraucht.html)
+* [Russland verbietet VPN's.](http://www.reuters.com/article/us-russia-internet-idUSKBN1AF0QI) - Mal schaun wann die CDU/CSU und SPD das verbieten.
+* [In Honolulu kostet es ab dem 25.10.2017 Geld, wenn man beim Überqueren der Straße das Mobilfunktelefon nutzt.](https://www.golem.de/news/honolulu-strafe-fuer-handynutzung-auf-der-strasse-1707-129204.html)
