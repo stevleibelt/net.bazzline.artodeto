@@ -28,3 +28,5 @@
 * [Reise in den Herbst - Ein Dokumentarfilm von Martin Keßler über die Wahlen in Europa im Jahr 2017 und die politische Lage/Spannung.](http://new.neuewut.de/)
 * [Die Wetterdaten von Deutschland sind jetzt endlich Open Data.](https://www.golem.de/news/deutscher-wetterdienst-wetterdaten-sind-jetzt-open-data-1708-129258.html)
 * [Wie schlimm ist das eigentlich mit den Grenzüberschreitungen der Abgaswerte? Kein neuer Motor ist besser als ein alter - bis zum 17-fachen wurden die Grenzwerte überschritten.](https://blog.fefe.de/?ts=a77f739a)
+* [Die deutschen Automobilehersteller wollen sich freikaufen und die Bevölkerung wird darauf eingeschworen.](https://www.golem.de/news/diesel-gipfel-mobilitaetsfonds-und-software-update-statt-neuer-hardware-1708-129271.html)
+* [Amazon erweitert ihre Rückgabebedinungen in den USA auf dem Marketplace - weniger Müll wird verkauft werden.](https://blog.fefe.de/?ts=a77f3ab4)
