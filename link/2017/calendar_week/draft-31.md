@@ -24,3 +24,7 @@
 * [Die Nato macht Übungen und Manöver überall, aber wenn Russland einmal eine Übung mit 10.000 Personen macht, schreibt die NATO-Presse gleich "100.000 Russen auf dem Weg in die EU".](https://www.heise.de/tp/features/Wer-hat-Angst-vor-dem-russischen-Manoever-Zapad-2017-3789970.html) - Das ist wie bei Kindern, bis einer schreit.
 * [Ökoloischer Irrsinn "Made In The USA" - da wird die Ukraine destabilisiert um US-Amerikanische Kohle nach Europa zu verkaufen ... die mit großen Schiffen über den Ozean kommt.](https://www.heise.de/tp/features/Ukraine-US-Lieferungen-sollen-Donbass-Kohle-ersetzten-3789957.html)
 * [MythTV wurde in der Version 29.0 veröffentlicht.](https://www.pro-linux.de/news/1/25003/mythtv-290-freigegeben.html)
+* [Kurze Auffrischung, sieben Fehler die auch du im Leben oder beim Entwickeln machst.](https://opensource.com/article/17/8/mistakes-open-source-avoid)
+* [Reise in den Herbst - Ein Dokumentarfilm von Martin Keßler über die Wahlen in Europa im Jahr 2017 und die politische Lage/Spannung.](http://new.neuewut.de/)
+* [Die Wetterdaten von Deutschland sind jetzt endlich Open Data.](https://www.golem.de/news/deutscher-wetterdienst-wetterdaten-sind-jetzt-open-data-1708-129258.html)
+* [Wie schlimm ist das eigentlich mit den Grenzüberschreitungen der Abgaswerte? Kein neuer Motor ist besser als ein alter - bis zum 17-fachen wurden die Grenzwerte überschritten.](https://blog.fefe.de/?ts=a77f739a)
