@@ -4,3 +4,6 @@
 * [Ein Artikel der dir Buchgeld und Bargeld erklärt.](http://npr.news.eulu.info/2017/08/07/eu-bankrun-das-geld-gehoert-dir-aber-ich-geb-es-dir-nicht/?pk_campaign=feed&pk_kwd=eu-bankrun-das-geld-gehoert-dir-aber-ich-geb-es-dir-nicht) - Letzteres ist kaum vorhanden und verschwindend gering.
 * [Dokumentiere bevor du mit der Entwicklung anfängst! Warum? Das wird dir hier erklärt.](https://opensource.com/article/17/8/doc-driven-development)
 * [Was Microsoft mit Windows im Schilde führt - Windows S für "mehr Werbung und ich bestimme was du machst".](https://www.golem.de/news/windows-10-s-im-test-das-s-steht-fuer-schlechtes-marketing-1708-129318.html)
+* [Ist die Auflösung der Berufsbezeichnungen (Admin, Tester, Entwickler, Projekt-Manager hin zu DevOp/Testdrivendevelopment/Agile-Konzept) der erste Weg zur Gleichmachung und damit zum Großziel "ersetzen durch KI" selbst?](https://blog.fefe.de/?ts=a776d859)
+* [SteamOS wurde in der Version 2.121 veröffentlicht.](https://www.pro-linux.de/news/1/25019/steamos-2121-stabil-ver%C3%B6ffentlicht.html)
+* [Was passiert wenn man die Arbeitnehmer als Ressource ansieht? Die Arbeitnehmer sehen den Arbeitgeber als Geldmaschine ohne Loyalität an.](https://blog.fefe.de/?ts=a77687ae) - Niemand kann sich auf keinen verlassen und jeder kämpft alleine.
