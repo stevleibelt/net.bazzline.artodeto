@@ -16,3 +16,5 @@
 * [Nextcloud wurde in der Version 12.0.1 veröffentlicht.](https://nextcloud.com/blog/nextcloud-12.0.1-is-here/)
 * [Egal wie komisch das Verhalten des Anderen ist, im Herzen will er immer etwas Gutes tun.](https://blog.fefe.de/?ts=a7775b08)
 * [Das Orange Pi 2 G kostet rund 20 Euro und ist wohl ein richtiges Android.](https://www.golem.de/news/orange-pi-2g-iot-ausprobiert-wir-bauen-uns-ein-20-euro-smartphone-1708-129200.html)
+* [Die Gesellschaft für Freiheitsrechte legt in Karlsruhe Klage gegen den "Bayern Trojaner" ein.](https://www.heise.de/newsticker/meldung/Verfassungsbeschwerde-gegen-Bayerntrojaner-und-ausgeweitete-Vorratsdatenspeicherung-3795880.html)
+* [Firefox wurde in der Version 55 veröffentlicht.](https://www.pro-linux.de/news/1/25026/firefox-55-freigegeben.html)
