@@ -10,3 +10,9 @@
 * [Die magische Hand des Marktes in Aktion, Intel macht Milliarden Gewinne und investiert so wenig in Forschung und Entwicklung, dass sie von AMD's Ryzen völlig überrascht sind.](https://www.golem.de/news/skylake-x-core-i9-7980xe-laeuft-nur-mit-4-4-ghz-1708-129353.html) - Mal schauen wem Intel dieses mal schmiert.
 * [Salamitaktikt bei der Vorratsdatenspeicherung nun auch auf EU-Ebene.](https://www.heise.de/newsticker/meldung/EU-Rat-will-alle-Optionen-fuer-neue-Vorratsdatenspeicherung-ausloten-3794945.html) - Man kann hier kein Meter gewinnen lassen, sonst kommt die nächste Gesetzt.
 * [Netzpolitik.org fasst noch einmal zusammen, warum Dokumente der Öffentlichkeit verschlossen bleiben.](https://netzpolitik.org/2017/das-bundesarchiv-und-die-informationsfreiheit-warum-dokumente-der-oeffentlichkeit-verschlossen-bleiben/)
+* [Hier wird euch erklärt wie ihr mit Ansible und nur mit SSH einen git webserver aufsetzt.](https://opensource.com/article/17/8/ansible-environment-management)
+* [Cantata, etwaig euer neuer MPD Client?](https://opensource.com/article/17/8/cantata-music-linux)
+* [Mit Keybase könnt ihr sicher kommunizieren.](https://keybase.io/)
+* [Nextcloud wurde in der Version 12.0.1 veröffentlicht.](https://nextcloud.com/blog/nextcloud-12.0.1-is-here/)
+* [Egal wie komisch das Verhalten des Anderen ist, im Herzen will er immer etwas Gutes tun.](https://blog.fefe.de/?ts=a7775b08)
+* [Das Orange Pi 2 G kostet rund 20 Euro und ist wohl ein richtiges Android.](https://www.golem.de/news/orange-pi-2g-iot-ausprobiert-wir-bauen-uns-ein-20-euro-smartphone-1708-129200.html)
