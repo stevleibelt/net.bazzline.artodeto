@@ -23,3 +23,7 @@
 * [Wayland wurde in der Version 1.14 und Weston in der Version 3.0 veröffentlicht.](https://www.pro-linux.de/news/1/25029/wayland-114-und-weston-30-freigegeben.html)
 * [Green Recorder wurde in der Version 3.0 veröffentlicht.](https://www.pro-linux.de/news/1/25028/green-recorder-30-freigegeben.html)
 * [Laut dem IMF verbraucht die Welt 6,5 Prozent des globalen Bruttoinlandsprodukts für die Subvention der fossilen Brennstoffe aus.](http://www.sonnenseite.com/de/wirtschaft/imf-65-prozent-des-globalen-bruttoinlandprodukts-fuer-subventionen-fossiler-brennstoffe.html) - Subventionen bedeutet also Steuergeld und dann kommen da noch weitere Ausgaben wegen Naturschutz und Krankenkasse hinzu, die durch die Umweltverschmutzung passieren - noch mehr Steuergelder.
+* [Gparted wurde in der Version 0.29 veröffentlicht.](http://www.phoronix.com/scan.php?page=news_item&px=GParted-0.29-Released)
+* [TISA? Ein Fremdwort bei ARD und ZDF.](https://propagandaschau.wordpress.com/2017/08/09/tisa-fuer-ard-und-zdf-ein-fremdwort/) - Ist ja auch nicht wichtig für das eigene Volk.
+* [Nein? Doch! Oh? - Die Verordnung zur energetischen Sanierung bringt fast nix für die Umwelt, dafüer treibt es aber die Mieten hoch.](http://www.berliner-zeitung.de/berlin/mietwohnungen-energetische-modernisierungen-sind-teuer---aber-wenig-effektiv-28137562) - Somit ist nun auch offensichtlich wer hier Lobbyarbeit geleistet hat.
+* [Wow, nun will auch Teletrust gegen den Staatstrojaner klagen.](https://www.golem.de/news/teletrust-it-sicherheitsverband-will-gegen-staatstrojaner-klagen-1708-129395.html)
