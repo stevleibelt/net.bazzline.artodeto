@@ -27,3 +27,7 @@
 * [TISA? Ein Fremdwort bei ARD und ZDF.](https://propagandaschau.wordpress.com/2017/08/09/tisa-fuer-ard-und-zdf-ein-fremdwort/) - Ist ja auch nicht wichtig für das eigene Volk.
 * [Nein? Doch! Oh? - Die Verordnung zur energetischen Sanierung bringt fast nix für die Umwelt, dafüer treibt es aber die Mieten hoch.](http://www.berliner-zeitung.de/berlin/mietwohnungen-energetische-modernisierungen-sind-teuer---aber-wenig-effektiv-28137562) - Somit ist nun auch offensichtlich wer hier Lobbyarbeit geleistet hat.
 * [Wow, nun will auch Teletrust gegen den Staatstrojaner klagen.](https://www.golem.de/news/teletrust-it-sicherheitsverband-will-gegen-staatstrojaner-klagen-1708-129395.html)
+* [Der Verkauf der Karten zum 34C3 hat begonnen.](https://tickets.events.ccc.de/34c3/intro/)
+* [Datenreichtum bei Carbon Black - deren Schlangenölsoftware kann man super zum abschnorscheln nutzen.](https://www.directdefense.com/harvesting-cb-response-data-leaks-fun-profit/)
+* [Die CDU hält mal wieder ihre eigenen Wahlversprechen nicht - gut, hier ist es nicht tragisch, die wollten 5 Milliarden Euro Steuergelder zu T-Systems schieben damit jede Schule mit Popel-Kupfer-DSL angeschlossen wird.](https://www.golem.de/news/digitalpaktd-kein-milliardenpaket-fuer-die-digitalisierung-an-schulen-1708-129400.html) - Mit 5 Milliarden könnte man auch einfach ein paar Lehrer mehr anstellen, oder Vollwertkost in den Schulen anbieten um das Gesundheitsystem zu entlasten.
+* [Picocms ist ein schönes kleines CMS das mit markdown arbeitet.](http://picocms.org/)
