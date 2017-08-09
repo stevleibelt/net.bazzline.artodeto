@@ -18,3 +18,5 @@
 * [Das Orange Pi 2 G kostet rund 20 Euro und ist wohl ein richtiges Android.](https://www.golem.de/news/orange-pi-2g-iot-ausprobiert-wir-bauen-uns-ein-20-euro-smartphone-1708-129200.html)
 * [Die Gesellschaft für Freiheitsrechte legt in Karlsruhe Klage gegen den "Bayern Trojaner" ein.](https://www.heise.de/newsticker/meldung/Verfassungsbeschwerde-gegen-Bayerntrojaner-und-ausgeweitete-Vorratsdatenspeicherung-3795880.html)
 * [Firefox wurde in der Version 55 veröffentlicht.](https://www.pro-linux.de/news/1/25026/firefox-55-freigegeben.html)
+* [Wieder ein Beweis das man seine Daten, Bilder, Töne, Gedanken bei sich lassen und genau auswählen soll, was man frei gibt - Anhand von Instagram-Bildern erkennt eine Software nun ob du in die Kategorie "Depression" fällst.](https://blog.fefe.de/?ts=a774f4fb) - Wie bei jeder Krankheit wird hier der ideal standard Mittelwert einer Krankheit genommen - das gefährliche daran ist, ein wenig am Quelltext gespielt und schon sind deine politischen Feinde auch depressiv.
+* [Bei Buzzfeed hat man die öffentlichen Flugdaten genutzt um Spionageflugzeuge zu identifizieren.](https://blog.fefe.de/?ts=a774d01d)
