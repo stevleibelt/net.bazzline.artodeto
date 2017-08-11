@@ -44,3 +44,6 @@
 * [Das AKW-Fukushima hat man dann mal auf einem ehemaligen Militärflughafen gebaut der im zweiten Weltkrieg schön zugebombt wurde - Blindgänger en mass.](https://blog.fefe.de/?ts=a772a3fd) - Deswegen wurde dort auch das AKW gebaut, weil das Grundstück billig ist.
 * [Die Poison Papers sind eine Ansammlung von historischen Dokumenten die zeigt das sowohl die Industrie wie auch die Behörden wissen was für eine Giftpampe sie da verbreiten.](https://www.heise.de/tp/features/Poison-Papers-Schatztruhe-voll-toxischer-Geheimnisse-3796738.html)
 * [Dokumente über mehrere Standorte synchronisieren.](https://www.pro-linux.de/artikel/2/1895/papierloses-b%C3%BCro-dokumente-%C3%BCber-mehrere-standorte-synchronisieren.html)
+* [Erneut ein Weckruf an alle Politiker, die Chemieindustrie macht uns unsere Böden und damit unser Wasser und unsere Nahrung kaputt. Warum immer ein Gülletraktor gezeigt wird, verstehe ich nicht, die Chemiebuden und Metallverarbeitungsbuden sind das deutlich größere Übel.](http://www.sonnenseite.com/de/umwelt/wasser-schuetzen-kosten-sparen.html)
+* [Git, Subversion und Mercurial haben alle einen schweren Fehler.](https://blog.fefe.de/?ts=a77203c6)
+* [Man ist jetzt soweit Malware in die DNA zu bauen die aktiviert wird, wenn ein Lesegerät darüber geht.](https://www.wired.com/story/malware-dna-hack/)
