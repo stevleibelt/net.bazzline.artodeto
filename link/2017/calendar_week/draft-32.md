@@ -47,3 +47,7 @@
 * [Erneut ein Weckruf an alle Politiker, die Chemieindustrie macht uns unsere Böden und damit unser Wasser und unsere Nahrung kaputt. Warum immer ein Gülletraktor gezeigt wird, verstehe ich nicht, die Chemiebuden und Metallverarbeitungsbuden sind das deutlich größere Übel.](http://www.sonnenseite.com/de/umwelt/wasser-schuetzen-kosten-sparen.html)
 * [Git, Subversion und Mercurial haben alle einen schweren Fehler.](https://blog.fefe.de/?ts=a77203c6)
 * [Man ist jetzt soweit Malware in die DNA zu bauen die aktiviert wird, wenn ein Lesegerät darüber geht.](https://www.wired.com/story/malware-dna-hack/)
+* [Mit ReMap für eine Abfallvermeidung - Zumindest in Berlin ist das verfügbar.](http://www.sonnenseite.com/de/umwelt/abfallvermeidung-leicht-gemacht.html)
+* [Eine WDR-Mitarbeiterin packt aus und erzählt wie die öffentlich rechtlichen Rundfunkanstallten zu Propagandazwecken genutzt werden.](https://propagandaschau.wordpress.com/2017/08/11/wdr-whistleblowerin-erklaert-die-mechanismen-hinter-der-propaganda-der-ard/)
+* ["Sozialistische Staaten, die Widerstand leisten und kapitalistische Globalisierung"](http://npr.news.eulu.info/2017/08/11/sozialistische-staaten-die-widerstand-leisten-und-kapitalistische-globalisierung/?pk_campaign=feed&pk_kwd=sozialistische-staaten-die-widerstand-leisten-und-kapitalistische-globalisierung)
+* [2016 oder wie die Welt ihren Auspuff vergrößert hat.](https://www.heise.de/newsticker/meldung/Im-Jahr-2016-brachen-etliche-Klimarekorde-3797940.html)
