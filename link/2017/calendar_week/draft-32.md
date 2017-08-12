@@ -53,3 +53,4 @@
 * [2016 oder wie die Welt ihren Auspuff vergrößert hat.](https://www.heise.de/newsticker/meldung/Im-Jahr-2016-brachen-etliche-Klimarekorde-3797940.html)
 * ["There’s not a single exception. All screen activities are linked to less happiness, and all nonscreen activities are linked to more happiness."](https://blog.fefe.de/?ts=a773687f)
 * [Die Netzbetreiber finden das Messverfahren der Bundesnetzagentur schlecht.](https://www.heise.de/newsticker/meldung/Netzbetreiber-lehnen-geplante-neue-Breitbandmessung-als-voellig-ungeeignet-ab-3798415.html) - Also muss es gut sein.
+* [Matt Taibbi erklärt LIBOR.](https://blog.fefe.de/?ts=a771cae4) - LIBOR ist [London Interbank Offered Rate](https://de.wikipedia.org/wiki/London_Interbank_Offered_Rate).
