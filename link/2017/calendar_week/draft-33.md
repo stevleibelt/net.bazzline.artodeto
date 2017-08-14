@@ -1,0 +1,6 @@
+* [Internet Of Shit - ein Hersteller von WiFi-Türschlössern zerstört sein System durch ein automatisches Softwareupdate.](https://www.heise.de/newsticker/meldung/Fehlerhaftes-Firmware-Update-legt-smarte-Tuerschloesser-lahm-3798706.html)
+* [Cambridge hat sich mit dem Thema "wo sind die anderen Planeten denn nun?" beschäftigt.](https://blog.fefe.de/?ts=a76e12f7) - Das Resultat, sobald sie genug entwickelt waren, habe sie sich selbst umgebracht (Atombomben, Umweltzerstörung etc.).
+* [In Chemnitz wird ein Mehrfamilienhaus gebaut, dass zu 50 Prozent durch die Sonne beheitzt werden soll.](http://www.sonnenseite.com/de/wirtschaft/neues-mehrfamilien-sonnenhaus-projekt-in-chemnitz.html)
+* [Plastik macht unsere Welt kaputt, schaut auch mal in euren Kleiderschrank was da alle aus Plasik ist.](http://www.sonnenseite.com/de/umwelt/synthetik-kleidung-bedroht-die-weltmeere.html)
+* [Debian in 20 Jahren? Matthew Garrett regt zum Nachdenken an.](https://www.pro-linux.de/news/1/25040/matthew-garrett-%C3%BCber-debians-zukunft.html)
+* [NEET ist eine wichtige Kennzahl, mit deren Hilfe man die Zukunft der einzelnen Länder abschätzen kann.](https://www.heise.de/tp/features/Eurostat-Die-abgehaengte-Jugend-in-EU-Staaten-3798969.html) - NEET steht für "Not in Employment, Education or Training", also Menschen, die keine Ausbildung, Praktikum oder eine Anstellung haben.
