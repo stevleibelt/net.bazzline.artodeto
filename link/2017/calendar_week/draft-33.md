@@ -26,3 +26,5 @@
 * [Hier gibt es Ratschläge wie man gute Fehlermeldungen schreibt.](https://opensource.com/article/17/8/write-effective-error-messages) - Für mich habe ich mitgenommen, dass sie kurz und nicht beschuldigend sind.
 * [Es gibt freie Pläne wie man einen Bücherscanner nachbauen kann.](https://www.heise.de/make/meldung/Automatischer-Buchscanner-3D-Konstruktionsdaten-zum-Gratis-Download-3802644.html)
 * [Maersk jammert wei sie an der IT gespart haben und die Rechnung bekommen habe.](https://www.heise.de/newsticker/meldung/NotPetya-Maersk-erwartet-bis-zu-300-Millionen-Dollar-Verlust-3804688.html) - Mimimi
+* [Passt auf den "Schmuck" eurer Mitmenschen auf - es gibt Menschen, die meinen es ist toll ihren ganzen Alltag für Big Brother aufnehmen zu wollen.](https://www.golem.de/news/frontrow-halskette-als-kamera-zum-dauerfilmen-1708-129530.html)
+* [Der Strom- und Gasanbieter Naturstrom bietet ein Pachtvertrag für 18 Jahre an und übernimmt die Anschaffung, Installation and Wartung von Solar- und Speicheranlagen für euch.](http://www.sonnenseite.com/de/energie/energiewende-fuer-zuhause.html)
