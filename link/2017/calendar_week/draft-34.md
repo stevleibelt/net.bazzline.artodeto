@@ -2,3 +2,6 @@
 * [Finanzen mit LibreOffice geregelt kriegen? Hier wird dir erklärt wie du das Schritt für Schritt hinbekommst.](https://opensource.com/article/17/8/budget-libreoffice-calc)
 * [Hier gibt es einen schnellen Einstieg in Imagemagick.](https://opensource.com/article/17/8/imagemagick)
 * [Was ist Foreman und wozu ist das gut?](https://opensource.com/article/17/8/system-management-foreman)
+* [Nach dem Krieg/Feind ist vor dem Krieg/Feind - falls ihr euch wundert warum es immer neue Feinde gibt.](http://www.neopresse.com/politik/usa/amerikas-geliebte-gegner-ein-staendig-wechselndes-aufgebot-offizieller-feinde/) - Es ist ein einfacher Wirtschaftsmotor und die einfachste Möglichkeit Geld vom Bürger über Steuern und Militärausgabe in private Hände (die Rüstungsfirmen) zu verschieben.
+* [Datenreichtum beim amazons S3 - Groupize aus Bosten speicher seine Daten dort.](https://threatpost.com/meeting-and-hotel-booking-providers-data-found-in-public-amazon-s3-bucket/127542/)
+* [Der Zerstörer der USA mit dem Namen John S. McCain ist in der Nähe von Singapur in einen Tanker gefahren. Dabei sind 10 Matrosen über Board gegangen.](http://www.nbcnews.com/news/world/navy-destroyer-uss-john-s-mccain-collides-merchant-ship-east-n794386) - Da fragt man sich, wie das passieren kann.
