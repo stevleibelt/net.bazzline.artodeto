@@ -26,3 +26,5 @@
 * [Ab September gibt der Wendelstein 7-X "Vollgas".](https://www.heise.de/newsticker/meldung/Kernfusionsexperiment-Wendelstein-7-X-kommt-in-bedeutende-Phase-3811367.html) - [Hier](https://www.heise.de/forum/heise-online/News-Kommentare/Kernfusionsexperiment-Wendelstein-7-X-kommt-in-bedeutende-Phase/Re-Wenn-das-klappt/posting-30920728/show/) gibt es einen Kommentar der eine grobe Zeitleise skizziert.
 * [Mit dbus-broker schickt sich eine neue Implementierung an den DBus von Linux zu beerben.](https://www.pro-linux.de/news/1/25079/dbus-broker-erfindet-dbus-neu.html)
 * [Brasilien gibt eine Naturpark mit der Fläche größer als Dänemark frei um den Boden auszubeuten.](https://blog.fefe.de/?ts=a7607b26) - Nachrichten wie diese machen mich traurig.
+* [Perconas Monitoring and Management wurde in der Version 1.2.2 veröffentlicht.](https://www.percona.com/blog/2017/08/23/percona-monitoring-management-1-2-2-now-available/)
+* [Perconas MySQL Server wurde in der Version 5.5.37-38.9 veröffentlicht.](https://www.percona.com/blog/2017/08/23/percona-server-for-mysql-5-5-57-38-9-is-now-available/)
