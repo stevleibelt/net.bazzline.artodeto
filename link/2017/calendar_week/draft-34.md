@@ -28,3 +28,5 @@
 * [Brasilien gibt eine Naturpark mit der Fläche größer als Dänemark frei um den Boden auszubeuten.](https://blog.fefe.de/?ts=a7607b26) - Nachrichten wie diese machen mich traurig.
 * [Perconas Monitoring and Management wurde in der Version 1.2.2 veröffentlicht.](https://www.percona.com/blog/2017/08/23/percona-monitoring-management-1-2-2-now-available/)
 * [Perconas MySQL Server wurde in der Version 5.5.37-38.9 veröffentlicht.](https://www.percona.com/blog/2017/08/23/percona-server-for-mysql-5-5-57-38-9-is-now-available/)
+* [Drei Python-IDEs werden hier vorgestellt.](https://opensource.com/resources/python/ides) - Eric kannte ich noch nicht, PyCharm natürlich schon.
+* [Thoughtworks wurde von einer Investmentbude aufgekauft - damit ists dann wohl vorbei mit der tollen Firma.](https://www.golem.de/news/roy-singham-investmentunternehmen-kauft-soziale-it-beratung-thoughtworks-1708-129666.html)
