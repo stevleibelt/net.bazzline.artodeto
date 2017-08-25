@@ -27,7 +27,6 @@
 * [Mit dbus-broker schickt sich eine neue Implementierung an den DBus von Linux zu beerben.](https://www.pro-linux.de/news/1/25079/dbus-broker-erfindet-dbus-neu.html)
 * [Brasilien gibt eine Naturpark mit der Fläche größer als Dänemark frei um den Boden auszubeuten.](https://blog.fefe.de/?ts=a7607b26) - Nachrichten wie diese machen mich traurig.
 * [Perconas Monitoring and Management wurde in der Version 1.2.2 veröffentlicht.](https://www.percona.com/blog/2017/08/23/percona-monitoring-management-1-2-2-now-available/)
-* [Perconas MySQL Server wurde in der Version 5.5.37-38.9 veröffentlicht.](https://www.percona.com/blog/2017/08/23/percona-server-for-mysql-5-5-57-38-9-is-now-available/)
 * [Drei Python-IDEs werden hier vorgestellt.](https://opensource.com/resources/python/ides) - Eric kannte ich noch nicht, PyCharm natürlich schon.
 * [Thoughtworks wurde von einer Investmentbude aufgekauft - damit ists dann wohl vorbei mit der tollen Firma.](https://www.golem.de/news/roy-singham-investmentunternehmen-kauft-soziale-it-beratung-thoughtworks-1708-129666.html)
 * [Hier wird der Bürger wieder für dumm verkauft, da wird ein Seeschiff als "effizient" beschrieben, weil es LED's statt Glühbirnen etc. nutzt.](http://www.sonnenseite.com/de/mobilitaet/hybrid-faehre-spart-zwei-millionen-kilowattstunden-pro-jahr.html) - Ich fühle mich beim lesen verarscht, solange die mit [Schweröl](https://de.wikipedia.org/wiki/Schwer%C3%B6l) ist alles andere vertane Liebesmühe.
@@ -36,3 +35,5 @@
 * [Und wieder etwas mehr Zensur, linksunten.indymedia.org wurde geschlossen weil es der CDU nicht gefällt.](https://blog.fefe.de/?ts=a7612f16) - Da gab es gleich das volle "Schaut, wir pissen euch richtig an, wenn ihr gegen uns seit"-Programm mit Hausdurchsuchung, Beschlagnahmung etc.
 * [Das DNS System zensiert man im übrigen auch gerne.](https://www.heise.de/newsticker/meldung/Studie-So-heftig-wird-das-Domain-Name-System-manipuliert-3812266.html)
 * [Wie hat das BMI die Webseite linksunten.indymedia.org geschlossen? Sobald hinter einer Webseite mehr als eine Person steht, sehen sie dies als Verein an und ein Verein kann verboten werden.](https://blog.fefe.de/?ts=a75ec695)
+* [Warum könnte indymedia.indymedia.org noch heruntergefahren worden sein? Weil sie über die NSU geschrieben haben während die Akten dazu schon geschredert wurden?](https://twitter.com/MarcoFuchs74/status/901001611258073089)
+* [Perconas MySQL Server wurde in der Version 5.5.37-82.2 veröffentlicht.](https://www.percona.com/blog/2017/08/25/percona-server-for-mysql-5-6-37-82-2-is-now-available/)
