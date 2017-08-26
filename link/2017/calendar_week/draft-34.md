@@ -37,3 +37,6 @@
 * [Wie hat das BMI die Webseite linksunten.indymedia.org geschlossen? Sobald hinter einer Webseite mehr als eine Person steht, sehen sie dies als Verein an und ein Verein kann verboten werden.](https://blog.fefe.de/?ts=a75ec695)
 * [Warum könnte indymedia.indymedia.org noch heruntergefahren worden sein? Weil sie über die NSU geschrieben haben während die Akten dazu schon geschredert wurden?](https://twitter.com/MarcoFuchs74/status/901001611258073089)
 * [Perconas MySQL Server wurde in der Version 5.5.37-82.2 veröffentlicht.](https://www.percona.com/blog/2017/08/25/percona-server-for-mysql-5-6-37-82-2-is-now-available/)
+* ["[...] Aktive Öl- und Gasquellen vermindern die Luft- und Wasserqualität und kontaminieren den Boden. Zusätzlich erhöht der Abbau die Licht- und Lärmbelästigung. [...]"](http://www.sonnenseite.com/de/energie/oel-und-gasfoerderung-schaedigt-176-mio.-amerikaner.html)
+* [Fefe streichelt mein armes Gemüt mit etwas "lasst die Natur mal machen, dann holt sie sich ihre Welt wieder zurück."](https://blog.fefe.de/?ts=a75f8063)
+* [Sticklyst ist eine Beispielanwendung für das Web die auf dem KDE-Framework aufbaut.](https://dantti.wordpress.com/2017/08/25/announcing-sticklyst-leveraging-kde-frameworks-on-the-web/)
