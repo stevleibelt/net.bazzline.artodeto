@@ -11,3 +11,8 @@
 * [Mit DeepL gibt es jetzt einen Konkurenten zu googles translate.](https://www.deepl.com/translate)
 * [Was ist eigentlich CephFS?](https://opensource.com/article/17/8/ceph)
 * [D3 in Angular.js? Hier wird gezeigt wie es geht.](https://opensource.com/article/17/8/d3-angular)
+* [Cairo wurde in der Version 1.15.8 veröffentlicht.](http://www.phoronix.com/scan.php?page=news_item&px=Cairo-1.15.8-Colored-Emoji)
+* [Doberindt zeigt wie realitäts- und volksfern die CDU/CSU und SPD ist - w#hrend er sich seine Zahlen und Fakten einfach ausdenkt, ist die Realität schon Monate früher abgebogen.](https://blog.fefe.de/?ts=a75b5fa2)
+* [Go wurde in der Version 1.9 veröffentlicht.](https://www.pro-linux.de/news/1/25094/go-19-erschienen.html)
+* [Wo kann man noch Elektrosmog aussenden? Im Weltmeer, wir geben uns ja Mühe, aber es will und will nicht kaputt gehen - also probieren wir es jetzt mal mit Elektrosmog.](https://www.golem.de/news/unbemannte-u-boote-us-marine-will-tauchroboter-drahtlos-laden-1708-129732.html)
+* [Juchee, Intels NSA-Tool "Management Engine" kann man scheinbar doch komplett abschalten.](https://www.heise.de/security/meldung/Intel-Management-Engine-ME-weitgehend-abschaltbar-3814631.html)
