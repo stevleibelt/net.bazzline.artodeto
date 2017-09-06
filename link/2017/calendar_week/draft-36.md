@@ -36,3 +36,7 @@
 * [Gefiltertes Internet wird nun wieder mit "YouTube Kids" versucht schmackhaft zu machen.](https://www.heise.de/newsticker/meldung/YouTube-Kids-Video-App-fuer-Kinder-startet-in-Deutschland-3822951.html) - Zensur bleibt Zensur.
 * [Erneut Datenreichtum bei der MongoDB gefunden.](https://www.heise.de/security/meldung/Hacker-Angriffe-auf-MongoDB-treffen-fast-27-000-Datenbanken-3822955.html)
 * [Die Franzosen erneuern ihr Arbeitsrecht.](https://www.lto.de/recht/kanzleien-unternehmen/k/reform-arbeitsrecht-frankreich-die-umwaelzung-deutschland-wirtschaft/) - Da kann man Nach-Agenda-2010-Land nur bewundern schauen.
+* [LXC wurde in der Version 2.1.0 veröffentlicht.](https://linuxcontainers.org/lxc/news/)
+* ["[...] VoteBuddy bringt diese Menschen zusammen und schafft durch Stimmentausch eine Win-Win-Situation für alle Beteiligten. [...] Nach deutschem Recht ist Stimmentausch illegal. Unser Geschäftssitz ist daher in New York und wir betreiben die Webseite auf Servern in den USA. [...]"](https://www.votebuddy.de/fragen) - WTF? Danke [fefe](https://blog.fefe.de/?ts=a74ed1e4)
+* [Der Linux Kernel 4.14 wird der nächste LTS Kernel.](http://kroah.com/log/blog/2017/09/06/4-dot-14-equals-equals-this-years-lts-kernel/)
+* ["[...] Werbebanner schürfen Bitcoins [...] Wenn Computerlaien im Landtag von Sachsen-Anhalt auf alles klicken, was wie ein Verweis aussieht, und dadurch Schadsoftware ins Netzwerk holen, nennt man das offenbar einen „Hackerangriff“. Verdammter Putin! [...]"](https://tuxproject.de/blog/2017/09/liegengebliebenes-vom-6-september-2017/)
