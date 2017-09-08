@@ -49,3 +49,7 @@
 * [Ihr seid alle Diebe! Das U-Boot aus Estland schlägt wieder zu.](https://blog.fefe.de/?ts=a74fba41)
 * [Der private Betreiber der A1 ist pleite und dies wird bis zum Ende der Wahl geheim gehalten.](https://www.jungewelt.de/artikel/317589.alle-beteiligten-haben-dichtgehalten.html)
 * [Ein Einsender hat Fefe mal eine Liste von Dingen geschickt, die CDU/CSU und SPD in den letzten vier Jahren verkackt hat.](https://blog.fefe.de/?ts=a74f4089)
+* [Es gibt jetzt eine Vagrant Box von Arch Linux.](https://bbs.archlinux.org/viewtopic.php?id=229798)
+* [Redhat hat mit AWX eine freie Version des Ansible Tower vorgestellt.](https://www.pro-linux.de/news/1/25132/awx-freies-projekt-zu-ansible-tower.html)
+* [Datenreichtum bei Equifax.](https://blog.fefe.de/?ts=a74cbb83)
+* [OpenShot wurde in der Version 2.4 veröffentlicht.](https://www.pro-linux.de/news/1/25129/video-editor-openshot-24-freigegeben.html)
