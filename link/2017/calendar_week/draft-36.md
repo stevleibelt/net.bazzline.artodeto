@@ -54,3 +54,7 @@
 * [Datenreichtum bei Equifax.](https://blog.fefe.de/?ts=a74cbb83)
 * [OpenShot wurde in der Version 2.4 veröffentlicht.](https://www.pro-linux.de/news/1/25129/video-editor-openshot-24-freigegeben.html)
 * [Mit Talos II könnt ihr euch einen PC kaufen, der vollständig frei ist.](https://www.fsf.org/blogs/licensing/support-the-talos-ii-a-candidate-for-respects-your-freedom-certification-by-pre-ordering-by-september-15)
+* [Dieter Hallervorden hat eine großartige Rede gegen Ramstein gehalten.](https://weltnetz.tv/video/1293-dieter-hallervorden-stopp-ramstein)
+* [>>[...] Den "Kampf gegen den Terror" machte der frühere Bundesdatenschutzbeauftragte Peter Schaar als Blaupause aus, um "alle möglichen Grundrechtseingriffe" bis hin zur Massenüberwachung einzuführen. [...] <<<](https://www.heise.de/newsticker/meldung/Demo-Freiheit-4-0-Wir-sind-ganz-nah-dran-an-Orwell-3825887.html)
+* ["[...] Die unterschätzte Tugend des Fressehaltens wird zunichte gemacht von der Werbebranche, für die immer und ausnahmslos gilt, dass nur Lautsein gewinnt[...]"](https://tuxproject.de/blog/2017/09/die-welt-ist-zu-laut/)
+* [Die Jetbrains-Toolbox läuft unter Arch Linux gerade nicht so dolle.](https://youtrack.jetbrains.com/issue/ALL-1947) - Zum Gl+ck gibt es eine [Lösung](https://aur.archlinux.org/packages/jetbrains-toolbox/#news) dafür.
