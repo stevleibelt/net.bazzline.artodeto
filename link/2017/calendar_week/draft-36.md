@@ -53,3 +53,4 @@
 * [Redhat hat mit AWX eine freie Version des Ansible Tower vorgestellt.](https://www.pro-linux.de/news/1/25132/awx-freies-projekt-zu-ansible-tower.html)
 * [Datenreichtum bei Equifax.](https://blog.fefe.de/?ts=a74cbb83)
 * [OpenShot wurde in der Version 2.4 veröffentlicht.](https://www.pro-linux.de/news/1/25129/video-editor-openshot-24-freigegeben.html)
+* [Mit Talos II könnt ihr euch einen PC kaufen, der vollständig frei ist.](https://www.fsf.org/blogs/licensing/support-the-talos-ii-a-candidate-for-respects-your-freedom-certification-by-pre-ordering-by-september-15)
