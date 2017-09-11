@@ -9,3 +9,4 @@
 * [Vagrant wurde in der Version 2 veröffentlicht.](https://www.heise.de/ix/meldung/Vagrant-erreicht-Level-2-3827147.html)
 * [Da es mit dem Internet of Shit so gut funktioniert und diese elenden polnischen Arbeitskräfte immer mehr Geld haben wollen, brauchen große Agrarfirmen auch viel Internet überall ... für ... für Drohnen etc.](https://www.golem.de/news/netzausbau-agrarverbaende-wollen-flaechendeckende-glasfaserversorgung-1709-129980.html)
 * [Zammad wurde in der Version 2.0 veröffentlicht.](https://www.pro-linux.de/news/1/25137/ticketsystem-zammad-in-version-20-erschienen.html)
+* [Auf fluter.de gibt es einen tollen Beitrag wie man als Gemeinschaft sein Miethaus, ja gar seine Straße, kaufen und damit dem Markt der Wegelagerei enreißen kann.](http://www.fluter.de/gemeinsam-gegen-gentrifizierung)
