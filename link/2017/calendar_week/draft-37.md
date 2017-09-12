@@ -10,3 +10,13 @@
 * [Da es mit dem Internet of Shit so gut funktioniert und diese elenden polnischen Arbeitskräfte immer mehr Geld haben wollen, brauchen große Agrarfirmen auch viel Internet überall ... für ... für Drohnen etc.](https://www.golem.de/news/netzausbau-agrarverbaende-wollen-flaechendeckende-glasfaserversorgung-1709-129980.html)
 * [Zammad wurde in der Version 2.0 veröffentlicht.](https://www.pro-linux.de/news/1/25137/ticketsystem-zammad-in-version-20-erschienen.html)
 * [Auf fluter.de gibt es einen tollen Beitrag wie man als Gemeinschaft sein Miethaus, ja gar seine Straße, kaufen und damit dem Markt der Wegelagerei enreißen kann.](http://www.fluter.de/gemeinsam-gegen-gentrifizierung)
+* [Das Erdbeben in Mexiko kann man aktuell noch nicht so recht erklären.](https://blog.fefe.de/?ts=a7490a62)
+* [Stanislaw Jewgrafowitsch Petrow ist gestorben.](https://www.heise.de/tp/news/Stanislaw-Jewgrafowitsch-Petrow-1939-2017-3827402.html)
+* [Tiny Core wurde in der Version 8.1. veröffentlicht.](https://www.pro-linux.de/news/1/25138/tiny-core-81-ver%C3%B6ffentlicht.html)
+* [Salamitaktik bei der Zitis, angeblich kaufen sie nichts auf dem Schwarzmarkt.](https://www.heise.de/newsticker/meldung/Chef-der-Entschluesselungsbehoerde-Zitis-Wir-kaufen-nichts-auf-dem-Schwarzmarkt-3828074.html) - Und alles was im Weltraum ist, zählt nicht ;-).
+* [Mercedes will den Datenreichtum und die Datenhehlerei seiner Käufer legalisieren.](https://www.heise.de/newsticker/meldung/Mercedes-Benz-Bank-startet-Kfz-Versicherung-mit-ueberwachtem-Fahrverhalten-3828583.html) - Leute, lasst den Scheiß und sagt einfach nein.
+* [Um die ewige Machtstellung von CDU/CSU und SPD für die Zukunft vorzubereiten, will man schon einmal die Wahlen digitalisieren.](https://www.golem.de/news/arne-schoenbohm-bsi-chef-will-digitalisierte-wahlen-1709-130008.html)
+* [Datenreichtum dank falscher Bluetooth-Implementierung.](https://www.golem.de/news/bluetooth-kritische-sicherheitsluecken-ermoeglichen-geraeteuebernahme-1709-130011.html)
+* [Das EU-Parlament möchte euch einfacher innerhalb der EU verfolgen indem sie ein "einheitliches Login" von den Steuerzahlern bezahlen lassen und WLAN für alle anbieten möchten.](https://www.heise.de/newsticker/meldung/EU-Parlament-stimmt-fuer-kostenloses-WLAN-an-oeffentlichen-Orten-3829488.html) - Statt einfach [freifunk](https://freifunk.net/) endlich gesetzlich zu legalisieren werden hier wieder Steuergelder verschwendet.
+* [KGraphViewer wurde in der Version 2.4.0 veröffentlicht.](http://jriddell.org/2017/09/12/kgraphviewer-2-4-0/)
+* [Wie kann man die Karriere im Team als Vorgesetzter ausbauen?](https://opensource.com/open-organization/17/9/own-your-open-career)
