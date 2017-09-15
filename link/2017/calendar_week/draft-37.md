@@ -34,3 +34,8 @@
 * [BlueZ wurde in der Version 5.47 veröffentlicht.](http://www.phoronix.com/scan.php?page=news_item&px=BlueZ-5.47-Released)
 * [CentOS wurde in der Version 7.4 veröffentlicht.](https://www.pro-linux.de/news/1/25150/centos-74-freigegeben.html)
 * [Pandoc, DocBook? Hier wird dir schnell etwas erklärt.](https://opensource.com/article/17/9/docbook)
+* [Digikam wurde in der Version 5.7 veröffentlicht.](https://www.pro-linux.de/news/1/25153/digikam-57-freigegeben.html)
+* [Profile, die sich für die AfD ausgeben, machen geschickte Werbung auf Hackfressenbuch und schon mögen es CDU/CSU und SPD nicht - ist das Beeinfluss der Menschen auf Hackfressenbuch doch im Moment noch wesentlich günstiger als über ARD/ZDF und die Presse.](https://www.golem.de/news/facebook-hetze-mit-system-1709-130075.html) - Zugleich zeigt es, nutzt kein Hackfressenbuch, redet lieber mit den Leute die real in eurer Nähe sind.
+* [Juchee, der Aufschwung ist da, von dem Muddi seit Jahren redet - als Verbrecher hat man am Ende des Monats mehr Netto vom Brutto als ein allgemeiner Arbeitnehmer.](https://www.heise.de/tp/features/Verbrechen-scheint-sich-fuer-untere-Einkommensschichten-zu-lohnen-3831081.html)
+* [Wieder ein Rekordjahr was die Produktion von Nahrungsmittel (Achtung Nahrungsmittel, nicht Lebensmittel - hier geht es nur um Industrieabfall) angeht, gleichzeitig steigt die Anzahl an hungernden Menschen - Kapitalismus in seiner Endform?](http://www.sonnenseite.com/de/politik/un-zahl-der-hungernden-steigt-um-38-millionen-trotz-rekordernten.html)
+* [X11 wurde 30 Jahre alt :-).](http://www.phoronix.com/scan.php?page=news_item&px=X11-Turns-30)
