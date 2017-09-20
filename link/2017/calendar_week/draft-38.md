@@ -12,3 +12,14 @@
 * [Fefe zeigt mit einem Link auf eine NDR Reportage und dem Tagesspiegel, dass die Entsozialisierung des Arbeitsmarktes von CDU/CSU und SPD (und den entsprechenden Parteien in anderen Ländern und der EU) gewollt ist.](https://blog.fefe.de/?ts=a73ede7e) - Man denkt, dass unsichere und schlecht bezahlte Jobs besser für den Konsum sind - wie gut das funktioniert kann man in den USA sehen, Kapitalismus im Endstadium.
 * [Die NSA nutzt ihre Fantasttrilliarden um massenweise Spezialhardware zu kaufen um Krypto zu knacken.](https://blog.fefe.de/?ts=a73ff836)
 * [Matrix ist ein Open Source (Server und Client!) und dezentralisiertes System zur Echtzeitkommunikation.](https://matrix.org/) - [Was ist die Matrix?](https://matrix.org/docs/guides/faq.html#what-is-matrix) wird [hier](https://matrix.org/docs/guides/faq.html#what-is-matrix) geklärt.
+* [tyssenkrup und Tata wollen ihre Stahlsparte zusammenlegen und 4000 Arbeitsplätze streichen.](http://www.tagesschau.de/wirtschaft/thyssen-tata-101.html) - [Fefe's Kommentar dazu.](https://blog.fefe.de/?ts=a73c6173).
+* [Redox OS wurde in der Version 0.3.3 veröffentlicht.](http://www.phoronix.com/scan.php?page=news_item&px=Redox-OS-0.3.3)
+* [Wenn sogar der EU-Rechnungshof für mehr Klimaschutz ist, kannst du dir vorstellen wie beschissen die Lage ist und werden wird.](https://www.heise.de/newsticker/meldung/EU-Rechnungshof-fordert-deutlich-mehr-Anstrengungen-zum-Klimaschutz-3836571.html)
+* [Nextcloud wurde in der Version 12.0.3 und 11.0.5 veröffentlicht.](https://nextcloud.com/blog/nextcloud-updates-12.0.3-11.0.5-are-here/)
+* [Stackoverflow zieht mit Hilfe seins Einkommensrechners mehr Personen auf ihre Jobsuche.](https://stackoverflow.com/jobs/salary)
+* [Backpage.com ist eine Inseratenseite.](http://www.backpage.com/)
+* [RocketChat](https://rocketchatlauncher.com/) und [Mattermost](https://about.mattermost.com/) sind wie Matrix Alternativen zum immer schlechter werdenden Skype.
+* [Besser kann ich es nicht erklären: "Abstraction is selective ignorance."](https://opensource.com/article/17/9/architecting-future)
+* [UI-Testing am Beispiel von Gnome erklärt.](https://opensource.com/article/17/9/paper-based-usability-testing)
+* [Perverser geht es immer - In den Niederlanden testet man gerade ein elektrisches Fangnetz.](https://www.heise.de/newsticker/meldung/Elektrifizierte-Fischerei-Neue-Elektronetze-fuer-Fischkutter-3835390.html) - Mir fallen dazu nur Sprüche wie "und dann treiben wir sie aus dem Haus mit Napalm, ganz Human." ein.
+* [Die Russen müssen jetzt schon Übungen für den Fall machen, dass die Nato Demokratie nach Weißrussland bringen will.](https://blog.fefe.de/?ts=a73f5564) - :-(
