@@ -36,3 +36,8 @@
 * [Hat Spanien fertig? Statt neutral zu verhandeln geht die Polizei gegen alles vor, was für die Unabhängigkeit für Katalonien ist.](https://blog.fefe.de/?ts=a73c0a0b)
 * [Java 9 wurde veröffentlicht.](https://www.heise.de/developer/meldung/Java-9-ist-fertig-3837080.html)
 * [Intels Management Engine wurde nun vollkommen geöffnet.](https://www.heise.de/security/meldung/Intel-Management-Engine-gehackt-3837239.html) - Verrückt, dass Intel Minix als OS nutzt. Nichts gegen Minix, es ist interessant aber die sind noch ein paar Major Releases vom Thema Sicherheit entfernt. [Hier](https://www.blackhat.com/eu-17/briefings/schedule/#how-to-hack-a-turned-off-computer-or-running-unsigned-code-in-intel-management-engine-8668) der Blackhat-Link.
+* [Hier hat jemand die fünf großen Browser mit Datenmüll beworfen und geschaut wie die Teile reagieren.](https://blog.fefe.de/?ts=a73acb09)
+* [Nun ist es per Gesetzt in den USA erlaubt Elektroschrott zu verkaufen ohne irgendetwas aktualisieren zu müssen.](https://blog.fefe.de/?ts=a73ad618)
+* [Günther Öttingers Lobbygelder fangen an zu wirken, die Standards sinken und sinken und sinken.](https://www.heise.de/newsticker/meldung/Gastbeitrag-EU-erschwert-Telefonanbieterwechsel-fuer-immer-Telekom-3837793.html)
+* [Da war wohl der Zensor pinkeln, VW-Chef Müller sagt in einem Interview wohl mehr als er sollte.](https://blog.fefe.de/?ts=a73a0e90)
+* [Samba wurde in der Version 4.7 veröffentlicht.](https://www.heise.de/ix/meldung/Fileserver-und-Domain-Controller-Samba-4-7-erschienen-3838204.html)
