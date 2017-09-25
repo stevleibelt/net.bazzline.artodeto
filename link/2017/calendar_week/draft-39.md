@@ -1,0 +1,3 @@
+* [Datenreichtumg bei Deloitte.](https://www.golem.de/news/big-four-kundendaten-von-deloitte-offenbar-gehackt-1709-130241.html)
+* [Unter dem Deckmantel der "humanitären Entwicklungsziele" wird das Erfassen von biometrischen Daten ab der Geburt weiter vorangetrieben.](https://www.heise.de/newsticker/meldung/Biometrie-Fortschritte-bei-der-digitalen-Identifizierung-von-Kinderfingern-und-verschleierten-3840690.html) - Ich hätte gern eine Ethikkommision für IT-Projekte.
+* [CDU/CSU und SPD haben es der Automobilindustrie auf den letzten Metern wirklich gut besorgt - Das fadenscheinige Software-Update bezahlt der Steuerzahler.](https://www.heise.de/newsticker/meldung/Diesel-Skandal-Autohersteller-koennen-Updatekosten-von-der-Steuer-absetzen-3841166.html)
