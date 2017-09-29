@@ -22,3 +22,6 @@
 * [Das Spring Framework wurde in der Version 5.0 veröffentlicht.](https://spring.io/blog/2017/09/28/spring-framework-5-0-goes-ga)
 * [Tails wurde in der Version 3.2 veröffentlicht.](https://www.pro-linux.de/news/1/25199/tails-32-freigegeben.html)
 * ["Privacy and individualism are things of the past, as is free speech and even free thought."](http://www.androidauthority.com/heres-already-living-1984-797996/)
+* [Wine wurde in der Version 2.18 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=Wine-2.18-Released)
+* [1,5 Prozent pro Jahr wollen die öffentlich Rechtlichen jetzt innerhalb der nächsten 10 Jahre einsparen.](https://www.heise.de/newsticker/meldung/ARD-und-ZDF-wollen-sparen-aber-nicht-auf-Kosten-des-Programms-3847557.html) - Leider sparen sie nicht an Quatsch wie [Daily Soaps, Magazine oder überteuerten Sport](https://www.heise.de/forum/heise-online/News-Kommentare/ARD-und-ZDF-wollen-sparen-aber-nicht-auf-Kosten-des-Programms/einfach-mal-das-ARD-Programm-von-heute/posting-31129359/show/) ein.
+* [Fefe bringt die verschobenen Grenzen von Softwareherstellern und deren Produkthaftung auf den Punkt.](https://blog.fefe.de/?ts=a730a422)
