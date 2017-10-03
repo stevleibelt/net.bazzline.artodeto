@@ -3,3 +3,9 @@
 * Android absichern? Wie wäre es mit der [AFWall+](https://www.kuketz-blog.de/afwall-wie-ich-persoenlich-die-android-firewall-nutze/)? - Hofft aber nicht, dass ihr damit alles sichert, [dafür ist Android nicht gedacht](https://blog.torproject.org/mission-impossible-hardening-android-security-and-privacy).
 * [Es sollen wohl fast 90 Prozent für die Abspaltung Kataloniens von Spanien sein.](https://www.heise.de/tp/features/Mehr-als-90-Prozent-fuer-die-Unabhaengigkeit-Kataloniens-von-Spanien-3848676.html) - Als Freund von "kleiner ist besser" bin ich gespannt was diese Entscheidung für Tragweiten hat.
 * [Krita wurde in der Version 3.3 veröffentlicht.](https://www.pro-linux.de/news/1/25203/krita-33-erschienen.html)
+* [Jetzt kriegen Firmen schon Preise, wenn sie die Privatsphäre der Menschen untergraben.](https://www.heise.de/newsticker/meldung/NEC-gewinnt-Ceatec-Award-fuer-Gesichtserkennungssystem-3849218.html)
+* [FreeBSD wurde in der Version 10.4 veröffentlicht.](https://lists.freebsd.org/pipermail/freebsd-announce/2017-October/001804.html)
+* [Schleswig-Holstein sagt "Bye, bye" zu Microsoft und Closed-Source.](https://www.heise.de/newsticker/meldung/Schleswig-Holstein-laeutet-Abschied-von-Microsoft-ein-3849115.html) - Hoffen wir, dass hier nicht auch wieder in 10 Jahren die Männer von Microsoft mit den dicken Geldkoffern ankommen.
+* [Ihr wollten schon immer mal eine netzwerkgesteuerter Infrarotfernbediehnung bauen? Hier wird euch erzähl wie ihr das macht.](https://opensource.com/article/17/10/giving-retro-electronics-new-life)
+* [Wie baue ich eine gute "README.md" Datei auf?](https://opensource.com/open-organization/17/10/readme-maturity-model)
+* [Im Moment scheint chrony wohl die sicherstes Wahl in Sachen Zeit-Server zu sein.](https://www.pro-linux.de/news/1/25204/sicherheit-von-freien-zeit-servern-chrony-schl%C3%A4gt-ntpd.html)
