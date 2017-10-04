@@ -9,3 +9,6 @@
 * [Ihr wollten schon immer mal eine netzwerkgesteuerter Infrarotfernbediehnung bauen? Hier wird euch erzähl wie ihr das macht.](https://opensource.com/article/17/10/giving-retro-electronics-new-life)
 * [Wie baue ich eine gute "README.md" Datei auf?](https://opensource.com/open-organization/17/10/readme-maturity-model)
 * [Im Moment scheint chrony wohl die sicherstes Wahl in Sachen Zeit-Server zu sein.](https://www.pro-linux.de/news/1/25204/sicherheit-von-freien-zeit-servern-chrony-schl%C3%A4gt-ntpd.html)
+* [Salamitaktik bei großen Konzernen, statt "nur" einer Milliarde Datenreichtum bei Yahoo sagt man nun, voller Datenreichtum.](https://www.golem.de/news/yahoo-mail-alle-yahoo-kunden-im-jahr-2013-gehackt-1710-130405.html) - Kein Wunder das viele Menschen lügen, wenn es einem die Prominenten so vorleben und damit davon kommen?
+* [Ihr wollt die BASH besser kennenlernen? Lets play a game.](https://cmdchallenge.com/)
+* [Die eGK der ersten Version ist jetzt nicht mehr gültig.](https://www.heise.de/newsticker/meldung/Erste-Generation-der-elektronischen-Gesundheitskarte-ist-ungueltig-3849656.html) - eGK? Das war doch Subvention für Bertelsmann, richtig? Genau, mit freundlichem Gruß von CDU/CSU und SPD.
