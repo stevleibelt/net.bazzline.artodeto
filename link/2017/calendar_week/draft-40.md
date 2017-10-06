@@ -24,3 +24,5 @@ alias deleteFilesOlderThan=net_bazzline_delete_files_older_tha2
 * [Hier gibt es eine schöne Liste mit Open-Source-Web-Email-Clients.](https://opensource.com/alternatives/gmail)
 * [Mit dem Spenden ist es wie mit dem Einkaufen, ihr helft der Welt global, wenn ihr euch lokal engagiert.](https://www.smarticular.net/lokal-spenden-geld-kleidung-zeit-hilfe/)
 * [PostgreSQL wurde in der Version 10.0 veröffentlicht.](https://www.postgresql.org/docs/10/static/release-10.html)
+* [Wohin kann es mit Deutschland gehen, wenn die Verrückten von CDU/CSU/SPD und die Grünen weiter die Bürgerrechte und den Datenschutz mit Füßen treten zeigt Ägypten. Dort wird der Datenreichtum der Bevölkerung genutzt, um sie zu verhaften - Homosexuelle und LGBTQ-Sympathisanten passen nicht ins Weltbild, als ab mit dem Kopf.](https://blog.fefe.de/?ts=a729dd1d)
+* [Eure Dokumentation ist schwer bis garnicht zu lesen? Hier werden euch sieben Todsünden präsentiert.](https://opensource.com/article/17/10/7-deadly-sins-documentation)
