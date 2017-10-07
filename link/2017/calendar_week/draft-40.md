@@ -26,3 +26,6 @@ alias deleteFilesOlderThan=net_bazzline_delete_files_older_tha2
 * [PostgreSQL wurde in der Version 10.0 veröffentlicht.](https://www.postgresql.org/docs/10/static/release-10.html)
 * [Wohin kann es mit Deutschland gehen, wenn die Verrückten von CDU/CSU/SPD und die Grünen weiter die Bürgerrechte und den Datenschutz mit Füßen treten zeigt Ägypten. Dort wird der Datenreichtum der Bevölkerung genutzt, um sie zu verhaften - Homosexuelle und LGBTQ-Sympathisanten passen nicht ins Weltbild, als ab mit dem Kopf.](https://blog.fefe.de/?ts=a729dd1d)
 * [Eure Dokumentation ist schwer bis garnicht zu lesen? Hier werden euch sieben Todsünden präsentiert.](https://opensource.com/article/17/10/7-deadly-sins-documentation)
+* [Datenreichtum bei Disqus - 17.5 Millionen Nutzerdaten wurden befreit.](https://www.heise.de/security/meldung/Disqus-Hack-17-5-Millionen-Nutzerdaten-im-Umlauf-3852092.html)
+* [Debian 9.2 wurde veröffentlicht.](https://www.debian.org/News/2017/20171007)
+* [Der Cliqz-Dreck den bald ein paar Mozilla Firefox Benutzer erhalten kommt vom Burda-Verlag.](https://blog.fefe.de/?ts=a726167b)
