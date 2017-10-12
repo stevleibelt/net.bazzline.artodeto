@@ -11,3 +11,9 @@
 * [Hans-Ingo Radatz beleuchtet die Katalonien-Spanien-Problematik einmal im ganzen.](https://www.peira.org/katalonienkrise-die-staats-nation-ist-das-problem/)
 * [Microsoft Windows hat auch Probleme mit dem DNS.](https://www.bishopfox.com/blog/2017/10/a-bug-has-no-name-multiple-heap-buffer-overflows-in-the-windows-dns-client/)
 * [PostgreSQL auf einem Pi? Hier wird es euch gezeigt :-).](https://opensource.com/article/17/10/set-postgres-database-your-raspberry-pi)
+* [Sex mit minderjährigen Frauen ist nun auch in Indien strafbar.](https://timesofindia.indiatimes.com/india/sex-with-minor-wife-is-to-be-considered-rape-says-supreme-court/articleshow/61032380.cms)
+* ["[...] zwischen 25. August und 29. September von BASF [...] Toluoldiisocyanat (TDI) enthielt [...] erhöhte Konzentration an Dichlorbenzol [...] kann Haut, Atemwege und Augen reizen und steht im Verdacht, Krebs zu verursachen. Es ist auch giftig für Wasserorganismen. [...]"](https://blog.fefe.de/?ts=a72088b6- Das Zeug wird in Matratzen, Postern und Holzbeschichtungen verbaut.
+* [Der Stahlkonzern "Kobe Steel" hat wohl seine Produktdaten gefälscht und schlechten Stahl billiger in die Automobil- und Flugzeugindustrie zu verkaufen.](https://blog.fefe.de/?ts=a7205871) - Ab jetzt nur noch 30 Km/H fliegen!
+* [Demonstranten werden jetzt wie Terroristen behandelt, Kopfhauben und Kopfhörer um den Demonstranten zu brechen.](https://blog.fefe.de/?ts=a721d1b5) - Mir machen diese Verwerfungen zwischen Staatsgewalt und Bevölkerung große Sorgen.
+* [Vor dem Gesetzt sind alle gleich ... wenn das Gesetz denn hinschauen will.](https://blog.fefe.de/?ts=a721d6ae)
+* [Haarpflege mit Produkten aus der Küche/Mutter Natur? Hier gibt es Ratschläge dazu.](https://www.smarticular.net/haarpflege-natuerlich-rezepte-selbermachen-spuelung-maske-styling/)
