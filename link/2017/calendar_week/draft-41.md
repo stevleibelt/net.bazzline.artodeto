@@ -17,3 +17,8 @@
 * [Demonstranten werden jetzt wie Terroristen behandelt, Kopfhauben und Kopfhörer um den Demonstranten zu brechen.](https://blog.fefe.de/?ts=a721d1b5) - Mir machen diese Verwerfungen zwischen Staatsgewalt und Bevölkerung große Sorgen.
 * [Vor dem Gesetzt sind alle gleich ... wenn das Gesetz denn hinschauen will.](https://blog.fefe.de/?ts=a721d6ae)
 * [Haarpflege mit Produkten aus der Küche/Mutter Natur? Hier gibt es Ratschläge dazu.](https://www.smarticular.net/haarpflege-natuerlich-rezepte-selbermachen-spuelung-maske-styling/)
+* [Die französische Regierung schaltet mal doch Tricastin ab, weil sie merken wie kaputt der ist und wie weit er vom "kommt durch den TÜV" ist.](https://blog.fefe.de/?ts=a71ea6d9)
+* [Die UNESCO macht etwas für Palästina und schon treten die USA und Israel aus ... kleine Kinder.](https://blog.fefe.de/?ts=a71ea648)
+* [Datenreichtum bei Hyatt.](https://blog.fefe.de/?ts=a71ea648)
+* [Datenreichtum bei T-Mobile USA.](https://www.heise.de/security/meldung/Bug-auf-T-Mobile-Website-ermoeglichte-den-Abruf-vertraulicher-Kundendaten-3860676.html)
+* [pfSense wurde in der Version 2.4 veröffentlicht.](https://www.pro-linux.de/news/1/25236/firewall-pfsense-24-erschienen.html)
