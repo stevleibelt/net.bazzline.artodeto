@@ -22,3 +22,7 @@
 * [Datenreichtum bei Hyatt.](https://blog.fefe.de/?ts=a71ea648)
 * [Datenreichtum bei T-Mobile USA.](https://www.heise.de/security/meldung/Bug-auf-T-Mobile-Website-ermoeglichte-den-Abruf-vertraulicher-Kundendaten-3860676.html)
 * [pfSense wurde in der Version 2.4 veröffentlicht.](https://www.pro-linux.de/news/1/25236/firewall-pfsense-24-erschienen.html)
+* [Freies WLan für Ja, aber nur solange wie euch kein Anwalt ankackt.](https://www.heise.de/newsticker/meldung/Analyse-Endlich-offenes-WLAN-3861616.html) - Wobei im angekackten Falle noch immer die Zumutbarkeit wichtig ist.
+* [Wine wurde in der Version 2.19 veröffentlicht.](https://www.winehq.org/news/2017101401)
+* [Grauschleier von Wäsche entfernen? Hier gibt es Ratschläge dazu.](https://www.smarticular.net/grauschleier-mit-hausmitteln-natuerlich-entfernen-natron-essig-pfeffer/)
+* [Das Internet Archive stellt Bücher online, die nicht mehr vermarktet werden.](https://www.heise.de/newsticker/meldung/Internet-Archive-stellt-verwaiste-Buecher-online-3861792.html) - Spenden sollte man im übrigen auch immer mal, das Internet Archive ist wichtig.
