@@ -1,0 +1,1 @@
+* ["[...] and what you’re left with (when it’s good) is a team that trusts each other, is open about its trials, and has a clear structure (formal or informal) in which agreement and solutions can be found and co-operation is productive.[...]"](https://zwischenzugs.wordpress.com/2017/10/15/my-20-year-experience-of-software-development-methodologies/)
