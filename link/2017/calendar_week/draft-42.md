@@ -10,3 +10,13 @@
 * [Die Nextcloud Anwendung für Android wurde in Version 2.0 veröffentlicht.](https://nextcloud.com/blog/android-2.0-with-contacts-backup-search-fingerprint-locking-notifications-and-much-more/)
 * [Docker unterstützt jetzt Kubernets nativ.](https://www.heise.de/developer/meldung/Container-Docker-unterstuetzt-Kubernetes-3863625.html)
 * [Subarus Funkschlüssel sind einfach knackbar.](https://www.heise.de/newsticker/meldung/Subaru-Funkschliessanlage-problemlos-knackbar-3863667.html)
+* ["US Patriot Act" und "USA Freedom Act", beides tolle Namen für mehr Überwachung.](http://www.neopresse.com/politik/usa/usa-freedom-act-ausweitung-der-ueberwachung-durch-die-hintertuer/)
+* [In Uganda wird ein ganzes Dorf mit Solarstrom versorgt.](http://www.sonnenseite.com/de/zukunft/solardorf-in-uganda-vollstaendig-mit-strom-versorgt.html) - Der Anfang ist gemacht, davon können wir lernen und die Technik optimieren.
+* [Datenreichtum bei AT&T ... mal wieder.](https://www.heise.de/newsticker/meldung/US-Mobilfunker-AT-T-verraet-Kundendaten-3864171.html)
+* [Alle deutsche Datenschutzbehördern fordern von der Regierung in Berlin eine Bekennung zum Datenschutz und damit einer Abkehr zu Muttis "Daten sind das Gold von Morgen".](https://www.heise.de/newsticker/meldung/Datenschutzaufsicht-Bundestag-soll-sich-zu-starkem-Datenschutz-bekennen-3864244.html)
+* [Mit Artix Linux kriegt ihr Arch Linux ohne Systemd und könnt zwischen LxQt oder I3-WM wählen.](https://www.pro-linux.de/news/1/25248/artix-linux-stellt-neue-installationsmedien-vor.html)
+* [Docker schwenkt auf Kubernets um.](https://www.heise.de/ix/meldung/DockerCon-EU-2017-Bringt-Kubernetes-die-Wende-3864237.html)
+* [Phyton lernen indem man ein einfaches Würfelspiel programmiert.](https://opensource.com/article/17/10/python-101)
+* [Österreich zeigt seit dem 01.10.2017 wie wenig ein Vermummungsverbot bringt.](https://blog.fefe.de/?ts=a719e4ed) - Nicht vergessen, die Politiker wollen das nicht um die "Islamisten" zu nerven sondern um das Volk einfacher digital erfassen kann - Gesichtserkennung und so.
+* [Die Ergebnisse von Studien der Krebsforschungen sind wohl zum großen Teil falsch.](https://blog.fefe.de/?ts=a719ff7a)
+* [Blizzard will mehr In-Game-Items verkaufen, indem sie dich mit einem Spieler spielen lassen, zu dem du aufschaust.](https://blog.fefe.de/?ts=a71982ee)
