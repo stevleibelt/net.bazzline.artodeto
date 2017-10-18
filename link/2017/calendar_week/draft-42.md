@@ -20,3 +20,5 @@
 * [Österreich zeigt seit dem 01.10.2017 wie wenig ein Vermummungsverbot bringt.](https://blog.fefe.de/?ts=a719e4ed) - Nicht vergessen, die Politiker wollen das nicht um die "Islamisten" zu nerven sondern um das Volk einfacher digital erfassen kann - Gesichtserkennung und so.
 * [Die Ergebnisse von Studien der Krebsforschungen sind wohl zum großen Teil falsch.](https://blog.fefe.de/?ts=a719ff7a)
 * [Blizzard will mehr In-Game-Items verkaufen, indem sie dich mit einem Spieler spielen lassen, zu dem du aufschaust.](https://blog.fefe.de/?ts=a71982ee)
+* [51 Hz statt 50 Hz Netzfrequenz? Und schon gehen die Uhren falsch.](https://blog.fefe.de/?ts=a719491b)
+* [Fefe hat das schön auf dem Punkt gebracht: "Zertifizierungen sind eine Mitesser-Branche, die sich an ansonsten profitable Branchen anhängt und deren Profite absaugt. Genau wie Anwälte :-)"](https://blog.fefe.de/?ts=a71946c9)
