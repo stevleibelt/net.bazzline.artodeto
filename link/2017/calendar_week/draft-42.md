@@ -31,3 +31,5 @@
 * [Mal wieder ein LogStash-Howto und die Frage warum es nicht mittlerweile jeder nutzt?](https://opensource.com/article/17/10/logstash-fundamentals)
 * [Eine deutsch-kanadische Firma darf wohl ab jetzt im Spreewald Erdöl fördern :-(.](https://blog.fefe.de/?ts=a71643da)
 * [Kaum ist Oettinger nicht mehr EU-Digitalminister, entwickelt er ein Gewissen und fordert die Verstaatlichung von wichtiger Infrastruktur.](https://www.golem.de/news/breitbandausbau-oettinger-bedauert-privatisierung-der-telekom-1710-130712.html)
+* [Der von Glyphosat würde auch ein deutliches Zeichen setzen wie wir in Europa Leben und Landwirtschaft betreiben wollen.](https://www.foodwatch.org/de/newsletter/es-geht-um-so-viel-mehr-als-glyphosat/)
+* [Foodwatch hat einmal die Lügen der Zuckerlobby zusammengetragen.](https://www.foodwatch.org/de/informieren/zucker-fett-co/aktuelle-nachrichten/die-zucker-lobby-macht-sich-die-welt-wie-sie-ihr-gefaellt/)
