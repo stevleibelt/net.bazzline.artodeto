@@ -22,3 +22,12 @@
 * [Blizzard will mehr In-Game-Items verkaufen, indem sie dich mit einem Spieler spielen lassen, zu dem du aufschaust.](https://blog.fefe.de/?ts=a71982ee)
 * [51 Hz statt 50 Hz Netzfrequenz? Und schon gehen die Uhren falsch.](https://blog.fefe.de/?ts=a719491b)
 * [Fefe hat das schön auf dem Punkt gebracht: "Zertifizierungen sind eine Mitesser-Branche, die sich an ansonsten profitable Branchen anhängt und deren Profite absaugt. Genau wie Anwälte :-)"](https://blog.fefe.de/?ts=a71946c9)
+* [Menschen kann man heutzutag mit einem RFID-Chip versehen ohne das es eine OP oder einen Stich benötigt.](https://www.youtube.com/watch?v=eZmRom81nQo) - Eklig und abartig.
+* [Werden wir weiterhin auf das unausweichliche vorbereitet? Als Arbeiter hat man seinen Körper bio-mechanisch verändern "sollte", um die Anstellung zu erhalten. Und dann kann man natürlich schwer etwas anderes machen und ist in einer direkten Abhängigkeit gelandet.](https://www.heise.de/newsticker/meldung/Cyborg-Aktivistin-Wir-koennen-die-Evolution-ueberrunden-3865126.html)
+* [OpenMW wurde in der Version 0.42.0 veröffentlicht.](https://games4linux.de/openmw-das-open-source-morrowind-dank-freier-engine/)
+* [The Talos Principle VR wurde für Linux veröffentlicht.](https://www.pro-linux.de/news/1/25253/the-talos-principle-vr-f%C3%BCr-linux-vorgestellt.html)
+* [Insektensterben? Hier ein paar Zahlen, innerhalb von 27 Jahren gibt es 75 Prozent weniger Insekten.](http://www.sonnenseite.com/de/wissenschaft/internationales-forscherteam-bestaetigt-dramatisches-insektensterben.html)
+* [Das Glyphosat-Gutachten des BfR wurde fast eins zu eins vom monsantointernen Gutachten/Werbeprospekt abgeschrieben.](https://blog.fefe.de/?ts=a7197ebc) - Das Schlechte daran, die EU hat das Gutachten vom BfR als Grundlage für seine Entscheidung genutzt. Das Gemeine all dem Drama, die Behörden und damit die Steuerzahler bezahlen die Studien, halten aber nicht die Rechte daran :-O.
+* [Mal wieder ein LogStash-Howto und die Frage warum es nicht mittlerweile jeder nutzt?](https://opensource.com/article/17/10/logstash-fundamentals)
+* [Eine deutsch-kanadische Firma darf wohl ab jetzt im Spreewald Erdöl fördern :-(.](https://blog.fefe.de/?ts=a71643da)
+* [Kaum ist Oettinger nicht mehr EU-Digitalminister, entwickelt er ein Gewissen und fordert die Verstaatlichung von wichtiger Infrastruktur.](https://www.golem.de/news/breitbandausbau-oettinger-bedauert-privatisierung-der-telekom-1710-130712.html)
