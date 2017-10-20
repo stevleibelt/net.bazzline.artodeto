@@ -41,3 +41,5 @@
 * [Chat-Roboter als Hilfe für Menschen mit einer Depression?](https://www.heise.de/newsticker/meldung/Chatbot-fuer-Verhaltenstherapie-mildert-Depressionssymptome-bei-Probanden-3865328.html) - Ich bin mir [unsicher](https://www.heise.de/forum/Technology-Review/News-Kommentare/Chatbot-fuer-Verhaltenstherapie-mildert-Depressionssymptome-bei-Probanden/Ist-doch-logisch/posting-31230979/show/) ob das gut oder schlecht ist. Das Problem bei seiner Entstehung lösen wir hier nicht.
 * [Libinput wurde in der Version 1.9 veröffentlicht.](https://www.pro-linux.de/news/1/25259/libinput-19-freigegeben.html)
 * [Wine wurde in der Version 2.0.3 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=Wine-2.0.3-Released)
+* [Wie lange sollte man eigentlich welches Gemüse garen?](https://www.smarticular.net/garzeiten-gemuese-vitamine-dampfgaren-daempfen-pilze-zucchini-kartoffeln/)
+* [VirtualBox wurde in der Version 5.2 veröffentlicht.](https://www.heise.de/ix/meldung/Inklusive-Upload-in-die-Oracle-Cloud-VirtualBox-5-2-freigegeben-3866366.html)
