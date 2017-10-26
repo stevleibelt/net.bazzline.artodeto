@@ -25,3 +25,8 @@
 * [Ich bin nun kein Däne, aber scheinbar achten die Dänen ihre Bürger mehr. Heute am Beispiel vom dänischen Gesundheitsportal.](https://www.heise.de/newsticker/meldung/Gesundheitsportal-in-Daenemark-macht-Patienten-zu-gleichberechtigten-Partnern-3873652.html) - Sind das nur Marketing-Buzz-Words oder ist das wirklich so?
 * [TheSSS wurde in der Version 23.0 veröffentlicht.](https://4mlinux-releases.blogspot.de/)
 * [Emmanuel Macron schaft ein Gesetzt, wodurch dem Volk der Franzosen wenigst 3,2 Milliarden Euro weniger pro Jahr an Steuern fehlen - er schafft die Vermögenssteuer ab. Die Grand Nation beschreitet als den Weg, den Deutschland dank der SPD und Schröder schon gegangen ist.](http://www.neopresse.com/europa/der-praesident-der-reichen/)
+* [Mal wieder war ein V-Mann ein wichtiger Teil eines Dramas.](https://blog.fefe.de/?ts=a70cdbb2)
+* [Scheint so als könne man bald die Verarbeitung seiner Daten selektiv widersprechen.](https://blog.fefe.de/?ts=a70cd77b)
+* [Twitter verkauft bald genug Daten, dass sie Plus machen.](https://blog.fefe.de/?ts=a70cd7e6)
+* [Jemand spricht negativ und fundiert über Monsantos "Dicamba" und schon macht Monsanto ihn platt - wie es nur Gangster machen, mit allen Mitteln.](http://www.npr.org/sections/thesalt/2017/10/26/559733837/monsanto-and-the-weed-scientists-not-a-love-story)
+* [Uber lässt sich bezahlen, damit man als Fahrer eher und schneller an Fahrten bekommt.](https://medium.com/uber-screeds/uber-is-charging-drivers-to-work-b7bf357d9647)
