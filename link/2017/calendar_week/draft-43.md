@@ -46,3 +46,5 @@
 * [Die Sparkassen stecken 100 Millionen in paydirekt und möchtern gern von Anderen weitere 200 Millionen haben um gegen PayPal bestehen zu können.](https://www.heise.de/newsticker/meldung/Bericht-Sparkassen-wollen-millionenschwere-Geldspritze-fuer-Paydirekt-3875005.html) - Ich muss ja zugeben, dass ich gern von PayPal wegkommen möchte. Aktuell haben die meisten Shops aber nur PayPal. Wenn es eine Überweisung gibt, nehme ich die.
 * ["[...] Liebe deine Familie, sorge für die, die dir anvertraut sind, gib niemals auf und hör nie auf zu spielen [...]"](http://www.sonnenseite.com/de/tipps/die-weisheit-der-woelfe.html) – "[...] das sind die Prinzipien der Wölfe.[...]"
 * [In St. Louis ist ein Schwelbrand nahe einer streng geheimen Deponie.](http://derstandard.at/2000066727971/Wo-die-USA-die-Reste-der-Bombe-vergraben-haben) - Auf der Deponie wurden Reste vom Manhatten Projekt verraben.
+* [Der Postillon hat meine Gedanken zur Zeitumstellung einmal zusammengefasst.](http://www.der-postillon.com/2017/10/zeitumstellung.html)
+* [Die USA fordert jetzt "Responsible Encryption" statt Backdoors - schwache Verschlüsslung wollen sie also.](https://blog.fefe.de/?ts=a70bea9f)
