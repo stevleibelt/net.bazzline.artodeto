@@ -8,3 +8,4 @@
 * [Immer mehr dicke Kinder :-(.](https://www.heise.de/tp/features/Enormer-Anstieg-der-Fettlebigkeit-bei-Kindern-in-relativ-kurzer-Zeit-3874680.html) - Mit Maissirup-Dreck wird es nicht besser werden
 * [Immer mehr warnen vor den schon heute sichtbaren Folgen des Klimawandels.](https://www.heise.de/newsticker/meldung/Forscher-Gesundheitliche-Folgen-des-Klimawandels-schon-heute-drastisch-3876160.html) - Dazu passend der Film [Danke für den Regen](https://www.arte.tv/de/videos/067824-000-A/danke-fuer-den-regen/) aus der Arte Mediatheke
 * ["Samhainfest", "Beltane", "All Hallows’ Eve" und warum Kürbis? All dies und viel mehr hat die Liebe Frau Natterer von den Netzfrauen zusammengetragen und in einen tollen Artikel zusammengefasst.](https://netzfrauen.org/2017/10/31/halloween/)
+* [Roundcube wurde in der Version 1.3.2 veröffentlicht.](https://roundcube.net/news/2017/10/31/update-1.3.2-released)
