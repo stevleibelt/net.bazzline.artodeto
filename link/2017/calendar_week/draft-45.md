@@ -3,3 +3,8 @@
 * [Die Münchener Bevölkerung spricht sich gegen ihr eigenes Steinkohlekraftwerk aus und will es Ende 2022 statt 2035 abgeschaltet sehen.](http://www.sonnenseite.com/de/politik/muenchner-stimmen-fuer-kohle-ausstieg.html)
 * [Nein? Doch! Oh? In den USA nutzt man Algorithmen um Wahlkreise so zusammen zulegen, dass die gewünschte Partei gewinnt.](https://www.heise.de/newsticker/meldung/Computerisierte-Wahlmanipulation-Mit-Algorithmen-zum-perfekten-Wahlkreis-3874099.html)
 * [Am 07. November verhandelt die Große Kammer des Europäischen Menschenrechtsgerichtshofs drei Beschwerdeverfahren über die anlasslose Massenüberwachung durch die Regierung Großbritanniens und ihre Geheimdienste.](https://www.ccc.de/de/updates/2017/egmr-hearing)
+* [Audacity wurde in der Version 2.2.0 veröffentlicht.](https://www.pro-linux.de/news/1/25301/audacity-220-mit-neuen-themes-men%C3%BCs-und-logo.html)
+* [Investieren die USA in Meinungsmacher ist es ok, aber wehe ein anderes Land tut es, dann ist Holland in Not.](https://blog.fefe.de/?ts=a4fee3e9)
+* [Typ kauft Thermometer im Internet, schon muss das Internet zensiert werden weil man mit einem Thermometer auch Bomben bauen kann.](https://blog.fefe.de/?ts=a4fee28f) - Verbot von Autos, Straße und Strom ... für die Kinder!
+* [DragonFlyBSD wurde in der Version 5.0.1 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=DragonFly-BSD-5.0.1-Released)
+* [In Kenia finanziert Deutschland den Bau eines Damms für ein Straßenbauprojekt welches zur Ausrottung der Serengeti führen wird - mehr dazu auf netzfrauen.org.](https://netzfrauen.org/2017/11/06/53548/)
