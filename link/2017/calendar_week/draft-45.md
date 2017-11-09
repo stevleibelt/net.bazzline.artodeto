@@ -29,3 +29,5 @@
 * [ScienceHuβ is a global science and technology publisher and provides free access to research articles and latest research information without any barrier to scientific community.](https://scihub.org/)
 * [Roundcube wurde in den Versionen 1.3.3, 1.2.7 und 1.1.10 veröffentlicht.](https://roundcube.net/news/2017/11/08/security-updates-1.3.3-1.2.7-and-1.1.10)
 * [php_propel_behavior_entity_instantiator wurde in der Version 1.2.2 veröffentlicht.](https://github.com/bazzline/php_propel_behavior_entity_instantiator/blob/1.2.2/CHANGELOG.md#122---released-at-08112017)
+* [So wird Wäsche aufgehängt!](https://www.smarticular.net/waesche-schneller-und-ohne-knickfalte-trocknen/)
+* [Hier gibt es ein paar Vorschläge warum man Wäsche auch im Winter im Freien trocknen lassen sollte.](https://www.smarticular.net/waesche-trocknen-draussen-winter-frost-sublimation-ohne-trockner-regen/)
