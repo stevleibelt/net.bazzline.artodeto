@@ -42,3 +42,6 @@
 * [Kurzes Kubernets Howto.](https://opensource.com/article/17/11/getting-started-kubernetes)
 * [Amazon ist genauso unsozial wie Uber.](https://www.heise.de/newsticker/meldung/Private-Fahrer-als-Paketboten-Amazon-Flex-kommt-nach-Berlin-3887326.html)
 * [Auch der europäische Menschenrechtsgerichtshof ist dahinter gekommen, dass Polizisten ordentlich gekennzeichnet werden müssen, damit man sie bei Straftaten eindeutig identifizieren kann.](https://blog.fefe.de/?ts=a4fba4e4)
+* [Die Britische Staatsanwaltschaft hat mal eben Beweise vernichtet, die Julian Assange womöglich entlastet hätten.](https://blog.fefe.de/?ts=a4fb2892)
+* [Prometheus wurde in der Version 2.0.0 veröffentlicht.](https://prometheus.io/download/#prometheus)
+* [Simple Würzmischung die überall passt, dafür gibt es hier ein Rezept.](https://www.smarticular.net/umami-gewuerz-selber-machen-vegan-vegetarisch-lebensmittel/)
