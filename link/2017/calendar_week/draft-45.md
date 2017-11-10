@@ -31,3 +31,5 @@
 * [php_propel_behavior_entity_instantiator wurde in der Version 1.2.2 veröffentlicht.](https://github.com/bazzline/php_propel_behavior_entity_instantiator/blob/1.2.2/CHANGELOG.md#122---released-at-08112017)
 * [Scheinbar hat jemand Zugriff zur Intel Management Engine via JTAG/USB erhalten und kann das reproduzieren!](https://blog.fefe.de/?ts=a4fd3a36)
 * [Oxfam macht das, was die Politiker machen sollten und stellt einen Aktionsplan zur "Steuervermeidung" (sprich legale Steuerhinterziehung) auf.](http://www.sonnenseite.com/de/zukunft/oxfam-stellt-aktionsplan-gegen-steuervermeidung-vor.html)
+* [So wird Wäsche aufgehängt!](https://www.smarticular.net/waesche-schneller-und-ohne-knickfalte-trocknen/)
+* [Hier gibt es ein paar Vorschläge warum man Wäsche auch im Winter im Freien trocknen lassen sollte.](https://www.smarticular.net/waesche-trocknen-draussen-winter-frost-sublimation-ohne-trockner-regen/)
