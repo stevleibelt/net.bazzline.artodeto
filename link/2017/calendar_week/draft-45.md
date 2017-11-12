@@ -50,3 +50,5 @@
 * [Falls euch Worte nicht reichen um zu verstehen wie gefährlich unsere Plastiksucht ist, gibt es hier ein paar Bilder und Videos von der schönen Karibik.](http://www.sonnenseite.com/de/umwelt/ueberall-plastik-diese-bilder-aus-der-karibik-tun-weh.html)
 * [Slowenien erkennt die Zeichen der Zeit und nimmt das Recht auf Wasser in seine Verfassung auf.](https://netzfrauen.org/2017/11/11/53610/)
 * [Sex-Spielzeug zeichnet alle Sitzung auf und der Hersteller spricht von einem "kleinen Fehler".](https://www.theverge.com/2017/11/10/16634442/lovense-sex-toy-spy-surveillance)
+* [Hey, wo Griechenland jetzt von Lobbyisten regiert wird, kann man das Land doch locker als Verschiebebahnhof für illegale Waffenverkäufte nutzen.](https://www.heise.de/tp/features/Griechenland-Aufregung-im-Verteidigungsministerium-3888276.html)
+* [Jetzt gibt es eine Übersichtskarte vom radioaktiven Ruthenium 106 über Europa.](https://netzfrauen.org/2017/11/12/ruthenium/) - Sieht kacke aus, falls sich jemand Hoffnung gemacht hat.
