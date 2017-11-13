@@ -3,3 +3,6 @@
 * [Kurzer Realitätsabgleich zum kommenden und kalten Winter gefällig? Hier gibt es Bilder von Obdachlosen die "ihr Hannover" zeigen.](https://www.heise.de/foto/meldung/Perspektivwechsel-Wohnungslose-fotografieren-ihre-Stadt-3888428.html) - "All you need is gute Arbeit vor Ort"
 * [NetworkManager wurde in der Version 1.10 veröffentlicht.](https://www.pro-linux.de/news/1/25328/networkmanager-110-erschienen.html)
 * [Hier ist eine Liste mit Open Source CAD Optionen.](https://opensource.com/alternatives/autocad)
+* [Wenn euch noch einmal Jemand erzählen will, das oberirdische Leitungen so viel günster sind, dem sollen auf lange Zeit die armen Offliner von den Sturmschäden von Xavier und Herwart 2017 im Kopf bleiben.](https://www.golem.de/news/xavier-und-herwart-harte-geduldsprobe-fuer-telekom-kunden-nach-sturmschaeden-1711-131123.html)
+* [Kindermissbrauch in Hol[l]ywood, das ist doch neu oder? Nicht so ganz, 2014 wurde der Film "An Open Secret" veröffentlicht.](https://en.wikipedia.org/wiki/An_Open_Secret) - Das Thema war den Medien in unserer freien Welt zu gefährlich und so mussten es die Macher [auf Vimeo hochladen.](https://vimeo.com/142444429)
+* [Kubernets soll wohl zu einer Art allgemeinen Standard erwachsen.](https://www.golem.de/news/cloud-native-computing-foundation-kubernetes-soll-interoperabler-werden-1711-131119.html)
