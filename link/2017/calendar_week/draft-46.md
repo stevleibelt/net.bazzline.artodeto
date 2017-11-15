@@ -19,3 +19,7 @@
 * [Tails wurde in der Version 3.3 veröffentlicht.](https://www.pro-linux.de/news/1/25336/tails-33-freigegeben.html)
 * [Grenzwerte? Die Netzfrauen haben einen guten Artikel darüber veröffentlicht.](https://netzfrauen.org/2017/11/15/53670/) - Ich hab gemerkt, dass die immer angehoben werden, wenn es die Industrie braucht.
 * [Hier zeigt ein Grafiker die Probleme von heute auf.](https://www.boredpanda.com/amazing-new-illustrations-by-gunduz-aghayev-share/)
+* [Du hast Durchfall? Kann am Hähnchenfleisch aus der Industrie liegen.](https://netzfrauen.org/2017/11/15/53673/) - Nur falls ihr euch wundert, warum ihr neuerdings so wenig vertragt.
+* [Nein? Doch! Oh? Man kann wohl doch ganz gut am Klimaschutz verdienen.](http://www.tagesspiegel.de/politik/geheime-bdi-studie-auch-industrie-erwartet-wachstum-durch-klimaschutz/20583830.html)
+* [Der Staat bietet etwas kostenlos an, die Instrie klagt und gewinnt.](https://www.lto.de/recht/nachrichten/n/lg-bonn-16o2116-wetter-app-deutscher-wetterdienst-wettbewerbsrechtlich-unzulaessig/) - Verrückt, wo die Daten mit unseren Steuergelder erstellt werden.
+* [UEFI mit NFC, was kann da schon schief gehen ...](https://www.heise.de/newsticker/meldung/UEFI-soll-NFC-lernen-3891140.html)
