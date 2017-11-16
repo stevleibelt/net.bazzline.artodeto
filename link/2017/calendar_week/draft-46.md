@@ -33,3 +33,5 @@
 * [Nein? Doch! Oh? Man kann wohl doch ganz gut am Klimaschutz verdienen.](http://www.tagesspiegel.de/politik/geheime-bdi-studie-auch-industrie-erwartet-wachstum-durch-klimaschutz/20583830.html)
 * [Der Staat bietet etwas kostenlos an, die Instrie klagt und gewinnt.](https://www.lto.de/recht/nachrichten/n/lg-bonn-16o2116-wetter-app-deutscher-wetterdienst-wettbewerbsrechtlich-unzulaessig/) - Verrückt, wo die Daten mit unseren Steuergelder erstellt werden.
 * [UEFI mit NFC, was kann da schon schief gehen ...](https://www.heise.de/newsticker/meldung/UEFI-soll-NFC-lernen-3891140.html)
+* [Wow, nur vier Jahre hat es gedauert bis FlixBus das Monopol in Deutschland hat.](https://www.heise.de/tp/features/Flix-in-die-USA-3889498.html) - Verrückt, dass das Kartellamt nichts dagegen hat
+* [Viertes Reich wir kommen, mit Worten wie "Europäische Selbstertüchtigung" wirbt Flintenuschi für eine EU-Weltpolizei um in Länder einzufallen, die unsere Art der Weltordnung und Ausbeute nicht so gut finden.](https://peds-ansichten.de/2017/11/was-die-militarisierung-der-eu-mit-stefan-kornelius-zu-tun-hat/)
