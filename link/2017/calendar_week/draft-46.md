@@ -39,3 +39,6 @@
 * [Für einen Jung-Forscher an der Uni muss man, dank dem Republikanern, jetzt 10.000 USD pro Jahr mehr zahlen.](https://blog.fefe.de/?ts=a4f06771)
 * [Sind die Abfallprodukte der Kohlekraftwerke eigentlich ähnlich gefährlich wie die von den Atomkraftwerken? Die Netzfrauen haben einmal genau hingeschaut.](https://netzfrauen.org/2017/11/17/kohleasche/)
 * [Die IETF schaut düster in die Zukunft des Internets.](https://www.heise.de/newsticker/meldung/Internet-anno-2047-Zwischen-IPv4-Quantentransport-und-Fax-3892390.html) - Mehr Monopole, mehr Filter, mehr Werbung, weniger Freiheit für alle.
+* [PaleMoon wird bald zu Basilisk.](https://forum.palemoon.org/viewtopic.php?f=1&p=127347#p127347)
+* [Der Weihnachtsmarkt in der Silberstadt Freiberg eröffnent am 28.11.2017 und endet am 22.12.2018.](https://www.youtube.com/watch?v=s_1yfqy5cxk)
+* [Das Geschwisster-Scholl hat einen Statusbericht zu ihrem Nepal Projekt abgegeben.](https://www.youtube.com/watch?v=W8t2dEsMdQA)
