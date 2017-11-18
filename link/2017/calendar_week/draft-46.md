@@ -42,3 +42,6 @@
 * [PaleMoon wird bald zu Basilisk.](https://forum.palemoon.org/viewtopic.php?f=1&p=127347#p127347)
 * [Der Weihnachtsmarkt in der Silberstadt Freiberg eröffnent am 28.11.2017 und endet am 22.12.2018.](https://www.youtube.com/watch?v=s_1yfqy5cxk)
 * [Das Geschwisster-Scholl hat einen Statusbericht zu ihrem Nepal Projekt abgegeben.](https://www.youtube.com/watch?v=W8t2dEsMdQA)
+* [Südafrika will seine Geschichte bewältigen und öffnet die Akten um die Rüstungsgeschäfte des Christdemokratens Helmut Kohls.](https://blog.fefe.de/?ts=a4eec00e) - Warum machen wir deutsche das nicht? Wir brauchen immer erst einen Weltkrieg um nach Hinten zu schauen ... scheinbar.
+* [Nein? Doch! Oh? Der Terrorchef aus Katalonien war ein Geheimdinst-Spitzel. So langsam frag ich mich, ob nicht alle gewaltbereiten Antreiber in einer Gruppe ein V-Mann vom Staat ist. Was die Frage aufwirft, wie schön könnte das Leben auf Erden ohne V-Männer sein?](https://www.heise.de/tp/features/Terrorchef-aus-Katalonien-war-Geheimdienst-Spitzel-3893222.html)
+* [Schöner Artikel wie dir dein Gesicht zeigen kann, was dir für Nährstoffe fehlen können.](https://www.smarticular.net/naehrstoffmangel-gesicht-haare-haut-vitamine-mineralien/)
