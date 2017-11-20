@@ -1,0 +1,3 @@
+* [Wisst ihr was wir im Weltall dringend brauchen nachdem es unsere Erde schon so schön kaputt gemacht hat? Militär!](https://www.heise.de/newsticker/meldung/Virgin-Galactic-Tochter-VOX-Space-soll-Militaersatelliten-starten-3893687.html)
+* [Schweres Thema "Gewalt in der Polizei" - Hier berichtet einer von seinen Erlebnissen.](http://www.jetzt.de/politik/rassismus-in-der-polizei-ein-junger-polizist-berichtet) - Psychologisch ist das Thema wirklich kompliziert. Da wird von allen Seiten mit viel Druck gearbeitet und hinzu kommt eine irre Arbeitsüberlastung der Polizisten.
+* [Hier gibt es ein paar schöne Folien über RegEx.](https://speakerdeck.com/thunderer/mastering-regex-incantations)
