@@ -9,3 +9,5 @@
 * [Zuerst die Nicht-EU-Bürger und bald auch die EU-Bürger, biometrische Daten werden jetzt an der Grenze der EU gesammelt.](https://www.heise.de/newsticker/meldung/Smart-Borders-EU-Rat-gibt-gruenes-Licht-fuer-biometrische-Grenzkontrolle-3896145.html)
 * [Durch das ganze Antibiotika in der Massentierhaltung entstehen resistente Keime doch keiner sagt etwas, weil Ärzte und die Pharmalobby super daran verdienen.](https://netzfrauen.org/2017/11/21/antibiotikaresistent/)
 * [Wann muss ich wie welchen Tee ziehen lassen?](https://www.smarticular.net/tee-beste-ziehzeit-wirkung-zubereitung-uebersicht/)
+* [Don't be evil google wurde erwischt und schwören, dass sie nun also wirklich aufhören eure Standorte illegal abzugreifen ... wirklich und echt jetzt.](https://blog.fefe.de/?ts=a4ea591c)
+* [Theoretisch können Überweisungen in der EU bald innerhalb von 15 Sekunden gehen, praktisch dauert das noch ein paar Jahre und kostet Millionen.](https://blog.fefe.de/?ts=a4ea5e49)
