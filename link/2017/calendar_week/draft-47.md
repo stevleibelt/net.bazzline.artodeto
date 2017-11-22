@@ -11,3 +11,8 @@
 * [Wann muss ich wie welchen Tee ziehen lassen?](https://www.smarticular.net/tee-beste-ziehzeit-wirkung-zubereitung-uebersicht/)
 * [Don't be evil google wurde erwischt und schwören, dass sie nun also wirklich aufhören eure Standorte illegal abzugreifen ... wirklich und echt jetzt.](https://blog.fefe.de/?ts=a4ea591c)
 * [Theoretisch können Überweisungen in der EU bald innerhalb von 15 Sekunden gehen, praktisch dauert das noch ein paar Jahre und kostet Millionen.](https://blog.fefe.de/?ts=a4ea5e49)
+* [Uber kriegt Milliarden Euro und schafft es dennoch nicht eure Daten zu sichern - Datenreichtum sozialisieren?](https://www.golem.de/news/loesegeld-uber-verheimlicht-hack-von-60-millionen-kundendaten-1711-131275.html)
+* [Die Netzfrauen klären euch 2017 über die Bankenstrukturen und den Raubbau am Volk auf.](https://netzfrauen.org/2017/11/22/bankenkrise/)
+* [Was darf Mutti während es keine Regierung in Deutschland gibt?](https://www.heise.de/tp/features/Angela-Merkel-als-Geschaeftsfuehrerin-3897104.html)
+* [Be evil google zensiert jetzt offiziell den russischen Feind.](https://www.heise.de/tp/features/Google-will-Content-von-russischen-Medien-im-Ranking-herabsetzen-3897094.html)
+* [Nette Idee, keine Mehrwertsteuer für Reparaturen auf Haushaltsgeräte?](http://www.sonnenseite.com/de/wirtschaft/reparaturen-von-haushaltsgeraeten-sollten-steuerlich-absetzbar-sein.html)
