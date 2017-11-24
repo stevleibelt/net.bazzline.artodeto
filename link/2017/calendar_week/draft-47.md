@@ -20,3 +20,8 @@
 * [Die Netzneutralität fällt nun offiziell in den USA weg, mal schauen wann Europa folgt.](https://www.heise.de/newsticker/meldung/US-Republikaner-treiben-Abschaffung-der-Netzneutralitaet-voran-3897116.html) - [Das Kabelfernsehen zeigt was man da zu erwarten hat.](https://www.heise.de/forum/heise-online/News-Kommentare/US-Republikaner-treiben-Abschaffung-der-Netzneutralitaet-voran/Re-Wenn-das-kommt-wird-das-Internet-wie-das-Kabelfernsehen/posting-31403757/show/)
 * [Realitätsabgleich, Fragt eure Politiker mal wie sie ihre Wahlversprechen so umsetzen wollen und seht wie sie anfangen zu stottern.](https://blog.fefe.de/?ts=a4eb4fb7)
 * [Lootboxen oder wie auch in Free-to-Play-Apps versucht wird euch das Geld abzuzocken.](https://blog.fefe.de/?ts=a4eb4bdf)
+* [Sogar das BSI findet die Intel ME kacke.](https://www.heise.de/security/meldung/Intel-Computer-BSI-warnt-vor-Sicherheitsluecke-Updates-teils-spaet-3900167.html)
+* [Münschen stellt auf Windws um, von bisher geschätzten 50 Millionen fallen 30 Millionen für Lizenzen an.](https://www.golem.de/news/limux-ende-muenchen-beschliesst-90-millionen-fuer-it-umbau-1711-131302.html) - Das lohnt sich wohl richtig für ein paar Entscheider. 
+* [Electron, der Mist der auch skypeforlinux "befeuert" ist ein Haufen Dreck der so offen wie ein Cabriolet ist.](https://blog.fefe.de/?ts=a4e81524)
+* [Die Idee des bedingungslosen Grundeinkomms ist bei den Bürgern angekommen.](https://www.heise.de/tp/features/Umfrage-Mehrheit-der-Deutschen-ist-fuer-ein-bedingungsloses-Grundeinkommen-3899702.html)
+* [Um den Kunden schon einmal einzustimmen - Glasfaser? Oh, oh, oh, das wird teuer.](https://www.golem.de/news/verbraucherzentrale-regulierungsfreiheit-fuer-glasfaser-bringt-preissteigerung-1711-131312.html)
