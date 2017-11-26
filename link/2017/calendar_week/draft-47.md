@@ -37,3 +37,10 @@
 * [Noch ein Gedanke zum bedingungslosen Grundeinkommen.](https://blog.fefe.de/?ts=a4e7ee21)
 * [Sieben Dinge, die du am Morgen machen kannst um entspannt in den Tag zu starten.](https://www.smarticular.net/morgenroutine-tipps-morgens-gut-starten-vorbereitet-auf-den-tag/)
 * [Spanien wird durch die EU gefördert immer mehr Gemüse und Obst anzubauen, damit man günstiger als die Afrikaner ist und dort die wirtschaft zerstört. Nun leidet Spanien durch den massiven Wasserverbrauch unter einer Dürre, die man bisher so nie kannte.](https://www.heise.de/tp/features/Eine-solche-Duerre-habe-ich-noch-nie-erlebt-3901222.html)
+* [Realitätsklatsche für den "World Energy Outlook" - Erneuerbare Energie wird ohne Ende ausgebaut.](http://www.manager-magazin.de/unternehmen/energie/world-energy-outlook-der-iea-ignoriert-solarenergie-seit-jahren-a-1178384.html)
+* [Die Australie überlegen, ob sie die gespeicherten Daten ihrer Bevölkerung der freie Wirtschaft zugänglich machen wollen.](https://www.heise.de/newsticker/meldung/Australien-will-staatliche-Gesichtserkennung-fuer-Firmen-oeffnen-3901720.html) - Alleine schon das darüber nachdenke führt bei mir im Kopf zu "sofort abwählen!"
+* [Die freie Hand des Marktes ist beim annutten von Städten gegenüber Amazon zu sehen.](https://blog.fefe.de/?ts=a4e47528)
+* [Make america great again! - Natürlich nur für die Superreichen und nicht für die Kinder - die USA hat die höchste Kinderarmutsquote :-O.](https://netzfrauen.org/2017/11/26/americas-poor-kids/)
+* [Netzneutralität? Das kann doch bestimmt weg - so denkt es zumindest aktuell die USA.](https://www.heise.de/newsticker/meldung/USA-So-soll-die-Netzneutralitaet-abgeschafft-werden-3901638.html) - Und in Europa und anderen Ländern wartet die freie Hand des Marktes nur auf dieses "Signal" aus den USA.
+* [Wie Fefe kann auch ich euch den Film "die rechte Wende" auf 3-Sat (und deren Mediathek) empfehlen.](https://blog.fefe.de/?ts=a4e73d03)
+* [Soso, ein alter Mann muss in den USA für den Konzern VW ins Gefängnis und damit soll die Sache dann "gegessen" sein.](https://blog.fefe.de/?ts=a4e74e27)
