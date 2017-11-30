@@ -29,3 +29,10 @@
 * [Achsoooo, E.A. sieht das mit der doppelten Abzocke bei ihrem Spiel einfach als ein Marketingproblem an - die Kunden wurden nicht gut genug aufgeklärt.](https://www.heise.de/newsticker/meldung/EA-Finanzchef-zu-Battlefront-2-Mikrotransaktionen-Problem-war-Pay-to-Win-Wahrnehmung-der-Spieler-3904448.html) - Ist das Gleiche, wie wenn die Bürger auf einmal aufbegehren, weil die Politiker immer mehr Grundrechte wegnehmen.
 * [12 schöne Ideen, was ihr im Winter machen könnt um es gemütlich zu machen.](https://www.smarticular.net/angenehm-durch-den-winter-gemuetlich-warm-stimmungsvoll/)
 * [Hackfressenbuch möchte jetzt ein Profilfoto von euch statt ein Captcha haben - ihr müsst dann einfach vertrauen, dass sie die Bilder hinterer auch löschen.](https://blog.fefe.de/?ts=a4e02c43)
+* [Der Kunderschutzbund Freiberg e.V. verdient einfach mal etwas Werbung.](http://kinderschutzbund-freiberg.de/)
+* [Wer Negativzinsen und die Abschaffung von Bargeld gut findet darf bei Donald Trump mitspielen.](https://www.heise.de/tp/features/Befuerworter-von-Negativzinsen-und-Bargeldabschaffung-soll-Gouverneur-der-US-Notenbank-werden-3905509.html)
+* [Passend zum Missverständnis zwischen E.A. und seinen Kunden gibt es hier eine Studie wie süchtig Mikrotransaktionen machen können.](https://www.heise.de/newsticker/meldung/Suechtig-nach-Ingame-Kaeufen-Mikrotransaktionen-koennen-ein-Leben-zerstoeren-3905689.html)
+* [Yes! Man kann gegen Monsanto siegen!](https://netzfrauen.org/2017/11/30/mexico/)
+* [Western Digital will 2 Milliarden für die RISC-V-Entwicklung ausgeben.](https://www.golem.de/news/cpu-architektur-western-digital-will-2-milliarden-risc-v-kerne-im-jahr-1711-131428.html) - Ich bin gespannt wann ich meinen ersten RISC-V kaufen werde :-).
+* [Mozilla hat eine Software zur Spracherkennung veröffentlicht.](https://www.pro-linux.de/news/1/25392/mozilla-ver%C3%B6ffentlicht-freie-engine-und-daten-f%C3%BCr-spracherkennung.html)
+* [Schade, so bauen wir die Mauer zwischen Rechten und Linken nicht ab, der Nazi, der mit der NYT geredet hat, hat seinen Job durch den Druck der Öffentlichkeit verloren.](https://blog.fefe.de/?ts=a4e17920)
