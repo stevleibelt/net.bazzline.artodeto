@@ -36,3 +36,9 @@
 * [Western Digital will 2 Milliarden für die RISC-V-Entwicklung ausgeben.](https://www.golem.de/news/cpu-architektur-western-digital-will-2-milliarden-risc-v-kerne-im-jahr-1711-131428.html) - Ich bin gespannt wann ich meinen ersten RISC-V kaufen werde :-).
 * [Mozilla hat eine Software zur Spracherkennung veröffentlicht.](https://www.pro-linux.de/news/1/25392/mozilla-ver%C3%B6ffentlicht-freie-engine-und-daten-f%C3%BCr-spracherkennung.html)
 * [Schade, so bauen wir die Mauer zwischen Rechten und Linken nicht ab, der Nazi, der mit der NYT geredet hat, hat seinen Job durch den Druck der Öffentlichkeit verloren.](https://blog.fefe.de/?ts=a4e17920)
+* [Armory ist eine freie 3D-Engine mit voller Blenderunterstützung!](http://armory3d.org/index.html) - Danke [Michael](https://www.phoronix.com/scan.php?page=news_item&px=Armory-3D-Game-Engine).
+* [Halb Mensch, halb Tier, bald auch in deiner Nachbarschaft.](https://netzfrauen.org/2017/12/01/human-animal-hybrid/)
+* [Die USA überlegt gerade den Geheimdienst zu privatisieren - was soll da schon schief gehen ...](https://blog.fefe.de/?ts=a4dfe03e)
+* [Wir sehen ganz klar die Erfolge der privatisierten Krankenhäuser.](https://blog.fefe.de/?ts=a4dfc8c2) - Keiner mehr da, der arbeiten kann, weil alles zusammengekürzt, entschuldigung, optimiert wurde.
+* [Areva muss wohl richtig viel Scheiße gebaut haben und damit hunderte AKW's unsicher gemacht haben. Die USA ermittelt und deutsche Leitmedien schweigen ... ist ja auch bald Weihnachten.](https://netzfrauen.org/2017/12/01/brennstaebe/)
+* [Alpine Linux wurde in der Version 3.7. veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=Alpine-Linux-3.7-Released)
