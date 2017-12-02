@@ -42,3 +42,9 @@
 * [Wir sehen ganz klar die Erfolge der privatisierten Krankenhäuser.](https://blog.fefe.de/?ts=a4dfc8c2) - Keiner mehr da, der arbeiten kann, weil alles zusammengekürzt, entschuldigung, optimiert wurde.
 * [Areva muss wohl richtig viel Scheiße gebaut haben und damit hunderte AKW's unsicher gemacht haben. Die USA ermittelt und deutsche Leitmedien schweigen ... ist ja auch bald Weihnachten.](https://netzfrauen.org/2017/12/01/brennstaebe/)
 * [Alpine Linux wurde in der Version 3.7. veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=Alpine-Linux-3.7-Released)
+* [Lecker Winteressen zum selber machen.](https://www.smarticular.net/regional-saisonal-kochen-dezember-mittagessen/)
+* [Eurer Internet ist zu langsam, also so richtig? Die Bundesnetagentur hilft euch jetzt endlich.](https://www.golem.de/news/festnetz-bundesnetzagentur-hilft-bei-zu-niedriger-datenrate-1712-131447.html)
+* [Symfony wurde in der Version 4.0 und 3.4 LTS veröffentlicht.](https://www.heise.de/developer/meldung/Webframework-Symfony-4-wird-schlanker-und-flexibler-3906247.html)
+* [PHP wurde in der Version 7.2 veröffentlicht.](https://www.pro-linux.de/news/1/25396/php-72-freigegeben.html)
+* [De Maizere will per Gesetzt eine Hintertür in alles für seine Geheimdienste haben - Hey, eine Hintertür die alles kann, was kann da schon schief gehen.](https://blog.fefe.de/?ts=a4df8729)
+* [Nein? Doch! Oh? - Nahezu überall telefoniert man günstiger als in Deutschland.](https://blog.fefe.de/?ts=a4df8625) - Ihr wisst ja, die magische Hand des freien Marktes und so.
