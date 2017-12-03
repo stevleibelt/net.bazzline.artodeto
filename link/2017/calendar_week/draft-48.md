@@ -48,3 +48,8 @@
 * [PHP wurde in der Version 7.2 veröffentlicht.](https://www.pro-linux.de/news/1/25396/php-72-freigegeben.html)
 * [De Maizere will per Gesetzt eine Hintertür in alles für seine Geheimdienste haben - Hey, eine Hintertür die alles kann, was kann da schon schief gehen.](https://blog.fefe.de/?ts=a4df8729)
 * [Nein? Doch! Oh? - Nahezu überall telefoniert man günstiger als in Deutschland.](https://blog.fefe.de/?ts=a4df8625) - Ihr wisst ja, die magische Hand des freien Marktes und so.
+* [Das Wachstum hat seine Grenze erreicht und flüchtet offiziell in den Raum der Vorstellung - Bitcoin ist in den USA offiziell erlaubt.](https://www.heise.de/newsticker/meldung/US-Aufsichtsbehoerde-erlaubt-Bitcoin-Futures-3907108.html)
+* [Hier wurde eine Anklage wegen sexueller Belästigung mit Steuergeldern abgewendet - Make America great again!](https://blog.fefe.de/?ts=a4dc4027)
+* [Geilo, die Republikaner geben ein über 400 Seiten starkes Dokument wenige Stunden vor der Abstimmung heraus - etwas wo die Blockpartei CDU/CSU/SPD/Grüne/FDP lernen können, schreibt die wichtigsten Sachen per Hand recht an den Rand ... mit einer Handschrift die keiner lesen kann.](https://blog.fefe.de/?ts=a4dc408a)
+* [Statt zu einem sicheren Betriebssystem wie Linux oder BSD zu wechseln werden Steuergelder genutzt um mit dem Konzept "Security by Obscurity" Windows 10 eventuell etwas nicht ganz so scheiße zu machen.](https://www.heise.de/ix/meldung/Bund-will-Windows-10-ueber-Bundesclient-sicher-nutzen-koennen-3907088.html) - Das sich die Politiker immer so wilde Sachen ausdenken, sollen sie sich doch einfach das Geld überweisen und gut ist.
+* [Schon 90 Mitglieder beim Projekt "Pestizidfreie Kommune".](http://www.sonnenseite.com/de/politik/projekt-pestizidfreie-kommune.html)
