@@ -5,3 +5,4 @@
 * [Nextcloud wurde in der Version 12.0.4 veröffentlicht.](https://nextcloud.com/blog/nextcloud-12.0.4-is-here-time-to-upgrade/)
 * [Kneipp für zu Hause.](https://www.smarticular.net/kneipp-anwendungen-anleitung-zuhause-alltag/)
 * [Eklig, Hackfressenbuch veröffentlicht einen "Messenger" für Kinder.](https://www.heise.de/newsticker/meldung/Facebook-startet-Messenger-fuer-Kinder-3908151.html) - Warum braucht ein 6 jähriges Kind sowas? Das soll raus gehen wenn es Freunde treffen möchte.
+* ["[...] Der durchschnittliche Steuersatz für Unternehmen hat sich in 15 EU-Staaten seit 1980 von 49 auf rund 24 Prozent halbiert und sank weltweit im selben Zeitraum von rund 40 auf unter 25 Prozent. Hält dieser globale Trend an, werden die Unternehmenssteuersätze bis 2052 weltweit auf Null sinken. [...]"](https://netzfrauen.org/2017/12/04/tax-games/) - Darf man nicht vergessen wenn die Blockpartei CDU/CSU/SPD/Die Grünen euch etwas von Einsparungen erzählen muss.
