@@ -8,3 +8,5 @@
 * ["[...] Der durchschnittliche Steuersatz für Unternehmen hat sich in 15 EU-Staaten seit 1980 von 49 auf rund 24 Prozent halbiert und sank weltweit im selben Zeitraum von rund 40 auf unter 25 Prozent. Hält dieser globale Trend an, werden die Unternehmenssteuersätze bis 2052 weltweit auf Null sinken. [...]"](https://netzfrauen.org/2017/12/04/tax-games/) - Darf man nicht vergessen wenn die Blockpartei CDU/CSU/SPD/Die Grünen euch etwas von Einsparungen erzählen muss.
 * [Nationalparks werden in den USA jetzt auch gern einmal verkleinert damkt man Erdöl fördern kann.](https://netzfrauen.org/2017/12/05/54015/)
 * [Ehe für alle, ab 2019 in Österreich.](https://derstandard.at/2000069288003/Verfassungsgerichtshof-oeffnet-Ehe-fuer-Homosexuelle-ab-2019)
+* [Soylent Green wird kommen.](https://www.heise.de/newsticker/meldung/Nutztiere-Gentechnisch-veraenderter-Fisch-waechst-doppelt-so-schnell-3908374.html)
+* [Etwas, was ich leider nachempfinden kann, wenn man zu gestresst ist, hat man kaum noch die Kraft eine Beziehung mit viel Liebe und Romantik zu führen.](https://www.heise.de/tp/features/Japanische-Frauen-sind-zu-muede-um-nach-einem-Liebespartner-zu-suchen-3909897.html)
