@@ -10,3 +10,10 @@
 * [Ehe für alle, ab 2019 in Österreich.](https://derstandard.at/2000069288003/Verfassungsgerichtshof-oeffnet-Ehe-fuer-Homosexuelle-ab-2019)
 * [Soylent Green wird kommen.](https://www.heise.de/newsticker/meldung/Nutztiere-Gentechnisch-veraenderter-Fisch-waechst-doppelt-so-schnell-3908374.html)
 * [Etwas, was ich leider nachempfinden kann, wenn man zu gestresst ist, hat man kaum noch die Kraft eine Beziehung mit viel Liebe und Romantik zu führen.](https://www.heise.de/tp/features/Japanische-Frauen-sind-zu-muede-um-nach-einem-Liebespartner-zu-suchen-3909897.html)
+* [Einsamkeit macht depressiv und trotz oder gerade durch unserer ganzen schein-Verbundenheit durch Hackfressenbuch etc. sind wir im Allgemeinen einsamer als zuvor.](https://netzfrauen.org/2017/12/06/einsamkeit/)
+* [Nestle kauft weiter ein.](https://netzfrauen.org/2017/12/06/54049/)
+* [Ab heute wird zurückgecybert, leider mit deutlich mehr versteckten Steuergeldern als uns lieb ist.](https://www.heise.de/newsticker/meldung/Studie-Cyberoffensive-erhaelt-deutlich-mehr-staatliche-Mittel-als-Schutzmassnahmen-3911337.html) - Aber hey, bevor wir die Steuergelder für unwichtige Sachen wie Rentensicherung, Sozialsystem oder schmarn wie Bildung ausgeben, lieber attackieren im Cyberraum!
+* [Mehr als ein Viertel unserer Kinder können nicht richtig lesen.](https://www.heise.de/tp/features/Leseschwaechen-Die-Ungerechtigkeit-in-unserem-Bildungssystem-ist-noch-weiter-angestiegen-3911659.html)
+* [Intel-ME? Das wird von Tag zu Tag kaputter.](https://blog.fefe.de/?ts=a4d6f2d4)
+* [Die neue Steuerreform in den USA hat wohl ein paar Probleme für die Republikanker :-D.](https://blog.fefe.de/?ts=a4d6e505)
+* [Blockchain jetzt auch für den Energiemarkt.](http://www.sonnenseite.com/de/wirtschaft/blockchain-technologie-wird-im-energiemarkt-wichtiger.html)
