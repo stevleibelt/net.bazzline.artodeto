@@ -17,3 +17,7 @@
 * [Intel-ME? Das wird von Tag zu Tag kaputter.](https://blog.fefe.de/?ts=a4d6f2d4)
 * [Die neue Steuerreform in den USA hat wohl ein paar Probleme für die Republikanker :-D.](https://blog.fefe.de/?ts=a4d6e505)
 * [Blockchain jetzt auch für den Energiemarkt.](http://www.sonnenseite.com/de/wirtschaft/blockchain-technologie-wird-im-energiemarkt-wichtiger.html)
+* [Wo kann ich JavaScript lernen? Hier gibt es eine Liste mit guten Links.](https://opensource.com/article/17/12/learn-javascript)
+* [ReactOS wurde in der Version 0.4.7 veröffentlicht.](https://www.pro-linux.de/news/1/25415/reactos-047-freigegeben.html)
+* [Containerd wurde in der Version 1.0 veröffentlicht.](https://blog.docker.com/2017/12/cncf-containerd-1-0-ga-announcement/)
+* [Schönes Shellskript-Tutorial über Bash-Arrays gibt es hier.](https://www.pro-linux.de/artikel/2/1914/shellskripte-mit-aha-effekt-bash-arrays.html)
