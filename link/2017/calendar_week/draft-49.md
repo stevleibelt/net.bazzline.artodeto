@@ -21,3 +21,7 @@
 * [ReactOS wurde in der Version 0.4.7 veröffentlicht.](https://www.pro-linux.de/news/1/25415/reactos-047-freigegeben.html)
 * [Containerd wurde in der Version 1.0 veröffentlicht.](https://blog.docker.com/2017/12/cncf-containerd-1-0-ga-announcement/)
 * [Schönes Shellskript-Tutorial über Bash-Arrays gibt es hier.](https://www.pro-linux.de/artikel/2/1914/shellskripte-mit-aha-effekt-bash-arrays.html)
+* [PayPal hat der Welt Datenreichtum gespendet.](https://blog.fefe.de/?ts=a4d4fffa)
+* [Berlin ist jetzt eine Wildwest-Stadt, die Polizei verfolgt Ladendiebstahl nicht mehr.](https://blog.fefe.de/?ts=a4d4fce7)
+* [Arsen gibt es jetzt auch in Reisgerichten.](https://www.foodwatch.org/de/informieren/arsen-in-reis/aktuelle-nachrichten/baby-lebensmittel-aus-reis-mit-krebserregendem-arsen-belastet/)
+* [Die Hersteller von Nacktscanner haben noch schnell etwas Lobbygold abgesahnt. Die Blockpartei verschenkt hier noch einmal Steuergelder.](https://www.heise.de/newsticker/meldung/Bundesregierung-will-an-allen-Flughaefen-Koerperscanner-installieren-3914242.html) - Ist natürlich immer alles [ganz freiwillig](https://www.heise.de/forum/heise-online/News-Kommentare/Bundesregierung-will-an-allen-Flughaefen-Koerperscanner-installieren/Ich-habe-mal-den-Scanner-verweigert/posting-31498626/show/).
