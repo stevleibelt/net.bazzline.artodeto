@@ -8,3 +8,8 @@
 * [Wenn du eine Arbeitsstelle mit Nachhaltigkeit suchst, gibt es hier tolle Hinweise wie du eine passende Berufung findest.](https://www.smarticular.net/jobs-mit-sinn-sinnvolle-arbeit-nachhaltige-taetigkeit-finden/)
 * [PowerTop und TLP bringen auch heute noch einiges wenn es um Akkulaufzeit geht.](https://www.phoronix.com/scan.php?page=article&item=ubuntu2017-tlp-powertop&num=1)
 * [Nun also doch, Oberleitungsbusse werden zurückkommen.](https://www.golem.de/news/berlin-verkehrsbetriebe-wollen-elektrobusse-waehrend-der-fahrt-laden-1712-131608.html)
+* [Zombie-Apokalypse oder der Weg zur Freiheit? Bio-Hacking bereitet den Behörden Sorgen.](https://www.heise.de/newsticker/meldung/Trotz-FDA-Warnung-Biohacker-wollen-mit-Gen-Editierung-im-eigenen-Koerper-weitermachen-3911582.html)
+* [Nicht nur die USA haben ein Problem damit, dass China keinen Müll mehr annimmt, auch die EU exportiert drei Millionen Tonnen Plastik (ihr wisst wie leicht Plastik ist, richtig) pro Jahr nach China](https://netzfrauen.org/2017/12/12/54155/) - ... also exportierte, 2018 müssen wir das Zeug woanders verklappen. Die Mafia hilft uns bestimmt.
+* [LetsEncrypt will ab 2018 auch Wildcard-Zertifikate anbieten.](https://www.golem.de/news/https-let-s-encrypt-bringt-wildcard-zertifikate-1712-131621.html)
+* [Die Blockpartei CDU/CSU/SPD/FDP stimmt gemeinsam aber geheim für eine stetige Anhebung der "Diäten".](https://www.heise.de/tp/features/CDU-CSU-SPD-und-FDP-einigen-sich-auf-Diaetenerhoehung-3916382.html) - Fast 10000 Euro pro Monat reichen wohl einfach noch nicht. Warum gibt es für keinen Volksentscheid?
+* [Frankreich verbietet Mobilfunktelefone ab 2018 an allen Schulen.](https://blog.fefe.de/?ts=a4d1274c) - Top Idee, hätte ich in Deutschland auch gerne
