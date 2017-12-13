@@ -13,3 +13,5 @@
 * [LetsEncrypt will ab 2018 auch Wildcard-Zertifikate anbieten.](https://www.golem.de/news/https-let-s-encrypt-bringt-wildcard-zertifikate-1712-131621.html)
 * [Die Blockpartei CDU/CSU/SPD/FDP stimmt gemeinsam aber geheim für eine stetige Anhebung der "Diäten".](https://www.heise.de/tp/features/CDU-CSU-SPD-und-FDP-einigen-sich-auf-Diaetenerhoehung-3916382.html) - Fast 10000 Euro pro Monat reichen wohl einfach noch nicht. Warum gibt es für keinen Volksentscheid?
 * [Frankreich verbietet Mobilfunktelefone ab 2018 an allen Schulen.](https://blog.fefe.de/?ts=a4d1274c) - Top Idee, hätte ich in Deutschland auch gerne
+* [Die EU und ihre verrückten Gesetze.](https://netzfrauen.org/2017/12/12/monsanto-skandal/) - Warum erhält ein Bauer eine Prämie wenn er Gift statt einen Pflug bei der Aussat einsetzt? Ach und der Nachfolger, der noch schlimmer als Glyphosat, nennt sich "Dicamba".
+* [An was darf man, dank des "first world way of life", denken, wenn man Lybien hört?](https://netzfrauen.org/2017/12/13/libya/) - Massengefängnisse, raub, Vergewaltigung etc.
