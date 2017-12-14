@@ -35,3 +35,7 @@
 * [Die Resultate von einer Generation die zu einer Wegwerfgesellschaft erzogen wurde sieht man auch an den Nachrichten.](https://blog.fefe.de/?ts=a4cc87b7) - Alles von Gestern ist nicht mehr wichtig, wie so sollte man sich auch die Mühe machen und aus Fehlern lernen?
 * [Hier gibt es 10 Gründe warum Umweltschutz in die Schule gehört.](https://www.careelite.de/umweltschutz-in-der-schule/)
 * [Volksverhetzer Disney kauft 21st Century Fox.](https://www.heise.de/newsticker/meldung/Disney-kauft-den-Grossteil-von-21st-Century-Fox-3918099.html) - Eine Firma mehr die man nicht unterstützen darf.
+* [Netzneutralität war dann mal in den USA.](https://www.theguardian.com/technology/2017/dec/14/net-neutrality-fcc-rules-open-internet)
+* [Die Linken und die AfD haben fast einstimmig gegen die Diätenerhöhung gestimmt.](https://www.bundestag.de/parlament/plenum/abstimmung/abstimmung?id=495)
+* [Der BND darf nun nicht mehr offiziell Metadaten von Telefongesprächen nutzen.](https://www.heise.de/newsticker/meldung/Bundesverwaltungsgericht-Bundesnachrichtendienst-darf-keine-Telefonie-Metadaten-nutzen-3918610.html) - Macht dem BND ja nichts, solange sie alles mit der [Weltraumtheorie](https://de.wikipedia.org/wiki/Weltraumtheorie) umgehen können.
+* [Hier werden dir 10 Tipps gegeben, wie du im Bad mit weniger Industriemüll auskommst.](https://www.smarticular.net/zero-waste-badezimmer-muell-verpackung-ideen-produkte/)
