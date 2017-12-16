@@ -46,3 +46,6 @@
 * [Wenn ihr euch Fragt wie Massentierhaltung und überlaufende Güllefässer zusammenhängen, findet ihr hier eine Antwort darauf.](http://www.sonnenseite.com/de/umwelt/guelle-notstand-im-norden.html)
 * [Vegane Bratensoße die schmeckt. Das Rezept findet ihr hier.](https://www.smarticular.net/bratensosse-ohne-fleisch-frisches-gemuese-schnell-selber-machen/)
 * [ZFS On Linux wurde in der Version 0.7.4. veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=ZFS-On-Linux-0.7.4)
+* [Wow, die Frage "Wie schädlich ist dieses ganze gefunke eigentlich?", bekommt langsam Öffentlichkeitspräsenz.](https://www.heise.de/tp/features/Schicke-lieber-eine-SMS-als-mit-dem-Handy-zu-telefonieren-3919839.html) - Nutzt ein kabelgebundenes Headset, wenn ihr telefoniert.
+* [Die Polizei Göttingen ermittelt gegen die Polizei Braunschweig, weil die Polizei in Braunschweig einfach vergessen hat ihre Kamera rechtzeitig aus zumachen, wenn sie ohne Grund die Bevölkerung verkloppen.](https://blog.fefe.de/?ts=a4cbfab0)
+* [Die nato hat Gorbatschow damals ins Gesicht gelogen und behauptet, sie würden das Kriegsbündnis Nato nicht weiter in den Osten ausweiten.](https://blog.fefe.de/?ts=a4cbf9ff) - Wie soll man solchen Verhandlungspartnern denn jemals wieder trauen?
