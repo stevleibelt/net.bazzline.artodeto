@@ -43,3 +43,6 @@
 * [Symptome bekämpfen statt das Problem zu lösen ... damit kann man einfach mehr Geld machen, auch wenn wir die Umwelt damit zerstören.](https://www.heise.de/newsticker/meldung/Autos-gehen-in-die-Luft-gegen-den-Verkehrskollaps-3918859.html) - Heute ist, dass man den Straßenverkehr in die Luft bringen will, weil die Luft mehr Raum hat. Klar, man könnte auch mehr öffentlichen Nahverkehr ausbauen und das ganze Herumfahren reduzieren, aber damit macht man nicht so viel Geld.
 * [Xen wurde in der Version 4.10 veröffentlicht.](https://www.pro-linux.de/news/1/25442/xen-410-ver%C3%B6ffentlicht.html)
 * [Fingersensoren im Bildschirm werden jetzt Massenmarkttauglich.](https://www.heise.de/newsticker/meldung/Synaptics-startet-Produktion-von-In-Display-Fingerabdrucksensor-3918926.html) - Überlegt also lieber zweimal, ob ihr den Touchscreen da draußen wirklich nutzen wollt.
+* [Wenn ihr euch Fragt wie Massentierhaltung und überlaufende Güllefässer zusammenhängen, findet ihr hier eine Antwort darauf.](http://www.sonnenseite.com/de/umwelt/guelle-notstand-im-norden.html)
+* [Vegane Bratensoße die schmeckt. Das Rezept findet ihr hier.](https://www.smarticular.net/bratensosse-ohne-fleisch-frisches-gemuese-schnell-selber-machen/)
+* [ZFS On Linux wurde in der Version 0.7.4. veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=ZFS-On-Linux-0.7.4)
