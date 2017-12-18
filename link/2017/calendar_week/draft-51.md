@@ -2,3 +2,7 @@
 * [Die Post möchte die Paket nicht nur teurer machen, sie will auch den Status Quo legalisieren - postalische Zustellung nur noch aller zwei bis drei Tage.](https://www.heise.de/newsticker/meldung/Post-in-einer-digitalisierten-Gesellschaft-Wenn-der-Postmann-seltener-klingelt-3920203.html) - Preise rauf, Leistung runter und nun bitte noch die Gesetze anpassen, sonst kann die private Firma Post nicht mehr noch mehr Gewinn für seine Aktionäre abwerfen.
 * [Ihr habt einen Balkon? Nutzt ihn und versorgt euch selbst mit etwas Strom.](http://www.sonnenseite.com/de/energie/balkonkraftwerke-buergerrecht-statt-grauzone.html)
 * [TrueOs wurde in der Version 17.12 veröffentlicht.](https://www.pro-linux.de/news/1/25444/trueos-1712-freigegeben.html)
+* [Die Netzfrauen helfen euch den Unterschied zwischen Lebensmittel und Nahrungsmittel zu verstehen.](https://netzfrauen.org/2017/12/18/zusatzstoffe/) - Zudem erklären sie, warum Nahrungsmittel krank machen.
+* [Schuldeneintreiber in den USA? Hier gibt es Einsichten über deren fehlende Moral.](https://blog.fefe.de/?ts=a4c97372)
+* [Hadoop wurde in der Version 3.0.0 veröffentlicht.](https://www.pro-linux.de/news/1/25447/apache-hadoop-300-ver%C3%B6ffentlicht.html)
+* [Mittlerweile wird Zucker in zwei drittel aller Nahrungsmittel zugesetzt.](https://netzfrauen.org/2017/12/18/sugar/) - Erneut dankeschön an die Netzfrauen!
