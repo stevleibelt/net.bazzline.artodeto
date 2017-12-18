@@ -6,3 +6,4 @@
 * [Schuldeneintreiber in den USA? Hier gibt es Einsichten über deren fehlende Moral.](https://blog.fefe.de/?ts=a4c97372)
 * [Hadoop wurde in der Version 3.0.0 veröffentlicht.](https://www.pro-linux.de/news/1/25447/apache-hadoop-300-ver%C3%B6ffentlicht.html)
 * [Mittlerweile wird Zucker in zwei drittel aller Nahrungsmittel zugesetzt.](https://netzfrauen.org/2017/12/18/sugar/) - Erneut dankeschön an die Netzfrauen!
+* [Du willst etwas über das Thema Nachhaltigkeit lesen? Hier werden dir zehn Bücher empfohlen.](https://www.careelite.de/nachhaltigkeit-buecher/)
