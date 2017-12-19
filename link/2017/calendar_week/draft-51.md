@@ -7,3 +7,5 @@
 * [Hadoop wurde in der Version 3.0.0 veröffentlicht.](https://www.pro-linux.de/news/1/25447/apache-hadoop-300-ver%C3%B6ffentlicht.html)
 * [Mittlerweile wird Zucker in zwei drittel aller Nahrungsmittel zugesetzt.](https://netzfrauen.org/2017/12/18/sugar/) - Erneut dankeschön an die Netzfrauen!
 * [Du willst etwas über das Thema Nachhaltigkeit lesen? Hier werden dir zehn Bücher empfohlen.](https://www.careelite.de/nachhaltigkeit-buecher/)
+* [Was Russland für Europa ist, ist Nordkorea für die USA.](https://www.heise.de/newsticker/meldung/WannaCry-US-Regierung-beschuldigt-Nordkorea-3921444.html) - Für mich ist es ja eher [mFuse](https://duckduckgo.com/?q=%22mfuse+ist+schuld%22&ia=web)
+* [Es wird immer offensichtlicher, die Blockpartei CDU/CSU/SPD/FDP/Grünen haben uns auch 2010 die Rente geklaut, in Österreich bekommt die Bevölkerung mehr Rente ohne mehr Geld abzugeben.](https://www.heise.de/tp/features/Warum-bekommen-Oesterreicher-fast-60-Prozent-mehr-Rente-3921398.html) - Tjo, die Österreicher müssen auch weniger dumme/faule Familienmitglieder in der Bürokratie "mitversorgen".
