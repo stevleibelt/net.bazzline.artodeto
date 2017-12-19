@@ -12,3 +12,6 @@
 * [Realitätsabgleich bezüglich der Waffenlobby in den USA.](https://netzfrauen.org/2017/12/19/momsdemandaction/)
 * [Mal schauen ob Deutschland ein zweites Belgien wird, wenn es im die Regierung geht :-).](http://www.neopresse.com/satire/wenn-niemand-regiert/) - Lieber nichts machen als immer nur Lobbypolitik.
 * [Die Netzfrauen zeigen euch heute, warum ihr nicht bei der Allianz versichert sein solltet.](https://netzfrauen.org/2017/12/19/allianz/) - Geld nehmen sie schnell, euch das eingezahlte und vertraglich zustehende Geld geben, da brauchen sie auch gern mal so viel Zeit bis ihr eine Privatinsolvenz angemeldet hat.
+* [Das die NSA durch die Cisco-Tür versucht TLS 1.3 noch unsicherer als TLS 1.2 zu machen war mir bewusst, dass die Schlangenöl-Antiviren-Mafia da auch mit rumnervt war mir neu.](https://www.golem.de/news/dual-ec-wie-cisco-avast-und-die-nsa-tls-1-3-behindern-1712-131758.html)
+* [Fefe schreibt, etwaig verständlicher als ich, warum jeder seinen eigenen Scheiß hosten sollte.](https://blog.fefe.de/?ts=a4c7f7df)
+* [Ach, die Netzfrauen, tausend Dank an euch - euch fehlt Liebe, Geborgenheit und Wärme im Leben? Dieser Artikel nimmt euch an die Hand.](https://netzfrauen.org/2017/12/19/love/)
