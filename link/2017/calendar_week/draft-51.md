@@ -19,3 +19,5 @@
 * [In der Schweiz ist es wie in Österreich, die Zahlen einfach weniger Krankenkassenbeiträge.](https://www.heise.de/tp/features/Warum-zahlen-Schweizer-oft-deutlich-weniger-fuer-ihre-Krankenversicherung-als-Deutsche-3923769.html) - Die Begründung ist hier die Gleiche.
 * [Man in the middle - Angriff ist für Thunderbirds Enigmail scheinbar möglich.](https://blog.fefe.de/?ts=a4c7affc) - Gut, dass sie den Fehler gefunden haben, nun kann man in zu machen!
 * [Alternativlos wurde in der Version 41 veröffentlicht.](https://blog.fefe.de/?ts=a4c4ed64)
+* [Bareos wurde in der Version 17.2 veröffentlicht.](https://www.pro-linux.de/news/1/25453/bareos-172-mit-ndmp-protokoll.html)
+* [Die Netzfrauen haben sich einmal die Mühe gemacht und geschaut welche Aktionären in den großen IT-Tech- und Pharma-Tech-Firmen vertreten sind - es sind immer die Gleichen!](https://netzfrauen.org/2017/12/20/net-neutrality/) - Und das sollte euch zu denken geben. Die gleichen Leute können den Scheiß produzieren und vermarkten.
