@@ -28,3 +28,5 @@
 * [Falls bei euch ein Funkmesser für den Heizungs- oder den Wasserzähler installiert werden soll, klagt mal lieber dagegen. Die Firmen haben Angst vor einem Grundsatzurteil, denn die Gerichte sehen dahinter auch keinen wirklichen Nutzen.](https://blog.fefe.de/?ts=a4c20d2e) - Führt auch immer die unnötige Strahlenbelastung an, der Verein [Diagnose-Funk](https://www.diagnose-funk.org) hilft euch dabei.
 * [Interessante Idee, der Grund, warum Staaten weiterhin in zivile Atomprogramme investieren. Ohne ziviele Programme kann man keine militärische Atomforschung betreiben und darum geht es doch, Atombomben.](https://blog.fefe.de/?ts=a4c23701)
 * [Indien und auch Afrika wenden sich von Monsanto und deren Ackergift Glyphsat ab!](https://netzfrauen.org/2017/12/22/seeds/)
+* [Googles Wunder-KI-Werbung für Bilderkennung ist halt nicht so dolle, wenn man mit ihr spielt.](http://uk.pcmag.com/news/92543/mit-students-fool-google-image-recognition-tech)
+* [Kräuterkaffee? Mal ausprobieren.](http://www.kraeuterallerlei.de/kraeuterkaffee-so-wirkt-er/)
