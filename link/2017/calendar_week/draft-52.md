@@ -1,2 +1,6 @@
 * [Die NSA darf erst einmal weiter uneingeschränkt alles und jeden bis Mitte Juli 2018 beschnüffeln.](https://www.heise.de/newsticker/meldung/US-Kongress-verlaengert-NSA-Befugnis-zur-Massenueberwachung-3927830.html)
 * [Private Klinikien in Deutschland? Super Model für Aktienanleger.](https://netzfrauen.org/2017/12/25/54431/) - Für die Patienten eher nicht so.
+* [Der erste deutsche Atommeiler wird Ende Dezember 2017 abgeschautet, eventuell ist der Rückbau in 23 Jahren beendet.](https://www.heise.de/newsticker/meldung/Atommeiler-in-Gundremmingen-stellt-Ende-Dezember-den-Betrieb-ein-3927930.html) - Die 23 Jahre bezahlt dann im übrigen der Steuerzahler.
+* [Ist SpaceX nun etwas Gutes oder etwas Schlechtes für die Raumfahrt?](https://www.golem.de/news/raumfahrt-2017-wie-spacex-die-branche-in-aufruhr-versetzt-1712-131690.html) - Ich hab ja Sorge, dass hier an der Sicherheit gespart wird.
+* [Ich habs euch ja gesagt, nun kündigt AT&T 1000 Angestellten.](https://www.heise.de/newsticker/meldung/Trotz-US-Steuerreform-Kuendigungen-bei-AT-T-3927910.html) - Das muss der große Wirtschaftsaufschwung in den USA sein, von dem alle schreiben.
+* [Rust könnt ihr jetzt auch mit einem C++ Compiler bauen.](https://blog.fefe.de/?ts=a4bf9d7d) - Damit müsst ihr diesem LLVM nicht mehr trauen.
