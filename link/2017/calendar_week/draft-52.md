@@ -4,3 +4,5 @@
 * [Ist SpaceX nun etwas Gutes oder etwas Schlechtes für die Raumfahrt?](https://www.golem.de/news/raumfahrt-2017-wie-spacex-die-branche-in-aufruhr-versetzt-1712-131690.html) - Ich hab ja Sorge, dass hier an der Sicherheit gespart wird.
 * [Ich habs euch ja gesagt, nun kündigt AT&T 1000 Angestellten.](https://www.heise.de/newsticker/meldung/Trotz-US-Steuerreform-Kuendigungen-bei-AT-T-3927910.html) - Das muss der große Wirtschaftsaufschwung in den USA sein, von dem alle schreiben.
 * [Rust könnt ihr jetzt auch mit einem C++ Compiler bauen.](https://blog.fefe.de/?ts=a4bf9d7d) - Damit müsst ihr diesem LLVM nicht mehr trauen.
+* [Indien verbietet jegliches Plastikprodukt in der Nähe des Ganges.](https://netzfrauen.org/2017/12/26/54462/) - Und das ist nur der Anfang und hoffentlich ein tolles Vorbild
+* [Hier gibt es eine kurze Aufklärung über das Thema intermittierendes Fasten.](https://www.careelite.de/intermittierendes-fasten-erfahrungen/)
