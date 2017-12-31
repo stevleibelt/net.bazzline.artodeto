@@ -81,3 +81,4 @@
 * [34c3 - Italiens Staatstrojaner.](http://cdn.media.ccc.de/congress/2017/h264-hd/34c3-9148-eng-Italys_surveillance_toolbox.mp4)
 * [34c3 - Dezent die Zukunft geschrottet.](https://media.ccc.de/v/34c3-9270-dude_you_broke_the_future)
 * [34c3 - Security Nightmares.](http://cdn.media.ccc.de/congress/2017/h264-hd/34c3-8888-deu-Security_Nightmares_0x12.mp4)
+* [34c3 - Und Schluss.](http://cdn.media.ccc.de/congress/2017/h264-hd/34c3-9293-deu-Abschluss.mp4)
