@@ -1,0 +1,4 @@
+* [Ihr wollt euch vor unnötiger Strahlung abschirmen? Hier könnt ihr Lesen, welche Materialien ihr braucht.](https://www.diagnose-funk.org/publikationen/fragen-antworten/detail&faqid=3)
+* [Gemessen mit unterschiedlichem Maß? Bei der Statistik "Gewalt gegen Polizisten" werden auch Beleidigungen mitgezählt.](https://blog.fefe.de/?ts=a4b61faa)
+* [Tennet macht Stimmung um Subventionen abzukassieren. Warum? Weil deren Kohlekraftwerke sonst keinen Strom ins Ausland transportieren können.](https://www.heise.de/newsticker/meldung/Stromnetz-unter-Druck-Tennet-meldet-Rekordkosten-fuer-Noteingriffe-3929093.html) - 1 Milliarde ist für solch einen Konzern im übringen nichts, was weh tut.
+* [Ab dem 01.01.2018 dürfen private Konzerne entscheiden, was wahr und was falsch ist, besser kann es für die Blockpartei CDU/CSU/SPD/Die Grünen/FDP nicht laufen.](https://www.heise.de/newsticker/meldung/Facebook-Gesetz-NetzDG-macht-Soziale-Netze-zu-Richtern-ueber-Hate-Speech-3929110.html)
