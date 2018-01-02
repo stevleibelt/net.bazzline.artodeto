@@ -2,3 +2,5 @@
 * [Gemessen mit unterschiedlichem Maß? Bei der Statistik "Gewalt gegen Polizisten" werden auch Beleidigungen mitgezählt.](https://blog.fefe.de/?ts=a4b61faa)
 * [Tennet macht Stimmung um Subventionen abzukassieren. Warum? Weil deren Kohlekraftwerke sonst keinen Strom ins Ausland transportieren können.](https://www.heise.de/newsticker/meldung/Stromnetz-unter-Druck-Tennet-meldet-Rekordkosten-fuer-Noteingriffe-3929093.html) - 1 Milliarde ist für solch einen Konzern im übringen nichts, was weh tut.
 * [Ab dem 01.01.2018 dürfen private Konzerne entscheiden, was wahr und was falsch ist, besser kann es für die Blockpartei CDU/CSU/SPD/Die Grünen/FDP nicht laufen.](https://www.heise.de/newsticker/meldung/Facebook-Gesetz-NetzDG-macht-Soziale-Netze-zu-Richtern-ueber-Hate-Speech-3929110.html)
+* [Fefe hat Tilo Jung auch 2017 auf dem 34c3 ein Interview gegeben.](https://www.youtube.com/watch?v=jROuVtMcHas)
+* [Lidl, Kaufland, Aldi, Rewe, Edeka und wie sie euch dazu bringen Dinge zu kaufen die ihr nicht braucht.](https://netzfrauen.org/2018/01/02/discounterkrieg/)
