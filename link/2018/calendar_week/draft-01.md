@@ -30,3 +30,5 @@
 * [Lenovo lernt nicht aus den Wünschen der Nutzer. Beim neuen X280 fehlt der Ethernetanschluss, der Akku ist nicht mehr wechselbar und der Arbeitsspeicher ist jetzt gesockelt.](https://www.heise.de/ix/meldung/Start-ins-Modelljahr-2018-Neun-neue-ThinkPads-fuers-Buero-3933090.html) - Das alles wird mit "dünner" und "leichter" begründet. Dabei sind die Thinkpads deshalb so beliebt (neben dem Ultranav), weil man sie reparieren kann und weil sie einen Ethernetport haben.
 * [Datenreichtum in Indien - mehr als eine Milliarde Datensätze.](https://www.heise.de/newsticker/meldung/Indien-Wohl-mehr-als-eine-Milliarde-Personendaten-aus-staatlicher-Datenbank-abgegriffen-3934463.html)
 * [Die magische Hand des Marktes am Beispiel der Nährwert-Ampel.](https://www.foodwatch.org/de/informieren/ampelkennzeichnung/aktuelle-nachrichten/pseudo-ampel-rechnet-produkte-gesund/)
+* [Was man so alles in der Spülmaschine reinigen kann.](https://www.smarticular.net/spuelmaschine-zweckentfremden-spielzeug-schuhe-spuelschwamm/)
+* [Datenreichtum bei GPS-Tracking-Services.](https://www.heise.de/security/meldung/Trackmageddon-GPS-Tracking-Services-ermoeglichen-unbefugten-Zugriff-3934328.html)
