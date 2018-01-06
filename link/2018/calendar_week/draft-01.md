@@ -32,3 +32,8 @@
 * [Die magische Hand des Marktes am Beispiel der Nährwert-Ampel.](https://www.foodwatch.org/de/informieren/ampelkennzeichnung/aktuelle-nachrichten/pseudo-ampel-rechnet-produkte-gesund/)
 * [Was man so alles in der Spülmaschine reinigen kann.](https://www.smarticular.net/spuelmaschine-zweckentfremden-spielzeug-schuhe-spuelschwamm/)
 * [Datenreichtum bei GPS-Tracking-Services.](https://www.heise.de/security/meldung/Trackmageddon-GPS-Tracking-Services-ermoeglichen-unbefugten-Zugriff-3934328.html)
+* [ccc termin pad.](http://pads.ccc.de/termine)
+* [AMD hat jetzt wohl auch seinen Sicherheitsfehler in der CPU.](https://blog.fefe.de/?ts=a4ae739e)
+* [Springer (Friede Springer) und Bertelsmann (Liz Mohn) wollen Merkel wohl durch einen "Freund der transatlantischen Brücke" ersetzen.](https://www.heise.de/tp/features/Merkel-muss-weg-Ja-wirklich-Vorsicht-3935273.html) - Damit würden wir wieder ein Schritt näher zur Aufgabe unserer außenpolitischen Souveränität kommen, dann bestimmen die USA einfach direkt was Deutschland machen muss oder darf.
+* [Elsevier will noch doch kein Geld von deutschen Universitäten.](https://blog.fefe.de/?ts=a4b1031d)
+* [Intel sieht die Fehler in ihren Produkten nur als "Marketingproblem" an - Salamitaktik at its best.](https://blog.fefe.de/?ts=a4b102bf)
