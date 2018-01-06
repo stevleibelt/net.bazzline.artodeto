@@ -37,3 +37,8 @@
 * [Springer (Friede Springer) und Bertelsmann (Liz Mohn) wollen Merkel wohl durch einen "Freund der transatlantischen Brücke" ersetzen.](https://www.heise.de/tp/features/Merkel-muss-weg-Ja-wirklich-Vorsicht-3935273.html) - Damit würden wir wieder ein Schritt näher zur Aufgabe unserer außenpolitischen Souveränität kommen, dann bestimmen die USA einfach direkt was Deutschland machen muss oder darf.
 * [Elsevier will noch doch kein Geld von deutschen Universitäten.](https://blog.fefe.de/?ts=a4b1031d)
 * [Intel sieht die Fehler in ihren Produkten nur als "Marketingproblem" an - Salamitaktik at its best.](https://blog.fefe.de/?ts=a4b102bf)
+* [Die EU subventioniert mit unseren Steuergelden eine Überproduktion von schlechter Milch die keiner konsumieren will (weil Milch krank macht) oder kann (weil die Menschen schon krank sind).](https://netzfrauen.org/2018/01/06/milchluege/)
+* [Qualcom's CPU's sind auch im arsch.](https://www.heise.de/newsticker/meldung/Prozessorluecke-Auch-Qualcomm-CPUs-sind-anfaellig-3935270.html)
+* [Der Raspberry Pi ist nicht angreifbar und der tolle Bonus, sie erklären nebenbei warum und wieso.](https://www.raspberrypi.org/blog/why-raspberry-pi-isnt-vulnerable-to-spectre-or-meltdown/)
+* [Puhh, der Meltdown-Patch kostet echt scheiße viel Leistung, Epic Games, Elasticache und Apache Kafka.](https://blog.fefe.de/?ts=a4ae1008)
+* [Manfred Weber von der CSU zeigt seine Nähe zur geistigen Heimat Österreich als er von der totalen Flüchtlingsfrage schwadroniert.](http://www.tagesspiegel.de/politik/csu-klausurtagung-finale-loesung-der-fluechtlingsfrage-weber-bedauert-umstrittene-aussage/20819300.html)
