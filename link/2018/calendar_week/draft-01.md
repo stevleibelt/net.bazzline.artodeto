@@ -42,3 +42,9 @@
 * [Der Raspberry Pi ist nicht angreifbar und der tolle Bonus, sie erklären nebenbei warum und wieso.](https://www.raspberrypi.org/blog/why-raspberry-pi-isnt-vulnerable-to-spectre-or-meltdown/)
 * [Puhh, der Meltdown-Patch kostet echt scheiße viel Leistung, Epic Games, Elasticache und Apache Kafka.](https://blog.fefe.de/?ts=a4ae1008)
 * [Manfred Weber von der CSU zeigt seine Nähe zur geistigen Heimat Österreich als er von der totalen Flüchtlingsfrage schwadroniert.](http://www.tagesspiegel.de/politik/csu-klausurtagung-finale-loesung-der-fluechtlingsfrage-weber-bedauert-umstrittene-aussage/20819300.html)
+* [Ihr wollt Selbstversorger werden? Dieser Blog-Eintrag gibt euch einen seelischen Einstieg.](http://www.neulichimgarten.de/blog/dies-und-das/traeume-muessen-wahr-werden/)
+* [Hey, wir sammeln nur Metadaten, was soll damit schon passieren? Nun, so kranke Ideen wie anhand von Straßenfotos das Wahlverhalten herauszufinden.](https://www.heise.de/newsticker/meldung/Missing-Link-Street-View-verraet-Wahlverhalten-oder-Datenschutz-mit-KI-aushebeln-3935313.html) - Das ist in den USA wichtig, da man dort immer die Wahlbereiche so festlegt, dass man diesen möglichst gewinnt.
+* [Was kann man alles mit einer Bananenschale machen? Lederschuhpflege zum Beispiel!](https://www.smarticular.net/tricks-bananenschalen-sinnvoll-weiterverwenden/)
+* [Fefe hat recht, da expolidert gerade die Hardware im Cloudmarkt aber man hört nichts davon. Entweder zahlt Intel bereits Schweigegeld oder die drohen mit fiesen Anwaltsgehabe.](https://blog.fefe.de/?ts=a4afaacc)
+* [Intels Bug erzeugt dann mal den dreifache Zeitverbrauch auf System-Call-Ebene und Intel verhält sich wie ein riesen Arschloch.](https://blog.fefe.de/?ts=a4af919e)
+* ["Smart Home", "IoT" und wie beschissen die Idee ist - in den USA wirbt ein ISP damit, dass sie dir deine Heizung ausschalten, wenn du P2P nutzt.](https://blog.fefe.de/?ts=a4af8c24)
