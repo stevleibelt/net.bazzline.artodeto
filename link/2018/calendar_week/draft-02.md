@@ -6,3 +6,4 @@
 * [Sexroboter und wie sich die Gesellschaft weiter entfremdet.](https://www.heise.de/newsticker/meldung/Sexroboter-Hype-oder-Trend-3935769.html)
 * [Bald wird es wohl ein "Feature" im Hotel sein, wenn man keine Dauerüberwachung und Dauerbestrahlung (durch WLan) im Hotelzimmer hat.](https://www.golem.de/news/smart-home-alexa-kommt-in-den-lichtschalter-und-den-badspiegel-1801-132010.html)
 * [Symptombekämpfung in den USA, statt sich um die Ursachen von verirrten Kindern und Jugendlichen zu kümmern, lässt man ein Ego-Shooter bauen, um die Schüler auf den Fall "Amoklauf" zu trainieren.](https://www.golem.de/news/us-army-multiplayer-spiel-lehrt-verhalten-bei-schulamoklaeufen-1801-132017.html) - Eine Kapitulation an der ganzen Jugend ist das.
+* [Die CPU von der Xbox 360 ist wohl auch "broken by design".](https://randomascii.wordpress.com/2018/01/07/finding-a-cpu-design-bug-in-the-xbox-360/)
