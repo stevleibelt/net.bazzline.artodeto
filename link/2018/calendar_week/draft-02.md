@@ -11,3 +11,6 @@
 * [Die Apothekenlobby ist auch gern kriminell um an eure Kundendaten zu kommen.](https://blog.fefe.de/?ts=a4ad7f8e)
 * [Der Pharmakonzern Sanofin zeigt erneut wie wenig sie ihre Impfstoffe testen.](https://netzfrauen.org/2018/01/08/54752/) - ... also sie testen sie schon, am Patienten und Sanofin hat es so sehr verkackt, dass man es nicht mehr unter den üblichen Teppich kehren kann, Sanofin's Gift tötet echt gut.
 * [Das Passivhaus-Kompendium ist für 2018 verfügbar und kostet rund 9 Euro.](http://www.sonnenseite.com/de/tipps/passivhaeuser-komfortabel-zukunftssicher-und-sparsam.html)
+* [Die Deutsche Gesellschaft für Datenschutz bietet einen "DS-GVO-konforme Datenschutzerklärungs"-Generator-Website an.](https://dg-datenschutz.de/muster-datenschutzerklarung/)
+* [VTech muss nur 650.000 Euro Strafe zahlen, dass sie Daten illegal erhoben und dann rund 6.4 Millionen davon ans www verloren haben.](https://www.heise.de/newsticker/meldung/Millionen-Profildaten-gehackt-650-000-Dollar-Strafe-fuer-Leck-bei-Spielzeug-Firma-VTech-3936912.html)
+* [MusE wurde in der Version 3.0 veröffentlicht.](https://www.pro-linux.de/news/1/25484/muse-30-erschienen.html)
