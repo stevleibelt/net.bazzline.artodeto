@@ -14,3 +14,5 @@
 * [Die Deutsche Gesellschaft für Datenschutz bietet einen "DS-GVO-konforme Datenschutzerklärungs"-Generator-Website an.](https://dg-datenschutz.de/muster-datenschutzerklarung/)
 * [VTech muss nur 650.000 Euro Strafe zahlen, dass sie Daten illegal erhoben und dann rund 6.4 Millionen davon ans www verloren haben.](https://www.heise.de/newsticker/meldung/Millionen-Profildaten-gehackt-650-000-Dollar-Strafe-fuer-Leck-bei-Spielzeug-Firma-VTech-3936912.html)
 * [MusE wurde in der Version 3.0 veröffentlicht.](https://www.pro-linux.de/news/1/25484/muse-30-erschienen.html)
+* [Puh, bei der Meldung muss man lange überlegen ob das als Realsatiere oder wirklich ernst gemeint ist - D-Link und McAfee stellen einen "Sicherheits-Router" vor.](https://www.golem.de/news/wlan-d-link-und-mcafee-stellen-sicherheits-router-vor-1801-132066.html)
+* [Interessante Geschichte in Portland/USA, erst als die Bevölkerung angefangen hat, den Hausmüll der Politiker zu durchwühlen, fanden die Politiker, dass der Hausmüll wohl doch privat und kein öffentliches Gut ist.](https://blog.fefe.de/?ts=a4abc3d4)
