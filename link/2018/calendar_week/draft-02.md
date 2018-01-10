@@ -16,3 +16,6 @@
 * [MusE wurde in der Version 3.0 veröffentlicht.](https://www.pro-linux.de/news/1/25484/muse-30-erschienen.html)
 * [Puh, bei der Meldung muss man lange überlegen ob das als Realsatiere oder wirklich ernst gemeint ist - D-Link und McAfee stellen einen "Sicherheits-Router" vor.](https://www.golem.de/news/wlan-d-link-und-mcafee-stellen-sicherheits-router-vor-1801-132066.html)
 * [Interessante Geschichte in Portland/USA, erst als die Bevölkerung angefangen hat, den Hausmüll der Politiker zu durchwühlen, fanden die Politiker, dass der Hausmüll wohl doch privat und kein öffentliches Gut ist.](https://blog.fefe.de/?ts=a4abc3d4)
+* [Öl ist wichtiger als das Überleben einer Spezies.](https://netzfrauen.org/2018/01/09/uganda/) - Zum Glück ist es weit weg in Afrika, in den USA und in Europa haben wir ja soweit alles schon ausgerottet was "stört".
+* [Mit webfonts kann man wohl wunderbar Kreditkartendaten und Passwörter holen.](https://blog.fefe.de/?ts=a4abe6d3) - So ist das halt, wenn man Kram von einer anderen Webseite einbindet. Das Prinzip Hoffnung hilft hier nicht. [Fefe](https://blog.fefe.de/?ts=a4abb19f) hat einen Einsendung dazu veröffentlicht.
+* [Der Autor von "The Art of Programming" wurde heute 80 Jahre alt.](https://www.heise.de/newsticker/meldung/Donald-E-Knuth-Der-Informatik-Papst-wird-80-3936496.html)
