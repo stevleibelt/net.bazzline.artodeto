@@ -19,3 +19,9 @@
 * [Öl ist wichtiger als das Überleben einer Spezies.](https://netzfrauen.org/2018/01/09/uganda/) - Zum Glück ist es weit weg in Afrika, in den USA und in Europa haben wir ja soweit alles schon ausgerottet was "stört".
 * [Mit webfonts kann man wohl wunderbar Kreditkartendaten und Passwörter holen.](https://blog.fefe.de/?ts=a4abe6d3) - So ist das halt, wenn man Kram von einer anderen Webseite einbindet. Das Prinzip Hoffnung hilft hier nicht. [Fefe](https://blog.fefe.de/?ts=a4abb19f) hat einen Einsendung dazu veröffentlicht.
 * [Der Autor von "The Art of Programming" wurde heute 80 Jahre alt.](https://www.heise.de/newsticker/meldung/Donald-E-Knuth-Der-Informatik-Papst-wird-80-3936496.html)
+* [15 Dinge die du mit Kaffeesatz machen kannst.](https://www.smarticular.net/kaffeesatz-in-garten-haushalt-und-kosmetik-weiterverwenden/)
+* [Sourceforge.net hat einen neuen Anstrich bekommen.](https://sourceforge.net/)
+* [FlashRom wurde in der Version 1.0 veröffentlicht.](https://www.pro-linux.de/news/1/25486/flashrom-10-freigegeben.html)
+* [Reborn OS scheint ein Arch Linux mit schönen Installer zu sein.](https://rebornos.wordpress.com/)
+* [Natriumfluorid - was unter anderem in eurer Zahnpaste ist - ist ein Gift.](https://de.wikipedia.org/wiki/Natriumfluorid)
+* [Könnt ihr euch noch daran erinnern, dass jeder sein eigenes Internet hatte, AOL, Telekom, Freenet? Google will das mit AMP jetzt auch wieder so haben.](https://blog.fefe.de/?ts=a4a8c866) - Ist halt auch einfacher an die Nutzerdaten zu kommen als über das lästige Analytics.
