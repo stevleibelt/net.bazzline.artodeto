@@ -30,3 +30,4 @@
 * [Zitronensäure, Backpulver und Tafelessig, damit kriegt ihr eurer WC gut und nachhaltig sauber.](https://www.smarticular.net/toilette-reinigen-und-sauber-halten-mit-hausmitteln/)
 * [NextcloudTalk ist für Nextcloud 13 veröffentlicht worden womit ihr selber eure eigene Video-Chat-Plattform betreiben könnt.](https://nextcloud.com/blog/introducing-a-full-self-hosted-audiovideo-and-chat-communication-platform-nextcloud-talk/) - Es gibt die [Anwendung](http://karlitschek.de/2018/01/nextcloud-talk-is-here/) für die Nextcloud, für Android und für IOS
 * [Deutschland inst Exporweltmeister und Lohndumpingweltmeister gleichzeitig.](https://netzfrauen.org/2018/01/11/lohndumping/)
+* [Intel scheißt weiter auf die Kunden und testet ihren "Patch" nur mit den modernsten CPU's, weil da die CPU-Performanze "nur" um 10 Prozent und die SSD-Performanze "nur" um 46 Prozent einbricht.](https://blog.fefe.de/?ts=a4a942dc)
