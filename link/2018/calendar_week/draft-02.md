@@ -1,4 +1,4 @@
-* ["Thermisch Anspruchsvoll" oder die nette Art zu schreiben, dass Intels 4-Kerner einfach zu heiß werden und im Vergleich zu AMD's CPUs abstinken.](https://www.heise.de/newsticker/meldung/13-Zoll-Notebooks-Intels-Mini-Quadcore-schnell-aber-thermisch-anspruchsvoll-3934624.html)
+00* ["Thermisch Anspruchsvoll" oder die nette Art zu schreiben, dass Intels 4-Kerner einfach zu heiß werden und im Vergleich zu AMD's CPUs abstinken.](https://www.heise.de/newsticker/meldung/13-Zoll-Notebooks-Intels-Mini-Quadcore-schnell-aber-thermisch-anspruchsvoll-3934624.html2
 * ["Western Digital Mycloud" ist seit über sechs Monaten kaputt/offen/angreifbar und Western Digital macht nichts dagegen.](https://blog.fefe.de/?ts=a4ac7752)
 * [Datenreichtum bei Hackfressenbuch.](https://blog.fefe.de/?ts=a4ac76cf)
 * [Zu hoch für mich, aber es klingt so simple, Fefe's Erklärung warum AMD's SMT doppelt so viel Leistung bringt wie Intels.](https://blog.fefe.de/?ts=a4ac7405)
@@ -25,3 +25,8 @@
 * [Reborn OS scheint ein Arch Linux mit schönen Installer zu sein.](https://rebornos.wordpress.com/)
 * [Natriumfluorid - was unter anderem in eurer Zahnpaste ist - ist ein Gift.](https://de.wikipedia.org/wiki/Natriumfluorid)
 * [Könnt ihr euch noch daran erinnern, dass jeder sein eigenes Internet hatte, AOL, Telekom, Freenet? Google will das mit AMP jetzt auch wieder so haben.](https://blog.fefe.de/?ts=a4a8c866) - Ist halt auch einfacher an die Nutzerdaten zu kommen als über das lästige Analytics.
+* [Ein Hoch auf den Mühlen- und Flockerhersteller Hawos.](https://hawos.de/) - Die Beratung ist nett sowie kompetent und sie helfen der Umwelt, indem sie Rückläufer oder Vorführmodelle verkaufen.
+* [Salat und Sommergemüse im Winter, wie kommt das?](https://netzfrauen.org/2018/01/11/mar-de-plastico/) - Indem wir in Afrika auf Monokulturplantagen mit massiven Einsatz von Pflanzengiften, Plastik und Dumpinglohnen Gemüse anbauen ... damit wir in Europa dann die Hälfte wegschmeißen.
+* [Zitronensäure, Backpulver und Tafelessig, damit kriegt ihr eurer WC gut und nachhaltig sauber.](https://www.smarticular.net/toilette-reinigen-und-sauber-halten-mit-hausmitteln/)
+* [NextcloudTalk ist veröffentlicht worden womit ihr selber eure eigene Video-Chat-Plattform betreiben könnt.](https://nextcloud.com/blog/introducing-a-full-self-hosted-audiovideo-and-chat-communication-platform-nextcloud-talk/) - Es gibt die [Anwendung](http://karlitschek.de/2018/01/nextcloud-talk-is-here/) für die Nextcloud, für Android und für IOS
+* [Deutschland inst Exporweltmeister und Lohndumpingweltmeister gleichzeitig.](https://netzfrauen.org/2018/01/11/lohndumping/)
