@@ -1,4 +1,4 @@
-00* ["Thermisch Anspruchsvoll" oder die nette Art zu schreiben, dass Intels 4-Kerner einfach zu heiß werden und im Vergleich zu AMD's CPUs abstinken.](https://www.heise.de/newsticker/meldung/13-Zoll-Notebooks-Intels-Mini-Quadcore-schnell-aber-thermisch-anspruchsvoll-3934624.html2
+* ["Thermisch Anspruchsvoll" oder die nette Art zu schreiben, dass Intels 4-Kerner einfach zu heiß werden und im Vergleich zu AMD's CPUs abstinken.](https://www.heise.de/newsticker/meldung/13-Zoll-Notebooks-Intels-Mini-Quadcore-schnell-aber-thermisch-anspruchsvoll-3934624.html2
 * ["Western Digital Mycloud" ist seit über sechs Monaten kaputt/offen/angreifbar und Western Digital macht nichts dagegen.](https://blog.fefe.de/?ts=a4ac7752)
 * [Datenreichtum bei Hackfressenbuch.](https://blog.fefe.de/?ts=a4ac76cf)
 * [Zu hoch für mich, aber es klingt so simple, Fefe's Erklärung warum AMD's SMT doppelt so viel Leistung bringt wie Intels.](https://blog.fefe.de/?ts=a4ac7405)
@@ -41,3 +41,8 @@
 * [WTF? "Israel to Pay $9,000 to Any Civilian Willing to Help Deport Asylum Seekers by Force"](https://blog.fefe.de/?ts=a4a66f57)
 * [Das Bankengeheimnis ist offiziell zu Ende, Dritte dürfen bald in euren Kontodaten schnucheln und jedes Gespräch mit eurem Bankberater muss für 5 Jahre aufgezeichnet werden.](https://blog.fefe.de/?ts=a4a6057e)
 * [Europa will die Nummer Eins als Fleischerzeuger werden, auf Kosten der Steuerzahler und der Umwelt.](https://netzfrauen.org/2018/01/12/agrarindustrie/)
+* [Passend zu Spectre und Meltdown wird mal in die Welt geschrieben, dass Alphabet (also google) seit 2016 mit IBM's Power 9 rumprobiert.](https://zaitcev.livejournal.com/243077.html)
+* [Interpol, der Verein der die Zusammenarbeit zwischen den nationalen Polizeibehörden verbessern soll, hat nichts besseres zu tun als sich einem Content-Mafia-Problem anzunehmen.](https://www.golem.de/news/fernsehen-interpol-beendet-illegales-iptv-streaming-von-sky-1801-132154.html) - Ich dachte immer, die sind für sowas wie [Wahrung des Weltfriedens](https://de.wikipedia.org/wiki/Interpol) etc. zuständig.
+* [Der geistheiler Sananda ist im Gespräch bei welt-im-wandel.tv.](http://www.welt-im-wandel.tv/video/mind-control-dringender-aufruf-an-die-menschheit-sananda/(
+* [Nach TTIP ist vor ... oh mir wird schlecht, die EU will immer verrücktere Freihandelsabkommen ... also nicht die Bürger der EU sondern die Superreichen.](https://www.heise.de/tp/features/Was-wurde-aus-TTIP-Ceta-und-den-anderen-Freihandelsabkommen-3935971.html)
+* [Kanada, Großbritannien und Neuseeland verbiete Mikroplastik - Super und EU, bitte abschauen und nachmachen!](https://netzfrauen.org/2018/01/13/mikoplastik-2/)
