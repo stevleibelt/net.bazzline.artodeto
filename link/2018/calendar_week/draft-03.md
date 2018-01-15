@@ -7,3 +7,4 @@
 * [Wie funktioniert so ein Debugger eigentlich? Hier wird es euch grundlegend erklärt.](https://opensource.com/article/18/1/how-debuggers-really-work)
 * [Coreboot wurde in der Version 4.7 veröffentlicht.](https://coreboot.org/releases/coreboot-4.7-relnotes.txt)
 * [30 Minuten Zeit zum Lesen und wirken lassen? Fefe hat einen Artikel von Richard Rorty empfohlen bekommen.](https://blog.fefe.de/?ts=a4a265e6)
+* [Subventionen machen alles kaputt, Tomaten aus China und wer die italienischen Tomaten will, bekommt die aus Australien.](https://netzfrauen.org/2018/01/15/tomaten-2/)
