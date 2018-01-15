@@ -5,3 +5,5 @@
 * [EMC in VMWare ist dann wohl auch kaputt.](https://blog.fefe.de/?ts=a4a29ca5)
 * [Ihr seid auf der Suche nach einem wissenschaftlichen Taschenrechner unter Linux? Speedcrunch und Qalculate sind etwaig was für euch.](https://opensource.com/article/18/1/scientific-calculators-linux)
 * [Wie funktioniert so ein Debugger eigentlich? Hier wird es euch grundlegend erklärt.](https://opensource.com/article/18/1/how-debuggers-really-work)
+* [Coreboot wurde in der Version 4.7 veröffentlicht.](https://coreboot.org/releases/coreboot-4.7-relnotes.txt)
+* [30 Minuten Zeit zum Lesen und wirken lassen? Fefe hat einen Artikel von Richard Rorty empfohlen bekommen.](https://blog.fefe.de/?ts=a4a265e6)
