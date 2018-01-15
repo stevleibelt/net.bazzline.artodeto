@@ -1,0 +1,7 @@
+* [Nein? Doch! Oh? Smartphone-Anwendung zur Steuerung von Industrie-Anlagen sind unsicher.](https://www.heise.de/newsticker/meldung/Smartphone-Apps-zur-Steuerung-von-Industrie-Anlagen-sind-voller-Sicherheitsluecken-3940033.html) - Die ganzen Industrie-Anlagen sind offen und kaputt und man hat nichts besseres zu tun als alles auch noch mit dem Smartphone steuern zu wollen? Ich mach mir wohl zu viele Gedanken um das Thema Sicherheit ...
+* [Klever gemacht, die "Mauer" von Trump macht genau das, wass sie soll, die "freien" Medien können jeden Tag davon berichtet, wie teuer sie wird und so kann Trump und auch Politiker in anderen Ländern machen was sie wollen.](http://www.sonnenseite.com/de/politik/trumps-mauer-wird-immer-teurer.html)
+* [NetzDG und private Firmen die das Wahrheitsministerium spielen dürfen, heute, Hackfressenbuch zensiert eine deutsche Street-Art-Künstlerin weil das nicht schick ist was sie macht.](https://blog.fefe.de/?ts=a4a57744)
+* ["Die Zeit" erlaubt das Lesen von Artikeln nur noch gegen Anmeldung oder wenn du von Twitter kommst.](https://blog.fefe.de/?ts=a4a57650)
+* [EMC in VMWare ist dann wohl auch kaputt.](https://blog.fefe.de/?ts=a4a29ca5)
+* [Ihr seid auf der Suche nach einem wissenschaftlichen Taschenrechner unter Linux? Speedcrunch und Qalculate sind etwaig was für euch.](https://opensource.com/article/18/1/scientific-calculators-linux)
+* [Wie funktioniert so ein Debugger eigentlich? Hier wird es euch grundlegend erklärt.](https://opensource.com/article/18/1/how-debuggers-really-work)
