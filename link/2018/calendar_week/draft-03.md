@@ -15,3 +15,4 @@
 * [Großes Spiel für die Massen, Steve Bannon wird von der Grand Jury vorgeladen.](http://www.bbc.com/news/world-us-canada-42710630)
 * [Dropit für Nextcloud 13, ein privates Pastbin.](https://rullzer.com/introducing-dropit.html)
 * [Designer Baby jetzt via App zu bestellen.](https://netzfrauen.org/2018/01/16/47321-2/)
+* [So beginnt es, BMW will seine Kunden von Besitzer zu Mieter wandeln und man fängt mit Apples CarPlay an.](https://www.heise.de/mac-and-i/meldung/BMW-Apples-CarPlay-schon-jetzt-nur-als-Abo-3944683.html)
