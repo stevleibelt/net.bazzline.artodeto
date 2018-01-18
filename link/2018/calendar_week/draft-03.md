@@ -34,3 +34,5 @@ sudo* [Nein? Doch! Oh? Smartphone-Anwendung zur Steuerung von Industrie-Anlagen 
 * [Datenreichtum bei Patientendaten in Norwegen.](https://www.heise.de/newsticker/meldung/Offenbar-Patienten-Daten-von-fast-3-Millionen-Norwegern-gehackt-3945709.html)
 * [System- und Datenbackup mit Borg, pro-linux.de zeigt euch wie das geht.](https://www.pro-linux.de/artikel/2/1918/system-und-dateibackup-mit-borg.html) - Oder ihr nutzt einfach ZFS und deren Snapshots.
 * [Videoüberwachung in Indies Klassenzimmer für Eltern und Beamte, was soll da schon schief gehen.](https://www.heise.de/newsticker/meldung/Indien-Videoueberwachung-in-Klassenzimmern-fuer-Eltern-und-Beamte-3945533.html)
+* [WTF, zieht ihr um dürft ihr nicht vom Sonderkündigungsrecht gebrauch machen.](https://www.golem.de/news/gerichtsurteil-internet-und-fernsehkunden-muessen-bei-umzug-weiterzahlen-1801-132242.html)
+* [Konzentration von Macht und Reichtum in 10 Schritten.](https://npr.news.eulu.info/2018/01/18/10-prinzipien-zur-konzentration-von-reichtum-und-macht/)
