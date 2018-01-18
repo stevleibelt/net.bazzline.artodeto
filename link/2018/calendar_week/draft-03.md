@@ -36,3 +36,5 @@ sudo* [Nein? Doch! Oh? Smartphone-Anwendung zur Steuerung von Industrie-Anlagen 
 * [Videoüberwachung in Indies Klassenzimmer für Eltern und Beamte, was soll da schon schief gehen.](https://www.heise.de/newsticker/meldung/Indien-Videoueberwachung-in-Klassenzimmern-fuer-Eltern-und-Beamte-3945533.html)
 * [WTF, zieht ihr um dürft ihr nicht vom Sonderkündigungsrecht gebrauch machen.](https://www.golem.de/news/gerichtsurteil-internet-und-fernsehkunden-muessen-bei-umzug-weiterzahlen-1801-132242.html)
 * [Konzentration von Macht und Reichtum in 10 Schritten.](https://npr.news.eulu.info/2018/01/18/10-prinzipien-zur-konzentration-von-reichtum-und-macht/)
+* [Wie die AfD im Bundestag behandelt wird, zeigt wie sich die Blockpartei CDU/CSU/SPD/Die Grünen/FDP um die Wünsche des Volkes scheren.](https://blog.fefe.de/?ts=a49e3366)
+* [XprivacyLua soll für Android ein Fake-Daten-Generator für die ganzen Schnüffelanwendungen sein.](https://www.heise.de/newsticker/meldung/XprivacyLua-Android-Anwendungen-mit-falschen-Daten-fuettern-3946079.html)
