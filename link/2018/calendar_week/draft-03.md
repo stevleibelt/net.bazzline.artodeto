@@ -41,3 +41,9 @@
 * [Masttierhaltung für den übertriebenen Fleischkonsum, Stahl für Autos und sonstigen Kram, all das führt dazu, dass jeder Konsument für Völkermord in Brasilien verantwortlich ist.](https://netzfrauen.org/2018/01/19/brazils-amazon-2/) - Harte Worte, aber mir fällt so langsam nichts mehr ein wie ich den Ernst der Lage sonst klar machen soll.
 * [Alexa und Co kann man mit "unterschwelligen Botschaften" programmieren - start vereinfacht geschrieben.](https://tuxproject.de/blog/2018/01/kurz-verlinkt-alexa-mach-etwas-voellig-anderes/)
 * [WTF, das Gericht hat jetzt jemanden verurteilt, weil er wohl in der Nähe einer Demonstration war.](https://rdl.de/beitrag/verurteilung-wg-psychischer-beihilfe-zu-versuchter-n-tigung) - ["psychischer Beihilfe zu versuchter Nötigung"](https://blog.fefe.de/?ts=a49fce69)
+* [Wine wurde in der Version 3.0 veröffentlicht.](https://www.pro-linux.de/news/1/25518/wine-30-unterst%C3%BCtzt-direct3d-10-und-11.html)
+* [Die NSA darf weiter Gesetze brechen.](https://www.heise.de/newsticker/meldung/NSA-Befugnis-zur-Massenueberwachung-US-Senat-segnet-Verlaengerung-ab-3946489.html)
+* [Git wurde in der Version 2.16 veröffentlicht.](https://www.pro-linux.de/news/1/25520/git-216-freigegeben.html)
+* [Gute Idee von den netzfrauen. Warum wir eine "fake oder news"-Plattform brauchen.](https://netzfrauen.org/2018/01/19/fakenews/)
+* [Wow, was soll das? Die SPD ist für einen Rüstungsexporstopp für die am Jemenkrieg beteiligten Nationen.](https://blog.fefe.de/?ts=a49f3564) - Ich glaub, da hängt einfach nur eine Überweisung fest.
+* [Die AfD hat mal nachzählen lassen ob überhaupt genug Abgeordnete im Bundestag sind um beschlussfähig zu sein - nein, waren nicht.](https://blog.fefe.de/?ts=a49f3460)
