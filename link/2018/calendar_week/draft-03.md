@@ -47,3 +47,11 @@
 * [Gute Idee von den netzfrauen. Warum wir eine "fake oder news"-Plattform brauchen.](https://netzfrauen.org/2018/01/19/fakenews/)
 * [Wow, was soll das? Die SPD ist für einen Rüstungsexporstopp für die am Jemenkrieg beteiligten Nationen.](https://blog.fefe.de/?ts=a49f3564) - Ich glaub, da hängt einfach nur eine Überweisung fest.
 * [Die AfD hat mal nachzählen lassen ob überhaupt genug Abgeordnete im Bundestag sind um beschlussfähig zu sein - nein, waren nicht.](https://blog.fefe.de/?ts=a49f3460)
+* [Amazon will seine Alexa-Wanze jetzt für alle Entwickler öffnen.](https://blog.fefe.de/?ts=a49df509)
+* [Kreditkartendatenreichtum bei OnePlus.](https://www.heise.de/newsticker/meldung/Daten-von-40-000-Kreditkarten-bei-OnePlus-kompromittiert-3947163.html)
+* [Alle Jahre wieder, die Behörden der USA sind mal wieder ohne Gelder.](https://netzfrauen.org/2018/01/20/trump-shutdown-legt-usa-lahm/)
+* [Ökologische Landwirtschaft funktioniert, Indien ist da eine Art Mekka für viele Menschen die fast vergessenes Wissen nutzen um es Menschen beizubringen, die es wissen wollen.](https://netzfrauen.org/2018/01/20/organic/) - In unseren Industrienationen ist das kaum vorstellbar, eine Welt ohne Pharmakonzern und mit gesunder Umwelt, daran kann man doch nichts verdienen.
+* [Boden wurde zu erst privatisiert, gerade sind die Megakonzerne am Wasser dran, die Luft wird folgen, wenn wir nichts dagegen machen.](https://netzfrauen.org/2018/01/19/megakonzerne/)
+* [Fefe hat lange Gedanken zu "Peterson und Ekel", da sind auch so viele Gedanken dabei, dass das Wochenende voll ist :-D.](https://blog.fefe.de/?ts=a49ce4e2)
+* [Eisbergsalat, Römersalat, Endiviensalat, Feldsalat und viele mehr, wann esse ich welchen und wie schmeckt er und zu was?](http://www.kraeuterallerlei.de/salatsorten-abc/)
+* [Die erfolgreichsten Steuerfahnder der Nation (aus Wuppertal) wurde gegangen, damit man bei dem Klientel von CDU/CSU und FDP nicht mehr so genau hinschaut.](https://blog.fefe.de/?ts=a49cd1d9)
