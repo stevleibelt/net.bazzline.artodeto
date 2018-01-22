@@ -2,3 +2,8 @@
 * [Die Internetzensurmaschine funktioniert, wer nicht hinter der Blockpartei steht, existiert nicht im Internet.](https://twitter.com/gruene_jugend/status/955175310475038721)
 * [Das Leben in einer Großstadt mach den Menschen krank und sein Gehirn klein.](http://www.danisch.de/blog/2018/01/21/berlin-schrumpft-hirn/)
 * [Der CCC fast einmal zusammen, was für ein Ranz der "Vodafone Pass" so ist und welche Nachteile dieses Vorgehen für uns alle hat.](https://www.ccc.de/de/updates/2018/vodafonepass)
+* [Das, was bei der Deutschen Bahn zu mehr prikären Arbeitsplätzen und mehr Vetternwirtschaft geführt hat, soll jetzt auch bei der deutschen Telekom passieren.](https://www.heise.de/newsticker/meldung/Verdi-kritisiert-geplante-Aufspaltung-von-T-Systems-3947485.html)
+* [Wir vergiften uns, unsere Kinder und damit auch deren Kinder mit unserer Industrienahrung, die voll von giftigen Zusatzstoffen und genmanipulierten Kram ist.](https://netzfrauen.org/2018/01/22/babynahrung/)
+* [Wisst ihr was wir bei all den Ozonlöchern brauchen? Laserstrahlen die ins All schießen!](https://www.golem.de/news/raumfahrt-weltraummuell-raeumkommando-mit-laserkanonen-1801-132220.html)
+* [WTF? Da hat wohl jemand das Memo nicht bekommen, dass die Welt ein gefährlicher Ort ist und man sich nicht vor allem schützen kann?](https://www.heise.de/newsticker/meldung/Schutzranzen-Projekt-kombiniert-Kinder-Tracking-mit-Verkehrssicherheit-3947907.html) - Niemand ist wohl an selbstdenkende und mündige Mitmenschen/Bürger interssiert.
+* ["[...] Eine linke Position, verstand als starke soziale, solidarische Ausrichtung der Gesellschaft, die alle Menschen gleichWERTIG behandelt,  gibt es kaum. [...]"](https://npr.news.eulu.info/2018/01/22/linke-gedanken-linke-wahrnehmung/)
