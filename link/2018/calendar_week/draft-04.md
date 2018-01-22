@@ -7,3 +7,6 @@
 * [Wisst ihr was wir bei all den Ozonlöchern brauchen? Laserstrahlen die ins All schießen!](https://www.golem.de/news/raumfahrt-weltraummuell-raeumkommando-mit-laserkanonen-1801-132220.html)
 * [WTF? Da hat wohl jemand das Memo nicht bekommen, dass die Welt ein gefährlicher Ort ist und man sich nicht vor allem schützen kann?](https://www.heise.de/newsticker/meldung/Schutzranzen-Projekt-kombiniert-Kinder-Tracking-mit-Verkehrssicherheit-3947907.html) - Niemand ist wohl an selbstdenkende und mündige Mitmenschen/Bürger interssiert.
 * ["[...] Eine linke Position, verstand als starke soziale, solidarische Ausrichtung der Gesellschaft, die alle Menschen gleichWERTIG behandelt,  gibt es kaum. [...]"](https://npr.news.eulu.info/2018/01/22/linke-gedanken-linke-wahrnehmung/)
+* [Deswegen wurde Kanabis in den USA legalisiert, damit Bayer-Monsanto dort Gewinne machen können!](https://netzfrauen.org/2018/01/22/marihuana-2/)
+* [Noch einmal Bayer-Monsanto, die sind geistig so verballert und zugekokst, dass sie versuchen ihren Müll als "Bio" in die Märkte zu drücken.](https://netzfrauen.org/2018/01/22/biofortifikation/)
+* [Castle Game Engine wurde in der Version 6.4 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=Castle-Game-Engine-6.4)
