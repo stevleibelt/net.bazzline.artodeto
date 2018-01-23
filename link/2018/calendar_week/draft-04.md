@@ -22,3 +22,4 @@
 * [Hier wird wieder versucht mit krebseregenden Strahlen etwas mehr Gewinn zu generieren.](https://www.golem.de/news/telefonica-5g-test-fuer-tv-uebertragung-im-bayerischen-oberland-1801-132319.html)
 * [LWN.net wurde 20 Jahre alt.](https://www.pro-linux.de/news/1/25531/20-jahre-lwn.html)
 * [Die reichsten Menschen machen die Welt krank und dumm.](https://netzfrauen.org/2018/01/23/davos/) - Nur damit sie sich gemeinsam die Eier kraulen können und über ihren profitiablen Weg der Rettung der Welt nachdenken können. Im Artikel werden auch schön die Verstrickungen der größten Firmen aufgezeigt.
+* [Was macht Israel wenn keiner hinschaut? Syrien das Land streitig machen und die Grenze "optimieren".](https://blog.fefe.de/?ts=a4994cdd)
