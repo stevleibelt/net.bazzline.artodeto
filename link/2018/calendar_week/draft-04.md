@@ -25,3 +25,11 @@
 * [Was macht Israel wenn keiner hinschaut? Syrien das Land streitig machen und die Grenze "optimieren".](https://blog.fefe.de/?ts=a4994cdd)
 * [GNU/ActivePub](https://www.w3.org/TR/activitypub/) ist jetzt ein [W3C empfohlener Standard](https://lwn.net/Articles/745172/rss) - Der Standard definiert dezentralisiertes "social networking".
 * [Sehr schön, die FAZ ist eher auf Männer ausgelegt, während der Spiegel mehr die Frauen als Zielgruppe nutzt.](https://blog.fefe.de/?ts=a499640c)
+* [Wir lassen uns von der Welt des Konsumes blenden und konsumieren um das Wissen zu verdrängen, dass wir unsere Welt und unsere Gesellschaft kaputt machen indem wir nichts machen.](https://netzfrauen.org/2018/01/23/wir-2/)
+* [Tails wurde in der Version 3.5 veröffentlicht.](https://www.pro-linux.de/news/1/25533/tails-35-mit-amd-microcode-freigegeben.html)
+* [Eklig, wenn man die CPU gescheit taktet, kann man über Mittelwelle Daten senden.](https://www.heise.de/newsticker/meldung/PC-und-Notebook-senden-per-JavaScript-auf-Mittelwelle-3948828.html)
+* [Monopole sind halt immer was gutes für die Aktionäre, wenn nur diese lästigen Strafzahlungen nicht wären!](https://www.golem.de/news/monopol-qualcomm-muss-1-milliarde-euro-strafe-an-eu-zahlen-1801-132355.html) - Aber darum kümmert sich zum Glück ja die Lobbyarbeiter und gleichzeitig sind Strafzahlungen mit im Budget eingerechnet.
+* [Nein? Doch! Oh? Überwachung via SMS steigt von Jahr zu Jahr immer mehr an.](https://www.heise.de/newsticker/meldung/IMSI-Catcher-Stille-SMS-und-Funkzellenauswertung-Digitale-Ueberwachung-auf-Allzeit-Hoch-3949971.html) - Muss ja viele Terroristen da draußen geben.
+* [Nextcloud wurde in der Version 12.0.5 und 11.0.7 veröffentlicht.](https://nextcloud.com/blog/12.0.5-and-11.0.7-are-out-time-to-upgrade/)
+* [Ihr wollt oder sollt euch mit dem HPV-Impfstoff impfen lassen? Lest das mal lieber durch.](https://netzfrauen.org/2018/01/24/hpv/)
+* [Das muss die magische Hand des freien Markets sein, die über 750 Gemeinden in den USA dazu bewogen hat ihr eigenes Breitbandnetz zu betreiben.](https://www.golem.de/news/usa-750-gemeinden-betreiben-ihr-eigenes-breitbandnetz-1801-132352.html)
