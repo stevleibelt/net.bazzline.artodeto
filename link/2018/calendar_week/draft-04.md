@@ -51,3 +51,6 @@
 * [Das BSI will demnächst Richtlinen für Heimrouter herausbringen, dies finden ISP-Anbieter natürlich kacke.](https://www.golem.de/news/bsi-richtlinie-der-streng-geheime-streit-ueber-die-routersicherheit-1801-132363.html) - Ich hätte ja gern einfach nur ein Modem und gut ist.
 * [Kann ich nur unterschreiben, packt Obst und Gemüse nicht mehr Plastik - und als Kunde, kauft kein Obst und Gemüse mehr, was in Plastik verpackt wurde.](https://netzfrauen.org/2018/01/25/plastic/)
 * [Wisst ihr was wir dringend brauchen? Das eine Datenkrake wie google/alphabet jetzt IT-Sicherheit machen will.](https://www.golem.de/news/chronicle-alphabet-will-zum-sicherheitsunternehmen-werden-1801-132374.html)
+* [OpenHPC, Cluster am Beispiel vom Raspberry Pi und damit man es schnell aufsetzen kann, mit Ansible wird hier erklärt.](https://opensource.com/article/18/1/how-build-hpc-system-raspberry-pi-and-openhpc)
+* [Ach deswegen durfte FlixBus ein Monopol werden, so kann man die Massenüberwachung einfacher durchprügeln.](https://www.heise.de/newsticker/meldung/Flixbus-testet-Gepaeckkameras-gegen-Drogenschmuggel-3951511.html)
+* [Nun ist es noch einfacher Bildern und Videos nicht zu trauen, KI macht Faceswap einfacher.](https://www.heise.de/newsticker/meldung/Deepfakes-Neuronale-Netzwerke-erschaffen-Fake-Porn-und-Hitler-Parodien-3951035.html)
