@@ -77,3 +77,7 @@
 * [Fingerabdruckssensor und Lenovo wie man es nicht macht. Die packen alle wichtigen Daten an das Ding und sichern es dann Sony mäßig mit einem universellen hart-kodierten Passwort.](https://blog.fefe.de/?ts=a4926827)
 * [Fefe hat nun auch mal was von der gewaltfreien Kommunikation gehört - schön und vor allem toll, dass er es verlinkt :-)](https://blog.fefe.de/?ts=a4924bb7)
 * [Miteinandersein.net](https://www.miteinandersein.net) - Mit einem [Magazin](https://www.miteinandersein.net/sachsen/magazin/), eine [Liste von lokalen Anbietern](https://www.miteinandersein.net/suedwestsachsen/anbieterverzeichnis/), [Netzwerktreffen in Südwestsachsen](https://www.miteinandersein.net/suedwestsachsen/veranstaltungen/netzwerktreffen/) und [Veranstaltungen in Südwestsachsen](https://www.miteinandersein.net/suedwestsachsen/veranstaltungen/).
+* [Endlich macht mal jemand was gegen diesen verklebten Akku-Scheiß!](https://www.golem.de/news/usa-gesetzentwurf-gegen-verklebte-akkus-1801-132429.html)
+* [Wir produzieren zu viel Milch und schaden damit unserem Land, unserer Umwelt und unseren Tieren.](https://netzfrauen.org/2018/01/28/turbokuehe/)
+* [Wie erhaltet ihr alle Amionsäuren aus pflanzlichen Produkten?](https://www.smarticular.net/eiweiss-proteine-aminosaeuren-pflanzlich-regional-gemuese-huelsenfruechte/)
+* [Nein? Doch! Oh? Großbetriebe ernähren nicht die Welt, nur den reichen Teil und diesen im Überfluss.](https://netzfrauen.org/2018/01/28/africa/)
