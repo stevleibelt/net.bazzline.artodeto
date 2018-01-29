@@ -6,3 +6,7 @@
 * [Parsing HTML mit Python, hier könnt ihr einen Einstieg dazu bekommen.](https://opensource.com/article/18/1/parsing-html-python)
 * [CopperheadOS, ein sicheres FOSS Betriebssystem für Android-Systeme?](https://copperhead.co/android/) - [Hier](https://opensource.com/article/18/1/copperheados-delivers-mobile-freedom-privacy-and-security) ein Bericht darüber. [Hier eine Liste mit unterstützten Geräten.](https://copperhead.co/android/docs/install) und wie ihr es installiert.
 * [3 Jahre Dürre in Kapfstadt.](https://netzfrauen.org/2018/01/28/kapstadt-2/) - Das passiert, wenn Wasser als Ware genutzt wird.
+* [Sahra Wagenknechts Rede zum Jahredsauftakt der Linksfraktion.](https://weltnetz.tv/video/1387-sahra-wagenknecht-beim-jahresauftakt-der-linksfraktion-2018)
+* [Wer provitiert am meisten von Kriegen und Kriesen? Private Sicherheitsfirmen und Rohstofffirmen, beide sind in der Hand von großen Aktionären welche wiederum starke Lobbyarbeit in den Regierungen treiben.](https://netzfrauen.org/2018/01/29/blackwater/)
+* [NCurse wurde in der Version 6.1 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=Ncurses-6.1-Released)
+* [Hier gibt es ein Rezept für Schuhcrem die nicht auf Erdöl basiert.](https://www.smarticular.net/schuhcreme-leder-rezept-bienenwachs-oel/)
