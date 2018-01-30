@@ -16,3 +16,7 @@
 * [Statt Probleme zu lösen, suchen wir Menschen uns eine neue Stelle zum ausbeuten - jetzt, das Meer unter Wasser.](https://www.heise.de/newsticker/meldung/Vom-Fischer-zum-Unterwasser-Farmer-3952368.html) - Das das Leben für die Arbeiter kacke ist und dann wir erneut in ein Ökosystem eingreifen das wir nicht verstehen, ist erneut egal.
 * [GNU Binutils wurde in der Version 2.30 veröffentlicht.](https://www.pro-linux.de/news/1/25550/binutils-230-mit-diversen-linker-optimierungen.html)
 * [So, so, Microwellen sind böse, aber WLan, was auf der gleichen Wellenlänge arbeitet, darf wohl noch nicht böse sein.](http://www.sonnenseite.com/de/wissenschaft/mikrowellen-fuer-das-klima-so-schaedlich-wie-autos.html)
+* [Ihr wollt was über euren Darm wissen? Schaut euch dieses Video an.](http://www.welt-im-wandel.tv/video/was-du-ueber-deinen-darm-wissen-solltest/)
+* [Hier gibt es ein Rezept wie ihr eigene Badekugeln herstellen könnt.](https://www.smarticular.net/badekugeln-erkaeltung-aetherische-oele-selber-machen/)
+* [Tollcollect läuft so kacke, dass man es verstaatlichen muss.](https://blog.fefe.de/?ts=a48e498a) - Natürlich nur vorübergehend, bis die Bürger alles bezahlt haben.
+* [Mozilla sucht Thunderbird-Entwickler.](https://www.pro-linux.de/news/1/25554/mozilla-sucht-nach-thunderbird-entwicklern.html)
