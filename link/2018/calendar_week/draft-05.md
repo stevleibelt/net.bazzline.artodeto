@@ -8,5 +8,11 @@
 * [3 Jahre Dürre in Kapfstadt.](https://netzfrauen.org/2018/01/28/kapstadt-2/) - Das passiert, wenn Wasser als Ware genutzt wird.
 * [Sahra Wagenknechts Rede zum Jahredsauftakt der Linksfraktion.](https://weltnetz.tv/video/1387-sahra-wagenknecht-beim-jahresauftakt-der-linksfraktion-2018)
 * [Wer provitiert am meisten von Kriegen und Kriesen? Private Sicherheitsfirmen und Rohstofffirmen, beide sind in der Hand von großen Aktionären welche wiederum starke Lobbyarbeit in den Regierungen treiben.](https://netzfrauen.org/2018/01/29/blackwater/)
-* [NCurse wurde in der Version 6.1 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=Ncurses-6.1-Released)
+* [GNU NCurse wurde in der Version 6.1 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=Ncurses-6.1-Released)
 * [Hier gibt es ein Rezept für Schuhcrem die nicht auf Erdöl basiert.](https://www.smarticular.net/schuhcreme-leder-rezept-bienenwachs-oel/)
+* [Freut euch auf eine Welt ohne Lizenzen für Audio- und Video-Codecs. Danke an google, Mozilla und wohl auch an Cisco.](https://blog.fefe.de/?ts=a491043c) - Die machen das nicht aus humanitären Gründen, sondern weil sie wollen, dass ihr mehr Werbung schneller sehen könnt oder das ihr deren Produkte nutzt.
+* [Da schwirrt mir das Modewort "Waldbaden" um dir Augen und schon schreibt Fefe darüber.](https://blog.fefe.de/?ts=a4917ab1)
+* [Wir sammeln eure Daten nur anonymisiert, was soll da schon passieren?](https://blog.fefe.de/?ts=a49174f6)
+* [Statt Probleme zu lösen, suchen wir Menschen uns eine neue Stelle zum ausbeuten - jetzt, das Meer unter Wasser.](https://www.heise.de/newsticker/meldung/Vom-Fischer-zum-Unterwasser-Farmer-3952368.html) - Das das Leben für die Arbeiter kacke ist und dann wir erneut in ein Ökosystem eingreifen das wir nicht verstehen, ist erneut egal.
+* [GNU Binutils wurde in der Version 2.30 veröffentlicht.](https://www.pro-linux.de/news/1/25550/binutils-230-mit-diversen-linker-optimierungen.html)
+* [So, so, Microwellen sind böse, aber WLan, was auf der gleichen Wellenlänge arbeitet, darf wohl noch nicht böse sein.](http://www.sonnenseite.com/de/wissenschaft/mikrowellen-fuer-das-klima-so-schaedlich-wie-autos.html)
