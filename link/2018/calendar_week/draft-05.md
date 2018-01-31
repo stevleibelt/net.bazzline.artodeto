@@ -21,3 +21,11 @@
 * [Hier gibt es ein Rezept wie ihr eigene Badekugeln herstellen könnt.](https://www.smarticular.net/badekugeln-erkaeltung-aetherische-oele-selber-machen/)
 * [Tollcollect läuft so kacke, dass man es verstaatlichen muss.](https://blog.fefe.de/?ts=a48e498a) - Natürlich nur vorübergehend, bis die Bürger alles bezahlt haben.
 * [Mozilla sucht Thunderbird-Entwickler.](https://www.pro-linux.de/news/1/25554/mozilla-sucht-nach-thunderbird-entwicklern.html)
+* [Wie kriegen wir nur mehr Bürgerüberwachung in die Städte? Probieren wir es mal mit "Parkplatzsensoren".](https://www.golem.de/news/hamburg-sensoren-melden-freie-parkplaetze-1801-132484.html) - Krank, immer mehr Sensoren die "ausversehen" mehr Daten sammel als gewünscht und im Regelfall keine Softwareupdates mehr bekommen.
+* [Clear Linux kann jetzt mit dem Paketmanager DNF genutzt werden.](https://www.phoronix.com/scan.php?page=news_item&px=Clear-Linux-DNF)
+* [Fefe hat seine Kiste mal mit einem Meltdown-gepatchted Linux Kernel 4.15 getestet, Resultat, da bleiben ganze 62 Prozent Performance über.](https://blog.fefe.de/?ts=a48fe42c)
+* [Ciscos ASA mit VPN ist kaputt.](https://blog.fefe.de/?ts=a48fcfc0)
+* [Hackfressenbuch ist der lange Arm der Wall Street, sie verbieten jetzt Werbung für Cryptogeld.](https://blog.fefe.de/?ts=a48fc854) - Das wird sich ändern, wenn die Wall Street endlich mit Swaps etc. auf Cryptogeld wetten kann.
+* [Die gute alte Zeit ist zurück, in Rotterdam wirst du jetzt verhaftet wenn die Kleidung, die du trägst, nicht zur durchschnittlichen Kleidung deiner "Klasse" passt.](https://blog.fefe.de/?ts=a48fc746)
+* [Nachdem Apple jetzt versprochen hat, mehr Menschen im Niedriglohnsektor in den USA zu beschäftigen, sagt die US-Regierung danke und verbietet den Verkauf von Huawai-Telefonen.](https://blog.fefe.de/?ts=a48fc7fa) - Wäre ja noch schöner, wenn auf dem freien Markt wirklich das beste Produkt gewinnt.
+* [Krass, RedHat hat CoreOs gekauft.](https://www.pro-linux.de/news/1/25555/red-hat-%C3%BCbernimmt-coreos.html)
