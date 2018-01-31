@@ -17,3 +17,7 @@
 * [GNU Binutils wurde in der Version 2.30 veröffentlicht.](https://www.pro-linux.de/news/1/25550/binutils-230-mit-diversen-linker-optimierungen.html)
 * [So, so, Microwellen sind böse, aber WLan, was auf der gleichen Wellenlänge arbeitet, darf wohl noch nicht böse sein.](http://www.sonnenseite.com/de/wissenschaft/mikrowellen-fuer-das-klima-so-schaedlich-wie-autos.html)
 * [Nestle, die Firma die Wasser klaut und Menschen dadurch sterben lässt sowie unsere Umwelt mit Plastikflaschen zerstört, will jetzt auch den menschlichen Körper patentieren lassen, damit ihr demnächst Geld an diesen Dreckskonzern zahlen müsst.](https://netzfrauen.org/2018/01/30/ipszellen/)
+* [Ihr wollt was über euren Darm wissen? Schaut euch dieses Video an.](http://www.welt-im-wandel.tv/video/was-du-ueber-deinen-darm-wissen-solltest/)
+* [Hier gibt es ein Rezept wie ihr eigene Badekugeln herstellen könnt.](https://www.smarticular.net/badekugeln-erkaeltung-aetherische-oele-selber-machen/)
+* [Tollcollect läuft so kacke, dass man es verstaatlichen muss.](https://blog.fefe.de/?ts=a48e498a) - Natürlich nur vorübergehend, bis die Bürger alles bezahlt haben.
+* [Mozilla sucht Thunderbird-Entwickler.](https://www.pro-linux.de/news/1/25554/mozilla-sucht-nach-thunderbird-entwicklern.html)
