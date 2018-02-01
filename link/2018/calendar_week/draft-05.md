@@ -44,3 +44,7 @@ https://www.phoronix.com/scan.php?page=news_item&px=Red-Hat-Acquiring-CoreOS)* [
 * [MinimalLinux wurde als Version 28-Jan-2018 veröffentlicht.](https://www.pro-linux.de/news/1/25561/minimal-linux-live-in-neuer-version-verf%C3%BCgbar.html)
 * [Ebay und PayPal trennen sich.](https://www.heise.de/newsticker/meldung/Keine-Freunde-mehr-eBay-beendet-Zusammenarbeit-mit-PayPal-3958268.html) - Kurzum, da wird man noch weniger ebay nutzen. Ich finde PayPal schon kacke, da brauch ich "yet another shit".
 * [Calligra wurde in der Version 3.1 veröffentlicht.](https://www.pro-linux.de/news/1/25563/calligra-31-freigegeben.html)
+* [Zaungiersch - die Heilplanze für den 02-2018.](https://bio-erzgebirge.de/wp/?p=13376)
+* [In der Schweiz darf man legal GPS-Tracker an KFZ's anbringen.](https://blog.fefe.de/?ts=a48decf8)
+* [Cisco ist mal wieder kaputt.](https://blog.fefe.de/?ts=a48dec8b)
+* [Bei den neusten Nachrichten über Tihange fehlt das "macht euch keine Sorgen, alles ist gut"-Hinweis :-(.](https://blog.fefe.de/?ts=a48debfa)
