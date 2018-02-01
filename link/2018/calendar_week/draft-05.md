@@ -48,3 +48,5 @@ https://www.phoronix.com/scan.php?page=news_item&px=Red-Hat-Acquiring-CoreOS)* [
 * [In der Schweiz darf man legal GPS-Tracker an KFZ's anbringen.](https://blog.fefe.de/?ts=a48decf8)
 * [Cisco ist mal wieder kaputt.](https://blog.fefe.de/?ts=a48dec8b)
 * [Bei den neusten Nachrichten über Tihange fehlt das "macht euch keine Sorgen, alles ist gut"-Hinweis :-(.](https://blog.fefe.de/?ts=a48debfa)
+* [Europa nur für Menschen ... scheinbar, 6000 Primaten werden hier jährlich für die Forschung hingerichtet oder vergewaltigt.](https://netzfrauen.org/2018/02/01/affentest/)
+* [Nein? Doch! Oh? Das Bundeskartellamt überprüft ob es zwischen den beiden größten Werbenetzbetreibern (google und facebook) nicht gar zu Preisabsprachen gekommen ist.](https://www.heise.de/newsticker/meldung/Bundeskartellamt-prueft-Markt-fuer-Online-Werbung-3959033.html) - Vorstellen Saturn und Media Markt würden sowas machen!
