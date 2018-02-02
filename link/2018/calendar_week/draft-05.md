@@ -56,3 +56,6 @@ https://www.phoronix.com/scan.php?page=news_item&px=Red-Hat-Acquiring-CoreOS)* [
 * [Geilo, es kommt wieder etwas Bewegung in die Wasserstoff-Welt - Mit Dung will man nun die Wasserstoffzelle energetisch befüllen.](https://www.heise.de/newsticker/meldung/Brennstoffzellen-laufen-mit-Mist-3952302.html)
 * [Was tun im Februar 2018 in Freiberg?](https://bio-erzgebirge.de/wp/?p=13319)
 * [OpenSource XenServer mit dem Namen XCP-ng und nativen ZFS-Treiber?](https://www.heise.de/ix/meldung/Finanziert-XenServer-als-Open-Source-Software-3959207.html) - Bei solchen Ankündigungen wird man ja direkt freucht im Schritt :O.
+* [Das internet liefert! Eine Liste von Spirituellen  Namen für Yogis.](https://wiki.yoga-vidya.de/Spirituelle_Namen_Liste)
+* [Ansible "in a nutshell"](https://opensource.com/article/18/2/tips-success-when-getting-started-ansible)
+* [Glibc wurde in der Version 2.27 veröffentlicht.](https://www.pro-linux.de/news/1/25568/glibc-227-freigegeben.html)
