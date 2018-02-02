@@ -59,3 +59,7 @@ https://www.phoronix.com/scan.php?page=news_item&px=Red-Hat-Acquiring-CoreOS)* [
 * [Das internet liefert! Eine Liste von Spirituellen  Namen für Yogis.](https://wiki.yoga-vidya.de/Spirituelle_Namen_Liste)
 * [Ansible "in a nutshell"](https://opensource.com/article/18/2/tips-success-when-getting-started-ansible)
 * [Glibc wurde in der Version 2.27 veröffentlicht.](https://www.pro-linux.de/news/1/25568/glibc-227-freigegeben.html)
+* [Ausgabe Februar bis April 2018 des Miteinandersein-Magazins für Sachsen wurde veröffentlicht.](https://bio-erzgebirge.de/wp/?p=13464)
+* [Das Oberlandesgericht sieht keine unzumutbare Belästigung dabei, dass Unity Media bei Mietroutern das Gast-WLan einfach so anschaltet.](https://www.golem.de/news/gerichtsurteil-unitymedia-darf-kunden-hotspots-doch-automatisch-aktivieren-1802-132563.html) - Da hat das OLG wohl noch nichts von Krebs durch WLan-Strahlung gehört. Unity Media, viel Spaß beim verklagt-werden. Oder macht ihr es wie die Mobilfunkbetreiber, wo die arme Sau haftet, auf dessen Boden der Sendemast steht?
+* [WTF? Im Labor gezüchtetes Chemiefleisch wird jetzt als "gesünder" und "besser" beworben.](https://netzfrauen.org/2018/02/02/agriculture2-0/) - Kannst du dir nicht ausdenken sowas, die haben zu viel Koks von den Wallstreet-Leuten genommen.
+* [Ich denke, wir sind als Gesellschaft zu weit gegangen, wenn eine Legende wie der Atari-Gründer keinen Pionier-Preis bekommt, weil seine Projekte intern weibliche Namen hatten.](https://blog.fefe.de/?ts=a48abfe4)
