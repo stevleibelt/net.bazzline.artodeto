@@ -28,3 +28,7 @@
 * [Erneut fällt der Journalismus in die Hand der Reichen ... die LA Times geht an einem der ein Prozent.](https://blog.fefe.de/?ts=a484f907) - Was bedeutet dies für die Gesellschaft? Solange es sich hier nicht um einen Philantrop handelt, wird die Meinung durch die Medien gepeitscht, die dem Besitzer nutzt. Neutrale Berichterstattung gibt es dann defakto nicht mehr. Oder anders gesagt, nur noch personalisierte Werbung.
 * [Die Grünen zeigen, dass sie mit zur Blockpartei gehören, verfilzt und korrupt bis auf das Mark.](https://blog.fefe.de/?ts=a484ff2e)
 * [Wie kann ich MySQL helfen, das richtige bei einem "ORDER BY" zu tun?](https://www.percona.com/blog/2018/02/05/four-ways-to-execute-mysql-group-by/) - [Hier gibt es noch eine Idee.](https://www.percona.com/blog/2018/01/29/using-generated-columns-in-mysql-5-7-to-increase-query-performance/)
+* [Pralinen selber herstellen.](https://www.smarticular.net/pralinen-rohkost-schokolade-valentinstag-geschenk-selber-machen/)
+* [Realitätsabgleich zum Thema Altersarmut.](https://netzfrauen.org/2018/02/07/armut/)
+* [Uhh, Intels neue microcodes sind wohl kleine Hitzeerzeuger.](https://blog.fefe.de/?ts=a485e7ee)
+* [Datenreichtum bei Swisscom - 800.000 Datensätze wurden geerdölt.](https://blog.fefe.de/?ts=a485e503)
