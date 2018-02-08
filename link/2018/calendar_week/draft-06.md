@@ -32,3 +32,10 @@
 * [Realitätsabgleich zum Thema Altersarmut.](https://netzfrauen.org/2018/02/07/armut/)
 * [Uhh, Intels neue microcodes sind wohl kleine Hitzeerzeuger.](https://blog.fefe.de/?ts=a485e7ee)
 * [Datenreichtum bei Swisscom - 800.000 Datensätze wurden geerdölt.](https://blog.fefe.de/?ts=a485e503)
+* [Ihr esst Schwein vom Supermarkt? Schau euch doch an wie euer Fleisch produziert wurde.]()https://netzfrauen.org/2018/02/08/el-pozo/)
+* [Die Polizei in Bayern hat jetzt die Befugnisse eines Geheimdienstes.](http://claudia-stamm.de/2018/02/bayerns-neue-geheimpolizei/) - Macht die konzentriert wird, was kann da schon schief gehen
+* [PostgreSQL wurde in der Version 10.2 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=PostgreSQL-10.2-Released)
+* [Interessanter Gedankengang, Trump muss die USA, wie einst Gorbatschow abwickeln.](http://www.neopresse.com/politik/usa/trump-der-us-amerikanische-gorbatschow/)
+* [Die Nextcloud Anwendung für Android wurde in der Version 3.0 veröffentlicht.](https://www.pro-linux.de/news/1/25588/nextcloud-app-30-f%C3%BCr-android-erschienen.html)
+* [John Perry Barlow, der Gründer vom EFF, ist gestorben.](https://www.golem.de/news/internetpionier-eff-gruender-john-perry-barlow-gestorben-1802-132656.html)
+* [Fefe empfiehlt die Dokumentation "Dirty Money" von Netzflix.](https://blog.fefe.de/?ts=a4855e86)
