@@ -39,3 +39,8 @@
 * [Die Nextcloud Anwendung für Android wurde in der Version 3.0 veröffentlicht.](https://www.pro-linux.de/news/1/25588/nextcloud-app-30-f%C3%BCr-android-erschienen.html)
 * [John Perry Barlow, der Gründer vom EFF, ist gestorben.](https://www.golem.de/news/internetpionier-eff-gruender-john-perry-barlow-gestorben-1802-132656.html)
 * [Fefe empfiehlt die Dokumentation "Dirty Money" von Netzflix.](https://blog.fefe.de/?ts=a4855e86)
+* [Digitalisierung? Na aber nicht wenn es um die Steuerfahndung geht ... wie sollen wir denn sonst die Fälle verjähren lassen?](https://blog.fefe.de/?ts=a4833054)
+* [Auch in dieser woche zeigt Intel, wie egal ihm seine Kunden sind ... "ja, ja, irgendwann wird es eventuell ein update gegen Spectre geben ... wenn wir Zeit haben.](https://www.heise.de/security/meldung/Spectre-2-Luecke-Intel-verspricht-Updates-auch-fuer-aeltere-Prozessoren-3964457.html)
+* [VLC wurde in der Version 3.0 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=VLC-3.0-Released)
+* [Gewaltfreie Konfliktlösung und ein "Bericht von der Front".](https://bio-erzgebirge.de/wp/?p=13507)
+* [Ein Film über Minimalismus findet ihr hier.](http://www.sonnenseite.com/de/tipps/der-filmtipp-minimalism.html)
