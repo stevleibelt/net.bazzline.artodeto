@@ -44,3 +44,6 @@
 * [VLC wurde in der Version 3.0 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=VLC-3.0-Released)
 * [Gewaltfreie Konfliktlösung und ein "Bericht von der Front".](https://bio-erzgebirge.de/wp/?p=13507)
 * [Ein Film über Minimalismus findet ihr hier.](http://www.sonnenseite.com/de/tipps/der-filmtipp-minimalism.html)
+* [Falsche Versprechungen am Samstag, angeblich soll der Strompreis nicht weiter steigen ... also an manchen Orten ... eventuell.](https://www.heise.de/newsticker/meldung/Anstieg-bei-Netzentgelten-wird-gestoppt-3965013.html) - [Schade](https://www.heise.de/forum/heise-online/News-Kommentare/Anstieg-bei-Netzentgelten-wird-gestoppt/Dezentral-scheissegal-leider/posting-31834093/show/), dass lokale Projekte "komischerweise" nicht gefördert werden, sondern nur große Projekte die keiner braucht.
+* [Realitätsabgleich "Container" in der Softwareentwicklung.](https://lwn.net/Articles/747020)
+* [Shodan - the searchengine for the internet of things.](https://www.shodan.io/)
