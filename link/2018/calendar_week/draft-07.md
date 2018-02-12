@@ -1,0 +1,7 @@
+* [Ein Kriegsschiff hindert ein Bohrschiff daran, nach Erdgas zu bohren. Mir ist egal warum, jeden Tag mit weniger Bohrungen ist ein guter Tag.](https://blog.fefe.de/?ts=a47f1a47)
+* [Angeblich ist DTrace für Linux noch nicht Geschichte.](https://www.phoronix.com/scan.php?page=news_item&px=DTrace-For-Linux-2018)
+* [Kein Glyphosat und Roundup in unseren Gärten mehr!](https://netzfrauen.org/2018/02/12/roundup-2/)
+* [Und es ist wie immer, jetzt wo wir Netzfilter und Netzsperren haben, werden diese auch genutzt ... nur Terroristen usw., ist klar.](https://www.golem.de/news/constantin-film-vodafone-muss-kinox-to-sperren-1802-132715.html)
+* [Wie mach ich das noch einmal mit dem eigenen Garten? Die Netzfrauen sagen dir wie!](https://netzfrauen.org/2018/02/12/garten/)
+* [Wisst ihr was in allen Science Fiction Büchern super geklappt hat? Wenn wir alles zum Thema Weltraum privatisieren.](https://www.heise.de/newsticker/meldung/Internationale-Raumstation-Donald-Trump-will-ISS-privatisieren-3965404.html)
+* [Das Programm der Chemnitzer Linux-Tage 2018 wurde veröffentlicht.](https://www.pro-linux.de/news/1/25593/programm-der-chemnitzer-linux-tage-2018-vorgestellt.html)
