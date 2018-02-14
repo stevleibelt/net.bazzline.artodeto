@@ -14,3 +14,11 @@
 * [Amazon ist so Arbeitnehmerfreundlich, sie bezeichnen ihre Mitarbeiter als "headcount" und feuern sie um sie anschließend für weniger Leistung im gleichen Büro aber als Subunternehmerfirma wieder einzustellen.](https://www.heise.de/newsticker/meldung/Amazon-entlaesst-Hunderte-Mitarbeiter-und-sucht-zugleich-Tausende-neue-3966894.html) - So gibt es mehr Fördergelder und weniger Abfindung.
 * [Hier gibt es eine Karte von Maker-Spaces in Deutschland.](https://maker-faire.de/makerspaces/)
 * [Skype zeigt wie gut Microsoft den Laden heruntergewirtschaftet hat.](https://blog.fefe.de/?ts=a47dcd4c)
+* [80 Seiten Kleingedrucktes von PayPal ... ](https://www.heise.de/newsticker/meldung/80-Seiten-Kleingedrucktes-Verbraucherzentrale-mahnt-PayPal-ab-3969005.html) - Ich bin ja dafür, dass per Gesetz alles mit mehr als einer DIN A4-Seite, Schriftgröße 14, ignoriert werden darf.
+* [WTF, Hackfressenbuch will jetzt all eure Daten durch ihren "Facebook Protect"-VPN leiten, damit sie wirklich all eure Daten kriegen.](https://blog.fefe.de/?ts=a47d9ee1)
+* [Juchee, Patente sind so toll ... MPEG-2 ... eure Väter haben euch davon erzählt ... hat seit gestern sein letztes Patent verlorgen, weil es ungültig geworden ist.](https://www.phoronix.com/scan.php?page=news_item&px=MPEG-2-Last-Patents-Expire)
+* [Öhmmmm, wtf? Oracle hat seine Lizenz für DTrace so geändert, dass es es jetzt GPL-kompatibel ist.](https://blog.fefe.de/?ts=a47aafba) - DTrace für Linux? Dankeschön! Könnt ihr das jetzt auch für ZFS machen?](https://blog.fefe.de/?ts=a47aafba)
+* [Wow, tolle Infrastruktur habt ihr da in den USA.](https://blog.fefe.de/?ts=a47aa002)
+* [Wisst ihr was wir im All dringend brauchen? Mehr Müll in Form von Spionagesatelliten.](https://blog.fefe.de/?ts=a47aa0f5)
+* [Die freie Hand des Marktes, beinahe 50 USD für 10 Meilen Highway.](https://blog.fefe.de/?ts=a47a9d3a) - Das kommt dabei heraus, wenn man Infrastruktur privatisiiert.
+* ["Flash-Crash"'s oder wie mit großen PCs die "Stop-Lose-Orders" der Kleinanlegern ausgehebelt werden.](http://www.neopresse.com/wirtschaft/flash-crash-an-den-boersen-wie-grossinvestoren-kleinanleger-ueber-den-tisch-ziehen/)
