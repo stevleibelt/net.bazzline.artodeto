@@ -22,3 +22,12 @@
 * [Wisst ihr was wir im All dringend brauchen? Mehr Müll in Form von Spionagesatelliten.](https://blog.fefe.de/?ts=a47aa0f5)
 * [Die freie Hand des Marktes, beinahe 50 USD für 10 Meilen Highway.](https://blog.fefe.de/?ts=a47a9d3a) - Das kommt dabei heraus, wenn man Infrastruktur privatisiiert.
 * ["Flash-Crash"'s oder wie mit großen PCs die "Stop-Lose-Orders" der Kleinanlegern ausgehebelt werden.](http://www.neopresse.com/wirtschaft/flash-crash-an-den-boersen-wie-grossinvestoren-kleinanleger-ueber-den-tisch-ziehen/)
+* [Hier ein paar Veranstaltungen für Februar und März in Freiberg.](https://bio-erzgebirge.de/wp/?p=13565)
+* [Mal Lust in ein Röntengerät zu steigen? Eine Frau aus China hat das bereits gemacht.](https://blog.fefe.de/?ts=a47b707a)
+* [Lol, "serverless" bedeutet heutzutage "auf den Computern der anderen" (aka Klaut-Cloud).](https://www.heise.de/ix/meldung/Scrivito-Headless-CMS-mit-WYSIWYG-Editor-3967040.html)
+* [Die Staaten in Afrika sind im übrigen gegen Gen-Produkte ... außer, der IWF fordert die Zustimmung durch die beliebte "Friss oder Stirb" Methode.](https://netzfrauen.org/2018/02/15/55796/) - Was machen die Marketingleute hinter den Genprodukten? Sie bezeichnen alle Kritiker als "der Grund warum Menschen in der Welt verhungern".
+* [Ember wurde in der Version 3.0 veröffentlicht.](https://www.heise.de/developer/meldung/Webframework-Ember-3-0-raeumt-auf-3970009.html)
+* [Evart in Michiganer/USA kämpft gegen Nestle.](https://netzfrauen.org/2018/02/15/michigan/) - Wenn ihr also auch gegen Nestle kämpfen wollt, vernetzt euch mit Evart!
+* [Puh, hier frag ich mich gerade ob dies von der Natur so gewollt ist.](https://blog.fefe.de/?ts=a47a0b81) - Nicht falsch verstehen, ich habe nichts gegen Transgender. Ich mach mir eher Gedanken, dass eine Pharmafirma in eine Frau ihren Chemieabfall reinpumpt und das Produkt davon muss dann ein Kind trinken.
+* [Huch? Toll Collect ist beim Erstellen der Rechnung mit dem Finger abgerutscht und hat wohl 300 Millionen Euro zuviel an den Steuerzahler in Rechnung gestellt.](https://blog.fefe.de/?ts=a47a0821)
+* [RUST wurde in der Version 1.24 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=Rustlang-1.24-Released)
