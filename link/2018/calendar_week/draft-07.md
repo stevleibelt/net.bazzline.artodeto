@@ -31,3 +31,5 @@
 * [Puh, hier frag ich mich gerade ob dies von der Natur so gewollt ist.](https://blog.fefe.de/?ts=a47a0b81) - Nicht falsch verstehen, ich habe nichts gegen Transgender. Ich mach mir eher Gedanken, dass eine Pharmafirma in eine Frau ihren Chemieabfall reinpumpt und das Produkt davon muss dann ein Kind trinken.
 * [Huch? Toll Collect ist beim Erstellen der Rechnung mit dem Finger abgerutscht und hat wohl 300 Millionen Euro zuviel an den Steuerzahler in Rechnung gestellt.](https://blog.fefe.de/?ts=a47a0821)
 * [RUST wurde in der Version 1.24 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=Rustlang-1.24-Released)
+* [Geilo, nun müssen schon die Kinder die Regierung verklagen :-(.](https://netzfrauen.org/2018/02/16/climate/)
+* [Groß Britanien verbannt und verbietet Plastik zunehmen.](https://netzfrauen.org/2018/02/16/plastikstohhalme/)
