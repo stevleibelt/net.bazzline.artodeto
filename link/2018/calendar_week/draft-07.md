@@ -33,3 +33,8 @@
 * [RUST wurde in der Version 1.24 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=Rustlang-1.24-Released)
 * [Geilo, nun müssen schon die Kinder die Regierung verklagen :-(.](https://netzfrauen.org/2018/02/16/climate/)
 * [Groß Britanien verbannt und verbietet Plastik zunehmen.](https://netzfrauen.org/2018/02/16/plastikstohhalme/)
+* [Was passiert eigentlich, wenn ich mich richtig ernähre und was bedeutet "richtig"?](http://www.welt-im-wandel.tv/video/geheimnis-der-gesundheit-wie-richtige-ernaehrung-dein-ganzes-leben-veraendern-kann/)
+* [Die Freie Hand des Marktes, heute im Vergleich von Europa und Afrika was ISP's und Mobilfunkfirmen angeht.](https://www.heise.de/newsticker/meldung/Orange-und-Vodafone-behandeln-ihre-Kunden-in-Afrika-schlechter-als-in-Europa-3972369.html)
+* [Apples Dateisystem APFS ist kaputt.](https://www.golem.de/news/carbon-copy-cloner-apfs-unterstuetzung-wird-wegen-datenverlustgefahr-beschraenkt-1802-132831.html) - Aber wie bei jedem guten Fehler im AKW, es besteht absolut keine Gefahr für die Bevölkerung.
+* [Edeka wirft Nestle aus dem Handel.](https://netzfrauen.org/2018/02/17/giganten/) - Leider nicht aus Gründen der Ethik, sondern weil ihre Eigenmarken noch billiger, schlechter und menschenverachtender sind als der Dreck von Nestle.
+* [Wohaa, noch steht die Regierung nicht, aber die Lobbygeschenke sind schon da - die Rentenbeiträge der Zeitungszusteller (Minijobs) werden von 15 auf fünf Prozent gesenkt.](https://blog.fefe.de/?ts=a4795e6e)
