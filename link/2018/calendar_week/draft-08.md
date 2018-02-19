@@ -3,3 +3,6 @@
 * [Go wurde in der Version 1.10 veröffentlicht.](https://www.pro-linux.de/news/1/25618/go-110-erschienen.html)
 * [Lol, unter dem Denkmantel einer Bürgerinitiative fordert die Polizei und ein Verbund aus Immobilienbesitzer mehr Überwachung in Berlin.](https://www.heise.de/newsticker/meldung/Berliner-Buergerinitiative-fordert-mehr-Videoueberwachung-3973359.html) - Auch auf diese Art der Bauernfängerei müssen wir uns einstellen, wenn wir Volksentscheide und direkte Demokratie fordern.
 * [Wisst ihr was mit Wachstumsmotor gemeint ist? Rüstungsexporte, also Waffen produzieren und an den meistbietenden verkaufen.](https://netzfrauen.org/2018/02/19/ruestungskonzerne-2/)
+* [Statt endlich einmal Glasfaser zu legen beballert die Telekom ihre Kunden lieber mit Strahlen und fördert Krebs durch den Einsatz von Mobilfunkstrahlung auf der "letzten Meile".](https://www.golem.de/news/letzte-meile-telekom-macht-versuche-mit-fixed-wireless-5g-1802-132855.html)
+* [Schöner Vergleich von Fefe, jemanden unter Alkohol tot fahren oder die Pirate Bay aufbauen? Das Strafmaß ist gleich groß.](https://blog.fefe.de/?ts=a475e09e) - Da seht ihr was ein Leben wert ist, 100 Downloads.
+* [Nette Konfigurationsoption im Firefox, about:config IDN_show_punycode.](https://ma.ttias.be/show-idn-punycode-firefox-avoid-phishing-urls/)
