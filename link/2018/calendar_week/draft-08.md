@@ -13,3 +13,7 @@
 * [FeFe bringt zwei gute Gedanken in die Problematik "Frauen in die Chefetage".](https://blog.fefe.de/?ts=a472c598) - Zum einen werden nur die Männer als Beispiel genommen, die es "geschafft haben" und ihr Leben, ihre Seele, ihre Gesundheit und ihre Familie für Geld geopfert haben. Zum Anderen wird mit der aktuell geführten Debatte das eigentliche Problem nicht angegangen. Egal wer es in "die Chefetage" geschafft hat, jeder von denen ist ein Mitglied der berühmten "ein Prozent", hier wird der Durchschnittsfrau also nicht geholfen.
 * [Kubernetes und die Cloud Native Computing Foundation.](https://opensource.com/article/18/2/how-kubernetes-became-solution-migrating-legacy-applications)
 * [Binaurale Beats ... die Gehirnwellen die einem glücklich machen?](http://www.welt-im-wandel.tv/video/binaurale-beats-glueck-erfolg-gesundheit-mit-gehirnwellen-stimulation/)
+* [Nach TTIP kommt jetzt Mercosur mit Südamerika.](https://www.foodwatch.org/de/newsletter/ttip-war-gestern-jetzt-kommt/)
+* [Die USA manipuliert die Wahlen in anderen Ländern nur bei "sehr guten Gründen".](https://blog.fefe.de/?ts=a46eb897)
+* [Toll, Deutschland ist in einer weiteren Statistik Spitzenreiter ... bei den Reallöhnen.](https://blog.fefe.de/?ts=a46e87cb)
+* [Schaut mal, die Umfallpartei in Aktion ... Yücel kam nur frei, weil Deutschland Panzer an die Türkei verkauft.](https://blog.fefe.de/?ts=a46efcb6)

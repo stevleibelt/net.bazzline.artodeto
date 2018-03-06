@@ -15,3 +15,12 @@
 * [LFS und BLFS wurde in der Version 8.2 veröffentlicht.](https://www.pro-linux.de/news/1/25664/linuxstrickanleitungen-lfs-und-blfs-82-fertiggestellt.html)
 * [Na huch? Mit Mikrowellen durch die Gegend ballern ist gesundheitschädlich ... darauf kommt man doch mit gesundem Menschenverstand nicht ;-).](https://www.golem.de/news/ultraschall-mutmasslicher-lauschangriff-verursacht-gesundheitsprobleme-1803-133138.html)
 * [Ethische Richtlinen im Internet? Russland wollte das 2001 schon, die USA findet solche Einschränkungen kacke.](https://blog.fefe.de/?ts=a463c7ae)
+* [Der CCC stellt klar, warum die europäische Upload-Filter-Regelung mist ist.](https://www.ccc.de/de/updates/2018/upload-filter)
+* [>>Früher hieß unser soziales Netzwerk noch "rausgehen".<< - Toller Artikel](https://tuxproject.de/blog/2018/03/vero-frueher-hiess-unser-soziales-netzwerk-noch-rausgehen/)
+* [Die Belgier werden jetzt mit Jodtabletten versorgt.](https://www.heise.de/newsticker/meldung/Atomunfall-Vorsorge-Alle-Belgier-bekommen-kostenlos-Jodtabletten-3987544.html) - Die Beruhigungspille für die Bevölkerung die entbehrbar ist.
+* [Die GroKo überlegt schon einmal wie sie unsere Bürgerdaten an ausländische Firmen verschenkt.](https://blog.fefe.de/?ts=a46079c0)
+* [Das EuGH hat herausgefunden, dass die Schiedsklausel nicht mit dem Unionsrecht vereinbar ist.](https://blog.fefe.de/?ts=a4607537)
+* [Goggle hat offiziell einen Quantencomputer mit 72 Qubits.](https://blog.fefe.de/?ts=a460850e)
+* [Nein? Doch! Oh? Smart Contracts sind kaputt.](https://blog.fefe.de/?ts=a4608243)
+* [Oh, LTE ist kaputt ... wenn sich das mal einer mit Sachverstand anschaut.](https://blog.fefe.de/?ts=a460815d)
+* [Nestle und andere Konzerne zerstören Brasilien.](https://netzfrauen.org/2018/03/06/guarani-aquifer/) - Das sind die Kriege von heute.
