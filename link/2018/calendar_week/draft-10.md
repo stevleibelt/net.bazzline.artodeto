@@ -24,3 +24,13 @@
 * [Nein? Doch! Oh? Smart Contracts sind kaputt.](https://blog.fefe.de/?ts=a4608243)
 * [Oh, LTE ist kaputt ... wenn sich das mal einer mit Sachverstand anschaut.](https://blog.fefe.de/?ts=a460815d)
 * [Nestle und andere Konzerne zerstören Brasilien.](https://netzfrauen.org/2018/03/06/guarani-aquifer/) - Das sind die Kriege von heute.
+* [Soziales Engagement, Pariser Beamte schlafen in der Kälte um auf die Notlage der Obdachlosen aufmerksam zu machen.](https://netzfrauen.org/2018/03/07/paris/)
+* [Warum müssen Atomwaffen bleiben und weiter aufgerüstet werden? Weil fast alle Banken in Atomwaffen investiert haben.](https://blog.fefe.de/?ts=a4610570)
+* [Wer ist an den aktuellen Stormproblemen schuld und was kann man dagegen machen?](https://blog.fefe.de/?ts=a46168db)
+* [Google arbeitet jetzt mit dem United States Department of Defense.](https://blog.fefe.de/?ts=a4610344)
+* [Das könnt ihr diese Woche miteinander in Freiberg machen.](https://bio-erzgebirge.de/wp/?p=13815)
+* [ADHS, Ritalin, Leistungsdruck und wie man scih damit als Eltern beschäftigen sollte.](http://www.welt-im-wandel.tv/video/die-wahrheit-ueber-adhs-ritalin-leistungsdruck-die-schule-der-zukunft/)
+* [KubeVirt und Kata Containers erklärt.](https://opensource.com/article/18/3/you-got-your-vm-my-container)
+* [Eigener E-Mail-Server mit Projectx/Os und einem Raspberry Pi.](https://opensource.com/article/18/3/host-your-own-email)
+* [Die USA droht Afrika mal schlank damit, dass sie Altkleiderimporte nicht verbieten sollen ... sonst kommt die Demokratie mal vorbei geflugzeugträgert.](https://netzfrauen.org/2018/03/07/altkleider/)
+* [Die Rendering-Library Cairo braucht wohl auch dringend liebe. Das tolle ist, dass es bereits viele Unit-Tests gibt, die leider alle fehlschlagen.](https://blog.fefe.de/?ts=a45eea32)

@@ -17,3 +17,5 @@
 * [Die USA manipuliert die Wahlen in anderen Ländern nur bei "sehr guten Gründen".](https://blog.fefe.de/?ts=a46eb897)
 * [Toll, Deutschland ist in einer weiteren Statistik Spitzenreiter ... bei den Reallöhnen.](https://blog.fefe.de/?ts=a46e87cb)
 * [Schaut mal, die Umfallpartei in Aktion ... Yücel kam nur frei, weil Deutschland Panzer an die Türkei verkauft.](https://blog.fefe.de/?ts=a46efcb6)
+* [Nix wurde in der Version 2.0 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=Nix-2.0-Package-Manager)
+* [Abgeordnetenwatch.de hat sich mal schlau gemacht wie die Gaslobby so arbeitet.](http://www.sonnenseite.com/de/energie/wie-die-gaslobby-arbeitet.html)
