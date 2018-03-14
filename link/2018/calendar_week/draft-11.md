@@ -15,3 +15,14 @@
 * [Natürlich nur für Terroristen und Gefährder ... Europol baut ein Trackingsystem auf.](https://www.heise.de/newsticker/meldung/Europaeische-Polizeibehoerden-wollen-Verdaechtige-grenzueberschreitend-tracken-3991177.html)
 * [Wisst ihr was kranke Kinder brauchen? Also statt sich zu erholen und mal auszuruhen ... mehr Stress und einen Roboter der sie zu Hause weiter (be)-lehrt.](https://www.heise.de/newsticker/meldung/Virtuelles-Klassenzimmer-Roboter-helfen-kranken-Kindern-bei-Unterrichtsteilnahme-3990705.html) - Früher kamen Klassenkameraden vorbei, haben mit einem gequatscht und die Hausaufgaben mitgebracht ... das geht in der "sozialen Welt" von heute wohl nicht mehr.
 * [KEXI wurde in der Version 3.1 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=KEXI-3.1-Released) - 
+* [Hier gibt es Gedanken, wie man ein (Open Source)-Projekt neustartet.](https://opensource.com/article/18/3/rebooting-open-source-project)
+* [Da die Geheimdienste TLS 1.3 nicht so sehr verkacken konnten, wie sie es wollten, warnen sie jetzt mit mehr Überwachung wegen TLS 1.3.](https://www.heise.de/security/meldung/Verschluesselung-GCHQ-kritisiert-die-kommende-TLS-Version-3991653.html) - Stacheldrahtlogik quer durch den Kopf.
+* [Mozilla baut im Firefox 59 etwas komisches ein, da werden zwei Requests gesendet, einen zum internen Cache und einen um Server. Der Request, der zu erst zurück kommt, wird genommen.](https://www.golem.de/news/mozilla-firefox-59-ueberlistet-den-festplatten-cache-mit-dem-netzwerk-1803-133313.html) - Ich finde diese Art der Ressourcenverschwendung schlecht.
+* [Fefe hat seine Antipatterns-Vortrags-Reihe um die Sektion "für Admins" erweitert.](https://blog.fefe.de/?ts=a4592474) - Zu wenig Seal Team 6, aber man will ja nicht meckern ;-)
+* [Hier wird euch gezeigt, wie ihr den Garten bienenfreundlich macht.](https://www.careelite.de/bienenweide-garten-bienen/)
+* [Ach ja, wir alle sind Teil eines Experiments. Eine genetisch veränderte Motte wurde frei gesetzt.](https://netzfrauen.org/2018/03/13/moskitos/)
+* [Wow, 41 Prozent des eigenen Umsatzes für Werbung auszugeben ... das ist bezeichnend für die Produktqualität.]()https://blog.fefe.de/?ts=a4578411)
+* [Lets Encrypt unterstützt jetzt Wildcard-Zertifikate.](https://www.golem.de/news/https-let-s-encrypt-rollt-wildcard-zertifikate-aus-1803-133337.html)
+* [Sehr sehenswertes Video von Welt-Im-Wandel.tv: Liebe & Partnerschaft - Eine glückliche Beziehung ist kein Zufall](http://www.welt-im-wandel.tv/video/liebe-partnerschaft-eine-glueckliche-beziehung-ist-kein-zufall/)
+* [Die Open Source RPG-Engine Flare wurde in der Version 1.0 veröffentlicht.](https://www.pro-linux.de/news/1/25699/freie-rpg-engine-flare-erreicht-version-10.html)
+* [Den aktuellen Stand der Dieselbetrügerei hat der australische Autoclub einmal erfasst - 14 Prozent mehr Verbrauch und bis zu 400 Prozent mehr NOx-Ausstoß als angegeben.](https://blog.fefe.de/?ts=a4563066)
