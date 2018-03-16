@@ -26,3 +26,12 @@
 * [Sehr sehenswertes Video von Welt-Im-Wandel.tv: Liebe & Partnerschaft - Eine glückliche Beziehung ist kein Zufall](http://www.welt-im-wandel.tv/video/liebe-partnerschaft-eine-glueckliche-beziehung-ist-kein-zufall/)
 * [Die Open Source RPG-Engine Flare wurde in der Version 1.0 veröffentlicht.](https://www.pro-linux.de/news/1/25699/freie-rpg-engine-flare-erreicht-version-10.html)
 * [Den aktuellen Stand der Dieselbetrügerei hat der australische Autoclub einmal erfasst - 14 Prozent mehr Verbrauch und bis zu 400 Prozent mehr NOx-Ausstoß als angegeben.](https://blog.fefe.de/?ts=a4563066)
+* [Im "Privacy Handbuch" habe ich die Sektion "Schnell-Konfig" für den Webbrowser gefunden.](https://www.privacy-handbuch.de/handbuch_21browser-schnell.htm)
+* [Flaschenwasser ist nicht nur Leitungswasser abgefüllt ... nein, dank der Plastikflaschen und dem "scheiß auf die Verbraucher, hauptsache die Rendite stimmt"-Konzern-Lebensweg, kriegt ihr auch noch eine extra Portion Plastikmüll im Wasser mitgeliefert.](https://netzfrauen.org/2018/03/15/56735/)
+* [Wow, hier gibt es eine Schablone wie ihr Prometheus via Ansible ausrollt.](https://opensource.com/article/18/3/how-use-ansible-set-system-monitoring-prometheus)
+* [Varnish wurde in der Version 6.0 veröffentlicht.](https://ma.ttias.be/varnish-6-0-released/)
+* [Die USA behauptet mal wieder den Schuldigen zu kennen ... keiner prüft dies, aber die NATO macht schon einmal mobil um Demokratie nach Russland zu bringen.](https://blog.fefe.de/?ts=a454b9b1) - Wie soll auch jemand etwas prüfen, wenn es keine Beweise dazu gibt?
+* [Roundcube wurde in der Version 1.3.5 veröffentlicht.](https://roundcube.net/news/2018/03/15/update-1.3.5-released)
+* [Nett, die EU kennt ab jetzt "digitale Betriebsstätten". Hat eure Firma Nutzer in der EU oder erhebt Daten von Nutzern in der EU, müsst ihr Steuern zahlen.](https://blog.fefe.de/?ts=a454328c)
+* [Nextcloud wurde in den Version 13.0.1, 12.0.6 und 11.0.8 veröffentlicht.](https://nextcloud.com/blog/nextcloud-13.0.1-12.0.6-and-11.0.8-available-with-improved-password-protection/)
+* [Die Firma Remondis pumpt illegal Plastilmühl in die Schlei und da die Verträge geheim sind, ist das jetzt ein Problem der Gesellschaft und kein Verstoß gegen den Umweltschutz.](https://blog.fefe.de/?ts=a4557efd)
