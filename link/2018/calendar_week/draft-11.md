@@ -35,3 +35,8 @@
 * [Nett, die EU kennt ab jetzt "digitale Betriebsstätten". Hat eure Firma Nutzer in der EU oder erhebt Daten von Nutzern in der EU, müsst ihr Steuern zahlen.](https://blog.fefe.de/?ts=a454328c)
 * [Nextcloud wurde in den Version 13.0.1, 12.0.6 und 11.0.8 veröffentlicht.](https://nextcloud.com/blog/nextcloud-13.0.1-12.0.6-and-11.0.8-available-with-improved-password-protection/)
 * [Die Firma Remondis pumpt illegal Plastilmühl in die Schlei und da die Verträge geheim sind, ist das jetzt ein Problem der Gesellschaft und kein Verstoß gegen den Umweltschutz.](https://blog.fefe.de/?ts=a4557efd)
+* [Der Chef der Lufthansa sagt, dass der Flughafen BER abgerissen und neugebaut wird.](https://blog.fefe.de/?ts=a4536db8)
+* [Ihr verzichtet auf Fleisch sowie Fisch, ernährt euch vitalstoffreich und werdet von der Industrie mit Sorgen bombardiert, dass ihr nicht genug Vitamine und Mineralstoffe aufnehmt? Dem ist nicht so.](https://www.smarticular.net/vitalstoffe-frauen-vitamine-mineralien-ernaehrung-gesund/)
+* [Blei tötet 412.000 Menschen pro Jahr in den USA, 483.000 sterben durch das Rauchen.](https://blog.fefe.de/?ts=a4508aee)
+* [Wie kann ich länger Sachen im Kühlschrank zu lagern?](https://www.careelite.de/lebensmittel-laenger-haltbar-machen/)
+* [Wie merkt man, dass der Zucker schon im Körper ist und Schaden anrichtet?](https://netzfrauen.org/2018/03/18/zucker-2/)
