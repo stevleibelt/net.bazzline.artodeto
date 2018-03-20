@@ -13,3 +13,4 @@
 * [Edward Snowden hat so arg viel Courage, da kann man nur lernen und nachmachen.](https://blog.fefe.de/?ts=a44e3914)
 * [xf86-input-libinput wurde in der Version 0.27.0 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=xf86-input-libinput-0.27) - Es ist so unfassbar wie einfach mir dieses Stück Software die Welt gemacht hat. Danke!
 * [GStreamer wurde in der Version 1.14.0 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=GStreamer-1.14.0-Released)
+* [Der BitCoin Preis soll wohl weiter von den Wallstreetleuten gedrückt werden.](https://blog.fefe.de/?ts=a44f8bb0)
