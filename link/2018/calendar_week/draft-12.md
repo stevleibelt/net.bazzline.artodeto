@@ -14,3 +14,12 @@
 * [xf86-input-libinput wurde in der Version 0.27.0 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=xf86-input-libinput-0.27) - Es ist so unfassbar wie einfach mir dieses Stück Software die Welt gemacht hat. Danke!
 * [GStreamer wurde in der Version 1.14.0 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=GStreamer-1.14.0-Released)
 * [Der BitCoin Preis soll wohl weiter von den Wallstreetleuten gedrückt werden.](https://blog.fefe.de/?ts=a44f8bb0)
+* [Ansible zum aktualisieren des Systems nutzen? Hier wird der grobe Weg aufgezeigt.](https://opensource.com/article/18/3/ansible-patch-systems)
+* [Rosengarden ist ein Werkzeug, welches in euer Liste zwischen Ardour und Audacity nicht fehlen sollte.](https://opensource.com/article/18/3/make-sweet-music-digital-audio-workstation-rosegarden)
+* [Erneut zeigt sich, dass die SPD Gesetze gegen das eigene Volk macht. Die SPD ist eben so sozial, wie die CDU/CSU die christlichen Werte der Nächstenliebe berücksichtigt.](http://www.neopresse.com/gesellschaft/kommentar-spd-greift-tarifbeschaeftigte-an-frondienste-statt-buergerfreiheit/)
+* [Wow, es gibt eine DirectX11 Schnittstelle auf Vulkan-Basis für Wine.](https://www.phoronix.com/scan.php?page=news_item&px=DXVK-Shader-Cache)
+* [Und falls man es noch nicht kennt, Slax ist ein Debian Linux das dafür gedacht ist vom USB-Stick zu starten.](https://www.slax.org/)
+* [WTF, deswegen wurde Russland so schnell als Schuldiger (ohne Beweise natürlich) angeklagt ... man will den NATO-Bündnisfall ausrufen.](https://propagandaschau.wordpress.com/2018/03/21/beweise-bitte-eine-nuechterne-analyse-des-mordversuchs-an-sergej-und-yulia-skripal/) - Krieg, die ganzen bekloppten in ihren gated Communities wollen Krieg.
+* [Edward Snowden hat einmal zusammengefasst, was "Soziale Medien" sind ... Überwachungsunternehmen.](https://propagandaschau.wordpress.com/2018/03/21/edward-snowden-zu-den-sozialen-medien/)
+* [Java wurde inder Version 10 veröffentlicht.](https://www.pro-linux.de/news/1/25725/java-10-freigegeben.html)
+* [Frischhaltefolien selber nähen? Das geht mit alten T-Shirts und ein paar weiteren Dingen.](https://www.smarticular.net/frischhaltefolie-ersatz-abdeckhaube-naehen-anleitung/)
