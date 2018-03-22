@@ -35,3 +35,4 @@
 * [Ihr vertraut den Banken noch? Realitätsabgleich gibt es über diesen Link.](https://blog.fefe.de/?ts=a44d490d)
 * [Mal schnell ein Proof Of Concept mit Kubernets bauen?](https://opensource.com/article/18/3/building-kubernetes-proof-concept)
 * [Krita wurde in der Version 4.0 veröffentlicht.](https://www.pro-linux.de/news/1/25730/krita-40-ver%C3%B6ffentlicht.html)
+* [Zend Expressive wurde in der Version 3 veröffentlicht.](https://framework.zend.com/blog/2018-03-16-expressive-3.html)
