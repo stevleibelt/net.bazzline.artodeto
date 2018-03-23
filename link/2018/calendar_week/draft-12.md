@@ -40,3 +40,5 @@
 * [Nein? Doch! Oh? Taut der Permafrost, werden Gase an die Luft abgegeben.](http://www.sonnenseite.com/de/wissenschaft/tauender-permafrost-produziert-mehr-methan-als-erwartet.html)
 * [Wisst ihr warum eure Stromrechnung so hoch ist? Weil wir Bürger den monopolisierten Stromanbieter nur so 20 bis 30 Prozent Rendite pro Jahr garantieren können.](http://www.sonnenseite.com/de/wirtschaft/netzentgelte-urteil-stromkunden-sind-verlierer.html) - Hier wird die Regel "Gewinne privatisieren, Verluste sozialisieren" in perfekter Form angewandt.
 * [Wow, ein wirklich tolles Tutorial wie man ein Bash-Completition-Skript schreibt.](https://opensource.com/article/18/3/creating-bash-completion-script)
+* [Zwischenmenschliche Probleme lösen, Ängste und Blockaden auflösen und sich von Traumas befreien? Klingt interessant? Dann schau dir doch dieses Video an.](http://www.welt-im-wandel.tv/video/aengste-und-blockaden-aufloesen-befreie-dich-von-deinem-trauma/)
+* [Brasilien zeigt wie es geht, Nestle privatisiert die Wasserversorgung und die Bevölkerung besetzt das Hauptquartier dieses Konzerns.](https://netzfrauen.org/2018/03/23/wasserprivatisierung/)
