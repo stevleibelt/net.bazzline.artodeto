@@ -36,3 +36,7 @@
 * [Mal schnell ein Proof Of Concept mit Kubernets bauen?](https://opensource.com/article/18/3/building-kubernetes-proof-concept)
 * [Krita wurde in der Version 4.0 veröffentlicht.](https://www.pro-linux.de/news/1/25730/krita-40-ver%C3%B6ffentlicht.html)
 * [Zend Expressive wurde in der Version 3 veröffentlicht.](https://framework.zend.com/blog/2018-03-16-expressive-3.html)
+* [Zentyal wurde in der Version 5.1 veröffentlicht.](https://www.pro-linux.de/news/1/25733/linux-server-zentyal-51-freigegeben.html)
+* [Nein? Doch! Oh? Taut der Permafrost, werden Gase an die Luft abgegeben.](http://www.sonnenseite.com/de/wissenschaft/tauender-permafrost-produziert-mehr-methan-als-erwartet.html)
+* [Wisst ihr warum eure Stromrechnung so hoch ist? Weil wir Bürger den monopolisierten Stromanbieter nur so 20 bis 30 Prozent Rendite pro Jahr garantieren können.](http://www.sonnenseite.com/de/wirtschaft/netzentgelte-urteil-stromkunden-sind-verlierer.html) - Hier wird die Regel "Gewinne privatisieren, Verluste sozialisieren" in perfekter Form angewandt.
+* [Wow, ein wirklich tolles Tutorial wie man ein Bash-Completition-Skript schreibt.](https://opensource.com/article/18/3/creating-bash-completion-script)
