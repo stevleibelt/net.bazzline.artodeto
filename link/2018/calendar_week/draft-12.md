@@ -48,3 +48,5 @@
 * [Die Niederländer haben als Volk ihrem Geheimdienst den Mittelfinger gezeigt.](https://blog.fefe.de/?ts=a44b572e)
 * [Die Türkei besetzt Afrin und was macht die westliche Wertegemeinschaft? Die redet sich raus.](https://blog.fefe.de/?ts=a44b57e7)
 * [CDU/CSU und SPD scheißen schon jetzt auf ihren Koalitionsvertrag - Wir deutsche liefern weiter Waffen in das Kriegsgebiet Jemen.](https://blog.fefe.de/?ts=a44b56fb)
+* [Freiberg/Sachsen steht 2018 im Namen des Silberrausches und in diesem Video wird euch gezeigt, was ihr bis Sommer so alles machen könnt.](https://www.youtube.com/watch?v=Iyt9O7jIR6Q) - Alles im Überblick gibt es auf der Webseite [silberrausch-freiberg.de](http://silberrausch-freiberg.de/)
+* [Jemand aus Neuseeland hat mal bei Facebook seine Datenschutz-Auskunftsersuchung gemacht, Facebook hat alle Telefongespräche mit Geodaten und Statistiken sowie alle Kurznachrichten.](https://blog.fefe.de/?ts=a448a037)
