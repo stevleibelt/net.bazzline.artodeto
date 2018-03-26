@@ -4,3 +4,10 @@
 * [Lebens- und Nahrungsmittel dürfen nun offiziell aus dem verstrahlten und verseuchten Fukushima in die Welt und auch in die EU geliefert werden.](https://netzfrauen.org/2018/03/26/57032/) - Thailand, Taiwan und Südkorea wollen kein Atomzeugs, die Bevölkerung der EU darf den Dreck aber ruhig essen, wenn es nach seinen Politikern geht.
 * [Polen wird immer nehr zu Polizeistaat und die EU bedankt sich für diesen Vorstoß und kriegt rund 82,5 Milliarden Euro Fördermittel.](https://netzfrauen.org/2018/03/26/polen/)
 * [Hier wird dir gezeigt wie du ein Saatband selber machst.](https://www.smarticular.net/saatbaender-saatscheiben-selber-machen/)
+* [Garten? Aber bitte nur natürlich und mit Pflangen "von hier", damit die Insekten auch etwas zum Essen haben.](https://www.smarticular.net/garten-balkon-natuerlich-bienenfreundlich-gestalten-blumen/)
+* [Japans Shinzo Abe will das Rundfunkgesetz mehr "pro politisch" machen und dieses lästige "lasst beide Seiten zu Wort kommen"-Regel entfernen.](https://blog.fefe.de/?ts=a4463cde)
+* [DriConf, AdriConf, Radeon-Top ... wohl alles open source Software, die man kennen und nutzen muss, wenn man mit einer ATI unter Linux unterwegs ist.](https://www.phoronix.com/scan.php?page=news_item&px=RadeonTop-1.1-Released)
+* [Die Blockpartei verkackt weiterhin die jahrzehntelang versäumte Bereitstellung für bezahlbaren Wohnraum.](https://blog.fefe.de/?ts=a4461470)
+* [Mal wieder Ansible und zwar aus dem Blickwinkel wie du deine Workstation mit Ansible pflegst und konfigurierst.](https://opensource.com/article/18/3/manage-your-workstation-configuration-ansible-part-2)
+* [Bau dir mit Hugo einen Blog in weniger als 30 Minuten.](https://opensource.com/article/18/3/start-blog-30-minutes-hugo)
+* [Elasticsearch mal mit fluentd.](https://opensource.com/article/18/3/efk-creating-open-source-stack)
