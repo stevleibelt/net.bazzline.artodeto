@@ -11,3 +11,6 @@
 * [Mal wieder Ansible und zwar aus dem Blickwinkel wie du deine Workstation mit Ansible pflegst und konfigurierst.](https://opensource.com/article/18/3/manage-your-workstation-configuration-ansible-part-2)
 * [Bau dir mit Hugo einen Blog in weniger als 30 Minuten.](https://opensource.com/article/18/3/start-blog-30-minutes-hugo)
 * [Elasticsearch mal mit fluentd.](https://opensource.com/article/18/3/efk-creating-open-source-stack)
+* [Sogar die UNO muss langsam zugeben, dass die Welt ausstirbt.](http://www.sonnenseite.com/de/franz-alt/kommentare-interviews/das-leben-stirbt-weltweit.html) - Da sind immer so Zahlen wie "Artensterben von über 60 Prozent" und so dabei ... und wenn das die UNO schriebt sind die wahren Zahlen noch höher.
+* [Syslog-ng am Beispiel der IoT-Geräte.](https://opensource.com/article/18/3/logging-iot-events-syslog-ng)
+* [MySQL 8.0 kommt mit der Variable "innodb_dedicated_server", die automatisch "innodb_buffer_pool_size", "innodb_log_file_size" und "innodb_flush_method" optimiert. Wie gut das funktioniert zeigt euch dieser Eintrag.](https://www.percona.com/blog/2018/03/26/mysql-8-0-innodb_dedicated_server-variable-optimizes-innodb/)
