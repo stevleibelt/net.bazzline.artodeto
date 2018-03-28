@@ -14,3 +14,10 @@
 * [Sogar die UNO muss langsam zugeben, dass die Welt ausstirbt.](http://www.sonnenseite.com/de/franz-alt/kommentare-interviews/das-leben-stirbt-weltweit.html) - Da sind immer so Zahlen wie "Artensterben von über 60 Prozent" und so dabei ... und wenn das die UNO schriebt sind die wahren Zahlen noch höher.
 * [Syslog-ng am Beispiel der IoT-Geräte.](https://opensource.com/article/18/3/logging-iot-events-syslog-ng)
 * [MySQL 8.0 kommt mit der Variable "innodb_dedicated_server", die automatisch "innodb_buffer_pool_size", "innodb_log_file_size" und "innodb_flush_method" optimiert. Wie gut das funktioniert zeigt euch dieser Eintrag.](https://www.percona.com/blog/2018/03/26/mysql-8-0-innodb_dedicated_server-variable-optimizes-innodb/)
+* [Backofen mit natürlichen Reinigern sauber machen? Kein Problem!](https://www.smarticular.net/backofenreiniger-selber-machen-essig-soda-salz/) - Und ihr verätzt eure Lungen nicht, weil ihr fiese Chemiekacke einatmet.
+* [Horst Seehofers CSU hat dem Grundgesetz wohl nie zugestimmt.](http://www.sonnenseite.com/de/franz-alt/kommentare-interviews/die-csu-hat-dem-grundgesetz-nie-zugestimmt.html)
+* [Google speichert auch soviel wie Hackfressenbuch.](https://blog.fefe.de/?ts=a444fbf5)
+* [Kanada nennt seine Panzer in den Nachrichten gern Lastwagen oder Jeeps.](https://blog.fefe.de/?ts=a444faf4)
+* [Wie viele Leute werden eigentlich gefeuert, wenn eine Heuschreckenfirma wie die "Alden Global Capital" eine Zeitung wie die Denver Post kauft?](https://blog.fefe.de/?ts=a444f4ec) - So viele wie möglich, es geht nur um die Marke und darum sie für den nächsten Käufter attraktiv zu machen.
+* [Microsoft filtert nun auch alles, was im prüden USA nicht gestattet ist.](https://blog.fefe.de/?ts=a444f0d4) - Waffenbilder auf Skype, Outlook, Xbox etc. ja, nackte Brüste nein.
+* [Wow, ANALYZE TABLE blockiert nun nichts mehr wenn man PerconaSQL einsetzt.](https://www.percona.com/blog/2018/03/27/analyze-table-is-no-longer-a-blocking-operation/)
