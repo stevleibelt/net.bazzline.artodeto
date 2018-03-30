@@ -27,3 +27,13 @@
 * [Nach Huch? Kaum will Bayer Monsanto kaufen, schon gibt es Studien in den USA, die Glyphosat bei Schwangeren nachweisen?](http://www.sonnenseite.com/de/umwelt/usa-glyphosat-bei-schwangeren-nachgewiesen.html) - Und wenn Monsanto übernommen wurde, folgen Klagewellen aus den USA, damit Bayer von dem deutschen Steuerzahler gerettet werden muss.
 * [Die Franzosen rollen jetzt "Kindergarten/Schule" für alle Kinder ab 3 Jahre aus.](https://blog.fefe.de/?ts=a4441b7d) - Ich lese das als Kindergarten ab drei Jahren für lau für alle Kinder und das ist großartig.
 * [Was bedeuten die Angaben auf den Eierverpackungen?](http://www.sonnenseite.com/de/tipps/was-die-angaben-auf-den-eiern-bedeuten.html) - Oder direkt auf [was-steht-auf-dem-ei.de](https://www.was-steht-auf-dem-ei.de/) gehen.
+* [Mesa wurde in der Version 18.0 veröffentlicht.](https://www.pro-linux.de/news/1/25747/mesa-180-verbesserungen-an-opengl-und-vulkan.html)
+* [Ihr nutzt Palmenöl? Schaut doch mal was euer Konsum mit Malaysia und Indonesien anstellt.](https://netzfrauen.org/2018/03/28/48365-2/)
+* [Heads wurde in der Version 0.4 veröffentlicht.](https://www.pro-linux.de/news/1/25750/anonymisierende-distribution-heads-04-ver%C3%B6ffentlicht.html)
+* [privacyIDEA wurde in der Version 2.22 veröffentlicht.](https://www.pro-linux.de/news/1/25751/privacyidea-222-erschienen.html)
+* [Wenn ihr verfolgt werdet, sollten alle ihre mobilen Wanzen wegschmeißen.](https://blog.fefe.de/?ts=a445590d)
+* [Nette Frage die Fefe veröffentlicht hat, was, wenn Spielefirmen eure Hardware und das "always online"-Feature dafür nutzen, um bei euch Cryptomining zu betreiben.](https://blog.fefe.de/?ts=a4450459) - Also mir fallen da spontan ein paar Firmen ein.
+* [Nestle als Beispiel wie unethisch Konzerne agieren - heute beim Thema "Babymilch" oder wie ich es bezeichne, das Giftpulver für Babies.](https://netzfrauen.org/2018/03/28/babymilch/)
+* [Bürgerstrom oder Bürgerenergie? Nicht in Deutschland, da regiert die Lobby um E.ON/EnBw/EWE/Vattenfall.](http://www.sonnenseite.com/de/politik/deutschland-blockiert-neue-eigenerzeuger-rechte-in-der-eu.html)
+* [Qubes wurde in der Version 4.0 veröffentlicht.](https://www.pro-linux.de/news/1/25752/qubes-40-mit-neuem-kernel-und-admin-api.html)
+* [Wow, Fefe kriegt nun auch mit, dass die "Doppelblindstudie" aus der Parmaindustrie ein reiner Betrug ist.](https://blog.fefe.de/?ts=a44267a3) - Das schöne an Fefe, er erkennt, dass Ihm Informationen gefehlt haben.
