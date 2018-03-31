@@ -37,3 +37,13 @@
 * [Bürgerstrom oder Bürgerenergie? Nicht in Deutschland, da regiert die Lobby um E.ON/EnBw/EWE/Vattenfall.](http://www.sonnenseite.com/de/politik/deutschland-blockiert-neue-eigenerzeuger-rechte-in-der-eu.html)
 * [Qubes wurde in der Version 4.0 veröffentlicht.](https://www.pro-linux.de/news/1/25752/qubes-40-mit-neuem-kernel-und-admin-api.html)
 * [Wow, Fefe kriegt nun auch mit, dass die "Doppelblindstudie" aus der Parmaindustrie ein reiner Betrug ist.](https://blog.fefe.de/?ts=a44267a3) - Das schöne an Fefe, er erkennt, dass Ihm Informationen gefehlt haben.
+* [Percona XtraBackup wurde in der Version 2.4.10 veröffentlicht.](https://www.percona.com/blog/2018/03/30/percona-xtrabackup-2-4-10-is-now-available/)
+* [Endlich einmal eine Anleitung wie man ein Insektenhotel selber baut - und zwar richtig.](https://www.smarticular.net/insektenhotel-selber-bauen-einfach-kinder-anleitung/) - Die meisten Insektenhotels, die ihr kaufen könnt, sind Sondermüll, die nicht für Insekten gedacht sind.
+* [Der Rat der europäischen Union bastelt gerade was für Konzerne erschaffen, was es verhindert, dass die einfachen Bürger etwas gegen große Konzerne unternehmen können.](https://npr.news.eulu.info/2018/03/30/keine-undemokratischen-sonderrechte-fuer-konzerne-und-investoren/)
+* [Hier wird euch gezeigt wie ihr Sonnencreme selber machen könnt.](https://www.careelite.de/sonnencreme-selber-machen-zinkoxid-kokosoel/)
+* [Das Krankenhaus wurde durch die freie Hand des Marktes so kaputt-bwl-erisiert, dass es nur noch zähl, wie viel Gewinn ein Patient macht.](https://netzfrauen.org/2018/03/30/krankenhaus/) - Ach und Menschen sind einfach nur teure Ressourcen.
+* [Bei Cicso gibt es keine Backdoor, sondern eine undokumentiertes Benutzerkonto.](https://blog.fefe.de/?ts=a4433faa)
+* [fsync unter Linux hat ein paar Probleme als dass es illuste Annahmen trifft wenn es mal so lüppt.](https://blog.fefe.de/?ts=a4433ff4)
+* [Ansible wurde in der Version 2.5 veröffentlicht.](https://www.pro-linux.de/news/1/25756/ansible-25-ver%C3%B6ffentlicht.html)
+* [Lol, es gibt eine Beweise also schreibt "die Zeit", "ist auch egal, das brauchen wir nicht, wir wissen doch alle wie verrückt Russland und Putin sind.](https://blog.fefe.de/?ts=a4438ca3) - WTF?
+* [Gestern Jeeps, heute Transportfahrzeuge.](https://blog.fefe.de/?ts=a4438987)
