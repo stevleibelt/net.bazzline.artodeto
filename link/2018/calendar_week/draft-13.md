@@ -52,3 +52,8 @@
 * [Wow, jetzt schmeißen auch Getränkehändler Nestle-Sachen raus.](https://netzfrauen.org/2018/03/31/nestle/)
 * [Warum werden Mord-Roboter nicht verboten? Weil Frankreich und Deutschland das nicht wollen!](https://blog.fefe.de/?ts=a44140e9)
 * [Der Verfassungsschutz in Bayern hat das letzte Wort, ob man in Bayern Beamter werden darf oder nicht.](https://blog.fefe.de/?ts=a4415bb1)
+* [Die Giraffen sind auch kurz vor der Ausrottung :-(.](https://netzfrauen.org/2018/04/01/giraffen-2/)
+* [Die Post kauft und verkauft wohl im großen Maße Daten ... der Käufter der Daten ist die Blockpartei CDU/CSU/SPD.](https://blog.fefe.de/?ts=a43e7417)
+* [In den Deutschen Nachrichten werden die deutschen Spione als Sicherheitsexperten bezeichnet.](https://blog.fefe.de/?ts=a43e71d3)
+* [Pinguine leben jetzt schon auf Plastikinseln.](http://www.sonnenseite.com/de/umwelt/unsere-erde-pinguine-auf-plastikinsel-im-suedpazifik-entdeckt.html)
+* [Dank Meltdown und Specter basteln Linux Kernel-Hacker an einer freien Microcode-Alternative.](https://www.pro-linux.de/news/1/25757/linux-kernel-erh%C3%A4lt-freien-prozessor-microcode.html)
