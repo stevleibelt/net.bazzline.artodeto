@@ -47,3 +47,8 @@
 * [Ansible wurde in der Version 2.5 veröffentlicht.](https://www.pro-linux.de/news/1/25756/ansible-25-ver%C3%B6ffentlicht.html)
 * [Lol, es gibt eine Beweise also schreibt "die Zeit", "ist auch egal, das brauchen wir nicht, wir wissen doch alle wie verrückt Russland und Putin sind.](https://blog.fefe.de/?ts=a4438ca3) - WTF?
 * [Gestern Jeeps, heute Transportfahrzeuge.](https://blog.fefe.de/?ts=a4438987)
+* [Regionale Rezepte für den April.](https://www.smarticular.net/regional-saisonal-kochen-april-fruehling/)
+* [Was könnt ihr jetzt auf der Fensterbank züchten? Kürbis, Zucchini, Kopfsalat, Mangold, Brokkoli, Blumenkohl, Wirsing, Thymian, Basilikum und Petersilie.](https://www.smarticular.net/gemuese-kraeuter-vorziehen-anleitung-diy-anzuchttoepfchen/)
+* [Wow, jetzt schmeißen auch Getränkehändler Nestle-Sachen raus.](https://netzfrauen.org/2018/03/31/nestle/)
+* [Warum werden Mord-Roboter nicht verboten? Weil Frankreich und Deutschland das nicht wollen!](https://blog.fefe.de/?ts=a44140e9)
+* [Der Verfassungsschutz in Bayern hat das letzte Wort, ob man in Bayern Beamter werden darf oder nicht.](https://blog.fefe.de/?ts=a4415bb1)
