@@ -4,7 +4,7 @@
 * [Nach Nestle ist jetzt McDonalds dran.](https://netzfrauen.org/2018/04/02/imnotlovinit-%e2%80%8f/)
 * [Spannende Frage, was passiert mit allen Limiteds nach dem Brexit.](https://blog.fefe.de/?ts=a43f3688)
 * [Apropos CSU und Bayern, wie 1984 planen sie ihren Freistaat? So 1984!](http://www.neopresse.com/politik/dach/bayern-wird-zum-ueberwachungsstaat-orwell-1984-wird-realitaet/)
-* [Cloudflare bietet jetzt auch einen DNS Resolver an 1.1.1.1](https://blog.fefe.de/?ts=a43ffcb6)
+* [Cloudflare bietet jetzt auch einen DNS Resolver an 1.1.1.1](https://blog.fefe.de/?ts=a43ffcb6) - [Hirnfick hat seine Gedanken auch zusammengefasst.](https://tuxproject.de/blog/2018/04/kurz-angemerkt-zu-1-1-1-1/)
 * [Hier gibt es Ideen warum du Kaffeetrinken sein lassen solltest.](https://www.smarticular.net/kaffee-abgewoehnen-weniger-coffein-kaffeesucht-entzug-muedigkeit/)
 * [Wie entspanne ich meine Augen? Hier gibt es neun Tricks.](https://www.smarticular.net/fitness-fuer-die-augen-uebungen-bewahren-die-sehschaerfe/)
 * [Netter Gedankenansatz, da sperrt sich ein Erwachsener selbst das Internet, damit er, seine Partnerin und seine Kinder mehr Zeit miteinander haben.](https://odoepner.wordpress.com/2018/04/02/parental-control-against-internet-overuse/)
@@ -16,3 +16,6 @@
 * [Der Ostermarsch 2018 fand dieses Jahr in München statt.](https://weltnetz.tv/video/1449-ostermarsch-2018-muenchen)
 * [Googles Chrome hat jetzt einen Virenscanner unter Windows mit dabei.](https://blog.fefe.de/?ts=a43d9e5f) - Und der schnüffelt überall rum.
 * [In diesem Youtube-Video wird vom aktuelle Stand der archäologischen Ausgrabungen am "Herderhaus" in Freiberg berichtet.](https://www.youtube.com/watch?v=Gmaap-jO9zE)
+* [Die westliche Welt segnet die Insel Borneo mit Palmenölanbau und jetzt auch mit einer Ölkatastrophe.](https://netzfrauen.org/2018/04/03/borneo/)
+* [Wow, die reichsten Konzerne haben in Davos beschlossen, dass man nur noch aktiv am "modernen Leben" teilhaben kann, wenn man selbständig Daten über sich sammelt und diese großzügig mit der privaten Wirtschaft und dem Staat teilt.](https://npr.news.eulu.info/2018/04/03/person-of-interest-eine-horrorvision-nimmt-seinen-anfang/)
+* [Was ist der beste Datenschutz? "The german Datensparsamkeit" ... also das, was wir Deutschen früher mal gemacht haben ... vor der Zeit des Datenerdöls.](https://blog.fefe.de/?ts=a43d57ec)
