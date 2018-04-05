@@ -23,3 +23,10 @@
 * [Die westliche Welt segnet die Insel Borneo mit Palmenölanbau und jetzt auch mit einer Ölkatastrophe.](https://netzfrauen.org/2018/04/03/borneo/)
 * [Wow, die reichsten Konzerne haben in Davos beschlossen, dass man nur noch aktiv am "modernen Leben" teilhaben kann, wenn man selbständig Daten über sich sammelt und diese großzügig mit der privaten Wirtschaft und dem Staat teilt.](https://npr.news.eulu.info/2018/04/03/person-of-interest-eine-horrorvision-nimmt-seinen-anfang/)
 * [Was ist der beste Datenschutz? "The german Datensparsamkeit" ... also das, was wir Deutschen früher mal gemacht haben ... vor der Zeit des Datenerdöls.](https://blog.fefe.de/?ts=a43d57ec)
+* [Hier werden acht essbare Blüten vorgestellt die aus eurem Garten kommen können und wie ihr sie verarbeiten könnt.](https://www.smarticular.net/essbare-blueten-garten-anbauen-liste/) - Dabei sind Holunderblüten, Magnolienblüten, Hibiskus, Wildrosen, Kirschblüten, Lindenblüten, Zucchiniblüten, Kürbisblüten und Sonnenblumen.
+* [MySQL Performance Schema - Frage- und Antwortrunde bei Percona.](https://www.percona.com/blog/2018/04/04/performance-schema-for-mysql-troubleshooting-webinar-q-a/)
+* [Wollt ihr auch so beeindruckt von der Brennnessel sein wie ich? Lest euch diese Artikel durch wofür man die Brennnessel alles benutzen kann.](https://bio-erzgebirge.de/wp/?p=14279) - Soetwas wüerde ich gern in der Apotheke angeboten bekommen, wenn ich Probleme habe.
+* [6 kreative Wege Probleme mit Docker zu lösen.](https://www.oreilly.com/ideas/6-creative-ways-to-solve-problems-with-linux-containers-and-docker)
+* [Docker für Mac mit nativen NFS?](https://medium.com/@sean.handley/how-to-set-up-docker-for-mac-with-native-nfs-145151458adc)
+* [Hier gibt es einen reinen einstieg in Vagrant ohne Ansibleverbindungen.](https://opensource.com/article/18/4/getting-started-vagrant)
+* [Impact Map oder "Was wollen wir. Wer wird dadurch beeinflusst. Wie wird er beeinflusst und was will er?"](https://opensource.com/article/18/4/how-impact-mapping)
