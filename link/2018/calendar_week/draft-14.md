@@ -4,7 +4,7 @@
 * [Nach Nestle ist jetzt McDonalds dran.](https://netzfrauen.org/2018/04/02/imnotlovinit-%e2%80%8f/)
 * [Spannende Frage, was passiert mit allen Limiteds nach dem Brexit.](https://blog.fefe.de/?ts=a43f3688)
 * [Apropos CSU und Bayern, wie 1984 planen sie ihren Freistaat? So 1984!](http://www.neopresse.com/politik/dach/bayern-wird-zum-ueberwachungsstaat-orwell-1984-wird-realitaet/)
-* [Cloudflare bietet jetzt auch einen DNS Resolver an 1.1.1.1](https://blog.fefe.de/?ts=a43ffcb6)
+* [Cloudflare bietet jetzt auch einen DNS Resolver an 1.1.1.1](https://blog.fefe.de/?ts=a43ffcb6) - [Hirnfick hat seine Gedanken auch zusammengefasst.](https://tuxproject.de/blog/2018/04/kurz-angemerkt-zu-1-1-1-1/)
 * [Hier gibt es Ideen warum du Kaffeetrinken sein lassen solltest.](https://www.smarticular.net/kaffee-abgewoehnen-weniger-coffein-kaffeesucht-entzug-muedigkeit/)
 * [Wie entspanne ich meine Augen? Hier gibt es neun Tricks.](https://www.smarticular.net/fitness-fuer-die-augen-uebungen-bewahren-die-sehschaerfe/)
 * [Netter Gedankenansatz, da sperrt sich ein Erwachsener selbst das Internet, damit er, seine Partnerin und seine Kinder mehr Zeit miteinander haben.](https://odoepner.wordpress.com/2018/04/02/parental-control-against-internet-overuse/)
@@ -20,3 +20,6 @@
 * [Nach Fukushima ist vor Fukushima, die EU subventioniert weitder den Bau von Atomkraftwerken, auch gern in Erdbebenregionen.](https://netzfrauen.org/2018/04/04/57292/)
 * [Hier ist eine Liste mit Terminen die ihr im Netzwerk Miteinandersein in und um Freiberg wahrnehmen könnt.](https://bio-erzgebirge.de/wp/?p=14175)
 * [Nein? Doch! Oh? Der Zwangswechsel von alten auf neue Heizkessel spart weniger CO2 ein als vom Verband der Heizungsindustrie angegeben.](http://www.sonnenseite.com/de/energie/neue-heizkessel-sparen-weniger-co2-als-gedacht.html) - Der Zwang ist ja per Gesetzt festgesetzt und der Verband hat nun fast im VM-Maß gelogen. Ob es da Konsequenzen geben wird?
+* [Die westliche Welt segnet die Insel Borneo mit Palmenölanbau und jetzt auch mit einer Ölkatastrophe.](https://netzfrauen.org/2018/04/03/borneo/)
+* [Wow, die reichsten Konzerne haben in Davos beschlossen, dass man nur noch aktiv am "modernen Leben" teilhaben kann, wenn man selbständig Daten über sich sammelt und diese großzügig mit der privaten Wirtschaft und dem Staat teilt.](https://npr.news.eulu.info/2018/04/03/person-of-interest-eine-horrorvision-nimmt-seinen-anfang/)
+* [Was ist der beste Datenschutz? "The german Datensparsamkeit" ... also das, was wir Deutschen früher mal gemacht haben ... vor der Zeit des Datenerdöls.](https://blog.fefe.de/?ts=a43d57ec)
