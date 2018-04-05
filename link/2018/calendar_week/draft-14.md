@@ -16,3 +16,7 @@
 * [Der Ostermarsch 2018 fand dieses Jahr in München statt.](https://weltnetz.tv/video/1449-ostermarsch-2018-muenchen)
 * [Googles Chrome hat jetzt einen Virenscanner unter Windows mit dabei.](https://blog.fefe.de/?ts=a43d9e5f) - Und der schnüffelt überall rum.
 * [In diesem Youtube-Video wird vom aktuelle Stand der archäologischen Ausgrabungen am "Herderhaus" in Freiberg berichtet.](https://www.youtube.com/watch?v=Gmaap-jO9zE)
+* [Cool, in Paderborn wurde eine alte Getreitemühle zum Kraftwerk umgebaut. 7 Kw/h liefert die Mühle "für lau".](http://www.sonnenseite.com/de/energie/ehemalige-getreidemuehle-erzeugt-gruenen-strom.html)
+* [Nach Fukushima ist vor Fukushima, die EU subventioniert weitder den Bau von Atomkraftwerken, auch gern in Erdbebenregionen.](https://netzfrauen.org/2018/04/04/57292/)
+* [Hier ist eine Liste mit Terminen die ihr im Netzwerk Miteinandersein in und um Freiberg wahrnehmen könnt.](https://bio-erzgebirge.de/wp/?p=14175)
+* [Nein? Doch! Oh? Der Zwangswechsel von alten auf neue Heizkessel spart weniger CO2 ein als vom Verband der Heizungsindustrie angegeben.](http://www.sonnenseite.com/de/energie/neue-heizkessel-sparen-weniger-co2-als-gedacht.html) - Der Zwang ist ja per Gesetzt festgesetzt und der Verband hat nun fast im VM-Maß gelogen. Ob es da Konsequenzen geben wird?
