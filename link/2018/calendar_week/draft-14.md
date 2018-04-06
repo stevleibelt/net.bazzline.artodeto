@@ -30,3 +30,4 @@
 * [Docker für Mac mit nativen NFS?](https://medium.com/@sean.handley/how-to-set-up-docker-for-mac-with-native-nfs-145151458adc)
 * [Hier gibt es einen reinen einstieg in Vagrant ohne Ansibleverbindungen.](https://opensource.com/article/18/4/getting-started-vagrant)
 * [Impact Map oder "Was wollen wir. Wer wird dadurch beeinflusst. Wie wird er beeinflusst und was will er?"](https://opensource.com/article/18/4/how-impact-mapping)
+* [DXVK wurde in der Version 0.41 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=DXVK-0.41-Released-D3D11-VLK)
