@@ -31,3 +31,10 @@
 * [Hier gibt es einen reinen einstieg in Vagrant ohne Ansibleverbindungen.](https://opensource.com/article/18/4/getting-started-vagrant)
 * [Impact Map oder "Was wollen wir. Wer wird dadurch beeinflusst. Wie wird er beeinflusst und was will er?"](https://opensource.com/article/18/4/how-impact-mapping)
 * [DXVK wurde in der Version 0.41 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=DXVK-0.41-Released-D3D11-VLK)
+* [Hier erklärt euch ein Arzt den aktuellen Zustand des deutschen Gesundheitsystems.](http://www.welt-im-wandel.tv/video/die-wahrheit-ueber-unser-gesundheitssystem-ein-arzt-packt-aus/)
+* [Fefe hat seine Reise in den Museen und vereingetriebenen "Makerspaces" in einen Beitrag gefasst.](https://blog.fefe.de/?ts=a4365cff) - Meine größte Zustimmung gebe ich dem Hinweis, dass man als Eltern mit Kindern bis Teenagern von diesen Angeboten profitieren kann, da man so den Funken für das Feuer "Produzieren statt Konsumieren" zünden kann.
+* [Erneut Fefe, er empfiehlt den Film "National Bird".](https://blog.fefe.de/?ts=a43658e8) - In der Mediathek lautet der Name "Amerikas Drohnenkrieg", der lief um 22:45 Uhr - dann, wenn der Blockparteiwähler im Bett ist.
+* [Git wurde zwölf jahre alt, alles Gute und danke das es dich gibt.](https://opensource.com/article/18/4/12-git-tips-gits-12th-birthday)
+* [Nette Idee zum Frühjahrsputz, jeden Tag fokusiert für eine Aufgabe mit einem festen Zeitraum von 30 bis 60 Minuten.](https://www.smarticular.net/fruehjahrsputz-challenge-in-21-tagen-checkliste-plan/)
+* [Neun Möglichkeiten wie man überschüssiges Eigelb verarbeitet.](https://www.smarticular.net/eigelb-resteverwertung-rezepte-plaetzchen/)
+* [13 Möglichkeiten wie man überschüssiges Eiweiß verarbeitet.](https://www.smarticular.net/eiweiss-reste-uebrig-verwerten/)
