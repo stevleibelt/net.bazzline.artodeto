@@ -1,0 +1,7 @@
+* [Pidgin wurde in der Version 2.13 veröffentlicht.](https://www.pro-linux.de/news/1/25777/pidgin-213-freigegeben.html)
+* [Winterjacken und Mützen ausmisten.](https://www.smarticular.net/blitzblank-tag-2-fruehling-flurgarderobe-winterjacken-muetzen-loswerden/)
+* [Der älteste aktive deutsche Naturheilverein Deutschlands möchte sein Bestehen seit 150 Jahre Feiern und sucht noch Unterstützer.](https://bio-erzgebirge.de/wp/?p=14349)
+* [In den USA werden jetzt genetisch manipulierte Kartoffeln verkauft.](https://netzfrauen.org/2018/04/09/gmo/)
+* [Eins der besten "5 Übungen gegen Schulter- und Nackenschmerzen"-Videos das ich kenne, wenn ihr viel im Büro sitzt.](https://www.youtube.com/watch?v=MmzbnT-poAo)
+* [PHPMyAdmin wurde in der Version 4.8.0 veröffentlicht.](https://www.phpmyadmin.net/news/2018/4/7/phpmyadmin-480-released/)
+* [Die Netzfrauen fassen noch einmal alle wichtigen Fakten von Maissirup/HFCS/Isoglukose zusammen - das Zeug ist reines Gift.](https://netzfrauen.org/2018/04/09/maissirup/)
