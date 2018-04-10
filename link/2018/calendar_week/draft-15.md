@@ -5,3 +5,10 @@
 * [Eins der besten "5 Übungen gegen Schulter- und Nackenschmerzen"-Videos das ich kenne, wenn ihr viel im Büro sitzt.](https://www.youtube.com/watch?v=MmzbnT-poAo)
 * [PHPMyAdmin wurde in der Version 4.8.0 veröffentlicht.](https://www.phpmyadmin.net/news/2018/4/7/phpmyadmin-480-released/)
 * [Die Netzfrauen fassen noch einmal alle wichtigen Fakten von Maissirup/HFCS/Isoglukose zusammen - das Zeug ist reines Gift.](https://netzfrauen.org/2018/04/09/maissirup/)
+* [Schuhe ausmisten.](https://www.smarticular.net/blitzblank-tag-3-schuhschrank-aussortieren-schuhcreme-schuster/)
+* [Wird Ver.di bewusst von den Massenmedien als drumme Querulanten dargestellt um die gewünschte Abschaffung der Gewerkschaften zu beschleunigen?](https://tuxproject.de/blog/2018/04/kurz-angemerkt-zur-laestigen-ver-di-gewerkschaft/)
+* [Lol, die Datensammelwut wird immer bekloppter, der Städte- und Gemeindebund will nun auch eure gesammelten Daten ohne euer wissen verkloppen.](https://blog.fefe.de/?ts=a43553e4)
+* [Bei FeFe kam es jetzt auch an, dass Mineralwasser aus Plastikflaschen kacke ist und Krebs verursacht.](https://blog.fefe.de/?ts=a4354fbe)
+* [Nichts gelernt, nun bauen die Japaner Solarkraftwerke auf dem Wasser.](http://www.sonnenseite.com/de/energie/kyocera-realisiert-japans-groesstes-schwimmendes-solarkraftwerk-mit-137-megawatt.html) - Das der See das Sonnenlicht für sein aktives Ökosystem braucht, werden sie erst im kommenden Jahr merken.
+* [Cool, man Kartoffeln zu Hause sogar im Eimer anbauen :-D.](https://www.smarticular.net/kartoffeln-in-der-wohnung-anbauen-im-eimer/)
+* [FreeCAD wurde in der Version 0.17 veröffentlicht.](https://www.pro-linux.de/news/1/25783/freecad-017-mit-zahlreichen-neuerungen.html)
