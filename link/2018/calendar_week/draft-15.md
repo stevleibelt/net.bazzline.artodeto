@@ -1,4 +1,4 @@
-* [Pidgin wurde in der Version 2.13 veröffentlicht.](https://www.pro-linux.de/news/1/25777/pidgin-213-freigegeben.html)
+07* [Pidgin wurde in der Version 2.13 veröffentlicht.](https://www.pro-linux.de/news/1/25777/pidgin-213-freigegeben.html2
 * [Winterjacken und Mützen ausmisten.](https://www.smarticular.net/blitzblank-tag-2-fruehling-flurgarderobe-winterjacken-muetzen-loswerden/)
 * [Der älteste aktive deutsche Naturheilverein Deutschlands möchte sein Bestehen seit 150 Jahre Feiern und sucht noch Unterstützer.](https://bio-erzgebirge.de/wp/?p=14349)
 * [In den USA werden jetzt genetisch manipulierte Kartoffeln verkauft.](https://netzfrauen.org/2018/04/09/gmo/)
@@ -12,3 +12,6 @@
 * [Nichts gelernt, nun bauen die Japaner Solarkraftwerke auf dem Wasser.](http://www.sonnenseite.com/de/energie/kyocera-realisiert-japans-groesstes-schwimmendes-solarkraftwerk-mit-137-megawatt.html) - Das der See das Sonnenlicht für sein aktives Ökosystem braucht, werden sie erst im kommenden Jahr merken.
 * [Cool, man Kartoffeln zu Hause sogar im Eimer anbauen :-D.](https://www.smarticular.net/kartoffeln-in-der-wohnung-anbauen-im-eimer/)
 * [FreeCAD wurde in der Version 0.17 veröffentlicht.](https://www.pro-linux.de/news/1/25783/freecad-017-mit-zahlreichen-neuerungen.html)
+* [Planet3DNow zeigt, mit einen wunderbar ausführlichen und neutralen Test, dass das ASRock x399 Taichi ein gutes Motherboard ist.](https://www.planet3dnow.de/cms/37135-asrock-x399-taichi/) - Zudem freut es mich, dass ASRock weiterhin alles richtig macht und besonders Wert auf Spannungswandler statt auf LED's achtet.
+* [Fenster sauber machen.](https://www.smarticular.net/blitzblank-tag-4-natuerlich-fenster-putzen-streifenfrei-sauber/) - Mit [eigenem Fensterreiniger](https://www.smarticular.net/oekologischer-fensterreiniger-in-minutenschnelle-selbst-hergestellt/)
+* [WTF? Einzelnen Kartoffeln in Plastik einpacken?](https://netzfrauen.org/2018/04/10/weltreise/)
