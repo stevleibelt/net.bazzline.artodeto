@@ -30,3 +30,5 @@
 * [Wow, das EU-Parlament will Robotern eine rechtliche Stimme geben.](https://blog.fefe.de/?ts=a4319858)
 * [Danke der Linken, die haben mal gefragt und huch, die Blockpartei macht mehr Waffenexporte als im Jahr zuvor.](https://blog.fefe.de/?ts=a4318b7a)
 * [Na huch? Trumps Steuerstrategie geht nur für die Reichen auf.](https://blog.fefe.de/?ts=a4318917)
+* [Die Österreicher verschenken die Daten ihrer Bevölkerung nun auch.](https://blog.fefe.de/?ts=a4316323)
+* [Status Quo zur aktuellen geopolitischen Lage.](https://www.maskenfall.de/?p=12472)
