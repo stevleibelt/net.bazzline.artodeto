@@ -21,3 +21,12 @@
 * [Joplin, die open source Alternative zu Evernote libäugelt mit der Nextcloud.](https://nextcloud.com/blog/mobile-note-taking-with-your-private-cloud-announcing-joplinnextcloud-integration/)
 * [Nextcloud Talk für Android wurde in der Version 1.1 veröffentlicht.](https://nextcloud.com/blog/nextcloud-talk-1.1.0-with-push-to-talk-improved-call-actions-f-droid-support/)
 * [Tjow ihr Säufer, auch in eurem Bier oder Wein ist jetzt Glyphosat.](https://netzfrauen.org/2018/04/11/bier/) - Hättet ihr nur mal mit dagegen demonstriert.
+* [Roundcube wurde in der Version 1.3.6 veröffentlicht.](https://roundcube.net/news/2018/04/11/security-update-1.3.6)
+* [Hackfressenbuch "muss" auch Daten über nicht Sektenmitglieder sammel ... *papierraschel* ... aus Sicherheitsgründen.](https://blog.fefe.de/?ts=a430ba21)
+* [Terrasse sauber machen.](https://www.smarticular.net/blitzblank-tag-5-balkon-terrasse-ausmisten-putzen-essig-natron/)
+* [Der Golfstrom wird immer schwächer und das kann man immer deutlicher wissenschaftlich beweisen.](http://www.sonnenseite.com/de/wissenschaft/staerkere-belege-fuer-abschwaechung-des-golfstromsystems.html)
+* [Jenkins Pipelines kurz und knapp erklärt.](https://opensource.com/article/18/4/jenkins-pipelines-with-cucumber)
+* [20 Tipps für mehr Energie im Tag.](https://www.careelite.de/tipps-mehr-energie-im-alltag/)
+* [Wow, das EU-Parlament will Robotern eine rechtliche Stimme geben.](https://blog.fefe.de/?ts=a4319858)
+* [Danke der Linken, die haben mal gefragt und huch, die Blockpartei macht mehr Waffenexporte als im Jahr zuvor.](https://blog.fefe.de/?ts=a4318b7a)
+* [Na huch? Trumps Steuerstrategie geht nur für die Reichen auf.](https://blog.fefe.de/?ts=a4318917)
