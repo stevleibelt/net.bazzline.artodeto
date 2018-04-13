@@ -32,3 +32,6 @@
 * [Na huch? Trumps Steuerstrategie geht nur für die Reichen auf.](https://blog.fefe.de/?ts=a4318917)
 * [Die Österreicher verschenken die Daten ihrer Bevölkerung nun auch.](https://blog.fefe.de/?ts=a4316323)
 * [Status Quo zur aktuellen geopolitischen Lage.](https://www.maskenfall.de/?p=12472)
+* [Kühlschrank ausmisten und säubern.](https://www.smarticular.net/blitzblank-tag-6-natuerlich-kuehlschrank-putzen-essig-natron/)
+* [Goldman Sachs zeigt wie sie denken und fragen sich, ob es sich finanziell überhaupt lohnt Krankheiten zu heilen.](https://blog.fefe.de/?ts=a42ea5fb)
+* [Wollt ihr mal was ekliges sehen was Amazon so mit den Smartphone-Cameras vor hat?](https://www.youtube.com/watch?v=SNONL4IecHE&feature=youtu.be)
