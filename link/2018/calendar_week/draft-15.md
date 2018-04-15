@@ -1,4 +1,4 @@
-07* [Pidgin wurde in der Version 2.13 veröffentlicht.](https://www.pro-linux.de/news/1/25777/pidgin-213-freigegeben.html2
+* [Pidgin wurde in der Version 2.13 veröffentlicht.](https://www.pro-linux.de/news/1/25777/pidgin-213-freigegeben.html2
 * [Winterjacken und Mützen ausmisten.](https://www.smarticular.net/blitzblank-tag-2-fruehling-flurgarderobe-winterjacken-muetzen-loswerden/)
 * [Der älteste aktive deutsche Naturheilverein Deutschlands möchte sein Bestehen seit 150 Jahre Feiern und sucht noch Unterstützer.](https://bio-erzgebirge.de/wp/?p=14349)
 * [In den USA werden jetzt genetisch manipulierte Kartoffeln verkauft.](https://netzfrauen.org/2018/04/09/gmo/)
@@ -41,3 +41,10 @@
 * [ZFSonLinux kriegt bald TRIM Unterstützung.](https://www.phoronix.com/scan.php?page=news_item&px=ZFS-On-Linux-TRIM-Closer)
 * [Das "Great Barrier Reef" ist schon fast komplett gestorben.](https://netzfrauen.org/2018/04/13/great-barrier-reef/)
 * [Pressegespräch April 2018 Freiberg.](https://www.youtube.com/watch?v=rGS0OkhI_KE)
+* [Die Bundesregierung hat für über 3 Millionen Euro Werbung für die Bundeswehr auf Hackfressenbuch geschaltet.](https://blog.fefe.de/?ts=a42f72a5)
+* [USA, Großbritanien und Frankreich greifen Syrien an statt friedlich OPCW-Prüfer ins Land zu schicken.](https://blog.fefe.de/?ts=a42f74e5) - So nah ist der nächste Krieg in Europa schon.
+* [Irre, um den Endkunden noch krankere Strompreise in Rechnung zu stellen will man jetzt keinen festen Strompreis mehr haben sondern der Endnutzer soll den Preis von der Börse direkt bezahlen.](http://www.sonnenseite.com/de/energie/fraunhofer-ise-entwickelt-dynamische-stromtarife-fuer-ein-smart-grid.html) - Kurzum, man schaltet die Stadtwerke hier aus, die als Einzige noch dagegenhalten, so dass Strompreise nicht noch mehr Spekulationsobjekt werden.
+* [Die Hawaiianer gehen auf die Straße, da man ihr Land als Versuchsplattform für Genexperimente an der Natur nutzt - ungefragt natürlich.](https://netzfrauen.org/2018/04/13/hawaii/)
+* [Vorratsschrank und Gewürzregal sauber machen.](https://www.smarticular.net/blitzblank-tag-7-vorratsschrank-reinigen-putzen-ordnen-essig-zitrus/)
+* [Meidet den Kauf von Produkte dieser zehn Nahrungsmittelkonzernen und ihr helft damit, Kriege und Armut in der Welt zu beseitigen.](https://netzfrauen.org/2018/04/14/konzerne/)
+* [Sounds of New Soma - Moebius Tunnel kann ich als Musik empfehlen.](https://tuxproject.de/blog/2018/04/kurzkritik-sounds-of-new-soma-moebius-tunnel/)
