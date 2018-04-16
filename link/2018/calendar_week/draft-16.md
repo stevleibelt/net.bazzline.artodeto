@@ -1,0 +1,5 @@
+* [Ihr kauft Nahrungsmittel aus China weil die so schön billig sind? Schaut mal warum die so billig sind.](https://netzfrauen.org/2018/04/16/china-4/)
+* [Küche sauber machen.](https://www.smarticular.net/blitzblank-tag-9-kueche-oberflaechen-ceranfeld-reinigen-putzen-essig-natron/)
+* [To big to fail? Bei der Automobilindustrie sieht man wie genau der Gesetzgeber wegschauen kann.](http://www.sonnenseite.com/de/mobilitaet/die-automobilindustrie-schummelt-weiter.html)
+* [Jenkins im Container laufen lassen? Hier kriegt ihr eine Einstiegshilfe.](https://opensource.com/article/18/4/running-jenkins-builds-containers)
+* [ReactOS wurde in der Version 0.4.8 veröffentlicht und hat eine experimentelle Windows 10 Unterstützung.](https://www.pro-linux.de/news/1/25801/reactos-048-mit-experimenteller-win10-unterst%C3%BCtzung.html)
