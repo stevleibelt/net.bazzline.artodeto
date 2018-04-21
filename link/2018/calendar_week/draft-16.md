@@ -34,3 +34,9 @@
 * [Gänseblümchen und was machst du für Naturkosmetik daraus?](https://www.smarticular.net/gaensebluemchen-salbe-creme-tinktur-rezept-anleitung/)
 * [Pornhub nimmt die Kryptowährung Verge entgegen.](https://blog.fefe.de/?ts=a4260104)
 * [Laut dem BGH sind Adblocker erlaubt.](https://blog.fefe.de/?ts=a42622b7)
+* [Palantir Technologies und Warner Bros sitzen jetzt im Aufsichtsrat von Axel Springer, Geheimdienst und Big-Data-Klitsche.](https://blog.fefe.de/?ts=a4277b86)
+* [An der Universität in Washington forscht man gerade daran, dass man die Videoüberwachungskameras demnächst mit weniger Stromhunger und via passiver WLan-Stromversorgung bauen kann.](https://blog.fefe.de/?ts=a42771af) - Noch mehr Videoüberwachung überall ohne eure Erlaubnis.
+* [Man kann angeblich Millionen von geheim gemachten Gesichtsaufnahmen von unschuldigen Personen nicht löschen weil das zu teuer ist.](https://blog.fefe.de/?ts=a4276bcb)
+* [Abfluss sauber machen.](https://www.smarticular.net/blitzblank-tag-13-natuerlich-freier-abfluss-reinigen-soda-essig/)
+* [PHP-Anwendung ohne Framework? Dank der PHP-FIG geht das einfach.](https://kevinsmith.io/modern-php-without-a-framework)
+* [Der wissenschaftliche Dienst des Bundestages hat durch ein Gutachten bestätigt, dass der Angriff auf Syrien durch die USA, Frankreich und Groß Britanien Völkerrechtswidrig war.](https://blog.fefe.de/?ts=a4273710)
