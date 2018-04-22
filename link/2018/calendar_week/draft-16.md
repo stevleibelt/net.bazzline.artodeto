@@ -40,3 +40,12 @@
 * [Abfluss sauber machen.](https://www.smarticular.net/blitzblank-tag-13-natuerlich-freier-abfluss-reinigen-soda-essig/)
 * [PHP-Anwendung ohne Framework? Dank der PHP-FIG geht das einfach.](https://kevinsmith.io/modern-php-without-a-framework)
 * [Der wissenschaftliche Dienst des Bundestages hat durch ein Gutachten bestätigt, dass der Angriff auf Syrien durch die USA, Frankreich und Groß Britanien Völkerrechtswidrig war.](https://blog.fefe.de/?ts=a4273710)
+* [Donald Trump nutzt das System des lauten Geschwätzes ohne der Notwendigkeit der Bestätigung perfekt aus.](https://blog.fefe.de/?ts=a425c521) - Werbung ist überall, niemand muss mehr nachweisen das er lügt.
+* [Zuchhini könnt ihr auch auf dem Balkon anpflanzen.](https://www.smarticular.net/zucchini-balkon-anbau-topf-vorziehen-pflanzen/)
+* [Matratze sauber machen.](https://www.smarticular.net/blitzblank-tag-14-matratzenreinigung-natron-bettdecke-kissen-selber-waschen/)
+* [Interessante Idee, statt der fünf Prozent Hürde lieber eine 50 Prozent Hürde einbauen?](https://tuxproject.de/blog/2018/04/sperrklauselfantasie/)
+* [SC-Controller wurde in der Version 0.4.2 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=SC-Controller-0.4.2)
+* [Wie kam es zum GNOME Shell Memory Leak und wie wurde er gestopft?](https://feaneron.com/2018/04/20/the-infamous-gnome-shell-memory-leak/)
+* [Kurze Zusammenfassung was die Weltbank so ist und wo man Sie auf der eigenen Ethik-Skala einordnen sollte.](https://blog.fefe.de/?ts=a425a98a)
+* [Der Westen hält an de rTeilung von Syrien fest.](https://weltnetz.tv/story/1466-der-westen-haelt-der-teilung-von-syrien-fest) - Eine interessante Zusammenfassung zum Geschehen in Syrien und wie die westlichen Mächte die christliche Nächstenliebe demonstrieren. Ach ja, es geht nur im [die Ressourcen in Syrien](https://www.freitag.de/autoren/hans-springstein/wieder-krieg-fuer-rohstoffe-statt-demokratie).
+* [leanpub.com ist acht Jahre alt geworden.](https://leanpub.com/)
