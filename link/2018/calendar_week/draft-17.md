@@ -39,3 +39,5 @@
 * [Drei schöne Brotaufstriche zum seber machen.](https://www.smarticular.net/brotaufstrich-fruehling-selber-machen-frisch-regional-radieschen/)
 * [Die KfW Bank investiert in Aquakulturen in Afrika um billigen Fisch zu züchten - auf Kosten des Grundwasserspiegels und der lokalen Bevölkerung.](https://netzfrauen.org/2018/04/28/53598-2/)
 * [Lol, bekloppte Menschen, schwimmende AKWs jetzt in der Arktis.](http://www.sonnenseite.com/de/energie/schwimmendes-atomkraftwerk-startet-in-die-arktis.html)
+* [In dir sauber machen.](https://www.smarticular.net/blitzblank-tag-22-zu-hause-entspannen-ruhe-wellness-yoga/)
+* [Die US-Amerikanische Weltbank spricht sich für die Abschaffung des Mindestlohnes aus.](https://npr.news.eulu.info/2018/04/29/weltbank-empfiehlt-abschaffung-des-mindestlohns/) - Alles für den Dackel, alles für den 1%-Klub, das Leben der Menschheit für den Hund!
