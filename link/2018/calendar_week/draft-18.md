@@ -1,0 +1,9 @@
+* [Die AKW's fliegen überall auseinander. Was macht man? Man erhöht die Höchstwerte damit das AKW ja nicht abgeschaltet werden muss um den Faktor 100.](http://www.sonnenseite.com/de/politik/schweizer-atomaufsicht-will-akw-betreibern-erlauben-europas-bevoelkerung-100fach-hoeher-radioaktiv-zu-bestrahlen.html) - Denn eine Abschaltung nützt dem Investor eben nicht, was ist schon dabei wenn Menschen im Umkreis von 20 Kilometer mit Missbildungen, Krebs und Tot leben müssen.
+* [Nestle hat so nachhaltig Wasser abgezapft, dass nicht nur die Bevölkerung in den USA, Südamerika und Äthopien erwischt, sprich es kein nutzbares Grundwasser mehr gibt, nein, auch in Vittel ist das jetzt so.](https://blog.fefe.de/?ts=a4188dc5)
+* [Lol, das Pentagon legt seine Daten in die Klaut ... eventuell zu google oder zu amazon.](https://blog.fefe.de/?ts=a41893a6) - Das Schlimme daran ist, wenn das Pentagon dies macht, dann kommen die Deutschen Behörden auch auf so dumme Ideen.
+* [AVLinux wurde in der Version 2018.4.2 veröffentlicht.](https://www.pro-linux.de/news/1/25848/av-linux-201842-vorgestellt.html)
+* [Hier wird euch gezeigt wie ihr mit Ruby und GTK GUI-Anwendungen schreibt.](https://opensource.com/article/18/4/creating-linux-desktop-application-ruby)
+* [Root-Passwort-Reset in fünf Minuten.](https://opensource.com/article/18/4/reset-lost-root-password)
+* [Magische Methoden in Python werden hier erklärt.](https://opensource.com/article/18/4/elegant-solutions-everyday-python-problems)
+* [OpenIndiana "Hipster" wurde in der Version 2018.04 veröffentlicht.](https://www.pro-linux.de/news/1/25847/neuer-schnappschuss-openindiana-hipster-201804.html)
+* [Das AKW Doel 1 in Belgien ist so kaputt, dass es bis Oktober vom Betreiber heruntergefahren wurde.](https://blog.fefe.de/?ts=a41816b1) - Es hat auch ein Strahlenleck das so schwer zugänglich ist, dass kaum Arbeiter ran kommen. Ist aber nich schlimm, die Strahlung dort ist so stark, dass sie ehh nicht lange arbeiten könnten.
