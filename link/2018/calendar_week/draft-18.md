@@ -7,3 +7,11 @@
 * [Magische Methoden in Python werden hier erklärt.](https://opensource.com/article/18/4/elegant-solutions-everyday-python-problems)
 * [OpenIndiana "Hipster" wurde in der Version 2018.04 veröffentlicht.](https://www.pro-linux.de/news/1/25847/neuer-schnappschuss-openindiana-hipster-201804.html)
 * [Das AKW Doel 1 in Belgien ist so kaputt, dass es bis Oktober vom Betreiber heruntergefahren wurde.](https://blog.fefe.de/?ts=a41816b1) - Es hat auch ein Strahlenleck das so schwer zugänglich ist, dass kaum Arbeiter ran kommen. Ist aber nich schlimm, die Strahlung dort ist so stark, dass sie ehh nicht lange arbeiten könnten.
+* [Kalaschnikow hat ein Drohnen-Abwehr-Gewehr gebaut.](https://blog.fefe.de/?ts=a416daa1)
+* [Noch einmal AKW, Russland hat ein schwimmendes AKW gebaut, das besser gegen Erdbeben geschützt ist als die Dinger aus Japan.](https://blog.fefe.de/?ts=a416d92f)
+* [VW und Audi sind offiziell so einfach hackbar das es schon fast keinen Spaß macht.](https://blog.fefe.de/?ts=a4196bf3)
+* [Hier wird MyRocks gegen InnoDB verglichen.](https://www.percona.com/blog/2018/04/30/a-look-at-myrocks-performance/) - MyRocks kommt echt gut weg.
+* [DXUP solltet ihr im Auge behalten, die nutzen DXVK um Direct X 10 Anwendungen via Vulkan abzufrühstücken.](https://www.phoronix.com/scan.php?page=news_item&px=DXUP-D3D10-D3D11-Vulkan)
+* [Professor Doktor Bernd Gerken zeigt im Gespräch mit Robert Fleischer wie stark es den Menschen trifft, dass die Insekten in Massen aussterben.](http://www.welt-im-wandel.tv/video/der-stille-tod-der-insekten-und-die-katastrophalen-auswirkungen-auf-die-menschheit/)
+* [Tolle Rezepte für den Monat Mai.](https://www.smarticular.net/regional-saisonal-kochen-rezepte-mai/)
+* [Fedora wurde in der Version 28 veröffentlicht.](https://lwn.net/Articles/753208)
