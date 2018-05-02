@@ -15,3 +15,10 @@
 * [Professor Doktor Bernd Gerken zeigt im Gespräch mit Robert Fleischer wie stark es den Menschen trifft, dass die Insekten in Massen aussterben.](http://www.welt-im-wandel.tv/video/der-stille-tod-der-insekten-und-die-katastrophalen-auswirkungen-auf-die-menschheit/)
 * [Tolle Rezepte für den Monat Mai.](https://www.smarticular.net/regional-saisonal-kochen-rezepte-mai/)
 * [Fedora wurde in der Version 28 veröffentlicht.](https://lwn.net/Articles/753208)
+* [Ab dem 04.05 machen wir Raubbau am Meer.](http://www.sonnenseite.com/de/umwelt/ende-der-ueberfischung-der-meere-nicht-in-sicht.html) - Soll bedeutet, jeder Fisch, der nach dem 04.05.2018 gefangen wird, ist einer der die Art dezimiert und damit ausrottet. Die Fakten sind jedem Bekannt, die Fischindustrie interessiert sich nicht dafür da das Meer nicht überwacht wird und damit Wilder-Westen ist.
+* [Wow, 50,000 Kilometer hat im Durchschnitt ein Produkt im Supermarkt zurückgelegt.](https://netzfrauen.org/2018/05/02/lebensmittel-4/) - Da lobe ich mir meinen lokalen Bäcker und Fleischer, da sind es maximal 40 Kilometer.
+* [Frankreich nutzt RIOT und Matrix (beides Open Source) als Grundstein für eine sichere Nachrichten-Anwendung.](https://matrix.org/blog/2018/04/26/matrix-and-riot-confirmed-as-the-basis-for-frances-secure-instant-messenger-app/)
+* [AI/ML? Warum, im Regelfall tut es eine SQL auch ... mit deutlich einfacherer Geschäftslogik.](https://threadreaderapp.com/thread/987602838594445312.html)
+* [Wow, das ging schnell. Die Blockpartei CDU/CSU/SPD will, trotz hoher Einnahmen, noch weniger in unser Land und unsere Infrastruktur investieren.](https://blog.fefe.de/?ts=a417aad6) - Alles muss privatisiert werden!
+* [Red Hat hat ein Kubernets-Framework mit dem Namen "Operator" vor und Open Source.](https://www.pro-linux.de/news/1/25856/red-hat-stellt-operator-framework-f%C3%BCr-kubernetes-vor.html)
+* [Fabrice Fries wird Chef der Agence France-Presse (AFP).](http://www.neopresse.com/medien/der-neue-chef-von-agence-france-presse-afp/) - Damit kann man der AFP in Sachen Neutralität nicht mehr vertrauen.
