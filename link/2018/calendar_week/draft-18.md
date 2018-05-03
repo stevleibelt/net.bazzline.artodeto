@@ -22,3 +22,8 @@
 * [Wow, das ging schnell. Die Blockpartei CDU/CSU/SPD will, trotz hoher Einnahmen, noch weniger in unser Land und unsere Infrastruktur investieren.](https://blog.fefe.de/?ts=a417aad6) - Alles muss privatisiert werden!
 * [Red Hat hat ein Kubernets-Framework mit dem Namen "Operator" vor und Open Source.](https://www.pro-linux.de/news/1/25856/red-hat-stellt-operator-framework-f%C3%BCr-kubernetes-vor.html)
 * [Fabrice Fries wird Chef der Agence France-Presse (AFP).](http://www.neopresse.com/medien/der-neue-chef-von-agence-france-presse-afp/) - Damit kann man der AFP in Sachen Neutralität nicht mehr vertrauen.
+* [Die Intel-CPUs haben jetzt acht weitere sicherheitskritische Fehler.](https://www.planet3dnow.de/cms/38265-acht-neue-spectre-sicherheitsluecken-in-intel-prozessoren-entdeckt/)
+* [Anti-Mücken-Spray selber basteln.](https://www.smarticular.net/anti-muecken-spray-sensible-haut-natuerlich-selber-machen/)
+* [Deutschland verschwendet pro Kopf mehr Geld für nutzloses Militär als Russland oder China.](http://www.sonnenseite.com/de/politik/die-weltweiten-ruestungsausgaben-im-vergleich.html)
+* [CR245 - Forum InformatikerInnen für Frieden und gesellschaftliche Verantwortung.](https://chaosradio.ccc.de/cr245.html)
+* [Am 16.06.2018 findet in Crimmitschau die Veranstaltung >>Raum für Achtsamkeit, Begegnung und Berührung<< statt.](https://bio-erzgebirge.de/wp/?p=14595)
