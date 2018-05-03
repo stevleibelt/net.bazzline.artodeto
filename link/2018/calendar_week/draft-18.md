@@ -22,3 +22,6 @@
 * [Wow, das ging schnell. Die Blockpartei CDU/CSU/SPD will, trotz hoher Einnahmen, noch weniger in unser Land und unsere Infrastruktur investieren.](https://blog.fefe.de/?ts=a417aad6) - Alles muss privatisiert werden!
 * [Red Hat hat ein Kubernets-Framework mit dem Namen "Operator" vor und Open Source.](https://www.pro-linux.de/news/1/25856/red-hat-stellt-operator-framework-f%C3%BCr-kubernetes-vor.html)
 * [Fabrice Fries wird Chef der Agence France-Presse (AFP).](http://www.neopresse.com/medien/der-neue-chef-von-agence-france-presse-afp/) - Damit kann man der AFP in Sachen Neutralität nicht mehr vertrauen.
+* [Elmar Altvater, Oskar Lafontaine, Daniela Dahn und Diether Dehm diskutieren über die Frage ob die EU ein Traum oder ein Albtraum wird.](https://weltnetz.tv/video/526-die-eu-europaeischer-traum-oder-albtraum)
+* [Elmar Altvater starb am 01.05.2018.](https://weltnetz.tv/story/1474-wir-trauern-um-elmar-altvater)
+* [Der Senat von Colorado in den USA hat einen Gesetzesentwurf vorgelegt, der es den Lehrern verbietet zu Streiken.](https://netzfrauen.org/2018/05/03/usa/) - Als ob man damit die Probleme an den US-Amerikanischen Schulen löst, dann wird es zukünftig wohl mehr Probleme geben weswegen die Schule geschlossen werden muss.
