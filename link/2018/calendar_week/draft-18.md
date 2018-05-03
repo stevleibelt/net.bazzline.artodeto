@@ -27,3 +27,6 @@
 * [Deutschland verschwendet pro Kopf mehr Geld für nutzloses Militär als Russland oder China.](http://www.sonnenseite.com/de/politik/die-weltweiten-ruestungsausgaben-im-vergleich.html)
 * [CR245 - Forum InformatikerInnen für Frieden und gesellschaftliche Verantwortung.](https://chaosradio.ccc.de/cr245.html)
 * [Am 16.06.2018 findet in Crimmitschau die Veranstaltung >>Raum für Achtsamkeit, Begegnung und Berührung<< statt.](https://bio-erzgebirge.de/wp/?p=14595)
+* [Elmar Altvater, Oskar Lafontaine, Daniela Dahn und Diether Dehm diskutieren über die Frage ob die EU ein Traum oder ein Albtraum wird.](https://weltnetz.tv/video/526-die-eu-europaeischer-traum-oder-albtraum)
+* [Elmar Altvater starb am 01.05.2018.](https://weltnetz.tv/story/1474-wir-trauern-um-elmar-altvater)
+* [Der Senat von Colorado in den USA hat einen Gesetzesentwurf vorgelegt, der es den Lehrern verbietet zu Streiken.](https://netzfrauen.org/2018/05/03/usa/) - Als ob man damit die Probleme an den US-Amerikanischen Schulen löst, dann wird es zukünftig wohl mehr Probleme geben weswegen die Schule geschlossen werden muss.
