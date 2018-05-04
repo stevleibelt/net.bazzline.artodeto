@@ -30,3 +30,9 @@
 * [Elmar Altvater, Oskar Lafontaine, Daniela Dahn und Diether Dehm diskutieren über die Frage ob die EU ein Traum oder ein Albtraum wird.](https://weltnetz.tv/video/526-die-eu-europaeischer-traum-oder-albtraum)
 * [Elmar Altvater starb am 01.05.2018.](https://weltnetz.tv/story/1474-wir-trauern-um-elmar-altvater)
 * [Der Senat von Colorado in den USA hat einen Gesetzesentwurf vorgelegt, der es den Lehrern verbietet zu Streiken.](https://netzfrauen.org/2018/05/03/usa/) - Als ob man damit die Probleme an den US-Amerikanischen Schulen löst, dann wird es zukünftig wohl mehr Probleme geben weswegen die Schule geschlossen werden muss.
+* [gVisor ist eine neue runtime für Docker von Google welches die Container auf das Sicherheitsniveau von VM's heben soll.](https://www.pro-linux.de/news/1/25861/google-stellt-container-runtime-gvisor-als-open-source-vor.html) - Aktuell werden 200 der benötigten 300 System-Calls unterstützt.
+* [Heilpflanze des Monats Mai 2018: Der Ackerschachtelhalm.](https://bio-erzgebirge.de/wp/?p=14650)
+* [Früher hätte man einfach "neue Version von Autoladestation verfügbar" geschrieben, heute reicht nicht mehr *schnell*, da muss das französische Wort *ultra* noch davor.](http://www.sonnenseite.com/de/mobilitaet/internationales-ultra-schnellladenetz-waechst-weiter.html)
+* [Woha! Die macht des Volkes am Beispiel für "Viva con Aqua" statt "Nestle-Wasser".](https://netzfrauen.org/2018/05/04/nestle-boykott/)
+* [Aktuelles im Netzwerk Freiberg für Mai.](https://bio-erzgebirge.de/wp/?p=14637)
+* [EU GDPR Shild ist eine neue Art mit der Macht der Angst Daten von Nutzern zu sammeln (wer ruft wann und wie welche Webseite auf).](https://blog.fefe.de/?ts=a412926d) - Ach ja, und das Internet ist wieder einmal mehr zerhackstückelt worden.
