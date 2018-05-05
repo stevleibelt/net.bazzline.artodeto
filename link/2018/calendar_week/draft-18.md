@@ -36,3 +36,10 @@
 * [Woha! Die macht des Volkes am Beispiel für "Viva con Aqua" statt "Nestle-Wasser".](https://netzfrauen.org/2018/05/04/nestle-boykott/)
 * [Aktuelles im Netzwerk Freiberg für Mai.](https://bio-erzgebirge.de/wp/?p=14637)
 * [EU GDPR Shild ist eine neue Art mit der Macht der Angst Daten von Nutzern zu sammeln (wer ruft wann und wie welche Webseite auf).](https://blog.fefe.de/?ts=a412926d) - Ach ja, und das Internet ist wieder einmal mehr zerhackstückelt worden.
+* [Sogar die Allianz-Versicherung hat keinen Bock mehr auf Kohle.](http://www.sonnenseite.com/de/wirtschaft/allianz-schraenkt-versicherung-von-kohle-massiv-ein.html)
+* [Jede Krankheit ist heilbar - Die Macht der Selbstheilung](http://www.welt-im-wandel.tv/video/jede-krankheit-ist-heilbar-die-macht-der-selbstheilung/)
+* [Beim Upgrade von JS52 in eurem Arch Linux müsst ihr mithelfen.](https://www.archlinux.org/news/js52-5273-2-upgrade-requires-intervention/)
+* [Binary Logs, MySQL und die Frage nach dem Dateisystem - XFS und Ext4 sind ungefähr gleich.](https://www.percona.com/blog/2018/05/04/how-binary-logs-and-filesystems-affect-mysql-performance/)
+* [Brennnessel, Löwenzahn und Giersch kann man essen - ein paar Rezepte gibt es hier.](https://www.smarticular.net/giersch-rezepte-wildkraeuter-sammeln-verarbeiten-zubereiten-kochen-salat/)
+* [Geilo, in fast allen Verpackungen aus dem Supermarkt sind krebserregende Stoffe enthalten.](https://netzfrauen.org/2018/05/05/gift-alarm-2/)
+* [Schönes Beispiel zur Befangenheit der öffentlich-rechtlichen Medien. Der ORF machte eine Umfrage unter der Bevölkerung wie schlecht der Smart Meter ist. Die Bevölkerung hat eindeutig ihren Missmut zum Ausdruck gebracht und so wurde die Umfrage gelöscht.](https://npr.news.eulu.info/2018/05/05/smartmeter-der-orf-und-eine-verschwundene-umfrage/)
