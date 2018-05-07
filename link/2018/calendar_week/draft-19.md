@@ -1,0 +1,6 @@
+* [DXVK wurde in der Version 0.50 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=DXVK-0.50-Direct3D-11-Vulkan)
+* [Hackfressenbuch ist auf dem absteigenden Ast oder nicht "offen genug" für die Polizei, angeblich finden sich der ISIS zugeneigten Personen via Facebook "suggested friends".](https://blog.fefe.de/?ts=a411b804)
+* [Diese neumodigen Browser, Googles "ich bin der Webstandard"-Chrome, also Internet Explorer Reloaded, "lernt von der Benutzung des Nutzers und entscheidet ...".](https://www.pro-linux.de/news/1/25865/google-erl%C3%A4utert-neue-richtlinie-zu-chrome-autoplay.html)
+* [pixls.us schenkt sein "wie wir skallieren"-Wissen der Gemeinschaft.](https://opensource.com/article/18/5/pixls-us-community-photography) - Auch ein Blick auf deren [Software Stack](https://pixls.us/software/) ist interessant.
+* [Hier gibt es eine Liste von 17 Bücher über Open Source und Linux.](https://opensource.com/article/18/5/list-books-Linux-open-source)
+* [Rammstein als Beispiel wie sich die USA verhält.](https://weltnetz.tv/video/1482-eugen-drewermann-aufruf-zur-kampagne-stopp-air-base-ramstein-2018) - Rammstein, die größte Basis der USA mit welche sie ohne Rechtssprechung Menschen ermorden und immer mehr verzweifelte Menschen erschaffen die zum "Terroristen" werden.
