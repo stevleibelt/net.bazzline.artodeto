@@ -7,3 +7,7 @@
 * [Kennt Ihr die Knoblauchsraucke? Nein? Super, hier gibt es drei Rezeptideen zum kennenlernen.](https://www.smarticular.net/knoblauchsrauke-rezepte-wildkraeuter-sammeln-verarbeiten-zubereiten-kochen/)
 * [Geilo, neun Gemüsearten die man nur einmal einpflanzen muss und die dann ohne "Wartungskosten" gedeihen.](https://www.smarticular.net/mehrjaehrige-essbare-pflanzen-gemuese-kraeuter-fruechte/)
 * [Nextcloud wurde in der Version 13.0.2 veröffentlicht.](https://nextcloud.com/blog/nextcloud-13.0.2-and-12.0.7-available-collabora-online-3.2-is-out/)
+* [Auf tuxproject.de wird OmniOs vorgestellt und zwar in der Sicht von Jemanden der sich da Stück für Stück einarbeitet :-).](https://tuxproject.de/blog/2018/05/ein-monat-mit-omnios-andere-sind-schon-mit-bsd-ueberfordert/)
+* [Unter dem Motto "Großraumbüros sind sexistisch" wurde das eigentliche Problem erkannt welches auch Männer betrifft. Es fehlt an Privatsphäre, so dass die Zeit im Büro derber Stress ist welcher sich auf die Produktivität ausübt.](https://blog.fefe.de/?ts=a40fa258)
+* [Die US-Army bestätigt, dass sozial gestörte Menschen, also Menschen mit Problemen, die besten Arbeitnehmer für ihre Cyber-Abteilung sind.](https://blog.fefe.de/?ts=a40fb1f4) - Ich hab Sorge, dass dieses Profil auch für die Waffen genutzt wird, mit der man via Fernsteuerung Menschen tötet.
+* [Geklonte Schafe, Rinder und Schweine überall.](https://netzfrauen.org/2018/05/08/agriculture2-0-2/) - Nicht nur geklont, nein, auch noch von dummer Menschenhand "optimiert" (denn sie wissen nicht was sie tun).
