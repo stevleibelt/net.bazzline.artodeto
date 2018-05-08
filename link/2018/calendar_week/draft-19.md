@@ -4,3 +4,6 @@
 * [pixls.us schenkt sein "wie wir skallieren"-Wissen der Gemeinschaft.](https://opensource.com/article/18/5/pixls-us-community-photography) - Auch ein Blick auf deren [Software Stack](https://pixls.us/software/) ist interessant.
 * [Hier gibt es eine Liste von 17 Bücher über Open Source und Linux.](https://opensource.com/article/18/5/list-books-Linux-open-source)
 * [Rammstein als Beispiel wie sich die USA verhält.](https://weltnetz.tv/video/1482-eugen-drewermann-aufruf-zur-kampagne-stopp-air-base-ramstein-2018) - Rammstein, die größte Basis der USA mit welche sie ohne Rechtssprechung Menschen ermorden und immer mehr verzweifelte Menschen erschaffen die zum "Terroristen" werden.
+* [Kennt Ihr die Knoblauchsraucke? Nein? Super, hier gibt es drei Rezeptideen zum kennenlernen.](https://www.smarticular.net/knoblauchsrauke-rezepte-wildkraeuter-sammeln-verarbeiten-zubereiten-kochen/)
+* [Geilo, neun Gemüsearten die man nur einmal einpflanzen muss und die dann ohne "Wartungskosten" gedeihen.](https://www.smarticular.net/mehrjaehrige-essbare-pflanzen-gemuese-kraeuter-fruechte/)
+* [Nextcloud wurde in der Version 13.0.2 veröffentlicht.](https://nextcloud.com/blog/nextcloud-13.0.2-and-12.0.7-available-collabora-online-3.2-is-out/)
