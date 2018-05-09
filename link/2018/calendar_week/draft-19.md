@@ -11,3 +11,6 @@
 * [Unter dem Motto "Großraumbüros sind sexistisch" wurde das eigentliche Problem erkannt welches auch Männer betrifft. Es fehlt an Privatsphäre, so dass die Zeit im Büro derber Stress ist welcher sich auf die Produktivität ausübt.](https://blog.fefe.de/?ts=a40fa258)
 * [Die US-Army bestätigt, dass sozial gestörte Menschen, also Menschen mit Problemen, die besten Arbeitnehmer für ihre Cyber-Abteilung sind.](https://blog.fefe.de/?ts=a40fb1f4) - Ich hab Sorge, dass dieses Profil auch für die Waffen genutzt wird, mit der man via Fernsteuerung Menschen tötet.
 * [Geklonte Schafe, Rinder und Schweine überall.](https://netzfrauen.org/2018/05/08/agriculture2-0-2/) - Nicht nur geklont, nein, auch noch von dummer Menschenhand "optimiert" (denn sie wissen nicht was sie tun).
+* [Werbung von Percona, hier wird gezeigt wie sie via Linode ihr "Percona Monitoring and Management" für fünf USD pro Monat aufsetzen.](https://www.percona.com/blog/2018/05/08/deploying-pmm-at-linode-your-5-per-month-monitoring-solution/)
+* [Das MITEINANDERSEIN Magazin Sachsen für Mai-Juli 2018 ist erschienen.](https://bio-erzgebirge.de/wp/?p=14563)
+* [Die Boy Scouts of Amerika öffnen sich für Mädchen und Homosexuelle.](https://blog.fefe.de/?ts=a40c7fe0)
