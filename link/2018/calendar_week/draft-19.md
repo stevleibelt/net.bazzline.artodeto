@@ -14,3 +14,11 @@
 * [Werbung von Percona, hier wird gezeigt wie sie via Linode ihr "Percona Monitoring and Management" für fünf USD pro Monat aufsetzen.](https://www.percona.com/blog/2018/05/08/deploying-pmm-at-linode-your-5-per-month-monitoring-solution/)
 * [Das MITEINANDERSEIN Magazin Sachsen für Mai-Juli 2018 ist erschienen.](https://bio-erzgebirge.de/wp/?p=14563)
 * [Die Boy Scouts of Amerika öffnen sich für Mädchen und Homosexuelle.](https://blog.fefe.de/?ts=a40c7fe0)
+* [Die Wohnung sauber halten mit einem Plan.](https://www.smarticular.net/sauberroutine-wochenplan-putzen-haushalt-natuerlich-hausmittel/)
+* [Mozilla Firefox wurde in der Version 60.0 veröffentlicht.](https://www.mozilla.org/en-US/firefox/60.0/releasenotes/) - Und was ich heute gelernt habe, lokal sollte man nicht mit [".dev"-Domain](https://superuser.com/questions/1303396/how-to-fix-firefox-59-no-longer-accepting-my-self-signed-ssl-certificate-on-dev) durch die Gegend programmieren.
+* [Etwas, was im Bonzen-Autoland nicht passieren kann, BMW ruft in Groß Britanien 300.000 Autos wegen einem kaputten Stecker zurück.](https://blog.fefe.de/?ts=a40da229) - In Deutschland müsste der Kunde bestimmt etwas selbst bezahlen.
+* [Nein? Doch! Oh? Seelachs aus Zuchtfarmen ist das giftigste Lebensmittel der Welt, noch giftiger als Schweine- oder Hühnchenfleisch aus der Massentierhaltung.](https://netzfrauen.org/2018/05/10/57695/)
+* [GNU Parallel und wie man es benutzt gibt es hier.](https://opensource.com/article/18/5/gnu-parallel) - Endlich alle CPU-Kerne auslasten.
+* [ARA - das Ansible Run Analysis Werkzeug um eure Playbooks zu analysisren.](https://opensource.com/article/18/5/analyzing-ansible-runs-using-ara)
+* [Mit Buildah kann man scheinbar noch kleinerer Docker-Container bauen.](https://opensource.com/article/18/5/containers-buildah) - Und OCI Container kann er auch bauen.
+* [Wie zu erwarten war wir CoreOS mit AtomicOS zu einer Art CoreOS-Phoenix-Edition verschmolzen werden.](https://lwn.net/Articles/754058)
