@@ -22,3 +22,6 @@
 * [ARA - das Ansible Run Analysis Werkzeug um eure Playbooks zu analysisren.](https://opensource.com/article/18/5/analyzing-ansible-runs-using-ara)
 * [Mit Buildah kann man scheinbar noch kleinerer Docker-Container bauen.](https://opensource.com/article/18/5/containers-buildah) - Und OCI Container kann er auch bauen.
 * [Wie zu erwarten war wir CoreOS mit AtomicOS zu einer Art CoreOS-Phoenix-Edition verschmolzen werden.](https://lwn.net/Articles/754058)
+* [Rust wurde in der Version 1.26 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=Rust-1.26-Released)
+* [Xorg wurde in der Version 1.20 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=X.Org-Server-1.20-Released)
+* [Bienenwachs ist auch ein Wundermittel, sollte jedoch wie Honig in Maßen genutzt werden, immerhin brauchen die Bienen eigentlich jeden Tropfen Honig.](https://www.smarticular.net/bienenwachs-rezepte-verwendung-verarbeitung-haushalt-kosmetik/) 
