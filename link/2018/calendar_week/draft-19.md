@@ -25,3 +25,8 @@
 * [Rust wurde in der Version 1.26 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=Rust-1.26-Released)
 * [Xorg wurde in der Version 1.20 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=X.Org-Server-1.20-Released)
 * [Bienenwachs ist auch ein Wundermittel, sollte jedoch wie Honig in Maßen genutzt werden, immerhin brauchen die Bienen eigentlich jeden Tropfen Honig.](https://www.smarticular.net/bienenwachs-rezepte-verwendung-verarbeitung-haushalt-kosmetik/) 
+* [>>Ein US-Berufungsgericht hat geurteilt, dass Grenzer nicht verdachtsunabhängig elektronische Geräte durchsuchen dürfen.<<](https://blog.fefe.de/?ts=a40a210b)
+* [ZfsOnLinux wurde in der Version 0.7.9 veröffentlicht.](https://github.com/zfsonlinux/zfs/releases/tag/zfs-0.7.9)
+* [L33T5p33K G3n3rAtOr](http://1337.me/)
+* [Der Staat Kalifornien in den USA macht Solardächer für Gebäude ab 2020 zur Pflicht, *wenn* es sich lohnt.](http://www.sonnenseite.com/de/politik/kalifornien-macht-solardaecher-zur-pflicht.html) - Mit diesem *wenn* sind sie dem deutschen Bundestags gedanklich millionen Jahre voraus.
+* [Briar wurde in der Version 1.0 veröffentlicht.](https://www.pro-linux.de/news/1/25883/p2p-messenger-briar-in-version-10-erschienen.html)
