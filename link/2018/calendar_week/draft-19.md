@@ -30,3 +30,8 @@
 * [L33T5p33K G3n3rAtOr](http://1337.me/)
 * [Der Staat Kalifornien in den USA macht Solardächer für Gebäude ab 2020 zur Pflicht, *wenn* es sich lohnt.](http://www.sonnenseite.com/de/politik/kalifornien-macht-solardaecher-zur-pflicht.html) - Mit diesem *wenn* sind sie dem deutschen Bundestags gedanklich millionen Jahre voraus.
 * [Briar wurde in der Version 1.0 veröffentlicht.](https://www.pro-linux.de/news/1/25883/p2p-messenger-briar-in-version-10-erschienen.html)
+* [Erlebnisheimat Erzgebirge.](https://www.erzgebirge-tourismus.de/)
+* [Man denkt ja, dass Massentierhaltung auf Land schon scheiße ist. Aber der verrückte Mensch kommt auf immer dümmere Ideen, Massentierhaltung auf Schiffen.](https://netzfrauen.org/2018/05/12/57710/)
+* [Mit dem Kartoffelturm auf kleinsten Raum Kartoffeln anbauen.](https://www.smarticular.net/kartoffelturm-selber-bauen-anleitung-ernte/)
+* [Authentifizierungsprotokolle erklärt mit Märchen :-).](https://berlin-ak.ftp.media.ccc.de/events/gpn/gpn18/h264-hd/gpn18-85-deu-Maerchenhafte_Protokolle_hd.mp4)
+* [Interfacedesign aus Designersicht.](https://berlin-ak.ftp.media.ccc.de/events/gpn/gpn18/h264-hd/gpn18-35-deu-Interfacedesign_aus_Designersicht_hd.mp4)
