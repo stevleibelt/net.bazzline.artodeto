@@ -35,3 +35,11 @@
 * [Mit dem Kartoffelturm auf kleinsten Raum Kartoffeln anbauen.](https://www.smarticular.net/kartoffelturm-selber-bauen-anleitung-ernte/)
 * [Authentifizierungsprotokolle erklärt mit Märchen :-).](https://berlin-ak.ftp.media.ccc.de/events/gpn/gpn18/h264-hd/gpn18-85-deu-Maerchenhafte_Protokolle_hd.mp4)
 * [Interfacedesign aus Designersicht.](https://berlin-ak.ftp.media.ccc.de/events/gpn/gpn18/h264-hd/gpn18-35-deu-Interfacedesign_aus_Designersicht_hd.mp4)
+* [Sicherheit im Entwicklerteam?](https://cdn.media.ccc.de/events/gpn/gpn18/h264-hd/gpn18-142-deu-Security_Champions_hd.mp4)
+* [Electron ist nicht nur langsam, fett und eine dumme Idee wenn man aus der "Shared Library"-Welt kommt, es is auch derbe unsicher.](https://blog.fefe.de/?ts=a406d87c)
+* [Oh, was passiert denn da? Die USA sagt zu den Europäern "springt" und sie scheinen nicht springen zu wollen?](https://blog.fefe.de/?ts=a406cf33)
+* [Somalia, Kindersoldaten und ein kleiner Einblick was sie machen müssen.](https://netzfrauen.org/2018/05/13/57722/) - So grausam die eigentlichen Tagen sind, die diese Seelen während der Kriegszeit vollstrecken. So viel mehr Leid entsteht dadurch, dass diese Seelen nach dem Krieg nicht geheilt werden. So braucht es Generationen bist diese Schmerzen wieder revidiert werden können.
+* [Schöne 20 Minuten in dem euch gezeigt wird wie man als Gemüsebauer abseits vom Massenmarkt auch heute noch gut Leben kann.](http://www.neulichimgarten.de/blog/gemueseanbau/mit-gemueseanbau-geld-verdienen/)
+* [Timo Leukefeld schreibten mit dem gewohnten Mut voran und nutzt etwas DDR-Philosphie indem er sagt "überholen ohne einzuholen".](http://www.sonnenseite.com/de/zukunft/timo-leukefeld-chancen-der-digitalisierung-nutzen.html)
+* [Werbung - Freiberg-Institut.de](https://www.freiberg-institut.de/)
+* [Hackfressenbuch hat also keine Ideen mehr und merkt, dass es stirbt. Neben VR-Porn machen sie bald noch Cryptokram.](https://blog.fefe.de/?ts=a4098d54) - Wundert euch also nicht, wenn eure mobilen Supercomputer noch schneller ohne Strom sind, dann habt ihr wieder für Mark Zuckerberg geschürft.
