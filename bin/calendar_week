@@ -93,13 +93,13 @@ FILE_NAME_OF_THE_NEXT_CALENDAR_WEEK=draft-${NEXT_CALENDAR_WEEK}.md
 ABSOLUTE_PATH_TO_THE_CURRENT_CALENDAR_WEEK_YEAR="${ABSOLUTE_PATH_OF_THE_ROOT}/${RELATIVE_PATH_TO_THE_CALENDAR_WEEK}"
 #end of dependencies
 
-#begin of busniess logic
+#begin of business logic
 release_current_calendar_week
 create_next_calendar_week
 updating_soft_link
 
 cd "${CURRENT_WORKING_DIRECTORY}"
-#end of busniess logic
+#end of business logic
 
 #for later if we want to do more
 #while true;
