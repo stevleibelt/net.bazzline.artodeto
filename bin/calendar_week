@@ -1,0 +1,110 @@
+#!/usr/bin/env bash
+####
+# takes care of the calendar week section
+####
+# @author stev leibelt <artodeto@bazzline.net>
+# @since 2018-05-13
+####
+
+function add_zero_if_number_is_less_then_ten
+{
+    local NUMBER="${1}"
+
+    if [[ ${NUMBER} -lt 10 ]];
+    then
+        echo "0${NUMBER}"
+    else
+        echo "${NUMBER}"
+    fi
+}
+
+function create_next_calendar_week
+{
+    cd "${ABSOLUTE_PATH_TO_THE_CURRENT_CALENDAR_WEEK_YEAR}"
+
+    if [[ ! -f "${FILE_NAME_OF_THE_NEXT_CALENDAR_WEEK}" ]];
+    then
+        echo ":: Creating next calendar week draft file."
+
+        touch "${FILE_NAME_OF_THE_NEXT_CALENDAR_WEEK}"
+    else
+        echo ":: Draft file of the next calendar week already exists!."
+    fi
+}
+
+function release_current_calendar_week
+{
+    cd "${ABSOLUTE_PATH_OF_THE_ROOT}"
+
+    if [[ ! -d "${ABSOLUTE_PATH_TO_THE_CURRENT_CALENDAR_WEEK_YEAR}" ]];
+    then
+        /usr/bin/env mkdir -p "${ABSOLUTE_PATH_TO_THE_CURRENT_CALENDAR_WEEK_YEAR}"
+    fi
+
+    cd "${ABSOLUTE_PATH_TO_THE_CURRENT_CALENDAR_WEEK_YEAR}"
+
+    if [[ -f "${FILE_NAME_OF_THE_CURRENT_CALENDAR_WEEK_DRAFT}" ]];
+    then
+        echo ":: Releasing current calendar week draft file."
+
+        mv "${FILE_NAME_OF_THE_CURRENT_CALENDAR_WEEK_DRAFT}" "${FILE_NAME_OF_THE_CURRENT_CALENDAR_WEEK}"
+    fi
+}
+
+function updating_soft_link
+{
+    cd "${ABSOLUTE_PATH_OF_THE_ROOT}"
+
+    if [[ -f "${FILE_NAME_OF_THE_CURRENT_SOFT_LINK}" ]];
+    then
+        echo ":: Removing current soft link."
+
+        rm "${FILE_NAME_OF_THE_CURRENT_SOFT_LINK}"
+    fi
+
+    echo ":: Creating new soft link."
+
+    ln -s "${RELATIVE_PATH_TO_THE_CALENDAR_WEEK}/${FILE_NAME_OF_THE_NEXT_CALENDAR_WEEK}" "${FILE_NAME_OF_THE_CURRENT_SOFT_LINK}"
+}
+
+#begin of dependencies
+CURRENT_CALENDAR_WEEK=$(date +%V)
+CURRENT_WORKING_DIRECTORY=$(pwd)
+CURRENT_YEAR=$(date +%Y)
+FILE_NAME_OF_THE_CURRENT_SOFT_LINK="current_calendar_week"
+ABSOLUTE_PATH_OF_THIS_SCRIPT=$(cd $(dirname "$0"); pwd)
+
+NEXT_CALENDAR_WEEK=$(calc ${CURRENT_CALENDAR_WEEK}+1)
+ABSOLUTE_PATH_OF_THE_ROOT="${ABSOLUTE_PATH_OF_THIS_SCRIPT}/.."
+
+CURRENT_CALENDAR_WEEK=$( add_zero_if_number_is_less_then_ten ${CURRENT_CALENDAR_WEEK})
+NEXT_CALENDAR_WEEK=$( add_zero_if_number_is_less_then_ten ${NEXT_CALENDAR_WEEK})
+RELATIVE_PATH_TO_THE_CALENDAR_WEEK="link/${CURRENT_YEAR}/calendar_week"
+
+FILE_NAME_OF_THE_CURRENT_CALENDAR_WEEK_DRAFT=draft-${CURRENT_CALENDAR_WEEK}.md
+FILE_NAME_OF_THE_CURRENT_CALENDAR_WEEK=${CURRENT_CALENDAR_WEEK}.md
+FILE_NAME_OF_THE_NEXT_CALENDAR_WEEK=draft-${NEXT_CALENDAR_WEEK}.md
+ABSOLUTE_PATH_TO_THE_CURRENT_CALENDAR_WEEK_YEAR="${ABSOLUTE_PATH_OF_THE_ROOT}/${RELATIVE_PATH_TO_THE_CALENDAR_WEEK}"
+#end of dependencies
+
+#begin of busniess logic
+release_current_calendar_week
+create_next_calendar_week
+updating_soft_link
+
+cd "${CURRENT_WORKING_DIRECTORY}"
+#end of busniess logic
+
+#for later if we want to do more
+#while true;
+#do
+#    echo ":: What do you want to do?"
+#    echo "   [0] release current calendar week"
+#    echo ""
+#
+#    read USER_INPUT
+#    case ${USER_INPUT} in
+#        0)  release_current_calendar_week 
+#            break;;
+#    esac
+#done
