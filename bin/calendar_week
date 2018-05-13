@@ -20,20 +20,24 @@ function add_zero_if_number_is_less_then_ten
 
 function create_next_calendar_week
 {
+    echo ":: Create next calendar week."
+
     cd "${ABSOLUTE_PATH_TO_THE_CURRENT_CALENDAR_WEEK_YEAR}"
 
     if [[ ! -f "${FILE_NAME_OF_THE_NEXT_CALENDAR_WEEK}" ]];
     then
-        echo ":: Creating next calendar week draft file."
-
         touch "${FILE_NAME_OF_THE_NEXT_CALENDAR_WEEK}"
-    else
-        echo ":: Draft file of the next calendar week already exists!."
+
+        echo "   ${FILE_NAME_OF_THE_CURRENT_CALENDAR_WEEK_DRAFT}"
     fi
+
+    echo "   done."
 }
 
 function release_current_calendar_week
 {
+    echo ":: Release current calendar week."
+
     cd "${ABSOLUTE_PATH_OF_THE_ROOT}"
 
     if [[ ! -d "${ABSOLUTE_PATH_TO_THE_CURRENT_CALENDAR_WEEK_YEAR}" ]];
@@ -45,26 +49,28 @@ function release_current_calendar_week
 
     if [[ -f "${FILE_NAME_OF_THE_CURRENT_CALENDAR_WEEK_DRAFT}" ]];
     then
-        echo ":: Releasing current calendar week draft file."
+        echo "   ${FILE_NAME_OF_THE_CURRENT_CALENDAR_WEEK_DRAFT}"
 
         git mv "${FILE_NAME_OF_THE_CURRENT_CALENDAR_WEEK_DRAFT}" "${FILE_NAME_OF_THE_CURRENT_CALENDAR_WEEK}"
     fi
+
+    echo "   done."
 }
 
 function updating_soft_link
 {
+    echo ":: Updating soft link."
+
     cd "${ABSOLUTE_PATH_OF_THE_ROOT}"
 
     if [[ -f "${FILE_NAME_OF_THE_CURRENT_SOFT_LINK}" ]];
     then
-        echo ":: Removing current soft link."
-
         rm "${FILE_NAME_OF_THE_CURRENT_SOFT_LINK}"
     fi
 
-    echo ":: Creating new soft link."
-
     ln -s "${RELATIVE_PATH_TO_THE_CALENDAR_WEEK}/${FILE_NAME_OF_THE_NEXT_CALENDAR_WEEK}" "${FILE_NAME_OF_THE_CURRENT_SOFT_LINK}"
+
+    echo "   done."
 }
 
 #begin of dependencies
