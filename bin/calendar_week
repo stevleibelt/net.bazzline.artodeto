@@ -47,7 +47,7 @@ function release_current_calendar_week
     then
         echo ":: Releasing current calendar week draft file."
 
-        mv "${FILE_NAME_OF_THE_CURRENT_CALENDAR_WEEK_DRAFT}" "${FILE_NAME_OF_THE_CURRENT_CALENDAR_WEEK}"
+        git mv "${FILE_NAME_OF_THE_CURRENT_CALENDAR_WEEK_DRAFT}" "${FILE_NAME_OF_THE_CURRENT_CALENDAR_WEEK}"
     fi
 }
 
