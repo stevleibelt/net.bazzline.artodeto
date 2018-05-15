@@ -1,1 +1,5 @@
 * [Nein? Doch! Oh? Weniger Arbeitslose (und ggf. mehr Staatsdiener) bekämpfen die Kriminalität eher als ein aufgeblähter Sicherheitsapparat.](https://www.maskenfall.de/?p=12595)
+* [Ich wusste ja das der NetworkManager nicht so meins ist, aber das er so kaputt ist hätte ich nicht gedacht.](https://blog.fefe.de/?ts=a4041eeb)
+* [Schöner Status Quo über das Schulsystem und wie wenig Deutschland in die Bildung investiert.](https://netzfrauen.org/2018/05/15/teacher/)
+* [Hier werden acht Open Source AI Technologien kurz angerissen.](https://opensource.com/article/18/5/top-8-open-source-ai-technologies-machine-learning)
+* [Nachdem Monsanto die Bienen weiter ausrotten will, bauen sie jetzt schon einmal Minidrohnen die schlechter als die Bienen sind, aber hey, daran kann Monsanto wenigst Geld verdienen und durch Patente schützen lassen!](https://blog.fefe.de/?ts=a4076cf2)
