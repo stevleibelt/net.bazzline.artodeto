@@ -3,3 +3,8 @@
 * [Schöner Status Quo über das Schulsystem und wie wenig Deutschland in die Bildung investiert.](https://netzfrauen.org/2018/05/15/teacher/)
 * [Hier werden acht Open Source AI Technologien kurz angerissen.](https://opensource.com/article/18/5/top-8-open-source-ai-technologies-machine-learning)
 * [Nachdem Monsanto die Bienen weiter ausrotten will, bauen sie jetzt schon einmal Minidrohnen die schlechter als die Bienen sind, aber hey, daran kann Monsanto wenigst Geld verdienen und durch Patente schützen lassen!](https://blog.fefe.de/?ts=a4076cf2)
+* [Make frontend shit again! :D](https://makefrontendshitagain.party/)
+* [Hier ein gutes Beispiel das die CSU in ihrer eigenen Bayern-Traumwelt lebt.](https://blog.fefe.de/?ts=a4043386)
+* [Und hier ein paar erschreckende Gedanken zum Thema "Top-Nuklearinspektor geht spontan.".](https://blog.fefe.de/?ts=a4042ddb)
+* [>>Jede Krankheit hat eine Ursache. Die meisten medizinischen Diagnosen beschreiben Symptome, aber nicht die Ursachen<<.](http://www.welt-im-wandel.tv/video/jede-krankheit-hat-eine-ursache-die-5-ebenen-der-heilung/)
+* [Datenschutzgrundverordnung und eure Rechte zum Widerspruch kurz erklärt.](https://www.security-insider.de/was-sich-durch-die-dsgvo-bei-online-werbung-aendert-a-685868/) - Wichtig, ihr könnt die Nutzung eurer Daten für Werbezwecke widersprechen ohne das euch der Dienst gekündigt werden darf.
