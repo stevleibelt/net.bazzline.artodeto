@@ -8,3 +8,14 @@
 * [Und hier ein paar erschreckende Gedanken zum Thema "Top-Nuklearinspektor geht spontan.".](https://blog.fefe.de/?ts=a4042ddb)
 * [>>Jede Krankheit hat eine Ursache. Die meisten medizinischen Diagnosen beschreiben Symptome, aber nicht die Ursachen<<.](http://www.welt-im-wandel.tv/video/jede-krankheit-hat-eine-ursache-die-5-ebenen-der-heilung/)
 * [Datenschutzgrundverordnung und eure Rechte zum Widerspruch kurz erklärt.](https://www.security-insider.de/was-sich-durch-die-dsgvo-bei-online-werbung-aendert-a-685868/) - Wichtig, ihr könnt die Nutzung eurer Daten für Werbezwecke widersprechen ohne das euch der Dienst gekündigt werden darf.
+* [Wenn man ZFS richtig einstellt, ist es deutlich schneller als XFS im Bereich Datenbankanwendungen.](https://www.percona.com/blog/2018/05/15/about-zfs-performance/)
+* [Wem kann ich im Netz trauen und warum?](https://berlin-ak.ftp.media.ccc.de/events/fiffkon/2017/h264-hd/fiffkon17-16-deu-IT-Sicherheit_im_Gesundheitswesen_hd.mp4)
+* [Pydio wurde in der Version Pydio Cells veröffentlicht.](https://www.pro-linux.de/news/1/25897/filesharing-software-pydio-erfindet-sich-neu.html)
+* [Also in Israel und um Umland will man einfach leben.](https://blog.fefe.de/?ts=a4053071)
+* [Endless OS wurde in der Version 3.4 veröffentlicht.](https://www.pro-linux.de/news/1/25896/endless-os-34-herausgegeben.html)
+* [Es zeigt sich immer mehr das China und die USA im Kern das gleiche System haben.](https://blog.fefe.de/?ts=a40520cc)
+* [In Sachsen werden Polizeiwagen jetzt mit Maschinengewehre aufgerüstet.](https://www.freiepresse.de/NACHRICHTEN/TOP-THEMA/Polizei-Panzerwagen-sollen-Maschinengewehre-bekommen-artikel10208524.php) - Warum man das macht, hat man vergessen zu sagen.
+* [Knoppix wurde in der Version 8.2 veröffentlicht.](https://www.pro-linux.de/news/1/25898/knoppix-82-ver%C3%B6ffentlicht.html)
+* [Nordkorea will seine Atomwaffen nur abrüsten, wenn das andere Länder wie die USA auch machen.](https://blog.fefe.de/?ts=a4053b46) - Ich finde den Ansatz gut.
+* [In den USA braucht es nun schon wenigst einen Mittelsman, der eure Daten an den Staat verkauft, dann ist es legal.](https://blog.fefe.de/?ts=a402c513)
+* [Russland hat in zwei Jahren die längste Brücke in Europa gebaut - die Brücke zur Krim.](https://de.wikipedia.org/wiki/Krim-Br%C3%BCcke)
