@@ -19,3 +19,7 @@
 * [Nordkorea will seine Atomwaffen nur abrüsten, wenn das andere Länder wie die USA auch machen.](https://blog.fefe.de/?ts=a4053b46) - Ich finde den Ansatz gut.
 * [In den USA braucht es nun schon wenigst einen Mittelsman, der eure Daten an den Staat verkauft, dann ist es legal.](https://blog.fefe.de/?ts=a402c513)
 * [Russland hat in zwei Jahren die längste Brücke in Europa gebaut - die Brücke zur Krim.](https://de.wikipedia.org/wiki/Krim-Br%C3%BCcke)
+* [In Mexiko verschwinden immer mehr Menschen. In unseren Nachrichten schaffen es diese Geschehnisse nicht, da es wichtiger ist, dass Deutschland Waffen nach Mexiko liefert.](https://netzfrauen.org/2018/05/17/mexiko/)
+* [Proxmox VE wurde in der Version 5.2 veröffentlicht.](https://www.pro-linux.de/news/1/25903/proxmox-ve-52-erleichtert-einrichtung-virtueller-maschinen.html)
+* [Siggi verkauf dein Volk wird wohl nun im Verwaltungsrat von Siemens/Alstrom landen.](https://blog.fefe.de/?ts=a4038b73) - Dem Zusammenschluss hat er als Vertreter des deutschen Volkes zugestimmt und dies ist sein Schmiergeld dafür.
+* [Wow, in Iran kann man sehen was passiert, wenn das Wasser zurück geht.](https://blog.fefe.de/?ts=a4038a8e) - [Hier](https://www.youtube.com/watch?v=ebpL96HMbLs) geht es direkt zum Video von arte.
