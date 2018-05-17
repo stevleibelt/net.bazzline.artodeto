@@ -23,3 +23,6 @@
 * [Proxmox VE wurde in der Version 5.2 veröffentlicht.](https://www.pro-linux.de/news/1/25903/proxmox-ve-52-erleichtert-einrichtung-virtueller-maschinen.html)
 * [Siggi verkauf dein Volk wird wohl nun im Verwaltungsrat von Siemens/Alstrom landen.](https://blog.fefe.de/?ts=a4038b73) - Dem Zusammenschluss hat er als Vertreter des deutschen Volkes zugestimmt und dies ist sein Schmiergeld dafür.
 * [Wow, in Iran kann man sehen was passiert, wenn das Wasser zurück geht.](https://blog.fefe.de/?ts=a4038a8e) - [Hier](https://www.youtube.com/watch?v=ebpL96HMbLs) geht es direkt zum Video von arte.
+* [Zyxel ist kaputt und schneidet eure Telefongespräche mit!](https://blog.fefe.de/?ts=a4034ea9)
+* [Cisco ist wie immer kaputt.](https://blog.fefe.de/?ts=a4034fb0) - Die sind fast so gut wie Microsoft, Scheiße am Stück rausbringen und dennoch kauft es jeder.
+* [PostgreSQL und die weitere Frage nach "wir können nun alles, was brauchen wir denn nun noch so?"](https://lwn.net/Articles/754790)
