@@ -26,3 +26,12 @@
 * [Zyxel ist kaputt und schneidet eure Telefongespräche mit!](https://blog.fefe.de/?ts=a4034ea9)
 * [Cisco ist wie immer kaputt.](https://blog.fefe.de/?ts=a4034fb0) - Die sind fast so gut wie Microsoft, Scheiße am Stück rausbringen und dennoch kauft es jeder.
 * [PostgreSQL und die weitere Frage nach "wir können nun alles, was brauchen wir denn nun noch so?"](https://lwn.net/Articles/754790)
+* [Ja man, die EU verklagt unseren Staat und damit gibt es direkt eine Klatsche für unsere Staatdiener aka Blockpartei. Die Luft in Deutschland ist so schlecht wie seit Jahrzehnten nicht mehr.](https://netzfrauen.org/2018/05/18/57757/) - Hört nicht auf das Geschwätz von Merkel und Konsorten.
+* [Nein? Doch! Oh? Könnt ihr euch daran erinnern, dass eure Eltern immer gesagt haben "Ja, aber die Atomkraftwerksbetreiber haben immer versprochen, dass sie ihren Müll auch wieder wegräumen und uns das als Steuerzahler nichts kostet" - tjow, so viel zur Ehrlichkeit eines Konzerns.](http://www.sonnenseite.com/de/wirtschaft/wortbruch-der-atomkonzerne.html) - Was nehmt ihr mit? Ein Konzern hat kein Herz und dem ist euer Leben egal. Nur der Mittelstand und Kleingewerbetreibende von um die Ecke hat ein Interesse euch nicht zu belügen.
+* [Neuseeland beschreitet den Weg von Kanada und sendet ein großes "Fickt euch" an die Ureinwohner des gestohlenen und besetzten Landes.](https://netzfrauen.org/2018/05/18/newzealand/)
+* [In Südostasien wird auf einmal wieder FCKW produziert.](https://blog.fefe.de/?ts=a403b2ad) - Würde mich nicht wundern wenn am Ende ein Konzern aus der freien Welt dahinter steckt.
+* [RegExp für Einsteiger.](https://opensource.com/article/18/5/getting-started-regular-expressions)
+* [Jugend hackt Köln: Mit Syncslate automatisiert ihr das Videoschneiden.](https://ftp.fau.de/cdn.media.ccc.de/events/jugendhackt/2018/h264-hd/jh18_koeln-4004-deu-Syncslate_hd.mp4)
+* [Die Süddeutsche möchte keine neutrale Zeitung mehr sein.](https://blog.fefe.de/?ts=a40054d1) - Die Gleichschaltung der Medien geht also weiter.
+* [Oh fein, Tierschützer sind laut der Blockpartei nun auch schon Terroristen!](https://netzfrauen.org/2018/05/18/kloeckner/)
+* [Schlaganfall? Besser nicht wenn du gerade mit der Polizei im Gespräch bist.](https://blog.fefe.de/?ts=a4007a73)
