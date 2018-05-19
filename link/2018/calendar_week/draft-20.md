@@ -35,3 +35,9 @@
 * [Die Süddeutsche möchte keine neutrale Zeitung mehr sein.](https://blog.fefe.de/?ts=a40054d1) - Die Gleichschaltung der Medien geht also weiter.
 * [Oh fein, Tierschützer sind laut der Blockpartei nun auch schon Terroristen!](https://netzfrauen.org/2018/05/18/kloeckner/)
 * [Schlaganfall? Besser nicht wenn du gerade mit der Polizei im Gespräch bist.](https://blog.fefe.de/?ts=a4007a73)
+* [Nein? Doch! Oh? Porsche bescheißt am derbsten bei den großen und dicken SUV's.](https://blog.fefe.de/?ts=a401dadc)
+* [Gits Protokoll zur Datenübermittlung wird demnächst deutlich schneller werden.](https://www.phoronix.com/scan.php?page=news_item&px=Git-Gets-New-Wire-Protocol)
+* [Vim wurde in der Version 8.1 veröffentlicht.](https://www.vim.org/vim-8.1-released.php) - Nutzt mal >>:term<< :-D
+* [>>Jede Krankheit hat eine Ursache - Die 5 Ebenen der Heilung - Dr. Dietrich Klinghardt.<<](http://www.welt-im-wandel.tv/video/jede-krankheit-hat-eine-ursache-die-5-ebenen-der-heilung-dr-dietrich-klinghardt/)
+* [Ach deshalb musste Herr Zuckerberg so viel Quatschen, Hackfressenbuch darf nun nur noch die schön gewaschenen Bilder der Nato-Kriegs-Einsätze zu veröffentlichen.](https://propagandaschau.wordpress.com/2018/05/18/facebook-wird-zum-nato-organ/)
+* [Mit Speisestärke und Natron könnt ihr super einen eigenen Teppichreiniger basteln.](https://www.smarticular.net/teppich-reinigen-natron-backpulver-speisestaerke-essigwasser-salz/)
