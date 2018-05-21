@@ -47,3 +47,7 @@
 * [Microsoft ist jetzt wie Hackfressenbuch, es wird nur noch das unterstützt und gefiltert, worin die westliche Welt gut dassteht.](https://blog.fefe.de/?ts=a5fed6fc)
 * [Copyright von bis zu 150 Jahre? Klar, warum soll die Gesellschaft auch etwas zurück bekommen, wenn sie dem Künstler die Möglichkeit gibt.](https://blog.fefe.de/?ts=a5fe4527)
 * [Kältetraining macht gesund und hier werden dir vier Schritte gezeigt, die du erreichen kannst.](https://www.smarticular.net/kaeltetraining-kalt-duschen-eisbad-gesundheit-abnehmen/)
+* [Wow, ab Kernel 4.18 wird der Steam-Controller nativ unterstützt.](https://www.phoronix.com/scan.php?page=news_item&px=Steam-Controller-Linux-4.18)
+* [Peter Brandt gibt Einblick über das Zeitgeschehen der 68er-Bewegung.](https://weltnetz.tv/video/1487-zeitgeschehen-1-die-68er-bewegung)
+* [Traurig aber wahr, die Bevölkerung muss selber vor Gericht gehen weil die Politiker lieber wegsehen und Schmiergelder nehmen, so geschehen bei der Heckler und Koch Waffenlieferung nach Mexiko.](http://www.sonnenseite.com/de/politik/starke-proteste-gegen-toedliche-ruestungsexporte.html)
+* [In Nord Libanon wird das Lächeln vorgeschrieben.](https://blog.fefe.de/?ts=a5fc4b43)
