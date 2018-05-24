@@ -22,27 +22,32 @@ function add_zero_if_number_is_less_then_ten
 }
 
 ####
-# @ABSOLUTE_PATH_TO_THE_CURRENT_CALENDAR_WEEK_YEAR: string
 # @FILE_NAME_OF_THE_NEXT_CALENDAR_WEEK: string
-# @FILE_NAME_OF_THE_CURRENT_CALENDAR_WEEK_DRAFT: string
 ####
 function create_next_calendar_week
 {
-    echo ":: Create next calendar week."
+    if [[ $# -ne 1 ]];
+    then
+        echo ":: Invalid number of arguments provided."
+        echo "   ${FUNCNAME[0]}: <string: file name of the next calendar week>"
 
-    cd "${ABSOLUTE_PATH_TO_THE_CURRENT_CALENDAR_WEEK_YEAR}"
+        return 1
+    fi
+
+    local FILE_NAME_OF_THE_NEXT_CALENDAR_WEEK="${1}"
+
+    echo ":: Create next calendar week."
 
     if [[ ! -f "${FILE_NAME_OF_THE_NEXT_CALENDAR_WEEK}" ]];
     then
         touch "${FILE_NAME_OF_THE_NEXT_CALENDAR_WEEK}"
-
-        echo "   ${FILE_NAME_OF_THE_CURRENT_CALENDAR_WEEK_DRAFT}"
     fi
 
     echo "   done."
 }
 
 ####
+# @todo
 # @ABSOLUTE_PATH_OF_THE_ROOT: string
 # @ABSOLUTE_PATH_TO_THE_CURRENT_CALENDAR_WEEK_YEAR: string
 # @FILE_NAME_OF_THE_CURRENT_CALENDAR_WEEK_DRAFT: string
@@ -122,7 +127,10 @@ ABSOLUTE_PATH_TO_THE_CURRENT_CALENDAR_WEEK_YEAR="${ABSOLUTE_PATH_OF_THE_ROOT}/${
 
 #begin of business logic
 release_current_calendar_week
-create_next_calendar_week
+
+cd "${ABSOLUTE_PATH_TO_THE_CURRENT_CALENDAR_WEEK_YEAR}"
+
+create_next_calendar_week "${FILE_NAME_OF_THE_NEXT_CALENDAR_WEEK}"
 
 cd "${ABSOLUTE_PATH_OF_THE_ROOT}"
 
