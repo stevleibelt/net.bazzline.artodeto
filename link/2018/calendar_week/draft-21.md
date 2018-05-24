@@ -20,3 +20,11 @@
 * [LXQt wurde in der Version 0.13 veröffentlicht.](https://www.pro-linux.de/news/1/25916/lxqt-013-erschienen.html)
 * [Bodhi Linux wurde in der Version 5.0 veröffentlicht.](https://www.pro-linux.de/news/1/25918/bodhi-linux-50-startet-mit-erster-alphaversion.html)
 * [Kata Container wurde in der Version 1.0 veröffentlicht.](https://www.pro-linux.de/news/1/25919/container-projekt-kata-10-erschienen.html)
+* [DXVK wurde in der Version 0.52 veröffentlicht.](http://www.phoronix.com/scan.php?page=news_item&px=DXVK-0.52-Released)
+* [Die Blockpartei schenkt den AKW-Betreiber 20 Milliarden Euro oder mehr.](https://blog.fefe.de/?ts=a5fb085b)
+* [DSVGO wird in der Klabautercast 154 abgeklärt.](https://blog.fefe.de/?ts=a5fb07cf)
+* [VKD3D wurde in der Version 1.0 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=Wine-VKD3D-1.0-D3D12-Vulkan)
+* [Hier gibt es ein Rezept für selbstgemachte Mundspülung.](https://www.careelite.de/mundspuelung-selber-machen/)
+* [Nach TTIP probiert die EU nun ein Freihandelsabkommen mit Südamerika ... mal wieder.](http://www.neopresse.com/europa/ueberraschung-im-naechsten-sommerloch-eu-will-neues-freihandelsabkommen-heimlich-durchsetzen/) - Passt ja auch, die Fussball-WM fängt bald an.
+* [Tipps und Tricks gegen Dehnungsstreifen.](https://www.smarticular.net/dehnungsstreifen-loswerden-bauch-po-brust-schwangerschaft/)
+* [100 - 80 Gramm Natron pro Bad oder 33 - 24 Gramm pro Fußbad reichen damit du bei 37 bis 50 Grad Celsius 90 bis 30 Minuten ein Basenbad machen kannst.](https://www.smarticular.net/basenbad-selber-herstellen-und-bis-zu-90-sparen/)
