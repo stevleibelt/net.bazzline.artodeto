@@ -62,3 +62,9 @@
 * [PMM wurde in der Version 1.11.0 veröffentlicht.](https://www.percona.com/blog/2018/05/23/percona-monitoring-and-management-1-11-0-is-now-available/)
 * [Schön, Mercedes wurde nun auch beim Umweltvernichten und "Kunden sind uns scheiß egal"-Diesel-Beschiss überführt.](https://blog.fefe.de/?ts=a5f9e716)
 * [Das neue Polizeigesetz oder >>Menschen können ohne Schuldnachweis wochenlang eingesperrt werden. Die Polizei darf Daten sammeln wie ein Geheimdienst, monatelang Hausarrest erteilen und Handys überwachen von Leuten, die jemanden kennen, der eine kennt, die vielleicht einmal vorhat, eine Straftat zu begehen. Ganz nebenbei werden Taser eingeführt und anlasslose verdachtsunabhängige Kontrollen eingeführt. Jeder Mensch steht unter Generalverdacht.<<](https://cdn.media.ccc.de/contributors/koeln/open_chaos/2018/h264-hd/openchaos-1805-deu-Das_neue_Polizeigesetz_NRW_hd.mp4)
+* [In Hessen ist der Staatstrojaner jetzt auch legal.](https://www.ccc.de/de/updates/2018/hessentrojaner-polizei)
+* [Wow, wenn man den Tieren Seetang füttert, stoßen sie fast kein Methan mehr aus.](https://blog.fefe.de/?ts=a5f79f96) - Würden VW und andere Dieselhersteller nur Tiere herstellen ;-).
+* [DSGVO wirkt, die Werbebranche bricht zusammen.](https://blog.fefe.de/?ts=a5f7e1a7) - [Bald wird das Internet dann auch hoffentlich wieder schneller werden :-)](https://blog.fefe.de/?ts=a5f64732).
+* [Werbeanrufe sind dank DSGVO wohl auch Geschichte.](https://blog.fefe.de/?ts=a5f64851)
+* [Die Logik imperialer Kriege.](https://swprs.org/logik-imperialer-kriege/)
+* [Schöne Idee von den Netzfrauen. Wie wäre es mit ähnlichen Warnhinweisen auf Junkfood wie es auf Tabakschachteln der Fall ist?](https://netzfrauen.org/2018/05/26/junkfood/)

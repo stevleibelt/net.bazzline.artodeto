@@ -47,17 +47,25 @@ function create_next_calendar_week
 }
 
 ####
-# @todo
-# @ABSOLUTE_PATH_OF_THE_ROOT: string
 # @ABSOLUTE_PATH_TO_THE_CURRENT_CALENDAR_WEEK_YEAR: string
 # @FILE_NAME_OF_THE_CURRENT_CALENDAR_WEEK_DRAFT: string
 # @FILE_NAME_OF_THE_CURRENT_CALENDAR_WEEK: string
 ####
 function release_current_calendar_week
 {
-    echo ":: Release current calendar week."
+    if [[ $# -ne 2]];
+    then
+        echo ":: Invalid number of arguments provided."
+        echo "   ${FUNCNAME[0]}: <string: absolute pathrelease_current_calendar_week to the current calendar week year> <string: file name of the current calendar week draft> <string: file name of the current calendar week>"
 
-    cd "${ABSOLUTE_PATH_OF_THE_ROOT}"
+        return 1
+    fi
+
+    local ABSOLUTE_PATH_TO_THE_CURRENT_CALENDAR_WEEK_YEAR="${1}"
+    local FILE_NAME_OF_THE_CURRENT_CALENDAR_WEEK_DRAFT="${2}"
+    local FILE_NAME_OF_THE_CURRENT_CALENDAR_WEEK="${3}"
+
+    echo ":: Release current calendar week."
 
     if [[ ! -d "${ABSOLUTE_PATH_TO_THE_CURRENT_CALENDAR_WEEK_YEAR}" ]];
     then
@@ -82,7 +90,7 @@ function release_current_calendar_week
 ####
 function updating_soft_link
 {
-    if [[ $# -ne 3]];
+    if [[ $# -ne 2]];
     then
         echo ":: Invalid number of arguments provided."
         echo "   ${FUNCNAME[0]}: <string: file name of the current soft link> <string: relative file path to the next calendar week>"
@@ -126,7 +134,11 @@ ABSOLUTE_PATH_TO_THE_CURRENT_CALENDAR_WEEK_YEAR="${ABSOLUTE_PATH_OF_THE_ROOT}/${
 #end of dependencies
 
 #begin of business logic
-release_current_calendar_week
+
+# @todo - put all into a main function to not polute the global name space
+cd "${ABSOLUTE_PATH_OF_THE_ROOT}"
+
+release_current_calendar_week "${ABSOLUTE_PATH_TO_THE_CURRENT_CALENDAR_WEEK_YEAR}" "${FILE_NAME_OF_THE_CURRENT_CALENDAR_WEEK_DRAFT}" "${FILE_NAME_OF_THE_CURRENT_CALENDAR_WEEK}"
 
 cd "${ABSOLUTE_PATH_TO_THE_CURRENT_CALENDAR_WEEK_YEAR}"
 
