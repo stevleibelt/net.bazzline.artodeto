@@ -68,3 +68,4 @@
 * [Werbeanrufe sind dank DSGVO wohl auch Geschichte.](https://blog.fefe.de/?ts=a5f64851)
 * [Die Logik imperialer Kriege.](https://swprs.org/logik-imperialer-kriege/)
 * [Schöne Idee von den Netzfrauen. Wie wäre es mit ähnlichen Warnhinweisen auf Junkfood wie es auf Tabakschachteln der Fall ist?](https://netzfrauen.org/2018/05/26/junkfood/)
+* [Es gibt ein kostenfreies E-Book mit dem Namen "Ratgeber Photovoltaik" zum herunterladen.](http://www.sonnenseite.com/de/tipps/sonnige-aussichten-fuer-die-photovoltaik.html)
