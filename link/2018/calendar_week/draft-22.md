@@ -16,3 +16,7 @@
 * [NPM ist mal wieder kaputt.](https://blog.fefe.de/?ts=a5f39577)
 * [Schon einmal als Vorgeschmack zu Redis 5.0 - Streams :-).](https://redis.io/topics/streams-intro)
 * [Kinderschutzbund-Freiberg.de - die Lobby für Kinder.](http://kinderschutzbund-freiberg.de/)
+* [Von 5 Prozent im Jahr 2000 auf 42 Prozent im Jahr 2018, dies ist der gestiegene Anteil von erneuerbarer Energie in Deutschland.](http://www.sonnenseite.com/de/franz-alt/kommentare-interviews/oekostrom-rekord-in-deutschland.html)
+* [CTRL+ALT+R und schon habt ihr einen "Lesemodus" im Firefox.](https://opensource.com/article/18/5/distraction-free-online-reading)
+* [Linux Kernel und wie man damit umgeht.](https://opensource.com/article/18/5/how-load-or-unload-linux-kernel-module)
+* [Edelstahl sauber kriegen? Leichter Schmutz mit Kartoffelschale, Fett mit Natron, Kalkflecken mit Essig oder Eingebranntes mit Waschsoda.](https://www.smarticular.net/edelstahl-reiniger-pflege-hausmittel-natuerlich/)
