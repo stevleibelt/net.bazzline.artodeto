@@ -7,3 +7,7 @@
 * [Wisst ihr was die Welt braucht? Einen Desktop in HTML und Javascript.](https://www.phoronix.com/scan.php?page=news_item&px=Linux-Jade-Desktop-Environment) - Liefert es doch gleich noch mit Electron aus, dann haben die CPU's und der Ram auch immer was zu tun.
 * [Hier ist ein Konzept zur >>Einrichtung eines Zentrums des MiteinanderSeins<< niedergeschrieben.](https://bio-erzgebirge.de/wp/?p=12723)
 * [Fefe teilt seine Gedanken zum Thema Queues, Threads und Parallelität.](https://blog.fefe.de/?ts=a5f47809) - Sehr schön, dass er zu dem Ansatz kommt, dass es eine Pool von Workers gibt, die untereinander aushandeln wer was macht um die API nach außen klein zu halten.
+* [Von 5 Prozent im Jahr 2000 auf 42 Prozent im Jahr 2018, dies ist der gestiegene Anteil von erneuerbarer Energie in Deutschland.](http://www.sonnenseite.com/de/franz-alt/kommentare-interviews/oekostrom-rekord-in-deutschland.html)
+* [CTRL+ALT+R und schon habt ihr einen "Lesemodus" im Firefox.](https://opensource.com/article/18/5/distraction-free-online-reading)
+* [Linux Kernel und wie man damit umgeht.](https://opensource.com/article/18/5/how-load-or-unload-linux-kernel-module)
+* [Edelstahl sauber kriegen? Leichter Schmutz mit Kartoffelschale, Fett mit Natron, Kalkflecken mit Essig oder Eingebranntes mit Waschsoda.](https://www.smarticular.net/edelstahl-reiniger-pflege-hausmittel-natuerlich/)
