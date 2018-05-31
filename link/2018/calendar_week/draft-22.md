@@ -20,3 +20,10 @@
 * [CTRL+ALT+R und schon habt ihr einen "Lesemodus" im Firefox.](https://opensource.com/article/18/5/distraction-free-online-reading)
 * [Linux Kernel und wie man damit umgeht.](https://opensource.com/article/18/5/how-load-or-unload-linux-kernel-module)
 * [Edelstahl sauber kriegen? Leichter Schmutz mit Kartoffelschale, Fett mit Natron, Kalkflecken mit Essig oder Eingebranntes mit Waschsoda.](https://www.smarticular.net/edelstahl-reiniger-pflege-hausmittel-natuerlich/)
+* [Wow, das ging schnell. Der DE-CIX ist mit seiner Klage gegen den BND gescheitert. Begründung, "ist so".](https://blog.fefe.de/?ts=a5f1fd3e)
+* [Nein? Doch! Oh? Mikroplastik findet sich auch in erschreckend hoher Konzentration in Böden.](http://www.sonnenseite.com/de/wissenschaft/boeden-in-schweizer-naturschutzgebieten-enthalten-betraechtliche-mengen-mikroplastik.html) - Wenn ich so durch die deutschen Wälder streife frage ich mich auch wo die Erziehung ala "Mein Müll nehme ich auch wieder mit nach Hause" geblieben ist.
+* [Mehr als zehn Jahre Blockpartei und das Ergebnis ist klar. Lobbyarbeit vernichtet zukünftige Arbeitsplätze in der immer wichtiger werdenden Solarindustrie.](http://www.sonnenseite.com/de/wirtschaft/solarindustrie-in-china-wird-immer-riesiger-deutschland-fast-voellig-abgehaengt.html)
+* [Die Blockpartei wie sie lebt, Kohleausstieg? Ach, das interessiert unsere Geldgeber nicht und was interessiert uns schon die Gesundheit und die Wünsche des Volkes.](http://www.sonnenseite.com/de/politik/entscheidung-ueber-kohle-kommission-verschoben.html)
+* [Danke pro-linux.de: >>Kostenloser edX-Kurs zu Open Source-Netzwerktechnologien<<](https://www.pro-linux.de/news/1/25945/kostenloser-edx-kurs-zu-open-source-netzwerktechnologien.html)
+* [Die Regierung verkackts mit Absicht und der Steuerzahler trägt die Schuld - So geschehen beim Foltern durch Rumänien und Litauen.](https://blog.fefe.de/?ts=a5f10e4f)
+* [Nun ist es auch offiziell, George Osborne meint, dass Medien mit der Kooperation von großen Firmen Geld machen können, indem sie Werbung wie Nachrichten aussehen lassen - und zwar so, dass der Leser nicht mehr unterscheiden kann.](https://blog.fefe.de/?ts=a5f17f7f)
