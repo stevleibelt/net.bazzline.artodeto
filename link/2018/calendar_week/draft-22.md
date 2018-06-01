@@ -27,3 +27,6 @@
 * [Danke pro-linux.de: >>Kostenloser edX-Kurs zu Open Source-Netzwerktechnologien<<](https://www.pro-linux.de/news/1/25945/kostenloser-edx-kurs-zu-open-source-netzwerktechnologien.html)
 * [Die Regierung verkackts mit Absicht und der Steuerzahler trägt die Schuld - So geschehen beim Foltern durch Rumänien und Litauen.](https://blog.fefe.de/?ts=a5f10e4f)
 * [Nun ist es auch offiziell, George Osborne meint, dass Medien mit der Kooperation von großen Firmen Geld machen können, indem sie Werbung wie Nachrichten aussehen lassen - und zwar so, dass der Leser nicht mehr unterscheiden kann.](https://blog.fefe.de/?ts=a5f17f7f)
+* [Wow, Münschen ist die dreckigste Stadt was die NO2 Grenzüberschreitung angeht.](http://www.sonnenseite.com/de/umwelt/finale-daten-zur-no2-belastung-2017-verfuegbar.html)
+* [Oha, in Spanien ist der Filzsumpf so verblubbert, dass niemand mehr den Deckel drauf halten kann.](https://blog.fefe.de/?ts=a5eef35a)
+* [Firefox und Chrome sind via Transparenzeffekten angreifbar wodurch man so den Inhalt des IFrames abgreifen kann.](https://blog.fefe.de/?ts=a5eef4a7)
