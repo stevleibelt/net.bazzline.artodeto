@@ -30,3 +30,8 @@
 * [Wow, Münschen ist die dreckigste Stadt was die NO2 Grenzüberschreitung angeht.](http://www.sonnenseite.com/de/umwelt/finale-daten-zur-no2-belastung-2017-verfuegbar.html)
 * [Oha, in Spanien ist der Filzsumpf so verblubbert, dass niemand mehr den Deckel drauf halten kann.](https://blog.fefe.de/?ts=a5eef35a)
 * [Firefox und Chrome sind via Transparenzeffekten angreifbar wodurch man so den Inhalt des IFrames abgreifen kann.](https://blog.fefe.de/?ts=a5eef4a7)
+* [Die Stadt Chemnitz in Freistaat Sachsen ist eine Stadt mit einem der ältesten Fernkältesysteme Europas.](http://www.sonnenseite.com/de/wissenschaft/kaeltespeicherung-made-in-chemnitz-weiter-auf-erfolgskurs.html)
+* [Nicht nur die Luft ist in Deutschland dank fehlendem Willen der Blockpartei verschmutzt, auch unser Wasser ist voll mit Chemiedreck. Deswegen >>Bündnis gegen Aufweichung der Wasserrahmenrichtlinie<<.](http://www.sonnenseite.com/de/politik/buendnis-gegen-aufweichung-der-wasserrahmenrichtlinie.html)
+* [Kamille, Salbei, Thymian, Kapland-Pelargonie, Zwiebel, Knoblauch, Kapuzinerkresse und Meerrettich sind die natürlichen Hilfsmittel bei Krankheiten ohne gegen das Leben auszulöschen wie es Antibiotika tut.](http://www.kraeuterallerlei.de/natuerliche-antibiotika-diese-kraeuter-und-pflanzen-helfen/)
+* [Schau an, da ist Tesla auf einmal profitabel mit ihrem Model 3.](https://blog.fefe.de/?ts=a5eff306)
+* [Cool, hier gibt es eine Anleitung wie man Holunderblütensekt selber macht.](https://www.smarticular.net/holunder-blueten-sekt-selbermachen/)
