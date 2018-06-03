@@ -38,3 +38,4 @@
 * [Philips Hue ging in Russland nicht mehr, weil die API nicht erreichbar war - dann bleibt es eben dunkel.](https://blog.fefe.de/?ts=a5ef131e)
 + [Hier gibt es eine Übersichtskarte über die letzen Urwälder in Europa.](http://www.sonnenseite.com/de/umwelt/die-letzten-urwaelder-europas.html)
 * [Das Great Barrier Reef steht wohl wirklich vor dem aus und stirbt.](https://netzfrauen.org/2018/06/02/great-barrier-reef-2/)
+* [Vegane Pizza ohne Käse.](https://www.smarticular.net/gemuesepizza-ohne-kaese-ersatz-vegan-belag-rezept/)
