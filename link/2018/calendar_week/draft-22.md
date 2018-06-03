@@ -35,3 +35,6 @@
 * [Kamille, Salbei, Thymian, Kapland-Pelargonie, Zwiebel, Knoblauch, Kapuzinerkresse und Meerrettich sind die natürlichen Hilfsmittel bei Krankheiten ohne gegen das Leben auszulöschen wie es Antibiotika tut.](http://www.kraeuterallerlei.de/natuerliche-antibiotika-diese-kraeuter-und-pflanzen-helfen/)
 * [Schau an, da ist Tesla auf einmal profitabel mit ihrem Model 3.](https://blog.fefe.de/?ts=a5eff306)
 * [Cool, hier gibt es eine Anleitung wie man Holunderblütensekt selber macht.](https://www.smarticular.net/holunder-blueten-sekt-selbermachen/)
+* [Philips Hue ging in Russland nicht mehr, weil die API nicht erreichbar war - dann bleibt es eben dunkel.](https://blog.fefe.de/?ts=a5ef131e)
++ [Hier gibt es eine Übersichtskarte über die letzen Urwälder in Europa.](http://www.sonnenseite.com/de/umwelt/die-letzten-urwaelder-europas.html)
+* [Das Great Barrier Reef steht wohl wirklich vor dem aus und stirbt.](https://netzfrauen.org/2018/06/02/great-barrier-reef-2/)
