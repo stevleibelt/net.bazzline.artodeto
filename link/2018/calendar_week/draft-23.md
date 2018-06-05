@@ -1,0 +1,7 @@
+* [Palmenblatt statt Plastiktüte.](https://www.careelite.de/nachhaltige-verpackungen-arekapak/)
+* [Debian 7 kriegt jetzt keine neuen Pakete mehr.](https://www.pro-linux.de/news/1/25949/ende-der-unterst%C3%BCtzung-f%C3%BCr-debian-7.html)
+* [Falls ihr Interesse daran habt Klangschematas in eurem Linux zu konfigurieren, dafür gibt es hier eine Anleitung.](https://opensource.com/article/18/6/sound-themes-linux)
+* [Automatisch NFS und SAMBA-Shares mounten? Mit autofs geht das.](https://opensource.com/article/18/6/using-autofs-mount-nfs-shares) ([Arch Linux Wiki Eintrag](https://wiki.archlinux.org/index.php/Autofs))
+* [Jailhouse wurde in der Version 0.9 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=Jailhouse-0.9-Hypervisor)
+* [OwnCloud stellt die erste Version ihres virtuellen Dateisystems vor. Seht es als "on demand"-Dateisystem.](https://www.pro-linux.de/news/1/25955/owncloud-desktop-client-mit-virtual-file-system.html)
+* [Libinput wurde in der Version 1.11 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=Libinput-1.11-Released)
