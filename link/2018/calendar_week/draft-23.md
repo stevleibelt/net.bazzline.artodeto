@@ -5,3 +5,5 @@
 * [Jailhouse wurde in der Version 0.9 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=Jailhouse-0.9-Hypervisor)
 * [OwnCloud stellt die erste Version ihres virtuellen Dateisystems vor. Seht es als "on demand"-Dateisystem.](https://www.pro-linux.de/news/1/25955/owncloud-desktop-client-mit-virtual-file-system.html)
 * [Libinput wurde in der Version 1.11 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=Libinput-1.11-Released)
+* [MySQL als NO-SQL dank der integrierten JSON-Unterstützung.](https://opensource.com/article/18/6/mysql-document-store)
+* [Atemübung, Gehübung oder Übungen beim Essen. Hier gibt es viele Meditationsübungen die dir im Alltag helfen und die anwendbar sind.](https://www.smarticular.net/meditation-techniken-atem-gehmeditation-essen-innere-ruhe-entspannung/)
