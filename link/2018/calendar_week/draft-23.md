@@ -7,3 +7,7 @@
 * [Libinput wurde in der Version 1.11 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=Libinput-1.11-Released)
 * [MySQL als NO-SQL dank der integrierten JSON-Unterstützung.](https://opensource.com/article/18/6/mysql-document-store)
 * [Atemübung, Gehübung oder Übungen beim Essen. Hier gibt es viele Meditationsübungen die dir im Alltag helfen und die anwendbar sind.](https://www.smarticular.net/meditation-techniken-atem-gehmeditation-essen-innere-ruhe-entspannung/)
+* [Hier gibt es einen Einstieg zu Buildah, basierend auf euren Dockerfiles.](https://opensource.com/article/18/6/getting-started-buildah)
+* [Blah, blah, Skynet wird Realität werden.](https://blog.fefe.de/?ts=a5e9cd4c)
+* [Die Polizei kam Nachts mit voller Bewaffnung mal durch Chelsea Mannings Tür um zu schauen wie es ihr geht.](https://blog.fefe.de/?ts=a5e82bec) - Nur ein Polizeistaat kann so schön Druck ausüben ... oder die Mafia ;-).
+* [SQLite wurde in der Version 3.24 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=SQLite-3.24-Released-UPSERT)
