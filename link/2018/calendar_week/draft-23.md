@@ -11,3 +11,11 @@
 * [Blah, blah, Skynet wird Realität werden.](https://blog.fefe.de/?ts=a5e9cd4c)
 * [Die Polizei kam Nachts mit voller Bewaffnung mal durch Chelsea Mannings Tür um zu schauen wie es ihr geht.](https://blog.fefe.de/?ts=a5e82bec) - Nur ein Polizeistaat kann so schön Druck ausüben ... oder die Mafia ;-).
 * [SQLite wurde in der Version 3.24 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=SQLite-3.24-Released-UPSERT)
+* [Desktop TrueOS nennt man nun "Project Trident".](https://www.pro-linux.de/news/1/25967/trueos-orientiert-sich-neu-und-gr%C3%BCndet-projekt-trident.html)
+* [Was macht so ein "cross functional"-DevOps Team eigentlich aus?](https://opensource.com/article/18/6/roles-squad-model)
+* [Realitätsabgleich zum Thema "Übernehmen wir selbst noch die Verantwortung für unsere tägliche Taten?"](https://netzfrauen.org/2018/06/07/demokratie/)
+* [DXVK wurde in der Version 0.54 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=DXVK-0.54-Released)
+* [Thunar wurde in der Version 1.8 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=Xfce-Thunar-1.8-Released) - Thunar ist nun komplett GTK3.
+* [Nextcloud wurde in der Version 13.0.8 veröffentlicht.](https://nextcloud.com/blog/nextcloud-13.0.3-and-12.0.8-available/)
+* [Die ersten Abmahnanwält fangen an abzumahnen ohne einen Auftrag zu haben.](https://blog.fefe.de/?ts=a5e64507)
+* [Audi's Diesel sind jetzt auch offiziell krebserregend.](https://blog.fefe.de/?ts=a5e6443f)
