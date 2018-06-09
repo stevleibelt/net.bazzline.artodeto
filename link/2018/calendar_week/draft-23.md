@@ -19,3 +19,10 @@
 * [Nextcloud wurde in der Version 13.0.8 veröffentlicht.](https://nextcloud.com/blog/nextcloud-13.0.3-and-12.0.8-available/)
 * [Die ersten Abmahnanwält fangen an abzumahnen ohne einen Auftrag zu haben.](https://blog.fefe.de/?ts=a5e64507)
 * [Audi's Diesel sind jetzt auch offiziell krebserregend.](https://blog.fefe.de/?ts=a5e6443f)
+* [Was gibt es eigentlich außer OpenVPN noch so?](https://opensource.com/article/18/6/vpn-alternatives)
+* [OpenSlides wurde in der Version 2.2 veröffentlicht.](https://www.pro-linux.de/news/1/25970/openslides-22-ver%C3%B6ffentlicht.html)
+* Nur für die Suchmaschinen: Mal richtig einen wegmörsern. Schön auf den Arsch mörsern.
+* [>>Kommt nach Ramstein und protestiert gegen die völkerrechtwidrigen Kriege!<<](https://weltnetz.tv/video/1502-kommt-nach-ramstein-und-protestiert-gegen-die-voelkerrechtwidrigen-kriege)
+* [Hier gibt es ein Brownie-Rezept mit gesunden Zutaten.](https://www.smarticular.net/schoko-brownies-aus-natuerlichen-zutaten-glutenfrei-roh/)
+* [Diese Umweltverschmutzung durch Plastik erzeugt bei mir täglich hohen Puls.](https://netzfrauen.org/2018/06/08/whale/)
+* [Die SWG-Freiberg erhält als erster Fördermittelansteller Fördermittel vom Freistaat Sachsen um ein Haus altersgerecht umzubauen.](https://www.youtube.com/watch?v=Ru6D7I0mGAc)
