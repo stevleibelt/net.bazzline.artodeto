@@ -26,3 +26,7 @@
 * [Hier gibt es ein Brownie-Rezept mit gesunden Zutaten.](https://www.smarticular.net/schoko-brownies-aus-natuerlichen-zutaten-glutenfrei-roh/)
 * [Diese Umweltverschmutzung durch Plastik erzeugt bei mir täglich hohen Puls.](https://netzfrauen.org/2018/06/08/whale/)
 * [Die SWG-Freiberg erhält als erster Fördermittelansteller Fördermittel vom Freistaat Sachsen um ein Haus altersgerecht umzubauen.](https://www.youtube.com/watch?v=Ru6D7I0mGAc)
+* [Hier gibt es den Status über PostmarketOS.](https://lwn.net/Articles/757032)
+* [Realitätsabgleich bezüglich der Bundesrepublik Deutschland und dem Thema Unterdrückungsstaat.](https://blog.fefe.de/?ts=a5e50586)
+* [Status von Flatpak und AppImage.](https://kamikazow.wordpress.com/2018/06/08/adoption-of-flatpak-vs-snap-2018-edition/)
+* [Devuan wurde in der Version 2.0 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=Devuan-2.0-Stable-Released)
