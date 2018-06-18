@@ -10,3 +10,5 @@
 * ["App's" sind Wanzen, ich sag es euch immer wieder.](https://blog.fefe.de/?ts=a5e05783)
 * [Ohha, die Schufa ist auch auf dem absteigenden Ast?](https://blog.fefe.de/?ts=a5e057f1)
 * [Wie man mit gesundem Essen auch im Alter fit bleibt.](https://www.smarticular.net/senioren-vitamine-mineralstoffe-natuerlich-ohne-tabletten/)
+* [Realitätsabgleich "Was wir als Europäer in Afrika geschaffen haben".](https://netzfrauen.org/2018/06/12/aquarius/)
+* [Devuan wurde in der Version 2.0 veröffentlicht.](https://www.pro-linux.de/news/1/25978/devuan-20-ascii-ver%C3%B6ffentlicht.html)
