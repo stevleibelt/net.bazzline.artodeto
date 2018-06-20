@@ -15,3 +15,7 @@
 * [ONAP wurde in der Version 2.0.0 veröffentlicht.](https://www.pro-linux.de/news/1/25987/onap-200-beijing-freigegeben.html)
 * [Arm macht jetzt auch JavaScript in Hardware :-(.](https://blog.fefe.de/?ts=a5d7c7f4)
 * [Mysql, InnoDB und der Puffer.](https://www.percona.com/blog/2018/06/19/chunk-change-innodb-buffer-pool-resizing/)
+* [Hier gibt es eine Einführung zum Thema "Animation" in React.](https://opensource.com/article/18/6/getting-started-react-native-animations)
+* [Wow, erschreckender Bericht über das Szenario, dass der Computer der Meinung war jemand war gefeuert. Alle Menschen wussten, dass dem nicht so war, aber der Computer hatte eine strikte Routine.](https://blog.fefe.de/?ts=a5d4c2a9)
+* [Nein? Doch! Oh? Forscher können bestätigen, dass Pflanzen, die durch mehr CO2, größer wachsen, im Regelfall weniger Nährstoffe inne haben.](https://blog.fefe.de/?ts=a5d7bf76) - Wenn Energie für das Wachsen verbraucht wird, können andere Dinge nicht ordentlich durchgeführt werden. Und nun zieht hier mal parallelen zum Menschen die durch Fleischkonsum zum Wachsen stimuliert werden.
+* [Vom 17 bis zum 18.11.2018 findet in Berlin "Die Konferenz für Digitalisierung und Nachhaltigkeit" statt.](https://events.ccc.de/2018/06/20/call-for-participation-tuwat-fur-einen-nachhaltigen-hacktivismus/)
