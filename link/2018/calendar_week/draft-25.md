@@ -19,3 +19,10 @@
 * [Wow, erschreckender Bericht über das Szenario, dass der Computer der Meinung war jemand war gefeuert. Alle Menschen wussten, dass dem nicht so war, aber der Computer hatte eine strikte Routine.](https://blog.fefe.de/?ts=a5d4c2a9)
 * [Nein? Doch! Oh? Forscher können bestätigen, dass Pflanzen, die durch mehr CO2, größer wachsen, im Regelfall weniger Nährstoffe inne haben.](https://blog.fefe.de/?ts=a5d7bf76) - Wenn Energie für das Wachsen verbraucht wird, können andere Dinge nicht ordentlich durchgeführt werden. Und nun zieht hier mal parallelen zum Menschen die durch Fleischkonsum zum Wachsen stimuliert werden.
 * [Vom 17 bis zum 18.11.2018 findet in Berlin "Die Konferenz für Digitalisierung und Nachhaltigkeit" statt.](https://events.ccc.de/2018/06/20/call-for-participation-tuwat-fur-einen-nachhaltigen-hacktivismus/)
+* [>>Nein. Du programmierst, damit du am Ende das Problem verstanden hast.<<](https://blog.fefe.de/?ts=a5d49dbf)
+* [Deine Videos sind gern gesehen und du willst keine Werbung einblenden? Tja, dann löscht Youtube all deine Videos - so geschehen am Beispiel von Blender die jetzt zu peertube gegangen sind.](https://blog.fefe.de/?ts=a5d4e1d7)
+* [Müssen Blogger bald für Links bezahlen? Wenn es nach der Blockpartei geht, ja :-O.](https://blog.fefe.de/?ts=a5d4a757)
+* [Hagebuttenpulver gegen Arthrose, kolloidale Silber als natürliches Antibiotika und Borax gegen Kalk.](http://www.neopresse.com/politik/dach/wie-die-krankenhausindustrie-funktioniert-der-blick-hinter-die-kulissen/)
+* [Buildah-Skripte debuggen?](https://opensource.com/article/18/6/buildah-troubleshooting)
+* [Remmina und wie man Linux Desktops fernsteuern kann.](https://opensource.com/article/18/6/linux-remote-desktop)
+* [Die Walnuss ist die Heilpflanze des Monats.](https://bio-erzgebirge.de/wp/?p=15141)
