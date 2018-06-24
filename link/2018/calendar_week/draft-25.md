@@ -39,3 +39,5 @@
 * [Systemd wurde in der Version 239 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=systemd-239)
 * [Die ACLU (American Civil Liberties Union/Amerikanische Bürgerrechtsunio) scheint beim Thema "Free Speech" einzuknicken :-(.](https://blog.fefe.de/?ts=a5d35d4d)
 * [Hier wird euch, in einem Video, gezeigt, wie ihr Lügner in Sekunden entlarven könnt.](https://www.welt-im-wandel.tv/video/luegen-in-sekunden-entlarven-wie-du-in-jedem-gespraech-die-wahrheit-erkennst-prof-dr-jack-nasher/)
+* [Das ist für mich neu, Kinderkleidung mieten.](https://www.smarticular.net/kindermode-bio-fair-mitwachsend-gebraucht-selber-machen/)
+* [Und noch mehr Tiere leiden an der Plastikverschmutzung :-(.](https://netzfrauen.org/2018/06/24/plastic-3/)
