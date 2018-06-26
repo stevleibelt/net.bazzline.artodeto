@@ -1,3 +1,8 @@
 * ["Pacific Garbage Screening" soll eine passive Plattform sein, die Plastik aus dem Meer sammelt.](https://www.careelite.de/pacific-garbage-screening/)
 * [Hier gibt es ein Rezept wie ihr "Ingwershot's" selber macht.](https://www.smarticular.net/ingwershot-anleitung-rezept-mit-heilwirkung/)
 * [Hier könnt ihr euch ein paar Tests anschauen, wenn ihr mal wissen wolltet wie ein IBM POWER9 sich so gegen einen AMD Epic und einem Intel Xeon anstellt.](https://www.phoronix.com/scan.php?page=article&item=power9-talos-2&num=1)
+* [Da kommen einem beim Lesen die Tränen in die Augen, am Beispiel der Grenze von Mexiko zu den USA zeigt sich wie schlimm es Migrantenkinder trifft, wenn sie von ihren Eltern getrennt werden.](https://netzfrauen.org/2018/06/26/immigrant/)
+* [Intels Hyperthreading ist wohl auch derbe kaputt.](https://www.planet3dnow.de/cms/38685-weitere-sicherheitsluecke-in-intel-cpus-tlbleed-trickst-hyperthreading-aus/)
+* [Ihr sucht Spiele für eure Kinder am PC? Hier gibt es fünf Stück.](https://opensource.com/article/18/6/puzzle-games-linux)
+* [Sahra Wagenknecht ruft zur Demonstration gegen die Air Base Rammstein auf.](https://weltnetz.tv/video/1526-sahra-wagenknecht-kommen-sie-nach-ramstein)
+* [Sahra Wagenknecht und ihre Sicht zur Lage der Nation.](https://blog.fefe.de/?ts=a5ccd7bc)
