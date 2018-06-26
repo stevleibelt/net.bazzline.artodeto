@@ -6,3 +6,4 @@
 * [Ihr sucht Spiele für eure Kinder am PC? Hier gibt es fünf Stück.](https://opensource.com/article/18/6/puzzle-games-linux)
 * [Sahra Wagenknecht ruft zur Demonstration gegen die Air Base Rammstein auf.](https://weltnetz.tv/video/1526-sahra-wagenknecht-kommen-sie-nach-ramstein)
 * [Sahra Wagenknecht und ihre Sicht zur Lage der Nation.](https://blog.fefe.de/?ts=a5ccd7bc)
+* [Alpine Linux wurde in der Version 3.8 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=Alpine-Linux-3.8-Released)
