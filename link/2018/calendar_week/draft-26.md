@@ -7,3 +7,8 @@
 * [Sahra Wagenknecht ruft zur Demonstration gegen die Air Base Rammstein auf.](https://weltnetz.tv/video/1526-sahra-wagenknecht-kommen-sie-nach-ramstein)
 * [Sahra Wagenknecht und ihre Sicht zur Lage der Nation.](https://blog.fefe.de/?ts=a5ccd7bc)
 * [Alpine Linux wurde in der Version 3.8 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=Alpine-Linux-3.8-Released)
+* [Tagesschau.de wird jetzt wohl einen Abstieg wie spiegel online erleben.](https://blog.fefe.de/?ts=a5cc00ed)
+* [Ui, ich bin auf reale Tests gespannt. Angeblich gibt es bald Fenster, die so gut wie Wände isolieren.](http://www.sonnenseite.com/de/zukunft/das-haus-das-sich-selbst-warmhaelt.html)
+* [Tails wurde in der Version 3.8 veröffentlicht.](https://www.pro-linux.de/news/1/26033/tails-38-ver%C3%B6ffentlicht.html)
+* [Firefox wurde in der Version 61 veröffentlicht.](https://www.pro-linux.de/news/1/26035/firefox-61-freigegeben.html)
+* [Was passiert, wenn man das Betreuen von wichtiger Infrastruktur dem freien Markt überlässt?](https://blog.fefe.de/?ts=a5cd9017) Die Anteilseigner der Firma machen Gewinn und die Angestellten erhalten weniger Gehalt bis ... ja bis sich keiner mehr auf die freien Stellen bewirbt. So geschehen im Kreis Stormarn und Herzogtum Lauenburg wo der Müll seit Monaten wegen fehlender Fahrer nicht abgeholt wird.
