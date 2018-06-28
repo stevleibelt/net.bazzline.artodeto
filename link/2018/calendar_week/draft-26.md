@@ -20,3 +20,4 @@
 * [Eclipse Photon wurde auch im 13. Jahr veröffentlicht.](https://www.pro-linux.de/news/1/26040/eclipse-photon-freigegeben.html)
 * [Hier gibt es eine Liste von Dingen die ihr tun könnt wenn eure MySQL keinen Arbeitsspeicher mehr hat.](https://www.percona.com/blog/2018/06/28/what-to-do-when-mysql-runs-out-of-memory-troubleshooting-guide/)
 * [Python wurde in der Version 3.7 veröffentlicht.](https://www.pro-linux.de/news/1/26042/python-37-erschienen.html)
+* [DXVK wurde in der Version 0.61 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=DXVK-0.61-Released)
