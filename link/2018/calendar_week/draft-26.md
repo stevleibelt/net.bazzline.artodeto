@@ -12,3 +12,11 @@
 * [Tails wurde in der Version 3.8 veröffentlicht.](https://www.pro-linux.de/news/1/26033/tails-38-ver%C3%B6ffentlicht.html)
 * [Firefox wurde in der Version 61 veröffentlicht.](https://www.pro-linux.de/news/1/26035/firefox-61-freigegeben.html)
 * [Was passiert, wenn man das Betreuen von wichtiger Infrastruktur dem freien Markt überlässt?](https://blog.fefe.de/?ts=a5cd9017) Die Anteilseigner der Firma machen Gewinn und die Angestellten erhalten weniger Gehalt bis ... ja bis sich keiner mehr auf die freien Stellen bewirbt. So geschehen im Kreis Stormarn und Herzogtum Lauenburg wo der Müll seit Monaten wegen fehlender Fahrer nicht abgeholt wird.
+* [Fin-Tech-Neusprech-Bullshit aufgelistet und erklärt.](https://blog.fefe.de/?ts=a5cac14b)
+* [Fefe verlinkt auf einen Kolumnisten von der Zeit zum Thema "im normalen Leben wären die Mitglieder der Blockpartei CDU/CSU/SPD/FDP/Die Grünen schon wegen Arbeitsverweigerung gekündigt worden.](https://blog.fefe.de/?ts=a5cac34f)
+* [6 Millionen Euro darf der Steuerzahler an das BKA überweisen damit diese die Kosten des Staatstrojaners zahlen können.](https://blog.fefe.de/?ts=a5cac4b8)
+* [Ein guter Vorstoß in Richtung "Lernt wieder euch um euren eigenen Scheiß zu kümmern" - die Stadt Kamikatsu in Japan nimmt die Müllentsorgung in die eigenen Hände.](http://www.sonnenseite.com/de/zukunft/eine-kleine-japanische-stadt-koennte-bald-zu-100-prozent-abfallfrei-sein.html) - Was mir direkt gefällt, wenn du deinen Müll selber wegbringen musst, machst du weniger Müll weil du genervt von der Arbeit bist.
+* [Oxfam, Ärzte ohne Grenzen ... scheinbar ist es nicht nur in der Kirche so, da wo geholfen wird, wird Sex als Bezahlung gefordert.](https://netzfrauen.org/2018/06/28/msf/)
+* [Eclipse Photon wurde auch im 13. Jahr veröffentlicht.](https://www.pro-linux.de/news/1/26040/eclipse-photon-freigegeben.html)
+* [Hier gibt es eine Liste von Dingen die ihr tun könnt wenn eure MySQL keinen Arbeitsspeicher mehr hat.](https://www.percona.com/blog/2018/06/28/what-to-do-when-mysql-runs-out-of-memory-troubleshooting-guide/)
+* [Python wurde in der Version 3.7 veröffentlicht.](https://www.pro-linux.de/news/1/26042/python-37-erschienen.html)
