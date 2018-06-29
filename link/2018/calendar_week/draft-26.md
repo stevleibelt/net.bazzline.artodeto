@@ -21,3 +21,6 @@
 * [Hier gibt es eine Liste von Dingen die ihr tun könnt wenn eure MySQL keinen Arbeitsspeicher mehr hat.](https://www.percona.com/blog/2018/06/28/what-to-do-when-mysql-runs-out-of-memory-troubleshooting-guide/)
 * [Python wurde in der Version 3.7 veröffentlicht.](https://www.pro-linux.de/news/1/26042/python-37-erschienen.html)
 * [DXVK wurde in der Version 0.61 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=DXVK-0.61-Released)
+* [Integrationtest mit Kubernetes? Hier wird gezeigt wie es geht.](https://opensource.com/article/18/6/running-integration-tests-kubernetes)
+* [Das 33. Freiberger Bergstadtfest im Jahr 2018 ist zuende und hier gibt es ein schönes Video als Zusammenfassung.](https://www.youtube.com/watch?v=c1weknibEdo)
+* [FreeBSD wurde in der Version 11.2 veröffentlicht.](https://www.pro-linux.de/news/1/26043/freebsd-112-freigegeben.html)
