@@ -1,0 +1,4 @@
+* [Fefe zeigt an einem schönen Beispiel das man mit "Cloud bedeutet ihr nutzt anderen Leuten Computer" die Wahrheit gemeint ist. Google's Automaten fahren eine ganze Webseite runter und sperren den Nutzer. Der "Service" ist auch ein Automat und macht nichts außer Textbausteine zu verschicken.](https://blog.fefe.de/?ts=a5c7a27e)
+* [Dir ist ein Fehler unterlaufen? Don't panic!](https://opensource.com/article/18/7/my-first-sysadmin-mistake)
+* [OpenShot wurde in der Version 2.4.2 veröffentlicht.](https://www.pro-linux.de/news/1/26049/video-editor-openshot-242-bringt-sieben-neue-effekte.html)
+* [Schnell was selber dörren? Backofen auf Umluft stellen, Licht an und mit einem Korken die Tür offen lassen. Nach ein Paar stunden seit ihr fertig.](https://www.smarticular.net/doerrautomat-alternative-backofen-fruechte-trocknen-gesund-energiesparend/)
