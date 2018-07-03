@@ -2,3 +2,7 @@
 * [Dir ist ein Fehler unterlaufen? Don't panic!](https://opensource.com/article/18/7/my-first-sysadmin-mistake)
 * [OpenShot wurde in der Version 2.4.2 veröffentlicht.](https://www.pro-linux.de/news/1/26049/video-editor-openshot-242-bringt-sieben-neue-effekte.html)
 * [Schnell was selber dörren? Backofen auf Umluft stellen, Licht an und mit einem Korken die Tür offen lassen. Nach ein Paar stunden seit ihr fertig.](https://www.smarticular.net/doerrautomat-alternative-backofen-fruechte-trocknen-gesund-energiesparend/)
+* [CCC: Europaweite Upload-Filter stärken nur die Macht von Google und Facebook](https://www.ccc.de/de/updates/2018/europaweite-upload-filter-starken-nur-die-macht-von-google-und-facebook)
+* [H&M ist wie Nestlee, schaut man hin, sieht man das ein Konzern kein Herz hat.](https://netzfrauen.org/2018/07/03/hundm/)
+* [MongoDB wurde in der Version 4.0 veröffentlicht.](https://www.pro-linux.de/news/1/26055/mongodb-40-erschienen.html)
+* [Dinge die ihr im Linux OS einstellen könnt, damit eure MySQL rennt.](https://www.percona.com/blog/2018/07/03/linux-os-tuning-for-mysql-database-performance/)
