@@ -11,3 +11,5 @@
 * [Wie schlecht sind Subventionen und Steuererlässe für die Region? Silicon-Valley- und Tesla-schlecht.](https://blog.fefe.de/?ts=a5c2c17b)
 * [Alles ist in Verbindung, zu viel CO2 macht die Ozeane sauer und dadurch stirbt alles ab. Den Lebenwesen geht es wie uns Menschen, Säure auf der Haut und im Magen ist kacke.](http://www.sonnenseite.com/de/wissenschaft/ein-korallenbohrkern-beweist-im-pazifik-sinkt-der-ph-wert.html)
 * [Aktuelles im Netzwerk Freiberg für Juli](https://bio-erzgebirge.de/wp/?p=15406)
+* [11.000 Liter Wasser für eine Jeanshose, 2.500 Liter Wasser für ein T-Shirt, 4.400 Liter Wasser für ein Pullover, 8.000 Liter Wasser für Lederschuhe ... da kommt schnell ganz schön was zusammen.](https://netzfrauen.org/2018/07/04/water/)
+* [Ihr übt Kritik gegen die Polizei? Tja, dann wird das Gesetzt so hingebogen, dass die Polizeigewalt machen kann was sie will ... den durch die Kritik bring "[...] unmittelbare Gefahr für die öffentliche Sicherheit und Ordnung mit sich [...]"](https://blog.fefe.de/?ts=a5c21bd4)
