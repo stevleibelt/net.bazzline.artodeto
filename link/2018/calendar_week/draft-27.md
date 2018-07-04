@@ -6,3 +6,8 @@
 * [H&M ist wie Nestlee, schaut man hin, sieht man das ein Konzern kein Herz hat.](https://netzfrauen.org/2018/07/03/hundm/)
 * [MongoDB wurde in der Version 4.0 veröffentlicht.](https://www.pro-linux.de/news/1/26055/mongodb-40-erschienen.html)
 * [Dinge die ihr im Linux OS einstellen könnt, damit eure MySQL rennt.](https://www.percona.com/blog/2018/07/03/linux-os-tuning-for-mysql-database-performance/)
+* [Container können auch offen in der Welt rumliegen.](https://blog.fefe.de/?ts=a5c56603)
+* [Der D-Bus Message Broker wurde in der Version 14 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=Dbus-Broker-14-Released)
+* [Wie schlecht sind Subventionen und Steuererlässe für die Region? Silicon-Valley- und Tesla-schlecht.](https://blog.fefe.de/?ts=a5c2c17b)
+* [Alles ist in Verbindung, zu viel CO2 macht die Ozeane sauer und dadurch stirbt alles ab. Den Lebenwesen geht es wie uns Menschen, Säure auf der Haut und im Magen ist kacke.](http://www.sonnenseite.com/de/wissenschaft/ein-korallenbohrkern-beweist-im-pazifik-sinkt-der-ph-wert.html)
+* [Aktuelles im Netzwerk Freiberg für Juli](https://bio-erzgebirge.de/wp/?p=15406)
