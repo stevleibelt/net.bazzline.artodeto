@@ -11,3 +11,9 @@
 * [Wie schlecht sind Subventionen und Steuererlässe für die Region? Silicon-Valley- und Tesla-schlecht.](https://blog.fefe.de/?ts=a5c2c17b)
 * [Alles ist in Verbindung, zu viel CO2 macht die Ozeane sauer und dadurch stirbt alles ab. Den Lebenwesen geht es wie uns Menschen, Säure auf der Haut und im Magen ist kacke.](http://www.sonnenseite.com/de/wissenschaft/ein-korallenbohrkern-beweist-im-pazifik-sinkt-der-ph-wert.html)
 * [Aktuelles im Netzwerk Freiberg für Juli](https://bio-erzgebirge.de/wp/?p=15406)
+* [Alles, was auf dem Wasser passiert, scheint mir in absoluter Wild-West-Manier zu geschehen. Da werden Netze ausgeworfen die zu Todesstreifen werden ... auf dem Land gab es mal einen Stadt, da hat sich die westliche Welt darüber medial aufgeregt. Bei Tieren ist das wohl anders.](https://netzfrauen.org/2018/07/04/australia/)
+* [Wow, glaubt man den Zahlen, brechen der Chemie- und Tötungsindustrie langsam die Abnehmer weg. In Deutschland stellen immer mehr Bauern auf biologische Landwirtschaft um, weil sie gemerkt haben, dass die Chemiekeule keine Lösung bietet sondern nur immer größere Probleme verursacht.](http://www.sonnenseite.com/de/umwelt/bauern-bauen-landwirtschaft-auf-bio-um.html)
+* [Tuxedo Computers hat ihr neues InfinityBook vollendet.](https://www.pro-linux.de/news/1/26057/tuxedo-infinitybook-pro-14-bereit-zur-auslieferung.html)
+* [Du bist ein Hacker? Dann kommt die Polzei mal vorbei und nimmt alles mit ... weil sie es kann, auf Verdacht.](https://www.ccc.de/de/updates/2018/hausdurchsuchungen-bei-vereinsvorstanden-der-zwiebelfreunde-und-im-openlab-augsburg) - Es ging hier um die [Zwiebelfreunde](https://blog.fefe.de/?ts=a5c2755c).
+* [Seenotrettung? Tja, da scheint der Mittelmeerstaat Deutschland alleine da zu stehen.](https://blog.fefe.de/?ts=a5c279fc)
+* [Drei Atemübungen, die dich beruhigen können.](https://www.smarticular.net/atemuebungen-meditation-vollatmung-4-7-8-vertikalatmung/)
