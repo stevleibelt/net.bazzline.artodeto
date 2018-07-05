@@ -19,3 +19,4 @@
 * [Drei Atemübungen, die dich beruhigen können.](https://www.smarticular.net/atemuebungen-meditation-vollatmung-4-7-8-vertikalatmung/)
 * [11.000 Liter Wasser für eine Jeanshose, 2.500 Liter Wasser für ein T-Shirt, 4.400 Liter Wasser für ein Pullover, 8.000 Liter Wasser für Lederschuhe ... da kommt schnell ganz schön was zusammen.](https://netzfrauen.org/2018/07/04/water/)
 * [Ihr übt Kritik gegen die Polizei? Tja, dann wird das Gesetzt so hingebogen, dass die Polizeigewalt machen kann was sie will ... den durch die Kritik bring "[...] unmittelbare Gefahr für die öffentliche Sicherheit und Ordnung mit sich [...]"](https://blog.fefe.de/?ts=a5c21bd4)
+* [Du kennst eine Person die blutdrucksenkende Mittel einnimmt? Der sollte doch mal schauen ob sein Zeug Krebs innehalt und zurückgerufen wird.](https://netzfrauen.org/2018/07/05/medikamentenrueckruf/)
