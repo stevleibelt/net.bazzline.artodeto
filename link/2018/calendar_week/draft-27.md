@@ -17,3 +17,5 @@
 * [Du bist ein Hacker? Dann kommt die Polzei mal vorbei und nimmt alles mit ... weil sie es kann, auf Verdacht.](https://www.ccc.de/de/updates/2018/hausdurchsuchungen-bei-vereinsvorstanden-der-zwiebelfreunde-und-im-openlab-augsburg) - Es ging hier um die [Zwiebelfreunde](https://blog.fefe.de/?ts=a5c2755c).
 * [Seenotrettung? Tja, da scheint der Mittelmeerstaat Deutschland alleine da zu stehen.](https://blog.fefe.de/?ts=a5c279fc)
 * [Drei Atemübungen, die dich beruhigen können.](https://www.smarticular.net/atemuebungen-meditation-vollatmung-4-7-8-vertikalatmung/)
+* [11.000 Liter Wasser für eine Jeanshose, 2.500 Liter Wasser für ein T-Shirt, 4.400 Liter Wasser für ein Pullover, 8.000 Liter Wasser für Lederschuhe ... da kommt schnell ganz schön was zusammen.](https://netzfrauen.org/2018/07/04/water/)
+* [Ihr übt Kritik gegen die Polizei? Tja, dann wird das Gesetzt so hingebogen, dass die Polizeigewalt machen kann was sie will ... den durch die Kritik bring "[...] unmittelbare Gefahr für die öffentliche Sicherheit und Ordnung mit sich [...]"](https://blog.fefe.de/?ts=a5c21bd4)
