@@ -23,3 +23,5 @@
 * [Ein guter Tag für Europa, knapp aber gescheitert ... das Leistungsschutzrecht ist gescheitert!](https://blog.fefe.de/?ts=a5c33b90)
 * [Gimp wurde in der Version 2.10.4 veröffentlicht.](https://www.pro-linux.de/news/1/26064/gimp-2104-mit-kleinen-neuerungen.html)
 * [Du kennst eine Person die blutdrucksenkende Mittel einnimmt? Der sollte doch mal schauen ob sein Zeug Krebs innehalt und zurückgerufen wird.](https://netzfrauen.org/2018/07/05/medikamentenrueckruf/)
+* [Die Blockpartei hat beschlossen noch einmal 1,4 Milliarden Euro pro Jahr auf die Beschaffung von Waffen für die Bundeswehr zu schmeißen. Könnte man machen, wenn die Polizei, die Kindergärten, die Schulen, die Krankenhäuser, die Gemeinschaftszentren, die Sportvereine alle genug Geld hätten und die Infrastruktur wie Straßen, Wasser-, Strom- und Internetleitungen in Ordnung wären. Bis dahin, liebe SPD, ist das für mich ein Verrat am Volk.](https://tuxproject.de/blog/2018/07/si-vis-pacem-para-bellum-3/)
+* [Firefox wurde in der Version 61.0.1 veröffentlicht.](https://www.pro-linux.de/news/1/26067/firefox-6101-freigegeben.html)
