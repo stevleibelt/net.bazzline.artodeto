@@ -22,3 +22,4 @@
 * [Was kann die Blockpartei am besten? Geld ausgeben für Dinge die die Welt nicht braucht, heute ... mehr Geld für Wafffen.](https://blog.fefe.de/?ts=a5c3b4d8) - Geliefert wird natürlich nichts, weil nie etwas marktreif entwickelt wird.
 * [Ein guter Tag für Europa, knapp aber gescheitert ... das Leistungsschutzrecht ist gescheitert!](https://blog.fefe.de/?ts=a5c33b90)
 * [Gimp wurde in der Version 2.10.4 veröffentlicht.](https://www.pro-linux.de/news/1/26064/gimp-2104-mit-kleinen-neuerungen.html)
+* [Du kennst eine Person die blutdrucksenkende Mittel einnimmt? Der sollte doch mal schauen ob sein Zeug Krebs innehalt und zurückgerufen wird.](https://netzfrauen.org/2018/07/05/medikamentenrueckruf/)
