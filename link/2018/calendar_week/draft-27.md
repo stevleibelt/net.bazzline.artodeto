@@ -19,3 +19,6 @@
 * [Drei Atemübungen, die dich beruhigen können.](https://www.smarticular.net/atemuebungen-meditation-vollatmung-4-7-8-vertikalatmung/)
 * [11.000 Liter Wasser für eine Jeanshose, 2.500 Liter Wasser für ein T-Shirt, 4.400 Liter Wasser für ein Pullover, 8.000 Liter Wasser für Lederschuhe ... da kommt schnell ganz schön was zusammen.](https://netzfrauen.org/2018/07/04/water/)
 * [Ihr übt Kritik gegen die Polizei? Tja, dann wird das Gesetzt so hingebogen, dass die Polizeigewalt machen kann was sie will ... den durch die Kritik bring "[...] unmittelbare Gefahr für die öffentliche Sicherheit und Ordnung mit sich [...]"](https://blog.fefe.de/?ts=a5c21bd4)
+* [Was kann die Blockpartei am besten? Geld ausgeben für Dinge die die Welt nicht braucht, heute ... mehr Geld für Wafffen.](https://blog.fefe.de/?ts=a5c3b4d8) - Geliefert wird natürlich nichts, weil nie etwas marktreif entwickelt wird.
+* [Ein guter Tag für Europa, knapp aber gescheitert ... das Leistungsschutzrecht ist gescheitert!](https://blog.fefe.de/?ts=a5c33b90)
+* [Gimp wurde in der Version 2.10.4 veröffentlicht.](https://www.pro-linux.de/news/1/26064/gimp-2104-mit-kleinen-neuerungen.html)
