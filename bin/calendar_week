@@ -56,7 +56,7 @@ function release_current_calendar_week
     if [[ $# -ne 2 ]];
     then
         echo ":: Invalid number of arguments provided."
-        echo "   ${FUNCNAME[0]}: <string: absolute pathrelease_current_calendar_week to the current calendar week year> <string: file name of the current calendar week draft> <string: file name of the current calendar week>"
+        echo "   ${FUNCNAME[0]}: <string: absolute path to the current calendar week year> <string: file name of the current calendar week draft> <string: file name of the current calendar week>"
 
         return 1
     fi
@@ -81,6 +81,7 @@ function release_current_calendar_week
         git mv "${FILE_NAME_OF_THE_CURRENT_CALENDAR_WEEK_DRAFT}" "${FILE_NAME_OF_THE_CURRENT_CALENDAR_WEEK}"
     fi
 
+    cd -
     echo "   done."
 }
 
