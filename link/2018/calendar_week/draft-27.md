@@ -31,3 +31,8 @@
 * [Hier gibt es ein Rezept wir ihr selber Vanille-Aroma herstellen könnt.](https://www.smarticular.net/vanilleextrakt-selber-machen-essenz-rezept-alkohol/)
 * [So, so, dem BND gehören also deutsche Firmen im Ausland.](https://blog.fefe.de/?ts=a5c1b2af)
 * [Domainfactory hat der Cloud Daten geschenkt.](https://blog.fefe.de/?ts=a5c1b1a2)
+* [Heilpflanze des Monats Juli: Kleine Weidenröschen.](https://bio-erzgebirge.de/wp/?p=15494)
+* [Vulkan wurde in der Version 1.1.80 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=Vulkan-1.1.80-Released)
+* [Wow, sogar eine EU-Studie, die veröffentlicht wurde, sagt, dass Pestizide nachteilig sind, um die Welt zu ernähren. Nebenbei wird auch noch erwähnt wie viele Krankheiten solche Pestizide erzeugen.](https://netzfrauen.org/2018/07/07/pestizide-3/)
+* [Die Polizei in Dortmund möchte wohl auch keine Unterstützung mehr vom CCC haben - dort wurde auch, im Schatten der neuen Freifahrtsscheingesetze für die Polizei, "pro forma" mal ein paar Hausdurchsuchungen gemacht.](https://www.ccc.de/de/updates/2018/unrechtmaige-hausdurchsuchung-polizei-reitet-erneut-beim-chaos-computer-club-ein) - Ach ja, den Schaden, den die Polizei anrichtet muss der Geschädigkte immer selber bezahlen, außer die Polizei gibt zu, dass sie mit Vorsatz und Absicht falsch gehandelt hat.
+* [Frostpunk scheint mit Wine und DXVK unter Linux zu laufen? :O](https://www.youtube.com/watch?v=AehPQvoyPjM)
