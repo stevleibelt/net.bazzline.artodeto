@@ -53,7 +53,7 @@ function create_next_calendar_week
 ####
 function release_current_calendar_week
 {
-    if [[ $# -ne 2 ]];
+    if [[ $# -ne 3 ]];
     then
         echo ":: Invalid number of arguments provided."
         echo "   ${FUNCNAME[0]}: <string: absolute path to the current calendar week year> <string: file name of the current calendar week draft> <string: file name of the current calendar week>"
