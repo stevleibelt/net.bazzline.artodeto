@@ -1,0 +1,12 @@
+* [Das Bundesverfassungsgericht könnte der CDU/CSU nicht mehr einstimmig folgen? Tja, dann hält sich die CDU/CSU an keine Abmachung mehr.](https://blog.fefe.de/?ts=a5bcb70f) - Wo würde das auch hinführen, wenn das Bundesverfassungsgericht auf einmal Politik für das Volk macht?
+* [Wow, die Milchpulvermafia ist so krass, die will lieber einen Krieg in Ecuador als dass die UNO sich offen für das natürliche und gesündere Stillen von Kindern stark macht.](https://blog.fefe.de/?ts=a5bcb0de) - Wie krank ist das bitteschön?
+* [Lol, "Hack" wie man ein Kindle "epub" beibringt ... nennt die Datei von ".epub" in ".png" um.](https://blog.fefe.de/?ts=a5bca9fd)
+* [*Öhm*, dass hier müsst ihr selber lesen um die Denkweise der Superreichen zu verstehen.](https://blog.fefe.de/?ts=a5bcf866) - Die machen sich wirklich nur Gedanken um *ihre* eigene Zukunft. Mein Beileid für deren Kinder - ihr werdet wohl geopfert, wenn es sich anbietet und "lohnt".
+* [Tag der Bergbau-Schauanlagen auf dem Gelände der Himmelfahrt Fundgrube in Freiberg](https://www.youtube.com/watch?v=v8APQy6z9_Q)
+* [Richtfest in der Agricola Schule in Freiberg](https://www.youtube.com/watch?v=qa1lX7dfZKU)
+* [Antivirus Live CD wurde in der Version 26 veröffentlicht.](https://www.pro-linux.de/news/1/26069/antivirus-live-cd-26-ver%C3%B6ffentlicht.html)
+* [Es wird euch überraschen dass es ohne Chemie aus der Industrie geht ;-) - Extreme Dürre - kommt jetzt genmanipulierter Mais auf Deutsche Äcker? Ein kalifornischer Landwirt hat eine Methode ohne Genmanipulation gefunden, Nutzpflanzen in Dürregebieten anzubauen!](https://netzfrauen.org/2018/07/09/duerre/) - Ein langer Text der sich lohnt.
+* [>>[...] Dabei gibt das IMU auch an, wie sich die Schere entwickelt hat. Seit 2005 sollen die Vorstandsgehälter und die Angestelltengehälter demnach um weitere 70 % auseinandergegangen sein. [...]<<](https://www.neopresse.com/finanzsystem/deutsche-wirklichkeit-vorstand-kassiert-gehaltsabstand-zu-mitarbeitern-immer-groesser/)
+* [>>Wir sind nicht länger Willens, der Flugzeugträger der Amerikaner zu sein<<](https://weltnetz.tv/video/1537-wir-sind-nicht-laenger-willens-der-flugzeugtraeger-der-amerikaner-zu-sein)
+* [Master-Master-Replikation mit InnoDB-Cluster? Hier gibt es den ersten von drei Schritten.](https://www.percona.com/blog/2018/07/09/innodb-cluster-in-a-nutshell-part-1/)
+* [Arm merkt auch das RISC-V ein richtig geiles Stück Hardware ist und fängt an es mit Schmutz zu bewerfen.](https://blog.fefe.de/?ts=a5bda6b9)
