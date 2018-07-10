@@ -10,3 +10,9 @@
 * [>>Wir sind nicht länger Willens, der Flugzeugträger der Amerikaner zu sein<<](https://weltnetz.tv/video/1537-wir-sind-nicht-laenger-willens-der-flugzeugtraeger-der-amerikaner-zu-sein)
 * [Master-Master-Replikation mit InnoDB-Cluster? Hier gibt es den ersten von drei Schritten.](https://www.percona.com/blog/2018/07/09/innodb-cluster-in-a-nutshell-part-1/)
 * [Arm merkt auch das RISC-V ein richtig geiles Stück Hardware ist und fängt an es mit Schmutz zu bewerfen.](https://blog.fefe.de/?ts=a5bda6b9)
+* [Der Iran möchte gerade 300 Millionen Euro aus Deutschland abheben.](https://blog.fefe.de/?ts=a5bd7d25)
+* [Kolumbien hat den aktuell weltweit größten Tropenwald-Nationalpark geschaffen.](http://www.sonnenseite.com/de/umwelt/kolumbien-schafft-weltgroessten-tropenwald-nationalpark.html)
+* [Hier gibt es ein Rezept wie ihr Apfelessig selber macht.](https://www.smarticular.net/apfelessig-und-anderen-fruchtessig-ganz-einfach-selbst-herstellen/)
+* [JEFTA wird noch geheimer verhandelt als CETA oder TTIP.](https://blog.fefe.de/?ts=a5ba60e0) - Mal wieder Schiedsgerichte und die Privatisierung der Wasserversorgung.
+* [iptables wurde in der Version 1.8 veröffentlicht und nutzt intern teilweise schon nftables.](https://www.pro-linux.de/news/1/26076/iptables-18-mit-neuen-nftables-basierten-varianten.html) - Ein sehr gutes Beispiel von egoless programming haben wir hier. nftables ist schneller als iptables, also bietet man einen wrapper an wo es geht.
+* [Wenn die S-Bahn in Berlin wie gewohnt zu spät kommt, wird sie zukünfig einfach Stationen auslassen, damit sie wieder pünktlich ist.](https://blog.fefe.de/?ts=a5ba6386) - Pech für den, der Ein- oder Aussteigen will.
