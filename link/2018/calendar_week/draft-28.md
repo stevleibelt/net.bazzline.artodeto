@@ -16,3 +16,6 @@
 * [JEFTA wird noch geheimer verhandelt als CETA oder TTIP.](https://blog.fefe.de/?ts=a5ba60e0) - Mal wieder Schiedsgerichte und die Privatisierung der Wasserversorgung.
 * [iptables wurde in der Version 1.8 veröffentlicht und nutzt intern teilweise schon nftables.](https://www.pro-linux.de/news/1/26076/iptables-18-mit-neuen-nftables-basierten-varianten.html) - Ein sehr gutes Beispiel von egoless programming haben wir hier. nftables ist schneller als iptables, also bietet man einen wrapper an wo es geht.
 * [Wenn die S-Bahn in Berlin wie gewohnt zu spät kommt, wird sie zukünfig einfach Stationen auslassen, damit sie wieder pünktlich ist.](https://blog.fefe.de/?ts=a5ba6386) - Pech für den, der Ein- oder Aussteigen will.
+* [Welt-im-Wandel.TV - Die Welt anders sehen. Das verborgene Wissen über Heilpflanzen - Im Einklang mit Himmel und Erde](https://www.welt-im-wandel.tv/video/das-verborgene-wissen-ueber-heilpflanzen-im-einklang-mit-himmel-und-erde/)
+* [Volle Krankenhäuser? Tja, ein Nachteil davon sind viele Todesfälle durch die vielen Infektionen im Krankenhaus.](https://www.neopresse.com/gesellschaft/40-000-todesfaelle-in-krankenhaeusern-durch-infektionen/)
+* [Ghostery blendet jetzt frech Werbung von der Konkurenz ein.](https://blog.fefe.de/?ts=a5ba01c3)
