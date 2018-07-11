@@ -21,3 +21,9 @@
 * [Welt-im-Wandel.TV - Die Welt anders sehen. Das verborgene Wissen über Heilpflanzen - Im Einklang mit Himmel und Erde](https://www.welt-im-wandel.tv/video/das-verborgene-wissen-ueber-heilpflanzen-im-einklang-mit-himmel-und-erde/)
 * [Volle Krankenhäuser? Tja, ein Nachteil davon sind viele Todesfälle durch die vielen Infektionen im Krankenhaus.](https://www.neopresse.com/gesellschaft/40-000-todesfaelle-in-krankenhaeusern-durch-infektionen/)
 * [Ghostery blendet jetzt frech Werbung von der Konkurenz ein.](https://blog.fefe.de/?ts=a5ba01c3)
+* [Hier](https://mirror.fvz.io/media.ccc.de/events/cosin/2018/h264-hd/cosin-107-deu-wirtschaft_hacken_hd.mp4) gibt es einen Vortrag vom [premium-kollektiv](http://www.premium-kollektiv.de) wie sie die Wirtschaft hacken. Sehr interessant, vor allem was die Einstellung zwischen Arbeitgeber und Arbeitnehmer angeht.
+* [Schöner Vortrag: Tor als öffentliches, kostenloses VPN um den eigenen Server zuhause hinter NAT zu erreichen](http://noone.org/talks/tor/)
+* [Was ist PEP? Es nutzt vorhandene Technologien und vereinfacht das Verschlüsseln indem es die "Best Practices" in Quelltext umsetzt.](https://mirror.fvz.io/media.ccc.de/events/cosin/2018/h264-hd/cosin-119-deu-Lasst_uns_Massenverschluesselung_ausrollen_hd.mp4)
+* [Ach ja, das Cypherpunks Manifesto sollte man auf dem Rechner haben und wenigst einmal durchgelesen haben sollte.](https://duckduckgo.com/?q=cypherpunks+manifesto&ia=web)
+* [Fakenews, oder doch real und einfach nur Wirtschafssubvention vom Politiker der sich verkauft hat? #IchHabDenAssi](https://tuxproject.de/blog/2018/07/assistolz/)
+* [Was braucht es eigentlich alles so um ein eigenes Datacenter zu bauen?](https://mirror.fvz.io/media.ccc.de/events/cosin/2018/h264-hd/cosin-101-deu-Building_data_centers_for_fun_and_profit_hd.mp4)
