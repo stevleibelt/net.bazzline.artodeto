@@ -16,3 +16,5 @@
 * [JEFTA wird noch geheimer verhandelt als CETA oder TTIP.](https://blog.fefe.de/?ts=a5ba60e0) - Mal wieder Schiedsgerichte und die Privatisierung der Wasserversorgung.
 * [iptables wurde in der Version 1.8 veröffentlicht und nutzt intern teilweise schon nftables.](https://www.pro-linux.de/news/1/26076/iptables-18-mit-neuen-nftables-basierten-varianten.html) - Ein sehr gutes Beispiel von egoless programming haben wir hier. nftables ist schneller als iptables, also bietet man einen wrapper an wo es geht.
 * [Wenn die S-Bahn in Berlin wie gewohnt zu spät kommt, wird sie zukünfig einfach Stationen auslassen, damit sie wieder pünktlich ist.](https://blog.fefe.de/?ts=a5ba6386) - Pech für den, der Ein- oder Aussteigen will.
+* [XEN wurde in der Version 4.11 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=Xen-4.11-Released)
+* [Malware nun auch im arch linux AUR repository gefunden :-(.](https://lwn.net/Articles/759461)
