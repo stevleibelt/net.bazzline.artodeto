@@ -18,3 +18,6 @@
 * [Wenn die S-Bahn in Berlin wie gewohnt zu spät kommt, wird sie zukünfig einfach Stationen auslassen, damit sie wieder pünktlich ist.](https://blog.fefe.de/?ts=a5ba6386) - Pech für den, der Ein- oder Aussteigen will.
 * [XEN wurde in der Version 4.11 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=Xen-4.11-Released)
 * [Malware nun auch im arch linux AUR repository gefunden :-(.](https://lwn.net/Articles/759461)
+* [Welt-im-Wandel.TV - Die Welt anders sehen. Das verborgene Wissen über Heilpflanzen - Im Einklang mit Himmel und Erde](https://www.welt-im-wandel.tv/video/das-verborgene-wissen-ueber-heilpflanzen-im-einklang-mit-himmel-und-erde/)
+* [Volle Krankenhäuser? Tja, ein Nachteil davon sind viele Todesfälle durch die vielen Infektionen im Krankenhaus.](https://www.neopresse.com/gesellschaft/40-000-todesfaelle-in-krankenhaeusern-durch-infektionen/)
+* [Ghostery blendet jetzt frech Werbung von der Konkurenz ein.](https://blog.fefe.de/?ts=a5ba01c3)
