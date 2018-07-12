@@ -27,3 +27,7 @@
 * [Ach ja, das Cypherpunks Manifesto sollte man auf dem Rechner haben und wenigst einmal durchgelesen haben sollte.](https://duckduckgo.com/?q=cypherpunks+manifesto&ia=web)
 * [Fakenews, oder doch real und einfach nur Wirtschafssubvention vom Politiker der sich verkauft hat? #IchHabDenAssi](https://tuxproject.de/blog/2018/07/assistolz/)
 * [Was braucht es eigentlich alles so um ein eigenes Datacenter zu bauen?](https://mirror.fvz.io/media.ccc.de/events/cosin/2018/h264-hd/cosin-101-deu-Building_data_centers_for_fun_and_profit_hd.mp4)
+* [Yoshimi Live auf der Linux Audio Conference 2018.](https://ftp.fau.de/cdn.media.ccc.de/events/lac/lac18/h264-hd/lac18-4-eng-Yoshimi_Live_hd.mp4)
+* [SELinux: 42 Antworten auf die größten Fragen.](https://opensource.com/article/18/7/sysadmin-guide-selinux)
+* [Die Blockpartei aka Bundesregierung kann dem Steuerzahler leider nicht die Firmen nennen, die hinter dem Volksverachtenden Staatstrojaner stecken. Die Begründung dafür? Die Firmen würden sich schlecht fühlen wenn man sie mit de, Staatstrojaner in Verbindung bringt.](https://blog.fefe.de/?ts=a5b9f43b)
+* [Wie schlecht sind "Stored Procedures", "Trigger" und "Functions" eigentlich für die MySQL-Performance? So schlecht.](https://www.percona.com/blog/2018/07/12/why-mysql-stored-procedures-functions-triggers-bad-performance/)
