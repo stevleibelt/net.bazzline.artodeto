@@ -54,3 +54,4 @@
 * [webshit weekly ist diese Woche so gut, dass ich sie komplett verlinken muss.](http://n-gate.com/hackernews/2018/07/14/0/)
 * [System-Design-Primer.](https://github.com/donnemartin/system-design-primer)
 * [[...] Und die NATO ist eine militärische Allianz auf der Suche nach einer Mission. [...]](https://www.maskenfall.de/?p=12707)
+* [Wo ist überall Krebs drinne?](https://netzfrauen.org/2018/07/15/triclosan/)
