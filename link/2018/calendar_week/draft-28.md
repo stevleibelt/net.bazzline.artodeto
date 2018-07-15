@@ -50,3 +50,7 @@
 * [>>Müdigkeit, Erschöpfung & Schlafstörung – Wie man Ursachen erkennt und Symptome behandelt<<](https://www.welt-im-wandel.tv/video/muedigkeit-erschoepfung-und-schlafstoerung-wie-man-ursachen-erkennt-und-symptome-behandelt/)
 * [Warhammer 40,000: Gladius - Relics of War, gibt es für Linux am Tag 0 :-)))](https://www.pro-linux.de/news/1/26086/warhammer-40000-gladius-relics-of-war-erschienen.html)
 * [DJing mit FLOSS? Hier gibt es einen Workshop dazu.](https://ftp.fau.de/cdn.media.ccc.de/events/lac/lac18/h264-hd/lac18-7-eng-Djing_with_FLOSS_Mixxx_Workshop_hd.mp4)
+* [Mozilla schraubt da an einen Av1 Encoder.](https://www.phoronix.com/scan.php?page=news_item&px=RAV1E-Rust-Safe-Fast-AV1)
+* [webshit weekly ist diese Woche so gut, dass ich sie komplett verlinken muss.](http://n-gate.com/hackernews/2018/07/14/0/)
+* [System-Design-Primer.](https://github.com/donnemartin/system-design-primer)
+* [[...] Und die NATO ist eine militärische Allianz auf der Suche nach einer Mission. [...]](https://www.maskenfall.de/?p=12707)
