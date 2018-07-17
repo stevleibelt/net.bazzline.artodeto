@@ -8,3 +8,4 @@
 * [Slackware ist 25 Jahre alt geworden :-).](https://opensource.com/article/18/7/stackware-turns-25)
 * [Johnson & Johnson muss 4 Milliarden Euro Strafe zahlen, weil 22 Frauen in den USA auf Schadensersatz geklagt haben. Der Grund? Eierstockkrebs dank eines kosmetischen Puders.](https://www.neopresse.com/gesellschaft/pharmakonzern-erhaelt-milliardenstrafe-pflegeprodukte-verursachten-krebs/) - Krass finde ich ja, dass das Produkt nicht direkt genannt wird.
 * [An die "Christen" in der Blockpartei, eure Politik verursacht sowas wie hier.](https://netzfrauen.org/2018/07/17/zuwara/) - Ich hoffe ihr könnt Nachts gut schlafen.
+* [>>Was gibt’s Neues in Sachen Faire Computer?<<](https://cdn.media.ccc.de/events/fiffkon/2015/h264-hd/fiffkon15-3-deu-Was_gibts_Neues_in_Sachen_Faire_Computer_hd.mp4)
