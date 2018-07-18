@@ -9,3 +9,7 @@
 * [Johnson & Johnson muss 4 Milliarden Euro Strafe zahlen, weil 22 Frauen in den USA auf Schadensersatz geklagt haben. Der Grund? Eierstockkrebs dank eines kosmetischen Puders.](https://www.neopresse.com/gesellschaft/pharmakonzern-erhaelt-milliardenstrafe-pflegeprodukte-verursachten-krebs/) - Krass finde ich ja, dass das Produkt nicht direkt genannt wird.
 * [An die "Christen" in der Blockpartei, eure Politik verursacht sowas wie hier.](https://netzfrauen.org/2018/07/17/zuwara/) - Ich hoffe ihr könnt Nachts gut schlafen.
 * [>>Was gibt’s Neues in Sachen Faire Computer?<<](https://cdn.media.ccc.de/events/fiffkon/2015/h264-hd/fiffkon15-3-deu-Was_gibts_Neues_in_Sachen_Faire_Computer_hd.mp4)
+* [Dieter Schneider gibt am 22.08.2018 ein Seminar >>Homöopathie für Fortgeschrittene<<.](https://www.heilpraktiker-fg.de/2018/08/22/hom%C3%B6opathie-f%C3%BCr-fortgeschrittene/)
+* [Nextcloud Talk für Android wurde in der Version 2.1 veröffentlicht.](https://nextcloud.com/blog/nextcloud-talk-android-2.1-app-is-out/)
+* [OwnCloud wurde in der Version 10.0.9 veröffentlicht.](https://www.pro-linux.de/news/1/26101/owncloud-1009-verbessert-passwort-richtlinie-und-pending-shares.html)
+* [addons.thunderbird.net ist jetzt die richtige Stelle für Erweiterungen rund um den Donnervogel.](https://www.pro-linux.de/news/1/26104/erweiterungen-f%C3%BCr-thunderbird-und-seamonkey-jetzt-auf-eigener-seite.html)
