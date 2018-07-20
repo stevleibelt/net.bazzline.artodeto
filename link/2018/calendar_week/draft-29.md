@@ -24,3 +24,7 @@
 * [Master-Master-Replikation mit InnoDB-Cluster? Hier gibt es den zweiten von drei Schritten.](https://www.percona.com/blog/2018/07/16/innodb-cluster-in-a-nutshell-part-2-mysql-router/)
 * [Master-Master-Replikation mit InnoDB-Cluster? Hier gibt es den dritten von drei Schritten.](https://www.percona.com/blog/2018/07/20/innodb-cluster-in-a-nutshell-part-3-mysql-shell/)
 * [Intel, die Firma die jedes Jahr mehr Gewinn einfährt als andere Staaten erwirtschaften, hat mal wieder schlampige Anfängerfehler in *all* ihren CPU's.](https://blog.fefe.de/?ts=a5af25e7) - Ihr wisst schon, die freie Hand des Marktes richtet sowas ... würde doch nie jemand so schlampig arbeiten und so.
+* [Nein? Doch! Oh? Die deutschen Autobauer haben sich auch sonst bei so ziemlich allen abgesprochen um gegen alles zu sein, was ihre Kunden länger leben lassen könnte.](https://blog.fefe.de/?ts=a5af32ef)
+* [100 GroKo? Schulnote 6 ist die Note dafür.](https://www.neopresse.com/politik/dach/zwischenzeugnis-in-der-groko-schlechte-noten-nach-100-tagen/)
+* [>>Lösungen für ein gesundes Leben – Alles was Du wissen musst! – Robert Franz spricht Klartext<<](https://www.welt-im-wandel.tv/video/loesungen-fuer-ein-gesundes-leben-alles-was-du-wissen-musst-robert-franz-spricht-klartext/)
+* [Die USA gehen straff weiter in Richtung Cyberpunk-Zukunft - Domino's Pizza macht Straßen ganz, da sie sonst ihre Kunden verlieren.](https://blog.fefe.de/?ts=a5acd2f3)
