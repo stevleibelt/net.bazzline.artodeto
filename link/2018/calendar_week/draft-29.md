@@ -28,3 +28,7 @@
 * [100 GroKo? Schulnote 6 ist die Note dafür.](https://www.neopresse.com/politik/dach/zwischenzeugnis-in-der-groko-schlechte-noten-nach-100-tagen/)
 * [>>Lösungen für ein gesundes Leben – Alles was Du wissen musst! – Robert Franz spricht Klartext<<](https://www.welt-im-wandel.tv/video/loesungen-fuer-ein-gesundes-leben-alles-was-du-wissen-musst-robert-franz-spricht-klartext/)
 * [Die USA gehen straff weiter in Richtung Cyberpunk-Zukunft - Domino's Pizza macht Straßen ganz, da sie sonst ihre Kunden verlieren.](https://blog.fefe.de/?ts=a5acd2f3)
+* [DXVK wurde in der Version 0.63 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=DXVK-0.63-Released)
+* [>>Aktuelles im Netzwerk MiteinanderSein Juli/August 2018 ERZGEBIRGE<<](https://bio-erzgebirge.de/wp/?p=15611)
+* [>>Aktuelles im Netzwerk MiteinanderSein Juli/August 2018 Chemnitz<<](https://bio-erzgebirge.de/wp/?p=15386)
+* [NetBSD wurde in der Version 8.0 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=NetBSD-8.0-Officially-Released)
