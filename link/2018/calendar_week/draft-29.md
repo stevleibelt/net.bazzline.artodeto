@@ -32,3 +32,6 @@
 * [>>Aktuelles im Netzwerk MiteinanderSein Juli/August 2018 ERZGEBIRGE<<](https://bio-erzgebirge.de/wp/?p=15611)
 * [>>Aktuelles im Netzwerk MiteinanderSein Juli/August 2018 Chemnitz<<](https://bio-erzgebirge.de/wp/?p=15386)
 * [NetBSD wurde in der Version 8.0 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=NetBSD-8.0-Officially-Released)
+* [Europa, die Vielvölkergemeinschaft die Frieden haben möchte? Iwo, scheiß auf Geschichte, hauptsache wir können jedes Jahr immer mehr Waffen exportieren.](https://www.neopresse.com/europa/eu-ruestungsexporte-ein-glaenzendes-geschaeft/)
+* [1948 hat man im übrigen die allgemeine Erklärung der Menschenechte verkündet ... so richtig viel ist davon nicht mehr übrig.](https://www.maskenfall.de/?p=12726)
+* [In Badenwürtenberg reagiert auch nur der Filz und die Industrie, statt kleine und klimaneutrale Wasserkraftwerke zu schützen, sollen diese Enteignet werden und die Stromproduktion in die Hand der EnBW zentralisiert werden.](http://www.sonnenseite.com/de/politik/kalte-enteignung-bewa-776hrter-mittelsta-776ndler.html) - Gewinne privatisieren, Verluste sozialisieren ... da nimmt sich die Öko-CDU nichts von ihrer Mutterblockpartei.
