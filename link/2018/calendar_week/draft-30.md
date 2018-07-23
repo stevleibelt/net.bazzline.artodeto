@@ -1,0 +1,2 @@
+* [Indien ist ökologischer als Deutschland, während wir hier dem US-amerikansichen Größenwahn nachhängen und unsere Umwelt und damit uns und Generationen nach uns vergiften, macht Iden einfach ökologische und nachhaltige Landwirtschaft.](https://netzfrauen.org/2018/07/23/organic-2/)
+* [Nextcloud wurde in der Version 13.0.5 veröffentlicht.](https://nextcloud.com/blog/nextcloud-13.0.5-and-12.0.10-secure-and-stabilize-your-server/)
