@@ -5,3 +5,6 @@
 * [*Huch*, Datenreichtum von Automobilbauern ... wie praktisch und was für ein Zufall, dass dies genau jetzt passiert.](https://blog.fefe.de/?ts=a5a885c9)
 * [Interessante Denkrichtung wegen Özil, der Junge macht einfach das, wass ihm seine Berater vorschlagen, weil er in der Türkei noch Geld verdienen kann.](https://blog.fefe.de/?ts=a5a88af2)
 * [Nein? Doch! Oh? Da braucht es teure Berater die einen dann sagen, dass es in großen Städten an Grünflächen, offenen Gewässern und weniger Beton brauchen.](http://www.sonnenseite.com/de/umwelt/so-passen-sich-staedte-an-die-hitze-an.html)
+* [Nicht nur in NRW, sondern im ganzen Bundesgebiet ... marode Straßen und Marode Wasserstraßen.](https://blog.fefe.de/?ts=a5a9ed74)
+* [Und schau, auch in den "reichen Geberländern" regiert der Filz und das Geld versickert irgendwo, in Badenwürtenberg darf man im Sommer nicht schnell auf der Autobahn fahren, weil die Straßen so alt und marode sind, dass spontane Schmelzlöscher entstehen können.](https://blog.fefe.de/?ts=a5a9ebd8)
+* [Lol, mal wieder wurde an den Gesetzen der Mutter Natur rumgedreht um zu "optimieren" ... das Resultat, elf Babies sind im Mutterleib gestorben, elf Frauen seelisch verstümmelt.](https://blog.fefe.de/?ts=a5a9e897) - Und das nur, weil bekloppte Supersoldaten züchten wollen.
