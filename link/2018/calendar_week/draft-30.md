@@ -16,3 +16,4 @@
 * [Gesperrt wegen Hitze, jetzt auch der Flughafen in Hannover.](https://blog.fefe.de/?ts=a5a9bf8f)
 * [Von >>Star Ruler 2<< wurde der Quelltext veröffentlicht und unter die MIT-Lizenze gestellt - Danke!](https://www.pro-linux.de/news/1/26124/star-ruler-2-im-quellcode-ver%C3%B6ffentlicht.html)
 * [Nahrung oder Benzin? Die Frage stellt sich so langsam weltweit.](https://netzfrauen.org/2018/07/25/getreide/)
+* [>>Verfassungsbeschwerde gegen den Staatstrojaner - für sichere und vertrauenswürdige IT<<](https://aktion.digitalcourage.de/kein-staatstrojaner)
