@@ -5,3 +5,8 @@
 * [*Huch*, Datenreichtum von Automobilbauern ... wie praktisch und was für ein Zufall, dass dies genau jetzt passiert.](https://blog.fefe.de/?ts=a5a885c9)
 * [Interessante Denkrichtung wegen Özil, der Junge macht einfach das, wass ihm seine Berater vorschlagen, weil er in der Türkei noch Geld verdienen kann.](https://blog.fefe.de/?ts=a5a88af2)
 * [Nein? Doch! Oh? Da braucht es teure Berater die einen dann sagen, dass es in großen Städten an Grünflächen, offenen Gewässern und weniger Beton brauchen.](http://www.sonnenseite.com/de/umwelt/so-passen-sich-staedte-an-die-hitze-an.html)
+* [Textricator - oder wie man einfach Daten aus Dokumenten holt.](https://opensource.com/article/18/7/textricator)
+* [Ein Bucktipp >>Robin Dreeke - The Code of Trust<<.](https://opensource.com/open-organization/18/7/code-of-trust)
+* [Wolltet ihr schon immer mal ein NAS mit einem Raspberry PI bauen?](https://opensource.com/article/18/7/network-attached-storage-Raspberry-Pi)
+* [>>Neoliberaler Faschismus: Hinter der liberalen Fassade lauert die Diktatur<<.](https://npr.news.eulu.info/2018/07/24/neoliberaler-faschismus-hinter-der-liberalen-fassade-lauert-die-diktatur/)
+* [Ohne Austerität (also die schwarze Null, wie unser Rollstuhlattentäter und Volksverachter aus der Blockpartei gern hätte) geht es echt gut - hier am Beispiel Portugals.](https://blog.fefe.de/?ts=a5a9d423) - Einzig die armen Konzerne gehen leerer aus, nur das lästige Volk gewinnt bei der Sache - also nichts, was die ARD gut finden wird.
