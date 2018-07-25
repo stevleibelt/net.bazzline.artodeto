@@ -10,3 +10,9 @@
 * [Wolltet ihr schon immer mal ein NAS mit einem Raspberry PI bauen?](https://opensource.com/article/18/7/network-attached-storage-Raspberry-Pi)
 * [>>Neoliberaler Faschismus: Hinter der liberalen Fassade lauert die Diktatur<<.](https://npr.news.eulu.info/2018/07/24/neoliberaler-faschismus-hinter-der-liberalen-fassade-lauert-die-diktatur/)
 * [Ohne Austerität (also die schwarze Null, wie unser Rollstuhlattentäter und Volksverachter aus der Blockpartei gern hätte) geht es echt gut - hier am Beispiel Portugals.](https://blog.fefe.de/?ts=a5a9d423) - Einzig die armen Konzerne gehen leerer aus, nur das lästige Volk gewinnt bei der Sache - also nichts, was die ARD gut finden wird.
+* [Nicht nur in NRW, sondern im ganzen Bundesgebiet ... marode Straßen und Marode Wasserstraßen.](https://blog.fefe.de/?ts=a5a9ed74)
+* [Und schau, auch in den "reichen Geberländern" regiert der Filz und das Geld versickert irgendwo, in Badenwürtenberg darf man im Sommer nicht schnell auf der Autobahn fahren, weil die Straßen so alt und marode sind, dass spontane Schmelzlöscher entstehen können.](https://blog.fefe.de/?ts=a5a9ebd8)
+* [Lol, mal wieder wurde an den Gesetzen der Mutter Natur rumgedreht um zu "optimieren" ... das Resultat, elf Babies sind im Mutterleib gestorben, elf Frauen seelisch verstümmelt.](https://blog.fefe.de/?ts=a5a9e897) - Und das nur, weil bekloppte Supersoldaten züchten wollen.
+* [Gesperrt wegen Hitze, jetzt auch der Flughafen in Hannover.](https://blog.fefe.de/?ts=a5a9bf8f)
+* [Von >>Star Ruler 2<< wurde der Quelltext veröffentlicht und unter die MIT-Lizenze gestellt - Danke!](https://www.pro-linux.de/news/1/26124/star-ruler-2-im-quellcode-ver%C3%B6ffentlicht.html)
+* [Nahrung oder Benzin? Die Frage stellt sich so langsam weltweit.](https://netzfrauen.org/2018/07/25/getreide/)
