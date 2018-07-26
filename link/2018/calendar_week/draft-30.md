@@ -17,3 +17,6 @@
 * [Von >>Star Ruler 2<< wurde der Quelltext veröffentlicht und unter die MIT-Lizenze gestellt - Danke!](https://www.pro-linux.de/news/1/26124/star-ruler-2-im-quellcode-ver%C3%B6ffentlicht.html)
 * [Nahrung oder Benzin? Die Frage stellt sich so langsam weltweit.](https://netzfrauen.org/2018/07/25/getreide/)
 * [>>Verfassungsbeschwerde gegen den Staatstrojaner - für sichere und vertrauenswürdige IT<<](https://aktion.digitalcourage.de/kein-staatstrojaner)
+* [Endlich, der europäische Gerichtshof sagt, dass die Genschere Gentechnik ist - kein palaver mehr!](http://www.sonnenseite.com/de/politik/wichtiges-urteil-genscheren-sind-gentechnik.html)
+* [Betsy DeVos, die Bildungsministerin von Trump, wird auch nur den sozialen Auftrag im Kopf haben, wo ihre Familie doch 10 Jachten besitzt.](https://blog.fefe.de/?ts=a5a7056f) - Die [unsichtbare Hand](https://de.wikipedia.org/wiki/Unsichtbare_Hand) des freien Marktes würde jetzt argumentieren: "Die ist so reich, die wird ihre Macht nicht ausnutzen wollen."
+* [DomainFactory kann es nicht und setzt nun auf Schlangenöl.](https://blog.fefe.de/?ts=a5a71041)
