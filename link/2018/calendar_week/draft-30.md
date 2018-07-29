@@ -44,3 +44,4 @@
 * [Wow, über 220 KG Verpackungsmüll pro Jahr und Kopf, dass ist die traurige Wahrheit über Deutschland.](http://www.sonnenseite.com/de/umwelt/verpackungsverbrauch-in-deutschland-weiterhin-sehr-hoch.html)
 * [Lieber mehr lokale Ünterstüzung statt Kindergeld für Familien?](https://www.neopresse.com/europa/eu-konstruktion-betrug-oder-fair-der-kindergeldtourismus/)
 * [Wow, die Berliner Polizei hat den Tod in kauf genommen um jemanden verhaften zu können.](https://blog.fefe.de/?ts=a5a2b4f1) - Wir sind halt doch nicht alle gleich von dem Gesetz, oder die Polizei ist nicht das Gesetz.
+* [Virt-Manager wurde in der Version 7.0 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=Virt-Viewer-7.0-Released)
