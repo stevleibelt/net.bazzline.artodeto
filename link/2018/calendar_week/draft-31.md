@@ -1,6 +1,6 @@
 * [So kommt das große Deutsche Reich doch ... dank dem Bruder Frankreich in Form einer "antipopulistische" Fraktion, gegründet von Macron.](https://www.heise.de/tp/features/Macron-plant-neue-antipopulistische-Fraktion-im-Europaparlament-4122499.html) - Ach ja und der Turbokapitalismus ist auch mit dabei.
 * [Ab dem 01.08.2018 verbraucht die Menschheit mehr als Mutter Natur pro Jahr erzeugen kann.](http://www.sonnenseite.com/de/umwelt/erdueberlastungstag-deutschland-wirtschaftet-als-gaebe-es-drei-erden.html)
-* [>>Seit 2005 dürfen Behörden Konten von Bürgern ermitteln, seit 2013 auch Gerichtsvollzieher.<<](https://blog.fefe.de/?ts=a5a00c4d) - Danke Fefe, 2017 wurden 692.166 Abfragen durchgeführt.
+* [>>Seit 2005 dürfen Behörden Konten von Bürgern ermitteln, seit 2013 auch Gerichtsvollzieher.<<](https://blog.fefe.de/?ts=a5a00c4d) - Danke Fefe, 2017 wurden 692.166 Abfragen durchgeführt. - [Hier noch ein Nachtrag vom Fefe.](https://blog.fefe.de/?ts=a5a1f990)
 * [Gaby Weber benötigt wieder eine kleine Spende von euch. Fefe fast zusammen, was Gaby bisher erreicht hat.](https://blog.fefe.de/?ts=a5a01eef)
 * [Oha, zun Flug MH370 sagt man jetzt, dass wohl jemand die Instrumente manipuliert haben muss.](https://blog.fefe.de/?ts=a5a02565)
 * [Lasst man die Augen auf wenn es um das Thema Grundsteuer geht. Die Blockpartei möchte die jetzt erhöhen und dank ihrem Hebesatz ist das immer mehr als die Medien erzählen werden.](https://de.wikipedia.org/wiki/Grundsteuer_(Deutschland))
