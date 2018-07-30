@@ -6,3 +6,4 @@
 * [Lasst man die Augen auf wenn es um das Thema Grundsteuer geht. Die Blockpartei möchte die jetzt erhöhen und dank ihrem Hebesatz ist das immer mehr als die Medien erzählen werden.](https://de.wikipedia.org/wiki/Grundsteuer_(Deutschland))
 * [Interessant, der Bahnhof in Stuttgart und der Flughafen am Rande von Berlin wird gebaut, damit Immobilenmakler das Grundstück verkaufen können weil das Großkapital nichts mehr findet womit sie immer mehr Zinsen "erwirtschaften" können.](https://www.neopresse.com/wirtschaft/warum-die-grossprojekte-wie-stuttgart-21-und-berliner-flughafen-absichtlich-ein-milliardengeschaeft-sind/)
 * [Netbeans wurde in der Version 9.0 veröffentlicht.](https://www.pro-linux.de/news/1/26140/netbeans-90-erschienen.html)
+* [Am 06.08.2018 geht digital courage mit dem Radio LORA auf Sendung.](https://digitalcourage.de/blog/2018/digitalcourage-pilotsendung-bei-radio-lora)
