@@ -11,3 +11,8 @@
 * [>>The package manager for Windows - Chocolatey - Software Management Automation<<](https://chocolatey.org/)
 * [OpenWM wurde in der Version 0.44 veröffentlicht.](https://www.pro-linux.de/news/1/26142/openmw-044-mit-zahlreichen-neuerungen.html)
 * [IPFire wurde in der Version 2.21 Core Update 122 veröffentlicht.](https://www.pro-linux.de/news/1/26144/ipfire-221-aktualisiert-den-kernel.html)
+* [Schau an, wenig überraschend hat die Staatsanwaltschaft die Ermittlungen gegen die Politiker aber gleichem Filz zum Thema Stuttgart 21 eingestellt.](https://blog.fefe.de/?ts=a59e6054)
+* [OPNsense wurde in der Version 18.7 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=OPNsense-18.7-Released)
+* [Schade, statt die Erweiterungen in Gnome weiter zu kapseln, damit sie Gnome nicht kaputt machen können, wollen sie sich lieber von JavaScript trennen.](https://www.phoronix.com/scan.php?page=news_item&px=GNOME-Shell-JS-Exts-Problems) - Keine Debatte ob JavaScript gut oder schlecht ist, nur dass eine Ertweitung niemals das System kaputt machen (maximal langsam machen, gell Feuerfuchs? :-D).
+* [>>ADHS ist keine Krankheit: Gehirnforscher sagt die Wahrheit - Prof. Dr. Gerald Hüther<<](https://www.welt-im-wandel.tv/video/adhs-ist-keine-krankheit-gehirnforscher-sagt-die-wahrheit/)
+* [OpenWRT wurde in der Version 18.06 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=OpenWRT-18.06-Released)
