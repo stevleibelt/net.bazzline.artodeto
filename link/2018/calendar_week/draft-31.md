@@ -16,3 +16,6 @@
 * [Schade, statt die Erweiterungen in Gnome weiter zu kapseln, damit sie Gnome nicht kaputt machen können, wollen sie sich lieber von JavaScript trennen.](https://www.phoronix.com/scan.php?page=news_item&px=GNOME-Shell-JS-Exts-Problems) - Keine Debatte ob JavaScript gut oder schlecht ist, nur dass eine Ertweitung niemals das System kaputt machen (maximal langsam machen, gell Feuerfuchs? :-D).
 * [>>ADHS ist keine Krankheit: Gehirnforscher sagt die Wahrheit - Prof. Dr. Gerald Hüther<<](https://www.welt-im-wandel.tv/video/adhs-ist-keine-krankheit-gehirnforscher-sagt-die-wahrheit/)
 * [OpenWRT wurde in der Version 18.06 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=OpenWRT-18.06-Released)
+* [Nette Idee, in München überlegt das Volk, ob man Klimaschutz in die Verfassung schreiben kann und möchte dies via Volksbegehren umsetzen.](http://www.sonnenseite.com/de/politik/volksbegehren-klimaschutz-in-die-verfassung-angekuendigt.html)
+* [>>Aktuelles im Netzwerk Freiberg für August<<](https://bio-erzgebirge.de/wp/?p=15737)
+* [Hier gibt es eine Anleitung wie ihr viel Obst, Gemüse und auch Kräuter selber vermehren könnt.](https://www.careelite.de/lebensmittel-vermehren-nachwachsen-lassen/)
