@@ -30,3 +30,4 @@
 * [Die katholische Kirche ist jetzt gegen die Todesstrafe.](https://blog.fefe.de/?ts=a59dcfc7)
 * [Die Bürgerdatenbank in Indien mit dem Namen Aadhaar ist da, der Telekom-Chef gab seine eindeutige ID raus und schnell gemerkt, wie kacke so eine zentrale Datenbank ist und wie schnell die misbraucht wird.](https://blog.fefe.de/?ts=a59dd2e3)
 * [Die Inflation geht im Siebenmeilenstiefel voran und Apple wird an der Börse jetzt mit einer Billionen US-Dollar gelistet.](https://blog.fefe.de/?ts=a59dea8f)
+* [Githooks?](https://github.com/rycus86/githooks)
