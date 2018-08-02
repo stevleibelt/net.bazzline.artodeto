@@ -24,3 +24,9 @@
 * [>>Neues MITEINANDERSEIN Magazin Sachsen August-Oktober 2018 ist erschienen<<](https://bio-erzgebirge.de/wp/?p=15766)
 * [Ab dem 02.08.2018 verbrauchen wir im aktuellen Zustand mehr Ressourcen als die Erde jemals liefern könnte.](https://netzfrauen.org/2018/08/02/earth-overshoot-day/) - Im Moment verbrauchen wir 1,7 Erden.
 * [Griechenland zeigt den sozialen Weg von Europa, da wurden die staatlichen Gesundheitsausgaben mal eben halbiert.](https://www.maskenfall.de/?p=12739)
+* [Pro-Linux testet browsh.](https://www.pro-linux.de/artikel/2/1941/browsh-textbasiertes-browsen-im-terminal.html) - [Browsh Tastenkürzel](https://www.brow.sh/docs/keybindings/)
+* [Aria2 - der schnelle und unkomplizierte Downloadmanager.](https://aria2.github.io/)
+* [cmus - schneller und einfacher Musikabspieler auf der Kommandozeile.](https://cmus.github.io/)
+* [Die katholische Kirche ist jetzt gegen die Todesstrafe.](https://blog.fefe.de/?ts=a59dcfc7)
+* [Die Bürgerdatenbank in Indien mit dem Namen Aadhaar ist da, der Telekom-Chef gab seine eindeutige ID raus und schnell gemerkt, wie kacke so eine zentrale Datenbank ist und wie schnell die misbraucht wird.](https://blog.fefe.de/?ts=a59dd2e3)
+* [Die Inflation geht im Siebenmeilenstiefel voran und Apple wird an der Börse jetzt mit einer Billionen US-Dollar gelistet.](https://blog.fefe.de/?ts=a59dea8f)
