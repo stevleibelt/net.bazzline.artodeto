@@ -19,3 +19,8 @@
 * [Nette Idee, in München überlegt das Volk, ob man Klimaschutz in die Verfassung schreiben kann und möchte dies via Volksbegehren umsetzen.](http://www.sonnenseite.com/de/politik/volksbegehren-klimaschutz-in-die-verfassung-angekuendigt.html)
 * [>>Aktuelles im Netzwerk Freiberg für August<<](https://bio-erzgebirge.de/wp/?p=15737)
 * [Hier gibt es eine Anleitung wie ihr viel Obst, Gemüse und auch Kräuter selber vermehren könnt.](https://www.careelite.de/lebensmittel-vermehren-nachwachsen-lassen/)
+* [Hier könnt ihr lesen, was diesen Monat so spannendes bei Arch Linux passiert ist.](https://vdwaa.nl/arch-monthly-july.html)
+* [>>Heilpflanze des Monats August: Baldrian<<](https://bio-erzgebirge.de/wp/?p=15751)
+* [>>Neues MITEINANDERSEIN Magazin Sachsen August-Oktober 2018 ist erschienen<<](https://bio-erzgebirge.de/wp/?p=15766)
+* [Ab dem 02.08.2018 verbrauchen wir im aktuellen Zustand mehr Ressourcen als die Erde jemals liefern könnte.](https://netzfrauen.org/2018/08/02/earth-overshoot-day/) - Im Moment verbrauchen wir 1,7 Erden.
+* [Griechenland zeigt den sozialen Weg von Europa, da wurden die staatlichen Gesundheitsausgaben mal eben halbiert.](https://www.maskenfall.de/?p=12739)
