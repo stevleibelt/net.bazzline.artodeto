@@ -31,3 +31,7 @@
 * [Die Bürgerdatenbank in Indien mit dem Namen Aadhaar ist da, der Telekom-Chef gab seine eindeutige ID raus und schnell gemerkt, wie kacke so eine zentrale Datenbank ist und wie schnell die misbraucht wird.](https://blog.fefe.de/?ts=a59dd2e3)
 * [Die Inflation geht im Siebenmeilenstiefel voran und Apple wird an der Börse jetzt mit einer Billionen US-Dollar gelistet.](https://blog.fefe.de/?ts=a59dea8f)
 * [Githooks?](https://github.com/rycus86/githooks)
+* [Schön gewartet bis die Fussball-WM zu Ende ist - In Argentinien hat ein illegaler Geldfahrer Buch geführt.](https://blog.fefe.de/?ts=a59dad23)
+* [Nein? Doch! Oh? - Fracking verschmutzt auch die Luft.](https://blog.fefe.de/?ts=a59daba6) - Wie soll man auch darauf kommen, dass die Luft verschmutzt wird wenn man unter hydraulischen Druck Gesteine und Lagerstätten öffnet und dabei verschlossene Gase freisetzt.
+* [Herstellung von Hanföl in der Dörnthaler Ölmühl - die älteste produzierende Ölmühl in Deutschland.](https://www.youtube.com/watch?v=6ivikY1GrDo)
+* [Warum ist Wasser bald Mangelware? Weil die reichsten der Reichen ihr Profit erhöhen und damit Spekulieren.](https://netzfrauen.org/2018/08/03/wasser-3/) - Blutgeld Freunde, diese Art der Gelderschaffung nennt man Blutgeld.
