@@ -36,3 +36,5 @@
 * [Herstellung von Hanföl in der Dörnthaler Ölmühl - die älteste produzierende Ölmühl in Deutschland.](https://www.youtube.com/watch?v=6ivikY1GrDo)
 * [Warum ist Wasser bald Mangelware? Weil die reichsten der Reichen ihr Profit erhöhen und damit Spekulieren.](https://netzfrauen.org/2018/08/03/wasser-3/) - Blutgeld Freunde, diese Art der Gelderschaffung nennt man Blutgeld.
 * [LineageOS fragt erneut seine Nutzer was sie brauchen.](https://www.pro-linux.de/news/1/26159/lineageos-startet-zweite-umfrage.html)
+* [So lügt die Blockpartei mit den Leitmedien zusammen, da werden aus realen 1000 Euro mal eben 2400 Euro Netto bei einem alleinerziehenden Haushalt.](https://www.neopresse.com/gesellschaft/wie-statistik-luegt-alleinerziehende-werden-reich-gerechnet/)
+* [DXVK wurde in der Version 0.64 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=DXVK-0.64-Released)
