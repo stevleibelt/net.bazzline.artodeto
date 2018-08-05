@@ -41,3 +41,7 @@
 * [Geoengineering kann man gedanklich wohl direkt mit Fracking gleichsetzen, ist kacke.](http://www.sonnenseite.com/de/politik/geoengineering-buechse-der-pandora.html)
 * [Die christlich und soziale Blockpartei möchte den Fleischwolf wieder hochfahren und die Wehrpflicht wieder einführen.](https://blog.fefe.de/?ts=a598fe3d) - Ihr wisst schon, Grenzraumverteidigung am Hindukusch und so.
 * [>>The Messenger<< ist kein Film über Gott sondern über die Vögel und wie man an denen erkennen kann wie kaputt wir unsere Ökosystem schon gemacht haben.](http://www.sonnenseite.com/de/tipps/der-filmtipp-the-messenger.html) - Für Leute, die sich mit Insekten beschäftigen nichts besonderes aber dennoch immer wieder gut zu sehen wie viele Hinweise uns Mutter Natur gibt.
+* [>>Unser täglich Brot<< und was sich so alles für Chemiepampe in der Industrienahrung befindet.](https://netzfrauen.org/2018/08/05/lebensmittel-5/)
+* [Hier wird euch gezeigt wie ihr mit Hausmitteln euren Pool sauber halten könnt.](https://www.smarticular.net/hausmittel-fuer-den-swimming-pool-damit-chemie-bomben-im-laden-bleiben-koennen/)
+* [Nein? Doch! Oh? Es ist wohl doch nicht so motivierend, wenn Menschen mehr von Angst angetrieben werden.](https://blog.fefe.de/?ts=a59821ae)
+* [>>about:config<< und dort >>network.trr.mode<< auf >>5<< setzen.](https://blog.fefe.de/?ts=a598205d) - Für mehr Information könnt ihr [hier](https://wiki.mozilla.org/Trusted_Recursive_Resolver) nachschauen.
