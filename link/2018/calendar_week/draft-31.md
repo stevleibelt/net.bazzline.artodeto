@@ -38,3 +38,6 @@
 * [LineageOS fragt erneut seine Nutzer was sie brauchen.](https://www.pro-linux.de/news/1/26159/lineageos-startet-zweite-umfrage.html)
 * [So lügt die Blockpartei mit den Leitmedien zusammen, da werden aus realen 1000 Euro mal eben 2400 Euro Netto bei einem alleinerziehenden Haushalt.](https://www.neopresse.com/gesellschaft/wie-statistik-luegt-alleinerziehende-werden-reich-gerechnet/)
 * [DXVK wurde in der Version 0.64 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=DXVK-0.64-Released)
+* [Geoengineering kann man gedanklich wohl direkt mit Fracking gleichsetzen, ist kacke.](http://www.sonnenseite.com/de/politik/geoengineering-buechse-der-pandora.html)
+* [Die christlich und soziale Blockpartei möchte den Fleischwolf wieder hochfahren und die Wehrpflicht wieder einführen.](https://blog.fefe.de/?ts=a598fe3d) - Ihr wisst schon, Grenzraumverteidigung am Hindukusch und so.
+* [>>The Messenger<< ist kein Film über Gott sondern über die Vögel und wie man an denen erkennen kann wie kaputt wir unsere Ökosystem schon gemacht haben.](http://www.sonnenseite.com/de/tipps/der-filmtipp-the-messenger.html) - Für Leute, die sich mit Insekten beschäftigen nichts besonderes aber dennoch immer wieder gut zu sehen wie viele Hinweise uns Mutter Natur gibt.
