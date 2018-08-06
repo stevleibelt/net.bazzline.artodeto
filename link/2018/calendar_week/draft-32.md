@@ -7,3 +7,6 @@
 * [Der US-amerikanische Finanzdienstleister Wells Fargo hat "ausversehen" hunderte "low incoming" Kunden durch einen "Computerfehler" um ihr Eigenheim betrogen.](https://blog.fefe.de/?ts=a596ec5e) - Und wenn es kein Computerfehler war, dann die Russen mit einen Cyberhack.
 * [Nein? Doch! Oh? - Twitter-Tweets werden bewusst oder unbewusst so ausgespielt, dass die Blockpartei immer gut da steht.](https://propagandaschau.wordpress.com/2018/08/06/aufstehen-und-die-politischen-manipulationen-bei-twitter/)
 * [Thunderbird wurde in der Version 60 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=Thunderbird-60-Released)
+* [Android wurde in der Version 9 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=Android-9-Pie)
+* [Fefe geht es wie mir, Humble Bundle geht einen auf den Geist.](https://blog.fefe.de/?ts=a5969c37)
+* [Und Cloudflare nervt mittlerweile auch vollständig und Jeden.](https://blog.fefe.de/?ts=a5965118)
