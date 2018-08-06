@@ -1,0 +1,9 @@
+* [Nein? Doch! Oh? Versiegelter Boden, sprich Beton, ist ebenfalls ein Grund für die stetig ansteigende Hitze.](http://www.sonnenseite.com/de/umwelt/die-fortschreitende-bodenversiegelung-ist-auch-ein-grund-fuer-hitze12681.html) - Hätte uns das nur jemand vorher gesagt, dass dieser weiche, feuchte und Lebende Boden unter unseren Füßen für etwas nutze ist.
+* [>>Welcome to Sodom<< - wenn ihr euch ein wenig für die Frage "Wo landet eigentlich der ganze Müll, den wir hinterlasen" interessert.](http://www.sonnenseite.com/de/tipps/welcome-to-sodom.html)
+* [Falls ihr euren Chefs argumentieren müsst, warum Daten nicht auf andere Leuts Computer aka Cloud gehören, hilft euch der Artikel hier.](https://opensource.com/article/18/8/data-risky-cloud)
+* [TensorFlow läuft jetzt auch offiziell auf eure Raspberry Pi's.](https://www.pro-linux.de/news/1/26162/tensorflow-offiziell-f%C3%BCr-raspberry-pi-unterst%C3%BCtzt.html)
+* [Zeit für neue Plasterouter, WPA2-PSK ist wohl gebrochen worden.](https://blog.fefe.de/?ts=a596f33f)
+* [20 Lenovo Geräte können nun auch mittels >>fwupdmgr<< (LVFS aktualisiert werden.](https://www.pro-linux.de/news/1/26163/lenovo-erm%C3%B6glicht-automatische-firmware-upgrades-per-lvfs.html)
+* [Der US-amerikanische Finanzdienstleister Wells Fargo hat "ausversehen" hunderte "low incoming" Kunden durch einen "Computerfehler" um ihr Eigenheim betrogen.](https://blog.fefe.de/?ts=a596ec5e) - Und wenn es kein Computerfehler war, dann die Russen mit einen Cyberhack.
+* [Nein? Doch! Oh? - Twitter-Tweets werden bewusst oder unbewusst so ausgespielt, dass die Blockpartei immer gut da steht.](https://propagandaschau.wordpress.com/2018/08/06/aufstehen-und-die-politischen-manipulationen-bei-twitter/)
+* [Thunderbird wurde in der Version 60 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=Thunderbird-60-Released)
