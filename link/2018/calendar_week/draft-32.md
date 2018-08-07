@@ -16,3 +16,6 @@
 * [Hier hat jemand die Vorteile vom I3-WM zusammengefasst - mit deutlich mehr Begeisterung als ich es mit meinem "Er tuts" ausdrücken könnte ;-).](https://opensource.com/article/18/8/i3-tiling-window-manager)
 * [Pro Wasserflasche verbraucht man knapp 250 ml Erdöl - kein fairer Deal, wenn ihr mich fragt.](https://www.neopresse.com/umwelt/aufgedeckt-warum-wasserflaschen-unser-leben-vernichten/)
 * [Hier gibt es zwei schöne GWAK-Skripte die "Smart Quotes" erzeugen. Euch wird gezeigt wie man Text abararbeitet und wie man "dumme Skripte" schreibt und sie zu "schlauen Skripten" kombiniert.](https://opensource.com/article/18/8/gawk-script-convert-smart-quotes)
+* [Dart wurde in der Version 2.0 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=Dart-2.0-Stable-Released)
+* [Xorg-Server wurde in der Version 1.20.1 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=Xorg-Server-1.20.1-Released)
+* [Drecks Programme die drecks Electron nutzen laufen mit der neusten GLibc aktuell nicht unter Arch Linux.](https://bugs.archlinux.org/task/59550)
