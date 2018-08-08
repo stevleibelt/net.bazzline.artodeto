@@ -18,4 +18,11 @@
 * [Hier gibt es zwei schöne GWAK-Skripte die "Smart Quotes" erzeugen. Euch wird gezeigt wie man Text abararbeitet und wie man "dumme Skripte" schreibt und sie zu "schlauen Skripten" kombiniert.](https://opensource.com/article/18/8/gawk-script-convert-smart-quotes)
 * [Dart wurde in der Version 2.0 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=Dart-2.0-Stable-Released)
 * [Xorg-Server wurde in der Version 1.20.1 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=Xorg-Server-1.20.1-Released)
-* [Drecks Programme die drecks Electron nutzen laufen mit der neusten GLibc aktuell nicht unter Arch Linux.](https://bugs.archlinux.org/task/59550)
+* [Die Blockpartei wie sie leibt und lebt, raus aus der Kohle, aber nur für kleine Firmen. Die großen Kraftwerksbetreiber, die für den meisten Dreck zuständig sind, bekommen Sondergenehmigungen.](http://www.sonnenseite.com/de/wirtschaft/ausnahmeentscheidungen-fuer-kohlekraftwerke-in-baden-wuerttemberg-sind-ein-desaster-fuer-den-naturschutz.html)
+* [Eure private Rentenversicherung wird zu 50 Prozent vor der Rente gekündigt. Die Versicherungsfirmen machen mit euren Rentenversicherung 90 Milliarden Euro Gewinn, jedes Jahr.](http://www.niewiederkrieg.eu/?p=763)
+* [Hier gibt es eine Liste von fünf Rollenspiele die es für Linux gibt.](https://opensource.com/article/18/8/role-playing-games-linux)
+* [Ach Mozilla, was macht ihr nun schon wieder? Mit Laserlike wird ein "Experiment" gestartet um mal wieder an eure Daten zu kommen und euch mit Werbung zu nerven.](https://www.pro-linux.de/news/1/26171/mozilla-legt-neues-test-pilot-experiment-auf.html)
+* [Microsoft aktzeptiert jetzt auch die Zertifikate von "Let's Encrypt".](https://www.pro-linux.de/news/1/26170/lets-encrypt-zertifikate-weitgehend-anerkannt.html)
+* [Die Blockpartei will Niedersachsen zum zweiten Bayern machen ... nicht wirtschaftlich aber von der alles überschattenden Polizeigewalt aus. Die Polizei darf immer alles.](https://www.ccc.de/de/updates/2018/staatstrojaner-in-niedersachsen-stellungnahme-des-ccc-zum-polizeigesetz)
+* [Hier hat sich mal Jemand hingesetzt und ordentlich über die aktuellen Desktop-Anwendungen abgeranzt.](https://brandur.org/interfaces) - Danke [hirnfick 2.0](https://tuxproject.de/blog/2018/08/leider-geduldig/).
+* [LibreOffice wurde in der Version 6.1 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=LibreOffice-6.1-Release-Day) - LibreOffice hat wirklich schöne [Release-Notes](https://wiki.documentfoundation.org/ReleaseNotes/6.1).
