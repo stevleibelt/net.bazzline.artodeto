@@ -31,3 +31,7 @@
 * [Und hier ist jemand so gut und zeigt euch die ersten Schritte um einen Postfix aufzusetzen.](https://opensource.com/article/18/8/postfix-open-source-mail-transfer-agent)
 * [DXVK kann jetzt mit einer Konfigurationsdatei pro Anwendung umgehen.](https://www.phoronix.com/scan.php?page=news_item&px=DXVK-Per-Game-Configs)
 * [Hier gibt es ein Rezept wie du Sesammus selber machen kannst.](https://www.smarticular.net/tahin-selber-machen-tahina-tahini-sesammus-nussmus-mixer/)
+* [Nein? Doch! Oh? - Cortana ist ein großes und unsicheres Loch.](https://blog.fefe.de/?ts=a5929a89)
+* [GNU/Ring wurde in der Version 3.0 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=Ring-KDE-3.0-Released)
+* [[...] Denn die alten Sorten sind viel widerstandsfähiger, ertragreicher, gesünder und schmecken viel besser, als die gezüchtete Massenware, die es aus Gewächshäusern gibt. [...] Bis ins 20. Jahrhundert züchteten Bauern und Gärtner ihr Saatgut noch selbst und gaben es von Generation zu Generation weiter. [...]](https://www.neopresse.com/gesellschaft/gaertner-und-bauern-als-schwerkriminelle-weil-sie-alte-obst-und-gemuesesorten-anbauen/)
+* [Ohjeh, immer mehr Industrienarhung wird zurück gerufen weil es vergiftet ist.](https://netzfrauen.org/2018/08/09/rueckrufe/)
