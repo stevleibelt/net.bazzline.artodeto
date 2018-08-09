@@ -26,3 +26,8 @@
 * [Die Blockpartei will Niedersachsen zum zweiten Bayern machen ... nicht wirtschaftlich aber von der alles überschattenden Polizeigewalt aus. Die Polizei darf immer alles.](https://www.ccc.de/de/updates/2018/staatstrojaner-in-niedersachsen-stellungnahme-des-ccc-zum-polizeigesetz)
 * [Hier hat sich mal Jemand hingesetzt und ordentlich über die aktuellen Desktop-Anwendungen abgeranzt.](https://brandur.org/interfaces) - Danke [hirnfick 2.0](https://tuxproject.de/blog/2018/08/leider-geduldig/).
 * [LibreOffice wurde in der Version 6.1 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=LibreOffice-6.1-Release-Day) - LibreOffice hat wirklich schöne [Release-Notes](https://wiki.documentfoundation.org/ReleaseNotes/6.1).
+* [Wow, Frankfurt am Main hatte diesen Sommer bisher eine *Durchschnittstemperatur* von 30,06 Grad Celsius.](http://www.sonnenseite.com/de/umwelt/hitzesommer-2018-in-dieser-stadt-war-der-juli-am-heissesten.html)
+* [Unittest in Python mit Hamcrest? Hier wird euch gezeigt wie das geht.](https://opensource.com/article/18/8/robust-unit-tests-hamcrest)
+* [Und hier ist jemand so gut und zeigt euch die ersten Schritte um einen Postfix aufzusetzen.](https://opensource.com/article/18/8/postfix-open-source-mail-transfer-agent)
+* [DXVK kann jetzt mit einer Konfigurationsdatei pro Anwendung umgehen.](https://www.phoronix.com/scan.php?page=news_item&px=DXVK-Per-Game-Configs)
+* [Hier gibt es ein Rezept wie du Sesammus selber machen kannst.](https://www.smarticular.net/tahin-selber-machen-tahina-tahini-sesammus-nussmus-mixer/)
