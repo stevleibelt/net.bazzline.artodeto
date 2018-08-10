@@ -35,3 +35,5 @@
 * [GNU/Ring wurde in der Version 3.0 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=Ring-KDE-3.0-Released)
 * [[...] Denn die alten Sorten sind viel widerstandsfähiger, ertragreicher, gesünder und schmecken viel besser, als die gezüchtete Massenware, die es aus Gewächshäusern gibt. [...] Bis ins 20. Jahrhundert züchteten Bauern und Gärtner ihr Saatgut noch selbst und gaben es von Generation zu Generation weiter. [...]](https://www.neopresse.com/gesellschaft/gaertner-und-bauern-als-schwerkriminelle-weil-sie-alte-obst-und-gemuesesorten-anbauen/)
 * [Ohjeh, immer mehr Industrienarhung wird zurück gerufen weil es vergiftet ist.](https://netzfrauen.org/2018/08/09/rueckrufe/)
+* [Knot DNS wurde in der Version 2.7.0 veröffentlicht.](https://www.pro-linux.de/news/1/26182/knot-dns-270-verbessert-die-sicherheit.html)
+* [Mozilla stellt eine Liste von Firefox-Erweiterungen vor, die sich um eure Privatsphäre kümmern.](https://www.pro-linux.de/news/1/26183/mozilla-stellt-add-ons-f%C3%BCr-den-schutz-der-privatsph%C3%A4re-vor.html)
