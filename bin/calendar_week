@@ -67,6 +67,8 @@ function release_current_calendar_week
 
     echo ":: Release current calendar week."
 
+    echo "   absolute path to the current calendar week year >>${ABSOLUTE_PATH_TO_THE_CURRENT_CALENDAR_WEEK_YEAR}<<" >> ${FILE_NAME_OF_THE_DEBUG_LOG}
+
     if [[ ! -d "${ABSOLUTE_PATH_TO_THE_CURRENT_CALENDAR_WEEK_YEAR}" ]];
     then
         /usr/bin/env mkdir -p "${ABSOLUTE_PATH_TO_THE_CURRENT_CALENDAR_WEEK_YEAR}"
@@ -76,8 +78,8 @@ function release_current_calendar_week
 
     if [[ -f "${FILE_NAME_OF_THE_CURRENT_CALENDAR_WEEK_DRAFT}" ]];
     then
-        echo "   ${FILE_NAME_OF_THE_CURRENT_CALENDAR_WEEK_DRAFT}"
-
+        echo "   filename of the current calendar week draft >>${FILE_NAME_OF_THE_CURRENT_CALENDAR_WEEK_DRAFT}<<" >> ${FILE_NAME_OF_THE_DEBUG_LOG}
+        echo "   filename of the current calendar week>>${FILE_NAME_OF_THE_CURRENT_CALENDAR_WEEK}<<" >> ${FILE_NAME_OF_THE_DEBUG_LOG}
         git mv "${FILE_NAME_OF_THE_CURRENT_CALENDAR_WEEK_DRAFT}" "${FILE_NAME_OF_THE_CURRENT_CALENDAR_WEEK}"
     fi
 
@@ -104,11 +106,15 @@ function updating_soft_link
 
     echo ":: Updating soft link."
 
+    echo "   file name of the current soft link>>${FILE_NAME_OF_THE_CURRENT_SOFT_LINK}<<" >> ${FILE_NAME_OF_THE_DEBUG_LOG}
+
     if [[ -f "${FILE_NAME_OF_THE_CURRENT_SOFT_LINK}" ]];
     then
+        echo "   removing >>${FILE_NAME_OF_THE_CURRENT_SOFT_LINK}<<" >> ${FILE_NAME_OF_THE_DEBUG_LOG}
         rm "${FILE_NAME_OF_THE_CURRENT_SOFT_LINK}"
     fi
 
+        echo "   creating softlink >>${FILE_NAME_OF_THE_CURRENT_SOFT_LINK}<< for >>${RELATIVE_PATH_TO_THE_NEXT_CALENDAR_WEEK}<<" >> ${FILE_NAME_OF_THE_DEBUG_LOG}
     ln -s "${RELATIVE_PATH_TO_THE_NEXT_CALENDAR_WEEK}" "${FILE_NAME_OF_THE_CURRENT_SOFT_LINK}"
 
     echo "   done."
@@ -130,6 +136,7 @@ RELATIVE_PATH_TO_THE_CALENDAR_WEEK="link/${CURRENT_YEAR}/calendar_week"
 
 FILE_NAME_OF_THE_CURRENT_CALENDAR_WEEK_DRAFT=draft-${CURRENT_CALENDAR_WEEK}.md
 FILE_NAME_OF_THE_CURRENT_CALENDAR_WEEK=${CURRENT_CALENDAR_WEEK}.md
+FILE_NAME_OF_THE_DEBUG_LOG="debug.log"
 FILE_NAME_OF_THE_NEXT_CALENDAR_WEEK=draft-${NEXT_CALENDAR_WEEK}.md
 ABSOLUTE_PATH_TO_THE_CURRENT_CALENDAR_WEEK_YEAR="${ABSOLUTE_PATH_OF_THE_ROOT}/${RELATIVE_PATH_TO_THE_CALENDAR_WEEK}"
 #end of dependencies
@@ -139,15 +146,21 @@ ABSOLUTE_PATH_TO_THE_CURRENT_CALENDAR_WEEK_YEAR="${ABSOLUTE_PATH_OF_THE_ROOT}/${
 # @todo - put all into a main function to not polute the global name space
 cd "${ABSOLUTE_PATH_OF_THE_ROOT}"
 
+echo ":: Start of run" > ${FILE_NAME_OF_THE_DEBUG_LOG}
+echo ":: Start of >>release_current_calendar_week<<" >> ${FILE_NAME_OF_THE_DEBUG_LOG}
 release_current_calendar_week "${ABSOLUTE_PATH_TO_THE_CURRENT_CALENDAR_WEEK_YEAR}" "${FILE_NAME_OF_THE_CURRENT_CALENDAR_WEEK_DRAFT}" "${FILE_NAME_OF_THE_CURRENT_CALENDAR_WEEK}"
 
 cd "${ABSOLUTE_PATH_TO_THE_CURRENT_CALENDAR_WEEK_YEAR}"
 
+echo ":: Start of >>create_next_calendar_week<<" >> ${FILE_NAME_OF_THE_DEBUG_LOG}
 create_next_calendar_week "${FILE_NAME_OF_THE_NEXT_CALENDAR_WEEK}"
 
 cd "${ABSOLUTE_PATH_OF_THE_ROOT}"
 
+echo ":: Start of >>updating_soft_link<<" >> ${FILE_NAME_OF_THE_DEBUG_LOG}
 updating_soft_link "${FILE_NAME_OF_THE_CURRENT_SOFT_LINK}" "${RELATIVE_PATH_TO_THE_CALENDAR_WEEK}/${FILE_NAME_OF_THE_NEXT_CALENDAR_WEEK}"
+
+echo ":: Finished of run" >> ${FILE_NAME_OF_THE_DEBUG_LOG}
 
 cd "${CURRENT_WORKING_DIRECTORY}"
 #end of business logic
