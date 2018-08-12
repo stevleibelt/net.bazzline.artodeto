@@ -50,3 +50,9 @@
 * [Liebes Planet 3DNow!, viel Glück beim Umzug auf Das Boot 3.0.](https://www.planet3dnow.de/cms/39627-intern-planet-3dnow-zieht-auf-den-neuen-epyc-server/)
 * [Nein? Doch! Oh? - Das Bayrische "Polizeigesetz" gegen das eigene Volk und für mehr "Big Brother" überall soll "überraschenderwiese" auf ganz Deutschland ausgerollt werden.](https://www.neopresse.com/politik/wird-umstrittenes-bayerisches-polizeigesetz-mustervorlage-fuer-ganz-deutschland/)
 * [In den USA will jemand eine Papierbatterie entwickelt haben.](http://www.sonnenseite.com/de/umwelt/papierbatterie-ist-biologisch-abbaubar.html)
+* [Die gute Gaby Weber hat einen neuen Film veröffentlicht: >>Wie Monsanto seine Risiken auf Bayer abwälzte<<.](https://www.youtube.com/watch?v=k9FStdsAeJY) - Danke [Fefe](https://blog.fefe.de/?ts=a58e882f).
+* [*Hmm* gruselige Gedanken warum China keine 1-Kind-Politik mehr haben will ... wird es bald Krieg geben?](https://blog.fefe.de/?ts=a58e894b)
+* [Dürrobst oder "Smoothies", all das könnt ihr mit Obst machen wenn es nicht mehr schön ausschaut.](https://www.smarticular.net/ueberreifes-obst-verwerten-ideen-rezepte-zero-waste/)
+* [Krebs? Etwaig hilft der absolute und radikale Verzicht auf Industriezucker?](https://www.neopresse.com/essenundtrinken/alternatives-heilmittel-bei-krebs-einfach-auf-zucker-verzichten/)
+* [DXVK wurde in der Version 0.65 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=DXVK-0.65-Released)
+* [Oh, in Sachsen kommt die Polizei jetzt auch vorbei, wenn jemand verdächtig ausschaut.](https://blog.fefe.de/?ts=a58ec915)
