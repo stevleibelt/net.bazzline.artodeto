@@ -19,3 +19,7 @@
 * [Und mal ein Lied von der Dich-Röhre: Joyner Lucas - I'm Not Racist](https://www.youtube.com/watch?v=43gm3CJePn0) - Schade, dass man das Lied nicht auf CD kaufen kann.
 * [TLS 1.3 ist nun fertig - mit 0-RTT und damit ohne Forward Security :-(.](https://www.pro-linux.de/news/1/26194/standardisierung-von-tls-13-abgeschlossen.html)
 * [Wow, nun sind auch schon Fax-Geräte mit einem Fax zu hacken.](https://blog.fefe.de/?ts=a58c0ae2)
+* [Wisst ihr auf was das Volk seit der 1919 wartet? Gleichstellung der Religion und Weltanschauung und Ablösung der Staatsleistungen gegenüber der Kirche.](https://tuxproject.de/blog/2018/08/99-jahre-freiheitsentzug/)
+* [In Arch Linux nennt sich "packer" jetzt "packer-aur".](https://bbs.archlinux.org/viewtopic.php?id=239570)
+* [Harfenklänge für das Seelenheil? Hier gibt es mehr.](https://www.welt-im-wandel.tv/video/heilende-frequenzen-musik-zum-ausklang-des-lebens/)
+* [Europa verbraucht sein Wasser für die Fleisch- und Milchproduktion - und dort wo wir kein Fleisch oder Milch "anbauen", da ist gerade Dürre.](https://netzfrauen.org/2018/08/14/duerre-2/) - Toll diese "dort soll es jetzt Tomaten geben"-EU-Subvention und -Regelung ohne Hirn.
