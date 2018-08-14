@@ -1,3 +1,4 @@
 * [Ohjeh, die Eltern sind die Süchtigen - Süchtig nach "Ich will mein Kind immer erreichen können".](https://tuxproject.de/blog/2018/08/smombies-ue18/) - Wenn man mit solchen Eltern redet und erzählt, dass man als Kind früher um acht gegangen und gegen 19 Uhr wieder gekommen ist, kriegen die nen halben Herzinfakt.
 * [DXVK jetzt mit Direct3D 10 API Unterstützung.](https://www.phoronix.com/scan.php?page=news_item&px=DXVK-Merges-Direct3D-10)
 * [Glückwunsch liebes Planet 3DNow, herzlichen Glückwunsch zum neuen Boot.](https://www.planet3dnow.de/cms/39660-intern-planet-3dnow-laeuft-auf-neuem-epyc-server/)
+* [Arch Linux: wenn ihr keinen Bock habt gcc-gcj zu kompelieren, nehmt statt pdftk lieber pdftk-bin.](https://aur.archlinux.org/packages/pdftk/)
