@@ -23,3 +23,11 @@
 * [In Arch Linux nennt sich "packer" jetzt "packer-aur".](https://bbs.archlinux.org/viewtopic.php?id=239570)
 * [Harfenklänge für das Seelenheil? Hier gibt es mehr.](https://www.welt-im-wandel.tv/video/heilende-frequenzen-musik-zum-ausklang-des-lebens/)
 * [Europa verbraucht sein Wasser für die Fleisch- und Milchproduktion - und dort wo wir kein Fleisch oder Milch "anbauen", da ist gerade Dürre.](https://netzfrauen.org/2018/08/14/duerre-2/) - Toll diese "dort soll es jetzt Tomaten geben"-EU-Subvention und -Regelung ohne Hirn.
+* [Na da wird die Milliardenindustrie was dagegen haben, Deutschlandweite Elektro-Ladestationen in Bürgerhand? Wo kämen wir denn da hin, wenn das Geld in der Region bliebe und kein Konzern die Zinseszinsen der Superreichen erwirtschaften könnte?](http://www.sonnenseite.com/de/energie/bundesweites-e-ladenetz-in-buergerhand-mit-oekostrom.html)
+* [IPsec's Verfahren zum Schlüsselaustausch ist wohl kaputt.](https://blog.fefe.de/?ts=a58d816f)
+* [Dürre überall und was machen die großen Konzerne? Die Pumpen weiter Wasser aus den Tiefen.](https://www.neopresse.com/essenundtrinken/grosskonzerne-pumpen-trotz-duerre-katastrophen-wasser-ab-coca-cola-und-nestle-uebermaechtig/)
+* [OpenVPN's Verfahren zum Schlüsselaustausch ist wohl kaputt.](https://blog.fefe.de/?ts=a58ae55d)
+* [Intel CPU's sind noch weiter-erererer kaputt.](https://www.pro-linux.de/news/1/26200/weitere-spectre-%C3%A4hnliche-prozessorfehler-aufgedeckt.html)
+* [Was passiert wenn die Polizei mal selbst abgeschleppt wird weil sie in einer Feuerwehrzufahrt geparkt hat?](https://blog.fefe.de/?ts=a58aed3d) - Die Kosten sind zu hoch und überhaupt ist das alles ja Erpressung mit dem Geld und der Abschlepperei.
+* [Du findest "Body Scanner" kacke? Tja, dann solltest du in Los Angeles lieber keine U-Bahn mehr fahren.](https://blog.fefe.de/?ts=a58aefde)
+* [Hier gibt es ein Rezept wie man wilde Hefe selber macht.](https://www.smarticular.net/wilde-hefe-wasser-wildhefe-rezept-zuechten-verwenden-vermehren/)
