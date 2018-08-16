@@ -31,3 +31,11 @@
 * [Was passiert wenn die Polizei mal selbst abgeschleppt wird weil sie in einer Feuerwehrzufahrt geparkt hat?](https://blog.fefe.de/?ts=a58aed3d) - Die Kosten sind zu hoch und überhaupt ist das alles ja Erpressung mit dem Geld und der Abschlepperei.
 * [Du findest "Body Scanner" kacke? Tja, dann solltest du in Los Angeles lieber keine U-Bahn mehr fahren.](https://blog.fefe.de/?ts=a58aefde)
 * [Hier gibt es ein Rezept wie man wilde Hefe selber macht.](https://www.smarticular.net/wilde-hefe-wasser-wildhefe-rezept-zuechten-verwenden-vermehren/)
+* [Scheinbar ist unsere Gesellschaft stellenweise schon so degeneriert, dass das DLRG Eltern davor warnen muss, kein Smartphone mit an den Strand zu nehmen, damit sie auf ihre Lütten schauen können.](https://blog.fefe.de/?ts=a58a6285)
+* [Und noch etwas Verrücktes, wenn Männer Frauen denunzieren ist das mist, wenn Frauen Männern denunzieren ist das scheinbar ok - wtf?](https://blog.fefe.de/?ts=a58a5caa)
+* [Oha, scheinbar sind NVidia-Treiber nicht für AMD's Performance optimiert.](https://www.planet3dnow.de/cms/39803-amd-ryzen-threadripper-2990wx-performance-boost-durch-radeon-statt-geforce/)
+* [Qemu wurde in der Version 3.0 veröffentlicht.](https://www.pro-linux.de/news/1/26202/qemu-30-freigegeben.html)
+* [Prometheus ist jetzt offiziell CNCF-cool.](https://www.pro-linux.de/news/1/26201/prometheus-absolviert-den-inkubator-der-cncf.html)
+* [>>Rückblick: Netzwerktreffen - Bunter Hof - Friedmannsdorf 8/2018<<](https://bio-erzgebirge.de/wp/?p=15796)
+* [Solidarische Landwirtschaft](https://www.solidarische-landwirtschaft.org/index.php?id=92)
+* [Es scheint sie immer mehr zu geben, "Unverpackt Läden".](https://www.smarticular.net/muellfrei-einkaufen-alle-unverpacktlaeden/)
