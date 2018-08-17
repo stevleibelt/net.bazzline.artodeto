@@ -39,3 +39,10 @@
 * [>>Rückblick: Netzwerktreffen - Bunter Hof - Friedmannsdorf 8/2018<<](https://bio-erzgebirge.de/wp/?p=15796)
 * [Solidarische Landwirtschaft](https://www.solidarische-landwirtschaft.org/index.php?id=92)
 * [Es scheint sie immer mehr zu geben, "Unverpackt Läden".](https://www.smarticular.net/muellfrei-einkaufen-alle-unverpacktlaeden/)
+* [Debian wurde am 16.08.2018 25 Jahre alt :-).](https://lwn.net/Articles/762854)
+* [Da die westliche Welt Afrika mit Plastikmüll überschwemmt, müssen sich die Menschen dort Gedanken machen was man mit dem Dreck so anstellen kann.](http://www.sonnenseite.com/de/umwelt/afrika-ist-auf-dem-richtigen-weg-um-plastikprodukte-zu-bekaempfen.html)
+* [Wow, das passiert also im Kapitalismus, in Aachen sind, wegen fehlender Notfallsicherung, 7000 Haushalte ohne Strom.](https://blog.fefe.de/?ts=a58b3176) - "Single point of failure", da kriegste in der IT ja gleich ne Backpfeife wenn du sowas baust.
+* [Sauerstoffbleiche ist ein gutes Hausmittel für ... *puhh*, wirklich viel.](https://www.smarticular.net/sauerstoffbleiche-waesche-putzen-desinfizieren-hausmittel-anwendung/)
+* [Nein? Doch! Oh? Meinungsumfragen sind nicht echt :-O.](https://www.neopresse.com/medien/meinungsumfragen-die-grosse-faelschung/)
+* [KDE Applications wurde in der Version 18.08 veröffentlicht.](https://www.pro-linux.de/news/1/26208/kde-applications-1808-freigegeben.html)
+* [DXVK wurde in der Version 0.70 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=DXVK-0.70-Released)
