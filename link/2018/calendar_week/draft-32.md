@@ -52,3 +52,5 @@
 * [Nein? Doch! Oh? Daimlers Diesel sind ebenso schmutzig wie alle anderen.](https://blog.fefe.de/?ts=a586cfe1)
 * [3D-Drucker als Technologie um alten Plastikmüll wiederzuverwenden?](http://www.sonnenseite.com/de/zukunft/ein-traum-von-technik.html)
 * [Mit abgekochtem Wasser und etwas ätherische Öle zu einem selbst gemachtem Erfischungsspray.](https://www.smarticular.net/erfrischungsspray-gesicht-koerper-selber-machen/)
+* [Vorstellen es gibt Gesetze aber die Anliegen der Bürger werden einfach immer abgelehnt.](https://blog.fefe.de/?ts=a5876f96) - Heute mit Jens Spahn der in letzter Instanz darüber entscheiden darf ob jemand nicht Medikamente zum Selbstmord einnehmen darf. Jens Spahn's Quote zu Nein ist bisher 100 Prozent.
+* [Ohha, kaum gehört Monsanto dem deutschen Umweltvernichter Bayer, wird die schlimme Lage in den USA medial bekannt gegeben.](https://netzfrauen.org/2018/08/19/51384-2/)
