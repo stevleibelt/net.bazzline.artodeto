@@ -143,7 +143,9 @@ ABSOLUTE_PATH_TO_THE_CURRENT_CALENDAR_WEEK_YEAR="${ABSOLUTE_PATH_OF_THE_ROOT}/${
 
 #begin of business logic
 
-# @todo - put all into a main function to not polute the global name space
+# @todo
+#   - instead of expecting current calendar week, just use the softlink to determine the current draft
+#   - put all into a main function to not polute the global name space
 cd "${ABSOLUTE_PATH_OF_THE_ROOT}"
 
 echo ":: Start of run" > ${FILE_PATH_OF_THE_DEBUG_LOG}
