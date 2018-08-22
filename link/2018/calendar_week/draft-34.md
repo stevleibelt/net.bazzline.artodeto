@@ -13,3 +13,10 @@
 * [Wow, 98,4 Prozent der 274 Milliarden Euro, die wir Steuerzahler in Europa dem Land Griechenland gespendet haben, ging an europäische Banken, US-Hedgefonds und dem Internationalen Währungsfond.](https://netzfrauen.org/2018/08/21/griechenland-2/) - Und obendrein wurde das Volk von Griechenland enteignet.
 * [Wow, Birmingham holt das privatisierte Gefängnis zurück in Staatshand.](https://blog.fefe.de/?ts=a582e016)
 * [Natron, Essig, Zitronensaft und vieles mehr, so wird dein Silber wieder glänzend.](https://www.smarticular.net/silber-reinigen-angelaufen-hausmittel-essig-natron-salz/)
+* [Kritische Infrastruktur in privater Hand? Erneut ein Beispiel wie gut das funktioniert, da drosselt Verizon der Feuerwehr in Kalifornien erst einmal das Internet weg, weil sie finden dass die Feuerwehr nun wirklich genug "Flatrate" hatte.](https://blog.fefe.de/?ts=a582b920) - Wie gut der Markt funktioniert, wenn er keine Regeln hat.
+* [Mehr als 2200 Unternehmen wollen sich von der EEG-Umlage befreien. Der Stromverbrauch der dann nicht besteuert wird ist fast 20 Prozent. Und den Steuerausfall bezahlt dann der Bürger.](http://www.sonnenseite.com/de/wirtschaft/mehr-als-2200-unternehmen-beantragen-teilweise-befreiung-von-eeg-umlage.html) - Tolle Filzpolitik haben sie da geschaffen liebe Blockpartei.
+* [Geilo, Redis-Labs hat jetzt die "Common-Clause" hinzugefügt. Leider mussten sie es machen, da viele Firmen mit Redis Geld verdienen aber sich kaum einer um das Produkt bemüht.](https://blog.fefe.de/?ts=a583e806)
+* [Die Geschmackspolizei der Blockpartei möchte jetzt von einer weitere Stelle das Internet versteuern und zensieren.](https://blog.fefe.de/?ts=a58381a0)
+* [Ihr macht was mit Docker-Container? Hier gibt es fünf Möglichkeiten, dass ihr Diese auf Sicherheit prüft.](https://opensource.com/article/18/8/tools-container-security)
+* [Ihr müsst Prozess-Flow-Diagramme erstellen? Hier gibt es neun Werkzeuge wovon eins etwaig zu euch passt.](https://opensource.com/article/18/8/flowchart-diagramming-linux)
+* [Schaut mal wo überall schon Glyphosat drinne ist.](https://netzfrauen.org/2018/08/22/glyphosat-2/)
