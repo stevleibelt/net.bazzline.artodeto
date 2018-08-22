@@ -20,3 +20,8 @@
 * [Ihr macht was mit Docker-Container? Hier gibt es fünf Möglichkeiten, dass ihr Diese auf Sicherheit prüft.](https://opensource.com/article/18/8/tools-container-security)
 * [Ihr müsst Prozess-Flow-Diagramme erstellen? Hier gibt es neun Werkzeuge wovon eins etwaig zu euch passt.](https://opensource.com/article/18/8/flowchart-diagramming-linux)
 * [Schaut mal wo überall schon Glyphosat drinne ist.](https://netzfrauen.org/2018/08/22/glyphosat-2/)
+* [Die Ölfirmen beantragen Schutz Donald Trump gegen den Klimawandel.](https://blog.fefe.de/?ts=a5836a0d)
+* [Die Anti-Geldwäsche-Abteilung im Zoll ist so schlecht, ganze 13,6 Millionen Euro von rund 100 Milliarden Euro haben sie angeschaut und gestoppt.](https://blog.fefe.de/?ts=a5836ac3) - Am Ende ist es wie in den USA, drei unterbezahlte Leute geben ihr Bestes.
+* [10 Dinge die Ihr über Couchbase 5.5 wissen solltent.](https://blog.couchbase.com/10-other-things-that-developers-must-know-about-couchbase/)
+* [Die Blockpartei will Tollcollect jetzt wieder privatisieren, nachdem der Steuerzahler Version 1 mit Steuergeldern gerettet hat.](https://blog.fefe.de/?ts=a583628e)
+* [Die Blockpartei CDU/CSU/SPD wollen die Straßeninfrastrutkur privatisieren. Der Anfang soll mit der "Infrastrutkrugesellschaft Autobahn" gemacht werden.](https://www.neopresse.com/wirtschaft/das-miese-geschaeft-auf-deutschen-autobahnen-milliardenloecher/)
