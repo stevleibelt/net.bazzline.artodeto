@@ -25,3 +25,7 @@
 * [10 Dinge die Ihr über Couchbase 5.5 wissen solltent.](https://blog.couchbase.com/10-other-things-that-developers-must-know-about-couchbase/)
 * [Die Blockpartei will Tollcollect jetzt wieder privatisieren, nachdem der Steuerzahler Version 1 mit Steuergeldern gerettet hat.](https://blog.fefe.de/?ts=a583628e)
 * [Die Blockpartei CDU/CSU/SPD wollen die Straßeninfrastrutkur privatisieren. Der Anfang soll mit der "Infrastrutkrugesellschaft Autobahn" gemacht werden.](https://www.neopresse.com/wirtschaft/das-miese-geschaeft-auf-deutschen-autobahnen-milliardenloecher/)
+* [Oh krass, da beauftragt die Regierung Wirtschafts"wissenschaftler" um eine Lösung für den Wohnungsnotstand in einigen Ballungsgebieten unseres Landes zu finden und was ist deren absolut unerwartendes Ergebnis? Weniger Vorschriften und vor allem kann es nur der heilige freie Markt schaffen - so wie die letzten zwanzig Jahre schon.](https://blog.fefe.de/?ts=a5805565)
+* [Foo, Ghostscript ist kaputt.](https://blog.fefe.de/?ts=a5804e0c)
+* [Steam play, Wine und Proton.](https://games4linux.de/steam-play-wine-und-proton-ein-ueberblick/)
+* [Intel verbietet euch jetzt Benchmarks zu ihren Schrottcpus zu machen.](https://blog.fefe.de/?ts=a580bb70)
