@@ -29,3 +29,6 @@
 * [Foo, Ghostscript ist kaputt.](https://blog.fefe.de/?ts=a5804e0c)
 * [Steam play, Wine und Proton.](https://games4linux.de/steam-play-wine-und-proton-ein-ueberblick/)
 * [Intel verbietet euch jetzt Benchmarks zu ihren Schrottcpus zu machen.](https://blog.fefe.de/?ts=a580bb70)
+* [Soweit ist es schon gekommen, jetzt wird einfach "die Russen machen Propaganda" und damit sind die Linken raus.](https://tuxproject.de/blog/2018/08/iwan-des-tages-uebler-bote-ueble-botschaft/)
+* [Krass, nun offiziell, in Mexiko beschießt VW den Himmel mit Ultraschallkanonen, damit sich keine Wolken bilden. Und warum? Damit die Autos nicht dreckig werden.](https://blog.fefe.de/?ts=a5803c00)
+* [Fünf Gründe warum scharfes Essen gut für dich ist.](https://www.smarticular.net/scharf-essen-gesundheit-antibakteriell-abnehmen-chili-ingwer/)
