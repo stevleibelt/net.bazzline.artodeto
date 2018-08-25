@@ -32,3 +32,6 @@
 * [Soweit ist es schon gekommen, jetzt wird einfach "die Russen machen Propaganda" und damit sind die Linken raus.](https://tuxproject.de/blog/2018/08/iwan-des-tages-uebler-bote-ueble-botschaft/)
 * [Krass, nun offiziell, in Mexiko beschießt VW den Himmel mit Ultraschallkanonen, damit sich keine Wolken bilden. Und warum? Damit die Autos nicht dreckig werden.](https://blog.fefe.de/?ts=a5803c00)
 * [Fünf Gründe warum scharfes Essen gut für dich ist.](https://www.smarticular.net/scharf-essen-gesundheit-antibakteriell-abnehmen-chili-ingwer/)
+* [Hier gibt es Rezepte wie ihr Fruchteiswürfel machen könnt.](https://www.smarticular.net/fruchteis-wuerfel-am-stiel-selber-machen-grundrezept/)
+* [Woha, die Kommunalwahl in Cottbus 2014 scheint ungültig zu sein.](https://blog.fefe.de/?ts=a57ec48f)
+* [Nein? Doch! Oh? Die Durchsuchung bei den Zwiebelfreunden war illegal.](https://blog.fefe.de/?ts=a58115b2)
