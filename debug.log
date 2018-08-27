@@ -1,0 +1,9 @@
+:: Start of run
+:: Start of >>release_current_calendar_week<<
+   absolute path to the current calendar week year >>/home/nvb/software/source/com/github/stevleibelt/net.bazzline.artodeto/bin/../link/2018/calendar_week<<
+:: Start of >>create_next_calendar_week<<
+:: Start of >>updating_soft_link<<
+   file name of the current soft link>>current_calendar_week<<
+   removing >>current_calendar_week<<
+   creating softlink >>current_calendar_week<< for >>link/2018/calendar_week/draft-36.md<<
+:: Finished of run
