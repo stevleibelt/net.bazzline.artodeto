@@ -1,0 +1,7 @@
+* [Oha, das rührt noch von den Nazis, Amtsmissbrauch kann in unsrerem Land nicht geahntet werden.](https://blog.fefe.de/?ts=a57adffa)
+* [Travis CI ist kaputt.](https://blog.fefe.de/?ts=a57d3932)
+* [Statt mit Schülern über ihre Probleme zu reden werden diese vor das Loch und als Begründung für die weiteren Zensurgesetze des Internets gestellt.](https://blog.fefe.de/?ts=a57d1565)
+* [Das Volk darf nie wissen was es für Fehlurteile gibt, so haben es die Richter beschlossen.](https://blog.fefe.de/?ts=a57d09a8)
+* [Hier gibt es ein Rezept für ein Brot ohne Mehl oder Backtriebmittel.](https://www.smarticular.net/wunderbrot-rezept-saaten-eiweiss-brot/)
+* [Was ist ein Container für einen Systemadministrator?](https://opensource.com/article/18/8/sysadmins-guide-containers)
+* [Hier gibt es eine Liste von BLogs die ihr euch anschauen könnt, wenn ihr euch für dei Raspberry Pi interessiert.](https://opensource.com/article/18/8/top-10-raspberry-pi-blogs-follow)
