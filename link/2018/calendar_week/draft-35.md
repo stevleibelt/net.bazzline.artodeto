@@ -9,7 +9,7 @@
 * [Mehr Rückgrad als viele Politiker in Deutschland hat der Umweltminister in Frankreich "Hulot". Da die Regierung nicht im Stande ist seine Kinder und weitere Generationen zu schützen, kann er dieser Regierung nicht mehr diehnen.](https://blog.fefe.de/?ts=a57bbb3e)
 * [Der "Richter Di" aus dem alten China erzählt uns, dass das es früher mal ein Gesetz gegen Amtsmissbrauch gab.](https://blog.fefe.de/?ts=a57be579)
 * [Die Polizei von Mecklenburg-Vorpommern scheint alles zu machen, wass Erdogan will.](https://blog.fefe.de/?ts=a57be45b)
-* [Wow, Oracle Java soll bald Geld kosten und die Industrie wird auf Java Long Term Support mit ohne Bugfixes setzen.](https://blog.fefe.de/?ts=a57be246)
+* [Wow, Oracle Java soll bald Geld kosten und die Industrie wird auf Java Long Term Support mit ohne Bugfixes setzen.](https://blog.fefe.de/?ts=a57be246) - [Hier ein schöner Kommentar](https://blog.fefe.de/?ts=a5785139) das die Industrie auch keinen Bock mehr auf Oracle hat.
 * [Kein Internet auf dem Lande? Versucht die Telekom nervös zu machen und gründet eine eigene "Bretband GmbH".](https://blog.fefe.de/?ts=a57bdf26)
 * [Es scheint nur noch Intel und TSMC zu geben, wenn es um den "State-Of-The-Art"-Halbleiterbau geht :-(.](https://blog.fefe.de/?ts=a57abf39) - [Hier](https://www.planet3dnow.de/cms/40139-globalfoundries-verabschiedet-sich-von-7nm/) der Beitrag auf planet3dnow.
 * [In Costa Rica erntet man die Frucht der genmanipulierten Ananasfrucht, statt süß ist diese giftig und das ganze Land ist dem Tode geweiht, weil der ganze Wald abgeholzt wurde.](https://netzfrauen.org/2018/08/28/ananas-2/)
@@ -28,3 +28,17 @@
 * [Froscon 2018: Deep Dive TypeScript und ein Ausblick in die Zukunft.](https://berlin-ak.ftp.media.ccc.de/events/froscon/2018/h264-hd/froscon2018-2132-deu-Deep_Dive_TypeScript_und_ein_Ausblick_in_die_Zukunft_hd.mp4)
 * [Froscon 2018: Next Level Ansible.](https://berlin-ak.ftp.media.ccc.de/events/froscon/2018/h264-hd/froscon2018-2130-deu-Next_Level_Ansible_hd.mp4)
 * [Froscon 2018: OSI Layer 8](https://berlin-ak.ftp.media.ccc.de/events/froscon/2018/h264-hd/froscon2018-2183-deu-OSI_Layer_8_hd.mp4)
+* [>>Aktuelles für das Netzwerk MiteinanderSein für September 2018<<](https://bio-erzgebirge.de/wp/?p=15619)
+* ["Toll", dank dem, von Menschenhand gemachten, sauren Regen lösen sich Metalle aus dem Gesteinen im Gebirge und vergiften unser Trinkwasser.](http://www.sonnenseite.com/de/wissenschaft/raetsel-des-schneeweissen-bachs-erklaert.html) - Immer wieder beeindruckend diese magische Hand des freien Marktes bei der Arbeit zuzusehen.
+* [Hier wird euch gezeigt, wie ihr Nginx dazu bewegen könnt zu starten auch wenn der "Upstream Host" nicht erreichbar ist.](https://sandro-keil.de/blog/let-nginx-start-if-upstream-host-is-unavailable-or-down/)
+* [Prometheus, Graphite, InfluxDB oder OpenTSDB, welches ist gut für mich?](https://opensource.com/article/18/8/open-source-monitoring-tools)
+* [Wie krieg ich PHP's Xdebug in Docker Container zum laufen? Hier wird es euch erklärt.](https://sandro-keil.de/blog/docker-php-xdebug-cli-debugging/)
+* [Nutzt das Overlay-FS für Docker um noch mehr Geschwindigkeit herauszukriegen.](https://sandro-keil.de/blog/docker-with-overlayfs-on-ubuntu/)
+* [Hier gibt es einen schnellen Einstieg wir ihr als PHP-Entwickler Docker nutzen könnt.](https://sandro-keil.de/blog/docker-for-php-developers/)
+* [Docker, Docker, Docker, hier wird über das Overlay-FS und die Docker Bash Completion geschrieben.](https://sandro-keil.de/blog/docker-daemon-tuning-and-json-file-configuration/)
+* [Docker Volumes und Docker Networks einfach erklärt (wenn auch etwas veraltet).](https://sandro-keil.de/blog/docker-compose-with-named-volumes-and-multiple-networks/)
+* [Krass, T-Systems will 10.000 Mitarbeiter entlassen.](https://blog.fefe.de/?ts=a5784923)
+* [Erneut ein "kaum gehört Monsanto Bayer"-Ding - Vietnam möchte gern von "Agent Orange" entschädigt werden.](https://blog.fefe.de/?ts=a57852ba)
+* [Hier wird euch gezeigt wie ihr euren Linux-Kernel fit für eine PostgreSQL macht.](https://www.percona.com/blog/2018/08/29/tune-linux-kernel-parameters-for-postgresql-optimization/)
+* [GParted wurde in der Version 0.32 veröffentlicht.](https://www.pro-linux.de/news/1/26248/gparted-032-mit-unterst%C3%BCtzung-von-luks-mappings.html) - Jetzt mit LUKS-Unterstützung
+* [Hier gibt es ein Rezept wie ihr Knetmasse aus Natron herstellen könnt.](https://www.smarticular.net/natron-salzteig-knetmasse-porzellan-selber-machen-kinder/)
