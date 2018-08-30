@@ -49,3 +49,7 @@
 * [Google stößt Kubernets ab.](https://www.pro-linux.de/news/1/26249/google-%C3%BCbergibt-kubernetes-infrastruktur-an-cloud-native.html)
 * [privacyIDEA wurde in der Version 2.23 veröffentlicht.](https://www.pro-linux.de/news/1/26251/privacyidea-223-erschienen.html)
 * [>>MessagePack - It's like JSON, but fast and small.<<](https://msgpack.org/)
+* [Nextcloud wurde in der Version 13.0.6 veröffentlicht.](https://nextcloud.com/blog/more-stability-and-security-with-nextcloud-13.0.6-and-12.0.11/)
+* [ReactOS wure in der Version 0.4.10 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=ReactOS-0.4.10-RC)
+* [Nestle kauft Starbucks stückweise.](https://www.neopresse.com/gesellschaft/die-fragwuerdigen-geschaefte-von-nestle-konzern-baut-produktpalette-aus/)
+* [Wow, die Spyware-Company hat wohl 281 Gigabytes an Kinderbildern veröffentlicht.](https://blog.fefe.de/?ts=a576c954)
