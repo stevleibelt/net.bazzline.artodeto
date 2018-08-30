@@ -42,3 +42,10 @@
 * [Hier wird euch gezeigt wie ihr euren Linux-Kernel fit für eine PostgreSQL macht.](https://www.percona.com/blog/2018/08/29/tune-linux-kernel-parameters-for-postgresql-optimization/)
 * [GParted wurde in der Version 0.32 veröffentlicht.](https://www.pro-linux.de/news/1/26248/gparted-032-mit-unterst%C3%BCtzung-von-luks-mappings.html) - Jetzt mit LUKS-Unterstützung
 * [Hier gibt es ein Rezept wie ihr Knetmasse aus Natron herstellen könnt.](https://www.smarticular.net/natron-salzteig-knetmasse-porzellan-selber-machen-kinder/)
+* [Steigt der CO2-Wert, wachsen die Pflanzen zwar mehr, aber sie erzeugen dabei weniger Nährwert.](http://www.sonnenseite.com/de/wissenschaft/co-8322-wert-steigt-naehrwert-sinkt.html) - Es ist wie bei den Menschen die sich einseitig ernähren, der Körper wächst aber unausgeglichen - ach und weniger wiederstandsfähig sind die Pflanzen dann auch noch.
+* [In Lörrach steht ein Haus, dass seit 30 Jahren autark vom Stromnetz ist.](http://www.sonnenseite.com/de/energie/zweifamilienhaus-in-loerrach-ist-seit-30-jahren-unabhaengig-vom-stromnetz.html) - Das gemeine ist, die machen viele Dinge, die ich mir auch ausgedacht hab^^.
+* [Was macht youtube wenn man einen kritischen Film über die Plattform veröffentlicht? Man zensiert ihn weg.](https://blog.fefe.de/?ts=a579d8a2)
+* [Abbyy Finereader als gutes Beispiel warum Cloud mist ist.](https://blog.fefe.de/?ts=a579ce07)
+* [Google stößt Kubernets ab.](https://www.pro-linux.de/news/1/26249/google-%C3%BCbergibt-kubernetes-infrastruktur-an-cloud-native.html)
+* [privacyIDEA wurde in der Version 2.23 veröffentlicht.](https://www.pro-linux.de/news/1/26251/privacyidea-223-erschienen.html)
+* [>>MessagePack - It's like JSON, but fast and small.<<](https://msgpack.org/)
