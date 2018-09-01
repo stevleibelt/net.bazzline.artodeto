@@ -53,3 +53,7 @@
 * [ReactOS wure in der Version 0.4.10 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=ReactOS-0.4.10-RC)
 * [Nestle kauft Starbucks stückweise.](https://www.neopresse.com/gesellschaft/die-fragwuerdigen-geschaefte-von-nestle-konzern-baut-produktpalette-aus/)
 * [Wow, die Spyware-Company hat wohl 281 Gigabytes an Kinderbildern veröffentlicht.](https://blog.fefe.de/?ts=a576c954)
+* [>>[...] Ausgrenzung und Problem ignorieren hilft nicht, das konnte man die letzten Jahre prima in den Niederlanden beobachten. [...]<<](https://blog.fefe.de/?ts=a577a673)
+* [Nein? Doch! Oh? Die Zusatzstoffe >>Emulgatoren<< schädigt eure Darmflora.](https://netzfrauen.org/2018/08/31/darmkrebs-2/) - [E 433, E 466](https://de.wikipedia.org/wiki/Emulgator) sind in vielen Dingen drinne. Haltet euch fern von künstlichen Zusatzstoffen (die für die Maschine und nicht dem Menschen in der Nahrung ist) und alles ist gut.
+* [Der Film >>Beruf Bulle<< scheint etwaig ein guter Realitätsabgleich zu diesem Thema zu sein.](https://blog.fefe.de/?ts=a577521e)
+* [Wine wurde in der Version 3.15 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=Wine-3.15-Released)
