@@ -57,3 +57,9 @@
 * [Nein? Doch! Oh? Die Zusatzstoffe >>Emulgatoren<< schädigt eure Darmflora.](https://netzfrauen.org/2018/08/31/darmkrebs-2/) - [E 433, E 466](https://de.wikipedia.org/wiki/Emulgator) sind in vielen Dingen drinne. Haltet euch fern von künstlichen Zusatzstoffen (die für die Maschine und nicht dem Menschen in der Nahrung ist) und alles ist gut.
 * [Der Film >>Beruf Bulle<< scheint etwaig ein guter Realitätsabgleich zu diesem Thema zu sein.](https://blog.fefe.de/?ts=a577521e)
 * [Wine wurde in der Version 3.15 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=Wine-3.15-Released)
+* [Hier gibt es ein paar Denkanstöße wie ihr eure PostgreSQL auf Geschwindigkeit optimieren könnt.](https://www.percona.com/blog/2018/08/31/tuning-postgresql-database-parameters-to-optimize-performance/)
+* [Die USA hat sich ganz offen gegen das Verbot von Tötungsrobotern ausgesprochen.](https://blog.fefe.de/?ts=a574ba13)
+* [Die "Five Eyes" sagen ganz offen, baut hintertüren zur Spionage freiwillig ein, oder wir bebomben eure Land mit Demokratie.](https://blog.fefe.de/?ts=a57442c2)
+* [Warum und wie sollte man "Onion Routing" nutzen.](https://ftp.fau.de/cdn.media.ccc.de/events/emf/2018/h264-hd/emf2018-263-eng-Why_and_How_you_should_start_using_Onion_Networking_hd.mp4)
+* [Bournout and your meat computer.](https://berlin-ak.ftp.media.ccc.de/events/emf/2018/h264-hd/emf2018-38-eng-Burnout_and_Your_Meat_Computer_hd.mp4)
+* [Eine richtig schöne Anwendung für eure mobilen Superwanzen ist "New Pipe".](https://github.com/TeamNewPipe/NewPipe)
