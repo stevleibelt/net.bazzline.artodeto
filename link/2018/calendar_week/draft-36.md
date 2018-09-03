@@ -1,0 +1,10 @@
+* [Hacken durch elektromagnetischen Impulse? Ja, das geht.](https://blog.fefe.de/?ts=a5721b84)
+* [Was macht die Blockpartei aus CDU/CSU und SPD wenn sie verlieren? Sie "demokratisieren" die Landschaft mit finanziellen Druck.](https://blog.fefe.de/?ts=a5721634) - Demokratie ist schön, so lange wir an der Macht bleiben.
+* [Oh? Das Volk demonstriert? Dann wird eben ein Wald zu einem gefährlichen Ort erklärt und schon darf die Polizei losprügeln und Krieg spielen.](http://www.sonnenseite.com/de/politik/polizei-erklaert-hambacher-forst-zum-gefaehrlichen-ort.html)
+* [Plastik ist gefährtlich und giftig. Was macht man also damit? Genau, man verschart alles unter der Erde damit das Trinkwasser schön gifitg schmeckt.](http://www.sonnenseite.com/de/umwelt/plastikentsorgung-giftige-stoffe-auf-ewig-unter-der-erde.html) - Wer braucht schon sauberes Trinkwasser?
+* [emf2018: Matrix.org und warum das so wichtig und gut ist.](https://ftp.fau.de/cdn.media.ccc.de/events/emf/2018/h264-hd/emf2018-264-eng-Power_to_the_people_liberating_online_communication_with_Matrixorg_hd.mp4)
+* [emf2018: From making to maintaining.](https://ftp.fau.de/cdn.media.ccc.de/events/emf/2018/h264-hd/emf2018-142-eng-From_making_to_maintaining_hd.mp4) - Betreuen ist spannender als es manche denken. Ich glaube eh, dass viele Leute "lieber machen" statt betreuen, weil man sich beim betreuen mit seinen eigenen Fehlern auseinandersetzen muss.
+* [emf2018: Wie fängt man in einem gänzlich neuem Bereich an?](https://ftp.fau.de/cdn.media.ccc.de/events/emf/2018/h264-hd/emf2018-76-eng-From_Idiot_to_Imposter_how_to_get_started_in_a_new_field_hd.mp4)
+* [Linux from Scratch wurde in der Version 8.3 veröffentlicht.](https://www.pro-linux.de/news/1/26260/zum-selbermachen-linux-from-scratch-83-ver%C3%B6ffentlicht.html)
+* [Gärten in der Großstadt und Gemeinschaftsgärten und all dies gibt es in Vereinigungen - Hier werden 15 vorgestellt.](https://netzfrauen.org/2018/09/03/gardening/)
+* [Eure Intel-CPUs haben dank Intels schlampiger Arbeit bald 15 Prozent Leistungsverlust.](https://www.pro-linux.de/news/1/26259/meltdown-co-leistungsverluste-messbar.html)
