@@ -53,3 +53,8 @@
 * [ReactOS wure in der Version 0.4.10 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=ReactOS-0.4.10-RC)
 * [Nestle kauft Starbucks stückweise.](https://www.neopresse.com/gesellschaft/die-fragwuerdigen-geschaefte-von-nestle-konzern-baut-produktpalette-aus/)
 * [Wow, die Spyware-Company hat wohl 281 Gigabytes an Kinderbildern veröffentlicht.](https://blog.fefe.de/?ts=a576c954)
+* [Das überrascht euch jetzt bestimmt so sehr wie mich, Erdgas ist klimaschädlicher als Kohle.](http://www.sonnenseite.com/de/energie/erdgas-ist-klimaschaedlicher-als-kohle.html) - Warum man Fernwärme nicht über Solarthermie macht ist mir bis heute schleierhaft - es würde wohl zu gut funktionieren, nehme ich an.
+* [Hier werden sechs Werkzeuge vorgestellt, mit denen ihr euer eigenes VPN aufmachen könnt.](https://opensource.com/article/18/8/open-source-tools-vpn)
+* [Die Universität Hamburg bestätigt, dass TLS 1.3 kaputt ist da man den Nutzer tracken kann ... ohne Cookies.](https://blog.fefe.de/?ts=a577e395)
+* [In Rust gibt es jetzt auch einen TLS-Layer.](https://blog.fefe.de/?ts=a577e471)
+* [>>Mastercard verkauft eure Kreditkartentransaktionsdaten.<<](https://blog.fefe.de/?ts=a577e52b)
