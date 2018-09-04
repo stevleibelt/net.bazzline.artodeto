@@ -8,3 +8,14 @@
 * [Linux from Scratch wurde in der Version 8.3 veröffentlicht.](https://www.pro-linux.de/news/1/26260/zum-selbermachen-linux-from-scratch-83-ver%C3%B6ffentlicht.html)
 * [Gärten in der Großstadt und Gemeinschaftsgärten und all dies gibt es in Vereinigungen - Hier werden 15 vorgestellt.](https://netzfrauen.org/2018/09/03/gardening/)
 * [Eure Intel-CPUs haben dank Intels schlampiger Arbeit bald 15 Prozent Leistungsverlust.](https://www.pro-linux.de/news/1/26259/meltdown-co-leistungsverluste-messbar.html)
+* [Pink Lady kommt aus Neuseeland, Royal Gala kommt aus Südafrika - zudem sind sie, per Gesetz, mit Chemie behandelt.](https://netzfrauen.org/2018/09/03/apfel/) - Nehmt lieber Äpfel aus dem Garten oder dem Bio-Bauern um die Ecke - alles andere ist eklige Chemiepampe die ihr in euch reinstopft.
+* [Open Stack wurde in der Version 18 veröffentlicht.](https://www.pro-linux.de/news/1/26262/openstack-rocky-angek%C3%BCndigt.html)
+* [Wenn ihr auf >>https://de.indymedia.org<<, >>https://web.archive.org<< und >>https://chronik.blackblogs.org<< geht oder verlinkt, werdet ihr offiziell als Terroristen gekennzeichnet.](https://blog.fefe.de/?ts=a573b7a2) - Wie verfickt krank ist die Welt geworden?
+* [Frankreich ist für mich in einigen Dingen wirklich weit vorn. Kinder unter 15 Jahre dürfen in der Schule nirgendwo ihre Wanzen benutzen.](https://blog.fefe.de/?ts=a573b60b)
+* [Wir könnt ihr eure Kürbisse richtig lagern und verwerten - hier steht es.](https://www.careelite.de/kuerbis-gesund-rezepte/)
+* [Ich kannte pgrep, pkill und pidof bisher nicht](https://opensource.com/article/18/9/linux-commands-process-management)
+* [>>Aktuelles im Netzwerk Freiberg für September<<](https://bio-erzgebirge.de/wp/?p=15953)
+* [Genode wurde in der Version 18.08 veröffentlicht.](https://www.pro-linux.de/news/1/26265/genode-1808-bringt-grafische-konfiguration-f%C3%BCr-sculpt-os.html)
+* [Die Freuden über Big Data werden immer größer - Ihr kriegt keine Kredite, wenn ihr nicht teures Motoröl oder Holzschutzmittel kauft.](https://blog.fefe.de/?ts=a570b6cb)
+* [Ab 2020 sollen alle Papers sofort öffentlich verfügbar sein, wenn sie mit öffentlichen Gelder finanziert wurde.](https://blog.fefe.de/?ts=a570b335)
+* [Die CDU zeigt sich in Schwerin von ihrer klaren Seite, es gibt Parteimitglieder und es gibt die Wünsche des Volkes - letztere sind unwichtig.](https://blog.fefe.de/?ts=a57040ad)
