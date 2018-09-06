@@ -21,3 +21,7 @@
 * [Die CDU zeigt sich in Schwerin von ihrer klaren Seite, es gibt Parteimitglieder und es gibt die Wünsche des Volkes - letztere sind unwichtig.](https://blog.fefe.de/?ts=a57040ad)
 * [Ein Fahrverbot für Dieselfahrzeuge wird es ab 2019 in Frankfurt geben.](https://blog.fefe.de/?ts=a56edb96) - Und da die Automobilhersteller auch beim Benzier so beschissen haben, wird das Fahrverbot dafür auch nicht lange auf sich warten lassen.
 * [Das hat der Fefe gut erkannt, unsere Gesellschaft hat es geschafft, dass wir niemanden mehr glauben und dass wir jede Meinung als die Meinung eines Einzelnen ohne Beweise und Fakten liegen lassen.](https://blog.fefe.de/?ts=a56edd5a)
+* [In Fukushima bebt es erneut.](https://netzfrauen.org/2018/09/06/japan-2/)
+* [Frauen und Männer ihm Ehrenamt halten unser kaputt gespartes Sozialsystem am Laufen.](https://www.neopresse.com/finanzsystem/der-unentdeckte-rentenskandal-ehrenamt-die-staatlich-gefoerderte-rentenausbeutung/)
+* [Ist der >>AMD Athlon 200 GE<< etwaig der günstige Einstieg in die Sockel-AM4-Welt?](https://www.planet3dnow.de/cms/40070-amd-athlon-kehrt-als-raven-ridge-zurueck/)
+* [Linux von einem USB-Stick mit dem Dateisystem F2FS?](https://www.pro-linux.de/artikel/2/1944/linux-von-einem-usb-stick-mit-f2fs-betreiben.html)
