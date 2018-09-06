@@ -23,3 +23,5 @@
 * [Microsofts Azure ist kaputt.](https://blog.fefe.de/?ts=a571b2ba)
 * [>>Der Weg zur Erleuchtung – 3 Fragen die Dein Leben verändern können<<](https://www.welt-im-wandel.tv/video/der-weg-zur-erleuchtung-3-fragen-die-dein-leben-veraendern-koennen/)
 * [Uh toll, in den USA sind die Studenten schon überschuldet bevor sie Geld verdienen.](https://www.neopresse.com/gesellschaft/aufgedeckt-15-billionen-schulden-us-studenten-als-vorboten-fuer-crash/)
+* [Ein Fahrverbot für Dieselfahrzeuge wird es ab 2019 in Frankfurt geben.](https://blog.fefe.de/?ts=a56edb96) - Und da die Automobilhersteller auch beim Benzier so beschissen haben, wird das Fahrverbot dafür auch nicht lange auf sich warten lassen.
+* [Das hat der Fefe gut erkannt, unsere Gesellschaft hat es geschafft, dass wir niemanden mehr glauben und dass wir jede Meinung als die Meinung eines Einzelnen ohne Beweise und Fakten liegen lassen.](https://blog.fefe.de/?ts=a56edd5a)
