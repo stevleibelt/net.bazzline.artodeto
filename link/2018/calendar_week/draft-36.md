@@ -19,3 +19,7 @@
 * [Die Freuden über Big Data werden immer größer - Ihr kriegt keine Kredite, wenn ihr nicht teures Motoröl oder Holzschutzmittel kauft.](https://blog.fefe.de/?ts=a570b6cb)
 * [Ab 2020 sollen alle Papers sofort öffentlich verfügbar sein, wenn sie mit öffentlichen Gelder finanziert wurde.](https://blog.fefe.de/?ts=a570b335)
 * [Die CDU zeigt sich in Schwerin von ihrer klaren Seite, es gibt Parteimitglieder und es gibt die Wünsche des Volkes - letztere sind unwichtig.](https://blog.fefe.de/?ts=a57040ad)
+* [Hier gibt es Hinweise wie ihr eine Verbindung innerhalb verteilten Teams aufbaut.](https://opensource.com/article/18/9/connected-on-distributed-team)
+* [Microsofts Azure ist kaputt.](https://blog.fefe.de/?ts=a571b2ba)
+* [>>Der Weg zur Erleuchtung – 3 Fragen die Dein Leben verändern können<<](https://www.welt-im-wandel.tv/video/der-weg-zur-erleuchtung-3-fragen-die-dein-leben-veraendern-koennen/)
+* [Uh toll, in den USA sind die Studenten schon überschuldet bevor sie Geld verdienen.](https://www.neopresse.com/gesellschaft/aufgedeckt-15-billionen-schulden-us-studenten-als-vorboten-fuer-crash/)
