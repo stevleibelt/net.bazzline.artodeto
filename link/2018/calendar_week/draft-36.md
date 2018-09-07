@@ -25,3 +25,10 @@
 * [Uh toll, in den USA sind die Studenten schon überschuldet bevor sie Geld verdienen.](https://www.neopresse.com/gesellschaft/aufgedeckt-15-billionen-schulden-us-studenten-als-vorboten-fuer-crash/)
 * [Ein Fahrverbot für Dieselfahrzeuge wird es ab 2019 in Frankfurt geben.](https://blog.fefe.de/?ts=a56edb96) - Und da die Automobilhersteller auch beim Benzier so beschissen haben, wird das Fahrverbot dafür auch nicht lange auf sich warten lassen.
 * [Das hat der Fefe gut erkannt, unsere Gesellschaft hat es geschafft, dass wir niemanden mehr glauben und dass wir jede Meinung als die Meinung eines Einzelnen ohne Beweise und Fakten liegen lassen.](https://blog.fefe.de/?ts=a56edd5a)
+* [GNOME wurde in der Version 3.30 veröffentlicht.](https://lwn.net/Articles/764219/rss)
+* [Google nutzt eure privaten und ge-geotaggeten Photos dann mal auf google maps - ohne euch zu fragen natürlich.](https://blog.fefe.de/?ts=a56e8579)
+* [Uhh, Monstanto kriegt weitere Klagen - dieses mal wurde deren Gift auf das Feld von anderen Bauern geweht und hat dort alles kaputt gemacht.](https://blog.fefe.de/?ts=a56e8407)
+* [Das Gimp-Projekt hat 100.000 US-Dollar bekommen :-).](https://www.phoronix.com/scan.php?page=news_item&px=GIMP-100k-Donation)
+* [Das Antibiotoka-Problem wird wegen der CSU nicht angegangen.](https://blog.fefe.de/?ts=a56e03aa)
+* [Percona ist jetzt ein Ünterstützer von MariaDB.](https://www.percona.com/blog/2018/09/06/percona-becomes-a-sponsor-of-the-mariadb-foundation/)
+* [Tails wurde in der Version 3.9 veröffentlicht.](https://www.pro-linux.de/news/1/26273/tails-39-integriert-veracrypt.html)
