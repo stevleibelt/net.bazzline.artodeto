@@ -39,3 +39,8 @@
 * [So, so, die Verleger sind der Meinung, dass man bis zu drei Worte aus eine Text umsonst nutzen darf, danach darf es dann etwas kosten.](https://tuxproject.de/blog/2018/09/das-internet-vor-leistung-schuetzen-%e2%9c%93-nachtrag/)
 * [>>Heilpflanze des Monats September 2018: Ringelblume<<](https://bio-erzgebirge.de/wp/?p=16014)
 * [Zur anstehenden Copyright-Reform in Europa am 12.09.2018 - die FSFE warnt vor dem Kack den sich die Konzerne da wieder ausgedacht habe.](https://www.pro-linux.de/news/1/26279/fsfe-warnt-vor-geplanter-copyright-reform.html)
+* [Ein Inhaltsstoff von Antidepressiva macht wohl immun gegen Antibiotika.](https://blog.fefe.de/?ts=a56ae777)
+* [Von der Uploadzensur profitiert nur die Verwertungsfirma und Axel Springer.](https://blog.fefe.de/?ts=a56d22b3)
+* [Knuddels legt die Passwörter dann mal im Klartext in ihrer Datenbank ab ...](https://blog.fefe.de/?ts=a56d0a02)
+* [Ihr schreibts Papers über ein unbequemes Thema? Verabschiedet euch und das Leben eurer Kinder mal ganz schnell von einem normalen Leben.](https://blog.fefe.de/?ts=a56d6b2f)
+* [Datenreichtum bei British Airways.](https://blog.fefe.de/?ts=a56c59d6)
