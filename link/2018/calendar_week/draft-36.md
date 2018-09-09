@@ -44,3 +44,4 @@
 * [Knuddels legt die Passwörter dann mal im Klartext in ihrer Datenbank ab ...](https://blog.fefe.de/?ts=a56d0a02)
 * [Ihr schreibts Papers über ein unbequemes Thema? Verabschiedet euch und das Leben eurer Kinder mal ganz schnell von einem normalen Leben.](https://blog.fefe.de/?ts=a56d6b2f)
 * [Datenreichtum bei British Airways.](https://blog.fefe.de/?ts=a56c59d6)
+* [Streaming Replication mit PostrgreSQL.](https://www.percona.com/blog/2018/09/07/setting-up-streaming-replication-postgresql/)
