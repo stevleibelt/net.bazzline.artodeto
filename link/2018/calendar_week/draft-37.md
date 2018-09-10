@@ -1,0 +1,6 @@
+* [Hackfressenbuch stirbt offiziell, immer mehr Menschen deinstallieren sich deren Anwendung von ihrer Wanze oder legen "Pausen" ein.](https://blog.fefe.de/?ts=a568cb7d)
+* [Nein? Doch! Oh? Chemnitz wird von der Politik und der Medienindustrie genutzt, um die Pause bis zur nächsten WM/EM/Olympiade zu überbrücken - nicht das wir uns mal über die wirklichen Probleme wie Altersarmut etc. Gedanken machen.](https://blog.fefe.de/?ts=a56bfc50)
+* [Nextcloud wurde in der Version 14.0 veröffentlicht.](https://nextcloud.com/blog/nextcloud-14-now-available-with-video-verification-signaltelegram-2fa-support-improved-collaboration-and-gdpr-compliance/)
+* [ZFSOnLinux wurde in der Version 0.7.10 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=ZFS-On-Linux-0.7.10)
+* [So, genug Wale gerettet, wir wollen wieder Arten ausrotten!](https://netzfrauen.org/2018/09/09/whales/)
+* [Hier gibt es einen offenen Brief zum Thema Bildung. Passend dazu die Aussage eines Verkäufers heute Morgen >>Mein Patenkind ist so dumm, es kann nicht einmal 80 plus 80 im Kopf rechnen.<<](https://netzfrauen.org/2018/09/09/bildung-3/)
