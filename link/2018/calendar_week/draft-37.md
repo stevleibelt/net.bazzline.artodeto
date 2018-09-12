@@ -4,3 +4,8 @@
 * [ZFSOnLinux wurde in der Version 0.7.10 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=ZFS-On-Linux-0.7.10)
 * [So, genug Wale gerettet, wir wollen wieder Arten ausrotten!](https://netzfrauen.org/2018/09/09/whales/)
 * [Hier gibt es einen offenen Brief zum Thema Bildung. Passend dazu die Aussage eines Verkäufers heute Morgen >>Mein Patenkind ist so dumm, es kann nicht einmal 80 plus 80 im Kopf rechnen.<<](https://netzfrauen.org/2018/09/09/bildung-3/)
+* [Nextcloud Talk wurde in der Version 4.0 veröffentlicht.](https://nextcloud.com/blog/nextcloud-talk-4.0-is-out/)
+* [Git wurde in der Version 2.19 veröffentlicht.](https://www.pro-linux.de/news/1/26289/git-219-kommt-mit-range-diff-und-neuen-suchm%C3%B6glichkeiten.html)
+* [Wie wichtig Schlaf ist zeigt auch dieser Eintrag bei den Netzfrauen.](https://netzfrauen.org/2018/09/11/schlaf-2/)
+* [ZFSOnLinux 0.8 kommt mit nativer Verschlüsselung.](https://www.phoronix.com/scan.php?page=news_item&px=ZFS-On-Linux-0.8-RC1-Released)
+* [Alternativlos wurde in der Version 42 veröffentlicht.](https://blog.fefe.de/?ts=a568789b)
