@@ -9,3 +9,5 @@
 * [Wie wichtig Schlaf ist zeigt auch dieser Eintrag bei den Netzfrauen.](https://netzfrauen.org/2018/09/11/schlaf-2/)
 * [ZFSOnLinux 0.8 kommt mit nativer Verschlüsselung.](https://www.phoronix.com/scan.php?page=news_item&px=ZFS-On-Linux-0.8-RC1-Released)
 * [Alternativlos wurde in der Version 42 veröffentlicht.](https://blog.fefe.de/?ts=a568789b)
+* [Das RPi Zero als Telefon wird langsam interessant - 3G brauch es noch, damit es in Deutschland zukunftssicher ist.](https://www.pro-linux.de/news/1/26291/rpi-zero-als-linux-telefon.html)
+* [Küchenschwämme selber nähe.](https://www.smarticular.net/spuelschwamm-naehen-handtuecher-upcycling-muell-vermeiden/)
