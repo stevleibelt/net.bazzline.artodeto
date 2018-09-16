@@ -1,0 +1,7 @@
+* [SQLite wurde in der Version 3.25 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=SQLite-3.25-Released)
+* [Was tuen mit dem Rest vom Rasenmähen.](https://www.smarticular.net/rasenschnitt-verwerten-jauche-duenger-trocknen-untergraben-kompostieren-entsorgen/)
+* [Statt Mutter Natur zu vertrauen will Nestle eure Blut- und DNA-Daten um ihre Chemiepampe optimal für euch zusammenzustellen.](https://www.neopresse.com/wirtschaft/nestle-will-ihre-dna-haben-fuer-neues-ernaehrungskonzept/)
+* [Uruguay scheint zu 100 Prozent von erneuerbarer zu leben.](https://netzfrauen.org/2018/09/16/34748-2/)
+* [Jo, die "Grenzverteidigung" in Syrien ist natürlich gegen das Grundgesetz.](https://www.maskenfall.de/?p=12857)
+* [DXVK wurde in der Version 0.72 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=DXVK-0.72-Released)
+* [>>DEIN BLUT LÜGT NICHT – Das Geheimnis der Dunkelfeldmikroskopie<<](https://www.welt-im-wandel.tv/video/dein-blut-luegt-nicht-das-geheimnis-der-dunkelfeldmikroskopie/)
