@@ -18,3 +18,4 @@
 * [Toll dieses virtuelle Geld an der Börse, einmal mit dem Finger abrutschen und da wurden 107 Millionen vernichtet.](https://blog.fefe.de/?ts=a55e553c)
 * [Auch ein Richtwert unserer Gesellschaft, wenn Rentner ins Gefängnis gehen, weil es ihnen dort besser geht.](https://netzfrauen.org/2018/09/18/pflege-2/)
 * [ScoutFS ist nun unter der GPLv2 verfügbar.](https://www.pro-linux.de/news/1/26313/scoutfs-freies-dateisystem-f%C3%BCr-archivierung.html)
+* [Schön, erst werden die Spekulaten der spanischen Ferienhäuser mit EU-Steuergelder gerettet und nun werden diese Werte an die USA verschenkt.](https://www.neopresse.com/finanzsystem/aufgedeckt-wie-spanische-immobilien-an-die-us-finanzindustrie-verschleudert-werden/)
