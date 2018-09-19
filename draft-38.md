@@ -1,1 +1,0 @@
-link/2018/calendar_week/draft-38.md
