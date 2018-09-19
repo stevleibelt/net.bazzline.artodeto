@@ -24,3 +24,4 @@
 * [OwnCloud wurde in der Version 10.0.10 veröffentlicht.](https://www.pro-linux.de/news/1/26315/owncloud-10010-vorgestellt.html)
 * [Die Nextcloud Anwendung für Android wurde in der Version 3.3 veröffentlicht.](https://nextcloud.com/blog/nextcloud-android-files-app-3.3-now-out-with-comments-media-streaming-and-trash-support/)
 * [LLVM wurde in der Version 7.0.0 veröffentlicht.](https://lwn.net/Articles/765536/rss)
+* [Schön, erst werden die Spekulaten der spanischen Ferienhäuser mit EU-Steuergelder gerettet und nun werden diese Werte an die USA verschenkt.](https://www.neopresse.com/finanzsystem/aufgedeckt-wie-spanische-immobilien-an-die-us-finanzindustrie-verschleudert-werden/)
