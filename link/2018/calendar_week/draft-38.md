@@ -25,3 +25,11 @@
 * [Die Nextcloud Anwendung für Android wurde in der Version 3.3 veröffentlicht.](https://nextcloud.com/blog/nextcloud-android-files-app-3.3-now-out-with-comments-media-streaming-and-trash-support/)
 * [LLVM wurde in der Version 7.0.0 veröffentlicht.](https://lwn.net/Articles/765536/rss)
 * [Schön, erst werden die Spekulaten der spanischen Ferienhäuser mit EU-Steuergelder gerettet und nun werden diese Werte an die USA verschenkt.](https://www.neopresse.com/finanzsystem/aufgedeckt-wie-spanische-immobilien-an-die-us-finanzindustrie-verschleudert-werden/)
+* [Hier gibt es mal wieder den Link zu einer unvollständingen Liste von freien Spielen.](https://en.wikipedia.org/wiki/List_of_free_PC_games) - [Warzone2100](https://en.wikipedia.org/wiki/List_of_open-source_video_games) war der Grund für den Link :-).
+* [Hier gibt es ein schönes Rezept wie ihr Fenchelhonig selber machen könnt.](https://www.smarticular.net/fenchelhonig-sirup-selber-machen-husten-kinder/)
+* [Monsanto/Bayer ist ja groß im Geschäft wenn es um Canabiszüchtungen geht - wem wundert es also, dass Canabis als Droge Stück für Stück legalisiert wird.](https://netzfrauen.org/2018/09/19/cannabis-2/) - Ich bin mir unsicher was das legalisieren von allen Drogen angeht.
+* [Vulkan wurde in der Version 1.1.85 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=Vulkan-1.1.85-Released)
+* [Fefe hat einen Eintrag "aus dem Schützengraben" der Linux-Kernel-Mailinglist aufgeschrieben.](https://blog.fefe.de/?ts=a55d90e2)
+* [Nein? Doch! Oh? Ihr wollt eine Versicherung in den USA? Dann müsst ihr schon 24/7 deren Fitnesstracker tragen und kostenfrei all eure privaten Daten mit denen Teilen.](https://blog.fefe.de/?ts=a55c7b38) - Ein gutes Argument wenn ihr mal wieder mit Menschen aus "der freien Welt" sprecht die sich über die Stasi oder China aufregen.
+* [Nextcloud auf einem Raspberry Pi? Hier gibt es ein Rezept dafür.](https://opensource.com/article/18/9/host-cloud-nas-raspberry-pi)
+* [Ihr geht in Deutschland auf eine Demo? Tja, die Polizei darf euch jetzt festhalten, filzen, DNA-Abgleich machen, zu euch nach Hause kommen.](https://blog.fefe.de/?ts=a55dbd39) - Toll diese Versammlungsfreiheit auf dem Papier.
