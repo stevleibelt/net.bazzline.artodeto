@@ -33,3 +33,10 @@
 * [Nein? Doch! Oh? Ihr wollt eine Versicherung in den USA? Dann müsst ihr schon 24/7 deren Fitnesstracker tragen und kostenfrei all eure privaten Daten mit denen Teilen.](https://blog.fefe.de/?ts=a55c7b38) - Ein gutes Argument wenn ihr mal wieder mit Menschen aus "der freien Welt" sprecht die sich über die Stasi oder China aufregen.
 * [Nextcloud auf einem Raspberry Pi? Hier gibt es ein Rezept dafür.](https://opensource.com/article/18/9/host-cloud-nas-raspberry-pi)
 * [Ihr geht in Deutschland auf eine Demo? Tja, die Polizei darf euch jetzt festhalten, filzen, DNA-Abgleich machen, zu euch nach Hause kommen.](https://blog.fefe.de/?ts=a55dbd39) - Toll diese Versammlungsfreiheit auf dem Papier.
+* [Die BRD hatte noch 5,5 Millionen Sozialwohnungen, jetzt, als Bundesrepublik und nach so vielen Jahres Blockpartei sind wir bei rund 1,5 Millionen Sozialwohnungen, stetig fallend.](https://www.neopresse.com/finanzsystem/aufgedeckt-der-immobilienskandal-in-deutschland-steuerfoerderung-860-000-wohnungslose/)
+* [Dieses ganze Gehetze über einen COC bei Linux nervt gerade arg - können die Spackos nicht lieber lernen zu programmieren und gut ist?](https://blog.fefe.de/?ts=a55d2859)
+* [Die Schmalspurbahn in Burkersdorf feiert 120 Jahre Streckenjubiläum.](https://www.youtube.com/watch?v=AT3kn_lTDpc)
+* [Am 21.09.2018 ist Weltfriedenstag und es wird um 20:00 Uhr eine gemeinsame Meditationsrunde angestrebt.](https://bio-erzgebirge.de/wp/?p=4201)
+* [Jemand hat sich mal die Experimente genauer angeschaut, BPS ist genau so schlecht wie BPA.](https://www.neopresse.com/gesellschaft/enthuellt-bpa-freies-plastik-ist-genauso-gesundheitsschaedlich/)
+* [Habt ihr schon einmal was von "wikichip.org" gehört? Ich bisher noch nicht.](https://en.wikichip.org/wiki/amd/ryzen_embedded/v1605b) - Danke [deoroller](https://www.planet3dnow.de/vbulletin/showthread.php?t=431865)
+* [Syncthing für die mobile Superwanze und dem PC? Hier wird gezeigt wie es geht.](https://opensource.com/article/18/9/take-control-your-data-syncthing)
