@@ -40,3 +40,9 @@
 * [Jemand hat sich mal die Experimente genauer angeschaut, BPS ist genau so schlecht wie BPA.](https://www.neopresse.com/gesellschaft/enthuellt-bpa-freies-plastik-ist-genauso-gesundheitsschaedlich/)
 * [Habt ihr schon einmal was von "wikichip.org" gehört? Ich bisher noch nicht.](https://en.wikichip.org/wiki/amd/ryzen_embedded/v1605b) - Danke [deoroller](https://www.planet3dnow.de/vbulletin/showthread.php?t=431865)
 * [Syncthing für die mobile Superwanze und dem PC? Hier wird gezeigt wie es geht.](https://opensource.com/article/18/9/take-control-your-data-syncthing)
+* [Mir wurde in der Version 1.0 veröffentlicht.](https://lwn.net/Articles/766178)
+* [Das freie Internet ist nicht tot!](https://berlin-ak.ftp.media.ccc.de/contributors/netzpolitik/14np/h264-hd/14np-5-deu-Das_freie_Internet_ist_nicht_tot_Wie_koennen_wir_gemeinsam_dafuer_kaempfen_hd.mp4)
+* [Wie man in 69 Jahren einen Überwachunggstaat aufbaut.](https://berlin-ak.ftp.media.ccc.de/contributors/netzpolitik/14np/h264-hd/14np-18-deu-Wie_man_in_69_Jahren_einen_Ueberwachungsstaat_aufbaut_hd.mp4)
+* [Hier gibt es einen guten Einstieg wie ihr eure PostgreSQL sicher macht.](https://www.percona.com/blog/2018/09/21/securing-postgresql-as-an-enterprise-grade-environment/)
+* [Algorithmen und KI.](https://cdn.media.ccc.de/contributors/netzpolitik/14np/h264-hd/14np-13-deu-Algorithmen_und_KI_-_ein_Wegweiser_fuer_die_Zivilgesellschaft_hd.mp4)
+* [Der "Markt" der Pflege ist ein Markt mit wenig Regulierung, viel Korruption und irren Gewinnmargen.](https://netzfrauen.org/2018/09/22/pflege-3/) - Und das Schlimmste an allen, die Leute, die darin Arbeiten sind mit ihrem Gewissen gefangen, machen sie keine kostenlosen Überstunden, sterben Menschen.
