@@ -108,13 +108,15 @@ function updating_soft_link
 
     echo "   file name of the current soft link>>${FILE_NAME_OF_THE_CURRENT_SOFT_LINK}<<" >> ${FILE_PATH_OF_THE_DEBUG_LOG}
 
-    if [[ -f "${FILE_NAME_OF_THE_CURRENT_SOFT_LINK}" ]];
+    if [[ -h "${FILE_NAME_OF_THE_CURRENT_SOFT_LINK}" ]];
     then
         echo "   removing >>${FILE_NAME_OF_THE_CURRENT_SOFT_LINK}<<" >> ${FILE_PATH_OF_THE_DEBUG_LOG}
         rm "${FILE_NAME_OF_THE_CURRENT_SOFT_LINK}"
+    else
+        echo "   file >>${FILE_NAME_OF_THE_CURRENT_SOFT_LINK}<< does not exist" >> ${FILE_PATH_OF_THE_DEBUG_LOG}
     fi
 
-        echo "   creating softlink >>${FILE_NAME_OF_THE_CURRENT_SOFT_LINK}<< for >>${RELATIVE_PATH_TO_THE_NEXT_CALENDAR_WEEK}<<" >> ${FILE_PATH_OF_THE_DEBUG_LOG}
+    echo "   creating softlink >>${FILE_NAME_OF_THE_CURRENT_SOFT_LINK}<< for >>${RELATIVE_PATH_TO_THE_NEXT_CALENDAR_WEEK}<<" >> ${FILE_PATH_OF_THE_DEBUG_LOG}
     ln -s "${RELATIVE_PATH_TO_THE_NEXT_CALENDAR_WEEK}" "${FILE_NAME_OF_THE_CURRENT_SOFT_LINK}"
 
     echo "   done."
