@@ -46,3 +46,7 @@
 * [Hier gibt es einen guten Einstieg wie ihr eure PostgreSQL sicher macht.](https://www.percona.com/blog/2018/09/21/securing-postgresql-as-an-enterprise-grade-environment/)
 * [Algorithmen und KI.](https://cdn.media.ccc.de/contributors/netzpolitik/14np/h264-hd/14np-13-deu-Algorithmen_und_KI_-_ein_Wegweiser_fuer_die_Zivilgesellschaft_hd.mp4)
 * [Der "Markt" der Pflege ist ein Markt mit wenig Regulierung, viel Korruption und irren Gewinnmargen.](https://netzfrauen.org/2018/09/22/pflege-3/) - Und das Schlimmste an allen, die Leute, die darin Arbeiten sind mit ihrem Gewissen gefangen, machen sie keine kostenlosen Überstunden, sterben Menschen.
+* [Flinten-Uschi bewirbt sich schon einmal bei McKinsey auf kosten der Steuerzahler. Sie hat 208 Millionen zu viel an Beratergehalt gezahlt.](https://blog.fefe.de/?ts=a55944f4)
+* [Toll diese Roboter, Subaru muss viele SUV's verschrotten weil der Roboter ein paar Sachen vergessen hat.](https://blog.fefe.de/?ts=a5599798)
+* [Sprout-Bleistifte sind 100 Prozent abbaubar und funktionieren.](https://www.careelite.de/pflanzbare-bleistifte/)
+* [Mehr als eine Wohnung mit mehr als einem LAN/WAN](https://berlin-ak.ftp.media.ccc.de/events/datenspuren/2018/h264-hd/DS2018-9314-deu-Hausvernetzung_hd.mp4)
