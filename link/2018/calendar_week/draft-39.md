@@ -1,2 +1,9 @@
 * [Level up your monitoring.](https://ftp.fau.de/cdn.media.ccc.de/events/datenspuren/2018/h264-hd/DS2018-9330-deu-Level_Up_your_Monitoring_hd.mp4)
 * [DXVK wurde in der Version 0.80 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=DXVK-0.80-Released)
+* [OpenShot wurde in der Version 2.4.3 veröffentlicht.](https://www.pro-linux.de/news/1/26328/video-editor-openshot-243-mit-neuen-masken-und-%C3%9Cberg%C3%A4ngen.html)
+* [Siehste, Flinten Uschis Sohn arbeitet seit sieben Jahren bei McKinsey.](https://blog.fefe.de/?ts=a5591dd6)
+* [Die Propagandaschau hat ein Archiv der letzten 5 Jahre erstellt welches ihr hier runterladen könnt.](https://propagandaschau.wordpress.com/2018/09/23/download-5-jahre-propagandaschau-in-einem-handlichen-offline-archiv/)
+* [Googles Chrome-Browser meldet euch jetzt im geheimen immer bei google an.](https://blog.fefe.de/?ts=a556c50e) - Niemand hat die Absicht all eure Daten zu sammeln ;-).
+* [Windows 10 installiert jetzt von sich aus auch Bloatware.](https://blog.fefe.de/?ts=a556d7ea) - "Candy Crush, Spotify, und Disney Magic Kingdoms" sind essentielle Dinge die jeder Anwender braucht! - Ganz zu schweige vom generellen Problem wie man diese Option Missbrauchen kann.
+* [Toll, Obst und Gemüse aus dem Supermarkt haben mehr als 22 Pestizide die ihr mitesset.](https://netzfrauen.org/2018/09/24/pestizide-5/) - Sind nur die unwichtigen Dinge wie Orangen, Mandarinen, Feldsalat, Kartoffeln, Salate, Apfel, Spinat, Erdbeeren, Nektarinen, Paprika, Trauben, Birnen, Sellerie, Pfirsich oder Kirschen. Ach ja, vor 40 Jahren war die Pestizitbelastung um 80 Prozent geringer.
+* [Frankreich verbietet Pestizide die Bienen tötet.](https://netzfrauen.org/2018/09/24/bees/) - Man kann nur hoffen, dass es Frankreich wirklich für die Bienen macht und nicht nur weil das Verbot keine eigene Industrie trifft.
