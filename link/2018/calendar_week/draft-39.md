@@ -19,3 +19,7 @@
 * [Hier wird euch gezeigt wie ihr mit >>pg_basebackup<< eine Sicherungsstrategie eurer PostgreSQL aufbaut.](https://www.percona.com/blog/2018/09/25/postgresql-backup-strategy-enterprise-grade-environment/)
 * [>>Die Wahrheit über Sex - Ex-Prostituierte packt aus!<<](https://www.welt-im-wandel.tv/video/die-wahrheit-ueber-sex-ex-prostituierte-packt-aus/)
 * [Nicht nur das der Wanzenbrowser von Google euch jetzt ohne euer Wissen bei Google anmeldet, nein, die Funktion "alle Cookies löschen" löscht demnächst keine google-cookies mehr.](https://blog.fefe.de/?ts=a5549d39)
+* [Wow, Marcron will nicht mit Ländern verhandeln, die den Pariser Klimavertrag unterschrieben haben.](https://blog.fefe.de/?ts=a555e919) - So aus dem Bauch, finde ich das gut.
+* [Passend dazu, "Natur zahlt sich aus".](http://www.sonnenseite.com/de/umwelt/studie-naturkapital-deutschland-naturerhalt-zahlt-sich-aus.html)
+* [Und noch passender, RWE hinterlässt im Regelfall verbrannte Erde und wird deswegen von Kapitalanlegern zunehmend gemieden.](http://www.sonnenseite.com/de/wirtschaft/rwe-der-anfang-vom-ende.html)
+* [Wenn ich das richtig verstehe übermittelt Firefox demnächst alle eingegebenen E-Mail-Adressen an dritte um zu prüfen ob diese E-Mail-Adresse schon kompromittiert wurde.](https://www.pro-linux.de/news/1/26340/mozilla-schaltet-firefox-monitor-frei.html) - Alle E-Mail-Adressen werden gegen einen Dienst gehauen der sie speichern könnte ... was kann da schon schief gehen.
