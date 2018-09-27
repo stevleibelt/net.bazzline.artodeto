@@ -23,3 +23,14 @@
 * [Passend dazu, "Natur zahlt sich aus".](http://www.sonnenseite.com/de/umwelt/studie-naturkapital-deutschland-naturerhalt-zahlt-sich-aus.html)
 * [Und noch passender, RWE hinterlässt im Regelfall verbrannte Erde und wird deswegen von Kapitalanlegern zunehmend gemieden.](http://www.sonnenseite.com/de/wirtschaft/rwe-der-anfang-vom-ende.html)
 * [Wenn ich das richtig verstehe übermittelt Firefox demnächst alle eingegebenen E-Mail-Adressen an dritte um zu prüfen ob diese E-Mail-Adresse schon kompromittiert wurde.](https://www.pro-linux.de/news/1/26340/mozilla-schaltet-firefox-monitor-frei.html) - Alle E-Mail-Adressen werden gegen einen Dienst gehauen der sie speichern könnte ... was kann da schon schief gehen.
+* [Klar, die Aluminumindustrie hat der Welt wohl noch nicht genug Narben zugefügt, jetzt will man dies als Stromspeicher einsetzen.](http://www.sonnenseite.com/de/wissenschaft/aluminium-als-heizoel-ersatz.html)
+* [*Hmm*, nach dem Artikel bin ich mir wieder unsicher wer die Wahrheit sagt und wer nur Meinungsmache macht.](http://www.sonnenseite.com/de/mobilitaet/reichweiten-der-stromer-werden-unterschaetzt.html) - Am Ende kann man wieder niemanden glauben weil jeder nur verkaufen will.
+* [Jens Spahn, der Gauleiter der Neuzeit?](https://www.neopresse.com/politik/aufgedeckt-jens-spahn-fuer-ausbeutung/) - Wie will er das Problem im Gesundheitswesen lösen? Nicht durch lange nötige gesetzliche Sicherungen und einer fairen Bezahlung sondern durch Zwangsarbeit, die der Steuerzahler bezahlen muss.
+* [GNU Shepherd wurde in der Version 0.5 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=GNU-Shepherd-0.5-Released)
+* [Hier gibt es einen schöne Liste wie man Variablen in Perl 5 und in Perl 6 definiert.](https://opensource.com/article/18/9/using-sigils-perl-6)
+* [GNU wird heute 35 Jahre alt.](https://opensource.com/article/18/9/happy-birthday-gnu)
+* [Vivaldi wurde in der Version 2.0 veröffentlicht.](https://www.pro-linux.de/news/1/26344/webbrowser-vivaldi-in-version-20-ver%C3%B6ffentlicht.html)
+* [>>[...] Münch sieht die Schulen heute in einem "weltumspannendes Netzwerk" aus Think-Tanks, Stiftungen und internationalen Organisationen gefangen, die "neoliberale Bildungsreformen" vorantreiben. [...]<<](https://www.neopresse.com/gesellschaft/der-bildungsindustrielle-komplex-oder-die-oekonomisierung-der-schulen/)
+* [Kalifornien führt jetzt gesundes Essen in Krankenhäusern per Gesetz ein.](https://netzfrauen.org/2018/09/27/california/)
+* [Gnome wurde in der Version 3.30.1 veröffentlicht.](https://www.pro-linux.de/news/1/26345/gnome-330-aktualisiert.html)
+* [Sehr schön, die Springer Hetzpresse zerstört mit Gerüchten eine Karriere und muss nun dafür zahlen.](https://blog.fefe.de/?ts=a5522187) - Schade dass dies nicht für die Rufschädigung von Bundesländern oder Städten funktioniert.
