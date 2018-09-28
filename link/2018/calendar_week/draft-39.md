@@ -34,3 +34,12 @@
 * [Kalifornien führt jetzt gesundes Essen in Krankenhäusern per Gesetz ein.](https://netzfrauen.org/2018/09/27/california/)
 * [Gnome wurde in der Version 3.30.1 veröffentlicht.](https://www.pro-linux.de/news/1/26345/gnome-330-aktualisiert.html)
 * [Sehr schön, die Springer Hetzpresse zerstört mit Gerüchten eine Karriere und muss nun dafür zahlen.](https://blog.fefe.de/?ts=a5522187) - Schade dass dies nicht für die Rufschädigung von Bundesländern oder Städten funktioniert.
+* [Bevor ihr mit einem alten ZFS und einem neuen Linux-Kernel rumspielt, aktualisiert den ZFS-Pool lieber, sonst kann es zu einem Kernel Panic kommen.](https://utcc.utoronto.ca/~cks/space/blog/linux/ZFSOldFilesystemPanic)
+* [Heizen mit erneuerbaren Energieen ist nicht nur mittlerweile günstiger sonder auch noch besser für die Umwelt.](http://www.sonnenseite.com/de/energie/heizen-mit-erneuerbaren-lohnt-sich.html)
+* [Schau an, nun erhalten Frauen in DAX-Unternehmen im Durchschnitt mehr als die männlichen Kollegen und nun getraut sich keiner darüber aufzuregen und auf die Gleichbehandlung zu pochen.](https://blog.fefe.de/?ts=a55387f5) - FeFe hat den wichtigen Punkt aber auch erkannt, es ist unsittlich, dass ein Vorstand im Jahr mehr Gehalt erhält als ein Arbeiter in seinem Leben - zumal der Vorstand keine Konsequenzen für sein Handeln spührt.
+* [Toll diese IT in kritischen Bereichen wie bei einer OP, da aktualisiert sich das Narkosegerät und startet einmal neu.](https://blog.fefe.de/?ts=a553d448) - Ich stelle mir das "super" vor, wenn es in 10 Jahren beim Operationsroboter so weitergeht.
+* [Rezepte über kalten Gurkensuppe und mehr gibt es hier.](https://www.smarticular.net/kalte-suppen-rezepte-ohne-kochen-schnell-leicht-ohne-herd-fuers-buero/)
+* [Der Freiberger Oberbürgermeister verlässt die SPD weil er nicht mehr mit einer Partei leben kann, die sich mit eigenen Fehlern durch die Steigerung der Entgeldgruppen belohnt.](https://www.youtube.com/watch?v=UO5GNUdPGu4)
+* [Hier gibt es ein schönes Video die euch ein wenig in die Welt und Geschichte der "Obstkelterei Heide" einführt.](https://www.youtube.com/watch?v=gvLFuO3e0Qo)
+* [Nein? Doch! Oh? Hackfressenbuch nutzt eure Telefonnummer für Werbung.](https://blog.fefe.de/?ts=a550d8a7)
+* [Einer meiner Professoren hat damals schon gesagt "Wer verschlüsselt, will ausgrenzen" - genau das passiert dank "HTTPS überall". Weite Teile der Welt können HTTPS-Webseiten nicht aufrufen weil deren Internertverbindung so langsam ist.](https://blog.fefe.de/?ts=a550d504)
