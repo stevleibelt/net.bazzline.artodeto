@@ -60,3 +60,6 @@
 * [>>systemd in 2018 (asg2018)<<](https://cdn.media.ccc.de/events/all_systems_go/2018/h264-hd/asg2018-230-eng-systemd_in_2018_hd.mp4)
 * [Sanddorn-Fruchtgummies.](https://www.smarticular.net/sanddorn-fruchtgummis-aus-saft-selber-machen-vitamine-naschen/)
 * [>>Intelligenz & Kreativität ist kein Zufall: Wie Lernen erfolgreich gelingt – Prof. Dr. Gerald Hüther<<](https://www.welt-im-wandel.tv/video/intelligenz-kreativitaet-ist-kein-zufall-wie-lernen-erfolgreich-gelingt-prof-dr-gerald-huether/)
+* [>>POTs: The revolution will not be optimized? (fiffkon18)<<](https://cdn.media.ccc.de/events/fiffkon/2018/h264-hd/fiffkon18-3-eng-POTs_The_revolution_will_not_be_optimized_hd.mp4)
+* [>> Closing (asg2018)<<](https://cdn.media.ccc.de/events/all_systems_go/2018/h264-hd/asg2018-223-eng-Closing_hd.mp4)
+* [>>Empire and Power: The Forgotten History of the Internet as a Weapon (fiffkon18)<<](https://cdn.media.ccc.de/events/fiffkon/2018/h264-hd/fiffkon18-23-eng-Empire_and_Power_The_Forgotten_History_of_the_Internet_as_a_Weapon_hd.mp4)
