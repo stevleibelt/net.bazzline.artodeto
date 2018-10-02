@@ -10,3 +10,6 @@
 * [Mit Pandoc macht ihr aus euren MD-Dateien HTML-Dateien.](https://opensource.com/article/18/10/book-to-website-epub-using-pandoc)
 * [Hier gibt es noch ein paar Firefox-Erweiterungen die ich nicht kannte.](https://utcc.utoronto.ca/~cks/space/blog/web/Firefox64Addons) - [Google Search URL Fixup](https://addons.mozilla.org/en-US/firefox/addon/google-search-url-fixup/), [Cookie Quick Manager](https://addons.mozilla.org/en-US/firefox/addon/cookie-quick-manager/) und [Link Cleaner](https://addons.mozilla.org/en-US/firefox/addon/link-cleaner/)
 * [Krass, wegen dem letzten Hurrikan in North Carolina starb sehr viel Mastvieh. Nun haben die Menschen vor Ort viel mehr Probleme als zuvor. Die ganze Gülle ist über das Land verteilt und es gibt unvorstellbar viele Fleischberge die vor sich hin verfaulen.](https://netzfrauen.org/2018/10/01/us/)
+* [>>[...] In einem auf Konsum basierenden System, in einer auf Vergeudung aufgebauten Ökonomie sind es die neuen Dinge, die den Menschen definieren oder ihm Identität verleihen. [...]<<](http://www.sonnenseite.com/de/tipps/gateways-to-hell.html)
+* [Stratis wurde in der Version 1.0 veröffentlicht.](https://lwn.net/Articles/767409)
+* [Sexi Mini-ITX Board mit AMD Ryzen.](https://www.planet3dnow.de/cms/40609-mi988-mini-itx-mainboard-mit-amd-ryzen-embedded-v1000/)
