@@ -13,3 +13,8 @@
 * [>>[...] In einem auf Konsum basierenden System, in einer auf Vergeudung aufgebauten Ökonomie sind es die neuen Dinge, die den Menschen definieren oder ihm Identität verleihen. [...]<<](http://www.sonnenseite.com/de/tipps/gateways-to-hell.html)
 * [Stratis wurde in der Version 1.0 veröffentlicht.](https://lwn.net/Articles/767409)
 * [Sexi Mini-ITX Board mit AMD Ryzen.](https://www.planet3dnow.de/cms/40609-mi988-mini-itx-mainboard-mit-amd-ryzen-embedded-v1000/)
+* [Schau an, genmanipulierter Dreck ist nicht schlimm sagt die Industrie und verarscht uns Kunden gleichzeitig indem es genmanipulierten Fisch gibt der nicht als solches gekennzeichnet ist.](https://netzfrauen.org/2018/10/03/gmo-salmon/)
+* [Haiku R1 im Betatest auf pro-linux.de](https://www.pro-linux.de/artikel/2/1946/haiku-r1-beta.html)
+* [>>Aktuelles im Netzwerk Freiberg für Oktober<<](https://bio-erzgebirge.de/wp/?p=16257)
+* [Hier gibt es den zweiten Teil zum Thema "PostgreSQL skalieren" - PgBouncer als Verbindungspool und HAProxy als Loadbalancer.](https://www.percona.com/blog/2018/10/02/scaling-postgresql-using-connection-poolers-and-load-balancers-for-an-enterprise-grade-environment/)
+* [Die neuen Bundesländer haben pro Einwohner mehr Solarstromanlagen als die alten Bundesländer.](http://www.sonnenseite.com/de/energie/photovoltaik-ostdeutschland-schlaegt-westdeutschland.html)
