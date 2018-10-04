@@ -18,3 +18,12 @@
 * [>>Aktuelles im Netzwerk Freiberg für Oktober<<](https://bio-erzgebirge.de/wp/?p=16257)
 * [Hier gibt es den zweiten Teil zum Thema "PostgreSQL skalieren" - PgBouncer als Verbindungspool und HAProxy als Loadbalancer.](https://www.percona.com/blog/2018/10/02/scaling-postgresql-using-connection-poolers-and-load-balancers-for-an-enterprise-grade-environment/)
 * [Die neuen Bundesländer haben pro Einwohner mehr Solarstromanlagen als die alten Bundesländer.](http://www.sonnenseite.com/de/energie/photovoltaik-ostdeutschland-schlaegt-westdeutschland.html)
+* [Wohnraum wenn man es braucht im Winter auf 20 Grad, sonst reichen 15 Grad überall.](http://www.sonnenseite.com/de/tipps/die-wichtigsten-heiztipps-fuer-den-winter.html)
+* [Firefox Klar wurde in der Version 7.0 veröffentlicht.](https://www.pro-linux.de/news/1/26360/firefox-klar-70-mit-firefox-web-engine.html)
+* [Brett Kavanaugh: >>Dieser abscheuliche Mann hat eine dünne Haut, ist jähzornig, kennt keine Ethik und hat einen Charakter vom flachen Uferrand des Genpools<<](https://netzfrauen.org/2018/10/04/kavanaugh/)
+* [Zabbix wurde in der Version 4.0 veröffentlicht.](https://www.pro-linux.de/news/1/26362/zabbix-40-lts-mit-zahlreichen-neuerungen.html)
+* [Tjow, scheinbar verbaut jemand in China Chips in IT-Technik die dort nicht hingehört.](https://blog.fefe.de/?ts=a54b2d78) - Mal schauen wie lange die Massenmedien brauchen, bis es der Russe war ;-).
+* [>>Selbstversorgergarten zum Mitgärtnern im Mittelerzgebirge<<](https://bio-erzgebirge.de/wp/?p=16300)
+* [Realitätsabgleich Kuhhaltung und wo eure Milch herkommt.](https://netzfrauen.org/2018/10/04/dairy-2/)
+* [>>Tipp des Monats Oktober 2018: Heil- und Vitalpilze<<](https://bio-erzgebirge.de/wp/?p=16306)
+* [Realitätsabgleich Finanzkriese.](https://netzfrauen.org/2018/10/02/finanzkrise/)
