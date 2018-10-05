@@ -27,3 +27,5 @@
 * [Realitätsabgleich Kuhhaltung und wo eure Milch herkommt.](https://netzfrauen.org/2018/10/04/dairy-2/)
 * [>>Tipp des Monats Oktober 2018: Heil- und Vitalpilze<<](https://bio-erzgebirge.de/wp/?p=16306)
 * [Realitätsabgleich Finanzkriese.](https://netzfrauen.org/2018/10/02/finanzkrise/)
+* [Jeder weiß es und doch nutzt die Autoindustrie weiter die Salamitaktik.](http://www.sonnenseite.com/de/franz-alt/kommentare-interviews/die-auto-bosse-haben-ausgeblufft.html)
+* [Pestizide töten 72 Millionen Bienen, *ups*.](https://netzfrauen.org/2018/10/04/bees-2/)
