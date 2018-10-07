@@ -36,3 +36,4 @@
 * [Statistik nennt man heute Machinen Learning, Machinen Learning nennt man Deep Learning, Crypto ist heute Bitcoin und Crypto nennt man heute Cyper.](https://blog.fefe.de/?ts=a549b6a5)
 * [Bis Oktober sind schon 140 Robben oder Schweinswale an der Ostseeküste tot angestrandet. Ob das was mit den Offshoreanlagen und dem Tiefseekabeln zu tun hat? Stichwort elektromagnetische Strahlung?](https://netzfrauen.org/2018/10/06/coast/)
 * [Die Konzerne vergiften Chile aber das Leben ist in Chile nicht genug wert.](https://netzfrauen.org/2018/10/06/hilferuf-aus-chile-mysterioese-giftwolke-alles-ist-hier-gestorben/)
+* [NixOS wurde in der Version 18.09 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=NixOS-18.09-Released)
