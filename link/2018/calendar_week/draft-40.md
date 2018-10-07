@@ -34,3 +34,5 @@
 * [Hier erzählt ein Arzt darüber, wie man seelische Krankheiten von Innen und ohne Schulmedizin überwinden kann.](https://www.welt-im-wandel.tv/video/seelische-und-psychische-krankheiten-ohne-medikamente-ueberwinden-neue-wege-der-heilung/)
 * [Tails wurde in der Version 3.9.1 veröffentlicht.](https://www.pro-linux.de/news/1/26365/tails-391-beseitigt-sicherheitsl%C3%BCcken.html)
 * [Statistik nennt man heute Machinen Learning, Machinen Learning nennt man Deep Learning, Crypto ist heute Bitcoin und Crypto nennt man heute Cyper.](https://blog.fefe.de/?ts=a549b6a5)
+* [Bis Oktober sind schon 140 Robben oder Schweinswale an der Ostseeküste tot angestrandet. Ob das was mit den Offshoreanlagen und dem Tiefseekabeln zu tun hat? Stichwort elektromagnetische Strahlung?](https://netzfrauen.org/2018/10/06/coast/)
+* [Die Konzerne vergiften Chile aber das Leben ist in Chile nicht genug wert.](https://netzfrauen.org/2018/10/06/hilferuf-aus-chile-mysterioese-giftwolke-alles-ist-hier-gestorben/)
