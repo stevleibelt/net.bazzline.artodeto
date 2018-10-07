@@ -37,3 +37,7 @@
 * [Bis Oktober sind schon 140 Robben oder Schweinswale an der Ostseeküste tot angestrandet. Ob das was mit den Offshoreanlagen und dem Tiefseekabeln zu tun hat? Stichwort elektromagnetische Strahlung?](https://netzfrauen.org/2018/10/06/coast/)
 * [Die Konzerne vergiften Chile aber das Leben ist in Chile nicht genug wert.](https://netzfrauen.org/2018/10/06/hilferuf-aus-chile-mysterioese-giftwolke-alles-ist-hier-gestorben/)
 * [NixOS wurde in der Version 18.09 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=NixOS-18.09-Released)
+* [>>GraphQL (geekend2018)<<](https://cdn.media.ccc.de/contributors/c3voc/geekend/2018/h264-hd/geekend2018-5-deu-GraphQL_hd.mp4)
+* [Vulkan wurde in der Version 1.1.87 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=Vulkan-1.1.87-Released)
+* [Ubisoft sagt ganz offen, dass sie Blockchain nutzt um mehr Profit zu machen.](https://blog.fefe.de/?ts=a5471a84)
+* [Babies sehen aus wie aus den wildesten Filmen, dank Pestizide :-'(.](https://netzfrauen.org/2018/10/07/pesticides/)
