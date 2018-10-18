@@ -18,3 +18,9 @@
 * [MidnightBSD wurde in der Version 1.0 veröffentlicht.](https://www.pro-linux.de/news/1/26408/midnightbsd-10-erschienen.html)
 * [Wie man einkocht.](https://www.smarticular.net/einkochen-im-topf-obst-gemuese-schraubglaeser-anleitung/)
 * [Der Knight Rider Truck gibt es jetzt gegen Cyber und von IBM :D.](https://blog.fefe.de/?ts=a539fc26) - Keine Ahnung ob das Satiere oder ernst gemeint ist.
+* [>>CumEx-Files<<, 55 Milliarden Steuergelder veruntreut, mal schauen ob die Leitmedien neutral darüber berichten.](https://blog.fefe.de/?ts=a536ef4f)
+* [Hey, VW verarscht euch als Käufer und fliegt auf. Was macht VW? Nun, ihr könnt euren kaputten und bald verbotenen VW ja gegen einen neuen eintauschen.](https://blog.fefe.de/?ts=a536f081) - Eintauschen im Sinne von, VW zieht die Preise an und ihr kriegt dann einen Hauch von Rabatt.
+* [>>Aktuelles für das Erzgebirge im Oktober 2018<<.](https://bio-erzgebirge.de/wp/?p=16508)
+* [>>Aktuelles für Chemnitz: Einladung Netzwerktreffen 6.11. bio-fee<<.](https://bio-erzgebirge.de/wp/?p=15399)
+* [>>Aktuelles im Raum Freiberg für Okt/Nov<<.](https://bio-erzgebirge.de/wp/?p=16468)
+* [>>[...] Die ganze Idee hinter Containern ist dann, dass man beim Deployment agiler wird, und Fehler nicht so schlimm sind, weil man das alte Image noch hat. [...]<<.](https://blog.fefe.de/?ts=a5369914) - Schön, dann hab ich die Container-Idee richtig verstanden und umgesetzt^^.
