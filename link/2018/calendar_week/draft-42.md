@@ -16,3 +16,5 @@
 * [Schauen wir mal ob es so bleibt, aktuell kosten Elektroautos zwischen 20 und 30 Prozent weniger im Unterhalt, gemessen über drei Jahre, als vergleichbare Verbrennungsfahrzeuge.](http://www.sonnenseite.com/de/mobilitaet/elektrofahrzeuge-wartung-ist-billiger-als-die-der-fossilen-brueder.html)
 * [Die Mediziner des >>Ärztearbeitskreises digitale Medien Stuttgart<< warnen eindringlich vor den hohen, nicht erforschten und nicht versicherten Gefahren durch Strahlung wie GSM, UMTS, W-LAN, LTE und bald auch 5G.](https://www.neopresse.com/wissenschaft/aerzte-fordern-stopp-des-hochgefaehrlichen-5g-mobilfunk/)
 * [MidnightBSD wurde in der Version 1.0 veröffentlicht.](https://www.pro-linux.de/news/1/26408/midnightbsd-10-erschienen.html)
+* [Wie man einkocht.](https://www.smarticular.net/einkochen-im-topf-obst-gemuese-schraubglaeser-anleitung/)
+* [Der Knight Rider Truck gibt es jetzt gegen Cyber und von IBM :D.](https://blog.fefe.de/?ts=a539fc26) - Keine Ahnung ob das Satiere oder ernst gemeint ist.
