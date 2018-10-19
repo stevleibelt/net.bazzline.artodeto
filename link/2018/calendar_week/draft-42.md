@@ -24,3 +24,12 @@
 * [>>Aktuelles für Chemnitz: Einladung Netzwerktreffen 6.11. bio-fee<<.](https://bio-erzgebirge.de/wp/?p=15399)
 * [>>Aktuelles im Raum Freiberg für Okt/Nov<<.](https://bio-erzgebirge.de/wp/?p=16468)
 * [>>[...] Die ganze Idee hinter Containern ist dann, dass man beim Deployment agiler wird, und Fehler nicht so schlimm sind, weil man das alte Image noch hat. [...]<<.](https://blog.fefe.de/?ts=a5369914) - Schön, dann hab ich die Container-Idee richtig verstanden und umgesetzt^^.
+* [PostgreSQL wurde in der Version 11.0 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=PostgreSQL-11.0-Released)
+* [Bei eurem Kind wurde ADHS oder ADS festgestellt? Am 05.11.2018 gibt es im Klinikum in Chemnitz einen Vortrag von einem Heilpraktiker darüber.](https://www.heilpraktiker-fg.de/2018/11/05/adhs-ads/)
+* [Mit Eisspeicher Heizkosten um bis zu 50 Prozent senken?](http://www.sonnenseite.com/de/energie/eisspeicher-gibt-es-nicht-von-der-stange.html)
+* [In Ungarn ist "obdachlos sein" jetzt strafbar.](https://blog.fefe.de/?ts=a5360d27) - So dumm und unmenschlich das Konzept ist, es wird sich durchsetzen beim verkackten Filz den es da draußen gibt.
+* [Die Berliner Ärztekammer sieht ihre Felle wegschwimmen. Mit Homöopathie verdient man nicht so viel Geld, weil die Giftkonzerne keine teuren Pillen verkaufen können die der Steuerzahler subventioniert, also erkennt die Berliner Ärztekammer Fortbildungen im Bereich der Homöopathie nicht mehr als solche an.](https://blog.fefe.de/?ts=a53602e7)
+* [Jetzt wird IG-Farben aka Bayer selbst verklagt.](https://netzfrauen.org/2018/10/18/pharma-bayer-2/)
+* [Auf der EU Ebene wird die Leitline vorgegeben, deutlich mehr Ausgaben im Militärbereich für die "Festung Europa" und eingespart wird in unnötigen sozialem Kram. Braucht ja eh keiner!](https://www.neopresse.com/finanzsystem/eu-haushalt-mehr-geld-fuers-militaer-sozialstaat-abschaffen/)
+* [Wow, seit nun mehr 18 Jahren verteidigt unsere Bundeswehr die Grenzen von Deutschland im Afghanistan.](https://www.neopresse.com/politik/herzlichen-glueckwunsch-bundeswehr-seit-17-jahren-in-afghanistan/) - Wie viel Krankenhäuser man hätte mit dem Geld bauen können.
+* [Nein? Doch! Oh? Die europäischen Datenbanken kriegen immer mehr Bürgerdaten wie Fingerabdruck, Gesichter etc.](https://www.neopresse.com/europa/berlin-und-bruessel-wollen-totalueberwachung-durch-neue-datenbanken/) - Jetzt neu, nicht mehr nur von "Gefährdern" oder "Terroristen" sondern von jedem Bürger ... ihr wisst schon, für den Fall dass ihr was gegen das System habt.
