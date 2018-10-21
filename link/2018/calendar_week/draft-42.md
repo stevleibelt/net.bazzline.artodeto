@@ -38,3 +38,7 @@
 * [Der Film "Autark" von "Frank Farenski" ist ab jetzt im Kino.](http://www.sonnenseite.com/de/tipps/autark-der-film-jetzt-im-kino.html)
 * [>>Welt-im-Wandel.TV - Die Welt anders sehen. Die Macht der Selbstheilung – Befreie Dich von Ängsten, Blockaden und Süchten.<<](https://www.welt-im-wandel.tv/video/die-macht-der-selbstheilung-befreie-dich-von-aengsten-blockaden-und-suechten/)
 * [Jetzt scheinbar in der EU Verboten, Demonstrieren gegen Fracking.](https://netzfrauen.org/2018/10/19/fracking/)
+* [>>Lightning Talk: Webprogrammierung mit Python (flask) (jh18)<<](https://cdn.media.ccc.de/events/jugendhackt/2018/h264-hd/jh18-berlin-4-deu-Lightning_Talk_Webprogrammierung_mit_Python_flask_hd.mp4)
+* [>>Lightning Talk: RIOT: Open-Source-Betriebssystem für IoT (jh18)<<](https://cdn.media.ccc.de/events/jugendhackt/2018/h264-hd/jh18-berlin-10-deu-Lightning_Talk_RIOT_Open-Source-Betriebssystem_fuer_IoT_hd.mp4)
+* [Fleisch aus dem Reagenzglas? "Intelligentes" Essen? Nestel und Co werden immer perverser.](https://netzfrauen.org/2018/10/21/clean-meat/) - Dabei bietet uns Mutter Natur alles was wir brauchen.](https://netzfrauen.org/2018/10/21/clean-meat/)
+* [Hügelbeet? Zugegeben, davon hab ich auch noch nichts gehört, aber es sieht super aus.](https://www.smarticular.net/huegelbeet-aufbau-bepflanzen-permakultur-ausrichtung/)
