@@ -6,3 +6,17 @@
 * [>>Alpaka Post (jh18)<<](https://cdn.media.ccc.de/events/jugendhackt/2018/h264-hd/jh18-berlin-29-deu-Alpaka_Post_hd.mp4)
 * [Bankenunion? Bankenhaftung? Was ist das? Ganz einfach, alle Steuerzahler in der EU haften für die Zockereien der "1 Prozent".](https://www.neopresse.com/europa/eu-plant-die-bankenunion-bankenhaftung-jetzt-kann-es-schnell-gehen/)
 * [Schön gemittelfingert ... "die Community" wollte einen "Code of Conduct" in SQLite also haben sie einen bekommen: >>[...] monastischen Tugenden, vor allem Gehorsam, Schweigen und Demut. [...]<<.](https://blog.fefe.de/?ts=a5335d07) - Schönes Ding SQLite!
+* [Schön, dass sich das Verständnis langsam durchsetzt. Wir brauchen kleine, dezentrale Wasserkraftwerke statt große Megadämme.](http://www.sonnenseite.com/de/energie/trockenheit-in-deutschland-zwingt-zur-kehrtwende-auch-bei-der-kleinwasserkraft.html)
+* [Asterix wurde in der Version 16 als LTS veröffentlicht.](https://www.pro-linux.de/news/1/26424/asterisk-16-lts-freigegeben.html)
+* [Krass, die Gletscher der Schweiz haben in den letzten zehn Jahren 2,5 Prozent ihrers Eises verloren.](http://www.sonnenseite.com/de/wissenschaft/ein-jahr-der-extreme-fuer-schweizer-gletscher.html)
+* [Tolle Regulierungen, da importiert Deutschland Früchte aus Neuseeland um die eigenen am Baum oder Strauch verrotten zu lassen.](https://netzfrauen.org/2018/10/23/ueberproduktion/)
+* [>>Darm reinigen & Körper entgiften - Die unglaubliche Kraft der Bitterstoffe<<](https://www.welt-im-wandel.tv/video/darm-reinigen-koerper-entgiften-die-unglaubliche-kraft-der-bitterstoffe/)
+* [Wow, im Europaparlament wird gerade darüber debatiert ob man die Verwendung der Gelder der Bürokostenpauschale (4416 Euro pro Monat!) nachgeprüft werden muss.](https://blog.fefe.de/?ts=a52efe53) - Da muss die Puffmutti demnächst was Anderes auf die Quittung schreiben.
+* [Hier gibt es ein Rezept wie du Fein- und Vollwaschmittel selber machst.](https://www.smarticular.net/tolles-fein-und-wollwaschmittel-oekologisch-preiswert-selbst-gemacht/)
+* [Was kann man alles mit Natron machen?](https://www.smarticular.net/anwendungen-fuer-natron-das-wundermittel-fuer-kueche-haus-garten-und-schoenheit/) - >>Eischnee, Omelett, Pfannkuchen auflockern<<, >>Farbe vom Obst und Gemüse erhalten<<, >>Obst und Gemüse schneller Kochen<<, >>cremiges Kartoffelpüree<<, >>Rhabarber und Sanddorn entsäuern<< etc. pp.
+* [Systemd kann demnächst automatisch den alten Kernel nutzen wenn der neue rummuckt.](https://www.pro-linux.de/news/1/26433/systemd-startet-bei-fehler-vorhergehende-kernel-version.html)
+* [>>Gaby Weber über die Partei-Stiftungen, die bis heute amtliche Unterlagen in ihren Archiven lagern und damit dem Zugriff der Öffentlichkeit entziehen. Damit werden die Gesetze zur Presse- und Informationsfreiheit umgangen und Historiker und Bürger ausgetrickst. Es entsteht, finanziert mit Steuergeldern, eine parallele Verwaltung.<<](https://weltnetz.tv/video/1637-die-parallele-verwaltung-das-modell-stiftungen-6-1)
+* [>>Ausstellungseröffnung "Märchenhafte Kunst" von Bärbel Bitterlich am 2.11. Burg Mylau<<](https://bio-erzgebirge.de/wp/?p=16524)
+* [UPower wurde in der Version 0.99.9 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=UPower-0.99.9-Released)
+* [Cairo wurde in der Version 1.16 veröffentlicht.](https://www.pro-linux.de/news/1/26435/cairo-116-erschienen.html)
+* [Am 24.10.2018 stimmte das Europaparlament mit 571 Stimmen für ein Gesetzt welches Einweg-Plastik zukünftig verbietet.](https://www.careelite.de/eu-paralament-stimmt-fuer-verbot-von-einweg-plastik/)
