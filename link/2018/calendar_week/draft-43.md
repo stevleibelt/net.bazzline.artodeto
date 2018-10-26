@@ -20,3 +20,10 @@
 * [UPower wurde in der Version 0.99.9 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=UPower-0.99.9-Released)
 * [Cairo wurde in der Version 1.16 veröffentlicht.](https://www.pro-linux.de/news/1/26435/cairo-116-erschienen.html)
 * [Am 24.10.2018 stimmte das Europaparlament mit 571 Stimmen für ein Gesetzt welches Einweg-Plastik zukünftig verbietet.](https://www.careelite.de/eu-paralament-stimmt-fuer-verbot-von-einweg-plastik/)
+* [Der offene Brief vom ecuadorianischen Bananensektor an Aldi Deutschland zeigt wie unrealistisch die Bananenpreise sind.](https://netzfrauen.org/2018/10/25/aldi/)
+* [>>Krypto knacken für Anfänger (oc)<<](https://cdn.media.ccc.de/contributors/koeln/open_chaos/2018/h264-hd/openchaos-1810-deu-Krypto_knacken_fuer_Anfaenger_hd.mp4)
+* [Datenschutzvergehen von Apple und Hackfressenbuch?](https://blog.fefe.de/?ts=a52c838d) - Ja, da gibt es einige.
+* [>>Directing traffic: Demystifying internet-scale load balancing<<](https://opensource.com/article/18/10/internet-scale-load-balancing)
+* [OpenIndiana wurde in der Version 2018.10 veröffentlicht.](https://www.pro-linux.de/news/1/26438/openindiana-201810-freigegeben.html)
+* [Selbstfahrende Autos mit Moral wem sie lieber retten sollen? Was soll da schon schief gehen ...](https://blog.fefe.de/?ts=a52c1e89)
+* [Von jedem Euro, den ihr an Intel zahlt, sind 50 Eurocent Gewinn.](https://blog.fefe.de/?ts=a52c2f20) - Das ist natürlich noch lange kein Zeichen für ein Monopol.
