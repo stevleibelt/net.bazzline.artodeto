@@ -27,3 +27,10 @@
 * [OpenIndiana wurde in der Version 2018.10 veröffentlicht.](https://www.pro-linux.de/news/1/26438/openindiana-201810-freigegeben.html)
 * [Selbstfahrende Autos mit Moral wem sie lieber retten sollen? Was soll da schon schief gehen ...](https://blog.fefe.de/?ts=a52c1e89)
 * [Von jedem Euro, den ihr an Intel zahlt, sind 50 Eurocent Gewinn.](https://blog.fefe.de/?ts=a52c2f20) - Das ist natürlich noch lange kein Zeichen für ein Monopol.
+* [Systemd-networkd hat einen Fehler in seinem DHCP6Option-Umgang.](https://blog.fefe.de/?ts=a52af71a)
+* [Die AKW-Betreiber in Belgien melden ihre Probleme kurz vor dem GAU erst gar nicht.](https://blog.fefe.de/?ts=a52af22c)
+* [Marokko hat keine Zeitumstellung mehr, die Glücklichen.](https://blog.fefe.de/?ts=a52af29f)
+* [Kurze Zusammenfassung wie sich die deutsche Automobilmafia bisher so Geschlagen hat.](http://www.sonnenseite.com/de/franz-alt/kommentare-interviews/demokratie-oder-auto-kratie.html)
+* [Was niemand bedacht hatte, Solaranlagen können sehr start blenden.](http://www.sonnenseite.com/de/energie/blendend-schoene-solaranlagen-ueberall.html) - Das ist bei "modernen" Dächen im übrigen gefühlt auch so.
+* [>>[...] Gebirge machen zwar nur rund zehn Prozent der Erdoberfläche aus, beherbergen aber ein Viertel aller landlebenden Tierarten. [...]<<](http://www.sonnenseite.com/de/wissenschaft/gebirge-bereiten-boden-fuer-artenreichtum.html)
+* [>>[...] Mindestens ein Drittel aller Chemikalien, die in großen Mengen in der EU hergestellt werden oder in sie exportiert werden, sind nicht ausreichend auf ihre Sicherheit getestet. [...]<<](http://www.sonnenseite.com/de/wirtschaft/das-dieselgate-der-chemie-branche.html)
