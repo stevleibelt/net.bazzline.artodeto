@@ -34,3 +34,13 @@
 * [Was niemand bedacht hatte, Solaranlagen können sehr start blenden.](http://www.sonnenseite.com/de/energie/blendend-schoene-solaranlagen-ueberall.html) - Das ist bei "modernen" Dächen im übrigen gefühlt auch so.
 * [>>[...] Gebirge machen zwar nur rund zehn Prozent der Erdoberfläche aus, beherbergen aber ein Viertel aller landlebenden Tierarten. [...]<<](http://www.sonnenseite.com/de/wissenschaft/gebirge-bereiten-boden-fuer-artenreichtum.html)
 * [>>[...] Mindestens ein Drittel aller Chemikalien, die in großen Mengen in der EU hergestellt werden oder in sie exportiert werden, sind nicht ausreichend auf ihre Sicherheit getestet. [...]<<](http://www.sonnenseite.com/de/wirtschaft/das-dieselgate-der-chemie-branche.html)
+* [Lol, man trifft sich immer zwei Mal im Leben, so geschehen jetzt mit den Briten.](https://blog.fefe.de/?ts=a52ab250)
+* [Qt Design Studio wurde in de rVersion 1.0 veröffentlicht.](https://www.pro-linux.de/news/1/26439/qt-design-studio-10-erschienen.html)
+* [Die Solomon-Insel werden von China gerodet.](https://netzfrauen.org/2018/10/26/salomonisland/) - Schaue ich mir so die Art an wie sich China bisher verhalten hat glaube ich, dass sie dies besser machen als die USA und Europa.
+* [Wine wurde in der Version 3.19 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=Wine-3.19-Released)
+* [Der Monopolist Lufthansa fängt jetzt an mehr Rendite zu erwirtschaften indem an dem lästigen Personal gespart wird.](https://www.neopresse.com/nachrichten/bericht-lufthansa-will-bordcrews-ausduennen/)
+* [Endlich klagt mal jemand die Blockpartei an weil wir Steuerzahler dafür zahlen müssen dass es die Bundesregierung versäumt hat der Industrie das Erreichen der Klimaziele aufzuzwingen.](https://www.neopresse.com/nachrichten/klimaklage-gegen-bundesregierung/)
+* [>>Die geheime Gefahr in Kosmetikprodukten: Alles was Du über Hautpflege wissen musst!<<](https://www.welt-im-wandel.tv/video/die-geheime-gefahr-in-kosmetikprodukten-alles-was-du-ueber-hautpflege-wissen-musst/)
+* [Bodo Wartke, einer unserer besten Musiker der Jetzzeit mit "Nicht in meinem Namen".](https://tuxproject.de/blog/2018/10/ein-lied-fuer-pittsburgh-und-syrien/)
+* [Roundcube wurde in der Version 1.3.8. veröffentlicht.](https://roundcube.net/news/2018/10/26/update-1.3.8-released)
+* [Was bedeutet "Abhängigkeit" unter Unix eigentlich?](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/InitDependencyUnclear)
