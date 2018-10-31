@@ -12,3 +12,10 @@
 * [Schon einmal etwas von Linkerd gehört? Ich bisher auch nicht.](https://opensource.com/article/18/10/linkerd-20-service-ops-you-and-me)
 * [Hier gibt es eine weitere und kleine Einführung über auditing und Podman.](https://opensource.com/article/18/10/podman-more-secure-way-run-containers)
 * [Zentyal wurde in der Version 6.0 veröffentlicht.](https://www.pro-linux.de/news/1/26449/linux-server-zentyal-60-freigegeben.html)
+* [MXM & Pavel, schöner HipHop aus Deutschland mit richtig schönen Beats.](https://duckduckgo.com/?q=mxm+pavel&t=ffab&ia=videos) - Klingt wie früher ... damals, ein wenig nach Eins Zwo.
+* [Subversion wurde in der Version 1.11 veröffentlicht.](https://www.pro-linux.de/news/1/26455/subversion-111-ver%C3%B6ffentlicht.html)
+* [Ihr habt Geld bei N26 liegen? Tja, schade, die sind wohl kaputt.](https://blog.fefe.de/?ts=a52766b4)
+* [>>Aktuelles für den Raum Freiberg für November 2018<<](https://bio-erzgebirge.de/wp/?p=16530)
+* [Löst der stetige Zollabbau ein globales Lohn-, Steuer- und Sozialdumping aus?](https://www.neopresse.com/politik/die-zeichen-stehen-gut-fuer-den-dexit/)
+* [Krass, in Mexiko läuft täglich Unmengen an Erdöl in den Ozean weil dort eine Bohrplattform gesunken ist und niemand die entstandenen Schäden reparieren will.](http://www.sonnenseite.com/de/umwelt/die-unbekannte-oelkatastrophe-im-golf-von-mexiko.html)
+* [Couchbase Server wurde in der Version 6.0 veröffentlicht.](https://blog.couchbase.com/announcing-couchbase-6-0/)
