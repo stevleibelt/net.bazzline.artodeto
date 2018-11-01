@@ -19,3 +19,8 @@
 * [Löst der stetige Zollabbau ein globales Lohn-, Steuer- und Sozialdumping aus?](https://www.neopresse.com/politik/die-zeichen-stehen-gut-fuer-den-dexit/)
 * [Krass, in Mexiko läuft täglich Unmengen an Erdöl in den Ozean weil dort eine Bohrplattform gesunken ist und niemand die entstandenen Schäden reparieren will.](http://www.sonnenseite.com/de/umwelt/die-unbekannte-oelkatastrophe-im-golf-von-mexiko.html)
 * [Couchbase Server wurde in der Version 6.0 veröffentlicht.](https://blog.couchbase.com/announcing-couchbase-6-0/)
+* [Woher kommen diese Wetterstörungen? Eine Möglichkeit, wir Menschen haben die großen Luftströme in der Atmosphäre verändert.](http://www.sonnenseite.com/de/wissenschaft/mehr-extremwetter-durch-die-stoerung-gigantischer-luftstroeme-in-der-atmosphaere.html)
+* [Blackrock ist durch Merz auch in der CDU vertreten.](https://www.neopresse.com/politik/merz-blackrock-in-der-bundesregierung/)
+* [++$ciscoProdukteSindKaputt.](https://blog.fefe.de/?ts=a5242f41)
+* [Atomkatastrophen gibt es nicht nur wenn ein AKW ausgelöscht wird. Alleine der Uranabbau belastet unsere Welt "wie hulle".](https://netzfrauen.org/2018/11/01/uranium/)
+* [N26 und was euch fefe so dank seiner Enschreiben erzählen kann.](https://blog.fefe.de/?ts=a5242561)
