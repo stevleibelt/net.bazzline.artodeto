@@ -24,3 +24,4 @@
 * [++$ciscoProdukteSindKaputt.](https://blog.fefe.de/?ts=a5242f41)
 * [Atomkatastrophen gibt es nicht nur wenn ein AKW ausgelöscht wird. Alleine der Uranabbau belastet unsere Welt "wie hulle".](https://netzfrauen.org/2018/11/01/uranium/)
 * [N26 und was euch fefe so dank seiner Enschreiben erzählen kann.](https://blog.fefe.de/?ts=a5242561)
+* [GhostBSD wurde in der Version 18.1 veröffentlicht.](https://www.pro-linux.de/news/1/26457/ghostbsd-1810-setzt-auf-trueos.html)
