@@ -25,3 +25,9 @@
 * [Atomkatastrophen gibt es nicht nur wenn ein AKW ausgelöscht wird. Alleine der Uranabbau belastet unsere Welt "wie hulle".](https://netzfrauen.org/2018/11/01/uranium/)
 * [N26 und was euch fefe so dank seiner Enschreiben erzählen kann.](https://blog.fefe.de/?ts=a5242561)
 * [GhostBSD wurde in der Version 18.1 veröffentlicht.](https://www.pro-linux.de/news/1/26457/ghostbsd-1810-setzt-auf-trueos.html)
+* [Bayer hält sich nicht an Gesetze, VW/Audi/Mercedes/BMW halten sich nicht an Gesetze ... wie zeigt man als Gesetzgeber das man dies nicht gut findet? Genau, durch Steuerentlastungen die der Steuerzahler (also die 99 Prozent) ausgleichen müssen!](https://www.neopresse.com/nachrichten/scholz-will-deutsche-unternehmen-steuerlich-entlasten/)
+* [Das kann nur der harte Filz aus der Blockpartei verstehen, weil deren Stacheldraht schon so durch das Gehirn gezogen ist, dass sie nur noch abnicken was passiert - heute das Thema Mütterrente.](https://www.neopresse.com/nachrichten/sozialverband-fordert-muetterrente-auch-fuer-arme-seniorinnen/)
+* [Nein? Doch! Oh? Benziner sind laut einer deutschen Studie gleich schädlich wie Dieselfahrzeuge.](https://www.neopresse.com/nachrichten/studie-benziner-genauso-klimaschaedlich-wie-dieselmotoren/) - Und wenn es einer wissen muss, dann die Deutschen!
+* [Schöner Realitätsabgleich gegenüber Großbritannien und der EU.](https://npr.news.eulu.info/2018/11/03/die-herrschaft-der-eu-beendete-grossbritanniens-freiheit-und-unabhaengigkeit/)
+* [Hawking und was er so über unsere Menscheit denkt.](https://netzfrauen.org/2018/11/03/hawking-2/)
+* [Hier wird euch noch einmal erklärt wie man Eisenpfannen richtig einbrennt.](https://www.smarticular.net/eisenpfanne-einbrennen-backofen-leinoel-gusseisen-patina/)
