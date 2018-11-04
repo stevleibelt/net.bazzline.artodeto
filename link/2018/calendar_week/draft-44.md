@@ -31,3 +31,9 @@
 * [Schöner Realitätsabgleich gegenüber Großbritannien und der EU.](https://npr.news.eulu.info/2018/11/03/die-herrschaft-der-eu-beendete-grossbritanniens-freiheit-und-unabhaengigkeit/)
 * [Hawking und was er so über unsere Menscheit denkt.](https://netzfrauen.org/2018/11/03/hawking-2/)
 * [Hier wird euch noch einmal erklärt wie man Eisenpfannen richtig einbrennt.](https://www.smarticular.net/eisenpfanne-einbrennen-backofen-leinoel-gusseisen-patina/)
+* [Friedrich Merz, der Mann von Blackrock der in der Blockpartei ist meint, dass man durchaus von 132 Euro im Monat gut leben kann.](https://www.neopresse.com/politik/armes-deutschland-merz-meint-132-euro-hartz-iv-sind-ausreichend/) - Der Ficker sollte das mal selber ausprobieren.
+* [Anhand von Berlin kann man wieder gut sehen warum Strom-, Wasser-, Internetversorgung ... und alles was kritisch ist, in Staatshand gehört.](https://www.neopresse.com/wirtschaft/ein-kleiner-sieg-fuer-die-deutschen-energieinteressen-vattenfall-wird-eingebremst/)
+* [Sehr schön, in Frankfurt sieht man auch wieder warum die Wahl mit so wenig Technik wie möglich auskommen sollte.](https://tuxproject.de/blog/2018/11/hessliche-wahlsoftware/)
+* [DXVK wurde in der Version 0.91 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=DXVK-0.91-Released)
+* [Vulkan wurde in der Version 1.1.91 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=Vulkan-1.1.91-Released)
+* [Krass, auch Wissenschaftler sind so unter Veröffentlichungsdruck, dass sie lieber falsche und manipulierte Sachen veröffentlichen als nichts.](https://blog.fefe.de/?ts=a520cd1c)
