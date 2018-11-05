@@ -7,3 +7,5 @@
 * [i3 wurde in der Version 4.16 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=i3-Window-Manager-4.16)
 * [In USA/Florida meckern die Republikaner, dass die Demokraten nicht genug gegen den Klimawandel machen.](https://blog.fefe.de/?ts=a51ee6d7)
 * [Maaßen ist so unzufrieden das er bei seiner Abschiedsrede einmal gegen die SPD selbst rantet.](https://blog.fefe.de/?ts=a51ee38b)
+* [Stark, wenn auch nur im Moment und mit baldiger Gegenklage, so muss Porsche doch ein Auto zurück nehmen und Schadensersatz zahlen.](https://blog.fefe.de/?ts=a51e4629)
+* [JP Morgan und Blackrock bringen den Ball ins Rollen, eine Ratingagentur aus den USA ist der Meinung, dass die EU nicht mehr so dolle ist.](https://www.neopresse.com/europa/eu-staatsschuldenkrise-hier-legt-eine-bank-den-finger-in-die-wunde/)
