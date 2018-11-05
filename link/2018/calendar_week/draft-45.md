@@ -1,0 +1,9 @@
+* [Phoronix listet die spannensten Neuigkeiten vom kommenden Linux Kernel 4.20 auf.](https://www.phoronix.com/scan.php?page=article&item=linux-420-features&num=1)
+* [Intel ist wie die deutsche Automobilwirtschaft, da fängt man einmal an hinzuschauen und schon findet man Fehler über Fehler.](https://www.planet3dnow.de/cms/41327-neue-schwachstelle-in-intels-hyper-threading/)
+* [Lol, ein Richter hat in einem Atomkraftfall das Urteil schon im Voraus niedergeschrieben ... noch bevor die Anhörung fertig war.](https://blog.fefe.de/?ts=a5219c23) - Da hat RWE/EON/EnBW wohl das Haus für die Tochter des Richters zu früh fertig gestellt.
+* [LVM mit Verschlüsselung als "How To" verpackt gibt es hier.](https://opensource.com/article/18/11/manage-storage-lvm)
+* [KDE Connect für Android wurde in der Version 1.1 veröffentlicht.](https://nicolasfella.wordpress.com/2018/11/04/kde-connect-new-stuff-0x3/)
+* [Konfetti ist meist aus Plastik und wird dann gern mal von Tieren gegessen die davon sterben oder uns Menschen vergiften.](https://www.careelite.de/plastikfreies-konfetti-selber-machen/)
+* [i3 wurde in der Version 4.16 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=i3-Window-Manager-4.16)
+* [In USA/Florida meckern die Republikaner, dass die Demokraten nicht genug gegen den Klimawandel machen.](https://blog.fefe.de/?ts=a51ee6d7)
+* [Maaßen ist so unzufrieden das er bei seiner Abschiedsrede einmal gegen die SPD selbst rantet.](https://blog.fefe.de/?ts=a51ee38b)
