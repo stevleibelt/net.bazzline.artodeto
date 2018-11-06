@@ -9,3 +9,7 @@
 * [Maaßen ist so unzufrieden das er bei seiner Abschiedsrede einmal gegen die SPD selbst rantet.](https://blog.fefe.de/?ts=a51ee38b)
 * [Stark, wenn auch nur im Moment und mit baldiger Gegenklage, so muss Porsche doch ein Auto zurück nehmen und Schadensersatz zahlen.](https://blog.fefe.de/?ts=a51e4629)
 * [JP Morgan und Blackrock bringen den Ball ins Rollen, eine Ratingagentur aus den USA ist der Meinung, dass die EU nicht mehr so dolle ist.](https://www.neopresse.com/europa/eu-staatsschuldenkrise-hier-legt-eine-bank-den-finger-in-die-wunde/)
+* [>>Vorverkauf des 35. Chaos Communication Congress startet<<](https://www.ccc.de/de/updates/2018/vorverkauf-35c3)
+* [>>Deutscher Gewässerzustand: Kritisch<<](http://www.sonnenseite.com/de/umwelt/deutscher-gewaesserzustand-kritisch.html)
+* [Googles Chrome 71 zensiert nun offiziell das Internet.](https://www.pro-linux.de/news/1/26469/chrome-71-blockiert-irref%C3%BChrende-inhalte.html)
+* [Die Blockpartei nutzt ein Gesetzt zum Schutz von kleinen Betrieben um Konzernen wie Nestle und Unilever den gleichen Schutz zu bieten.](https://blog.fefe.de/?ts=a51f5fd5) - Da möchte man glatt mal mit einer Mistgabel zu gewissen Leuten gehen.
