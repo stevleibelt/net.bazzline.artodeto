@@ -13,3 +13,5 @@
 * [>>Deutscher Gewässerzustand: Kritisch<<](http://www.sonnenseite.com/de/umwelt/deutscher-gewaesserzustand-kritisch.html)
 * [Googles Chrome 71 zensiert nun offiziell das Internet.](https://www.pro-linux.de/news/1/26469/chrome-71-blockiert-irref%C3%BChrende-inhalte.html)
 * [Die Blockpartei nutzt ein Gesetzt zum Schutz von kleinen Betrieben um Konzernen wie Nestle und Unilever den gleichen Schutz zu bieten.](https://blog.fefe.de/?ts=a51f5fd5) - Da möchte man glatt mal mit einer Mistgabel zu gewissen Leuten gehen.
+* [Oh Gott, wie gefährlich, für Überweisungen bis 30 Euro will die Comdirekt jetzt keine Tan mehr sehen.](https://blog.fefe.de/?ts=a51f6614)
+* [ReactOS wurde in der Version 0.4.10 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=ReactOS-0.4.10-Released)
