@@ -15,3 +15,7 @@
 * [Die Blockpartei nutzt ein Gesetzt zum Schutz von kleinen Betrieben um Konzernen wie Nestle und Unilever den gleichen Schutz zu bieten.](https://blog.fefe.de/?ts=a51f5fd5) - Da möchte man glatt mal mit einer Mistgabel zu gewissen Leuten gehen.
 * [Oh Gott, wie gefährlich, für Überweisungen bis 30 Euro will die Comdirekt jetzt keine Tan mehr sehen.](https://blog.fefe.de/?ts=a51f6614)
 * [ReactOS wurde in der Version 0.4.10 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=ReactOS-0.4.10-Released)
+* [Solidarische Landwirtschaft - sich die Ernte teilen.](https://www.solidarische-landwirtschaft.org) - Und [hier](https://www.solidarische-landwirtschaft.org/index.php?id=273&L=0) gibt es die Liste aller bestehenden "SoLaWis".
+* [Ab 2019 ist Einwegplastik in der Hansestadt Rostock verboten.](https://www.careelite.de/rostock-einwegplastik-verbot-2019/)
+* [So, so, nun erkauft sich die Blockpartei Zeit bis 2023 um das Verbot von Glyphosat rückgängig zu machen.](http://www.sonnenseite.com/de/politik/schulze-legt-plan-fuer-glyphosat-ausstieg-vor.html)
+* [Ihr seid Berliner und braucht Strom? Dann geht zu den Stadtwerken.](https://berlinerstadtwerke.de/) - Das Geld bleibt in der Region und ihr gebt einen großen Mittelfinger an ausländische Investoren die unser Land zerstören.
