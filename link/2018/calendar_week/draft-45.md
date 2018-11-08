@@ -30,3 +30,5 @@
 * [[...] Ostdeutsche kennen das, haben genügend Erfahrung damit gesammelt, wenn Medien nicht mehr kritisch berichten, sondern propagieren, motivieren und erziehen wollen. [...]](https://www.nzz.ch/feuilleton/alles-beginnt-mit-herkunft-weshalb-ostdeutschland-sich-zur-provokation-entwickelt-ld.1415437) - Schöner Artikel, danke [Hirnfick](https://tuxproject.de/blog/2018/11/liegengebliebenes-vom-7-november-2018/).
 * [Virtualbox ist kaputt.](https://blog.fefe.de/?ts=a51ad1d7)
 * [Die EU stimmt für JEFTA und damit können verstrahle Dinge aus Japan in die EU eingeführt werden.](https://netzfrauen.org/2018/11/08/trade-deal-2/)
+* [Nanu, ist das ein Zurückrudern oder ein Realitätsabgleich? Google erkennt, dass Technologie nicht die Lösung aller Probleme ist sondern die Probleme nur anders darstellt.](https://blog.fefe.de/?ts=a51a4e4d)
+* [PostgreSQL wurde in vielen Versionen aktualisiert.](https://lwn.net/Articles/771145)
