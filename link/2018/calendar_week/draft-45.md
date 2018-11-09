@@ -32,3 +32,10 @@
 * [Die EU stimmt für JEFTA und damit können verstrahle Dinge aus Japan in die EU eingeführt werden.](https://netzfrauen.org/2018/11/08/trade-deal-2/)
 * [Nanu, ist das ein Zurückrudern oder ein Realitätsabgleich? Google erkennt, dass Technologie nicht die Lösung aller Probleme ist sondern die Probleme nur anders darstellt.](https://blog.fefe.de/?ts=a51a4e4d)
 * [PostgreSQL wurde in vielen Versionen aktualisiert.](https://lwn.net/Articles/771145)
+* [Der Menschenverstand sollte euch das schon sagen, aber Garnelen die importiert sind, sind voll mit Antibiotika.](https://netzfrauen.org/2018/11/09/aquakultur-3/)
+* [Virtual Box wurde in der Version 5.2.22 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=VirtualBox-5.2.22-Released)
+* [Realitätsabgleich EU-Agrakultur soll überall gleich sein vs. lokale Pflanzen können auch mit wenig Wasser umgehen.](https://bio-erzgebirge.de/wp/?p=16784)
+* [GSConnect wurde in der Version 15 veröffentlicht.](https://www.pro-linux.de/news/1/26481/gsconnect-v15-kde-connect-f%C3%BCr-die-gnome-shell.html)
+* [Ich wusste nicht das es den gibt: BOFH Calendar.](http://bofhcalendar.com/)
+* [Am 23.März 2019 findet das nächste Chemnitzer Impfsymposium statt.](https://svhgev.de/nachlese-zum-12-chemnitzer-impfsymposium/) - [Hier](https://svhgev.de/ankuendigung-13-impfsymposium-am-23-maerz-2019/) gibt es mehr Infromation dazu.
+* [Eine Tochter von Flinten-Uschi arbeitet auch bei McKinsey.](https://blog.fefe.de/?ts=a51b63c8)
