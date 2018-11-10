@@ -39,3 +39,11 @@
 * [Ich wusste nicht das es den gibt: BOFH Calendar.](http://bofhcalendar.com/)
 * [Am 23.März 2019 findet das nächste Chemnitzer Impfsymposium statt.](https://svhgev.de/nachlese-zum-12-chemnitzer-impfsymposium/) - [Hier](https://svhgev.de/ankuendigung-13-impfsymposium-am-23-maerz-2019/) gibt es mehr Infromation dazu.
 * [Eine Tochter von Flinten-Uschi arbeitet auch bei McKinsey.](https://blog.fefe.de/?ts=a51b63c8)
+* [Die Terminal Schrift Noto Moto sieht wirklich gut aus.](https://blog.kylemanna.com/cli/favorite-linux-terminal-font-google-noto-mono/)
+* [Eine Millionen Schüler müssen von unseren Steuergeldern bezuschusst werden, weil die Blockpartei nichts für den Wohlstand für Alle tut.](https://www.neopresse.com/politik/unfassbare-zahlen-mehr-als-1-million-schueler-muessen-unterstuetzt-werden/)
+* ["Wirtschaftsweisen" wollen Krankenhäuser schließen - oder anders, die privaten Krankenhäuser könnten ihre Preise nach oben schnellen lassen wenn es keine lästige Konkurenz mehr gäbe die einen sozialen Charackter hat.](https://www.neopresse.com/nachrichten/wirtschaftsweiser-fordert-schliessung-von-krankenhaeusern/)
+* [Hier gibt es ein Rezept wie ihr das Lebkuchengewürz selber herstellt.](https://www.smarticular.net/lebkuchengewuerz-selber-machen-herstellen-ersatz-rezept/)
+* [Wenn Suttgart so eine Wirtschaftssubvention bekommt, will das arme Frankfurt dies auch haben!](https://blog.fefe.de/?ts=a518caf1)
+* [Seagate-Festplatten kann man nun nicht mehr kaufen, die haben bald Blockhain und Cloud inside.](https://blog.fefe.de/?ts=a51b3b27)
+* [Bei Github können Sicherheitsprobleme jetzt gelöscht werden.](https://blog.fefe.de/?ts=a518c208)
+* [Wine wurde in der Version 3.20 veröffentlicht.](http://www.phoronix.com/scan.php?page=news_item&px=Wine-3.20-Released)
