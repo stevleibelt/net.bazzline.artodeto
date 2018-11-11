@@ -47,3 +47,10 @@
 * [Seagate-Festplatten kann man nun nicht mehr kaufen, die haben bald Blockhain und Cloud inside.](https://blog.fefe.de/?ts=a51b3b27)
 * [Bei Github können Sicherheitsprobleme jetzt gelöscht werden.](https://blog.fefe.de/?ts=a518c208)
 * [Wine wurde in der Version 3.20 veröffentlicht.](http://www.phoronix.com/scan.php?page=news_item&px=Wine-3.20-Released)
+* [DXVK wurde in der Verstion 0.92 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=DXVK-0.92-Released)
+* [Polen überlegt auch aus der EU auszusteigen.](https://www.neopresse.com/europa/steht-polen-kurz-vor-dem-polexit-aus-der-eu/) - So langsam stellt sich dann die Frage was passiert, wenn alle >>starken<< Länder austreten, nennt man die EU dann um in groß Deutsches Reich vieler Nationen?
+* [Die Kirche agiert beim Verlassen selbiger leider so wie eine Drückerkolone.](https://blog.fefe.de/?ts=a516ead6)
+* [Amazon macht nur Geschäfte mit wem sie wollen, also machen die Geschäfte nur noch mit wem sie wollen.](https://blog.fefe.de/?ts=a516e1b0) - Und das ist dann geschlossen nicht Amazon - schon verrückt, wenn man bedenkt, dass Amazon's Aufstieg genau aus diesem Geschäftszweig rührt - dem Verkauf von gebrauchten Büchern.
+* [Krass, Teile der Polizei nutzen den G20-Gipfel mal um all ihren "Gefährdern" einen Besuch abzustatten und ihr Eigentum zu verwüsten - hier ein Fall wo der beschuldigte Täter in Japan war.](https://blog.fefe.de/?ts=a5194321) - Auf den Kosten der Hausstürmung bleibt der Beschuldigte natürlich alleine sitzen.
+* [Neuster Schrei, Textielbeton.](http://www.sonnenseite.com/de/wissenschaft/bauen-mit-textilbeton-aus-nachwachsenden-rohstoffen.html)
+* [Debian wurde in der Version 9.6 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=Debian-9.6-Released)
