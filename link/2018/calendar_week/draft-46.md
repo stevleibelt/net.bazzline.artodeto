@@ -1,3 +1,6 @@
 * [Klsterpark Altzella in Nossen/Sachsen.](https://www.kloster-altzella.de)
 * [Sehenswertes an der Freiberger Mulde.](http://www.mulderadweg.de/de/Freiberger-Mulde/Freiberg--Nossen/Sehenswertes_1231.html)
 * [>>02.09.2019 bis 07.09.2019 - Gesundheitswoche am Meer<<](https://www.heimvolkshochschule.de/veranstaltungen/7/2009998/2019/09/02/gesund-leben-jung-bleiben.html)
+* [Mit JEFTA wird wieder probiert die Wasserversorgung, also ein Teil der kritischen Infrastruktur mit der man keine Gewinne erzeugt, wenn man etisch integer ist, auf den freien Markt zu bringen - denn der freie Markt gehört den Konzernen und ein Konzern hat kein Herz.](https://npr.news.eulu.info/2018/11/12/jefta-untergraebt-die-entscheidungshoheit-der-staedte-und-gemeinden-beim-wasser/) - "[...] Gleichzeitig würde JEFTA eine Art Schattenparlament für Konzernlobbyist*innen etablieren: Sie erhalten über die “regulatorische Kooperation” das Recht, an Gesetzen mitzuwirken, noch bevor die Parlamente daran beteiligt sind. [...]"
+* [Energie aus fossilen Brennstoffen wird teurer, damit auch das Reisen welches zusammen die Inflation ansteigen lässt.](https://www.neopresse.com/wirtschaft/inflation-steigt-auf-25-der-weiche-merkel-euro-ist-teuer/)
+* [Auf der Webseite woodola werden Holzprodukte gehandelt.](https://www.careelite.de/woodola-nachhaltige-holzprodukte/) - Pro Kauf werden Bäume gepflanzt.
