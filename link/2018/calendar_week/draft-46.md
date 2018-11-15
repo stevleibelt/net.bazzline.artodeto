@@ -27,3 +27,7 @@
 * [Die EU hat vorerst entschieden, dass man auf einen Geschmack kein Copyright geben kann.](https://blog.fefe.de/?ts=a512e29a) - Da muss Bayer oder Coca Cola wohl einfach noch ein paar Milliarden an Schmiergelder nachwerfen, damit dies beim nächsten Anlauf klappt.
 * [Kanada sterilisiert wohl Frauen der Ureinwohner wenn diese in den öffentlichen Kliniken kommen ... natürlich ohne deren Einverständnis.](https://blog.fefe.de/?ts=a512e543)
 * [Gemeine Idee der Blockpartei, da wird die Rente minimal angehoben damit eine große Menge von Rentner in neue Steuerklassen fallen und damit mehr Steuern zahlen müssen und am Ende weniger Netto vom Brutto haben - ja, das ist die CDU.](https://www.neopresse.com/politik/union-erwaegt-rente-mit-80-von-der-arbeit-ins-grab/)
+* [Die C't ist 35 geworden :-).](https://blog.fefe.de/?ts=a5138bf2)
+* [Nun gibt es eine Meltdown-Art auch für Arm, AMD und natürlich Intel.](https://blog.fefe.de/?ts=a513f7e2)
+* [Da hat die Atlantikbrücke gut funktioniert, Brexit lohnt sich für die Briten.](https://blog.fefe.de/?ts=a513ffe2) - Hoffentlich machen das nun andere Länder nach.
+* [Nicht nur das Oracle ein Konzern ohne Herz ist, auch die Datenbank muss so ein Monster sein wie man es sich vorstellt.](https://blog.fefe.de/?ts=a513ff3b)
