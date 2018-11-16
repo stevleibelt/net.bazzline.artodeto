@@ -31,3 +31,5 @@
 * [Nun gibt es eine Meltdown-Art auch für Arm, AMD und natürlich Intel.](https://blog.fefe.de/?ts=a513f7e2)
 * [Da hat die Atlantikbrücke gut funktioniert, Brexit lohnt sich für die Briten.](https://blog.fefe.de/?ts=a513ffe2) - Hoffentlich machen das nun andere Länder nach.
 * [Nicht nur das Oracle ein Konzern ohne Herz ist, auch die Datenbank muss so ein Monster sein wie man es sich vorstellt.](https://blog.fefe.de/?ts=a513ff3b)
+* [Das neue EU-Leistungschutzrecht ist wohl so kompliziert, dass kaum einer eine Ahnung davon hat.](https://blog.fefe.de/?ts=a5133447) - Ein gutes Zeichen, dass das Ding nicht funktioniert und dass zu viele Lobbyisten da mitgeschrieben haben.
+* [71 Prozent der Konsumenten wollen keinen (Plastik)-Müll mit nach Hause nehmen.](http://www.sonnenseite.com/de/umwelt/verbraucher-wollen-weniger-to-go-muell.html) - Nein? Doch! Oh?
