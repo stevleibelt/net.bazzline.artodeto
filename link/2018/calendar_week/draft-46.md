@@ -33,3 +33,6 @@
 * [Nicht nur das Oracle ein Konzern ohne Herz ist, auch die Datenbank muss so ein Monster sein wie man es sich vorstellt.](https://blog.fefe.de/?ts=a513ff3b)
 * [Das neue EU-Leistungschutzrecht ist wohl so kompliziert, dass kaum einer eine Ahnung davon hat.](https://blog.fefe.de/?ts=a5133447) - Ein gutes Zeichen, dass das Ding nicht funktioniert und dass zu viele Lobbyisten da mitgeschrieben haben.
 * [71 Prozent der Konsumenten wollen keinen (Plastik)-Müll mit nach Hause nehmen.](http://www.sonnenseite.com/de/umwelt/verbraucher-wollen-weniger-to-go-muell.html) - Nein? Doch! Oh?
+* [Solarstrom und Speichersysteme? Auf was sollte man achten.](http://www.sonnenseite.com/de/wissenschaft/solarstromspeicher-unter-der-wissenschaftlichen-lupe.html)
+* [Heilung mit natürlichen Mitteln - Die geheimnisvolle Kraft der Algen](https://www.welt-im-wandel.tv/video/heilung-mit-natuerlichen-mitteln-die-geheimnisvolle-kraft-der-algen/)
+* [New Zeeland Airline verzichtet auf Einwegplastik während des Fluges.](https://www.careelite.de/air-new-zealand-verbannt-einwegplastik/)
