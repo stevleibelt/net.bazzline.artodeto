@@ -1,0 +1,3 @@
+* [Wer hätte gedacht, dass sich Debian so gut im Bereich Geschwindigkeit verkauft?](https://www.phoronix.com/scan.php?page=article&item=void-linux-2018)
+* [Was passiert, wenn ein Bayer für den Heimatschutz in Deutschland zuständig ist? Jeder Müll, den Bayern produziert, soll ausgeführt werden - also raus aus Bayern aber gern in Deutschland verweilend - Atommüll zum Beispiel.](https://blog.fefe.de/?ts=a50c635d)
+* [Haushaltsgroßgeräte werden selten richtig entsorgt, also das überrascht euch bestimmt so wie mich.](http://www.sonnenseite.com/de/umwelt/die-wenigsten-haushaltsgrossgeraete-werden-ordnungsgemaess-gesammelt.html)
