@@ -1,3 +1,8 @@
 * [Wer hätte gedacht, dass sich Debian so gut im Bereich Geschwindigkeit verkauft?](https://www.phoronix.com/scan.php?page=article&item=void-linux-2018)
 * [Was passiert, wenn ein Bayer für den Heimatschutz in Deutschland zuständig ist? Jeder Müll, den Bayern produziert, soll ausgeführt werden - also raus aus Bayern aber gern in Deutschland verweilend - Atommüll zum Beispiel.](https://blog.fefe.de/?ts=a50c635d)
 * [Haushaltsgroßgeräte werden selten richtig entsorgt, also das überrascht euch bestimmt so wie mich.](http://www.sonnenseite.com/de/umwelt/die-wenigsten-haushaltsgrossgeraete-werden-ordnungsgemaess-gesammelt.html)
+* [Am Beispiel der Einspeisevergütung zeigt sich wieder für wem die Blockpartei arbeitet. Statt dezentrale und kommunale (Solar)-Energiekraftwerke zu fördern, wird die Einspeisevergütung so "angepasst", dass nur noch Großkonzerne davon profitieren und wirtschaftlich sein können.](http://www.sonnenseite.com/de/politik/bundesregierung-angriff-auf-die-energiewende-in-buergerhand.html)
+* [Software defined networking? Hier gibt es einen kurzen Einstieg.](https://opensource.com/article/18/11/intro-software-defined-networking)
+* [DaVinci Resolve wurde in der Version 15.2 veröffentlicht.](https://www.pro-linux.de/news/1/26513/videoeditor-davinci-resolve-152-f%C3%BCr-linux-freigegeben.html)
+* [OTRS wurde in der Version 7 veröffentlicht.](https://www.pro-linux.de/news/1/26514/help-desk-system-otrs-7-erschienen.html)
+* [Schade, viele Firmen vertrauen auf die Qualität von IPFire aber scheinbar hält es niemand für nötig diese Qualität mit Spenden zu honorieren.](https://www.pro-linux.de/news/1/26515/ipfire-startet-spendenkampagne.html)
