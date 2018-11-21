@@ -6,3 +6,7 @@
 * [DaVinci Resolve wurde in der Version 15.2 veröffentlicht.](https://www.pro-linux.de/news/1/26513/videoeditor-davinci-resolve-152-f%C3%BCr-linux-freigegeben.html)
 * [OTRS wurde in der Version 7 veröffentlicht.](https://www.pro-linux.de/news/1/26514/help-desk-system-otrs-7-erschienen.html)
 * [Schade, viele Firmen vertrauen auf die Qualität von IPFire aber scheinbar hält es niemand für nötig diese Qualität mit Spenden zu honorieren.](https://www.pro-linux.de/news/1/26515/ipfire-startet-spendenkampagne.html)
+* [40 Kilo abgenommen - Gesund abnehmen & schlank bleiben ohne Hungern](https://www.welt-im-wandel.tv/video/40-kilo-abgenommen-gesund-abnehmen-schlank-bleiben-ohne-hungern/)
+* [Ist jetzt auch beim Fefe angekommen, mit der Nutella zerstört ihr Chile und esst Pestizide die in Europa längst verboten sind.](https://blog.fefe.de/?ts=a50ab396)
+* [Da geht man auf eine Messer um dann mit Kopfhörern einen Vortrag zu lauschen ... da bin ich zu blöd für.](https://blog.fefe.de/?ts=a50ab103)
+* [Protonmail schützt euch wohl so gut vor Datendiebstahl wie die CDU den Mittelstand.](https://blog.fefe.de/?ts=a50aaf39)
