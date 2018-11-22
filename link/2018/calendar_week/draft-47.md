@@ -10,3 +10,7 @@
 * [Ist jetzt auch beim Fefe angekommen, mit der Nutella zerstört ihr Chile und esst Pestizide die in Europa längst verboten sind.](https://blog.fefe.de/?ts=a50ab396)
 * [Da geht man auf eine Messer um dann mit Kopfhörern einen Vortrag zu lauschen ... da bin ich zu blöd für.](https://blog.fefe.de/?ts=a50ab103)
 * [Protonmail schützt euch wohl so gut vor Datendiebstahl wie die CDU den Mittelstand.](https://blog.fefe.de/?ts=a50aaf39)
+* [Cisco lebt in seiner eigenen Welt, wo ihre kaputten Produkte als sicher gelten.](https://blog.fefe.de/?ts=a50b8a63)
+* [Realitätsabgleich Industrieveranstaltungen und Wissenstransfer via PR-Veranstaltungen.](https://blog.fefe.de/?ts=a50bfc32)
+* [10 Dinge die ihr machen könnt, um eure Dankbarkeit gegenüber eurer Open-Source-Software auszudrücken.](https://opensource.com/article/18/11/ways-give-thanks-open-source)
+* [Schönes Beispiel an der Zukunft der KI, Hotmail kann nicht sagen warum ihr Service einen Mailserver auf Blacklist gesetzt hat. "Unsere KI macht das irgendwie und wir können auch nicht sagen warum und wieso, nur dass es so ist. Sie von der Blacklist entfernen können wir auch nicht, dass kann nur die KI."](https://blog.fefe.de/?ts=a50aba98) - Und diesen Systemen möchte die Wirtschaft gern unsere ganze Infrastruktur anvertrauen, um Personal zu sparen, Leute in die Arbeitslosigkeit zu schicken um den Aktionären ein paar Eurocent mehr Gewinn zu ermöglichen.
