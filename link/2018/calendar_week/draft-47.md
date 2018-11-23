@@ -22,3 +22,16 @@
 * [In Argentinien geht man gegen BAYER/Monsanto auf die Straße.](https://netzfrauen.org/2018/11/22/bayermonsanto-4/)
 * [Schöne Idee um schnell heraus zufinden woher nun dieses SQL-Statement wieder kam, packt die source als Kommentar in das Query.](https://ma.ttias.be/tracking-sql-queries/) - In PHP könnte es dann so aussehen >>'AND  ' . FooPeer::ID . ' = ':my_value; -- source ' . __METHOD__ . ';';<<.
 * [Nextcloud wurde in der Version 12.0.12, 13.0.8 und 14.0.4 veröffentlicht.](https://nextcloud.com/blog/nextcloud-12.0.12-13.0.8-and-14.0.4-are-available/)
+* [40 Kilo abgenommen - Gesund abnehmen & schlank bleiben ohne Hungern](https://www.welt-im-wandel.tv/video/40-kilo-abgenommen-gesund-abnehmen-schlank-bleiben-ohne-hungern/)
+* [Ist jetzt auch beim Fefe angekommen, mit der Nutella zerstört ihr Chile und esst Pestizide die in Europa längst verboten sind.](https://blog.fefe.de/?ts=a50ab396)
+* [Da geht man auf eine Messer um dann mit Kopfhörern einen Vortrag zu lauschen ... da bin ich zu blöd für.](https://blog.fefe.de/?ts=a50ab103)
+* [Protonmail schützt euch wohl so gut vor Datendiebstahl wie die CDU den Mittelstand.](https://blog.fefe.de/?ts=a50aaf39)
+* [Cisco lebt in seiner eigenen Welt, wo ihre kaputten Produkte als sicher gelten.](https://blog.fefe.de/?ts=a50b8a63)
+* [Realitätsabgleich Industrieveranstaltungen und Wissenstransfer via PR-Veranstaltungen.](https://blog.fefe.de/?ts=a50bfc32)
+* [10 Dinge die ihr machen könnt, um eure Dankbarkeit gegenüber eurer Open-Source-Software auszudrücken.](https://opensource.com/article/18/11/ways-give-thanks-open-source)
+* [Schönes Beispiel an der Zukunft der KI, Hotmail kann nicht sagen warum ihr Service einen Mailserver auf Blacklist gesetzt hat. "Unsere KI macht das irgendwie und wir können auch nicht sagen warum und wieso, nur dass es so ist. Sie von der Blacklist entfernen können wir auch nicht, dass kann nur die KI."](https://blog.fefe.de/?ts=a50aba98) - Und diesen Systemen möchte die Wirtschaft gern unsere ganze Infrastruktur anvertrauen, um Personal zu sparen, Leute in die Arbeitslosigkeit zu schicken um den Aktionären ein paar Eurocent mehr Gewinn zu ermöglichen.
+* [Keine Steuern zahlen, Subventionen erhalten und Mitarbeiter nicht wertschätzen sondern als Wegwerfware zu nutzen, genau das ist amazon.](https://netzfrauen.org/2018/11/22/black-friday-2/)
+* [Blackrock Merz schützt den Betrug am eigenen Volke mit dem Namen "ADR" (>>Die haben Steuerrückzahlungen auf Dividenden für Aktien beantragt und gekriegt, die es gar nicht gibt!<<).](https://blog.fefe.de/?ts=a5081c8b)
+* [Stephan Harbarth von der CDU wurde zum Verfassungsrichter gewählt. Der Mann mag die Verfassung nicht, steht mit einem Bein bei VW in Lohn und Brot und wird grusellige Gesetze durchwinken.](https://blog.fefe.de/?ts=a508109a)
+* [Krass, Knuddels verkackt und speichert die Passwörter im Klartext und muss dafür läppische 20.000 Euro Strafe zahlen.](https://blog.fefe.de/?ts=a508038e)
+* [AV1 wird schneller und schneller.](https://www.pro-linux.de/news/1/26525/av1-codec-dav1d-jetzt-vollst%C3%A4ndig.html)
