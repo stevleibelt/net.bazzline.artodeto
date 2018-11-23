@@ -38,3 +38,5 @@
 * [Ihr zahlt euere Bahnkarte und seid eh schon genervt davon, dass ihr jeden Tag viele Kilometer fahren müsst, weil die Politik das derbe verkackt hat? Tja, dann schmeißt euch die Polizei halt raus weil die Bahn keinen Bock hat mehr Züge einzusetzen die dem Verkehrsaufkommen gerecht werden.](https://blog.fefe.de/?ts=a509868c)
 * [Heizung über das Internet steuern? Funktioniert halt nicht und so sieht es mit allen Dingen im IoT aus.](https://blog.fefe.de/?ts=a509f085)
 * [Cool, man kann seine LibreOffice-Dokumente direkt in die Nextcloud speichern.](https://www.schilljs.com/2018/11/22/save-libreoffice-to-nextcloud.html)
+* [XMPP-Server Prosody wurde in der Version 0.11.0 veröffentlicht.](https://www.pro-linux.de/news/1/26527/xmpp-server-prosody-0110-erschienen.html)
+* [Die VG Media hat die Uni Humboldt so lange geschmiert, bis die Uni auf einmal auch auf ein brügerfeindliches Urheberrecht steht.](https://blog.fefe.de/?ts=a5092334)
