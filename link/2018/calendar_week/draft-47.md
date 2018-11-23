@@ -35,3 +35,6 @@
 * [Stephan Harbarth von der CDU wurde zum Verfassungsrichter gewählt. Der Mann mag die Verfassung nicht, steht mit einem Bein bei VW in Lohn und Brot und wird grusellige Gesetze durchwinken.](https://blog.fefe.de/?ts=a508109a)
 * [Krass, Knuddels verkackt und speichert die Passwörter im Klartext und muss dafür läppische 20.000 Euro Strafe zahlen.](https://blog.fefe.de/?ts=a508038e)
 * [AV1 wird schneller und schneller.](https://www.pro-linux.de/news/1/26525/av1-codec-dav1d-jetzt-vollst%C3%A4ndig.html)
+* [Ihr zahlt euere Bahnkarte und seid eh schon genervt davon, dass ihr jeden Tag viele Kilometer fahren müsst, weil die Politik das derbe verkackt hat? Tja, dann schmeißt euch die Polizei halt raus weil die Bahn keinen Bock hat mehr Züge einzusetzen die dem Verkehrsaufkommen gerecht werden.](https://blog.fefe.de/?ts=a509868c)
+* [Heizung über das Internet steuern? Funktioniert halt nicht und so sieht es mit allen Dingen im IoT aus.](https://blog.fefe.de/?ts=a509f085)
+* [Cool, man kann seine LibreOffice-Dokumente direkt in die Nextcloud speichern.](https://www.schilljs.com/2018/11/22/save-libreoffice-to-nextcloud.html)
