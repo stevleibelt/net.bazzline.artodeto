@@ -48,3 +48,13 @@
 * [Minijobs nennt man bald Midijobs, mit noch weniger Rentenansprüche.](https://blog.fefe.de/?ts=a506c9f8)
 * [Neuste Funktion der Deutschen Bahn - der Zug hält nicht mehr am Bahnhof wenn der Zug voll ist. Wie dies dann mit den Anschlusszügen und euren Karten ist, ist bisher ungeklärt.](https://blog.fefe.de/?ts=a506c668)
 * [Die Firma enyway bietet euch irgendwie ein Stück Solarpannel zur miete an.](http://www.sonnenseite.com/de/energie/ansturm-auf-weltweit-einzigartiges-solaranlagen-projekt-von-enyway.html)
+* [DXVK wurde in der Version 0.93 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=DXVK-0.93-Released)
+* [Der VW-Betriebsrat sieht seine eigenen Fehler nicht ein und meint, dass sich doch bitte dieser lästige Klimawandel an die Autos anpassen soll und nicht umgekehrt.](https://blog.fefe.de/?ts=a507fdf6)
+* [Realitätsabgleich wir machen unsere Umwelt kaputt, Riesenviren dank Klimaerwärmung.](https://blog.fefe.de/?ts=a507fe78)
+* [Teelichtofen Kinder.](https://duckduckgo.com/?q=teelichtofen&t=ffab&ia=web)
+* [Wo Blackrock überall drinne steckt.](https://netzfrauen.org/2018/11/24/weltcom/) - Mit dem wenigen Prozenten am Firmenanteil sind die Heuschrecken in Form von Beratern im Haus und vernetzwerken sich überall zu einem großen Krebsgeschwür.
+* [Arte hat sich mit ihrer Propagandaschau "Mit offenen Karten" nun auch endgültig als Werbetrommel der USA gezeigt.](http://www.niewiederkrieg.eu/?p=775)
+* [Endlich wieder Vergiftung und Krebs zur Grippezeit, dank der gefährlichen und nicht schützendend Impfung.](https://www.neopresse.com/wissenschaft/jetzt-ist-wieder-saison-grippeimpfungen-sind-toxisch-und-krebserregend/)
+* [Dank dem Brexit und der dennoch gewünschten starken Zusammenarbeit von EU und UK, könnten US-amerikanische Großbanken über UK eine noch schlimmere Version von TTIP/CETA und JEFTA installieren.](https://www.neopresse.com/politik/geheimer-als-ttip-was-die-finanzlobby-im-schatten-des-brexit-plant/)
+* [Mit Hilfe der Gemeinnützigkeit ist Wien bezahlbar, was wäre Deutschland für ein Land, wenn es hier auch so etwas im Gesetz gäbe? Die Blockpartei und Blackrock wollen dies natürlich nicht.](https://www.neopresse.com/gesellschaft/wien-macht-vor-wie-guenstiges-wohnen-in-der-grossstadt-funktioniert/)
+* [Wenn wir genügend Polizisten auf der Straße und dem Alltag hätten, würde auch endlich ein Polizist klingeln, wenn Gewalt gegen Kindern und Eheleuten gemeldet wird.](https://netzfrauen.org/2018/11/25/frauen/)
