@@ -1,2 +1,5 @@
 * [Zwei empfehlenswerte Artikel von Rubikon werden hier angerissen - >>Der Öl-Fake<< und >>die Lügen der Macht<<.](http://www.niewiederkrieg.eu/?p=784)
 * [In Frankenau bei Mittweida gibt es 6000 qm² die bewirtschaftet werden wollen.](https://bio-erzgebirge.de/wp/?p=16924)
+* [Kletterhalle in Freiberg/Sachsen gesucht? Sächs'scher Maunt'nverein Freiberg (SMF) e.V. (Jahn-Sporthalle, Turnerstraße 3, 09599 Freiberg)](https://www.smf-ev.de)
+* [>>Ein Klagebündnis von Solarenergie-Förderverein Deutschland e.V. (SFV), Bund für Umwelt und Naturschutz Deutschland (BUND) und vielen Einzelklägern hat am Freitag Klage wegen der völlig unzureichenden deutschen Klimapolitik vor dem Bundesverfassungsgericht (BVerfG) erhoben.<<](http://www.sonnenseite.com/de/politik/verfassungsklage-wegen-unzureichender-deutscher-klimapolitik.html)
+* [Die deutschen Krankenkassen, die eigentlich einen sozialen Auftrag haben, machen dieses Jahr mehr als 2 Milliarden Euro gewinn.](https://www.neopresse.com/wissenschaft/unglaublich-auch-die-krankenkassen-machen-einen-milliardengewinn-wieder/)
