@@ -3,3 +3,11 @@
 * [Kletterhalle in Freiberg/Sachsen gesucht? Sächs'scher Maunt'nverein Freiberg (SMF) e.V. (Jahn-Sporthalle, Turnerstraße 3, 09599 Freiberg)](https://www.smf-ev.de)
 * [>>Ein Klagebündnis von Solarenergie-Förderverein Deutschland e.V. (SFV), Bund für Umwelt und Naturschutz Deutschland (BUND) und vielen Einzelklägern hat am Freitag Klage wegen der völlig unzureichenden deutschen Klimapolitik vor dem Bundesverfassungsgericht (BVerfG) erhoben.<<](http://www.sonnenseite.com/de/politik/verfassungsklage-wegen-unzureichender-deutscher-klimapolitik.html)
 * [Die deutschen Krankenkassen, die eigentlich einen sozialen Auftrag haben, machen dieses Jahr mehr als 2 Milliarden Euro gewinn.](https://www.neopresse.com/wissenschaft/unglaublich-auch-die-krankenkassen-machen-einen-milliardengewinn-wieder/)
+* [Da war wohl der Zensur pinkeln, die ARD hat ein Erklärbär-Video gemacht das behauptet, dass an der Dürre in Deutschland, den Überschwemungen in Italien und den Waldbränden in Kalifornien doch tatsächlich dieses Ökogespenst "Klimawandeln" dran schuld ist.](https://blog.fefe.de/?ts=a502d366)
+* [Seoul zeigt erneut schön was so passiert, wenn nur noch ein Kabel in der Erde liegt und an diesem kritischen Punkt dennoch gespart wird.](https://blog.fefe.de/?ts=a502d91a) - Und wie schön die Welt wird, wenn alles nur noch digital geht.
+* [Krass, die Comdirekt Banking Anwendung für Smartphones ignoriert Zertifikatsfehler und macht einfach weiter.](https://blog.fefe.de/?ts=a502de88)
+* [200 Wale weniger in Neuseeland - krass der Genozid. Ob daran auch dieser Hippikult mit seinem Klimawandelklamauk schuld ist?](https://netzfrauen.org/2018/11/26/newzealand-2/)
+* [In den USA wurde gerade aufgedeckt, dass nahezu alle Fluglinien Kunden weit von einander aufteilen, damit man eben diesen Kunden noch einmal eine extra Gebühr aufbrummen kann, wenn sie beieinander sitzen wollen.](https://blog.fefe.de/?ts=a502f9c6)
+* [Nutzt hier jemand das Node-JS Modul "event-stream"? Das kommt jetzt mit Maleware.](https://blog.fefe.de/?ts=a502fac9)
+* [Fefe ist so nett und hat Folie über das Thema "Blockchain" zusammen gestellt.](https://blog.fefe.de/?ts=a5028113)
+* [Frankreich fängt and und verhängt Strafen gegen Kreuzfahrtschiffe weil die den letzten Müll verbrennen.](https://blog.fefe.de/?ts=a5028ea5)
