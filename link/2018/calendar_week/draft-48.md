@@ -11,3 +11,9 @@
 * [Nutzt hier jemand das Node-JS Modul "event-stream"? Das kommt jetzt mit Maleware.](https://blog.fefe.de/?ts=a502fac9)
 * [Fefe ist so nett und hat Folie über das Thema "Blockchain" zusammen gestellt.](https://blog.fefe.de/?ts=a5028113)
 * [Frankreich fängt and und verhängt Strafen gegen Kreuzfahrtschiffe weil die den letzten Müll verbrennen.](https://blog.fefe.de/?ts=a5028ea5)
+* [Chile hat bald 100 neue Elektrobusse.](http://www.sonnenseite.com/de/mobilitaet/yutong-bus-liefert-100-electrobusse-nach-chile.html) - Chile, das Land wo die Stromerzeugung verstaatlicht ist und wo es fast nur noch regenerative Energie gibt.
+* [E.ON's Tochtergesellschaft >>PreussenElektra<< macht weiterhin ihr Geld in Atomenergie.](http://www.sonnenseite.com/de/wirtschaft/e.on-setzt-weiter-auf-atomenergie.html) - PreussenElektra wurde nur gegründet, damit diese Firma zu tode geklagt werden kann wenn es darum geht den Atommüll aufzuräumen und die Atomkraftwerke zurück zubauen.
+* [IPFire wurde in der Version 2.21 Core Update 125 veröffentlicht.](https://www.pro-linux.de/news/1/26538/ipfire-221-core-update-125-unterst%C3%BCtzt-80211ac.html)
+* [Mal wieder genmanipulierte Kinder, dieses Mal in China.](https://netzfrauen.org/2018/11/27/crispr-2/) - Dabei bieten sich doch die Ureinwohner in Kanada so gut an, Kanada hat doch sonst auch keine Skrupel gegenüber deren "First Nations".
+* [Wenn ihr heute einen Euro für Archive.org spendet, wird eure Spende von jemanden in der Hinterhand verdoppelt!](https://blog.fefe.de/?ts=a503ab7b)
+* [Akademische Papers werden jetzt durch AI gegengeprüft :O.](https://blog.fefe.de/?ts=a5039c29) - Trainierste deine AI gescheit und dein Paper wird super.
