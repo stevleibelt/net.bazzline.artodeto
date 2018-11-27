@@ -17,3 +17,5 @@
 * [Mal wieder genmanipulierte Kinder, dieses Mal in China.](https://netzfrauen.org/2018/11/27/crispr-2/) - Dabei bieten sich doch die Ureinwohner in Kanada so gut an, Kanada hat doch sonst auch keine Skrupel gegenüber deren "First Nations".
 * [Wenn ihr heute einen Euro für Archive.org spendet, wird eure Spende von jemanden in der Hinterhand verdoppelt!](https://blog.fefe.de/?ts=a503ab7b)
 * [Akademische Papers werden jetzt durch AI gegengeprüft :O.](https://blog.fefe.de/?ts=a5039c29) - Trainierste deine AI gescheit und dein Paper wird super.
+* [Jede Krankheit hat eine seelische Ursache: Die Macht der geistigen Heilung - Clemens Kuby](https://www.welt-im-wandel.tv/video/jede-krankheit-hat-eine-seelische-ursache-die-macht-der-geistigen-heilung-clemens-kuby/)
+* [Was bewirkt Kompression eigentlich so bei einer MySQL mit InnoDB und MyIsam?](https://www.percona.com/blog/2018/11/23/compression-options-in-mysql-part-1/)
