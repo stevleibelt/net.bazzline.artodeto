@@ -32,3 +32,9 @@
 * [Svenja Schulze stellt ein 5-Punkte-Plan gegen Plastikmüll vor.](https://www.careelite.de/umweltministerin-will-selbstverpflichtung-gegen-plastikmuell/) - Was mir sehr gut gefällt, an erster Stelle steht "Trinkwasser für alle überall". Wie gern hätte ich hier kostenfreie Trinkwasserbrunnen in der Stadt.
 * [KDE Plasma wurde in der Version 5.14 veröffentlicht.](https://www.pro-linux.de/news/1/26547/kde-plasma-514-aktualisiert.html)
 * [>>Vogelfutter für Gabriele zum verteilen: Wer kann helfen?<<](https://bio-erzgebirge.de/wp/?p=16982)
+* [Supervisord, soft limit? minfds? Hier wird euch alles erklärt.](https://ma.ttias.be/increase-the-number-of-open-files-for-jobs-managed-by-supervisord/)
+* [Die Bertelsmann "Stiftung" will missvertrauen in der Bevölkerung schüren und zwar schon im Kindergarten. "Melden sie bitte alles immer sofort bei der Stasi statt mit den Eltern zu reden und Vielfalt zuzulassen.](https://npr.news.eulu.info/2018/11/29/die-stasi-kommt-auf-leisen-sohlen/)
+* [Scheelchen Heeßen :-)](https://www.so-geht-saechsisch.de/zu-hause-in-sachsen/heimat/drausseninsachsen-2-mehr-als-nur-ein-kaffee/)
+* [Hier gibt es zwei Atemübungen, eine gegen Schmerzen und die andere gegen Atemnot.](https://www.smarticular.net/atemuebungen-gegen-schmerzen-fibromyalgie-atemnot-beruhigung/)
+* [Organisierte Bandenkriminalität zwischen Krankenhäusern und Gerätehersteller.](https://blog.fefe.de/?ts=a2fef958) - Der Herzschrittmacher ist kacke, das Gerät gibt es umsonst (kostet auch nichts, wirklich), aber die Austauschop zahlen wir als Gemeinschaft weil sich dies der hersteller sparen will.
+* [Bayer will 12.000 Mitarbeiter kündigen, weil man die durch das Monopol nach der Monsanto-Übernahme nicht mehr braucht.](https://blog.fefe.de/?ts=a2fef771) - Konzerne haben kein Herz Kinder.
