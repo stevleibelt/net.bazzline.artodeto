@@ -28,3 +28,7 @@
 * [Holarse macht ein Adventskalender für Linux-Spiele :-).](https://www.pro-linux.de/news/1/26543/holarse-startet-linux-spiele-adventskalender.html)
 * [Die Koreaner sind so vom Alltag gestresst und deren Arbeitsdruck ist so hoch, dass sie sich selbst einen Tag "Ruhe" im Gefängnis gönnnen.](https://blog.fefe.de/?ts=a500b13f)
 * [Asien ist das Versuchsfeld für 5G Dauerbestrahlung, Afrika ist das Versuchsfeld für Genmais - Afrika/Tanzania sagt jetzt Fuck You und hat recht damit.](https://netzfrauen.org/2018/11/28/tanzania/)
+* [Nein? Doch! Oh? Auf Touchscreens findet man Fäkalienreste.](https://blog.fefe.de/?ts=a5002507) - Dieser Wunsch alles steril zu haben ist unnatürlich.
+* [Svenja Schulze stellt ein 5-Punkte-Plan gegen Plastikmüll vor.](https://www.careelite.de/umweltministerin-will-selbstverpflichtung-gegen-plastikmuell/) - Was mir sehr gut gefällt, an erster Stelle steht "Trinkwasser für alle überall". Wie gern hätte ich hier kostenfreie Trinkwasserbrunnen in der Stadt.
+* [KDE Plasma wurde in der Version 5.14 veröffentlicht.](https://www.pro-linux.de/news/1/26547/kde-plasma-514-aktualisiert.html)
+* [>>Vogelfutter für Gabriele zum verteilen: Wer kann helfen?<<](https://bio-erzgebirge.de/wp/?p=16982)
