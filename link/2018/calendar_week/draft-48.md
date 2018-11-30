@@ -38,3 +38,9 @@
 * [Hier gibt es zwei Atemübungen, eine gegen Schmerzen und die andere gegen Atemnot.](https://www.smarticular.net/atemuebungen-gegen-schmerzen-fibromyalgie-atemnot-beruhigung/)
 * [Organisierte Bandenkriminalität zwischen Krankenhäusern und Gerätehersteller.](https://blog.fefe.de/?ts=a2fef958) - Der Herzschrittmacher ist kacke, das Gerät gibt es umsonst (kostet auch nichts, wirklich), aber die Austauschop zahlen wir als Gemeinschaft weil sich dies der hersteller sparen will.
 * [Bayer will 12.000 Mitarbeiter kündigen, weil man die durch das Monopol nach der Monsanto-Übernahme nicht mehr braucht.](https://blog.fefe.de/?ts=a2fef771) - Konzerne haben kein Herz Kinder.
+* [Manchmal reicht auch einfach eine Zahl statt einer Linie wenn es um Grafana geht.](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/SimpleGraphsAdvantage)
+* [E.ON macht eine Umfrage um sich darauf zu beziehen wenn sie die Strompreise anziehen und den Staat für mehr Subventionen anbetteln da sie selbst seit Jahrzehnten nur Gewinne genommen haben ohne etwas zu investieren.](http://www.sonnenseite.com/de/umwelt/umfrage-deutsche-sehen-im-klimawandel-die-groesste-gesellschaftliche-herausforderung.html)
+* [Eröffnung 29. Christmarkt 2018 in Freiberg](https://www.youtube.com/watch?v=i3pFG8Dlbfo)
+* [Warum die Politik so viel lügen kann? Scheinbar liegt das auch am älter werden der Wähler.](https://blog.fefe.de/?ts=a2ff854f)
+* [Css kann deinen Browser kaputt machen.](https://blog.fefe.de/?ts=a2fffe20)
+* [Marriott Hotels verschenk gerade all eure Daten.](https://blog.fefe.de/?ts=a2fff983)
