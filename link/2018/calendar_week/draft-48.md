@@ -44,3 +44,6 @@
 * [Warum die Politik so viel lügen kann? Scheinbar liegt das auch am älter werden der Wähler.](https://blog.fefe.de/?ts=a2ff854f)
 * [Css kann deinen Browser kaputt machen.](https://blog.fefe.de/?ts=a2fffe20)
 * [Marriott Hotels verschenk gerade all eure Daten.](https://blog.fefe.de/?ts=a2fff983)
+* [So wirst Du erfolgreich & glücklich - Die Gesetze des Universums](https://www.welt-im-wandel.tv/video/so-wirst-du-erfolgreich-gluecklich-die-gesetze-des-universums/)
+* [Schade, noch immer ist Kinderarmut ein ernstes Thema in Deutschland. Warum eigentlich?](https://www.neopresse.com/politik/kinderarmut-bildungslosigkeit-die-erschreckende-bilanz-in-merkel-deutschland/)
+* [Schaut man genau hin, findet man *kein* Projekt was erfolgreich ge-blockchained hat.](https://blog.fefe.de/?ts=a2fcd932)
