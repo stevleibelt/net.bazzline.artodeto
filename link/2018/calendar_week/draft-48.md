@@ -47,3 +47,7 @@
 * [So wirst Du erfolgreich & glücklich - Die Gesetze des Universums](https://www.welt-im-wandel.tv/video/so-wirst-du-erfolgreich-gluecklich-die-gesetze-des-universums/)
 * [Schade, noch immer ist Kinderarmut ein ernstes Thema in Deutschland. Warum eigentlich?](https://www.neopresse.com/politik/kinderarmut-bildungslosigkeit-die-erschreckende-bilanz-in-merkel-deutschland/)
 * [Schaut man genau hin, findet man *kein* Projekt was erfolgreich ge-blockchained hat.](https://blog.fefe.de/?ts=a2fcd932)
+* [Realitätsabgleich Deutsche Bank oder einfach eine weitere Bank für die 1 Prozent der Welt.](https://netzfrauen.org/2018/11/30/deutschebank/)
+* [Vanuatu klagt gegen alle Unternehmen im Bereich fossiler Brenstoffe und beteiligte Finanzinstitute.](https://netzfrauen.org/2018/12/01/vanuatu-2/) - Gut so!
+* [Genode OS wurde in der Version 18.11 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=Genode-OS-18.11-Released)
+* [Die HSH-Nordbank wird privatisiert. Was passiert mit den Schulden? Die bleiben beim Steuerzahler.](https://www.neopresse.com/wirtschaft/aufgedeckt-hsh-nordbank-wird-privatisiert-13-milliarden-euro-schaden-u-a-dank-spd-scholz/) - Das kann man nicht verstehen.
