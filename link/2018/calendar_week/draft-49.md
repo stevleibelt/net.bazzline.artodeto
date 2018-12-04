@@ -12,3 +12,9 @@
 * [Datenreichtum bei Quota.](https://blog.fefe.de/?ts=a2f89b9c)
 * [Microsoft baut auch bald einen Chrome-Browser.](https://www.pro-linux.de/news/1/26564/microsoft-ersetzt-edge-durch-chromium-basierten-browser.html) - Damit ist google das neue AOL/Microsoft.
 * [Epic Games macht jetzt auch ein Spiele-Store auf.](https://www.phoronix.com/scan.php?page=news_item&px=Epic-Games-Store)
+* [Kubernets ist nicht nur irre komplex, es ist auch derbe kaputt.](https://lwn.net/Articles/773836)
+* [Die inoffizielle Inflationsrate liegt bei rund sechs Prozent.](https://www.neopresse.com/finanzsystem/die-wahre-inflationsrate-ist-hoeher-als-die-offizielle/) - Laut [shadowstats.com](http://www.shadowstats.com/).
+* [Bewusstsein erschafft Realität - Du bist der Filmemacher Deines Lebens.](https://www.welt-im-wandel.tv/video/bewusstsein-erschafft-realitaet-du-bist-der-filmemacher-deines-lebens/)
+* [Microsoft stellt seine Windows Forms, WinUI und WPF unter die MIT Lizenz.](https://www.phoronix.com/scan.php?page=news_item&px=Microsoft-Open-Source-Win-Forms) - Verrückt, wechseln die jetzt zu einem Linux-Kernel?
+* [Anthony Rother hat sein neues Album 3L3C7RO COMMANDO veröffentlicht.](http://www.psi49net.de)
+* [[...] Schätzungsweise 21 bis 32 Billionen US-Dollar an privatem Finanzvermögen befinden sich unversteuert oder leicht besteuert in geheimen Ländern auf der ganzen Welt. [...]](https://netzfrauen.org/2018/12/04/africa-2/) - Deswegen, lieber das Geld lokal halten und Konzerne meiden.
