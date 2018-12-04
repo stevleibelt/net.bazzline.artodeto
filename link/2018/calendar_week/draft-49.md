@@ -4,3 +4,11 @@
 * [Fefe fragt zu Recht, ob es überhaupt belastbare und neutrale Vergleichsdaten gibt, die einen Vergleich zwischen "Staat" und "privater Wirtschaft" zulassen.](https://blog.fefe.de/?ts=a2fa8a19)
 * [Vulkan wurde in der Version 1.1.95 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=Vulkan-1.1.95-Released)
 * [Krasse Scheiße, sechs Stunden hast du als Firma Zeit zu reagieren wenn irgendein EU-Staat Daten über einen Nutzer von dir haben will.](https://blog.fefe.de/?ts=a2fb8427)
+* [Realitätsabgleich wer für die Umnweltverschmutzung zuständig ist.](http://www.sonnenseite.com/de/tipps/muellflut-im-supermarkt-mehr-drumherum-als-drin.html) - Da können die Bürger machen was sie wollen, solange die Industrie nicht für ihren Scheiß bestraft werden, wird nichts passieren.
+* [Ihr nutzt Joomla? Hier gibt es 14 spannende Erweiterungen.](https://opensource.com/article/18/12/top-joomla-extensions)
+* [Ein Tropfen auf den heissen Stein - die Free Software Foundation erhält eine Spende von 1 Million USD.](https://www.pro-linux.de/news/1/26562/free-software-foundation-erh%C3%A4lt-1-million-us-dollar-spende.html) - Danke für eure Mühe!
+* [CentOS wurde in der Version 7.6 (1810) veröffentlicht.](https://www.pro-linux.de/news/1/26561/centos-76-freigegeben.html)
+* [[...] Am Bahnhof und in der Innenstadt von Mannheim sollen 72 Kameras selbstständig kriminelles Verhalten erkennen und die Polizei alarmieren. [...]](https://blog.fefe.de/?ts=a2f89c85) - Damit ist Mannheim dann raus als Orte die man besuchen kann.
+* [Datenreichtum bei Quota.](https://blog.fefe.de/?ts=a2f89b9c)
+* [Microsoft baut auch bald einen Chrome-Browser.](https://www.pro-linux.de/news/1/26564/microsoft-ersetzt-edge-durch-chromium-basierten-browser.html) - Damit ist google das neue AOL/Microsoft.
+* [Epic Games macht jetzt auch ein Spiele-Store auf.](https://www.phoronix.com/scan.php?page=news_item&px=Epic-Games-Store)
