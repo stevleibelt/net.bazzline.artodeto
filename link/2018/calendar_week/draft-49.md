@@ -18,3 +18,8 @@
 * [Microsoft stellt seine Windows Forms, WinUI und WPF unter die MIT Lizenz.](https://www.phoronix.com/scan.php?page=news_item&px=Microsoft-Open-Source-Win-Forms) - Verrückt, wechseln die jetzt zu einem Linux-Kernel?
 * [Anthony Rother hat sein neues Album 3L3C7RO COMMANDO veröffentlicht.](http://www.psi49net.de)
 * [[...] Schätzungsweise 21 bis 32 Billionen US-Dollar an privatem Finanzvermögen befinden sich unversteuert oder leicht besteuert in geheimen Ländern auf der ganzen Welt. [...]](https://netzfrauen.org/2018/12/04/africa-2/) - Deswegen, lieber das Geld lokal halten und Konzerne meiden.
+* [Supervisord und websockets.](https://ma.ttias.be/deploying-laravel-websockets-with-nginx-reverse-proxy-and-supervisord/)
+* [Websockets mit Artillery auf Last testen.](https://ma.ttias.be/benchmarking-websocket-server-performance-with-artillery/)
+* [[...] dass Fraunhofer nach dem Krieg gegründet wurde, um die deutsche Wehrforschung unter dem Deckmäntelchen der zivilen Forschung vor dem Zerschlagen-Werden zu retten.](https://blog.fefe.de/?ts=a2f96a31)
+* [Das neue Verpackungsgesetzt scheint wieder für große Konzerne gemacht worden zu sein.](https://blog.fefe.de/?ts=a2f9693d)
+* [Hier gibt es eine Anleitung wie ihr euch aus Holzbohlen selbst einen Tisch baut.](https://www.careelite.de/diy-couchtisch-selber-bauen/)
