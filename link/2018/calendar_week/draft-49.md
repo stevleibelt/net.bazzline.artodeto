@@ -23,3 +23,8 @@
 * [[...] dass Fraunhofer nach dem Krieg gegründet wurde, um die deutsche Wehrforschung unter dem Deckmäntelchen der zivilen Forschung vor dem Zerschlagen-Werden zu retten.](https://blog.fefe.de/?ts=a2f96a31)
 * [Das neue Verpackungsgesetzt scheint wieder für große Konzerne gemacht worden zu sein.](https://blog.fefe.de/?ts=a2f9693d)
 * [Hier gibt es eine Anleitung wie ihr euch aus Holzbohlen selbst einen Tisch baut.](https://www.careelite.de/diy-couchtisch-selber-bauen/)
+* [Nein? Doch! Oh? Die Energiewende wird nicht auf den Rücken der Wirtschaft, sondern auf den Rücken der einkommensschwachen Bevölkerung ausgetragen.](http://www.sonnenseite.com/de/energie/energiewende-belastet-einkommensschwache-haushalte-besonders-stark.html)
+* [In Kanada wurde der CFO von Huawei festgenommen weil Huawei angeblich Handelssanktionen der USA gegen Iran verletzt hat.](https://blog.fefe.de/?ts=a2f6bb95) - Kanada ist also auch nur ein Außenposten der USA.
+* [Was ist nun schon wieder "Value Stream Mapping"?](https://opensource.com/article/18/12/optimizing-delivery-value-stream-mapping)
+* [[...] Der BDI setzt sich klar für ein Verbot letaler vollautonomer Waffensysteme (LAWS) ein [...]](https://www.neopresse.com/nachrichten/deutsche-industrie-will-killer-roboter-verbieten-lassen/) - Unerwartet aber schön.
+* [Ein gemeiner Fehler in der Multi-Queue-Implementierung betrifft alle Dateisysteme seit Linux 4.19 und ist nun endlich gefunden und beseitigt worden.](https://www.pro-linux.de/news/1/26574/dateisystemkorruption-in-linux-419-behoben.html)
