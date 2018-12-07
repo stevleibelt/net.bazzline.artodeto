@@ -33,3 +33,7 @@
 * [Schöne Zusammenfassung zum Thema Google: "[...] Bei Microsoft haben die Leute wenigstens noch gemerkt, dass sie mit Microsoft Network gearbeitet haben und nicht mit dem Internet. Bei Google fahren alle Chrome und benutzen Google-Infrastruktur mit Google-Protokollen in der Google-Cloud, am besten noch über Google Fiber. [...]"](https://blog.fefe.de/?ts=a2f7b98b)
 * [Die Banken und die Hedgefonds machen die Börse kaputt um ... na um Gewinne zu privatisieren und Schulden zu sozialisieren.](https://www.neopresse.com/finanzsystem/boeser-verdacht-werden-die-boersen-absichtlich-zum-absturz-gebracht/)
 * [PHP wurde in der Version 7.3 veröffentlicht.](https://www.pro-linux.de/news/1/26578/php-73-freigegeben.html)
+* [Hey cool, das gab es früher angeblich nur im bösen Ostblock, da kommt die politsche Werbeeinheit aka Tagesschau in die Schule um den Kindern zu sagen was gut und richtig ist.](https://www.neopresse.com/medien/volkserziehung-durch-die-leitmedien-tagesschau-uebt-schueler/)
+* [Die USA wären stolz auf VW und Deutsche Bank.](https://blog.fefe.de/?ts=a2f47b57)
+* [Die Wahrheit übers jung bleiben! - Wissenschaftlich belegte Tipps für ewige Jugend und Gesundheit](https://www.welt-im-wandel.tv/video/die-wahrheit-uebers-jung-bleiben-wissenschaftlich-belegte-tipps-fuer-ewige-jugend-und-gesundheit/)
+* [Unterwegs im Erzgebirge zu Gast im Torbogengut Dorfchemnitz](https://www.youtube.com/watch?v=KNonaq9RRyE)
