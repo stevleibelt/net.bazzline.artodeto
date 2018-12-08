@@ -37,3 +37,4 @@
 * [Die USA wären stolz auf VW und Deutsche Bank.](https://blog.fefe.de/?ts=a2f47b57)
 * [Die Wahrheit übers jung bleiben! - Wissenschaftlich belegte Tipps für ewige Jugend und Gesundheit](https://www.welt-im-wandel.tv/video/die-wahrheit-uebers-jung-bleiben-wissenschaftlich-belegte-tipps-fuer-ewige-jugend-und-gesundheit/)
 * [Unterwegs im Erzgebirge zu Gast im Torbogengut Dorfchemnitz](https://www.youtube.com/watch?v=KNonaq9RRyE)
+* [Massentierhaltung weltweit funktioniert einfach nicht.](https://netzfrauen.org/2018/12/08/rueckrufe-2/)
