@@ -38,3 +38,5 @@
 * [Die Wahrheit übers jung bleiben! - Wissenschaftlich belegte Tipps für ewige Jugend und Gesundheit](https://www.welt-im-wandel.tv/video/die-wahrheit-uebers-jung-bleiben-wissenschaftlich-belegte-tipps-fuer-ewige-jugend-und-gesundheit/)
 * [Unterwegs im Erzgebirge zu Gast im Torbogengut Dorfchemnitz](https://www.youtube.com/watch?v=KNonaq9RRyE)
 * [Massentierhaltung weltweit funktioniert einfach nicht.](https://netzfrauen.org/2018/12/08/rueckrufe-2/)
+* [Kubernetes und wie man die Ressourcen definiert.](https://opensource.com/article/18/12/optimizing-kubernetes-resource-allocation-production)
+* [Nein? Doch! Oh? Schlamm hat einen tiefen Sinn ... wie alles in der Natur ;-).](http://www.sonnenseite.com/de/wissenschaft/schlamm-haelt-pflanzensamen-fit.html)
