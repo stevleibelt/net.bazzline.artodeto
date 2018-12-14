@@ -10,3 +10,6 @@
 * [Die Bananen von "dem anderen Ende der Welt" sind so mit Pestiziden verseucht, dass man sie lieber nicht essen sollte.](https://netzfrauen.org/2018/12/11/bananas/)
 * [Toller Rechtsstaat, da werden die Menschen verfolgt, die Unrecht öffentlich bekannt geben.](https://blog.fefe.de/?ts=a2f1738e)
 * [Luxemburg will den ganzen öffentlichen Nahverkehr umsonst machen.](http://www.sonnenseite.com/de/mobilitaet/das-erste-land-der-welt-fuehrt-komplett-kostenlosen-nahverkehr-ein.html)
+* [Seit dem .11.2018 müssen deutsche Bundesbehörden Rechnungen im XML-Format annehmen.](https://www.pro-linux.de/artikel/2/1952/xml-rechnungen-mit-freier-software.html) - Natürlich gibt es dafür freie Software die vertrauensvoll mit euren Daten umgehen.
+* [Falls ihr der Werbefigur glaubt, die euch glückliche Babynahrung verkaufen will, solltet ihr diesen Realitätsabgleich hier lesen.](https://netzfrauen.org/2018/12/13/babynahrung-3/)
+* [Podman scheint wirklich "Docker done right" zu sein.](https://opensource.com/article/18/12/podman-and-user-namespaces)
