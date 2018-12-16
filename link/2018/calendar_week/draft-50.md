@@ -16,3 +16,10 @@
 * [Flood Element ist ein Testsystem mit dem ihr via Javacript Lasttests für eure Webseiten ahren könnt.](https://opensource.com/article/18/12/tips-flood-element-testing)
 * [Das deutsche Leistungsschutzrecht ist wohl ungültig, findet das EuGH.](https://blog.fefe.de/?ts=a2ec50ea)
 * [Qemu wurde in der Version 3.1 veröffentlicht.](https://www.pro-linux.de/news/1/26599/qemu-31-freigegeben.html)
+* [Am 20.12.2018 entscheidet das EU-Parlament über JEFTA.](https://www.neopresse.com/politik/jefta-beschlossen-privatisierung-schreitet-voran-konzerne-gewinnen/)
+* [>>Tigers Emraan Hashmi 2018<< ist der Name eines Filmes welches die üblen Machenschaften von Nestle offenlegt.](https://netzfrauen.org/2018/12/16/nestle-7/) - Und so wie Nestle arbeitet, arbeitet jeder Konzern. [Hier](https://en.wikipedia.org/wiki/Tigers_(film)) ein Wikipedia-Artikel dazu.
+* [Krass, die Telekom darf in den USA mit der Softbank/Sprint fusionieren, wenn sie Huawei aus dem Sortiment nehmen.](https://blog.fefe.de/?ts=a2ebcdc0) - Erpressung quasi und die Telekom ist ein Konzern ohne Herz und sagt dann natürlich, "Wie hoch soll ich springen?".
+* [DXVK wurde in der Version 0.94 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=DXVK-0.94-Released)
+* [Realitätsabgleich "Vanielle" und mit wie viel Blutgeld dies erzeugt wird.](https://netzfrauen.org/2018/12/15/vanilla/)
+* [Scheibenfrostschutzmittel selber gemacht, 500 ml Bioethano, 500 ml Wasser, einige Tropfen Geschirrspülmittel.](https://www.smarticular.net/frostschutzmittel-auto-selber-machen-umweltfreundlich-mit-bioethanol/)
+* [>>3 Dinge die Dein Leben verlängern! - Ein Arzt packt aus und verrät, worauf es wirklich ankommt<<](https://www.welt-im-wandel.tv/video/3-dinge-die-dein-leben-verlaengern-ein-arzt-packt-aus-und-verraet-worauf-es-wirklich-ankommt/)
