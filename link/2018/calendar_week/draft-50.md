@@ -13,3 +13,6 @@
 * [Seit dem .11.2018 müssen deutsche Bundesbehörden Rechnungen im XML-Format annehmen.](https://www.pro-linux.de/artikel/2/1952/xml-rechnungen-mit-freier-software.html) - Natürlich gibt es dafür freie Software die vertrauensvoll mit euren Daten umgehen.
 * [Falls ihr der Werbefigur glaubt, die euch glückliche Babynahrung verkaufen will, solltet ihr diesen Realitätsabgleich hier lesen.](https://netzfrauen.org/2018/12/13/babynahrung-3/)
 * [Podman scheint wirklich "Docker done right" zu sein.](https://opensource.com/article/18/12/podman-and-user-namespaces)
+* [Flood Element ist ein Testsystem mit dem ihr via Javacript Lasttests für eure Webseiten ahren könnt.](https://opensource.com/article/18/12/tips-flood-element-testing)
+* [Das deutsche Leistungsschutzrecht ist wohl ungültig, findet das EuGH.](https://blog.fefe.de/?ts=a2ec50ea)
+* [Qemu wurde in der Version 3.1 veröffentlicht.](https://www.pro-linux.de/news/1/26599/qemu-31-freigegeben.html)
