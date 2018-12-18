@@ -2,3 +2,5 @@
 * [Grünkohl, das perfekte Gemüse für die kalte Jahreszeit.](https://www.smarticular.net/unglaublich-lecker-gesunde-knabberei-aus-gruenkohl/)
 * [Wow, Nextcloud veröffentlicht Talk in der Version 5.0, Contacts in der Version 3.0 und Android Files in der Version 3.4.](https://nextcloud.com/blog/nextcloud-talk-5.0-android-3.4.0-and-contacts-3.0/)
 * [Mit einem neueren RaspberryPi könnt ihr diesen jetzt als SteamLink verwenden.](https://www.pro-linux.de/news/1/26604/valve-stellt-steam-link-f%C3%BCr-raspberry-pi-vor.html) - Nett, wenn man bedenkt, dass der Pi nebenbei noch Hintergrundbeleuchtung für den TV mitmachen kann.
+* [MIPS will seine Architektur öffnen.](https://www.pro-linux.de/news/1/26611/mips-architektur-soll-ge%C3%B6ffnet-werden.html)
+* [>>Gaby Weber hat einen neuen Film gemacht, über die israelische Atombombe.<<](https://blog.fefe.de/?ts=a2e69a44)
