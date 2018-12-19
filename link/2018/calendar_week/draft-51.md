@@ -4,3 +4,10 @@
 * [Mit einem neueren RaspberryPi könnt ihr diesen jetzt als SteamLink verwenden.](https://www.pro-linux.de/news/1/26604/valve-stellt-steam-link-f%C3%BCr-raspberry-pi-vor.html) - Nett, wenn man bedenkt, dass der Pi nebenbei noch Hintergrundbeleuchtung für den TV mitmachen kann.
 * [MIPS will seine Architektur öffnen.](https://www.pro-linux.de/news/1/26611/mips-architektur-soll-ge%C3%B6ffnet-werden.html)
 * [>>Gaby Weber hat einen neuen Film gemacht, über die israelische Atombombe.<<](https://blog.fefe.de/?ts=a2e69a44)
+* [Beschränkt oder Evolution? Surfen im Meer vor Fukushima.](https://blog.fefe.de/?ts=a2e6348c)
+* [Dank Intel Inside und deren von Grund auf kaputter Hardware, kriegt ihr mit jeder neuen Aktualisierung eures Betriebssystems weniger Leistung - hier am Beispiel von Linux (betrifft aber auch Windows, Mac OS X etc.](https://www.phoronix.com/scan.php?page=news_item&px=Linux-4.14-4.20-7980XE-Bench)
+* [Microsoft wechselt zu Chome und warum? Weil das Google Internet alle anderen Browser künstlich langsam und kaputt macht - Don't be evil was? Ihr Mongos!](https://blog.fefe.de/?ts=a2e638cc)
+* [SQLite ist kaputt.](https://blog.fefe.de/?ts=a2e7c155) - Tja, was soll man sagen, große Firmen nutzen das ohne einen Eurocent in die Entwicklung zu stecken.
+* [>>4 Techniken um Dein Schicksal zu verändern - Die universellen Gesetze des Lebens<<](https://www.welt-im-wandel.tv/video/4-techniken-um-dein-schicksal-zu-veraendern-die-universellen-gesetze-des-lebens/)
+* [VirtualBox wurde in der Version 6.0 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=Oracle-VirtualBox-6.0-Released)
+* [Das wäre ein Schritt in die richtige Richtung, Tabakindustrie soll für das Aufsammeln der Zigarettenstummel zahlen.](https://www.careelite.de/tabakindustrie-soll-fuer-entfernung-von-zigarettenstummeln-zahlen/) - Das können wir gern für alles einführen.
