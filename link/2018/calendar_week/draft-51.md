@@ -38,3 +38,5 @@
 * [Nestle ist unter anderem Perrier, Nestea, S. Pellegrino, Vitel, Nescafe, Tasters choice, Nespresso, KitKat usw.](https://netzfrauen.org/2018/12/21/nestle-8/)
 * [Die USA ist jetzt auch für Journalisten tödliches Gebiet.](https://blog.fefe.de/?ts=a2e23eb6)
 * [>>In reality, Google's goal (and our goal, as Google marketers) is to separate you from as much of your money as possible every time you aren’t thinking clearly —and we do so through ads.<<](https://blog.fefe.de/?ts=a2e0a5d9)
+* [Realitätsabgleich Plastik im Alltag.](https://www.careelite.de/verstecktes-plastik-im-alltag/)
+* [Quake 2 läuft jetzt mit Vulkan :-).](https://www.phoronix.com/scan.php?page=news_item&px=vkQuake2-Quake-2-Vulkan)
