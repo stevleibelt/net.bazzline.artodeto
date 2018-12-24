@@ -40,3 +40,5 @@
 * [>>In reality, Google's goal (and our goal, as Google marketers) is to separate you from as much of your money as possible every time you aren’t thinking clearly —and we do so through ads.<<](https://blog.fefe.de/?ts=a2e0a5d9)
 * [Realitätsabgleich Plastik im Alltag.](https://www.careelite.de/verstecktes-plastik-im-alltag/)
 * [Quake 2 läuft jetzt mit Vulkan :-).](https://www.phoronix.com/scan.php?page=news_item&px=vkQuake2-Quake-2-Vulkan)
+* [Acht USD kostet ein Monat New York Times, 47 Euro ein Monat FAZ und da fragen sich die Zeitungen, warum das keiner kauft.](https://blog.fefe.de/?ts=a2e06cee)
+* [>>Wir haben in Deutschland mit die strengsten Datenschutzgesetze weltweit und die höchsten Anforderungen an den Schutz der Privatsphäre. Das blockiert viele Entwicklungen im Gesundheitswesen, deshalb müssen wir da auch an der einen oder anderen Stelle abrüsten, einige Regeln streichen und andere lockern", sagte Dorothee Bär (CSU) der Welt am Sonntag.<<](https://blog.fefe.de/?ts=a2e11a2b) - Ja,ja, die Christen wieder.
