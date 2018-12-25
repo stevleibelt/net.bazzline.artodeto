@@ -42,3 +42,6 @@
 * [Quake 2 läuft jetzt mit Vulkan :-).](https://www.phoronix.com/scan.php?page=news_item&px=vkQuake2-Quake-2-Vulkan)
 * [Acht USD kostet ein Monat New York Times, 47 Euro ein Monat FAZ und da fragen sich die Zeitungen, warum das keiner kauft.](https://blog.fefe.de/?ts=a2e06cee)
 * [>>Wir haben in Deutschland mit die strengsten Datenschutzgesetze weltweit und die höchsten Anforderungen an den Schutz der Privatsphäre. Das blockiert viele Entwicklungen im Gesundheitswesen, deshalb müssen wir da auch an der einen oder anderen Stelle abrüsten, einige Regeln streichen und andere lockern", sagte Dorothee Bär (CSU) der Welt am Sonntag.<<](https://blog.fefe.de/?ts=a2e11a2b) - Ja,ja, die Christen wieder.
+* [Frohe Weihnachten pro-linux.de.](https://www.pro-linux.de/news/1/26627/frohe-weihnachten.html)
+* [Linux wurde in der Version 4.20 veröffentlicht.](https://www.pro-linux.de/news/1/26629/linux-kernel-420-freigegeben.html)
+* [Darktable wurde in der Version 2.6 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=Darktable-2.6-Released)
