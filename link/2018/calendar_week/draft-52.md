@@ -1,3 +1,7 @@
 * [Immer mehr Nachteile von Glyphosat kommen zu Tage.](https://netzfrauen.org/2018/12/25/bayermonsanto-5/)
 * [Hier gibt es ein leckers Rezept für eine Bananensuppe.](https://www.smarticular.net/braune-bananen-verwerten-suppe-vegan-curry-kokosmilch-rezept/)
 * [>>[...] even random access to files creates ZFS prefetch streams. [...]<<](https://utcc.utoronto.ca/~cks/space/blog/solaris/ZFSPrefetchStatsNotes)
+* [>>[...] 80 Jahre atomares Zeitalter haben Generationen von Menschen, Umwelt und Gesellschaft geprägt, ermöglicht, bedroht und vernichtet.<<](https://weltnetz.tv/story/1698-80-jahre-nukleare-kernspaltung)
+* [Wie das Leben so spielt wenn man denkt, dass man oben ist.](https://blog.fefe.de/?ts=a2ddb836)
+* [>>Monetarismus statt Kapitalismus. Globalisierung durch die Hochfinanz<<](https://npr.news.eulu.info/2018/12/26/die-militarisierung-der-eu-hauptweg-zu-den-vereinigten-staaten-von-europa-1-3/)
+* [Realitätsabgleich wie schädlich die Knaller zu Silvester sind.](http://www.sonnenseite.com/de/umwelt/dicke-luft-zum-jahreswechsel.html)
