@@ -5,3 +5,4 @@
 * [Wie das Leben so spielt wenn man denkt, dass man oben ist.](https://blog.fefe.de/?ts=a2ddb836)
 * [>>Monetarismus statt Kapitalismus. Globalisierung durch die Hochfinanz<<](https://npr.news.eulu.info/2018/12/26/die-militarisierung-der-eu-hauptweg-zu-den-vereinigten-staaten-von-europa-1-3/)
 * [Realitätsabgleich wie schädlich die Knaller zu Silvester sind.](http://www.sonnenseite.com/de/umwelt/dicke-luft-zum-jahreswechsel.html)
+* [35c3 - Locked up science](https://berlin-ak.ftp.media.ccc.de/congress/2018/h264-hd/35c3-9599-eng-Locked_up_science.mp4)
