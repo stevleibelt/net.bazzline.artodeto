@@ -7,3 +7,5 @@
 * [Danke Julia Reda, dass wegen dir und anderem EU Steuergelder dafür genutzt werden, in freier Software Fehler zu finden.](https://blog.fefe.de/?ts=a2d79d34)
 * [Oha, in Berlin darf die Polizei zwischen November und Januar einmal alles und Jeden kontrollieren sowie alles nach eigenem Gusto als gefährlich einstufen.](https://blog.fefe.de/?ts=a2d7fdfb) - Schade, dass dies so wenige Menschen stört.
 * [Der Goldschmied Axel Kudoweh in Essen-Kettwig hat eine neue Webseite unter der Domain goldschmiedessen.de](https://www.goldschmiedessen.de/)
+* [Carsten Rieger erklärt wie man auf Nextcloud 15 aktualisiert.](https://www.c-rieger.de/upgrade-to-nextcloud-15/)
+* [Eine gute und schnelle Einführung in Python 3.7 gibt es hier.](https://opensource.com/article/19/1/best-of-python)
