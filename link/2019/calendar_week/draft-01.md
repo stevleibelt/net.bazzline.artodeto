@@ -9,3 +9,12 @@
 * [Der Goldschmied Axel Kudoweh in Essen-Kettwig hat eine neue Webseite unter der Domain goldschmiedessen.de](https://www.goldschmiedessen.de/)
 * [Carsten Rieger erklärt wie man auf Nextcloud 15 aktualisiert.](https://www.c-rieger.de/upgrade-to-nextcloud-15/)
 * [Eine gute und schnelle Einführung in Python 3.7 gibt es hier.](https://opensource.com/article/19/1/best-of-python)
+* [Der Arbeitskreis Vorratsdatenspeicherung klagt gegen die ISPs weil sie die Bewegungsdaten der Kunden zu lange speichern.](https://blog.fefe.de/?ts=a2d235b6)
+* [Seit dem 01.01.2019 gehört der Atommüll der Atomkraftwerksbetreiber dem Staat und damit der Allgemeinheit.](http://www.sonnenseite.com/de/politik/seit-dem-jahreswechsel-gehoert-der-atommuell-dem-staat.html) - Kennt ihr ja, das Erfolgsrezept der Blockpartei, Gewinne privatisieren, Verluste sozialisieren.
+* [Dorothee Bär möchte weniger Datenschutz für das lästige Gesundheitswesen.](https://www.neopresse.com/politik/datenschutz-ade-was-die-politik-2019-plant/)
+* [Nein? Doch! Oh? Wenn ihr eure Lebensmittel von um die Ecke holt, muss kein Bio drauf stehen - schaut einfach auf den Acker und entscheidet.](https://www.smarticular.net/bio-oder-regional-unterschied-nachhaltiger-konsum/)
+* [Ruby wurde in der Version 2.6 veröffentlicht.](https://www.pro-linux.de/news/1/26634/ruby-in-version-26-erschienen.html)
+* [Nein? Doch! Oh? Kraftwerke erzeugen mehr Feinstaub als der Straßenverkehr.](http://www.sonnenseite.com/de/wissenschaft/kraftwerke-erzeugen-mehr-ultrafeinstaub-als-verkehr.html) - Und noch unglaublicher, der Schiffsverkehr erzeugt noch mal mehr als alles andere zusammen.
+* [Tilo Jung hat sich, wie jedes Jahr?, mit FeFe unterhalten.](https://blog.fefe.de/?ts=a2d50869)
+* [Realitätsabgleich "Wunderdiät" vs. Industrienahrung.](https://netzfrauen.org/2019/01/01/traumfigur-3/)
+* [Apropos Gewinne privatisieren, Bayer AG oder wie dem deutschen Steuerzahler eine sterbende Firma aus den USA angedreht wurde.](https://weltnetz.tv/video/1705-allgemeinheit-zahlt-fuer-uebernahme-von-monsanto-durch-bayer-ag)
