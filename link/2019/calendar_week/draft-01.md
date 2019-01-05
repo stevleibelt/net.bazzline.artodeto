@@ -26,3 +26,7 @@
 * [Anaconda, H20, Apache Mahout, alles drei sind Anwendungen die ihr nutzen könnt um euren DevOp's Kram mit Statistik aka "Machine Learning" zu analysieren.](https://opensource.com/article/19/1/getting-started-predictive-analytics-devops)
 * [Mit Beamer kann man in LaTex Präsentationen machen.](https://opensource.com/article/19/1/create-presentations-beamer)
 * [GNU Tar wurde in der Version 1.31 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=GNU-Tar-1.31-Released)
+* [Die Heilkraft aus dem Ozean - Natürlich entgiften und heilen mit der Kraft der Algen](https://www.welt-im-wandel.tv/video/die-heilkraft-aus-dem-ozean-natuerlich-entgiften-und-heilen-mit-der-kraft-der-algen/)
+* [Realitätsabgleich Haarfärbemittel und was euch die Chemie-Pampen-Industrie gern als Nebenwirkung verschweigt. Wollen Sie Krebs? Dann färben Sie sich ihre Haare.](https://netzfrauen.org/2019/01/04/hair/) - 5000 Chemikalien und mehr, was kann da schon schief gehen?
+* [Apple-Aktien als Vorbote von der platzenden Silicon Valley Blase.](https://blog.fefe.de/?ts=a2d1f13a)
+* [Datensparsamkeit und Werbeanrufe wegen fehlender Datensparsamkeit? Aber nur bei Politiker, alle anderen Menschen sind zweite Klasse.](https://blog.fefe.de/?ts=a2d17219)
