@@ -34,3 +34,4 @@
 * [Schönes WordPress-Theme, plaintext.](http://www.plaintxt.org/#blogtxt)
 * [Hier wird euch gezeigt wie Ihr Vault in Ansible benutzt.](https://beberlei.de/2019/01/05/integrate_ansible_vault_with_1password_commandline.html)
 * [Aktuelles aus dem Netzwerk Freiberg im Januar 2019](https://bio-erzgebirge.de/wp/?p=17283)
+* [Die Intendanten bei den öffentlich rechtlichen geht mit 400.000 Euro pro Jahr und mehr nach Hause und das reicht nicht.](https://netzfrauen.org/2019/01/06/ard-zdf/)
