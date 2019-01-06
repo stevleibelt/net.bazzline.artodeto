@@ -30,3 +30,7 @@
 * [Realitätsabgleich Haarfärbemittel und was euch die Chemie-Pampen-Industrie gern als Nebenwirkung verschweigt. Wollen Sie Krebs? Dann färben Sie sich ihre Haare.](https://netzfrauen.org/2019/01/04/hair/) - 5000 Chemikalien und mehr, was kann da schon schief gehen?
 * [Apple-Aktien als Vorbote von der platzenden Silicon Valley Blase.](https://blog.fefe.de/?ts=a2d1f13a)
 * [Datensparsamkeit und Werbeanrufe wegen fehlender Datensparsamkeit? Aber nur bei Politiker, alle anderen Menschen sind zweite Klasse.](https://blog.fefe.de/?ts=a2d17219)
+* [Seit über 2600 Tagen wird der Staatstrojaner eingesetzt womit die Blockpartei zeigt, dass das Grundgesetz nur ein schöner Prosatext und nicht mehr ist.](http://0zapftis.tamagothi.de/)
+* [Schönes WordPress-Theme, plaintext.](http://www.plaintxt.org/#blogtxt)
+* [Hier wird euch gezeigt wie Ihr Vault in Ansible benutzt.](https://beberlei.de/2019/01/05/integrate_ansible_vault_with_1password_commandline.html)
+* [Aktuelles aus dem Netzwerk Freiberg im Januar 2019](https://bio-erzgebirge.de/wp/?p=17283)
