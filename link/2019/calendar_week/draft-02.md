@@ -12,3 +12,6 @@
 * [Sehr einfach erklärt warum die Erbschaftssteuer doch einmal öffentlich besprochen werden sollte.](https://weltnetz.tv/video/1721-warum-die-schere-zwischen-arm-und-reich-auseinander-geht)
 * [>>Folge dem Ruf Deiner Seele - Mit spirituellen Reisen Blockaden lösen<<](https://www.welt-im-wandel.tv/video/folge-dem-ruf-deiner-seele-mit-spirituellen-reisen-blockaden-loesen/)
 * [Kurz zusammengefasst, holt immer absolute Werte und Zahlen aus eurem System und speichert die statt Deltas.](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/StatsGatheringNoDeltas)
+* [Pilze als Retter gegen das Artensterben und der Vergiftung durch Pharmakonzerne?](https://netzfrauen.org/2019/01/08/paul-stamets-2/)
+* [Nein? Doch! Oh? Meerwasserentsalzung ist umweltschädlich.](https://blog.fefe.de/?ts=a2cb29f3) - Hätte uns das nur jemand vorher gesagt, dass es nicht gut ist, wenn man Naturprodukte verändert und den Rest entsorgt.
+* [Realitätsabgleich Pinguine und wie sie Jahr für Jahr sterben.](https://netzfrauen.org/2019/01/09/penguins/)
