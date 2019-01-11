@@ -23,3 +23,6 @@
 * [Google geht den ersten Weg in Richtung Bank.](https://www.neopresse.com/wirtschaft/heimliche-eu-falle-google-will-bank-werden-das-gilt-dann-auch-fuer-deutschland/) - Hey, wenn Google schon erahnen kann was du kaufst und es die Stelle ist die euch Suchvorschläge für etwaige Kredite vorschlägt, was kann da schon schief gehen?
 * [Apache Airflow ist jetzt ein Top-Level-Projekt.](https://www.pro-linux.de/news/1/26656/apache-airflow-wird-toplevel-projekt-der-foundation.html)
 * [>>Rückblick Netzwerktreffen Wilkau-Haßlau, 8.1.2019<<](https://bio-erzgebirge.de/wp/?p=17326)
+* [Juniper baut gleich kaputte Hardware wie Cisco.](https://blog.fefe.de/?ts=a2c93bc4)
+* [Kindergartenkrieg mal wieder zwischen Linux und Zfs On Linux.](https://www.phoronix.com/scan.php?page=news_item&px=ZFS-On-Linux-5.0-Problem) - Die Nutzer verlieren wieder und ZOL läuft aktuell nicht mit dem Linux Kernel 5.x.
+* [sr.ht möchte gern die freie Alternative zu GitHub und GitLab werden.](https://www.pro-linux.de/news/1/26660/alternative-code-hosting-plattform-srht-vorgestellt.html)
