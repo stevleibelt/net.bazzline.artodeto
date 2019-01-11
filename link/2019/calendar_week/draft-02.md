@@ -15,3 +15,11 @@
 * [Pilze als Retter gegen das Artensterben und der Vergiftung durch Pharmakonzerne?](https://netzfrauen.org/2019/01/08/paul-stamets-2/)
 * [Nein? Doch! Oh? Meerwasserentsalzung ist umweltschädlich.](https://blog.fefe.de/?ts=a2cb29f3) - Hätte uns das nur jemand vorher gesagt, dass es nicht gut ist, wenn man Naturprodukte verändert und den Rest entsorgt.
 * [Realitätsabgleich Pinguine und wie sie Jahr für Jahr sterben.](https://netzfrauen.org/2019/01/09/penguins/)
+* [>>[...] Hier lohnt der Blick nach Dänemark. Dort gelingt es bereits heute mit intelligenten Konzepten, dass Kitas, Schulen, Kanti-nen oder Altersheime ein leckeres, gesundes Essen mit 90 % Bio-Anteil servieren – und das ohne wesentliche Kostensteigerungen. [...]<<](http://www.sonnenseite.com/de/politik/boelw-zum-ernaehrungsreport.html)
+* [Der Freistaat Bayern will den Klimaschutz in die Verfassung aufnehmen.](http://www.sonnenseite.com/de/politik/kabinett-in-bayern-beschliesst-volksentscheid-vorbereitungen.html)
+* [Nein? Doch! Oh? Die KI kann Fehler machen?](https://blog.fefe.de/?ts=a2c8649d) - Heute am Beispiel von automatischer Zensur auf youtube. Vorstellen die Politiker kommen auf die Idee das auszurollen um anders Denkende stumm zu schalten.
+* [Systemd ist richtig hart kaputt.](https://blog.fefe.de/?ts=a2c86207)
+* [>>Heilpflanze des Monats Januar 2019: Frauenmantel<<](https://bio-erzgebirge.de/wp/?p=17336)
+* [Google geht den ersten Weg in Richtung Bank.](https://www.neopresse.com/wirtschaft/heimliche-eu-falle-google-will-bank-werden-das-gilt-dann-auch-fuer-deutschland/) - Hey, wenn Google schon erahnen kann was du kaufst und es die Stelle ist die euch Suchvorschläge für etwaige Kredite vorschlägt, was kann da schon schief gehen?
+* [Apache Airflow ist jetzt ein Top-Level-Projekt.](https://www.pro-linux.de/news/1/26656/apache-airflow-wird-toplevel-projekt-der-foundation.html)
+* [>>Rückblick Netzwerktreffen Wilkau-Haßlau, 8.1.2019<<](https://bio-erzgebirge.de/wp/?p=17326)
