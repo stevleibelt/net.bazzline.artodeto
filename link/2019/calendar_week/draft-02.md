@@ -26,3 +26,8 @@
 * [Juniper baut gleich kaputte Hardware wie Cisco.](https://blog.fefe.de/?ts=a2c93bc4)
 * [Kindergartenkrieg mal wieder zwischen Linux und Zfs On Linux.](https://www.phoronix.com/scan.php?page=news_item&px=ZFS-On-Linux-5.0-Problem) - Die Nutzer verlieren wieder und ZOL läuft aktuell nicht mit dem Linux Kernel 5.x.
 * [sr.ht möchte gern die freie Alternative zu GitHub und GitLab werden.](https://www.pro-linux.de/news/1/26660/alternative-code-hosting-plattform-srht-vorgestellt.html)
+* [Öltanker explodieren und niemand erfährt es, mir scheint es so, als wäre diese ganze Schiffahrtsnummer noch immer eine Wild-West-Sache ohne Gesetze und nur Verlieren.](https://netzfrauen.org/2019/01/12/aulacfortune/)
+* [Universal Media Server wurde in der Version 7.8.0 veröffentlicht.](https://www.planet3dnow.de/cms/43330-universal-media-server-7-8-0/)
+* [Wieder einmal erklärt euch Fefe warum man auch immer mit den "doofen" von der anderen Seite reden muss - wäre doch schade wenn ihr die Argumente "der Anderen" erst hört, wenn ihr sofort antworten müsst und viele zuhören.](https://blog.fefe.de/?ts=a2c7f43d)
+* [Metasploit wurde in der Version 5.0 veröffentlicht.](https://lwn.net/Articles/776538/rss)
+* [Seit fast sieben Jahren lebt Julian Assanges nun in einem kleinen Raum. Wie viel Angst müssen die USA vor Ihm haben.](https://weltnetz.tv/video/1727-kein-ende-fuer-assanges-martyrium-sicht)
