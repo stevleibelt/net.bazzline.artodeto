@@ -31,3 +31,4 @@
 * [Wieder einmal erklärt euch Fefe warum man auch immer mit den "doofen" von der anderen Seite reden muss - wäre doch schade wenn ihr die Argumente "der Anderen" erst hört, wenn ihr sofort antworten müsst und viele zuhören.](https://blog.fefe.de/?ts=a2c7f43d)
 * [Metasploit wurde in der Version 5.0 veröffentlicht.](https://lwn.net/Articles/776538/rss)
 * [Seit fast sieben Jahren lebt Julian Assanges nun in einem kleinen Raum. Wie viel Angst müssen die USA vor Ihm haben.](https://weltnetz.tv/video/1727-kein-ende-fuer-assanges-martyrium-sicht)
+* [Dockerized desktop apps - Development with GIT, PhpStorm and Postman](https://sandro-keil.de/blog/dockerized-desktop-apps-phpstorm-git-postman-xdebug-remote-debugging/)
