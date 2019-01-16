@@ -4,3 +4,7 @@
 * [Nextcloud wurde in der Version 13.0.10, 14.0.6 und 15.0.2 veröffentlicht.](https://nextcloud.com/blog/nextcloud-updates-13.0.10-14.0.6-and-15.0.2-are-out/)
 * [>>Aktuelles für Chemnitz Januar 2019 / Ankündigung Netzwerktreffen am 13.2.2019<<](https://bio-erzgebirge.de/wp/?p=17279)
 * [Nein? Doch! Oh? - Ein Nur-für-Frauen-Fellowship ist gegen die Gleichbehandlung der Geschlechter.](https://blog.fefe.de/?ts=a2c240b4) - Also darauf wäre ich alleine nicht gekommen.
+* [Die IG-Farben will es nicht und so gibt es kein Mikroplastikverbot in Deutschland.](https://netzfrauen.org/2019/01/14/mikoplastik-2-2/)
+* [Wow, mit Steam Play/Proton sollen 500 Windows Spiele ohne Probleme unter Linux laufen.](https://www.pro-linux.de/news/1/26666/steam-play-erm%C3%B6glicht-perfekte-ausf%C3%BChrung-von-500-windows-spielen-unter-lin.html)
+* [Werbung - Der Floss Shop wenn ihr freie Hardware kaufen wollt.](https://www.floss-shop.de/)
+* [Android Studio wurde in der Version 3.3 veröffentlicht.](https://www.pro-linux.de/news/1/26671/android-studio-33-erschienen.html)
