@@ -19,3 +19,14 @@
 * [Schaut euch doch mal mit dem Evil-Twin-Framework euer WLan an.](https://opensource.com/article/19/1/evil-twin-framework)
 * [Frankreich verbietet Glyphosat per Gesetz.](https://netzfrauen.org/2019/01/16/bayer-7/)
 * [Wenn Edelstahl, dann 18/10!](https://www.smarticular.net/edelstahl-materialkunde-unterschiede-lebensmittel-nickelallergie/)
+* [ScottishPower stellt zu 100 Prozent auf erneuerbare Energiequellen um, weil es günstiger ist.](http://www.sonnenseite.com/de/energie/scottishpower-100-erneuerbare-energien-weil-es-vollends-wirtschaftlich-ist.html)
+* [Krass, in Indien sollen 200 Millionen Menschen zeitgleich gestreikt haben.](https://blog.fefe.de/?ts=a2c1713a) - Die Wissen noch wie man sich organisiert und wer das Volk ist, stark!
+* [Die Bundesnetzagentur steht zur Telekom und sagt, wenn es Glasfaser und Kupferkabel ins Haus schaffen, dann muss das alt ehrwürdige Kupferkabel genommen werden.](https://blog.fefe.de/?ts=a2beba4f) - Da wird wohl bald jemand aus der Bundesnetzagentur in die freie Wirtschaft und zur Telekom wechseln.
+* [PostmarkOS, ein Alpine Linux für das Smartphone, sollte man im Auge behalten.](https://www.pro-linux.de/news/1/26680/600-tage-jahr-postmarketos.html)
+* [Realitätsabgleich modernes Ärztesystem.](https://www.youtube.com/watch?v=K59x5Oy1LoQ) - Im Grunde geht es darum, dass wenige etwas Wissen und die meisten dann ohne zu denken vertrauen.
+* [Rust wurde in der Verstion 1.32 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=Rust-1.32-Released)
+* [Nein? Doch! Oh? Die Deutsche Bank wusste was sie tat und hat es dennoch gemacht.](https://blog.fefe.de/?ts=a2be1d76) - Ein Konzern hat kein Herz.
+* [Google's AMP ist ein Vendor-Lock-In, nicht mehr und nicht weniger.](https://tuxproject.de/blog/2019/01/netzverfettung-dank-amp/)
+* [Realitätsabgleich "wo kommt euer Palmenöl her".](https://netzfrauen.org/2019/01/17/palmoil-2/)
+* [DSVGO und wie gut es funktioniert? Max Schrems gibt mal Gas.](https://blog.fefe.de/?ts=a2bf7be6)
+* [Das Stromnetz in Europa ist kurz vor dem Ausfall.](https://blog.fefe.de/?ts=a2bf7ac1) - Hätten die privaten Firmen nur mal in die Infrastrutkur investieren müssen, die Generationen davor mit ihren Steuern bezahlt haben.
