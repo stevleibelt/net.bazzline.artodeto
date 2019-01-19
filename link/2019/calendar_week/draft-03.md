@@ -30,3 +30,8 @@
 * [Realitätsabgleich "wo kommt euer Palmenöl her".](https://netzfrauen.org/2019/01/17/palmoil-2/)
 * [DSVGO und wie gut es funktioniert? Max Schrems gibt mal Gas.](https://blog.fefe.de/?ts=a2bf7be6)
 * [Das Stromnetz in Europa ist kurz vor dem Ausfall.](https://blog.fefe.de/?ts=a2bf7ac1) - Hätten die privaten Firmen nur mal in die Infrastrutkur investieren müssen, die Generationen davor mit ihren Steuern bezahlt haben.
+* [>>Aktuelles für den Raum Dresden-Elbland für Januar bis Februar 2019<<](https://bio-erzgebirge.de/wp/?p=17380)
+* [Zum Thema Recycling hat mal jemand hingeschaut, die Quote für Plastik liegt bei unter sechs Prozent.](https://blog.fefe.de/?ts=a2bdc8ae) - Kurzum, nur Müllvermeidung rettet uns.
+* [Realitätsabgleich von der Industrie finanzierte Studien.](https://netzfrauen.org/2019/01/19/gmo-4/) - GMO? LMAA!
+* [Wenn euer Kind etwas bei Hackfressenbuch kauft, will Hackfressenbuch dennoch euer Geld.](https://blog.fefe.de/?ts=a2bf3360)
+* [>>Die Spielregeln des Lebens: Verändere Dein Schicksal und erkenne den Sinn des Lebens - Rüdiger Dahlke<<](https://www.welt-im-wandel.tv/video/die-spielregeln-des-lebens-veraendere-dein-schicksal-und-erkenne-den-sinn-des-lebens-ruediger-dahlke/)
