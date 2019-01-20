@@ -1,0 +1,2 @@
+* [Alles Neuland in Hessen, Hessen schaltet ihre Hackfressenbuchseite aus Datenschutzgründen ab, stattdessen nutzt das Land Hessen jetzt WhatsApp von Facebook.](https://blog.fefe.de/?ts=a2ba5aa6)
+* [Sehr schön, zwei homöopatische Ärzte haben Beschwerde bei der ZDF wegen Diffamierung der Homöopathie eingelegt.](https://www.neopresse.com/medien/zdf-diffamiert-homoeopathische-medizin/) - Die Homöopathie hat ja zwei große Nachteile gegenüber der Pharmachemie, sie wirkt und man braucht sie nicht ein Leben lang.
