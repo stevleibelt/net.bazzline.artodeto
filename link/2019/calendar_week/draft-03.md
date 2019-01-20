@@ -35,3 +35,7 @@
 * [Realitätsabgleich von der Industrie finanzierte Studien.](https://netzfrauen.org/2019/01/19/gmo-4/) - GMO? LMAA!
 * [Wenn euer Kind etwas bei Hackfressenbuch kauft, will Hackfressenbuch dennoch euer Geld.](https://blog.fefe.de/?ts=a2bf3360)
 * [>>Die Spielregeln des Lebens: Verändere Dein Schicksal und erkenne den Sinn des Lebens - Rüdiger Dahlke<<](https://www.welt-im-wandel.tv/video/die-spielregeln-des-lebens-veraendere-dein-schicksal-und-erkenne-den-sinn-des-lebens-ruediger-dahlke/)
+* [Libhandy wurde in der Version 0.0.7 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=Libhandy-GTK-0.0.7-Released)
+* [Ist Homebank etwaig die freie Software um seine Finanzen im Blick zu haben?](https://opensource.com/article/19/1/productivity-tools-homebank)
+* [Mal wieder ein Versuch das freie Internet über Tor kaputt zu machen?](https://blog.fefe.de/?ts=a2bd51a5)
+* [Vorerst wurde die EU-Copyright-Direktive gestoppt, aber wir kennen ja die Pappenheimer und ihre Salamitaktik.](https://blog.fefe.de/?ts=a2bd5043)
