@@ -1,2 +1,5 @@
 * [Alles Neuland in Hessen, Hessen schaltet ihre Hackfressenbuchseite aus Datenschutzgründen ab, stattdessen nutzt das Land Hessen jetzt WhatsApp von Facebook.](https://blog.fefe.de/?ts=a2ba5aa6)
 * [Sehr schön, zwei homöopatische Ärzte haben Beschwerde bei der ZDF wegen Diffamierung der Homöopathie eingelegt.](https://www.neopresse.com/medien/zdf-diffamiert-homoeopathische-medizin/) - Die Homöopathie hat ja zwei große Nachteile gegenüber der Pharmachemie, sie wirkt und man braucht sie nicht ein Leben lang.
+* [Die Briten haben realistischere Vorstellungen darüber was man unbedingt braucht, wenn das Chaos kommt.](https://blog.fefe.de/?ts=a2bbf2ca)
+* [Podman wurde in der Version 1.0 veröffentlicht.](https://www.pro-linux.de/news/1/26687/podman-erreicht-version-10.html)
+* [Hier gibt es eine Webseite die zum Ausprobieren einlädt um herauszufinden welche Schriftart eurem Auge im Terminal am meisten schmeichelt.](http://app.programmingfonts.org/#apl385) - Danke [FeFe](https://blog.fefe.de/?ts=a2bb6689).
