@@ -9,3 +9,4 @@
 * [Die "10 Year Challange" ist ein kostenfreier Aufruf, die Datenkraken der Welt mit euren Gesichtern zu füttern.](https://blog.fefe.de/?ts=a2b9c507)
 * [>>"Gehirnwäsche, die wir seit Anfang der 90er Jahre erleben" - Stefan Sell<<](https://www.youtube.com/watch?v=mGl5r-v3EBI)
 * [Realitätsabgleich "Backshops" und wie ihr damit eure Umgebung verarmt und Konzerne bereichert.](https://www.youtube.com/watch?v=obfUET2Jvgo)
+* [Jupyter Notebook? Sieht stark aus.](https://jupyter.org/)
