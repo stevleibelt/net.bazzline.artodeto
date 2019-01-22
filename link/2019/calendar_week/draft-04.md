@@ -3,3 +3,9 @@
 * [Die Briten haben realistischere Vorstellungen darüber was man unbedingt braucht, wenn das Chaos kommt.](https://blog.fefe.de/?ts=a2bbf2ca)
 * [Podman wurde in der Version 1.0 veröffentlicht.](https://www.pro-linux.de/news/1/26687/podman-erreicht-version-10.html)
 * [Hier gibt es eine Webseite die zum Ausprobieren einlädt um herauszufinden welche Schriftart eurem Auge im Terminal am meisten schmeichelt.](http://app.programmingfonts.org/#apl385) - Danke [FeFe](https://blog.fefe.de/?ts=a2bb6689).
+* [Google macht jetzt auch in Salamitaktit, Datenschutz? Ja, wir schauen man wann wir das in unserer Releaseplanung unterbringen.](https://blog.fefe.de/?ts=a2b8ab52)
+* [Die CDU und CSU wollen jetzt durch die Hintertür den Bundestrojaner noch legaler machen, es soll einen "Tatbestand des digitalen Hausfriedensbruches" geben.](https://tuxproject.de/blog/2019/01/gehwegparker-fordern-besseres-cyber/) - Wie die Blockpartei so ist, fordert sie mehr Durchsuchung und die Abschaffung der lästigen Bürgerrechter.
+* [Das muss die tolle Globalisierung sein von er alle Reden, lokale Apfelbauer müssen ihre Äpfel wegschmeißen weil die Konzerne mit Raubbau, Kinderarbeit und Umweltverschmutzung woanders kurzzeitig mehr Gewinne einfahren.](https://netzfrauen.org/2019/01/22/apfel-2/) - Dabei ist der Preis pro Kilo beim Apfelbauer um die Ecke mehr als Konkurenzfähig!
+* [Die "10 Year Challange" ist ein kostenfreier Aufruf, die Datenkraken der Welt mit euren Gesichtern zu füttern.](https://blog.fefe.de/?ts=a2b9c507)
+* [>>"Gehirnwäsche, die wir seit Anfang der 90er Jahre erleben" - Stefan Sell<<](https://www.youtube.com/watch?v=mGl5r-v3EBI)
+* [Realitätsabgleich "Backshops" und wie ihr damit eure Umgebung verarmt und Konzerne bereichert.](https://www.youtube.com/watch?v=obfUET2Jvgo)
