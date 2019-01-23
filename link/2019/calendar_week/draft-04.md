@@ -10,3 +10,9 @@
 * [>>"Gehirnwäsche, die wir seit Anfang der 90er Jahre erleben" - Stefan Sell<<](https://www.youtube.com/watch?v=mGl5r-v3EBI)
 * [Realitätsabgleich "Backshops" und wie ihr damit eure Umgebung verarmt und Konzerne bereichert.](https://www.youtube.com/watch?v=obfUET2Jvgo)
 * [Jupyter Notebook? Sieht stark aus.](https://jupyter.org/)
+* [200 Zusatzstoffe und Prüfer denen es egal ist was für einen Dreck man da verkauft? Tolle Brötchenwelt in der man da lebt.](https://www.youtube.com/watch?v=1vVP5DNgR9s) - Wenn ein staatlich bezahler Prüfer sagt, dass es Ihm egal ist was da drinne ist und was dabei im Körper passieren kann denk ich mir als Steuerzahler "Du bist im falschen Beruf".
+* [Wine wurde in der Version 4.0 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=Wine-4.0-Officially-Released)
+* [Lol, google selber merkt, dass sie Gegenwind kriegen, deswegen versuchen sie es jetzt damit euch zu überreden warum sie alle Daten sammeln wollen - für den Kampf gegen den Brustkrebs.](https://blog.fefe.de/?ts=a2b941a0)
+* [>>Trauma auflösen - Frei werden von Ängsten, Blockaden & negativen Glaubensmustern<<](https://www.welt-im-wandel.tv/video/trauma-aufloesen-frei-werden-von-aengsten-blockaden-negativen-glaubensmustern/) - Schön, "erst nannte ich es gesunden Egoismus, dann erkannte ich, dass es selbstliebe ist".
+* [Rheinmetall macht Gewinne weil die "Völkergemeinschaft" dort Aufbauhilfe "leistet" wo Waffen verkauft werden und Kriege stattfinden.](https://netzfrauen.org/2019/01/23/zuwara-2/) - "Aufbauhilfe" im Sinne von "Gleichschaltung" zum westlichen Konsumgedanken.
+* [Endlich rechtliche Gewissheit. Ausgewiesene Frauenparkplätze sind rechtlich nicht bindend.](https://www.sueddeutsche.de/bayern/frauenparkplaetze-eichstaett-diskriminierung-1.4299309) - Dennoch halte ich es für anständig den Bitten nach Frauenparkplätze wie auch nach Familienparkplätzen nachzukommen.
