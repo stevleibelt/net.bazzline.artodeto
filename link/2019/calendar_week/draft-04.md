@@ -16,3 +16,10 @@
 * [>>Trauma auflösen - Frei werden von Ängsten, Blockaden & negativen Glaubensmustern<<](https://www.welt-im-wandel.tv/video/trauma-aufloesen-frei-werden-von-aengsten-blockaden-negativen-glaubensmustern/) - Schön, "erst nannte ich es gesunden Egoismus, dann erkannte ich, dass es selbstliebe ist".
 * [Rheinmetall macht Gewinne weil die "Völkergemeinschaft" dort Aufbauhilfe "leistet" wo Waffen verkauft werden und Kriege stattfinden.](https://netzfrauen.org/2019/01/23/zuwara-2/) - "Aufbauhilfe" im Sinne von "Gleichschaltung" zum westlichen Konsumgedanken.
 * [Endlich rechtliche Gewissheit. Ausgewiesene Frauenparkplätze sind rechtlich nicht bindend.](https://www.sueddeutsche.de/bayern/frauenparkplaetze-eichstaett-diskriminierung-1.4299309) - Dennoch halte ich es für anständig den Bitten nach Frauenparkplätze wie auch nach Familienparkplätzen nachzukommen.
+* [Nextcloud Talk für Android wurde in der Version 3.2 veröffentlicht.](https://nextcloud.com/blog/nextcloud-talk-for-android-3.2-is-out/)
+* [Mit MySQL 8.0.14 gibt es den ersten Schritt Queries parallel auszuführen.](https://www.percona.com/blog/2019/01/23/mysql-8-0-14-a-road-to-parallel-query-execution-is-wide-open/)
+* [Hey, dass was wir mit unseren Äpfel machen, machen wir auch mit anderem Obst und Gemüse.](https://netzfrauen.org/2019/01/24/orangen-3/)
+* [Google will noch mehr selbst bestimmen was gute und schlechte Werbung ist und möchte deswegen AddBlocker-Erweiterungen aus ihrem Chrome-Browser fern halten.](https://blog.fefe.de/?ts=a2b77df1)
+* [PHP PEAR hat große Probleme.](https://blog.fefe.de/?ts=a2b778ca)
+* [Die Free Software Foundation Europe hat eine Publikation mit dem Titel "Public Money, Public Code!" veröffentlicht.](https://www.pro-linux.de/news/1/26704/fsfe-ver%C3%B6ffentlicht-fachpublikation-zu-public-money-public-code.html)
+* [Die Blockpartei möchte jetzt auch Rentner aus ihrer großen Wohnung vertreiben.](https://www.neopresse.com/politik/wohnungsnot-in-merkel-deutschland-jetzt-sollen-rentner-ihre-grossen-wohnungen-raeumen/)
