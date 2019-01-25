@@ -23,3 +23,7 @@
 * [PHP PEAR hat große Probleme.](https://blog.fefe.de/?ts=a2b778ca)
 * [Die Free Software Foundation Europe hat eine Publikation mit dem Titel "Public Money, Public Code!" veröffentlicht.](https://www.pro-linux.de/news/1/26704/fsfe-ver%C3%B6ffentlicht-fachpublikation-zu-public-money-public-code.html)
 * [Die Blockpartei möchte jetzt auch Rentner aus ihrer großen Wohnung vertreiben.](https://www.neopresse.com/politik/wohnungsnot-in-merkel-deutschland-jetzt-sollen-rentner-ihre-grossen-wohnungen-raeumen/)
+* [So, so, die Personen mit dem Wunsch der totalen Staatsüberwachung schlafen nie. Neuste Absurdität, um das Fahrverbot für Dieselfahrzeuge zu kontrollieren, müssen alle Fahrzeuge in Deutschland Überwacht werden.](https://www.neopresse.com/politik/dieselgate-kennzeichenueberwachung-fuer-den-klimaschutz/) - Stichwort "Kennzeichenüberwachung".
+* [Frischkäse selber machen? Einfach Quark würzen und abtropfen lassen.](https://www.smarticular.net/frischkaese-aus-quark-selber-machen-rezept/)
+* [CoreDNS ist jetzt aus dem Inkubator raus.](https://www.pro-linux.de/news/1/26705/cloud-native-computing-foundation-entl%C3%A4sst-coredns-aus-dem-inkubator.html)
+* [Das auf openSUSE basierende Kubic ist jetzt Kubernetes-zertifiziert.](https://www.pro-linux.de/news/1/26706/opensuse-kubic-erh%C3%A4lt-kubernetes-zertifikation.html)
