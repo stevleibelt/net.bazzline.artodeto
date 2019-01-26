@@ -27,3 +27,7 @@
 * [Frischkäse selber machen? Einfach Quark würzen und abtropfen lassen.](https://www.smarticular.net/frischkaese-aus-quark-selber-machen-rezept/)
 * [CoreDNS ist jetzt aus dem Inkubator raus.](https://www.pro-linux.de/news/1/26705/cloud-native-computing-foundation-entl%C3%A4sst-coredns-aus-dem-inkubator.html)
 * [Das auf openSUSE basierende Kubic ist jetzt Kubernetes-zertifiziert.](https://www.pro-linux.de/news/1/26706/opensuse-kubic-erh%C3%A4lt-kubernetes-zertifikation.html)
+* [Realitätsabgleich industrielle Landwirschaft in Deutschland, jeder zweite Feldvogel fehlt.](http://www.sonnenseite.com/de/umwelt/seit-1980-verschwand-mehr-als-jeder-zweite-feldvogel-in-europa.html)
+* [Realitätsabgleich "wer stellt unsere Pakete zu" - Scheinselbständige die 60 Stunden im Akkord knüppel um ihre Sozialleistungen aufzustocken.](https://blog.fefe.de/?ts=a2b5ac68)
+* [>>Erstaunliche Heilung der Haut durch Aktivierung des Stoffwechsels - Wie funktioniert unsere Haut?<<](https://www.welt-im-wandel.tv/video/erstaunliche-heilung-der-haut-durch-aktivierung-des-stoffwechsels-wie-funktioniert-unsere-haut/)
+* [Senmotic, die Barfußschuhe aus Sachsen haben gerade Abverkauf.](https://www.senmotic-shoes.eu/shop-alt/)
