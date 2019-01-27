@@ -31,3 +31,9 @@
 * [Realitätsabgleich "wer stellt unsere Pakete zu" - Scheinselbständige die 60 Stunden im Akkord knüppel um ihre Sozialleistungen aufzustocken.](https://blog.fefe.de/?ts=a2b5ac68)
 * [>>Erstaunliche Heilung der Haut durch Aktivierung des Stoffwechsels - Wie funktioniert unsere Haut?<<](https://www.welt-im-wandel.tv/video/erstaunliche-heilung-der-haut-durch-aktivierung-des-stoffwechsels-wie-funktioniert-unsere-haut/)
 * [Senmotic, die Barfußschuhe aus Sachsen haben gerade Abverkauf.](https://www.senmotic-shoes.eu/shop-alt/)
+* [eDEX-UI - wenn ihr Tron mögt, findet ihr diesen Terminal zumindest lustig.](https://opensource.com/article/19/1/productivity-tool-edex-ui)
+* [Nett, die Dichröhre meint, ihr müsst euch anmelden weil das Video "Ab 18" sei? Dann probiert es doch einmal mit https://www.nsfwyoutube.com/.](https://www.nsfwyoutube.com/)
+* [Ihr lasst euch mit dem Impfstoff Pandemrix stechen? Dann bereitet euch mal auf eine Depression vor - kleine Nebenwirkung.](https://netzfrauen.org/2019/01/27/vaccinations/) - Aber hey, wem kümmert es schon, für die Nebenwirkungen haften nicht die Pharmakonzerne sondern der Steuerzahler.
+* [Weil die Jugend von heute immer mehr merkt, wie viel Leid Krieg bringt, will die Flintenuschi unsere Grenzen weiterhin weit weg von zu Hause und bald auch durch Ausländer verteidigen lassen.](https://blog.fefe.de/?ts=a2b36c46) - Kindersoldaten dann auf beiden Fronten!
+* [Die Tragik um Systemd - von einem BSD-Entwickler :-O.](https://www.youtube.com/watch?v=o_AIw9bGogo)
+* [Passen dazu, Systemd basics.](https://www.youtube.com/watch?v=AtEqbYTLHfs)
