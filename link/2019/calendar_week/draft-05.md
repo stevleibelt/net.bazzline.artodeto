@@ -3,3 +3,15 @@
 * [Citus Data wurde von Microsoft übernommen.](https://www.pro-linux.de/news/1/26712/microsoft-kauft-postgresql-anbieter.html) - Kurzum, forkt den Code und baut eine Firma auf die genau das macht was Citus Data macht. In drei Jahren ist Citus Data so kaputt, dass dessen Software keiner mehr nutzen kann.
 * [Whatsapp, Instagram und Hackfressenbuch sind nur noch verschiedene Benutzeroberflächen für das gleiche System.](https://blog.fefe.de/?ts=a2b03e8a)
 * [Krass, die Freien Wähler in Bayern zeigen wie die Parteien gegen das eigenen Volk betrügen wie man es sonst nur von Konzernen gewohnt ist.](https://blog.fefe.de/?ts=a2b1c7ce) - Wenn ein Partei so agiert, ist es kein Wunder, dass alle den Schatz des Volkes plündern. Da sieht man wie Tief der Stachel schon in den Köpfen der Menschen sitzt.
+* [Am Beispiel Tempolimit sieht man sehr schön das kein Politiker die Eier hat seine "Zukunft" nach dem Dienst am Volk in der privaten Wirtschaft zu versauen.](https://www.neopresse.com/politik/hand-aufs-herz-kennen-sie-die-umweltministerin/) - Erst schön durch vier Jahre rumsitzen eine Rente auf Lebenszeit abgreifen und dann das Volk erneut verraten.
+* [Awesome wurde in der Version 4.3 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=Awesome-WM-4.3-Released)
+* [Lass uns mal wieder Gott spielen, hat ja in der Vergangenheit schon so gut geklappt. Hier werden Hühner vom stümperhaften Menschen verändert um neue Krankheiten zu schaffen.](https://blog.fefe.de/?ts=a2b19992)
+* [Lol, alles falsch gemacht - Trotz Bestätigungsmail ging eure Beschwerde bei der Datenschutzbehörde von Niedersachsen nicht ein.](https://blog.fefe.de/?ts=a2b19870) - mv * /dev/null als cronjob, was?
+* [Nein? Doch! Oh? Die Tolle zwei-Faktor-Authentisierung ist auch kaputt.](https://blog.fefe.de/?ts=a2ae893e)
+* [Ohha, Apples Facetime ermöglicht es, dass ihr den anderen Belauscht wenn er nicht abnimmt.](https://blog.fefe.de/?ts=a2ae8a80)
+* [Ubuntu ist seit 2018 kaputt.](https://blog.fefe.de/?ts=a2ae8cb0)
+* [Scheinbar macht die Menschheit auch das Magnetfeld kaputt mit ihrer Gier.](https://blog.fefe.de/?ts=a2ae8c25)
+* [Toll diese Bürgerdaten. Singapur macht es vor, dort ist der HIV-Status aller Bürger der Allgemeinheit geschenkt worden - *huch*.](https://blog.fefe.de/?ts=a2ae8d5f) - Kann nur der Russe gewesen sein, wenn ihr mich fragt.
+* [Justizministerin Barley macht sich für die Produkthaftung und eine mehrjährige Updatepflicht von Seiten der Hersteller stark.](https://blog.fefe.de/?ts=a2ae8f93) - Super! - Schade nur, dass sie von der SPD ist, das bedeutet dass das Thema nach dem Stimmenfang stirbt und sie umkippt.
+* [Schönes Beispiel wie man sich hoch bückt, rede viel und zittiere immer das vom Vorgesetzten - die Blockpartei wie sie funktioniert.](https://blog.fefe.de/?ts=a2ae9ca0)
+* [Kannste dir gar nicht ausdenken was die freie Hand des Markets so macht - Setzlinge werden durch die Welt transportiert weil es kostengünstiger ist.](https://netzfrauen.org/2019/01/29/gemuese/) - Und weil es nicht deklariert werden muss.
