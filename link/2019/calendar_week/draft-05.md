@@ -15,3 +15,20 @@
 * [Justizministerin Barley macht sich für die Produkthaftung und eine mehrjährige Updatepflicht von Seiten der Hersteller stark.](https://blog.fefe.de/?ts=a2ae8f93) - Super! - Schade nur, dass sie von der SPD ist, das bedeutet dass das Thema nach dem Stimmenfang stirbt und sie umkippt.
 * [Schönes Beispiel wie man sich hoch bückt, rede viel und zittiere immer das vom Vorgesetzten - die Blockpartei wie sie funktioniert.](https://blog.fefe.de/?ts=a2ae9ca0)
 * [Kannste dir gar nicht ausdenken was die freie Hand des Markets so macht - Setzlinge werden durch die Welt transportiert weil es kostengünstiger ist.](https://netzfrauen.org/2019/01/29/gemuese/) - Und weil es nicht deklariert werden muss.
+* [Wie Du Krisen & Konflikte löst, ohne zu kämpfen! Die wirksame Methode des Nichtkampf-Prinzips](https://www.welt-im-wandel.tv/video/wie-du-krisen-konflikte-loest-ohne-zu-kaempfen-die-wirksame-methode-des-nichtkampf-prinzips/)
+* [Slax wurde in der Version 9.7.0 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=Slax-9.7.0-Released)
+* [Firefox wurde in der Version 65 veröffentlicht.](https://www.pro-linux.de/news/1/26719/firefox-65-freigegeben.html)
+* [Die Bayrische Landeszentrale für neue Medien zeigt wie man in Bayern schon immer mit anders Denkenden umgeht, man zensiert Sie!](https://blog.fefe.de/?ts=a2ae22cf)
+* [Das Bundesverfassungsgericht hat entschieden, dass Dienste, die nichts loggen auf Zuruf vom Heimathorst und Konsorten logging für bestimmte Benutzerkonten einbauen müssen.](https://blog.fefe.de/?ts=a2ae0f32) - Und wenn Heimathorst sagt "spring", dann habt ihr gefällst nur eine Frage zu stellen ... "Wie hoch?"
+* [Lol, Dell ist auch kaputt.](https://blog.fefe.de/?ts=a2aeb0a6)
+* [Denis Mukwege macht einmal den Realitätsabgleich für euch in Sachen "Blut klebt an jedem technischen Gerät was ihr kauft".](https://npr.news.eulu.info/2019/01/30/mein-name-ist-denis-mukwege-my-name-is-denis-mukwege/)
+* [Heim ins Reich mit euch, ihr elenden Kritiker - so handhabt das Hackfressenbuch, ganz ohne überfallene Radiostationen.](https://blog.fefe.de/?ts=a2af004a)
+* [Kodi wurde in der Version 18 veröffentlicht.](https://www.pro-linux.de/news/1/26723/kodi-18-leia-nach-zwei-jahren-entwicklung-freigegeben.html)
+* [Flatpak wurde in der Version 1.2.0 veröffentlicht.](https://www.pro-linux.de/news/1/26722/flatpak-120-f%C3%BChrt-neue-befehle-ein.html)
+* [Neuer Versuch auf EU-Ebene Netzsperren und Zensur einzubringen - "wegen dem Schutz gegen dem Terror und so".](https://blog.fefe.de/?ts=a2af514b) - Und wenn das nicht geht, dann kommen Sie mit "denkt doch mal jemand an die Kinder".
+* [Die Netzfrauen haben hier eine Anleitung veröffentlicht, wie ihr Gemüse und Kräuter im eigenen Garten anpflanzt.](https://netzfrauen.org/2019/01/30/garten-2/)
+* [Onavo, Project Atlas, ist alles das Hackfressenbuch.](https://blog.fefe.de/?ts=a2afbc21)
+* [Google hat seine Schnüffelscheiße Chrome in der Version 72 veröffentlicht.](https://www.pro-linux.de/news/1/26721/google-chrome-72-freigegeben.html)
+* [Alpine Linux wurde in der Version 3.9.0 veröffentlicht.](https://alpinelinux.org/posts/Alpine-3.9.0-released.html)
+* [Venezuela? Da schicken die USA natürlich einen Schlächter hin.](https://blog.fefe.de/?ts=a2af1d85)
+* [Ein Prozent Preisansteig in diesem Monat, ein Prozent Preisansteig in jenem Monat ... da kommt innerhalb eines Jahres richtig was zusammen.](https://www.neopresse.com/nachrichten/preise-steigen-im-januar-um-14-prozent/)
