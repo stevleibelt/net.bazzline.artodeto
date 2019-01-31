@@ -32,3 +32,9 @@
 * [Alpine Linux wurde in der Version 3.9.0 veröffentlicht.](https://alpinelinux.org/posts/Alpine-3.9.0-released.html)
 * [Venezuela? Da schicken die USA natürlich einen Schlächter hin.](https://blog.fefe.de/?ts=a2af1d85)
 * [Ein Prozent Preisansteig in diesem Monat, ein Prozent Preisansteig in jenem Monat ... da kommt innerhalb eines Jahres richtig was zusammen.](https://www.neopresse.com/nachrichten/preise-steigen-im-januar-um-14-prozent/)
+* [HTTPie ist cURL mit bunter Ausgabe :-).](https://github.com/jakubroztocil/httpie) - Und noch einiges mehr.
+* [Tails wurde in der Version 3.12 veröffentlicht.](https://www.pro-linux.de/news/1/26725/tails-312-mit-neuer-installationsmethode.html)
+* [Realitätsabgleich Strommix und die Wahrheit, RWE/Innogy hat den dreckigsten Strom am Markt.](http://www.sonnenseite.com/de/energie/deutschlands-dreckige-stromanbieter14187.html) - Danke an Lichtblick, dass ihr hier für Klarheit kämpft.
+* [Auf pro-linux.de wird euch gezeigt, wie ihr Apache Guacamole aufsetzt.](https://www.pro-linux.de/artikel/2/1957/remotedesktop-mit-apache-guacamole.html)
+* [Ach ja, gebrochene Dämme in Bergbauregionen ist vergleichbar gefährlich wie ein GAU.](https://netzfrauen.org/2019/01/31/minas-gerais/)
+* [Achtung, weiterleiten auf die Dichröhre - eunicks.eu - Nette Videos über Arch Linux.](https://www.youtube.com/channel/UCnZIn_CYjz0ErPs1ktH-2lQ/videos)
