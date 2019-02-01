@@ -38,3 +38,15 @@
 * [Auf pro-linux.de wird euch gezeigt, wie ihr Apache Guacamole aufsetzt.](https://www.pro-linux.de/artikel/2/1957/remotedesktop-mit-apache-guacamole.html)
 * [Ach ja, gebrochene Dämme in Bergbauregionen ist vergleichbar gefährlich wie ein GAU.](https://netzfrauen.org/2019/01/31/minas-gerais/)
 * [Achtung, weiterleiten auf die Dichröhre - eunicks.eu - Nette Videos über Arch Linux.](https://www.youtube.com/channel/UCnZIn_CYjz0ErPs1ktH-2lQ/videos)
+* [Eklig, da sieht man was für die Pharmalobby wichtig ist, um auch noch den letzten Rest an Dreck in die Frauen zu pumpen und um den Absatz zu erhöhen, besagt eine Pharma-finanzierte Studie, dass man gar keine Pillenpause machen muss.](https://blog.fefe.de/?ts=a2ad5706) - Mehr Krebs und Depression für alle!
+* [Schönes Beispiel zur Erinnerung warum die Cloud schlecht ist.](https://blog.fefe.de/?ts=a2ad557f) - Nicht nur, dass eure Daten auf anderer Leuten Computer liegen, nein, die Cloud-Infrastruktur ist auch ein weiterer Versuch, alles zu automatisieren.
+* [Wenn ihr heute etwas lernen wollt, dann die Aussage vom FeFe, niemand ist von Haus aus radikal und gewaltbereit, da muss das Umfeld jahrelang auf den Geist einschlagen und das Weltbild so lange kaputt machen, bis genug Hass für Gewalt da ist.](https://blog.fefe.de/?ts=a2adb8ad) - Liebe "Amadeu Antonio Stiftung", genau das macht ihr, ihr streut Hass und Not in der Welt.
+* [OPNsense wurde in der Version 19.1 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=OPNsense-19.1-Released)
+* [Glibc wurde in der Version 2.29 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=Glibc-2.29-Released)
+* [Wenn ihr Hackfressenbuch aus eurem Leben schmeißt, lebt es sich besser.](https://blog.fefe.de/?ts=a2ade667)
+* [Julia wurde in der Version 1.1 veröffentlicht.](https://www.pro-linux.de/news/1/26727/programmiersprache-julia-11-freigegeben.html)
+* [Freier Videoeditor? Wie wäre es mit Olive oder KDEnlive.](https://www.pro-linux.de/news/1/26730/freier-video-editor-olive-als-alphaversion.html)
+* [Audacious, Cantata, DeaDBeeF, Gmusicbrowser, Goggles Music Manager, Guayadeque, Quod Libet, Strawberry - Alles Musikplayer für Linux.](https://opensource.com/article/19/2/audio-players-linux)
+* [Der lange Plan der EU als Agrarwirtschaftszone ist einen weiteren Schritt gegangen. Als Dank kriegen die Europäer, die nicht gefragt wurden, dann Atommüll zu essen.](https://blog.fefe.de/?ts=a2aa808d) - Ach ja und Schiedsgerichte und der ganze Neo-Con-Scheiß ist mit dabei.
+* [Realitätsabgleich freies Internet.](https://blog.fefe.de/?ts=a2aafe00) - Es ist immer die selbe Schiene, entweder über Sex oder über Kinder wird probiert etwas zu zensieren. Danach wird jeder anders Denkende als Gefahr eingestuft und fertig ist der Lack.
+* [Solltet ihr von der Polizei mal angehalten werden, weil ihr euer Gesicht vor der Massenüberwachung versteckt, flucht bitte nicht.](https://blog.fefe.de/?ts=a2aaf122) - Auch nicht im Geheimen, Big Brother ist überall!
