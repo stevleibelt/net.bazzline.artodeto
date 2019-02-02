@@ -52,3 +52,8 @@
 * [Solltet ihr von der Polizei mal angehalten werden, weil ihr euer Gesicht vor der Massenüberwachung versteckt, flucht bitte nicht.](https://blog.fefe.de/?ts=a2aaf122) - Auch nicht im Geheimen, Big Brother ist überall!
 * [Ihr transportiert viel und eure Sachen gehen kaputt? Wie wäre es, wenn ihr die Dinger in ander Verpackungen packt ... zum Beispiel einer TV-Verpackung?](https://www.bicycling.com/news/a20027122/vanmoof-tv-on-box-damaged-bikes/)
 * [Hey magische Hand des freien Marktes, warum sind Brillengläser eigentlich so teuer? Ach, du hast auch keine Ahnung ... dacht ich mir.](https://www.latimes.com/business/lazarus/la-fi-lazarus-why-are-eyeglasses-so-expensive-20190122-story.html)
+* [Wow, niemand unternimmt etwas gegen Klimawandel mit allen Katastrophen, weil sich die Konzere ohne Herz mehr Gewinne ausrechnen.](https://blog.fefe.de/?ts=a2ab099d) - Was macht es schon, wenn die Welt zerstört wird, Hauptsache die Rendite stimmt!
+* [LibreELEC wurde in der Version 9.0 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=LibreELEC-9.0-Released)
+* [SystemRescueCD wurde in der Version 6.0.0 veröffentlicht.](https://www.planet3dnow.de/cms/44144-systemrescuecd-6-0-0/)
+* [Lutris wurde in der Version 0.5 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=Lutris-0.5-Released)
+* [Wenn kein Antibiotika mehr hilft! Heilung mit Killer-Viren gegen lebensgefährliche Bakterien](https://www.welt-im-wandel.tv/video/wenn-kein-antibiotika-mehr-hilft-heilung-mit-killer-viren-gegen-lebensgefaehrliche-bakterien/)
