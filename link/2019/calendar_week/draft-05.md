@@ -57,3 +57,7 @@
 * [SystemRescueCD wurde in der Version 6.0.0 veröffentlicht.](https://www.planet3dnow.de/cms/44144-systemrescuecd-6-0-0/)
 * [Lutris wurde in der Version 0.5 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=Lutris-0.5-Released)
 * [Wenn kein Antibiotika mehr hilft! Heilung mit Killer-Viren gegen lebensgefährliche Bakterien](https://www.welt-im-wandel.tv/video/wenn-kein-antibiotika-mehr-hilft-heilung-mit-killer-viren-gegen-lebensgefaehrliche-bakterien/)
+* [In San Francisco denken die Leute darüber nach Gesichtserkennung zu verbieten.](https://blog.fefe.de/?ts=a2a9ea0e)
+* [Also Imker sind schon wichtig und Bayern ist ja das tippi toppi Land wenn es um Öko geht, aber die Wirtschaft können wir nun wirklich nicht einschränken, auch wenn es dann zum Artensterben kommt.](https://blog.fefe.de/?ts=a2a9ddb0)
+* [>>In nur 100 Jahren gingen auf Grund von Monokulturen über 75 Prozent der biologischen Vielfalt verloren. So liegen in allen Supermärkten die selben Obst- und Gemüsesorten in den Regalen. Die Saatgut-Konzerne züchten Sorten, deren Samen die Landwirte nach jeder Ernte neu hinzukaufen müssen.<<](https://netzfrauen.org/2019/02/03/syngenta/)
+* [MemTest86 wurde in der Version 8.1 veröffentlicht.](https://www.planet3dnow.de/cms/44148-memtest86-8-1/)
