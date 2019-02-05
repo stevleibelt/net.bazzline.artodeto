@@ -5,3 +5,5 @@
 * [OPNsense wurde in der Version 19.1 veröffentlicht.](https://www.pro-linux.de/news/1/26738/opnsense-191-freigegeben.html)
 * [>>Neues MITEINANDERSEIN Magazin Nr. 84 für Sachsen ist erschienen<<](https://bio-erzgebirge.de/wp/?p=17467)
 * [>>[...] Never give positive feedback to an AI. [...]<<](https://apenwarr.ca/log/20190201)
+* [>>Zurück zur Natur: Macht die Gewässer wieder wild! - Prof. Dr. Bernd Gerken<<](https://www.welt-im-wandel.tv/video/zurueck-zur-natur-macht-die-gewaesser-wieder-wild-prof-dr-bernd-gerken/)
+* [Flowblade wurde in der Version 2.0 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=Flowblade-2.0-Released)
