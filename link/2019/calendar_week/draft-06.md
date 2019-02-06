@@ -7,3 +7,7 @@
 * [>>[...] Never give positive feedback to an AI. [...]<<](https://apenwarr.ca/log/20190201)
 * [>>Zurück zur Natur: Macht die Gewässer wieder wild! - Prof. Dr. Bernd Gerken<<](https://www.welt-im-wandel.tv/video/zurueck-zur-natur-macht-die-gewaesser-wieder-wild-prof-dr-bernd-gerken/)
 * [Flowblade wurde in der Version 2.0 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=Flowblade-2.0-Released)
+* [>>[...] Düngemittel gelten in Fachkreisen, so Dohrn, als wichtige Ursache des weltweiten Aussterbens von Amphibien. [...]<<](http://www.sonnenseite.com/de/tipps/das-stille-sterben-vor-unserer-haustuer.html)
+* [Das Programm der Chemniter Linuxtage 2019 steht.](https://www.pro-linux.de/news/1/26743/programm-der-chemnitzer-linux-tage-2019-steht.html)
+* [>>Heilpflanze des Monats Februar 2019: Huflattich<<](https://bio-erzgebirge.de/wp/?p=17529)
+* [>>Let's deploy to production<< - Achtung, ein Dichröhre-Video.](https://www.youtube.com/watch?v=5p8wTOr8AbU)
