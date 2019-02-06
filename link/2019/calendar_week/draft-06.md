@@ -11,3 +11,5 @@
 * [Das Programm der Chemniter Linuxtage 2019 steht.](https://www.pro-linux.de/news/1/26743/programm-der-chemnitzer-linux-tage-2019-steht.html)
 * [>>Heilpflanze des Monats Februar 2019: Huflattich<<](https://bio-erzgebirge.de/wp/?p=17529)
 * [>>Let's deploy to production<< - Achtung, ein Dichröhre-Video.](https://www.youtube.com/watch?v=5p8wTOr8AbU)
+* [Accenture, die München beraten haben von Linux zu Microsoft zu wechseln weil Steuergelder so schön brennen, die machen jetzt mit Microsoft eine gemeinsame Service-Sparte auf.](https://blog.fefe.de/?ts=a2a42848)
+* [So gut, wie Software getestet wird weil die Hersteller keine Haftung haben, so gut wird auch Hardware getestet.](https://blog.fefe.de/?ts=a2a422b0)
