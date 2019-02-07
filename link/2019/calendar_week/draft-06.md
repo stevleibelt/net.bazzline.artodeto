@@ -13,3 +13,7 @@
 * [>>Let's deploy to production<< - Achtung, ein Dichröhre-Video.](https://www.youtube.com/watch?v=5p8wTOr8AbU)
 * [Accenture, die München beraten haben von Linux zu Microsoft zu wechseln weil Steuergelder so schön brennen, die machen jetzt mit Microsoft eine gemeinsame Service-Sparte auf.](https://blog.fefe.de/?ts=a2a42848)
 * [So gut, wie Software getestet wird weil die Hersteller keine Haftung haben, so gut wird auch Hardware getestet.](https://blog.fefe.de/?ts=a2a422b0)
+* [>>[...] eim Stromexport war Deutschland Europameister und erreichte ebenfalls einen neuen Rekordwert. [...]<<](http://www.sonnenseite.com/de/energie/stromproduktion-in-deutschland-im-januar-mit-neuem-rekordhoch.html) - Und jetzt fragt mal euren lokalen Politiker warum die Stromkosten hier jedes Jahr steigen.
+* [Nextcloud wurde in den Versionen 15.0.4, 14.0.7 und 13.0.11 veröffentlicht.](https://nextcloud.com/blog/time-to-update-nextcloud-15.0.4-14.0.7-and-13.0.11-are-here/)
+* [Nein? Doch! Oh! Lasst die Kunden euer frisches Gemüse und Obst riechen und schon kaufen die das wie bekloppte ein.](https://netzfrauen.org/2019/02/07/newzealand-3/)
+* [OVirt wurde in der Version 4.3 veröffentlicht.](https://www.pro-linux.de/news/1/26750/ovirt-430-freigegeben.html)
