@@ -17,3 +17,8 @@
 * [Nextcloud wurde in den Versionen 15.0.4, 14.0.7 und 13.0.11 veröffentlicht.](https://nextcloud.com/blog/time-to-update-nextcloud-15.0.4-14.0.7-and-13.0.11-are-here/)
 * [Nein? Doch! Oh! Lasst die Kunden euer frisches Gemüse und Obst riechen und schon kaufen die das wie bekloppte ein.](https://netzfrauen.org/2019/02/07/newzealand-3/)
 * [OVirt wurde in der Version 4.3 veröffentlicht.](https://www.pro-linux.de/news/1/26750/ovirt-430-freigegeben.html)
+* [Nord-Stream-II? Klar kannst du dich daran beteiligen, aber dann drohen dir die USA halt einmal den Krieg an.](https://blog.fefe.de/?ts=a2a2a40f) - Wo kommen wir denn auch hin, wenn die Europäer in Europa über Sachen ohne die US-Amerikaner entscheiden könnten.
+* [Wow, wie viel mehr hätte man da rausholen können, Apple sagt einer steuerlichen Rückzahlung von über 500 Millionen Euro an Frankreich zu.](https://blog.fefe.de/?ts=a2a29b87)
+* [Ach und die Kackbratzen von el "don't be evil" google zahlen mehr Strafgelder als Steuern in den EU.](https://blog.fefe.de/?ts=a2a291f1)
+* [WTF? Sowas kann man sich nicht ausdenken, außer man ist Kokser *äh* Werbetreibender - Statt die Feinstaubproblematik anzugehen bauen Städte jetzt neben den Messstationen Luftsauger auf, in der Hoffnung knapp unter den kritischen Wert zu kommen.](https://blog.fefe.de/?ts=a2a28f5e) - Da wird also ein Stück stahl mit Filtermatten und einem lauten und starken Saugmotor hingestellt. Der Saugmotor verbraucht ewig viel Energie und die Filtermatten kann keine Sau entsorgen weil das Sondermüll ist - Nachhaltigkeit sieht für mich anders aus.
+* [LibreOffice wurde in der Version 6.2 veröffentlicht.](https://www.pro-linux.de/news/1/26752/libreoffice-62-freigegeben.html)
