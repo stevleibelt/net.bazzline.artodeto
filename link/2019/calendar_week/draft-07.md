@@ -1,0 +1,6 @@
+* [Spätest wenn die WHO sagt, dass man Canabis ruhig legalisieren sollte, weiß man, dass damit nur massenweise Geld erzeugt werden soll.](https://blog.fefe.de/?ts=a29ed935)
+* [Super, die Berliner Verkehrsbetriebe sehen nicht nur offiziell mit, sie belauschen euch auch noch.](https://blog.fefe.de/?ts=a29ed949)
+* [>>about:preferences#home<<, Firefox macht ja jetzt scheinbar Werbung auf der Startseite.](https://blog.fefe.de/?ts=a29ed846)
+* [Wie mit dem Gemüse und Obst, so ist es auch mit dem hier produzierten Fleisch, es wird weggeworfen.](https://netzfrauen.org/2019/02/10/fleisch-4/)
+* [Hier gibt es ein schönes Rezept wie man Hafermilch selber machen kann.](https://www.smarticular.net/hafermilch-aus-haferflocken-selber-machen-rezept/)
+* [Die SystemRescueCd wurde in der Version 6.0.1 veröffentlicht.](https://www.planet3dnow.de/cms/44420-systemrescuecd-6-0-1/)
