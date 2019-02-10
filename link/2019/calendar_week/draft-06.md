@@ -27,3 +27,8 @@
 * [Schönes Beispiel das so lange an der Sicherheit gespart wird, bis Sicherheit per Gesetzt vorgeschrieben und ordentlich kontrolliert wird - Heute, Wells Fargo.](https://blog.fefe.de/?ts=a2a2735e) - Hey, was macht das schon wenn fast alle Kunden nicht auf ihr Konto zugreifen können? Gerade in einer Welt, in der das "digitale bezahlen" so Beworben wird.
 * [Sieben Schritte wie ihr einen Fehler in eurem Quelltext behebt.](https://opensource.com/article/19/2/steps-hunting-code-python-bugs)
 * [Fefe fragt zu recht für was man den Namen, die Anschrift, das Geschlecht, die Religionszugehörigkeit etc. bei einer Volkszählung braucht.](https://blog.fefe.de/?ts=a2a3b60f)
+* [Die Wahrheit über unser Schulsystem - Prof. Dr. Gerald Hüther spricht Klartext](https://www.welt-im-wandel.tv/video/die-wahrheit-ueber-unser-schulsystem-prof-dr-gerald-huether-spricht-klartext/)
+* [The day after C.](https://berlin-ak.ftp.media.ccc.de/contributors/cccac/vortraege/h264-hd/cccac-3-deu-The_Day_After_C_hd.mp4)
+* [HTCPCP - IoT Done right for fun and profit.](https://mirror.us.oneandone.net/projects/media.ccc.de/contributors/cccac/vortraege/h264-hd/cccac-2-deu-HTCPCP_-_Networking_your_Coffeepot_hd.mp4)
+* [Opensource-Lizenzen](https://mirror.eu.oneandone.net/projects/media.ccc.de/contributors/cccac/vortraege/h264-hd/cccac-1-deu-Opensource_Lizenzen_hd.mp4)
+* [ZFS rocks.](https://www.youtube.com/channel/UCC0WuyODhqPuROasZV878Yw)
