@@ -4,3 +4,6 @@
 * [Wie mit dem Gemüse und Obst, so ist es auch mit dem hier produzierten Fleisch, es wird weggeworfen.](https://netzfrauen.org/2019/02/10/fleisch-4/)
 * [Hier gibt es ein schönes Rezept wie man Hafermilch selber machen kann.](https://www.smarticular.net/hafermilch-aus-haferflocken-selber-machen-rezept/)
 * [Die SystemRescueCd wurde in der Version 6.0.1 veröffentlicht.](https://www.planet3dnow.de/cms/44420-systemrescuecd-6-0-1/)
+* [ownCloud wurde in der Version 10.1.0 veröffentlicht.](https://www.pro-linux.de/news/1/26757/owncloud-server-1010-integriert-microsoft-office-online.html)
+* [Hier wird euch erklärt, warum Podman ohne Root-Rechte auskommt.](https://opensource.com/article/19/2/how-does-rootless-podman-work)
+* [Schaut mal an, da verbieten die Inder Einwegplastik und schon besinnt man sich auf Naturprodukte zurück und schafft Arbeitsplätze.](https://netzfrauen.org/2019/02/11/plastic-9/)
