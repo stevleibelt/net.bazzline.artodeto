@@ -7,3 +7,6 @@
 * [ownCloud wurde in der Version 10.1.0 veröffentlicht.](https://www.pro-linux.de/news/1/26757/owncloud-server-1010-integriert-microsoft-office-online.html)
 * [Hier wird euch erklärt, warum Podman ohne Root-Rechte auskommt.](https://opensource.com/article/19/2/how-does-rootless-podman-work)
 * [Schaut mal an, da verbieten die Inder Einwegplastik und schon besinnt man sich auf Naturprodukte zurück und schafft Arbeitsplätze.](https://netzfrauen.org/2019/02/11/plastic-9/)
+* [Nein? Doch! Oh? Das Polareis schmilzt und schmilzt und schmilzt.](https://netzfrauen.org/2019/02/12/klima/)
+* [Offiziell sind die Polizeigesetze ja gegen den Terror gemacht worden, Terror wie diese lästigen Umweltaktivisten die den Cash-Flow stören.](https://blog.fefe.de/?ts=a29c0316)
+* [Schöne Übung zur Frage ob alles beschissener wird oder nicht.](https://blog.fefe.de/?ts=a29c7ff0)
