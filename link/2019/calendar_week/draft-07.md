@@ -10,3 +10,5 @@
 * [Nein? Doch! Oh? Das Polareis schmilzt und schmilzt und schmilzt.](https://netzfrauen.org/2019/02/12/klima/)
 * [Offiziell sind die Polizeigesetze ja gegen den Terror gemacht worden, Terror wie diese lästigen Umweltaktivisten die den Cash-Flow stören.](https://blog.fefe.de/?ts=a29c0316)
 * [Schöne Übung zur Frage ob alles beschissener wird oder nicht.](https://blog.fefe.de/?ts=a29c7ff0)
+* [Der Upload-Filter hänft jetzt vor dem EU-Parlament.](https://blog.fefe.de/?ts=a29abb1d)
+* [Die arabischen Länder sprechen jetzt ganz offen vom Krieg gegen den Iran.](https://blog.fefe.de/?ts=a29ababd)
