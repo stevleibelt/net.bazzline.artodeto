@@ -21,3 +21,9 @@
 * [DeskMini A300 sieht wie ein schönes Gehäuse für kleine NAS aus - wenn das Mainboard ECC Ram unterstützt.](https://www.planet3dnow.de/cms/44508-asrocks-amd-mini-stx-plattform-deskmini-a300-ab-maerz-erhaeltlich/)
 * [Der Upload-Filter hänft jetzt vor dem EU-Parlament.](https://blog.fefe.de/?ts=a29abb1d)
 * [Die arabischen Länder sprechen jetzt ganz offen vom Krieg gegen den Iran.](https://blog.fefe.de/?ts=a29ababd)
+* [Tails wurde in der Version 3.12.1 veröffentlicht.](https://www.pro-linux.de/news/1/26771/sicherheitsupdate-f%C3%BCr-tails.html)
+* [Oh nein, nun soll Statistik, oder wie es die Werbeblubber nennen "KI/AI/Machine Learning" sich um unser Stromnetz kümmern.](http://www.sonnenseite.com/de/wissenschaft/kuenstliche-intelligenz-fuer-sichere-stromnetze.html) - Am besten, man geht nicht mehr ins Krankenhaus, U-Bahn und Fahrstuhl fahren würde ich dann auch sein lassen.
+* [PostgreSQL wurde in den Versionen 11.2, 10.7, 9.6.12, 9.5.16, und 9.4.21 veröffentlicht.](https://lwn.net/Articles/779781/rss)
+* [Falls euer GPS ab dem 06.04.2019 nicht mehr funktioniert, wisst ihr dass der Hersteller schlechte Software hat.](https://blog.fefe.de/?ts=a29bad42)
+* [Oha, wird Huawei einfach sozialer geführt?](https://blog.fefe.de/?ts=a29ba6f5) - Ist dies gar das Problem, welches die Wallstreet in den USA an Huawei sieht?
+* [Snap Container sind auch kaputt.](https://initblog.com/2019/dirty-sock/)
