@@ -27,3 +27,9 @@
 * [Falls euer GPS ab dem 06.04.2019 nicht mehr funktioniert, wisst ihr dass der Hersteller schlechte Software hat.](https://blog.fefe.de/?ts=a29bad42)
 * [Oha, wird Huawei einfach sozialer geführt?](https://blog.fefe.de/?ts=a29ba6f5) - Ist dies gar das Problem, welches die Wallstreet in den USA an Huawei sieht?
 * [Snap Container sind auch kaputt.](https://initblog.com/2019/dirty-sock/)
+* [Amazon baut nun doch keine neue Firmenzentrale weil sie nicht genug Geld von den Komunen geschenkt bekommen.](https://blog.fefe.de/?ts=a29b6f8e) - Konzerne haben kein Herz, ich wiederhole mich.
+* [Schön, die Marriott-Hotels werden Plastikstrohhalme aus dem Programm nehmen.](https://www.careelite.de/marriott-international-streicht-plastikstrohhalme-aus-hotels/)
+* [Die Telefonanbieter verkaufen illegal eure Standortdaten.](https://blog.fefe.de/?ts=a29b474c)
+* [Oh Gott, das ist traurig. Wir leben in einem Land voller überfluss für einige während mehr als 1 Million Menschen keine eigene Wohnung haben.](https://blog.fefe.de/?ts=a29bbee1)
+* [Beim Fisch ist es wie beim Fleisch, wenn ihr nicht seht wie es aufgezogen wird, kauft ihr es besser nicht.](https://netzfrauen.org/2019/02/15/fish/)
+* [Zenity / Zenburn Farbschema für eure Webseite!](https://opensource.com/article/19/2/make-websites-more-readable-shell-script)
