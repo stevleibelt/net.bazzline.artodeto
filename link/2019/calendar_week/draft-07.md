@@ -41,3 +41,5 @@
 * [Nein? Doch! Oh? Barzahlung ist günstiger für alle und geht schneller - warum will die EU jetzt noch einmal das Bargeld abschaffen? Wirtschaftsförderung und Zwangsüberwachung!](https://www.neopresse.com/medien/der-bargeld-krieg-schweizer-medien-wissen-warum-sie-bargeld-benoetigen/)
 * [Wow, wegen einem zu viel an Strahlung konnte eine Show in der Schweiz nicht vollständig aufgeführt werden.](https://blog.fefe.de/?ts=a2980419) - Gut das uns die Industrie erzählt, dass so viel Strahlung völlig ungefährlich ist ... oh Krebs?
 * [Wow, schönes Beispiel wie schlecht die BWL-er Idee ist, dass jeder Teil in einer Firma provit machen muss. Bei der Bahn wir auf kurze Sicht geplant. Macht bei Bahnstrecken die mehrere Jahrzehnte halten sollen sofort Sinn.](https://blog.fefe.de/?ts=a2987e58)
+* [Debian wurde in der Version 9.8 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=Debian-9.8-Released)
+* [Nein? Doch! Oh? Googles Werbekacke macht eure Webseite langsam.](https://blog.fefe.de/?ts=a296ef7c)
