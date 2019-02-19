@@ -1,1 +1,6 @@
 * [Opensource-DVD wurde in der Version 2019 und Opensource-DVD Spiele wurde in der Version 4.9 veröffentlicht](https://www.pro-linux.de/news/1/26784/opensource-dvd-2019-und-opensource-dvd-spiele-49.html)
+* [Euer git clone dauert ewig? Schaut doch mal, ob ihr ein ähnliches Repository rumliegen habt, dann wird nur der Diff runter geladen.](https://utcc.utoronto.ca/~cks/space/blog/programming/GitCloningBaseBenefit)
+* [Norwegen verbietet Kraftstoffe, die aus Palmenöl hergestellt werden.](https://netzfrauen.org/2019/02/18/palmoil-3/) - Meine Damen und Herren, ein Anfang ist gemacht.
+* [Nein? Doch! Oh? Wenn die Hardware kaputt ist, wie bei Intel seit Jahrzehnten, dann helfen auch Software-Updates nichts.](https://blog.fefe.de/?ts=a2950b44) - Hier ist es Spectre, setzt dieses Wissen um auf die Brennstoffmotoren.
+* [Gehirne funken nun offiziell auch.](https://blog.fefe.de/?ts=a29511bb) - Also die haben das schon immer gemacht, nun hat die Wissenschaft die ersten Funkstrahlen sehen und messen können. Packt dazu mal euer Wissen, dass wir unser Gehirn mit WLan-, GSM-, etc. Strahlen zuballern.
+* [Vulkan wurde in der Version 1.1.101 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=Vulkan-1.1.101-Released)
