@@ -4,3 +4,9 @@
 * [Nein? Doch! Oh? Wenn die Hardware kaputt ist, wie bei Intel seit Jahrzehnten, dann helfen auch Software-Updates nichts.](https://blog.fefe.de/?ts=a2950b44) - Hier ist es Spectre, setzt dieses Wissen um auf die Brennstoffmotoren.
 * [Gehirne funken nun offiziell auch.](https://blog.fefe.de/?ts=a29511bb) - Also die haben das schon immer gemacht, nun hat die Wissenschaft die ersten Funkstrahlen sehen und messen können. Packt dazu mal euer Wissen, dass wir unser Gehirn mit WLan-, GSM-, etc. Strahlen zuballern.
 * [Vulkan wurde in der Version 1.1.101 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=Vulkan-1.1.101-Released)
+* [Digikam wurde in der Version 6.0 veröffentlicht.](https://www.pro-linux.de/news/1/26789/digikam-600-freigegeben.html)
+* [Kali Linux wurde in der Version 2019.1 veröffentlicht.](https://www.pro-linux.de/news/1/26792/kali-linux-20191-ver%C3%B6ffentlicht.html)
+* [Der Polizeikongress in Berlin zeigt wohin es gehen soll, wer Verschlüsselung nutzt, ist ein Terrorist.](https://blog.fefe.de/?ts=a2938007)
+* [Ertappt worden das man ein geheimes Mikrophon eingebaut hat? "It's a feature!"](https://blog.fefe.de/?ts=a293ff87)
+* [Schön, Frankreich verhängt eine Strafzahlung von 3,7 Milliarden Euro gegen UBS.](https://blog.fefe.de/?ts=a2939a41)
+* [Da hat ein Einsender bei FeFe vollkommen recht, jeder Lautsprecher, der von etwas angesteuert wird, was mehr als nur Lesen kann, ist ein Mikrophon.](https://blog.fefe.de/?ts=a293a093)
