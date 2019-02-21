@@ -10,3 +10,5 @@
 * [Ertappt worden das man ein geheimes Mikrophon eingebaut hat? "It's a feature!"](https://blog.fefe.de/?ts=a293ff87)
 * [Schön, Frankreich verhängt eine Strafzahlung von 3,7 Milliarden Euro gegen UBS.](https://blog.fefe.de/?ts=a2939a41)
 * [Da hat ein Einsender bei FeFe vollkommen recht, jeder Lautsprecher, der von etwas angesteuert wird, was mehr als nur Lesen kann, ist ein Mikrophon.](https://blog.fefe.de/?ts=a293a093)
+* [Mit BATS könnt ihr euren BASH-Code mit Unit Tests abdecken.](https://opensource.com/article/19/2/testing-bash-bats)
+* [>>[...] Wer Produkte baut, von denen Menschenleben abhängen, muss den Quellcode offenlegen. Ganz einfach! [...]<<](https://blog.fefe.de/?ts=a29066f6)
