@@ -12,3 +12,8 @@
 * [Da hat ein Einsender bei FeFe vollkommen recht, jeder Lautsprecher, der von etwas angesteuert wird, was mehr als nur Lesen kann, ist ein Mikrophon.](https://blog.fefe.de/?ts=a293a093)
 * [Mit BATS könnt ihr euren BASH-Code mit Unit Tests abdecken.](https://opensource.com/article/19/2/testing-bash-bats)
 * [>>[...] Wer Produkte baut, von denen Menschenleben abhängen, muss den Quellcode offenlegen. Ganz einfach! [...]<<](https://blog.fefe.de/?ts=a29066f6)
+* [Der KriPo in NRW sind mal viele Beweismittel bei Kindesmissbrauchfälle "abhanden" gekommen.](https://blog.fefe.de/?ts=a291c971)
+* [Nein? Doch! Oh? Durch die Monokulturen stirbt uns die Natur weg und wir werden anfälliger auf evolutionär bedingte Änderungen.](https://netzfrauen.org/2019/02/22/biodiversity-2/)
+* [Onion Share wurde in der Version 2.0 veröffentlicht.](https://www.pro-linux.de/news/1/26801/onionshare-20-erschienen.html)
+* [Da hat wohl jemand seine Sonderzahlung nicht bekommen? Heckler und Koch muss Strafzahlung wegen illegaler Waffenlieferung zahlen.](http://www.sonnenseite.com/de/politik/gericht-verurteilt-heckler-koch-wegen-illegalen-waffenhandels.html)
+* [Limbomedia, nextcloud, owncloud, opencloud, pydio, seafile, sparkleshare, was darfs denn sein?](https://www.pro-linux.de/umfragen/2/474/umfragen.html)
