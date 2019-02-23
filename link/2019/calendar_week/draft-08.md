@@ -17,3 +17,7 @@
 * [Onion Share wurde in der Version 2.0 veröffentlicht.](https://www.pro-linux.de/news/1/26801/onionshare-20-erschienen.html)
 * [Da hat wohl jemand seine Sonderzahlung nicht bekommen? Heckler und Koch muss Strafzahlung wegen illegaler Waffenlieferung zahlen.](http://www.sonnenseite.com/de/politik/gericht-verurteilt-heckler-koch-wegen-illegalen-waffenhandels.html)
 * [Limbomedia, nextcloud, owncloud, opencloud, pydio, seafile, sparkleshare, was darfs denn sein?](https://www.pro-linux.de/umfragen/2/474/umfragen.html)
+* [PostgreSQL wurde in den Versionen 11.2, 10.7, 9.6.12, 9.5.16 und 9.4.21 veröffentlicht.](https://www.postgresql.org/about/news/1920/)
+* [Pgpool-II wurde in den Versionen 4.0.3, 3.7.8, 3.6.15, 3.5.19 und 3.4.22 veröffentlicht.](https://www.postgresql.org/about/news/1921/)
+* [Barman wurde in der Version v2.6 veröffentlicht.](https://www.postgresql.org/about/news/1918/)
+* [>>Pornos, Tinder & Sexsucht: Die schockierende Wahrheit - Sextherapeutin spricht Klartext!<<](https://www.welt-im-wandel.tv/video/pornos-tinder-sexsucht-die-schockierende-wahrheit-sextherapeutin-spricht-klartext/)
