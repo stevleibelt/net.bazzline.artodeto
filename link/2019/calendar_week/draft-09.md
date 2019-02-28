@@ -7,3 +7,6 @@
 * [Wow Attac war wohl zu erfolgreich, der Bundesfinanzhof hat kurzerhand die Gemeinnützigkeit aberkannt.](https://blog.fefe.de/?ts=a28bfc16)
 * [Oracles TLS ist kaputt.](https://blog.fefe.de/?ts=a28b7b27)
 * [Docker Container mit Node sind scheinbar von Haus aus so kaputt.](https://blog.fefe.de/?ts=a28b7b8e)
+* [Nein? Doch! Oh? Fast Food macht auch eurer Gehirn kaputt.](https://netzfrauen.org/2019/02/27/fastfood/)
+* [Nextcloud wurde in den Versionen 15.0.5, 14.0.8 und 13.0.12 veröffentlicht.](https://nextcloud.com/blog/time-for-an-update-nextcloud-15.0.5-14.0.8-and-13.0.12-are-here/)
+* [Genode OS wurde in der Version 19.02 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=Genode-OS-19.02-Released)
