@@ -10,3 +10,7 @@
 * [Nein? Doch! Oh? Fast Food macht auch eurer Gehirn kaputt.](https://netzfrauen.org/2019/02/27/fastfood/)
 * [Nextcloud wurde in den Versionen 15.0.5, 14.0.8 und 13.0.12 veröffentlicht.](https://nextcloud.com/blog/time-for-an-update-nextcloud-15.0.5-14.0.8-and-13.0.12-are-here/)
 * [Genode OS wurde in der Version 19.02 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=Genode-OS-19.02-Released)
+* [Rust wurde in der Version 1.33 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=Rust-1.33-Released)
+* [>>Aktuelles aus dem Netzwerk Freiberg im März 2019<<](https://bio-erzgebirge.de/wp/?p=17714)
+* [Endlich hat es jemand gemacht, die Weltbank kann verklagt werden!](https://netzfrauen.org/2019/02/28/worldbank/)
+* [Herzlichen Glückwunsch, 25 Jahre Kanal 9 Erzgebirge.](https://www.youtube.com/watch?v=wyQ-ki-6Gig)
