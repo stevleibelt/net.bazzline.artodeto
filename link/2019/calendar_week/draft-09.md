@@ -14,3 +14,4 @@
 * [>>Aktuelles aus dem Netzwerk Freiberg im März 2019<<](https://bio-erzgebirge.de/wp/?p=17714)
 * [Endlich hat es jemand gemacht, die Weltbank kann verklagt werden!](https://netzfrauen.org/2019/02/28/worldbank/)
 * [Herzlichen Glückwunsch, 25 Jahre Kanal 9 Erzgebirge.](https://www.youtube.com/watch?v=wyQ-ki-6Gig)
+* [>>Wlan, Handy & 5G - Wie krank machen sie uns wirklich? Der Experten-Talk<<](https://www.welt-im-wandel.tv/video/wlan-handy-5g-wie-krank-machen-sie-uns-wirklich-der-experten-talk/)
