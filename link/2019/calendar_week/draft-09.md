@@ -15,3 +15,5 @@
 * [Endlich hat es jemand gemacht, die Weltbank kann verklagt werden!](https://netzfrauen.org/2019/02/28/worldbank/)
 * [Herzlichen Glückwunsch, 25 Jahre Kanal 9 Erzgebirge.](https://www.youtube.com/watch?v=wyQ-ki-6Gig)
 * [>>Wlan, Handy & 5G - Wie krank machen sie uns wirklich? Der Experten-Talk<<](https://www.welt-im-wandel.tv/video/wlan-handy-5g-wie-krank-machen-sie-uns-wirklich-der-experten-talk/)
+* [Die Bundespolizei speichert die Videos der Body-Cams beim US-Konzern amazon.](https://blog.fefe.de/?ts=a28427bd)
+* [Juchee, Nestle, Coca-Cola und Kraft/Heinz gehen langsam die Kunden aus.](https://netzfrauen.org/2019/03/02/konzerne-2/)
