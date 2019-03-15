@@ -14,3 +14,7 @@
 * [Godot wurde in der Version 3.1 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=Godot-3.1-Released)
 * [Flatpak wurde in der Version 1.3 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=Flatpak-1.3-Released)
 * [Wow, der Android Chrome Browser öffnet google jetzt die Möglichkeit eure HTTPS Seiten von google mitlesen zu lassen.](https://blog.fefe.de/?ts=a2748f40) - Bankinformationen, private Daten ... das geht dann alles zu google.
+* [DXVK wurde in der Version 1.0.1 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=DXVK-1.0.1-Released)
+* [Beim Schiffsverkehr ist es wie bei den Flugzeugen, über Jahrzehnte wurden Gewinne privatisiert und jetzt kollabiert alles.](https://blog.fefe.de/?ts=a275a5e4)
+* [We are all americans - irgendwer ballert mit Raketen auf Tel Aviv und was macht Isarel? Erst einmal grob ein Flächenbombardement auf den Gazastreifen ... wird schon den Richtigen erwischen.](https://blog.fefe.de/?ts=a275a4e7)
+* [Die UNO will jetzt die Menschenrechte der Deutschen vor der CDU retten :-O - oder haben die US-Amerikanischen Firmen einfach sorgen dass deren Absatz hier abkackt?](https://blog.fefe.de/?ts=a275a29f)
