@@ -18,3 +18,4 @@
 * [Beim Schiffsverkehr ist es wie bei den Flugzeugen, über Jahrzehnte wurden Gewinne privatisiert und jetzt kollabiert alles.](https://blog.fefe.de/?ts=a275a5e4)
 * [We are all americans - irgendwer ballert mit Raketen auf Tel Aviv und was macht Isarel? Erst einmal grob ein Flächenbombardement auf den Gazastreifen ... wird schon den Richtigen erwischen.](https://blog.fefe.de/?ts=a275a4e7)
 * [Die UNO will jetzt die Menschenrechte der Deutschen vor der CDU retten :-O - oder haben die US-Amerikanischen Firmen einfach sorgen dass deren Absatz hier abkackt?](https://blog.fefe.de/?ts=a275a29f)
+* [NetworkManaer wurde in der Version 1.16 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=NetworkManager-1.16-Released)
