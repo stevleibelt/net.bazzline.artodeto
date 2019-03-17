@@ -19,3 +19,6 @@
 * [We are all americans - irgendwer ballert mit Raketen auf Tel Aviv und was macht Isarel? Erst einmal grob ein Flächenbombardement auf den Gazastreifen ... wird schon den Richtigen erwischen.](https://blog.fefe.de/?ts=a275a4e7)
 * [Die UNO will jetzt die Menschenrechte der Deutschen vor der CDU retten :-O - oder haben die US-Amerikanischen Firmen einfach sorgen dass deren Absatz hier abkackt?](https://blog.fefe.de/?ts=a275a29f)
 * [NetworkManaer wurde in der Version 1.16 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=NetworkManager-1.16-Released)
+* [Bei der Bundespressekonferenz zur Klimapolitik reden die Wissenschaftler einmal Klartext.](https://blog.fefe.de/?ts=a270b1f5) - Erneuerbare Energieen sind bezahlbar, bringen deutlich mehr Arbeitsplätze und es ist eine Schande für alle folgenden Generationen, dass wir womöglich das Klima der Welt gegen die Wand fahren um jetzt noch ein paar Euros mehr Zinsen zu erzeugen.
+* [Vulkan wurde in der Version 1.1.104 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=Vulkan-1.1.104-Released)
+* [Hey, der internationale Gerichtshof in Den Haag prüft wie viele Kriegsverbrechen die USA und die CIA in Afghanistan so verbrochen haben und wie reagiert ein Staat wie die USA? Allen Untersuchern wird ab jetzt die Einreise in die USA verweigert.](https://blog.fefe.de/?ts=a2708f4a)
