@@ -5,3 +5,11 @@
 * [Googles "Safe Browsing" blockiert dann man den Zugriff auf den Konkurrenten Azure Cloud.](https://blog.fefe.de/?ts=a26e0e12)
 * [Mate wurde in der Version 1.22.0 veröffentlicht.](https://www.pro-linux.de/news/1/26881/mate-1220-freigegeben.html)
 * [Mutter Natur tut was gegen den Krieg und lässt eine Luftwaffenbasis der USA absaufen.](https://blog.fefe.de/?ts=a26e355b)
+* [Lernen durch Schmerz, wie die 1 Prozent der Weltbevölkerung gern sagen, so ergeht es nun auch Norsk Hydro.](https://blog.fefe.de/?ts=a26fd2e9)
+* [Wie zu erwarten finden die US-Juristen auf einmal auch, dass Glyphosat Krebserregend ist - da muss die IG-Farben wohl bald vom Steuerzahler "gerettet" werden.](https://blog.fefe.de/?ts=a26f24b4) - Blackrock, Inhaber beider Konzerne, macht so oder so Gewinn.
+* [Schön das es noch Richter mit Verantwortung gibt, das OLG Münster hat entschieden, dass Berlin zukünftig die Kriegsflüge von Rammstein aus auf Einhaltung des Völkerrechts prüfen muss.](https://blog.fefe.de/?ts=a26f2994) - Die Blockpartei wird Gründe finden warum sie das nicht macht, aber das bereden wir dann mit der Blockpartei.
+* [Tails wurde in der Version 3.13 veröffentlicht.](https://www.pro-linux.de/news/1/26885/tails-313-schlie%C3%9Ft-l%C3%BCc%E1%B8%B1en-in-tor-browser-und-thunderbird.html)
+* [Schaut an, nur 10 Jahre dauert es bis so ein agiler Konzern wie Alphabete/Google anfangen ihr Tracking-OS Andorid den EU-Rechten anzupassen.](https://www.pro-linux.de/news/1/26886/google-will-android-f%C3%BCr-europa-anpassen.html) - Fertigstellung dann so 2030 oder auch nicht.
+* [Samba wurde in der Version 4.10 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=Samba-4.10-Released)
+* [Gutes Beispiel für was die Urheberrechtsreform da ist, für Zensur.](https://blog.fefe.de/?ts=a26cf151)
+* [Der Disney Konzern ohne Herz hat jetzt Fox gekauft.](https://blog.fefe.de/?ts=a26cf84c)
