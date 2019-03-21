@@ -13,3 +13,10 @@
 * [Samba wurde in der Version 4.10 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=Samba-4.10-Released)
 * [Gutes Beispiel für was die Urheberrechtsreform da ist, für Zensur.](https://blog.fefe.de/?ts=a26cf151)
 * [Der Disney Konzern ohne Herz hat jetzt Fox gekauft.](https://blog.fefe.de/?ts=a26cf84c)
+* [Nein? Doch! Oh? Trudeau ist auch bis zum Anschlag in Korruption verstrickt.](https://blog.fefe.de/?ts=a26df48c)
+* [Neuseeland schafft dann mal offiziell Sturmgewehre und halbautomatische Waffen ab.](https://blog.fefe.de/?ts=a26de5f1) - Ich verstehe ja nicht warum wir in einer Zivilgesellschaft überhaupt Schusswaffen brauchen.
+* [Der Heimathorst möchte jetzt auch schon Säuglinge vom BND und vom Verfassungsschutz beschnüffeln lassen.](https://blog.fefe.de/?ts=a26ddf49)
+* [Der Deutschen Bank gehen die Schuldigen aus, also will sich jetzt jeder selbst retten und beschuldigt alle anderen.](https://blog.fefe.de/?ts=a26c4466) - Und wenn das in der Führungsebene passiert, weißt du wie sehr da die Kacke am dampfen ist.
+* [Die EVP tut kurz vor den Wahlen so als währen sie gar keine Nazis.](https://blog.fefe.de/?ts=a26c4487)
+* [Schöne Zusammenfassung worum es bei Artikel 11 und 13 in der EU geht - Globale Lizenzierung und damit die Lizenz zum Gelddrucken ohne etwas zu machen.](https://blog.fefe.de/?ts=a26d620a)
+* [Hackfressenbuch ist so sehr an der Sicherheit eurer Daten interessiert, dass Sie eure Passwörter im Klartext speichern.](https://blog.fefe.de/?ts=a26d7756)
