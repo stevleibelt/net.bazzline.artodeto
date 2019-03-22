@@ -20,3 +20,4 @@
 * [Die EVP tut kurz vor den Wahlen so als währen sie gar keine Nazis.](https://blog.fefe.de/?ts=a26c4487)
 * [Schöne Zusammenfassung worum es bei Artikel 11 und 13 in der EU geht - Globale Lizenzierung und damit die Lizenz zum Gelddrucken ohne etwas zu machen.](https://blog.fefe.de/?ts=a26d620a)
 * [Hackfressenbuch ist so sehr an der Sicherheit eurer Daten interessiert, dass Sie eure Passwörter im Klartext speichern.](https://blog.fefe.de/?ts=a26d7756)
+* [Diablo1 mit open source Grafik? Deviluition X!](https://www.phoronix.com/scan.php?page=news_item&px=DeviluitionX-Open-Diablo)
