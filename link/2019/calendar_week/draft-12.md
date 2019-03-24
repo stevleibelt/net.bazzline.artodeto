@@ -21,3 +21,5 @@
 * [Schöne Zusammenfassung worum es bei Artikel 11 und 13 in der EU geht - Globale Lizenzierung und damit die Lizenz zum Gelddrucken ohne etwas zu machen.](https://blog.fefe.de/?ts=a26d620a)
 * [Hackfressenbuch ist so sehr an der Sicherheit eurer Daten interessiert, dass Sie eure Passwörter im Klartext speichern.](https://blog.fefe.de/?ts=a26d7756)
 * [Diablo1 mit open source Grafik? Deviluition X!](https://www.phoronix.com/scan.php?page=news_item&px=DeviluitionX-Open-Diablo)
+* [Foren, also die private Welt außerhalb von google und Hackfressenbuch werden jetzt auch als Darknet bezeichnet.](https://tuxproject.de/blog/2019/03/foren-sind-das-neue-darknet/)
+* [Der BND möchte gern gesetzlich verbieten, dass man in Deutschland einen TOR-Node laufen lässt.](http://n-gate.com/hackernews/2019/03/21/0/) - Wo kommen wir denn auch hin wenn jeder machen darf was er will?
