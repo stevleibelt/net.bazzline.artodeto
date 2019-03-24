@@ -23,3 +23,6 @@
 * [Diablo1 mit open source Grafik? Deviluition X!](https://www.phoronix.com/scan.php?page=news_item&px=DeviluitionX-Open-Diablo)
 * [Foren, also die private Welt außerhalb von google und Hackfressenbuch werden jetzt auch als Darknet bezeichnet.](https://tuxproject.de/blog/2019/03/foren-sind-das-neue-darknet/)
 * [Der BND möchte gern gesetzlich verbieten, dass man in Deutschland einen TOR-Node laufen lässt.](http://n-gate.com/hackernews/2019/03/21/0/) - Wo kommen wir denn auch hin wenn jeder machen darf was er will?
+* [Die Demonstrationen gegen den Artikel 11 und Artikel 13 werden von den Öffentlich-Rechtlichen als "Kampagne der großen Internetkonzerne" unter das Volk gebracht.](https://blog.fefe.de/?ts=a2694a5e)
+* [Das vernetzte Auto wird offiziell auch von der Zitis abgehört.](https://blog.fefe.de/?ts=a269491c)
+* [Verliert nie den Glauben an die Menschlichkeit.](https://netzfrauen.org/2019/03/24/einzigartig/)
