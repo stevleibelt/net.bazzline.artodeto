@@ -7,3 +7,8 @@
 * [Warum will Apple und Google jetzt Kreditkarten machen? Zum einen weil man so noch mehr Daten aggregieren kann und zum anderen wegen 25 Prozent effektiver Jahreszins.](https://blog.fefe.de/?ts=a267100c)
 * [Deswegen wird in Deutschland kein Breintbandinternet ausgebaut, da schützt uns der Staat vor Straftaten!](https://blog.fefe.de/?ts=a2670fc8)
 * [3.6 Milliarden Euro Umsatz und 686 Millionen Euro Strafe? Positive Billanz würde ich sagen ... ach und die Strafen sind zu niedrig wenn Konzerne aus Gewinngründen mit dem Leben spielen.](https://blog.fefe.de/?ts=a2677bc2)
+* [Proxmox Mail wurde in der Version 5.2 veröffentlicht.](https://www.pro-linux.de/news/1/26910/proxmox-52-mail-gateway-fertiggestellt.html)
+* [LVFS wird ein Projekt der Linux Foundation :-).](https://www.pro-linux.de/news/1/26908/lvfs-wird-zu-einem-projekt-der-linux-foundation.html)
+* [Bayer und Monstanto sind jetzt weniger Wert als vor ihrer Fustion, macht euch keine Sorgen, der Steuerzahler zahlt dieses Problem.](https://blog.fefe.de/?ts=a265dcb7)
+* [Proton wurde in der Version 4.2 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=Valve-Proton-4.2-Released)
+* [Flatpak wurde in der Version 1.2.4 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=Flatpak-1.2.4-Released)
