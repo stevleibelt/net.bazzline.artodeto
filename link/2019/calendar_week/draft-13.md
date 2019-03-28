@@ -12,3 +12,5 @@
 * [Bayer und Monstanto sind jetzt weniger Wert als vor ihrer Fustion, macht euch keine Sorgen, der Steuerzahler zahlt dieses Problem.](https://blog.fefe.de/?ts=a265dcb7)
 * [Proton wurde in der Version 4.2 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=Valve-Proton-4.2-Released)
 * [Flatpak wurde in der Version 1.2.4 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=Flatpak-1.2.4-Released)
+* [Cisco fixed ein Exploit indem sie einen User Agent blacklisten.](https://blog.fefe.de/?ts=a262bcdf)
+* [N26 ist so kaputt.](https://blog.fefe.de/?ts=a2623284)
