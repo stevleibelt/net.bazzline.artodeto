@@ -14,3 +14,5 @@
 * [Flatpak wurde in der Version 1.2.4 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=Flatpak-1.2.4-Released)
 * [Cisco fixed ein Exploit indem sie einen User Agent blacklisten.](https://blog.fefe.de/?ts=a262bcdf)
 * [N26 ist so kaputt.](https://blog.fefe.de/?ts=a2623284)
+* [Aktuelles aus dem Netzwerk Freiberg im April 2019](https://bio-erzgebirge.de/wp/?p=18048)
+* [Der Staats erlaubt sich in deine Wohnung einzubrechen um den Staatstrojaner zu installieren.](https://blog.fefe.de/?ts=a263078d)
