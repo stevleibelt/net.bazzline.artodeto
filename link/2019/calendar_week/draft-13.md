@@ -18,3 +18,6 @@
 * [Der Staats erlaubt sich in deine Wohnung einzubrechen um den Staatstrojaner zu installieren.](https://blog.fefe.de/?ts=a263078d)
 * [Nicht nur Verschlüsselung, sondern auch TRIM, wird es im ZOL 0.8 kommen.](https://www.phoronix.com/scan.php?page=news_item&px=ZFS-On-Linux-TRIM-Lands) - Das Release wird ein Fest!
 * [JIT kommt in PHP 8.0.](https://www.phoronix.com/scan.php?page=news_item&px=PHP-8-JIT-Approved)
+* [Wow, mehr als eine Million Menschen in Japan schließen sich zu Hause ein, haben keine Arbeit und entziehen sich dem Leben.](https://blog.fefe.de/?ts=a25e0aa7)
+* [Roundcube wurde in der Version 1.3.9 veröffentlicht.](https://roundcube.net/news/2019/03/31/update-1.3.9-released)
+* [Nein? Doch! Oh? Wie erwartete sterben nach den Insekten jetzt auch die Vögel, die bisher von Insekten gelebt haben.](https://blog.fefe.de/?ts=a25e4767)
