@@ -16,3 +16,5 @@
 * [N26 ist so kaputt.](https://blog.fefe.de/?ts=a2623284)
 * [Aktuelles aus dem Netzwerk Freiberg im April 2019](https://bio-erzgebirge.de/wp/?p=18048)
 * [Der Staats erlaubt sich in deine Wohnung einzubrechen um den Staatstrojaner zu installieren.](https://blog.fefe.de/?ts=a263078d)
+* [Nicht nur Verschlüsselung, sondern auch TRIM, wird es im ZOL 0.8 kommen.](https://www.phoronix.com/scan.php?page=news_item&px=ZFS-On-Linux-TRIM-Lands) - Das Release wird ein Fest!
+* [JIT kommt in PHP 8.0.](https://www.phoronix.com/scan.php?page=news_item&px=PHP-8-JIT-Approved)
