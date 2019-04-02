@@ -1,2 +1,12 @@
 * [Hugo als statischer Webseiten-Generator und wie man die ersten Schritte geht.](https://opensource.com/article/19/4/building-hosting-website-git)
 * [Realitätsabgleich Plastikverschmutzung in den Weltmeeren.](https://www.smarticular.net/plastea-plastikmuell-verwertung-neue-methode-im-ozean-lebensraum/)
+* [Jeden Tag etwas Neues, Python kann man hart parallel nutzen, Stichwort GIL.](https://opensource.com/article/19/4/parallel-computation-python-dask)
+* [Auch in dieser Woche ist ein Wal an 22 Kilo Plastik im Magen gestorben.](https://netzfrauen.org/2019/04/02/whale-2/)
+* [Realitätsabgleich Mietmarkt, es wird zu wenig gebaut und zu wenig für die Standorterhaltung getan.](https://www.neopresse.com/wirtschaft/achtung-merkel-regierung-ohne-jeden-antwort-auf-kuenftige-mietsteigerungen/) - Statt dessen wird das Thema "alle in eine Großstadt" vorangetrieben.
+* [Krass, die Nahrungsmittelindustrie zeigt ihren langen Atem und verkauft ihren Industriedreck fast schon unter Wert.](https://netzfrauen.org/2019/04/01/discounter-2/) - So zieht man sich eine Generation von Konsumenten heran, die frisches Obst nicht mehr kennen und bezahlen - alles auf Kosten der Allgemeinheit und der Krankenkassen.
+* [DXVK wurde in der Version 1.0.2 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=DXVK-1.0.2-Released)
+* [Django wurde in der Version 2.2 veröffentlicht.](https://www.pro-linux.de/news/1/26929/django-22-freigegeben.html)
+* [Pydio Cells wurde in der Version 1.4 veröffentlicht.](https://www.pro-linux.de/news/1/26928/pydio-cells-14-mit-neuer-oberfl%C3%A4che.html)
+* [SPURV - Android via Wayland auf Linux laufen lassen?](https://www.phoronix.com/scan.php?page=news_item&px=SPURV-Container-Android)
+* [ANBOX - Android in a Box auf Linux?](https://anbox.io/)
+* [Nachdem Glyphosat endlich nicht mehr offiziell den USA gehört, gibt es immer mehr Studien ... nichts wichtiges, nur dass es etwaig auch für Autismus zuständig ist.](https://netzfrauen.org/2019/04/02/autismus-2/)
