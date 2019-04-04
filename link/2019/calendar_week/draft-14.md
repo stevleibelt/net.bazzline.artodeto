@@ -16,3 +16,6 @@
 * [Wenn die Polizeigewerkschaft Canabis legalisieren will :-O.](https://www.welt-im-wandel.tv/video/wird-kiffen-bald-legal-polizeigewerkschaft-fordert-entkriminalisierung-von-cannabis/)
 * [M2 funktioniert und wird vom Markt genutzt. Was macht Intel? Bringt mit U2 einen eigenen Standard raus.](https://utcc.utoronto.ca/~cks/space/blog/tech/NVMeAndTechChange)
 * [Zabbix wurde in der Version 4.2 veröffentlicht.](https://www.pro-linux.de/news/1/26934/zabbix-42-mit-zahlreichen-neuerungen.html)
+* [In Afrika gibt es eine Pflanze die sich an wenig Wasser angepasst hat - was denkt sich der dumme Mensch? Lass die mal in das Ökosystem von Europa integrieren, was soll schon passieren.](https://netzfrauen.org/2019/04/03/spekboom/) - Da leben wir schon so viele Jahre auf Mutter Erde und lernen einfach nichts.
+* [5G braucht mehr Sendemasten und die Natur stört die Funktechnik, was macht der Kapitalist? Bäume abholzen, die stören nur.](https://www.neopresse.com/allgemein/zehntausende-angeblich-kranke-baeume-werden-gefaellt-was-steckt-dahinter/) - Wer braucht schon grün und gute Luft in der Stadt wenn er mit 5G verstrahlt wird.
+* [Python, pip und vieles weitere wird euch hier in aller Kürze erklärt.](https://opensource.com/article/19/4/managing-python-packages)
