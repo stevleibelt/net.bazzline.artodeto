@@ -19,3 +19,13 @@
 * [In Afrika gibt es eine Pflanze die sich an wenig Wasser angepasst hat - was denkt sich der dumme Mensch? Lass die mal in das Ökosystem von Europa integrieren, was soll schon passieren.](https://netzfrauen.org/2019/04/03/spekboom/) - Da leben wir schon so viele Jahre auf Mutter Erde und lernen einfach nichts.
 * [5G braucht mehr Sendemasten und die Natur stört die Funktechnik, was macht der Kapitalist? Bäume abholzen, die stören nur.](https://www.neopresse.com/allgemein/zehntausende-angeblich-kranke-baeume-werden-gefaellt-was-steckt-dahinter/) - Wer braucht schon grün und gute Luft in der Stadt wenn er mit 5G verstrahlt wird.
 * [Python, pip und vieles weitere wird euch hier in aller Kürze erklärt.](https://opensource.com/article/19/4/managing-python-packages)
+* [Der Kapitalismus hat auch kein Herz? Ihr findet unsere Methode unetisch? Dann ziehen wir weiter.](https://netzfrauen.org/2019/04/04/fleisch-5/)
+* [What the fuck? Die CDU und weitere aus der Blockpartei haben beschlossen, dass die Fingerabdrücke aller EU-Bürger gespeichert werden.](https://blog.fefe.de/?ts=a258f9d8) - Und nutzen darf das im Grunde jeder, der interesse hat.
+* [>>Heilpflanze des Monats April 2019: Nelkenwurz<<](https://bio-erzgebirge.de/wp/?p=18217)
+* [Die magische Hand des freien Marktes, der reichste Mann der Welt verliert 25 Prozent seines Geldes und ist weiterhin der reichste Mann der Welt.](https://blog.fefe.de/?ts=a25848cd)
+* [Ein weitere Schritt abwärts vom ehemaligen Paradebeispiel >>Made in Germany<<.](https://blog.fefe.de/?ts=a2583c34)
+* [Da fliegt man doch gern, Boing hat dann doch noch hier und da ein paar Probleme in ihrer Software gefunden.](https://blog.fefe.de/?ts=a2583fbf)
+* [Childsplay, eduActiv8, GCompris, Feed the Monster und Syntax Untangler sind freie Spiele für Kinder.](https://opensource.com/article/19/4/early-literacy-tools)
+* [Radio über euer Anroid nutzen? RadioDroid ist eure Programm und die Entwickler freuen sich über Spenden.](https://opensource.com/article/19/4/radiodroid-internet-radio-player)
+* [Xen wurde in der Version 4.12 veröffentlicht.](https://www.pro-linux.de/news/1/26945/xen-412-erschienen.html)
+* [Während die Nordeuropäer immer dicker und kränker von dem Industriegemüse werden, revoltieren die Südeuropäer dagegen.](https://netzfrauen.org/2019/04/05/farms/)
