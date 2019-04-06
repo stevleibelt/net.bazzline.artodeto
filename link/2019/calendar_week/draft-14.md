@@ -29,3 +29,9 @@
 * [Radio über euer Anroid nutzen? RadioDroid ist eure Programm und die Entwickler freuen sich über Spenden.](https://opensource.com/article/19/4/radiodroid-internet-radio-player)
 * [Xen wurde in der Version 4.12 veröffentlicht.](https://www.pro-linux.de/news/1/26945/xen-412-erschienen.html)
 * [Während die Nordeuropäer immer dicker und kränker von dem Industriegemüse werden, revoltieren die Südeuropäer dagegen.](https://netzfrauen.org/2019/04/05/farms/)
+* [Eigene Becher oder Tassen würden mir noch mehr gefallen, aber immerhin gibt es jetzt biologisch abbaubare Kaffeebecher.](https://netzfrauen.org/2019/04/06/togo/)
+* [SuperTuxKart wurde in der Version 0.10 RC1 mit Netzwerksupport veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=SuperTuxKart-0.10-RC1-Released)
+* [Eigenes Git-Projekt mit eigenem Server hosten? Hier kriegt ihr einen schnellen Einstieg.](https://opensource.com/article/19/4/server-administration-git)
+* [Jogurt aus Jogurt machen? Klingt wie Brot backen, nur mit Milch.](https://www.smarticular.net/joghurt-selber-machen-ohne-maschine-stichfest-kulturen/)
+* [LXD wurde in der Version 3.12 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=LXD-3.12-Released)
+* [>>Der neue Film von Gaby Weber über den Schmierstoff des Kapitalismus - Geld.<<](https://weltnetz.tv/video/1861-geld) - Aufklärung, Kulturgut, nennt es wie es wollt, wichtig ist es für die eigene Meinung.
