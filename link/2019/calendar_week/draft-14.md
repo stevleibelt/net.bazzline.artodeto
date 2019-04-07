@@ -35,3 +35,6 @@
 * [Jogurt aus Jogurt machen? Klingt wie Brot backen, nur mit Milch.](https://www.smarticular.net/joghurt-selber-machen-ohne-maschine-stichfest-kulturen/)
 * [LXD wurde in der Version 3.12 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=LXD-3.12-Released)
 * [>>Der neue Film von Gaby Weber über den Schmierstoff des Kapitalismus - Geld.<<](https://weltnetz.tv/video/1861-geld) - Aufklärung, Kulturgut, nennt es wie es wollt, wichtig ist es für die eigene Meinung.
+* [Hier wird euch gezeigt, wie ihr mit "Git-Portal" Multimedia-Dateien in einem Repository verwaltet.](https://opensource.com/article/19/4/manage-multimedia-files-git)
+* [Warum mal nicht einen Tee selber machen?](https://www.smarticular.net/teemischung-selber-machen-regional-wildpflanzen-rezepte/)
+* [DXVK wurde in der Version 1.1 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=DXVK-1.1-Released)
