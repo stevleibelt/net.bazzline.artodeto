@@ -18,3 +18,10 @@
 * [Nextcloud wurde in der Version 15.0.7 und 14.0.10 veröffentlicht.](https://nextcloud.com/blog/nextcloud-15.0.7-and-14.0.10-are-out-update/)
 * [GrapheneOS soll ein besonders sicheres Android werden.](https://www.pro-linux.de/news/1/26955/android-hardening-wird-zu-grapheneos.html)
 * [5G? Diese neue Funktechnik bringt schon jetzt Probleme mit sich - Gedächtnisverlust zum Beispiel.](https://www.neopresse.com/tech/5g-feuerwehrmaenner-in-den-usa-erleiden-neurologische-schaeden/) - Damit will man doch die Weltbevölkerung verstrahlen.
+* [>>Revolution in der Schulmedizin: Ganzheitlich gesund werden - Mediziner spricht Klartext<<](https://www.welt-im-wandel.tv/video/revolution-in-der-schulmedizin-ganzheitlich-gesund-werden-mediziner-spricht-klartext/)
+* ["IT-Sicherheitsgesetz", da darf dich die Polizei in Beugehaft nehmen damit du deine Passwörter rausrückst.](https://blog.fefe.de/?ts=a25222c0)
+* [Nein? Doch! Oh? China will Cryptomining aus dem Land haben weil es einfach zu viele Ressourcen für nichts verschwendet.](https://blog.fefe.de/?ts=a25235b0)
+* [wget ist kaputt.](https://blog.fefe.de/?ts=a253c1b4)
+* [Europa hat mit seiner Agrarpolitik Afrika so ausgetrocknet, dass die Menschen dort nun in breiter Masse anfangen zu fliehen.](http://www.sonnenseite.com/de/umwelt/immer-mehr-afrikaner-fliehen-vor-klimawandel.html)
+* [Banken retten oder Infrastruktur bauen fürs Volk? Die Blockpartei hat sich für ersteres entschieden so dass nun Schulen in Köln zumachen müssen weil Ratten dort die Welt übernehmen.](https://blog.fefe.de/?ts=a25361e8)
+* [Am 14.04.2019 ist wieder Ostermarkt auf dem Weidegut Colmnitz.](http://www.colmnitz-weidegut.de/)
