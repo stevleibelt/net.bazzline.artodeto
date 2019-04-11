@@ -25,3 +25,9 @@
 * [Europa hat mit seiner Agrarpolitik Afrika so ausgetrocknet, dass die Menschen dort nun in breiter Masse anfangen zu fliehen.](http://www.sonnenseite.com/de/umwelt/immer-mehr-afrikaner-fliehen-vor-klimawandel.html)
 * [Banken retten oder Infrastruktur bauen fürs Volk? Die Blockpartei hat sich für ersteres entschieden so dass nun Schulen in Köln zumachen müssen weil Ratten dort die Welt übernehmen.](https://blog.fefe.de/?ts=a25361e8)
 * [Am 14.04.2019 ist wieder Ostermarkt auf dem Weidegut Colmnitz.](http://www.colmnitz-weidegut.de/)
+* [Die Volksverarsche geht weiter, der Brexit wurde auf den 31.10.2019 verschoben, damit die Briten noch einmal ihre Männer in die EU in Position bringen können.](https://blog.fefe.de/?ts=a2501be5) - Lobbyarbeit des Geldes, mehr ist das nicht.
+* [Warum liefern sich Sachsen und Bayern eigentlich so ein Kopf-an-Kopf-Rennen im Völkerunterdrückungsgesetz?](https://blog.fefe.de/?ts=a250f025)
+* [Stark, die USA wollen "Dark Pattern" verbieten.](https://blog.fefe.de/?ts=a250f33d) - Das könnte die EU mal direkt auf alle Bereiche ausrollen.
+* [Nein? Doch! Oh? - Da hat der Deutsche noch genug Realität im Blick und erkennt, dass die Konzerne ohne Herz sich einen Scheiß um unsere Umwelt kümmern.](http://www.sonnenseite.com/de/wirtschaft/aus-sicht-der-deutschen-tun-unternehmen-beim-klimaschutz-zu-wenig.html)
+* [Realitätsabgleich Klimawandel in der Politik.](https://blog.fefe.de/?ts=a25083f8)
+* [DBUS-Broker wurde in der Version 20 veröffentlicht.](https://www.pro-linux.de/news/1/26964/dbus-broker-20-erschienen.html)
