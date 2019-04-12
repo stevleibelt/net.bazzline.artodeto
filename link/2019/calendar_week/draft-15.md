@@ -31,3 +31,10 @@
 * [Nein? Doch! Oh? - Da hat der Deutsche noch genug Realität im Blick und erkennt, dass die Konzerne ohne Herz sich einen Scheiß um unsere Umwelt kümmern.](http://www.sonnenseite.com/de/wirtschaft/aus-sicht-der-deutschen-tun-unternehmen-beim-klimaschutz-zu-wenig.html)
 * [Realitätsabgleich Klimawandel in der Politik.](https://blog.fefe.de/?ts=a25083f8)
 * [DBUS-Broker wurde in der Version 20 veröffentlicht.](https://www.pro-linux.de/news/1/26964/dbus-broker-20-erschienen.html)
+* [>>[...] Die Weltwirtschaft ist ein Pyramidenschema [...] <<](https://netzfrauen.org/2019/04/12/steven-chu/) - AKA Schneeballsystem. >>Mit steigendem Lebensstandard sinkt das Bevölkerungswachstum. Wenn es der Wirtschaft also gelingt, den Lebensstandard zu erhöhen, untergräbt sie sich selbst.<<
+* [Ihr gebt uns Assange und ihr kriegt dafür einen Kredit - der Weltwirtschaftsfond ist eine Geisel der Menscheit.](https://blog.fefe.de/?ts=a25156b4)
+* [Fluentd ist jetzt erwachsen und muss auf eingenen Beinen stehen.](https://www.pro-linux.de/news/1/26967/fluentd-aus-dem-inkubator-der-cncf-entlassen.html)
+* [Und wieder ein Sargnagel für Chrome - Google macht etwas nicht aus, weil sie euch sonst nicht tracken können.](https://blog.fefe.de/?ts=a24ebd5a)
+* [Schauen wir mal wie die freie Welt nun mit Julian Assange umgehen wird - die Anklage ist schon einmal "dünne".](https://blog.fefe.de/?ts=a24ebc38)
+* [Rüstungsexporte in Kriesengebieten unter dem wachsamen Auge der Blockpartei? Nein, sowas gibt es nicht, dass womit einige wenige Geld verdienen sind Aktionen zum befrieden der Welt.](https://blog.fefe.de/?ts=a24e431d)
+* [Nein? Doch! Oh? Im All sein bedeutet mit Krebs und kaputtem Kopf zurück zu kommen.](https://blog.fefe.de/?ts=a24e42c8) - Zum Glück haben wir auf der Erde ja keine fiesen Strahlungen wie WiFi oder 5 G.
