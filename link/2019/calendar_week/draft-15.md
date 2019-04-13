@@ -38,3 +38,5 @@
 * [Schauen wir mal wie die freie Welt nun mit Julian Assange umgehen wird - die Anklage ist schon einmal "dünne".](https://blog.fefe.de/?ts=a24ebc38)
 * [Rüstungsexporte in Kriesengebieten unter dem wachsamen Auge der Blockpartei? Nein, sowas gibt es nicht, dass womit einige wenige Geld verdienen sind Aktionen zum befrieden der Welt.](https://blog.fefe.de/?ts=a24e431d)
 * [Nein? Doch! Oh? Im All sein bedeutet mit Krebs und kaputtem Kopf zurück zu kommen.](https://blog.fefe.de/?ts=a24e42c8) - Zum Glück haben wir auf der Erde ja keine fiesen Strahlungen wie WiFi oder 5 G.
+* [>>Stress und Krisen meistern - Wie Du gesunde Widerstandskraft entwickelst<<](https://www.welt-im-wandel.tv/video/stress-und-krisen-meistern-wie-du-gesunde-widerstandskraft-entwickelst/)
+* [Geil, Konzerne haben kein Herz - Nun will man im Korallenriff nach Öl bohren!](https://netzfrauen.org/2019/04/12/brazil-2/)
