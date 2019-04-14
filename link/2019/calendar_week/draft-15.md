@@ -42,3 +42,6 @@
 * [Geil, Konzerne haben kein Herz - Nun will man im Korallenriff nach Öl bohren!](https://netzfrauen.org/2019/04/12/brazil-2/)
 * [Der Postillon fasst meine Gedanken zur Akte Assange gut zusammen.](https://www.der-postillon.com/2019/04/assange2.html)
 * [Klar möchten die Blockpartei die Selbstbestimmung der Bürger, aber nur, wenn man daran verdienen kann.](https://www.neopresse.com/nachrichten/masern-impfpflicht-giffey-unterstuetzt-vorstoss-brandenburgs/) - Impfpflicht ja, aber dass der Staat dann ohne Probleme bei Impfschäden in die Haftung genommen werden kann, lese ich nirgends.
+* [Der langezogene Brexit als Inszenierung und Nebenkerze für den bevorstehenden Crash?](https://www.neopresse.com/politik/brexit-als-grund-fuer-inszenierten-crash/)
+* [Die Ausreden werden immer dümmer, wegen DNA-Spuren müsst ihr diese lästigen Meldescheine in Hotels ausfüllen.](https://blog.fefe.de/?ts=a24dd125)
+* [Lieber beizen statt lasieren.](https://www.smarticular.net/holzanstrich-beizen-lasieren-tee-kaffee-natron/)
