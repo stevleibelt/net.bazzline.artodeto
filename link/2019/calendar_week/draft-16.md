@@ -1,0 +1,5 @@
+* [Giersch, Vogelmiere, Gundermann, Brennnessel, Quecke, Löwenzahn, Sauerampfer, Franzosenkraut, Weißer Gänsefuß - deine Welt ist essbar.](https://www.smarticular.net/gesunde-unkraeuter-nicht-bekaempfen-sondern-aufessen/)
+* [Die SystemRescueCd wurde in der Version 6.0.3 veröffentlicht.](https://www.planet3dnow.de/cms/45733-__trashed-3/)
+* [Die Zensur des Internets aka "Upload-Filter" wurde bei der Sitzung des Rats für Landwirtschaft und Fischerei durchgewunken, hätte sich Deutschland enthalten, wäre die Reform abgelehnt worden.](https://blog.fefe.de/?ts=a24a9258)
+* [Qt Creator wurde in der Version 4.9 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=Qt-Creator-4.9-Released)
+* [>>[...] In Brüssel hat eine belgische Ministerin angekündigt, dass Brüssel  seine 5G-Pläne  aus gesundheitlichen Gründen einstellt [...]<<](https://netzfrauen.org/2019/04/15/5g/)
