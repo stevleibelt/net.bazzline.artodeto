@@ -19,3 +19,11 @@
 * [Das Kammergericht von Berlin erklärt die Datenschutzerklärung von Google für rechtswidrig.](https://blog.fefe.de/?ts=a248432e) - Hat da ein Richter seine Schmiergeldzahlung nicht erhalten oder wie konnte dies denn passieren?
 * [Nagios, OpsGenie, Cabot, ngDesk, Open Distro for Elasticsearch, OpenDuty und mehr gibt es hier.](https://opensource.com/article/19/4/opsgenie-alternatives)
 * [Hier gibt es eine Einführung zur AFWall+.](https://www.kuketz-blog.de/afwall-digitaler-tuervorsteher-take-back-control-teil4/)
+* [Das PHP Zend Framework nennt sich jetzt Laminas und kommt unter das Dach der Linux Foundation.](https://www.phoronix.com/scan.php?page=news_item&px=PHP-Laminas-Framework)
+* [Kichererbsenwasser als Eischneealternative? Das kannte ich auch noch nicht.](https://www.smarticular.net/aquafaba-kichererbsen-eischnee-mousse-mayonnaise-rezept/)
+* [Da geht es wieder los, die GEZ möchte mehr Geld.](https://blog.fefe.de/?ts=a24912bd)
+* [Valgrind wurde in der Version 3.15 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=Valgrind-3.15-Released)
+* [Asbest nennt man jetzt Chrysotile.](https://netzfrauen.org/2019/04/17/asbest/)
+* [Eine Erinnung wie sich AKW-Konzerne an ihre Versprechungen halten, im Falle eines GAU's kümmern wir uns nicht um unsere verursachten Schäden.](https://netzfrauen.org/2019/04/17/fukushima-4/)
+* [Würden wir alle inflationsbereinigte Löhne erhalten, wäre der Strompreis statistisch seit 2013 stabil - ist halt nur nicht so.](http://www.sonnenseite.com/de/energie/strompreise-unterscheiden-sich-regional-um-bis-zu-mehrere-hundert-euro-im-jahr.html) - Ach ja und die freie Hand des Marktes hat es geschafft, dass es wie früher ist, nur teurer, Strom kostet überall unterschiedlich viel.
+* [SQLite wurde in der Version 3.28 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=SQLite-3.28-Released)
