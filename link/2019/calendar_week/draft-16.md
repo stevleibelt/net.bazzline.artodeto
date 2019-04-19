@@ -27,3 +27,7 @@
 * [Eine Erinnung wie sich AKW-Konzerne an ihre Versprechungen halten, im Falle eines GAU's kümmern wir uns nicht um unsere verursachten Schäden.](https://netzfrauen.org/2019/04/17/fukushima-4/)
 * [Würden wir alle inflationsbereinigte Löhne erhalten, wäre der Strompreis statistisch seit 2013 stabil - ist halt nur nicht so.](http://www.sonnenseite.com/de/energie/strompreise-unterscheiden-sich-regional-um-bis-zu-mehrere-hundert-euro-im-jahr.html) - Ach ja und die freie Hand des Marktes hat es geschafft, dass es wie früher ist, nur teurer, Strom kostet überall unterschiedlich viel.
 * [SQLite wurde in der Version 3.28 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=SQLite-3.28-Released)
+* [Digikam wurde in der Version 6.1 veröffentlicht.](https://www.pro-linux.de/news/1/26988/digikam-61-mit-neuer-plugin-schnittstelle.html)
+* [VIRTIO wurde in der Version 1.1 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=VIRTIO-1.1-Released)
+* [Wir könnten es richtig machen oder wir verdienen jedes Jahr daran ... die paar Menschenleben und Schicksale dabei ... Kapitalismus im Endstadium, erneut zu sehen in New Orleans.](https://blog.fefe.de/?ts=a247e25c)
+* [Proton wurde in der Version 4.2-3 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=Steam-Proton-4.2-3)
