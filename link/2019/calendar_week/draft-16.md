@@ -31,3 +31,6 @@
 * [VIRTIO wurde in der Version 1.1 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=VIRTIO-1.1-Released)
 * [Wir könnten es richtig machen oder wir verdienen jedes Jahr daran ... die paar Menschenleben und Schicksale dabei ... Kapitalismus im Endstadium, erneut zu sehen in New Orleans.](https://blog.fefe.de/?ts=a247e25c)
 * [Proton wurde in der Version 4.2-3 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=Steam-Proton-4.2-3)
+* ["Unping all the links" für googles Werbeplattform aka Chrome-Browser.](https://tuxproject.de/blog/2019/04/in-eigener-sache-unping-all-the-links/)
+* [>>3 Gesten die glücklich machen - Wie Du die Weisheit Deines Körpers erkennst<<](https://www.welt-im-wandel.tv/video/3-gesten-die-gluecklich-machen-wie-du-die-weisheit-deines-koerpers-erkennst/)
+* [Amazee.io?](https://www.amazee.io/) - Und [hier](https://koeln.ftp.media.ccc.de/events/eh2019/h264-hd/eh19-159-deu-Open_Source_-_Wenn_dein_taeglich_Brot_fuer_jeden_einsehbar_ist_hd.mp4) gibt es ein Video dazu.
