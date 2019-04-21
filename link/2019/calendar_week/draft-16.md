@@ -34,3 +34,7 @@
 * ["Unping all the links" für googles Werbeplattform aka Chrome-Browser.](https://tuxproject.de/blog/2019/04/in-eigener-sache-unping-all-the-links/)
 * [>>3 Gesten die glücklich machen - Wie Du die Weisheit Deines Körpers erkennst<<](https://www.welt-im-wandel.tv/video/3-gesten-die-gluecklich-machen-wie-du-die-weisheit-deines-koerpers-erkennst/)
 * [Amazee.io?](https://www.amazee.io/) - Und [hier](https://koeln.ftp.media.ccc.de/events/eh2019/h264-hd/eh19-159-deu-Open_Source_-_Wenn_dein_taeglich_Brot_fuer_jeden_einsehbar_ist_hd.mp4) gibt es ein Video dazu.
+* [Hey, alles was man ins Internet hängt ist unsicher, was können wir dagegen machen? TÜV-Siegel drauf kleben und gut ist.](https://tuxproject.de/blog/2019/04/alexa-sichere-mein-kraftwerk/)
+* [Easterhegg 2019 - Nutrition Hacks.](https://mirror.netcologne.de/CCC/events/eh2019/h264-hd/eh19-114-deu-Nutrition_Hacks_hd.mp4)
+* [Easterhegg 2019 - Ansible-Projekte für Mailserver, Mailingliste, CMS und Groupware mit Nutzerverwaltung..](https://mirror.netcologne.de/CCC/events/eh2019/h264-hd/eh19-114-deu-Nutrition_Hacks_hd.mp4)
+* [Dank der Blockpartei kriegt man weniger Netto vom Brutto und auch noch weniger von der eingezahlten Rente, danke CDU/CSU/SPD/FDP.](https://www.neopresse.com/politik/so-schafft-die-merkel-regierung-die-gesetzliche-rente-ab/)
