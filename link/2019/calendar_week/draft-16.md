@@ -38,3 +38,8 @@
 * [Easterhegg 2019 - Nutrition Hacks.](https://mirror.netcologne.de/CCC/events/eh2019/h264-hd/eh19-114-deu-Nutrition_Hacks_hd.mp4)
 * [Easterhegg 2019 - Ansible-Projekte für Mailserver, Mailingliste, CMS und Groupware mit Nutzerverwaltung..](https://mirror.netcologne.de/CCC/events/eh2019/h264-hd/eh19-114-deu-Nutrition_Hacks_hd.mp4)
 * [Dank der Blockpartei kriegt man weniger Netto vom Brutto und auch noch weniger von der eingezahlten Rente, danke CDU/CSU/SPD/FDP.](https://www.neopresse.com/politik/so-schafft-die-merkel-regierung-die-gesetzliche-rente-ab/)
+* [Boing, AirBus, scheinbar alles kaputt.](https://blog.fefe.de/?ts=a242d895)
+* [SuperTuxKart wurde in der Version 1.0 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=SuperTuxKart-1.0-Released)
+* [In was für einer Welt leben wir eigentlich in der eine private Stiftung aka GmbH um Steuern zu vermeiden einen Stadtrat vor das Gericht zerren darf, weil der Stadtrat offen kommuniziert was diese "Stiftung" mir ihrer Werbbroschüre anrichtet?](https://blog.fefe.de/?ts=a24283e7)
+* [Easterhegg 2019 -  Einführung in reguläre Ausdrücke](https://cdn.media.ccc.de/events/eh2019/h264-hd/eh19-184-deu-Einfuehrung_in_regulaere_Ausdruecke_hd.mp4)
+* [Easterhegg 2019 - Ethik in einer digitalisierten Welt – Netzwerke in Theorie und Praxis](https://cdn.media.ccc.de/events/eh2019/h264-hd/eh19-120-deu-Ethik_in_einer_digitalisierten_Welt_-_Netzwerke_in_Theorie_und_Praxis_hd.mp4)
