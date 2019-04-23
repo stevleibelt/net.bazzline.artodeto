@@ -7,3 +7,7 @@
 * [Wow, der Apple-Store in New York musste wegen Wanzenbefall geschlossen werden.](https://blog.fefe.de/?ts=a2437d9b) - Was dies für New York und die dortige Infrastruktur bedeutet, muss jeder für sich selbst bewerten.
 * [NetworkManager wurde in der Version 1.18 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=NetworkManager-1.18-Released)
 * [Realitätsabgleich Ukraine.](https://blog.fefe.de/?ts=a2436261) - Und dort sieht man was man mit Deutschland vor hat, alle Menschen sollen in die Städte um zu knechten und das Landleben soll viel zu unattraktiv werden.
+* [Kdenlive wurde in der Version 19.4 veröffentlicht.](https://www.pro-linux.de/news/1/26994/kdenlive-1904-fertiggestellt.html)
+* [Kodi wurde in der Version 18.2 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=Kodi-18.2-Released)
+* [Realitätsabgleich Nestle und ein Konzern hat kein Herz.](https://www.careelite.de/nestle-kritik-skandale-wie-du-produkte-boykottierst/)
+* [Natürlich impregnieren mit essigsauer Tonerde.](https://www.smarticular.net/impraegnieren-essigsaure-tonerde-naturfaserstoff/)
