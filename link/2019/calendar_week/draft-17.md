@@ -17,3 +17,7 @@
 * [Wie muss ich als Webseitebetreiber mit der DSVGO umgehen?](https://www.kuketz-blog.de/dsgvo-anleitung-zur-datenauskunft-bzw-loeschung/)
 * [Grundlagen über das Thema "Prozess-Kommunikation Shared Storage" (IPC) werden euch hier vermittelt.](https://opensource.com/article/19/4/interprocess-communication-linux-storage)
 * [Wir ihr auf natürliche Weise eure Holzmöbel mit Bienenwachs und Nussöl versiegelt wird euch hier gezeigt.](https://www.smarticular.net/moebelwachs-pflegewachs-holzmoebel-antikmoebel-selber-machen/)
+* [Da gewinnt man doch gleich mehr Vertrauen in die moderen Software die entscheiden wird ob du gut oder schlecht bist - Fehlerquote von 99,7 Prozent.](https://blog.fefe.de/?ts=a23fcd2c)
+* [Die NetBeans IDE ist nun ein Top-Level-Projekt der Apache Stiftung.](https://www.pro-linux.de/news/1/27002/netbeans-und-skywalking-als-neue-top-level-projekte-der-apache-foundation.html)
+* [Polly Higgins, ein Anwalt der Menschen und der Natur, ist verstorben.](https://netzfrauen.org/2019/04/24/polly-higgins/)
+* [Nextcloud wurde in der Version 16.0 veröffentlicht. Nextcloud talk wurde in der Version 6 veröffentlicht.](https://www.pro-linux.de/news/1/27004/nextcloud-16-verbessert-sicherheit-und-talk.html)
