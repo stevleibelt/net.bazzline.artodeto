@@ -21,3 +21,7 @@
 * [Die NetBeans IDE ist nun ein Top-Level-Projekt der Apache Stiftung.](https://www.pro-linux.de/news/1/27002/netbeans-und-skywalking-als-neue-top-level-projekte-der-apache-foundation.html)
 * [Polly Higgins, ein Anwalt der Menschen und der Natur, ist verstorben.](https://netzfrauen.org/2019/04/24/polly-higgins/)
 * [Nextcloud wurde in der Version 16.0 veröffentlicht. Nextcloud talk wurde in der Version 6 veröffentlicht.](https://www.pro-linux.de/news/1/27004/nextcloud-16-verbessert-sicherheit-und-talk.html)
+* [OpenBSD wurde in der Version 6.5 veröffentlicht.](https://www.pro-linux.de/news/1/27007/openbsd-65-freigegeben.html)
+* [Wow, die G20-Gerichts-Nachverhandlungen scheinen zu wirken und der Bürger wird etwas mehr in Richtung Augenhöhe mit der Polizei gehoben.](https://blog.fefe.de/?ts=a23c05b5)
+* [Vom 20.04.2019 bis zum 06.10.2019 gibt es die sächsische Landesgartenschau in Frankenberg zu besuchen.](https://www.so-geht-saechsisch.de/die-kampagne/aktionen-und-veranstaltungen/8-saechsische-landesgartenschau-in-frankenberg/)
+* [Ostereier mit Farben aus der Natur anmalen? Hier steht wie es geht.](https://www.smarticular.net/dieses-jahr-ohne-e-stoffe-leuchtende-ostereier-mit-naturfarben/)
