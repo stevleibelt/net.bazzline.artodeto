@@ -38,3 +38,5 @@
 * [Krass, die Barmer verbietet in der Ausschreibung eines IT-Projektes explizit die Verwendung von freier Software.](https://www.kuketz-blog.de/barmer-ausschreibung-open-source-software-fuer-epa-nicht-erlaubt/) - Die freie Hand des Marktes und so.
 * [Ihr schwitzt stark? Probiert einmal Salbeitee.](https://www.smarticular.net/schwitzen-schweissgeruch-was-hilft-hausmittel-apfelessig-natron/)
 * [Wine wurde in der Version 4.7 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=Wine-4.7-Released)
+* [Wow, ein Mitarbeiter ist krank und schon fällt ein Stellwerk der Deutschen Bahn aus - toll diese freie Hand des Marktes.](https://blog.fefe.de/?ts=a23b6bd2)
+* [Die Ureinwohner Ecuadors haben sich erneut gegen einen Ölkonzern und dem Big Money durchgesetzt - wann da wohl die Demokratie eingeführt wird?](https://netzfrauen.org/2019/04/28/waorani/)
