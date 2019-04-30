@@ -1,3 +1,6 @@
 * [Realitätsabgleich Braunkohleabbau - Privater Gewinn 3 Eurocent pro KWh, sozialisierter Schaden an der Gesellschaft und der Umwelt sind 19 Eurocent pro KWh.](https://blog.fefe.de/?ts=a23891fa)
 * [>>Martin Sonneborn und Nico Semsrott Wahlkampfauftakt Die PARTEI<<](https://www.youtube.com/watch?v=DXQYU3LobYM)
 * [>>Aktuelles für den Raum Freiberg im Mai 2019<<](https://bio-erzgebirge.de/wp/?p=18341)
+* [Realitätsabgleich Fische - die Meere von Afrika werden geplündert und dies ist der Grund warum die Bundeswehr dort die deutschen Grengen verteidigt - auf Kosten der Steuerzahler.](https://netzfrauen.org/2019/04/30/westafrica/)
+* [Gnuk ist kaputt.](https://blog.fefe.de/?ts=a236c8f0)
+* [NomadBSD wurde in der Version 1.2 veröffentlicht.](https://www.pro-linux.de/news/1/27017/nomadbsd-12-erschienen.html)
