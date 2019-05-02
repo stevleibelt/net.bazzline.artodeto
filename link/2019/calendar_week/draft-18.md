@@ -11,3 +11,6 @@
 * [DAV1D wurde in der Version 0.3 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=Dav1d-0.3-Released)
 * [>>Wie Du ganzheitlich gesund wirst - Die 5 geheimen Naturgesetze<<](https://www.welt-im-wandel.tv/video/wie-du-ganzheitlich-gesund-wirst-die-5-geheimen-naturgesetze/)
 * [Was ihr wann und wie im Mai aussehen müsst.](https://www.smarticular.net/aussaatkalender-mai-freiland-vorkultur-gemuese-kraeuter-blumen/)
+* [Wenn man in unsere Geschichte zurückblickt sieht man doch wie gut man Probleme mit Waffengewalt lösen konnte - so nun auch in den Schulen in Florida.](https://blog.fefe.de/?ts=a2344c49)
+* [Dell ist auch kaputt.](https://blog.fefe.de/?ts=a234bd04)
+* [GNU Guix wurde in der Version 1.0 veröffentlicht.](https://lwn.net/Articles/787279/rss)
