@@ -14,3 +14,9 @@
 * [Wenn man in unsere Geschichte zurückblickt sieht man doch wie gut man Probleme mit Waffengewalt lösen konnte - so nun auch in den Schulen in Florida.](https://blog.fefe.de/?ts=a2344c49)
 * [Dell ist auch kaputt.](https://blog.fefe.de/?ts=a234bd04)
 * [GNU Guix wurde in der Version 1.0 veröffentlicht.](https://lwn.net/Articles/787279/rss)
+* [Ab dem 03.05.2019 nutzen wir in Deutschland mehr Ressourcen als wir pro Jahr zur Verfügung haben.](http://www.sonnenseite.com/de/umwelt/deutscher-erdueberlastungstag-am-3.-mai.html)
+* [Die Schweiz will kein Leistungsschutzrecht.](https://blog.fefe.de/?ts=a235e80c)
+* [Die Briten sind so hart am Kokain dran, dass sie es nciht mehr aus dem Trinkwasser herausbekommen.](https://blog.fefe.de/?ts=a235e725)
+* [Cisco ist mal wieder kaputt.](https://blog.fefe.de/?ts=a235e309)
+* [Aspell or Ispell?](https://opensource.com/article/19/5/spelling-command-line-ispell)
+* [Nestle züchtet in seinen Laboren etwas für McDonalds damit diese einen Veganen Chemieburger anbieten können.](https://netzfrauen.org/2019/05/03/nestle-10/) - Nestle wird also ein Chemiekonzern und McDonalds eine Apotheke - Krankheiten garantiert.
