@@ -20,3 +20,10 @@
 * [Cisco ist mal wieder kaputt.](https://blog.fefe.de/?ts=a235e309)
 * [Aspell or Ispell?](https://opensource.com/article/19/5/spelling-command-line-ispell)
 * [Nestle züchtet in seinen Laboren etwas für McDonalds damit diese einen Veganen Chemieburger anbieten können.](https://netzfrauen.org/2019/05/03/nestle-10/) - Nestle wird also ein Chemiekonzern und McDonalds eine Apotheke - Krankheiten garantiert.
+* [DXVK wurde in der Version 1.1.1 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=DXVK-1.1.1-Released)
+* [Die Cloud klaut.](https://tuxproject.de/blog/2019/05/wer-sich-in-die-cloud-begibt-der-kommt-darin-um-3/)
+* [Aktuelles für Chemnitz im Mai 2019 / Netzwerktreffen 23.5. Berghof Göritzhain](https://bio-erzgebirge.de/wp/?p=18415)
+* [China macht es wie der Rest der ersten Welt, die eigenen Wälder werden geschützt, aber gegenüber, da können wir roden!](https://netzfrauen.org/2019/05/04/china-10/)
+* [Intel hat jetzt sogar offiziell überall Probleme, da fackelt gerade richtig die Bude.](https://blog.fefe.de/?ts=a233820d)
+* [dav1d wurde in der Version 0.3.0 veröffentlicht.](https://lwn.net/Articles/787422/rss)
+* [>>Die Zukunft der Heilung: Das Geheimnis der russischen Raumfahrtmedizin - Prof. Dr. Enrico Edinger<<](https://www.welt-im-wandel.tv/video/die-zukunft-der-heilung-das-geheimnis-der-russischen-raumfahrtmedizin-prof-dr-enrico-edinger/)
