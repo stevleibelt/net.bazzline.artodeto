@@ -27,3 +27,6 @@
 * [Intel hat jetzt sogar offiziell überall Probleme, da fackelt gerade richtig die Bude.](https://blog.fefe.de/?ts=a233820d)
 * [dav1d wurde in der Version 0.3.0 veröffentlicht.](https://lwn.net/Articles/787422/rss)
 * [>>Die Zukunft der Heilung: Das Geheimnis der russischen Raumfahrtmedizin - Prof. Dr. Enrico Edinger<<](https://www.welt-im-wandel.tv/video/die-zukunft-der-heilung-das-geheimnis-der-russischen-raumfahrtmedizin-prof-dr-enrico-edinger/)
+* [Realitätsabgleich Palmenöl.](https://netzfrauen.org/2019/05/05/palmoil-5/)
+* [Firefox macht sich selbst und damit leider auch TOR kaputt.](https://blog.fefe.de/?ts=a23024f8)
+* [Kennt ihr Vittel? Die haben dank Nestle kein Wasser mehr.](https://netzfrauen.org/2019/05/05/vittel/)
