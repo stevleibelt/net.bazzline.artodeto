@@ -30,3 +30,7 @@
 * [Realitätsabgleich Palmenöl.](https://netzfrauen.org/2019/05/05/palmoil-5/)
 * [Firefox macht sich selbst und damit leider auch TOR kaputt.](https://blog.fefe.de/?ts=a23024f8)
 * [Kennt ihr Vittel? Die haben dank Nestle kein Wasser mehr.](https://netzfrauen.org/2019/05/05/vittel/)
+* [Kali Linux, Airgeddon? Hier wird es euch erklärt.](https://www.kuketz-blog.de/airgeddon-wie-wlans-gehackt-werden-und-wie-man-sich-davor-schuetzt/)
+* [Da werden dumpf tiefe Löscher in Schottlands Erde gebohrt und auf einmal ist ein See weg.](https://netzfrauen.org/2019/05/06/scotland/)
+* [Linux wurde in der Version 5.1 veröffentlicht.](https://www.pro-linux.de/news/1/27030/linux-kernel-51-freigegeben.html)
+* [Neubrandenburg und dessen Polizei will jetzt das Fusion-Festival verbieten.](https://blog.fefe.de/?ts=a2313ef9)
