@@ -1,0 +1,13 @@
+* [Erst ein schlechtes Gesetz vorstellen und dann so tun als würde das Volk Umweltschutz doof finden - unsere Steuergelder am "Arbeiten".](http://www.sonnenseite.com/de/politik/kein-wunder-dass-die-buerger-abwinken.html)
+* [Realitätsabgleich PHP 2019.](https://stitcher.io/blog/php-in-2019)
+* [San Francisco verbietet den Verkauf von Plastikflaschen.](https://netzfrauen.org/2019/05/15/san-francisco-2/)
+* [Intel ist noch kaputterer.](https://www.pro-linux.de/news/1/27065/zombieload-neue-cpu-sicherheitsl%C3%BCcke-entdeckt.html)
+* [Ihr nutzt alte Adobe-Software? Dann kriegt ihr ab jetzt eine Warnung von Adobe.](https://blog.fefe.de/?ts=a22565be)
+* [Und noch mehr Intel ist kaputt.](https://blog.fefe.de/?ts=a225f5e5)
+* [Proton wurde in der Version 4.2-4 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=Proton-4.2-4-Released)
+* [Der EuGH will ein System entwickeln um alle Arbeitnehmer und deren Arbeitszeiten täglich zu ermitteln.](https://blog.fefe.de/?ts=a22455e8) - Ähmm?
+* [Excel in HTML oder JSON umwandeln? Gibt es!](https://opensource.com/article/19/5/convert-excel-files-html-json)
+* [WhatsApp ist auch kaputt.](https://blog.fefe.de/?ts=a2249d8c)
+* [Schon komisch, die Botschaft Ecuadors will den USA alles von Julian Assange hinterlassen ... nicht etwa den Briten.](https://blog.fefe.de/?ts=a2278616)
+* [OmniOSce wurde in der Version r151030 veröffentlicht.](https://www.pro-linux.de/news/1/27055/omniosce-r151030-als-langfristig-unterst%C3%BCtzte-version-erschienen.html)
+* [Cisco liefert sich ein Wettrennen mit Intel.](https://blog.fefe.de/?ts=a2248a1a)
