@@ -11,3 +11,10 @@
 * [Schon komisch, die Botschaft Ecuadors will den USA alles von Julian Assange hinterlassen ... nicht etwa den Briten.](https://blog.fefe.de/?ts=a2278616)
 * [OmniOSce wurde in der Version r151030 veröffentlicht.](https://www.pro-linux.de/news/1/27055/omniosce-r151030-als-langfristig-unterst%C3%BCtzte-version-erschienen.html)
 * [Cisco liefert sich ein Wettrennen mit Intel.](https://blog.fefe.de/?ts=a2248a1a)
+* [Grafisch programmieren mit Pythonic.](https://www.pro-linux.de/artikel/2/1972/das-grafische-programmierwerkzeug-pythonic.html)
+* [Realitätsabgleich Bananen.](https://netzfrauen.org/2019/05/16/bananas-2/)
+* [Nextcloud wurde in den Versionen 16.0.1, 15.0.8 und 14.0.11 veröffentlicht.](https://nextcloud.com/blog/nextcloud-16.0.1-and-other-updates-out/)
+* [John the ripper wurde in der Version 1.9.0 veröffentlicht.](https://www.pro-linux.de/news/1/27068/john-the-ripper-190-freigegeben.html)
+* [Headless CMS?](https://opensource.com/article/19/5/headless-cms) - [Cockpit](https://getcockpit.com/) ist etwas aus PHP.
+* [Google rollt deutlich mehr Werbung auf ihrem Android aus.](https://blog.fefe.de/?ts=a222278b)
+* [Wine wurde in der Version 4.0.1 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=Wine-4.0.1-Released)
