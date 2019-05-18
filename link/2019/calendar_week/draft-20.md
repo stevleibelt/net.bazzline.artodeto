@@ -18,3 +18,5 @@
 * [Headless CMS?](https://opensource.com/article/19/5/headless-cms) - [Cockpit](https://getcockpit.com/) ist etwas aus PHP.
 * [Google rollt deutlich mehr Werbung auf ihrem Android aus.](https://blog.fefe.de/?ts=a222278b)
 * [Wine wurde in der Version 4.0.1 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=Wine-4.0.1-Released)
+* [Cray ist tod.](https://blog.fefe.de/?ts=a2209981)
+* [Oh mein Gott, Steuergelder bei ihrer Arbeit.](https://tuxproject.de/blog/2019/05/feminismus-von-der-stange/)
