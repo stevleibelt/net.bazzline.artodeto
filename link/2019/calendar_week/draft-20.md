@@ -20,3 +20,8 @@
 * [Wine wurde in der Version 4.0.1 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=Wine-4.0.1-Released)
 * [Cray ist tod.](https://blog.fefe.de/?ts=a2209981)
 * [Oh mein Gott, Steuergelder bei ihrer Arbeit.](https://tuxproject.de/blog/2019/05/feminismus-von-der-stange/)
+* [Realitätsabgleich deutsche Subventionshilfe, oder, die andere Art von Kriegsführung.](https://netzfrauen.org/2019/05/17/agrar/)
+* [DXVK wurde in der Version 1.2.1 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=DXVK-1.2.1-Released)
+* [Wow, selbst Größen wie Salesforces verkacken es in der Cloud.](https://blog.fefe.de/?ts=a21f91cc)
+* [Realitätsabgleich PepsiCo und wie sie alle wegverklagen.](https://netzfrauen.org/2019/05/19/pepsico/)
+* [Eure Sprache kann jetzt von Machinen-Learning-Foo sicher immitiert werden.](https://blog.fefe.de/?ts=a21fd0fe)
