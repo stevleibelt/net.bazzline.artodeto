@@ -2,3 +2,9 @@
 * [Google ist nun auch gegen Huawei :-O.](https://blog.fefe.de/?ts=a21c8340)
 * [Nein? Doch! Oh? Junge Frauen verkaufen ihre Eizellen.](https://netzfrauen.org/2019/05/20/eizellspende/)
 * [Hier gibt es eine Liste von einfachen Pflanzen mit denen man das Gärtnern lernen kann.](https://www.smarticular.net/pflegeleichte-gartenpflanzen-fuer-anfaenger-gemuese-kraeuter-stauden/)
+* [Der Wahl-O-Mat ist verfassungwidrig da er nur die großen Parteien bewirbt.](https://blog.fefe.de/?ts=a21dd066)
+* [Die Polizei bereitet sich beim friedlichen Fusion Festival auf den Krieg vor - Unsere Steuergelder im Einsatz.](https://blog.fefe.de/?ts=a21d4de9)
+* [Die Webseite fragFinn.de ist ein Klauschwein der Daten eurer Kinder.](https://www.kuketz-blog.de/fragfinn-aus-datenschutzsicht-nicht-zu-empfehlen/)
+* [Schade, dass man immer klagen muss - die Telekom hat ihr kapern abgeschaltet.](https://blog.fefe.de/?ts=a21d69cd) - Endlich wissen auch Telekomkunden, dass eine Website nicht verfügbar ist.
+* [Die Datenhoheit, also der "Selling point" für diesen ganzen digitalen Patientenaktenscheiß, wird nie umgesetzt werden.](https://blog.fefe.de/?ts=a21d167d)
+* [Afrika ist Wegbereiter beim Verbot vom Plastik.](https://netzfrauen.org/2019/05/21/plastic-16/)
