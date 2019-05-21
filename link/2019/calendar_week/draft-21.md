@@ -3,3 +3,4 @@
 * [Nein? Doch! Oh? Junge Frauen verkaufen ihre Eizellen.](https://netzfrauen.org/2019/05/20/eizellspende/)
 * [Hier gibt es eine Liste von einfachen Pflanzen mit denen man das Gärtnern lernen kann.](https://www.smarticular.net/pflegeleichte-gartenpflanzen-fuer-anfaenger-gemuese-kraeuter-stauden/)
 * [Anti-Staub-Spray selbst gemacht.](https://www.smarticular.net/anti-staub-spray-selber-machen-staub-verhindern-vorbeugen-leichter-wischen/)
+* [Arch Linux einfach installieren? Wie wäre es mit anarchylinux.org!](https://www.anarchylinux.org/)
