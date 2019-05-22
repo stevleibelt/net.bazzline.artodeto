@@ -8,3 +8,6 @@
 * [Schade, dass man immer klagen muss - die Telekom hat ihr kapern abgeschaltet.](https://blog.fefe.de/?ts=a21d69cd) - Endlich wissen auch Telekomkunden, dass eine Website nicht verfügbar ist.
 * [Die Datenhoheit, also der "Selling point" für diesen ganzen digitalen Patientenaktenscheiß, wird nie umgesetzt werden.](https://blog.fefe.de/?ts=a21d167d)
 * [Afrika ist Wegbereiter beim Verbot vom Plastik.](https://netzfrauen.org/2019/05/21/plastic-16/)
+||||||| merged common ancestors
+* [Anti-Staub-Spray selbst gemacht.](https://www.smarticular.net/anti-staub-spray-selber-machen-staub-verhindern-vorbeugen-leichter-wischen/)
+* [Arch Linux einfach installieren? Wie wäre es mit anarchylinux.org!](https://www.anarchylinux.org/)
