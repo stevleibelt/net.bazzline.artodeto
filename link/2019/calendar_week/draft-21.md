@@ -14,3 +14,4 @@
 * [Nachhaltigkeit ins Grundgesetzt verankern? Von meiner Seite aus spricht nichts dagegen.](http://www.sonnenseite.com/de/politik/grundgesetz-for-future.html)
 * [Comcast als Vorreiter des TV-Monopols drückt seinen Kunden jetzt einen Stromverbraucher mit Zwangsinternet auf, der eure Gesundheit erfasst um zu schauen wann sie am besten Werbung enspielen.](https://blog.fefe.de/?ts=a21be1b8) - Wäre doch doof wenn ihr in der Werbepause auf das WC geht statt die Werbung zu schauen.
 * [Spezialitäten aus Sachsen.](https://www.regionales.sachsen.de/spezialitaeten)
+* [ZFS On Linux wurde in der Version 0.8 veröffentlicht!](https://www.phoronix.com/scan.php?page=news_item&px=ZFS-On-Linux-0.8-Released) - Wow, google würde direkt 10 Major-Versionssprünge machen bei der Latte an neuen Funktionen die da hinein gepackt wurde.
