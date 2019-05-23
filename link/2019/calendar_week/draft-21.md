@@ -11,3 +11,7 @@
 ||||||| merged common ancestors
 * [Anti-Staub-Spray selbst gemacht.](https://www.smarticular.net/anti-staub-spray-selber-machen-staub-verhindern-vorbeugen-leichter-wischen/)
 * [Arch Linux einfach installieren? Wie wäre es mit anarchylinux.org!](https://www.anarchylinux.org/)
+* [Antergos schließt die Pforten. Danke für eure tolle Arbeit.](https://www.pro-linux.de/news/1/27086/antergos-wird-eingestellt.html) - Ebenfalls bemerkenswert, die Entwickler gehen den Schritt wenn der Code noch "up to date" ist.
+* [Nachhaltigkeit ins Grundgesetzt verankern? Von meiner Seite aus spricht nichts dagegen.](http://www.sonnenseite.com/de/politik/grundgesetz-for-future.html)
+* [Comcast als Vorreiter des TV-Monopols drückt seinen Kunden jetzt einen Stromverbraucher mit Zwangsinternet auf, der eure Gesundheit erfasst um zu schauen wann sie am besten Werbung enspielen.](https://blog.fefe.de/?ts=a21be1b8) - Wäre doch doof wenn ihr in der Werbepause auf das WC geht statt die Werbung zu schauen.
+* [Spezialitäten aus Sachsen.](https://www.regionales.sachsen.de/spezialitaeten)
