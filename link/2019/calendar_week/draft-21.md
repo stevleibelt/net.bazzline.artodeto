@@ -14,3 +14,9 @@
 * [Nachhaltigkeit ins Grundgesetzt verankern? Von meiner Seite aus spricht nichts dagegen.](http://www.sonnenseite.com/de/politik/grundgesetz-for-future.html)
 * [Comcast als Vorreiter des TV-Monopols drückt seinen Kunden jetzt einen Stromverbraucher mit Zwangsinternet auf, der eure Gesundheit erfasst um zu schauen wann sie am besten Werbung enspielen.](https://blog.fefe.de/?ts=a21be1b8) - Wäre doch doof wenn ihr in der Werbepause auf das WC geht statt die Werbung zu schauen.
 * [Spezialitäten aus Sachsen.](https://www.regionales.sachsen.de/spezialitaeten)
+* [Die Europawahlen stehen an, zeit für "Rezo - Die Zerstörung der CDU".](https://www.youtube.com/watch?v=4Y1lZQsyuSQ) - Danke [FeFe](https://blog.fefe.de/?ts=a2189379).
+* [Realitätsabgleich Steinmeier, der Mensch der gerne unschuldige Foltern lässt und diese Technik auf den Arbeitsmarkt ausrollt.](https://tuxproject.de/blog/2019/05/70-jahre-selektive-menschenwuerde/)
+* [Elias wurde in der Version 0.4 veröffentlicht.](https://www.pro-linux.de/news/1/27091/musicplayer-elisa-04-ver%C3%B6ffentlicht.html)
+* [Kali Linux wurde in der Version 2019.2 veröffentlicht.](https://www.pro-linux.de/news/1/27090/kali-linux-20192-freigegeben.html)
+* [Bosch muss nur 90 Millionen Euro Strafe für deren Beteiligung am Diesel-Kunden-Bescheißprogramm zahlen.](https://blog.fefe.de/?ts=a218b95e) - Nur, weil sie für den Fall des erwischt werdens 1,2 Milliarten Euro zurück gestellt hatten und weil es mir einfach zu wenig ist als dass die Manager hier Praktiken ändern.
+* [Träumschen, ein Atomsarg der USA ist auch kaputt und verstrahlt unsere Ozeane.](https://blog.fefe.de/?ts=a2185d7f)
