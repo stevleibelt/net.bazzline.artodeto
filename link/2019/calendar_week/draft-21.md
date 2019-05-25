@@ -21,3 +21,8 @@
 * [Bosch muss nur 90 Millionen Euro Strafe für deren Beteiligung am Diesel-Kunden-Bescheißprogramm zahlen.](https://blog.fefe.de/?ts=a218b95e) - Nur, weil sie für den Fall des erwischt werdens 1,2 Milliarten Euro zurück gestellt hatten und weil es mir einfach zu wenig ist als dass die Manager hier Praktiken ändern.
 * [Träumschen, ein Atomsarg der USA ist auch kaputt und verstrahlt unsere Ozeane.](https://blog.fefe.de/?ts=a2185d7f)
 * [ZFS On Linux wurde in der Version 0.8 veröffentlicht!](https://www.phoronix.com/scan.php?page=news_item&px=ZFS-On-Linux-0.8-Released) - Wow, google würde direkt 10 Major-Versionssprünge machen bei der Latte an neuen Funktionen die da hinein gepackt wurde.
+* [Sieben Tipps um deinen Büroarbeitsplatz gesünder zu gestalten.](https://www.careelite.de/gesund-arbeitsplatz-buero/)
+* [Tofu? Wie wäre es mit Linsen statt Soya.](https://www.smarticular.net/linsentofu-rezept-ohne-soja-selber-machen/)
+* [Realitätsabgleich SPD ist eine Alternative zur CDU.](https://blog.fefe.de/?ts=a216d4e7)
+* [Die CDU muss ihren ganzen geklauten Inhalt der öffentlich Rechtlichen offline nehmen.](https://blog.fefe.de/?ts=a216d256)
+* [Hoffnungsträger Jugend!](https://blog.fefe.de/?ts=a216c8f9)
