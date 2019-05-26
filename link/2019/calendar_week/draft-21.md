@@ -26,3 +26,6 @@
 * [Realitätsabgleich SPD ist eine Alternative zur CDU.](https://blog.fefe.de/?ts=a216d4e7)
 * [Die CDU muss ihren ganzen geklauten Inhalt der öffentlich Rechtlichen offline nehmen.](https://blog.fefe.de/?ts=a216d256)
 * [Hoffnungsträger Jugend!](https://blog.fefe.de/?ts=a216c8f9)
+* [Novartis ist so ein Menschenfreund, dass sie nur schlappe 2 Millionen Euro für die etwaige Heilung einer Krankheit.](https://blog.fefe.de/?ts=a2148fa1)
+* [Heimathorst will jetzt auch starke Verschlüßelunge per Gesetz verbieten.](https://blog.fefe.de/?ts=a21480c9)
+* [NGO's sind jetzt auch offiziell von den US-Amerikanern unterwandert.](https://blog.fefe.de/?ts=a2173e2a)
