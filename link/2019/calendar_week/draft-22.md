@@ -8,3 +8,7 @@
 * [Social Media als Waffe - so denken die Sesselfurzer der Bilderberg-Konferenz über die Möglichkeit der freien Meinungsäußerung im Internet.](https://blog.fefe.de/?ts=a213e2a2) - Inklusive Uploadfilter und Kapitialismus x.0.
 * [Exxon Mobil hat so viel Angst vor einer CO2-Steuer, dass die lieber eine landesweite Regelung wollen weil sie sonst zu viele bestechen müssen.](https://blog.fefe.de/?ts=a213e35a) - Daran sieht man, dass lokale gesetzgebende Gewalt nicht per se etwas schlechtes ist - es liegt halt wie immer an den Dimmensionen.
 * [Nein? Doch! Oh? Die Schokoladenindustrie ist nicht besser als die Automobil- oder Pharmaindustrie, da werden so lange Studien gemacht, bis sie das Produkt positiv bewerten.](https://netzfrauen.org/2019/05/28/chocolate-2/)
+* [Wunderbar, Malaysia wird erwachsen und will nicht mehr die Müllhalde Europas sein.](https://netzfrauen.org/2019/05/29/asia-2/) - Realitätsabgleich recycling funktioniert.
+* [Krita wurde in der Version 4.2 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=Krita-4.2-Released)
+* [Nach China kommt das "Social Credit System" nun auch in Kanada.](https://blog.fefe.de/?ts=a210a9eb) - Du bist kein Linientreuer Insasses von Kanada? Tja, ein hartes Leben du wirst haben.
+* [>>Rückblick: Netzwerktreffen Freiberg, Praxis Michael Stern 5/2019<<](https://bio-erzgebirge.de/wp/?p=18560)
