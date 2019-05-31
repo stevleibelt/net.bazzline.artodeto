@@ -15,3 +15,5 @@
 * [Die Hamburger Bürger haben es geschafft, bis 2030 muss die Stadt den Kohleausstieg machen.](http://www.sonnenseite.com/de/politik/hamburger-setzen-ausstieg-aus-der-kohlewaerme-durch.html)
 * [Wie zu erwarten Docker ist kaputt.](https://blog.fefe.de/?ts=a2116ce3)
 * [Google macht seinen Chrome Browser noch mehr kaputt - AdBlocker nur noch in der Enterprise Version.](https://blog.fefe.de/?ts=a20ed465)
+* [Die UNO fordert die Freilassung der katalanischen Gefangenen.](https://weltnetz.tv/story/1942-uno-fordert-sofortige-freilassung-katalanischer-gefangener-spanien)
+* [Die USA verhängen jetzt auch Strafzölle gegen Mexiko.](https://blog.fefe.de/?ts=a20e37a4)
