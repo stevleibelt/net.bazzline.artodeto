@@ -16,3 +16,4 @@
 * [Gezuckerte Kondensmilch selber machen.](https://www.smarticular.net/kondensmilch-suess-selber-machen-milchmaedchen-alternative/)
 * [>>Aktuelles für Freiberg im Juni 2019, Sommerfest 13.6. Friedebach<<](https://bio-erzgebirge.de/wp/?p=18579)
 * [Lol, Madrid ernennt Stau und Smog zum kulturellen Erbe :-X.](https://blog.fefe.de/?ts=a20cdccf)
+* [In Baden-Würtenberg (regiert vom grünen Teil der Blockpartei) sieht man wie mächtig und realitätsfern die Automobilindustrie ist.](https://www.maskenfall.de/?p=13559)
