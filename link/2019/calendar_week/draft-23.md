@@ -17,3 +17,5 @@
 * [>>Aktuelles für Freiberg im Juni 2019, Sommerfest 13.6. Friedebach<<](https://bio-erzgebirge.de/wp/?p=18579)
 * [Lol, Madrid ernennt Stau und Smog zum kulturellen Erbe :-X.](https://blog.fefe.de/?ts=a20cdccf)
 * [In Baden-Würtenberg (regiert vom grünen Teil der Blockpartei) sieht man wie mächtig und realitätsfern die Automobilindustrie ist.](https://www.maskenfall.de/?p=13559)
+* [>>CCC ehrt das ETSI mit einem Big Brother Award<<](https://www.ccc.de/de/updates/2019/big-brother-award-etsi)
+* [>>[...] Heute bekämpfen sich die Arbeiter gegenseitig. Anstatt den Bonzen gemeinsam Paroli zu bieten [...]<<](https://blog.fefe.de/?ts=a2051637)
