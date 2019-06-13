@@ -7,3 +7,8 @@
 * [Nextcloud schließt sich dem CCC an und zeigt zudem, dass diese Idee bereits in der Vergangenheit nicht funktioniert hat.](https://nextcloud.com/blog/a-bad-idea-nextcloud-signs-public-letter-opposing-german-plan-to-force-decryption-of-chat/)
 * [ECC Ram, RAMBleed, alles scheint gerade zusammen zu brechen.](https://blog.fefe.de/?ts=a3fec4f7)
 * [Realitätsabgleich "Schuhe für 20 Euro".](https://netzfrauen.org/2019/06/12/schuhe-2-2/)
+* [DragonFly BSD setzt nun auch auf Hammer2.](https://www.pro-linux.de/news/1/27150/dragonfly-bsd-setzt-auf-hammer-2.html)
+* [Interessanter Gedankengang, die Kita's und Schulen werden schon zur politischen Gedankenerziehung missbraucht.](https://www.neopresse.com/gesellschaft/lehrerverband-warnt-kollegen-vor-missachtung-des-neutralitaetsgebots/)
+* [Wenigst jedes zehnte Kind muss arbeiten und ist seinem Peiniger schutzlos ausgeliefert.](https://netzfrauen.org/2019/06/12/kinder-2-2/)
+* [CERN versucht sich von Microsoft unabhängig zu machen.](https://www.pro-linux.de/news/1/27153/cern-will-sich-von-microsoft-befreien.html)
+* [>>Die Erdzerstörer: Sind wir Menschen die Bösen? | Doku | ARTE<<](https://www.youtube.com/watch?v=yXYYWVAAKRc) - Anderhalb Stunden fesselnde Dokumentation, danke Arte!
