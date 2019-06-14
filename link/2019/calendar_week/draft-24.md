@@ -12,3 +12,8 @@
 * [Wenigst jedes zehnte Kind muss arbeiten und ist seinem Peiniger schutzlos ausgeliefert.](https://netzfrauen.org/2019/06/12/kinder-2-2/)
 * [CERN versucht sich von Microsoft unabhängig zu machen.](https://www.pro-linux.de/news/1/27153/cern-will-sich-von-microsoft-befreien.html)
 * [>>Die Erdzerstörer: Sind wir Menschen die Bösen? | Doku | ARTE<<](https://www.youtube.com/watch?v=yXYYWVAAKRc) - Anderhalb Stunden fesselnde Dokumentation, danke Arte!
+* [Intel erzeugt mit ihren 10 Jahre alten Architekturfehlern nun offiziell Müll.](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/IntelMDSKillsOldServers)
+* [Realitätsabgleich Klimaschutz der Blockpartei - Der CO2 Ausstoß ist wieder gestiegen.](https://www.sonnenseite.com/de/umwelt/globale-treibhausgas-emissionen-deutlich-gestiegen.html)
+* [SystemRescueCD wurde in der Version 6.0.3 veröffentlicht.](https://www.planet3dnow.de/cms/47708-systemrescuecd-6-0-3-2/)
+* [Im Durchschnitt isst ein Mensch eine Kreditkarte an Plastik pro Woche.](https://www.sonnenseite.com/de/umwelt/wuerden-sie-eine-kreditkarte-essen.html)
+* [Nein? Doch! Oh? - Nestle bewirbt es als Wasser, gerollt auf Jungfrauenschenkeln und am Ende ist es doch nur Wasser aus der Leitung.](https://netzfrauen.org/2019/06/14/nestle-11/) - Gewinne Privatisieren, Schulden Sozialisieren in Aktion meine Damen und Herren ... ach ja und Lügen.
