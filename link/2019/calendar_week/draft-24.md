@@ -17,3 +17,8 @@
 * [SystemRescueCD wurde in der Version 6.0.3 veröffentlicht.](https://www.planet3dnow.de/cms/47708-systemrescuecd-6-0-3-2/)
 * [Im Durchschnitt isst ein Mensch eine Kreditkarte an Plastik pro Woche.](https://www.sonnenseite.com/de/umwelt/wuerden-sie-eine-kreditkarte-essen.html)
 * [Nein? Doch! Oh? - Nestle bewirbt es als Wasser, gerollt auf Jungfrauenschenkeln und am Ende ist es doch nur Wasser aus der Leitung.](https://netzfrauen.org/2019/06/14/nestle-11/) - Gewinne Privatisieren, Schulden Sozialisieren in Aktion meine Damen und Herren ... ach ja und Lügen.
+* [Welches Gemüse braucht eigentlich wenig Wasser? Möhren, Knoblauch, Mangold, Pastinake, Rote Bete und Zwiebeln zum Beispiel.](https://www.smarticular.net/gartenpflanzen-die-wenig-wasser-brauchen/)
+* [Dank der Open Source Bewegung gibt es nun offizielle und ethische Leitlinien für Informatiker.](https://www.kuketz-blog.de/kommentar-informatiker-uebernehmt-endlich-verantwortung/)
+* [Was ist eigentlich eim Bloom Index in PostgreSQL und wie nutzt man den?](https://www.percona.com/blog/2019/06/14/bloom-indexes-in-postgresql/)
+* [ZOL wurde in der Version 0.8.1 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=ZFS-On-Linux-0.8.1-Released)
+* [>>Alterung stoppen | Zirbeldrüse aktivieren | gesund & lange Leben – Prof. Dr. Enrico Edinger<<](https://www.welt-im-wandel.tv/video/alterung-stoppen-zirbeldruese-aktivieren-gesund-lange-leben-prof-dr-enrico-edinger/)
