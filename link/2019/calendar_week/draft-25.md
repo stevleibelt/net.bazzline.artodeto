@@ -12,3 +12,7 @@
 * [>>Impfen oder nicht? - Ein Arzt packt aus! - Dr. med. Gerd Reuther<<](https://www.welt-im-wandel.tv/video/impfen-oder-nicht-ein-arzt-packt-aus-dr-med-gerd-reuther/)
 * [Scheinbar haben sich die Wissenschaftler vertan, 70 Jahre eher ist der Klimakollaps.](https://blog.fefe.de/?ts=a3f72ca8)
 * [So funktioniert Hilfe in der westlichen Welt, Somalia kriegt Entwicklungshilfe (die dann in Schuldentilgung versickert) und darf dafür nicht mehr in seinen Meeren fischen.](https://netzfrauen.org/2019/06/19/somalia/)
+* [[...] Eine verschwindende Zahl an Zigarettenrauchern frönt weitgehend stumm ihrer Abnutzung ... [...]](https://tuxproject.de/blog/2019/06/heroin-gegen-drogentote-2-ueber-suechte/)
+* [Alpine Linux wurde in der Version 3.1.0 veröffentlicht.](https://lwn.net/Articles/791508)
+* [Satiere oder Realität, Glühbirne auf Fabrikzustand zurück setzen.](https://blog.fefe.de/?ts=a3f5a5f9)
+* [Schönes Beispiel dafür wie schlecht die Idee ist der "KI" Entscheidungen zu überlassen - Papers werden als Plagiate erkannt weil sie Zitate enthalten haben.](https://blog.fefe.de/?ts=a3f5a4ec)
