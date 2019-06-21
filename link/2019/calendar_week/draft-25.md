@@ -16,3 +16,10 @@
 * [Alpine Linux wurde in der Version 3.1.0 veröffentlicht.](https://lwn.net/Articles/791508)
 * [Satiere oder Realität, Glühbirne auf Fabrikzustand zurück setzen.](https://blog.fefe.de/?ts=a3f5a5f9)
 * [Schönes Beispiel dafür wie schlecht die Idee ist der "KI" Entscheidungen zu überlassen - Papers werden als Plagiate erkannt weil sie Zitate enthalten haben.](https://blog.fefe.de/?ts=a3f5a4ec)
+* [OpenBSD patcht OpenSSH gegen Seitenangriffe.](https://blog.fefe.de/?ts=a3f3de66)
+* [DSGVGO und "wenn du als Firma groß genug bist, schaut die Datenschutzbehörde gern mal weg".](https://tuxproject.de/blog/2019/06/marktschutzgrundverordnung/)
+* [Indonesien schickt Plastikmüll jetzt auch zum Absender zurück.](https://netzfrauen.org/2019/06/21/plasticwaste/)
+* [So geht das in der Blockpartei, für 50.000 Euro Spende, erhält man einen Staatsauftrag in Höhe von 600.000 Euro.](https://blog.fefe.de/?ts=a3f20076)
+* [Pbench, Ripsaw, OpenShift Scale, Browbeat, Smallfile, Ceph Benchmarking Tool satperf sollte man einmal gehört haben.](https://opensource.com/article/19/6/performance-scaling-tools)
+* [>>Kampfmittelbeseitigungsarbeiten am Soldatenteich in Freiberg<<](https://www.youtube.com/watch?v=AgSrczcEITA) - Etwaig können die Freiberger ab 2020 wieder den Soldatenteich benutzen.
+* [>>Erzengler Teich vorübergehend geschlossen<<](https://www.youtube.com/watch?v=ZM9VAvV0tWo)
