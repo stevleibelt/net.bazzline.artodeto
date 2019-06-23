@@ -23,3 +23,6 @@
 * [Pbench, Ripsaw, OpenShift Scale, Browbeat, Smallfile, Ceph Benchmarking Tool satperf sollte man einmal gehört haben.](https://opensource.com/article/19/6/performance-scaling-tools)
 * [>>Kampfmittelbeseitigungsarbeiten am Soldatenteich in Freiberg<<](https://www.youtube.com/watch?v=AgSrczcEITA) - Etwaig können die Freiberger ab 2020 wieder den Soldatenteich benutzen.
 * [>>Erzengler Teich vorübergehend geschlossen<<](https://www.youtube.com/watch?v=ZM9VAvV0tWo)
+* [PostgreSQL JDBC wurde in der Version 42.2.6 veröffentlicht.](https://www.postgresql.org/about/news/1950/)
+* [*Hmm*, in den USA und auch in Deutschland ist die Chance im Moment arg hoch, dass man mit 50 stirbt.](https://blog.fefe.de/?ts=a3f1edfe)
+* [Aioli selber machen - Hier gibt es das Rezept.](https://www.smarticular.net/aioli-selber-machen-einfach-schnell/)
