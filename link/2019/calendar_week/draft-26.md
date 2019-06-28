@@ -12,3 +12,9 @@
 * [>>[...] Unablässig wird beklagt, dass Menschen über Fake-News manipuliert werden, dabei ist der Kern des Problems vielleicht ein ganz anderer: mangelndes Interesse an echten Fakten. [...]<<](https://tuxproject.de/blog/2019/06/medienkritik-extern-fakenews-als-wahlgarantie/)
 * [Nextcloud stellt >>Nextcloud Text<< vor mit dem ihr gemeinsam ein Dokument erstellen könnt.](https://www.pro-linux.de/news/1/27197/nextcloud-stellt-kollaborativen-texteditor-vor.html) - [Hier](https://nextcloud.com/blog/nextcloud-introduces-collaborative-rich-text-editor/) der Artikel dazu von nextcloud.
 * [Tig, ein Programm mit dem ihr git log einfacher anschauen könnt.](https://opensource.com/article/19/6/what-tig)
+* [Erst Indianerspiele, jetzt Völkerball - Ich weiß nicht, Menschen leiden in Welt und dennoch empfinden Politiker dies als wichtig?](https://tuxproject.de/blog/2019/06/voelkerball/)
+* [Wisst ihr warum das Recycling in Europa so gut funktioniert? Weil wir den ganzen giftigen Kram nach Ghana schicken!](https://netzfrauen.org/2019/06/28/waste-4/)
+* [Das Freiberger Bergstadtfest 2019 - was ist neu?](https://www.youtube.com/watch?v=KtdB35mj9kU)
+* [Der WDR hat einen Beitrag über das Miethaus-Syndikat-Projekt Grafschaft 32 in Münster online gestellt.](https://www1.wdr.de/mediathek/video/sendungen/markt/video-solidarisches-wohnen-100.html)
+* [>>Nacht der Wissenschaft in Freiberg 2019<<](https://www.youtube.com/watch?v=yhDUwjPFdUQ)
+* [>>Energiestammtisch im Heizkraftwerk Freiberg<<](https://www.youtube.com/watch?v=LCkFTy8c4g8)
