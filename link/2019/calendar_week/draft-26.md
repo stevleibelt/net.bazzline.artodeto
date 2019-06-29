@@ -20,3 +20,4 @@
 * [>>Energiestammtisch im Heizkraftwerk Freiberg<<](https://www.youtube.com/watch?v=LCkFTy8c4g8)
 * [Microsoft's Outlook "App" speichert eure Anmeldedaten in deren Cloud.](https://www.kuketz-blog.de/microsoft-outlook-app-greift-microsoft-die-anmeldedaten-ab/)
 * [Boeing ist eure Sicherheit so viel wert, dass sie ihre Software-Entwicklung nach Indien outsourcen.](https://blog.fefe.de/?ts=a3e98b99)
+* [Billig-Textilien, Ballast für die Umwelt und nur kurz nutzbar für die Menschen.](https://www.youtube.com/watch?v=wMQJzmRa2fI) - Desto mehr Plastik in den Textilien, desto kürzer hält es und desto schwerer ist es abzubauen.
