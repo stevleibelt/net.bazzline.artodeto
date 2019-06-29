@@ -18,3 +18,5 @@
 * [Der WDR hat einen Beitrag über das Miethaus-Syndikat-Projekt Grafschaft 32 in Münster online gestellt.](https://www1.wdr.de/mediathek/video/sendungen/markt/video-solidarisches-wohnen-100.html)
 * [>>Nacht der Wissenschaft in Freiberg 2019<<](https://www.youtube.com/watch?v=yhDUwjPFdUQ)
 * [>>Energiestammtisch im Heizkraftwerk Freiberg<<](https://www.youtube.com/watch?v=LCkFTy8c4g8)
+* [Microsoft's Outlook "App" speichert eure Anmeldedaten in deren Cloud.](https://www.kuketz-blog.de/microsoft-outlook-app-greift-microsoft-die-anmeldedaten-ab/)
+* [Boeing ist eure Sicherheit so viel wert, dass sie ihre Software-Entwicklung nach Indien outsourcen.](https://blog.fefe.de/?ts=a3e98b99)
