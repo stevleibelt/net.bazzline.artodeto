@@ -21,3 +21,5 @@
 * [Microsoft's Outlook "App" speichert eure Anmeldedaten in deren Cloud.](https://www.kuketz-blog.de/microsoft-outlook-app-greift-microsoft-die-anmeldedaten-ab/)
 * [Boeing ist eure Sicherheit so viel wert, dass sie ihre Software-Entwicklung nach Indien outsourcen.](https://blog.fefe.de/?ts=a3e98b99)
 * [Billig-Textilien, Ballast für die Umwelt und nur kurz nutzbar für die Menschen.](https://www.youtube.com/watch?v=wMQJzmRa2fI) - Desto mehr Plastik in den Textilien, desto kürzer hält es und desto schwerer ist es abzubauen.
+* [E-Maj wurde in der Version 3.1.0 veröffentlicht.](https://www.postgresql.org/about/news/1952/)
+* [Die Gutachten über Schmerzmittel sind von der gleichen Qualität wie die Gutachten zu Glyphosat.](https://netzfrauen.org/2019/06/30/pharma-3/)
