@@ -10,3 +10,6 @@
 * [Python und Argumenten lesen via argparse und getOptions.](https://opensource.com/article/19/7/parse-arguments-python)
 * [Wie weit der deutsche Bundestag von der Realität entfernt ist zeigen die beiden verlinkten Abstimmungsergebnisse zum den Themen "Klimanotsand anerkennen" und "Kohlekraftwerke stilllegen".](https://blog.fefe.de/?ts=a3e56287)
 * [Wasserknappheit, auch in Deutschland ein Thema.](https://www.careelite.de/wasserknappheit/) - 4000 Liter Wasser verbraucht der Durchschnittsdeutsche pro Tag - falls ich glaubt mit einer Sparklospühlung helft ihr der Natur, nein ihr helft ihr mehr mit weniger Konsum.
+* [Die Menschen, die mit der Firma Senmotic perfekte Barfußschuhe aus Sachsen/Deutschland produzieren, machen jetzt auch Möbel für das gesunde Sitzen.](http://www.aktiv-sitzen.com/)
+* [Kaputte Logik "at its best", wir könnten unsere Umwelt retten und sie weniger vergiften, oder wir spielen Mutter Natur an Bienen und mutieren sie zu resistenteren Tieren.](https://www.sonnenseite.com/de/wissenschaft/bienen-artenschutz-mit-gentechnik.html)
+* [TLS in Rust ist 20 Prozent schneller als in OpenSSL.](https://blog.fefe.de/?ts=a3e31521)
