@@ -13,3 +13,8 @@
 * [Die Menschen, die mit der Firma Senmotic perfekte Barfußschuhe aus Sachsen/Deutschland produzieren, machen jetzt auch Möbel für das gesunde Sitzen.](http://www.aktiv-sitzen.com/)
 * [Kaputte Logik "at its best", wir könnten unsere Umwelt retten und sie weniger vergiften, oder wir spielen Mutter Natur an Bienen und mutieren sie zu resistenteren Tieren.](https://www.sonnenseite.com/de/wissenschaft/bienen-artenschutz-mit-gentechnik.html)
 * [TLS in Rust ist 20 Prozent schneller als in OpenSSL.](https://blog.fefe.de/?ts=a3e31521)
+* [Ihr Nutzt LineageOS? Wie wäre es mit einer Spende?](https://www.pro-linux.de/news/1/27224/lineageos-%C3%B6ffnet-patreon-seite.html)
+* [Nextcloud wurden in den Version 16.0.2, 15.0.9 und 14.0.13 veröffentlicht.](https://nextcloud.com/blog/nextcloud-16.0.2-15.0.9-and-14.0.13-available-now/)
+* [Die Montanregion Erzgebirge ist auf dem Weg UNESCO-Welterbe zu werden - Daumen bitte jetzt gedrückt halten!](https://www.so-geht-saechsisch.de/die-kampagne/aktionen-und-veranstaltungen/montanregion-erzgebirge-krusnohori-auf-dem-weg-zum-unesco-welterbe/)
+* [34. Freiberger Bergstadtfest 2019](https://www.youtube.com/watch?v=foGA0uEsmnU)
+* [34. Freiberger Bergstadtfest - Bergparade 2019](https://www.youtube.com/watch?v=8CZ8ocSluvU)
