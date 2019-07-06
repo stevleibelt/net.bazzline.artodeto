@@ -18,3 +18,7 @@
 * [Die Montanregion Erzgebirge ist auf dem Weg UNESCO-Welterbe zu werden - Daumen bitte jetzt gedrückt halten!](https://www.so-geht-saechsisch.de/die-kampagne/aktionen-und-veranstaltungen/montanregion-erzgebirge-krusnohori-auf-dem-weg-zum-unesco-welterbe/)
 * [34. Freiberger Bergstadtfest 2019](https://www.youtube.com/watch?v=foGA0uEsmnU)
 * [34. Freiberger Bergstadtfest - Bergparade 2019](https://www.youtube.com/watch?v=8CZ8ocSluvU)
+* [Leider auch in der Polizei gibt es halt Deppen - aber, auch gute Menschen.](https://blog.fefe.de/?ts=a3de3c24)
+* [>>Es ist offiziell! Die Montagregion Erzgebirge/Krušnohoří wird künftig den Titel „UNESCO-Welterbe“ tragen.<<](https://www.so-geht-saechsisch.de/die-kampagne/aktionen-und-veranstaltungen/wir-sind-welterbe/)
+* [Rote Bete statt Tomaten? Ketchup selber machen.](https://www.smarticular.net/rote-bete-ketchup-selber-machen/)
+* [Wie löse ich das Problem >>Using a password on the command line interface can be insecure.<<? Hier wird es euch gezeigt.](https://www.percona.com/blog/2019/07/05/fixing-a-mysql-1045-error/)
