@@ -11,3 +11,6 @@
 * [Der (Bau) Sand wird knapp in der Welt.](https://netzfrauen.org/2019/07/10/sand-2/) - Und solange wie Planstädte irgendwo errichten und aus Profitgier den Häusern eine Halbwertszeit von 30 Jahren geben, wird sich nichts ändern.
 * [Der Vivaldi Webbrowser sendet dann man andauernd Daten von eurem PC an google.](https://www.kuketz-blog.de/vivaldi-browser-zu-eng-mit-google-verbandelt/)
 * [>>Aktuelles für Chemnitz im Juli und August 2019<<](https://bio-erzgebirge.de/wp/?p=18792)
+* [Schönes Beispiel wie weit die Politiker der Blockpartei von dem Volk entfernt sind - Flintenuschi und Artikel 13.](https://blog.fefe.de/?ts=a3d81c75)
+* [Tails wurde in der Version 3.15 veröffentlicht.](https://www.pro-linux.de/news/1/27243/tails-315-behebt-kritische-fehler.html)
+* [ONAP wurde in der Version 4.0.0 veröffentlicht.](https://www.pro-linux.de/news/1/27241/onap-400-dublin-freigegeben.html)
