@@ -14,3 +14,5 @@
 * [Schönes Beispiel wie weit die Politiker der Blockpartei von dem Volk entfernt sind - Flintenuschi und Artikel 13.](https://blog.fefe.de/?ts=a3d81c75)
 * [Tails wurde in der Version 3.15 veröffentlicht.](https://www.pro-linux.de/news/1/27243/tails-315-behebt-kritische-fehler.html)
 * [ONAP wurde in der Version 4.0.0 veröffentlicht.](https://www.pro-linux.de/news/1/27241/onap-400-dublin-freigegeben.html)
+* [KNOT DNS wurde in der Version 4.1 veröffentlicht.](https://www.pro-linux.de/news/1/27247/knot-dns-41-unterst%C3%BCtzt-64-bit-arm.html)
+* [Trägt die unterschiedliche "Bereitstellung" von Empathie zwischen Männer und Frauen zur gesellschaftlichen Spaltung bei?](https://man-tau.com/2019/07/11/gender-empathy-gap-day/) - Oder ist dies gar die erste Spaltung die wir seit der Geburt kennen?
