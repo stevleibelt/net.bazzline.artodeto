@@ -1,0 +1,2 @@
+* [Eine weitere Vorbereitung für Negativzinsen - Wer Gold An- und Verkauft muss das demnächst begründen!](https://www.heise.de/tp/features/Bundesregierung-will-anonyme-Goldkaeufe-ueber-2000-Euro-verbieten-4469176.html) - Der Vorteil von Gold ist noch immer, dass man dies zu Hause lagern.
+* [Andorid - Komoot - Hackfressenbuch und Google erfahren *alles* von euch.](https://www.kuketz-blog.de/komoot-facebook-geht-mit-auf-tour/)
