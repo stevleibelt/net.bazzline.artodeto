@@ -3,3 +3,8 @@
 * [Wie früher, die Stadt Albi in Frankreich will sich selbst versorgen - Gen- und Pestizitfrei!](https://netzfrauen.org/2019/07/15/albi-2/)
 * [Ihr nutzt für jedes SELECT eine Transaktion in einer MySQL? Dann solltet ihr euch mal diesen Artikel durchlesen.](https://www.percona.com/blog/2019/07/15/mysql-the-impact-of-transactions-on-query-throughput/)
 * [DXVK wurde in der Version 1.3 veröffentlicht.](https://www.pro-linux.de/news/1/27256/dxvk-13-mit-aktueller-vulkan-unterst%C3%BCtzung.html)
+* [Die Android Anwendung "Untis" scheint unsicher zu sein - Finger weg!](https://www.kuketz-blog.de/untis-mobile-fehlendes-rollenkonzept-und-datenschutzerklaerung/)
+* [Alle Daten der Bürger erheben und erst einmal auf Halde legen. Was kann da schon passieren? Russland zeigt es uns.](https://blog.fefe.de/?ts=a3d095a5)
+* [Die Mitglieder der Volkspartei aka die Schafe der Konzernwölfe lassen sich weiter verarschen - bis 2050, also bis zu einem Zeitraum wo alles zu spät ist, will man sich eventuell bemühen etwas gegen den Tod unsere Lebensraumes zu gesetzen - nicht umzusetzen, nur erst einmal bereden.](https://blog.fefe.de/?ts=a3d0d418)
+* [Wer Android nutzt muss auch Shelter nutzen.](https://www.kuketz-blog.de/shelter-big-brother-apps-isolieren-take-back-control-teil7/)
+* [Proxmox VE wurde in der Version 6.0 veröffentlicht.](https://www.pro-linux.de/news/1/27264/proxmox-ve-60-vorgestellt.html)
