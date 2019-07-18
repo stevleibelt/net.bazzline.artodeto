@@ -8,3 +8,6 @@
 * [Die Mitglieder der Volkspartei aka die Schafe der Konzernwölfe lassen sich weiter verarschen - bis 2050, also bis zu einem Zeitraum wo alles zu spät ist, will man sich eventuell bemühen etwas gegen den Tod unsere Lebensraumes zu gesetzen - nicht umzusetzen, nur erst einmal bereden.](https://blog.fefe.de/?ts=a3d0d418)
 * [Wer Android nutzt muss auch Shelter nutzen.](https://www.kuketz-blog.de/shelter-big-brother-apps-isolieren-take-back-control-teil7/)
 * [Proxmox VE wurde in der Version 6.0 veröffentlicht.](https://www.pro-linux.de/news/1/27264/proxmox-ve-60-vorgestellt.html)
+* [Schönes Beispiel für "Eure IT-Infrastruktur ist kaputt - dann packt sie nicht ins Internet!"](https://blog.fefe.de/?ts=a3d1e8ba)
+* [Das Pentagon hat wohl mit Zecken Versuche gemacht um diese als biologische Waffe zu nutzen.](https://blog.fefe.de/?ts=a3d1fd47)
+* [So, So, Impfpflicht für Masern - aber einen Impfschaden anzuerkennen ist weiterhin schwer.](https://blog.fefe.de/?ts=a3ced123) - Und das alles wird nur gemacht, damit die Pharmaunternehmen mehr garantierte Gewinne haben, das ist kein Gesetz für die Menschen!
