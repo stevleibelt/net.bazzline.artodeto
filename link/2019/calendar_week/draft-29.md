@@ -11,3 +11,5 @@
 * [Schönes Beispiel für "Eure IT-Infrastruktur ist kaputt - dann packt sie nicht ins Internet!"](https://blog.fefe.de/?ts=a3d1e8ba)
 * [Das Pentagon hat wohl mit Zecken Versuche gemacht um diese als biologische Waffe zu nutzen.](https://blog.fefe.de/?ts=a3d1fd47)
 * [So, So, Impfpflicht für Masern - aber einen Impfschaden anzuerkennen ist weiterhin schwer.](https://blog.fefe.de/?ts=a3ced123) - Und das alles wird nur gemacht, damit die Pharmaunternehmen mehr garantierte Gewinne haben, das ist kein Gesetz für die Menschen!
+* [Wenn es ein Oligopol gibt, verliert der Kunde - das ist auch bei Flugzeugen so, die so sicher sein sollen.](https://blog.fefe.de/?ts=a3cea873)
+* [Ihr seid Zwangskunde bei Unity-Media? Dann widersprecht bitte schnell den Vertragsdatenaustausch mit Vodafone.](https://www.kuketz-blog.de/unitymedia-kunden-widerspruch-zum-vertragsdatenaustausch-mit-vodafone/) - Ach, ihr wurdet darüber nicht informiert? Das ist so gewollt!
