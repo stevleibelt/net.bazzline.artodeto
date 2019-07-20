@@ -13,3 +13,7 @@
 * [So, So, Impfpflicht für Masern - aber einen Impfschaden anzuerkennen ist weiterhin schwer.](https://blog.fefe.de/?ts=a3ced123) - Und das alles wird nur gemacht, damit die Pharmaunternehmen mehr garantierte Gewinne haben, das ist kein Gesetz für die Menschen!
 * [Wenn es ein Oligopol gibt, verliert der Kunde - das ist auch bei Flugzeugen so, die so sicher sein sollen.](https://blog.fefe.de/?ts=a3cea873)
 * [Ihr seid Zwangskunde bei Unity-Media? Dann widersprecht bitte schnell den Vertragsdatenaustausch mit Vodafone.](https://www.kuketz-blog.de/unitymedia-kunden-widerspruch-zum-vertragsdatenaustausch-mit-vodafone/) - Ach, ihr wurdet darüber nicht informiert? Das ist so gewollt!
+* [Realitätsabgleich IT wird uns retten - die IT verursacht sehr viele Treibhausgase.](https://tuxproject.de/blog/2019/07/fridays-for-instagram-symbolbild/)
+* [OwnCloud wird komplett in GO neu geschrieben.](https://www.pro-linux.de/news/1/27272/owncloud-infinite-scale-vorgestellt.html)
+* [>>Historischer Besiedlungszug 2019<<](https://www.youtube.com/watch?v=lPSRIU52AnI)
+* [Die Arktis brennt :'(.](https://blog.fefe.de/?ts=a3cf61f4)
