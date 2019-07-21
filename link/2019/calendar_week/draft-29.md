@@ -17,3 +17,5 @@
 * [OwnCloud wird komplett in GO neu geschrieben.](https://www.pro-linux.de/news/1/27272/owncloud-infinite-scale-vorgestellt.html)
 * [>>Historischer Besiedlungszug 2019<<](https://www.youtube.com/watch?v=lPSRIU52AnI)
 * [Die Arktis brennt :'(.](https://blog.fefe.de/?ts=a3cf61f4)
+* [Ihr habt einen Garten? Probiert doch mal diese elf Möglichkeiten.](https://www.smarticular.net/biogarten-selbermachen-projekte-naturnahes-gaertnern/)
+* [Slack hat das S von Skype nicht ohne Grund.](https://blog.fefe.de/?ts=a3cd5a48)
