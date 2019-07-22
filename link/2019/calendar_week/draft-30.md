@@ -1,1 +1,2 @@
 * [10 Dinge die jeder System Administrator kennen sollte.](https://opensource.com/article/19/7/resources-sysadmin)
+* [Das Halfbike Team hat Neuigkeiten für euch notgeile Käufer des Halbfike 3's ;-).](https://halfbikes.com/update_20190718) - [Hier](https://www.kickstarter.com/projects/halfbike/halfbike-3-how-to-bridge-the-gap-between-man-machi/posts/2561485) geht es direkt zur Neuigkeit auf kickstarter.com.
