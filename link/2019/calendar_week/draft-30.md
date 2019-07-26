@@ -6,3 +6,5 @@
 * [Eine Studie aus China zeigt, dass durch die stetig steigende Umweltbelastung (Funk, Chemie etc.), wir Lebenwesen immer kaputter werden - Stichwort Krankheiten und Erbschäden.](https://netzfrauen.org/2019/07/25/chemicals/) - Toxische Gesamtsituation hat der Herr Brukr immer geschrieben.
 * [m23 wurde in der Version 19.2 veröffentlicht.](https://www.pro-linux.de/news/1/27287/m23-192-freigegeben.html)
 * [Halfrider!](https://www.youtube.com/watch?v=2KOEU6irrrA)
+* [Nein? Doch! Oh? - Trinkwasser ist gesund und günstig.](https://www.sonnenseite.com/de/tipps/leitungswasser-schont-die-umwelt.html)
+* [SailfishOS wurde in der Version 3.1 veröffentlicht.](https://www.pro-linux.de/news/1/27290/sailfish-os-31-freigegeben.html)
