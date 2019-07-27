@@ -8,3 +8,7 @@
 * [Halfrider!](https://www.youtube.com/watch?v=2KOEU6irrrA)
 * [Nein? Doch! Oh? - Trinkwasser ist gesund und günstig.](https://www.sonnenseite.com/de/tipps/leitungswasser-schont-die-umwelt.html)
 * [SailfishOS wurde in der Version 3.1 veröffentlicht.](https://www.pro-linux.de/news/1/27290/sailfish-os-31-freigegeben.html)
+* [Du kommst von Iran? Dann kommst du bei github nicht mehr rein, weil ... wegen *Seitenraschel* oh, schaut mal, ein Vogel!](https://lwn.net/Articles/794752)
+* [China baut einen RISC-V Prozessor mit 16 Kernen und 2,5 GHz. Schön dass RISC-V so gut funktioniert wie erwartet war.](https://blog.fefe.de/?ts=a3c58397)
+* [Den Staaten in den USA geht es immer schlechter, die müssen sogar schon bei Ransomware den Notstand ausrufen.](https://blog.fefe.de/?ts=a3c58282)
+* [Nein? Doch! Oh? Für 1000 USD kann man schon einen Politiker kaufen damit er Pro-Wahlcomputer ist.](https://blog.fefe.de/?ts=a3c25a62)
