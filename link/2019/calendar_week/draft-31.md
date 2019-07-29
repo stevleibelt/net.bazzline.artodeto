@@ -1,0 +1,4 @@
+* [Permakulturen im eigenen Garten? Hier wird euch gezeigt was ihr beachten müsst.](https://www.smarticular.net/permakultur-prinzipien-garten/)
+* [Zum Soja-wohle Europas wird in Brasilien der Regenwald gerodet und Ureinwohner ermordet.](https://netzfrauen.org/2019/07/29/brazil-3/) - Denkt daran, wenn ihr euer Supermarktfleisch für zwei Euro esst.
+* [Zweieinhalb Meter tief und zehn Meter breit, so soll die Mauer *ähh* der Schutzgraben rund um den Reichstag werden - nur für den Fall falls das Volk der Lämmer mal erwacht.](https://blog.fefe.de/?ts=a3c07d10)
+* [Wie strukturiere ich eigentlich so ein C-Programm was aus mehreren Dateien besteht?](https://opensource.com/article/19/7/structure-multi-file-c-part-1) - Passend dazu, [wie schreibe ich gute C-Main-Funktionen](https://opensource.com/article/19/5/how-write-good-c-main-function).
