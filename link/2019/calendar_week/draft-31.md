@@ -7,3 +7,5 @@
 * [Postgres Operator wurde in der Version 1.2.0 veröffentlicht.](https://www.postgresql.org/about/news/1957/)
 * [13 Blumen, die Bienen helfen zu überleben.](https://www.smarticular.net/bienenfreundliche-pflanzen-garten-beet-ringelblume-sonnenblume/)
 * [KernelShark wurde in der Version 1.0 veröffentlicht.](https://www.pro-linux.de/news/1/27300/kernelshark-10-freigegeben.html)
+* [Blender wurde in der Version 2.8.0 veröffentlicht.](https://www.pro-linux.de/news/1/27305/blender-280-mit-neuer-oberfl%C3%A4che-und-neuen-funktionen.html)
+* [Hier gibt es den Aussatkalendar für den Monat August.](https://www.smarticular.net/aussaatkalender-august-freiland-vorkultur-gemuese-kraeuter-blumen/)
