@@ -9,3 +9,6 @@
 * [KernelShark wurde in der Version 1.0 veröffentlicht.](https://www.pro-linux.de/news/1/27300/kernelshark-10-freigegeben.html)
 * [Blender wurde in der Version 2.8.0 veröffentlicht.](https://www.pro-linux.de/news/1/27305/blender-280-mit-neuer-oberfl%C3%A4che-und-neuen-funktionen.html)
 * [Hier gibt es den Aussatkalendar für den Monat August.](https://www.smarticular.net/aussaatkalender-august-freiland-vorkultur-gemuese-kraeuter-blumen/)
+* [Die magische Hand des freien Marktes - Visa hat ein Sicherheitsproblem mit ihrem komischen NFC-Bezahlen und hat keine Lust das zu beheben.](https://blog.fefe.de/?ts=a3bcc468)
+* [Sind ätherische Öle eventuell die Lösung gegen das selbst gemachte Problem der Antibiotikaresitenz?](https://netzfrauen.org/2019/08/01/antibioticresistance/)
+* [>>Heilpflanze des Monats August 2019: Wald-Bingelkraut<<](https://bio-erzgebirge.de/wp/?p=18874)
