@@ -12,3 +12,8 @@
 * [Die magische Hand des freien Marktes - Visa hat ein Sicherheitsproblem mit ihrem komischen NFC-Bezahlen und hat keine Lust das zu beheben.](https://blog.fefe.de/?ts=a3bcc468)
 * [Sind ätherische Öle eventuell die Lösung gegen das selbst gemachte Problem der Antibiotikaresitenz?](https://netzfrauen.org/2019/08/01/antibioticresistance/)
 * [>>Heilpflanze des Monats August 2019: Wald-Bingelkraut<<](https://bio-erzgebirge.de/wp/?p=18874)
+* [Die FrOSCon findet vom 10.08.2019 bis 11.08.2019 statt.](https://www.pro-linux.de/news/1/27313/froscon-2019-am-10-und-11-august.html)
+* [Barman wurde in der Version 2.9 veröffentlicht.](https://www.postgresql.org/about/news/1959/)
+* [Olla? Der Tontopf der das Bewässern für euch im Garten übernimmt.](https://www.smarticular.net/ollas-selber-bauen-bewaesserungssystem-garten-hochbeet/)
+* [dig +short mx <domain name>.<tld>.](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/HowNotToDoDNSXXIV)
+* [Du willst verreisen, auch innerhalb der EU? Dann gib mal lieber all deine Daten her.](https://www.kuketz-blog.de/kommentar-der-glaeserne-passagier-die-zukunft-des-reisens/)
