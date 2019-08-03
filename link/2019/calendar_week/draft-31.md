@@ -9,3 +9,8 @@
 * [KernelShark wurde in der Version 1.0 veröffentlicht.](https://www.pro-linux.de/news/1/27300/kernelshark-10-freigegeben.html)
 * [Blender wurde in der Version 2.8.0 veröffentlicht.](https://www.pro-linux.de/news/1/27305/blender-280-mit-neuer-oberfl%C3%A4che-und-neuen-funktionen.html)
 * [Hier gibt es den Aussatkalendar für den Monat August.](https://www.smarticular.net/aussaatkalender-august-freiland-vorkultur-gemuese-kraeuter-blumen/)
+* [OpenWRT auf einer Fritzbox 4040.](https://www.kuketz-blog.de/fritzbox-4040-und-netzwerkaufbau-openwrt-teil1/)
+* [Tegut lässt die Plastikverpackung sein und Penny ist der Discounter mit dem meisten Plastikanteil.](https://netzfrauen.org/2019/08/03/plasticfree-5/)
+* [Nutzt flock in euren Shellskripten.](https://utcc.utoronto.ca/~cks/space/blog/linux/LockShellScriptsWithFlock) - Besonders weil es den SHTF-Case abdeckt.
+* [Wine wurde in der Version 4.13 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=Wine-4.13-Released)
+* [Julia Klöckner (Landwirtschaftsministerin der Block-Partei) wird von Nestle und Bayer bezahlt um wegzuschauen.](https://netzfrauen.org/2019/08/03/kloeckner-2/)
