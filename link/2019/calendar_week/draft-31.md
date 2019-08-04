@@ -22,3 +22,5 @@
 * [Olla? Der Tontopf der das Bewässern für euch im Garten übernimmt.](https://www.smarticular.net/ollas-selber-bauen-bewaesserungssystem-garten-hochbeet/)
 * [dig +short mx <domain name>.<tld>.](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/HowNotToDoDNSXXIV)
 * [Du willst verreisen, auch innerhalb der EU? Dann gib mal lieber all deine Daten her.](https://www.kuketz-blog.de/kommentar-der-glaeserne-passagier-die-zukunft-des-reisens/)
+* [Zu viele Pflaumen? Probiert doch mal ein Chutney daraus zu machen.](https://www.smarticular.net/pflaumen-chutney/)
+* [Neusprech in Deutschland, Konzerne werden als Familienunternehmen bezeichnet - Familienunternehmen wie BMW oder Porsche.](https://www.maskenfall.de/?p=13661)
