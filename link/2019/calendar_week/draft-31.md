@@ -24,3 +24,5 @@
 * [Du willst verreisen, auch innerhalb der EU? Dann gib mal lieber all deine Daten her.](https://www.kuketz-blog.de/kommentar-der-glaeserne-passagier-die-zukunft-des-reisens/)
 * [Zu viele Pflaumen? Probiert doch mal ein Chutney daraus zu machen.](https://www.smarticular.net/pflaumen-chutney/)
 * [Neusprech in Deutschland, Konzerne werden als Familienunternehmen bezeichnet - Familienunternehmen wie BMW oder Porsche.](https://www.maskenfall.de/?p=13661)
+* [Die öffentliche Abteilung vom CIA, Hackfressenbuch, proklammiert dass sie führend in der Gedankenlese-Forschung sein.](https://blog.fefe.de/?ts=a3b87c0c) - Ich nehme das mal als Buzzword-Bingo auf, damit die Investoren weiter am Ball bleiben.
+* [Wow, ihr leiht dem Staat für 30 Jahre Geld und müsst, dank Negativzinsen, noch etwas dafür bezahlen - das ist die Zukunft des bargeldlosem Zeitalters.](https://blog.fefe.de/?ts=a3b87ce0)
