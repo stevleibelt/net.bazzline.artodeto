@@ -15,3 +15,9 @@
 * [Alternativlos wurde in der Version 43 veröffentlicht.](https://blog.fefe.de/?ts=a3b4714e)
 * [KDevelop wurde in der Version 5.4 veröffentlicht.](https://www.pro-linux.de/news/1/27328/kdevelop-54-freigegeben.html)
 * [OpenWRT Flash Anleitung auf einer Fritzbox 4040 - Teil 2?](https://www.kuketz-blog.de/flash-openwrt-auf-fritzbox-4040-openwrt-teil2/)
+* [>>Gedanken und Gebete. Das wird dabei helfen, religiösen Zwist zu überwinden: Mehr Religion!<<](https://tuxproject.de/blog/2019/08/saekularismus-wann-anders-4/)
+* [Perconas xtrabackupg wurde in der Version 8.0.7 veröffentlicht.](https://www.percona.com/blog/2019/08/07/percona-xtrabackup-8-0-7-is-now-available/)
+* [Timo Leukefeld möchte bereits 2020 ein Hauskonzept vorstellen, dass mit weniger Technik auskommt.](https://www.sonnenseite.com/de/wirtschaft/warum-enttechnisierung-das-gebot-fuer-guenstiges-wohnen-ist.html) - Weniger Technik bedeutet damit, Wartungsfreier und Energiesparsamer was am Ende zu weniger Kosten führt.
+* [Das Team hinter dem Halfbike verschicken die Bestellungen zum Halfbike 3.](https://www.kickstarter.com/projects/halfbike/halfbike-3-how-to-bridge-the-gap-between-man-machi/posts/2580193)
+* [USB Armory MK II - falls es jemand vergessen hat.](https://inversepath.com/usbarmory.html) - Ende 2019 soll er erscheinen.
+* [LibreOffice wurde in der Version 6.3 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=LibreOffice-6.3-Released)
