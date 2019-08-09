@@ -21,3 +21,8 @@
 * [Das Team hinter dem Halfbike verschicken die Bestellungen zum Halfbike 3.](https://www.kickstarter.com/projects/halfbike/halfbike-3-how-to-bridge-the-gap-between-man-machi/posts/2580193)
 * [USB Armory MK II - falls es jemand vergessen hat.](https://inversepath.com/usbarmory.html) - Ende 2019 soll er erscheinen.
 * [LibreOffice wurde in der Version 6.3 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=LibreOffice-6.3-Released)
+* [Nein? Doch! Oh? Die Bodycams der Polizei bringen dem Volk nichts außer Nachteile.](https://blog.fefe.de/?ts=a3b25266) - Die Videos werden zum Aufbau einer Datenbank genutzt (wer war wann wo), der Polizist zeigt nur das, was er für gut hält, die Ego-Perspektive der Kamera blendet den Zuschauer und versetzt Ihn in die Sicht des Polizisten.
+* [Kubernetes ist zu groß, zu komplex und zu schlecht dokumentiert (und etwaig mit Testfällen abgedeckt) als das man sagen kann wie viele Fehler es hat.](https://blog.fefe.de/?ts=a3b25963)
+* [Was ist Grundgrünung und wie mach ich das in meinem Garten?](https://www.smarticular.net/gruenduengung-herbst-winter-garten-permakultur/)
+* [Die Magie von Mutter Natur, 4500 Jahre altes Hefe funktioniert heute noch.](https://blog.fefe.de/?ts=a3b39ff1)
+* [Die EU zeigt, dass der Profit der Konzerne vor dem Wohl des Volkes geht - Keine Strafzölle für Autos und dafür gibt es Gen-Drecks-Fleisch aus den USA.](https://netzfrauen.org/2019/08/09/fleisch-6/) - Kauft euer Fleisch vom lokalen Fleischer.
