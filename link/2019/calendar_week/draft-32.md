@@ -26,3 +26,4 @@
 * [Was ist Grundgrünung und wie mach ich das in meinem Garten?](https://www.smarticular.net/gruenduengung-herbst-winter-garten-permakultur/)
 * [Die Magie von Mutter Natur, 4500 Jahre altes Hefe funktioniert heute noch.](https://blog.fefe.de/?ts=a3b39ff1)
 * [Die EU zeigt, dass der Profit der Konzerne vor dem Wohl des Volkes geht - Keine Strafzölle für Autos und dafür gibt es Gen-Drecks-Fleisch aus den USA.](https://netzfrauen.org/2019/08/09/fleisch-6/) - Kauft euer Fleisch vom lokalen Fleischer.
+* [Hier gibt es ein Rezept für Schüttelgurken.](https://www.smarticular.net/schuettelgurken-schnellgurken-rezept-ohne-kochen/)
