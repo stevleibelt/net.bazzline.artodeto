@@ -29,3 +29,7 @@
 * [Hier gibt es ein Rezept für Schüttelgurken.](https://www.smarticular.net/schuettelgurken-schnellgurken-rezept-ohne-kochen/)
 * [>>Gesalzene Konfiguration (froscon2019)<<](https://cdn.media.ccc.de/events/froscon/2019/h264-hd/froscon2019-2444-deu-Gesalzene_Konfiguration_hd.mp4)
 * [>>Hexagonale Architektur in Microservices (froscon2019)<<](https://cdn.media.ccc.de/events/froscon/2019/h264-hd/froscon2019-2411-deu-Hexagonale_Architektur_in_Microservices_hd.mp4)
+* [>>Neues in Open-Source-SQL-Datenbanken (froscon2019)<<](https://cdn.media.ccc.de/events/froscon/2019/h264-hd/froscon2019-2433-deu-Neues_in_Open-Source-SQL-Datenbanken_hd.mp4)
+* [>>Matrix (froscon2019)<<](https://cdn.media.ccc.de/events/froscon/2019/h264-hd/froscon2019-2330-deu-Matrix_hd.mp4)
+* [>> Wir bauen uns einen (Wireless) ISP (froscon2019)<<](https://cdn.media.ccc.de/events/froscon/2019/h264-hd/froscon2019-2469-deu-Wir_bauen_uns_einen_Wireless_ISP_hd.mp4)
+* [>>Proxmox VE mit Ceph & ZFS (froscon2019)<<](https://cdn.media.ccc.de/events/froscon/2019/h264-hd/froscon2019-2438-deu-Proxmox_VE_mit_Ceph_ZFS_hd.mp4)
