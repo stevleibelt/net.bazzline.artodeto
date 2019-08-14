@@ -12,3 +12,12 @@
 * [ibug](http://www.ibug-art.de/)
 * [Kinder, passt auf wenn ihr in die Tech-Branche geht.](https://ma.ttias.be/time-for-change-going-independent/)
 * [Woher kommen eigentlich diese Blaualgen? Von der gestiegenen Durchschnittstemperatur und der Vergiftung oder Überdüngung unseres Bodens (Stichwort Schweinemast und weiteres.)](https://www.sonnenseite.com/de/umwelt/wieder-blaualgen-alarm-schon-mindestens-32-badeverbote.html)
+* [Automatische Erkennung von Kriminellen via Webcam? Tolle Idee, die ACLU hat das mal probiert und die Software hat 20 Prozent der Politiker als Kriminelle erkannt.](https://blog.fefe.de/?ts=a3ac0247) - Da muss die Software noch etwas optimiert werden.
+* [Wohin führt uns KI in der Polizei? False-Positivs und eine Ausrede für abgefuckte Polizisten dich richtig gemein zu untersuchen.](https://blog.fefe.de/?ts=a3adb3f2) - Wie Fefe aber anmerkt, müssen die Polizisten in den USA Quoten erfüllen. Du nimmst nicht genug Leute fest? Dann fliegst du!
+* [Realitätsabgleich HTTP/2 - Danke FeFe, du kannst es besser zusammenfassen als ich.](https://blog.fefe.de/?ts=a3adeb1a)
+* [>>Die unglaubliche Wahrheit über unser Gesundheitssystem - Ein Arzt spricht Klartext<<](https://www.welt-im-wandel.tv/video/die-unglaubliche-wahrheit-ueber-unser-gesundheitssystem-ein-arzt-spricht-klartext/) - Fünf Minuten Realitätsabgleich.
+* [#FreeAssange - Schade, dass es keine neutrale Berichterstattung gibt.](https://weltnetz.tv/video/2041-wir-brechen-das-schweigen-freeassange)
+* [Schönes Ding, ja, wir können und sollten die Tech-Industrie regulieren.](https://opensource.com/article/19/8/4-misconceptions-ethics-and-bias-ai)
+* [Die Bevölkerung der Bundesrepublik Deutschland so "Wir wollen den Hambacher Wald retten", der Konzern in Staatshand RWE so "könnt ihr, wir rauben dem Wald derweil die Lebensgrundlage".](https://www.sonnenseite.com/de/wirtschaft/greenpeace-studie-rwes-braunkohletagebau-trocknet-hambacher-wald-aus.html) - Summt beim Lesen des Artikels einfach das Lied "Mehr" von "Rammstein" mit.
+* [Oha, da hat mal einer genauer auf Microsoft Windows interne Dinge geschaut.](https://blog.fefe.de/?ts=a3ad319b)
+* [Komisch, der Inselstaat Vanuatu überlebt trotz Plastikverbot - er lebt sogar besser.](https://netzfrauen.org/2019/08/14/vanuatu-3/)
