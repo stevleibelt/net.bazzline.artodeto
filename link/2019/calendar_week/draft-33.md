@@ -21,3 +21,7 @@
 * [Die Bevölkerung der Bundesrepublik Deutschland so "Wir wollen den Hambacher Wald retten", der Konzern in Staatshand RWE so "könnt ihr, wir rauben dem Wald derweil die Lebensgrundlage".](https://www.sonnenseite.com/de/wirtschaft/greenpeace-studie-rwes-braunkohletagebau-trocknet-hambacher-wald-aus.html) - Summt beim Lesen des Artikels einfach das Lied "Mehr" von "Rammstein" mit.
 * [Oha, da hat mal einer genauer auf Microsoft Windows interne Dinge geschaut.](https://blog.fefe.de/?ts=a3ad319b)
 * [Komisch, der Inselstaat Vanuatu überlebt trotz Plastikverbot - er lebt sogar besser.](https://netzfrauen.org/2019/08/14/vanuatu-3/)
+* [Ein Antivirus-Programm kann keinen aktuellen Hash-Standard (Aktuell im Sinne von gibt es seit 2002)? Dann blockiert es mal lieber alle Windows Updates.](https://blog.fefe.de/?ts=a3aa5e9c)
+* [ProxySQL Cluster, Core und Satellites kurz erklärt.](https://www.percona.com/blog/2019/08/14/how-to-manage-proxysql-cluster-with-core-and-satellite-nodes/)
+* [Nein? Doch! Oh? - Nachdem das nuklear versuechte Wasser schon jetzt illegal in den Ozean "sozialisiert" wird, denkt man nun über offizielle Genehmigungen nach.](https://netzfrauen.org/2019/08/14/fukushima-5/)
+* [>>A MINIMUM COMPLETE TUTORIAL OF CPU POWER MANAGEMENT, C-STATES AND P-STATES<<](https://metebalci.com/blog/a-minimum-complete-tutorial-of-cpu-power-management-c-states-and-p-states/)
