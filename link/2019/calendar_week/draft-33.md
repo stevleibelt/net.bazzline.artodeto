@@ -25,3 +25,10 @@
 * [ProxySQL Cluster, Core und Satellites kurz erklärt.](https://www.percona.com/blog/2019/08/14/how-to-manage-proxysql-cluster-with-core-and-satellite-nodes/)
 * [Nein? Doch! Oh? - Nachdem das nuklear versuechte Wasser schon jetzt illegal in den Ozean "sozialisiert" wird, denkt man nun über offizielle Genehmigungen nach.](https://netzfrauen.org/2019/08/14/fukushima-5/)
 * [>>A MINIMUM COMPLETE TUTORIAL OF CPU POWER MANAGEMENT, C-STATES AND P-STATES<<](https://metebalci.com/blog/a-minimum-complete-tutorial-of-cpu-power-management-c-states-and-p-states/)
+* [Wie schreibt man eigentlich eine leichtgewichtige Trigger Funktion in C für PostgreSQL?](https://www.percona.com/blog/2019/08/15/faster-lightweight-trigger-function-in-c-for-postgresql/)
+* [Kaspersky musste kurz beschleunigen um Symantec die Deppenkrone abzunehmen - die schnüffeln all eure aufgerufenen URLS ab und schicken sie zu sich.](https://blog.fefe.de/?ts=a3ab4553)
+* [Bedauerlicher Einzelfall, 23 Gigabyte and Biometriedaten sind gemeinnützig geworden.](https://blog.fefe.de/?ts=a3ab47b6)
+* [Nein? Doch! Oh? Der Golfstrom stirbt eher als berechnet.](https://blog.fefe.de/?ts=a3ab4a94) - So ist das wenn man bis auf Kante plant.
+* [General Electric hat seine Bücher so optimiert, dass jemand einen 175 Seiten starken Bericht an das Finanzamt whistlblowed.](https://blog.fefe.de/?ts=a3ab5177)
+* [Percona MySQL Server wurde in der Version 8.0.16-7 veröffentlicht.](https://www.percona.com/blog/2019/08/15/percona-server-for-mysql-8-0-16-7-is-now-available/)
+* [Wow, Realitätsabgleich "Weichspühler"-Welt für mich, mehr Plastik, weniger Inhalt, höhere Kaufkosten - Verbrauche sind manchmal halt echt nur Schafe.](https://netzfrauen.org/2019/08/15/weichspueler/) - Und Konzerne skrupellos.
