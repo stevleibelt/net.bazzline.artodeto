@@ -34,3 +34,7 @@
 * [Wow, Realitätsabgleich "Weichspühler"-Welt für mich, mehr Plastik, weniger Inhalt, höhere Kaufkosten - Verbrauche sind manchmal halt echt nur Schafe.](https://netzfrauen.org/2019/08/15/weichspueler/) - Und Konzerne skrupellos.
 * [Das Kerngehäuse vom Apfel kann man mitessen.](https://www.smarticular.net/apfelkerne-kerngehaeuse-mitessen-verwerten-gesund/)
 * [VoIP ist sicher und einfach? Ihr kennt die Antwort, natürlich nicht.](https://blog.fefe.de/?ts=a3a814a7)
+* [Knoppix wurde in der Version 8.6 veröffentlicht.](http://www.phoronix.com/scan.php?page=news_item&px=Knoppix-8.6-Released)
+* [Cleanbrowsing DNS und dnsmasq?](https://odoepner.wordpress.com/2019/08/17/cleanbrowsing-dnsmasq/)
+* [Google zensiert immer mehr und öffentlicher. Ihr schreibt etwas schlechtes über google? Dann wird eure Webseite bei google einfach entfernt.](https://tuxproject.de/blog/2019/08/google-erklaert-dem-freien-web-den-krieg/) - Zensur ist ******.
+* [18 Atomkraftwerke werden wohl in der EU ohne Genehmigung betrieben.](https://blog.fefe.de/?ts=a3a91854) - Dass die Betreiber noch auf freiem Fuß sind.
