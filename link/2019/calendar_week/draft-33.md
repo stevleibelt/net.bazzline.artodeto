@@ -38,3 +38,5 @@
 * [Cleanbrowsing DNS und dnsmasq?](https://odoepner.wordpress.com/2019/08/17/cleanbrowsing-dnsmasq/)
 * [Google zensiert immer mehr und öffentlicher. Ihr schreibt etwas schlechtes über google? Dann wird eure Webseite bei google einfach entfernt.](https://tuxproject.de/blog/2019/08/google-erklaert-dem-freien-web-den-krieg/) - Zensur ist ******.
 * [18 Atomkraftwerke werden wohl in der EU ohne Genehmigung betrieben.](https://blog.fefe.de/?ts=a3a91854) - Dass die Betreiber noch auf freiem Fuß sind.
+* [Statt zu erkennen, dass Metropolen ein Irrweg sind, wird nun mit Robotoer und Nährstoffnebel in den Metropolen versucht alles mögliche Anzubauen.](https://netzfrauen.org/2019/08/18/farming/)
+* [Git wurde in der Version 2.23.0 veröffentlicht.](https://lwn.net/Articles/796563/rss)
