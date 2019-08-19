@@ -32,3 +32,4 @@
 * [General Electric hat seine Bücher so optimiert, dass jemand einen 175 Seiten starken Bericht an das Finanzamt whistlblowed.](https://blog.fefe.de/?ts=a3ab5177)
 * [Percona MySQL Server wurde in der Version 8.0.16-7 veröffentlicht.](https://www.percona.com/blog/2019/08/15/percona-server-for-mysql-8-0-16-7-is-now-available/)
 * [Wow, Realitätsabgleich "Weichspühler"-Welt für mich, mehr Plastik, weniger Inhalt, höhere Kaufkosten - Verbrauche sind manchmal halt echt nur Schafe.](https://netzfrauen.org/2019/08/15/weichspueler/) - Und Konzerne skrupellos.
+* [Nextcloud wurde in den Versionen 16.0.4, 15.0.11 und 14.0.14 veröffentlicht.](https://nextcloud.com/blog/nextcloud-16.0.4-15.0.11-14.0.14-are-here/)
