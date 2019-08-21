@@ -6,3 +6,7 @@
 * [Das Konzept "nicht warten (das kostet Geld)", "lieber neu bauen lassen" ist in der Deutschen Bahn so tief verwurzelt, dass Berlin bald einen neuen Bahnhof bekommen wird.](https://blog.fefe.de/?ts=a3a58ccf) - Schade, denn für den Steuerzahler ist das nur ein nutzloser Trick um Gewinne zu privatisieren um Verluste zu sozialisieren.
 * [Island verliert seinen ersten großen Gletscher.](https://www.sonnenseite.com/de/umwelt/island-verliert-seinen-ersten-gletscher-weggeschmolzen.html)
 * [Nein? Doch! Oh? Technik mag eine höhere Temperatur auch nicht - Solarzellen zum Beispiel produzieren weniger Strom.](https://www.sonnenseite.com/de/umwelt/island-verliert-seinen-ersten-gletscher-weggeschmolzen.html)
+* [Cisco ist so kaputt, wow :-(.](https://blog.fefe.de/?ts=a3a2f072)
+* [3D Drucker, gibt es da auch etwas als open source? Ja!](https://opensource.com/article/19/8/3D-printers)
+* [Warsow ist jetzt wohl Warfork.](https://www.pro-linux.de/news/1/27362/warfork-fork-von-warsow-erreicht-steam.html)
+* [Scheinbar zahlt das deutsche Volk den USA 480 Millionen dafür, dass sie via Rammstein den Tod bringen.](https://blog.fefe.de/?ts=a3a384b4)
