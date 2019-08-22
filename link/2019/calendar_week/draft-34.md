@@ -10,3 +10,5 @@
 * [3D Drucker, gibt es da auch etwas als open source? Ja!](https://opensource.com/article/19/8/3D-printers)
 * [Warsow ist jetzt wohl Warfork.](https://www.pro-linux.de/news/1/27362/warfork-fork-von-warsow-erreicht-steam.html)
 * [Scheinbar zahlt das deutsche Volk den USA 480 Millionen dafür, dass sie via Rammstein den Tod bringen.](https://blog.fefe.de/?ts=a3a384b4)
+* [Mastercard hat erneut eure Daten verloren.](https://blog.fefe.de/?ts=a3a3bcb2) - Macht ja nix, der Kunde ist ja haftbar, nicht Mastercard.
+* [Realitätsabgleich, vom Gift auf das Pflanzenblatt zum Gift im menschlichen Körper.](https://netzfrauen.org/2019/08/22/chemicals-2/) - Heute am Beispiel wie Glyphosate von der Baumwollpflanze durch die Binde in den weiblichen Körper kommen.
