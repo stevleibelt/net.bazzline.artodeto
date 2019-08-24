@@ -13,3 +13,7 @@
 * [Mastercard hat erneut eure Daten verloren.](https://blog.fefe.de/?ts=a3a3bcb2) - Macht ja nix, der Kunde ist ja haftbar, nicht Mastercard.
 * [Realitätsabgleich, vom Gift auf das Pflanzenblatt zum Gift im menschlichen Körper.](https://netzfrauen.org/2019/08/22/chemicals-2/) - Heute am Beispiel wie Glyphosate von der Baumwollpflanze durch die Binde in den weiblichen Körper kommen.
 * [Interessanter Gedankengang von FeFe, ist der fehlende Paketmanager ein Vorteil von C und C++?](https://blog.fefe.de/?ts=a3a07c2e)
+* [>>Über die Nachhaltigkeit von Software (camp2019)<<](https://cdn.media.ccc.de/events/camp2019/h264-hd/thms-49-deu-Ueber_die_Nachhaltigkeit_von_Software_hd.mp4)
+* [Wie baut man eigentlich einen Linux Kernel?](https://opensource.com/article/19/8/linux-kernel-21st-century)
+* [Backpapier statt Alufolie und noch mehr Tipps gibt es hier.](https://www.smarticular.net/alufolie-ersetzen-alternativen/)
+* [Wine wurde in der Version 4.0.2 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=Wine-4.0.2-Released)
