@@ -17,3 +17,5 @@
 * [Wie baut man eigentlich einen Linux Kernel?](https://opensource.com/article/19/8/linux-kernel-21st-century)
 * [Backpapier statt Alufolie und noch mehr Tipps gibt es hier.](https://www.smarticular.net/alufolie-ersetzen-alternativen/)
 * [Wine wurde in der Version 4.0.2 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=Wine-4.0.2-Released)
+* [Blumenkohlblätter? Ja, damit kann man auch kochen.](https://www.smarticular.net/blumenkohlblaetter-verwerten-rezepte/)
+* [WTF? NPM zeigt jetzt Werbung an.](https://blog.fefe.de/?ts=a39f7075)
