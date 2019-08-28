@@ -7,3 +7,6 @@
 * [Realitätsabgleich, die Lunge unserer Welt brennt - für den Profit.](https://netzfrauen.org/2019/08/27/rainforrest/)
 * [PgBouncer wurde in der Version 1.11.0 veröffentlicht.](https://www.postgresql.org/about/news/1965/)
 * [Führen oder geführt werden - Tipps wie ihr es gut macht.](https://opensource.com/open-organization/19/8/tips-cross-functional-teams)
+* [Ein Bürgermeister in Frankreich verbietet Glyphosat - das mögen die Konzerne nicht und haben dafür ein paar Gesetze in der EU installiert - nun sitzt der Bürgermeister vor Gericht.](https://netzfrauen.org/2019/08/28/france/)
+* [PgPartman wurde in der Version 4.2.0 veröffentlicht.](https://www.postgresql.org/about/news/1964/)
+* [Die Oldenburgische Landesbank (als erster Vorreiter) zeigt wie gefährlich das Spiel mit dem weltweiten und digitalem Geld so ist.](https://blog.fefe.de/?ts=a39b54c8)
