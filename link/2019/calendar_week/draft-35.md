@@ -10,3 +10,8 @@
 * [Ein Bürgermeister in Frankreich verbietet Glyphosat - das mögen die Konzerne nicht und haben dafür ein paar Gesetze in der EU installiert - nun sitzt der Bürgermeister vor Gericht.](https://netzfrauen.org/2019/08/28/france/)
 * [PgPartman wurde in der Version 4.2.0 veröffentlicht.](https://www.postgresql.org/about/news/1964/)
 * [Die Oldenburgische Landesbank (als erster Vorreiter) zeigt wie gefährlich das Spiel mit dem weltweiten und digitalem Geld so ist.](https://blog.fefe.de/?ts=a39b54c8)
+* [Roundcube wurde in der Version 1.3.10 veröffentlicht.](https://roundcube.net/news/2019/08/28/update-1.3.10-released)
+* [Es stehen Wahlen an, also wird eine Woche noch das Geld der Enkelkinder verpulvert und der Industrie ohne Auflagen geschenkt - "Kohleausstieg ohne Auflagen".](https://www.sonnenseite.com/de/politik/regierung-verabschiedet-strukturstaerkungsgesetz.html)
+* [Squally ist ein Spiel mit dem man lernen kann wie der Assembler funktioniert.](https://www.pro-linux.de/news/1/27387/assember-lernspiel-squally-im-quellcode-freigegeben.html)
+* [Thunderbird wurde in der Version 68 veröffentlicht.](https://www.pro-linux.de/news/1/27386/thunderbird-68-ver%C3%B6ffentlicht.html)
+* [Sächsicher Brauerbund](https://www.brauerbund-sachsen.de)
