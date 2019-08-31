@@ -21,3 +21,6 @@
 * [Genode wurde in der Version 19.08 veröffentlicht.](https://www.pro-linux.de/news/1/27394/genode-1908-mit-verbesserter-anwendbarkeit.html)
 * [Realitätsabgleich Gesamtkosten KFZ und wie viel das Volk drauf zahlt während Automobil- und Kraftstoffproduzenten Gewinne abschöpfen.](https://www.sonnenseite.com/de/mobilitaet/verkehr-produziert-gigantische-folgekosten.html)
 * [CUPS wurde in der Version 2.3 veröffentlicht.](http://www.phoronix.com/scan.php?page=news_item&px=CUPS-2.3-Released)
+* [Nacktscanner funktionieren super? Nur wenn ihr der Ideal-Standard-0815-Type seit.](https://blog.fefe.de/?ts=a397bfb4)
+* [Indien verbietet ab dem 02.10.2019 sechs Wegwerf-Plastik-Artikel.](https://netzfrauen.org/2019/08/31/india-6/)
+* [Googles Webbrowser ist auch nur eine Wanze und vieles mehr.](http://n-gate.com/hackernews/2019/08/30/0/)
