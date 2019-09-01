@@ -24,3 +24,5 @@
 * [Nacktscanner funktionieren super? Nur wenn ihr der Ideal-Standard-0815-Type seit.](https://blog.fefe.de/?ts=a397bfb4)
 * [Indien verbietet ab dem 02.10.2019 sechs Wegwerf-Plastik-Artikel.](https://netzfrauen.org/2019/08/31/india-6/)
 * [Googles Webbrowser ist auch nur eine Wanze und vieles mehr.](http://n-gate.com/hackernews/2019/08/30/0/)
+* [Nein? Doch! Oh? - Die Permafrostböden tauen schneller auf als gedacht.](https://netzfrauen.org/2019/09/01/permafrost/)
+* [Hier gibt es den Aussaatkalender für September.](https://www.smarticular.net/aussaatkalender-september-freiland-vorkultur-gemuese-kraeuter-blumen/)
