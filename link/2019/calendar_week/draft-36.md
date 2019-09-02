@@ -1,0 +1,4 @@
+* [Was passiert eigentlich wenn ein Politiker seine Steuern nicht zahlt? Dank der deutschen Umwelthilfe prüft das EuGH das mal.](https://blog.fefe.de/?ts=a393c237)
+* [Kodi wurde in der Version 18.4 veröffentlicht.](http://www.phoronix.com/scan.php?page=news_item&px=Kodi-18.4-Released)
+* [Gift auf Raten oder was Zusatzstoffe wirklich sind.](https://netzfrauen.org/2019/09/02/zuatzstoffe-2-2/)
+* [Proxmox Mail Gateway wurde in der Version 6 veröffentlicht.](https://www.pro-linux.de/news/1/27396/proxmox-mail-gateway-60-freigegeben.html)
