@@ -2,3 +2,5 @@
 * [Kodi wurde in der Version 18.4 veröffentlicht.](http://www.phoronix.com/scan.php?page=news_item&px=Kodi-18.4-Released)
 * [Gift auf Raten oder was Zusatzstoffe wirklich sind.](https://netzfrauen.org/2019/09/02/zuatzstoffe-2-2/)
 * [Proxmox Mail Gateway wurde in der Version 6 veröffentlicht.](https://www.pro-linux.de/news/1/27396/proxmox-mail-gateway-60-freigegeben.html)
+* [Das kommt raus, wenn die FDP versucht zu denken, Bitcoin-Währung für das CO2-Problem.](https://blog.fefe.de/?ts=a39084fc)
+* [Wie zu erwarten war, will die ZITIS nun überall auch offiziell rumschnucheln dürfen, weil wegen ... na den Gefährdern.](https://blog.fefe.de/?ts=a3934a89)
