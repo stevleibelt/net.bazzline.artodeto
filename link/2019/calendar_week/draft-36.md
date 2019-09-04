@@ -4,3 +4,6 @@
 * [Proxmox Mail Gateway wurde in der Version 6 veröffentlicht.](https://www.pro-linux.de/news/1/27396/proxmox-mail-gateway-60-freigegeben.html)
 * [Das kommt raus, wenn die FDP versucht zu denken, Bitcoin-Währung für das CO2-Problem.](https://blog.fefe.de/?ts=a39084fc)
 * [Wie zu erwarten war, will die ZITIS nun überall auch offiziell rumschnucheln dürfen, weil wegen ... na den Gefährdern.](https://blog.fefe.de/?ts=a3934a89)
+* [Sogar die Bundeswehr hat, in Teilen, erkannt, dass offensives Hacken einfach eine schlechte Idee ist - das ist dann wie im wilden Westen.](https://blog.fefe.de/?ts=a390595c)
+* [Android wurde in der Version 10 veröffentlicht.](https://www.pro-linux.de/news/1/27405/android-10-erschienen.html)
+* [Teil 8 von "Android das Datenschwatzen abgewöhnen."](https://www.kuketz-blog.de/android-systemeinstellungen-google-fallstricke-take-back-control-teil8/)
