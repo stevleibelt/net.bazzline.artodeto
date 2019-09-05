@@ -7,3 +7,6 @@
 * [Sogar die Bundeswehr hat, in Teilen, erkannt, dass offensives Hacken einfach eine schlechte Idee ist - das ist dann wie im wilden Westen.](https://blog.fefe.de/?ts=a390595c)
 * [Android wurde in der Version 10 veröffentlicht.](https://www.pro-linux.de/news/1/27405/android-10-erschienen.html)
 * [Teil 8 von "Android das Datenschwatzen abgewöhnen."](https://www.kuketz-blog.de/android-systemeinstellungen-google-fallstricke-take-back-control-teil8/)
+* [Landtagswahlen 2019 in Sachsen hatte eine Wahlbeteiligung von über 66 Prozent.](https://wahlen.sachsen.de/LW_19.php)
+* [Jenkins, CD/CI, Pipelines? Hier kriegt ihr eine kurze Einführung.](https://opensource.com/article/19/9/intro-building-cicd-pipelines-jenkins)
+* [Tails wurde in der Version 3.16 veröffentlicht.](https://www.pro-linux.de/news/1/27409/tails-316-ver%C3%B6ffentlicht.html)
