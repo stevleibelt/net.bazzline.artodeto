@@ -10,3 +10,5 @@
 * [Landtagswahlen 2019 in Sachsen hatte eine Wahlbeteiligung von über 66 Prozent.](https://wahlen.sachsen.de/LW_19.php)
 * [Jenkins, CD/CI, Pipelines? Hier kriegt ihr eine kurze Einführung.](https://opensource.com/article/19/9/intro-building-cicd-pipelines-jenkins)
 * [Tails wurde in der Version 3.16 veröffentlicht.](https://www.pro-linux.de/news/1/27409/tails-316-ver%C3%B6ffentlicht.html)
+* [Hackfressenbuch hat mehr als 400 Millionen Datenbankeinträgen der Gemeinheit übergeben.](https://blog.fefe.de/?ts=a38e35fa)
+* [Richtig gute Idee, Zensur wird durch KI automatisiert.](https://blog.fefe.de/?ts=a38fb2dc)
