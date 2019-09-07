@@ -12,3 +12,8 @@
 * [Tails wurde in der Version 3.16 veröffentlicht.](https://www.pro-linux.de/news/1/27409/tails-316-ver%C3%B6ffentlicht.html)
 * [Hackfressenbuch hat mehr als 400 Millionen Datenbankeinträgen der Gemeinheit übergeben.](https://blog.fefe.de/?ts=a38e35fa)
 * [Richtig gute Idee, Zensur wird durch KI automatisiert.](https://blog.fefe.de/?ts=a38fb2dc)
+* [EXIM ist kaputt.](https://blog.fefe.de/?ts=a38c1a3e)
+* [Zero Waste trifft kostet nix.](https://www.smarticular.net/zero-waste-produkte-lifestyle-preiswerte-alternativen/)
+* [>>Einladung: Wir sind Welterbe Freiberg<<](https://www.youtube.com/watch?v=dK3CWbibFoM)
+* [>>Landtagswahl 2019<<](https://www.youtube.com/watch?v=KMtSfHwcD0I)
+* [>>65 Jahre Wohnungsgenossenschaft Freiberg eG<<](https://www.youtube.com/watch?v=1TcqB-yz_R8)
