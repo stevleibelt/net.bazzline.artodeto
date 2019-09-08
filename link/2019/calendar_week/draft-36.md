@@ -14,6 +14,10 @@
 * [Richtig gute Idee, Zensur wird durch KI automatisiert.](https://blog.fefe.de/?ts=a38fb2dc)
 * [EXIM ist kaputt.](https://blog.fefe.de/?ts=a38c1a3e)
 * [Zero Waste trifft kostet nix.](https://www.smarticular.net/zero-waste-produkte-lifestyle-preiswerte-alternativen/)
-* [>>Einladung: Wir sind Welterbe Freiberg<<](https://www.youtube.com/watch?v=dK3CWbibFoM)
+* [>>Einladung: Wir sind Welterbe Freiberg<<](https://www.youtube.com/watch?v=dK3CWbibFoM) - Am 14.09.2019, um 15:00 Uhr auf dem Obermarkt in Freiberg.
 * [>>Landtagswahl 2019<<](https://www.youtube.com/watch?v=KMtSfHwcD0I)
 * [>>65 Jahre Wohnungsgenossenschaft Freiberg eG<<](https://www.youtube.com/watch?v=1TcqB-yz_R8)
+* [Debian wurde in der Version 10.1 veröffentlicht.](http://www.phoronix.com/scan.php?page=news_item&px=Debian-10.1-Released)
+* [Dachziegeln als Bohlen für das Gewächshaus.](http://www.neulichimgarten.de/blog/gemueseanbau/so-habe-ich-mein-gewaechshaus-enorm-verbessert/)
+* [Die US-Amerikanerinnen heiraten nicht aus liebe, dem öffentlichen TV laufen nun auch offiziell die Jugendlichen weg und noch viel mehr gibt es hier.](https://tuxproject.de/blog/2019/09/liegengebliebenes-vom-7-september-2019-brutal-frauenfeindlicher-kontostand/)
+* [Lutris wurde in der Version 0.5.3 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=Lutris-0.5.3-Released)
