@@ -10,3 +10,4 @@
 * [Nein? Doch! Oh? Die DDR war am Ende gar nicht pleite.](https://blog.fefe.de/?ts=a3861974)
 * [Hier wird euch gezeigt, wir ihr ein Halfbike 3 zusammenbaut.](https://www.youtube.com/watch?v=Aa8eDxqhYSE)
 * [Hier wird euch erklärt, wie ihr eure Gangschaltung vom Halfbike 3 einstellt.](https://halfbikes.com/gear_hub_adjustment)
+* [Realitätsabgleich E-Scooter - die Dinger halten wohl im Durchschnitt 30 Tage.](https://halfbikes.com/community/chat/1471)
