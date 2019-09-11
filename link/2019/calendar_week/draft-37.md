@@ -8,3 +8,5 @@
 * [Hier die 10 wichtigsten Ansible Module.](https://opensource.com/article/19/9/must-know-ansible-modules)
 * [Realitätsabgleich Verbrauch der Welt vom Menschen.](https://netzfrauen.org/2019/09/11/earth/)
 * [Nein? Doch! Oh? Die DDR war am Ende gar nicht pleite.](https://blog.fefe.de/?ts=a3861974)
+* [Hier wird euch gezeigt, wir ihr ein Halfbike 3 zusammenbaut.](https://www.youtube.com/watch?v=Aa8eDxqhYSE)
+* [Hier wird euch erklärt, wie ihr eure Gangschaltung vom Halfbike 3 einstellt.](https://halfbikes.com/gear_hub_adjustment)
