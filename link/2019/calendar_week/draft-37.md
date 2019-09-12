@@ -11,3 +11,6 @@
 * [Hier wird euch gezeigt, wir ihr ein Halfbike 3 zusammenbaut.](https://www.youtube.com/watch?v=Aa8eDxqhYSE)
 * [Hier wird euch erklärt, wie ihr eure Gangschaltung vom Halfbike 3 einstellt.](https://halfbikes.com/gear_hub_adjustment)
 * [Realitätsabgleich E-Scooter - die Dinger halten wohl im Durchschnitt 30 Tage.](https://halfbikes.com/community/chat/1471)
+* [Nein? Doch! Oh? Wenn Canabis legalisiert wird, verkauft Mc-Donalds mehr Burger und es wird weniger getrunken.](https://blog.fefe.de/?ts=a387d162) - Klingt auf einmal wie "genau passend für die amerikanische Wirtschaft".
+* [Richtig gute Idee, die Gehaltszahlungen von einem "Cloud-Dienst" machen zu lassen.](https://blog.fefe.de/?ts=a3878393) - Wenn es nicht das eigene Geld ist, ist es ja nicht schlimm wenn es mal nicht kommt.
+* [Noch einmal Realitätsabgleich DDR und ihre Finanzen.](https://blog.fefe.de/?ts=a3878991) - Im Grunde wie heute, wir mögen dich als Staat nicht oder wollen deine Ressources (Venezuela), also führen wir Wirtschaftskrieg auf unehrliche Art und Weise.
