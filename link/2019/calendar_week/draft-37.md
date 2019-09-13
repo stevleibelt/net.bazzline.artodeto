@@ -14,3 +14,9 @@
 * [Nein? Doch! Oh? Wenn Canabis legalisiert wird, verkauft Mc-Donalds mehr Burger und es wird weniger getrunken.](https://blog.fefe.de/?ts=a387d162) - Klingt auf einmal wie "genau passend für die amerikanische Wirtschaft".
 * [Richtig gute Idee, die Gehaltszahlungen von einem "Cloud-Dienst" machen zu lassen.](https://blog.fefe.de/?ts=a3878393) - Wenn es nicht das eigene Geld ist, ist es ja nicht schlimm wenn es mal nicht kommt.
 * [Noch einmal Realitätsabgleich DDR und ihre Finanzen.](https://blog.fefe.de/?ts=a3878991) - Im Grunde wie heute, wir mögen dich als Staat nicht oder wollen deine Ressources (Venezuela), also führen wir Wirtschaftskrieg auf unehrliche Art und Weise.
+* [Finntroll, Haggard, Varg und das alles im Tivoli der großen Kreis, Universitäts-, Berbau- und Silberstadt Freiberg - Save the date, 12.10.2019.](http://www.rock-um-zu-helfen.de/)
+* [Realitätsabgleich PSD2 - Sicher ist da nichts, Kosten und Risiko werden auf den Kunden abgewälzt.](https://www.kuketz-blog.de/psd2-kurz-vor-einfuehrung-wir-werden-zu-fischfutter/) - Kurzum, bei mir führt dieses vorgehen einfach zu weniger Onlinebanking und damit zu weniger Online im Allgemeinen.
+* [Nein? Doch! Oh? Gentechnisch veränderte Mücke breitet sich in Brasilien aus.](https://blog.fefe.de/?ts=a38497f1)
+* [Intel hat es so hart verkackt mit ihren kaputten CPU's, dass sie jetzt Werbung auf allen großen Bild-Tech-Seiten schalten mit dem Versprechen "jetzt ist alles besser, also Skriptkiddies haben es jetzt etwas schwerer, also *ähm*, kauft doch bitte einfach."](https://blog.fefe.de/?ts=a385ae19)
+* [Werner Helfen ist tot.](https://www.youtube.com/watch?v=dN814_XxJhY)
+* [Meet wurde in der Version 1.0 veröffentlicht.](https://www.pro-linux.de/news/1/27436/videokonferenzprogramm-meet-erreicht-version-10.html)
