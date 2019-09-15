@@ -20,3 +20,7 @@
 * [Intel hat es so hart verkackt mit ihren kaputten CPU's, dass sie jetzt Werbung auf allen großen Bild-Tech-Seiten schalten mit dem Versprechen "jetzt ist alles besser, also Skriptkiddies haben es jetzt etwas schwerer, also *ähm*, kauft doch bitte einfach."](https://blog.fefe.de/?ts=a385ae19)
 * [Werner Helfen ist tot.](https://www.youtube.com/watch?v=dN814_XxJhY)
 * [Meet wurde in der Version 1.0 veröffentlicht.](https://www.pro-linux.de/news/1/27436/videokonferenzprogramm-meet-erreicht-version-10.html)
+* [Proton wurde in der Version 4.11 veröffentlicht.](http://www.phoronix.com/scan.php?page=news_item&px=Valve-Proton-4.11-4)
+* [Privatsphäre? Auch für Kinder.](https://tuxproject.de/blog/2019/09/kurz-verlinkt-kinder-haben-ein-recht-auf-privatsphaere/)
+* [Slax wurde in der Version 9.11 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=Slax-9.11-Released)
+* [Realitätsabgleich Elektroauto.](https://weltnetz.tv/video/2072-mit-dem-elektroauto-die-sackgasse)
