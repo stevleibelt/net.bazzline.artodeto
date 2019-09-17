@@ -1,3 +1,8 @@
 * [Die Schlossmühle in Pfaffroda möchste zu einem Ort der Gemeinsamkeit transformiert werden und sucht helfende Hände.](https://bio-erzgebirge.de/wp/?p=19100)
 * [Der Linux Kernel wurde in der Version 5.3 veröffentlicht.](https://www.pro-linux.de/news/1/27439/linux-kernel-53-freigegeben.html)
 * [>>Mädesüß und Weidenrinde – natürliche Alternativen zu Aspirin<<](https://www.smarticular.net/maedesuess-weidenrinde-tee-gegen-schmerzen-fieber-entzuendung/)
+* [Wie dreist können Menschen sein, mit Opiaden Menschen töten und Milliarden scheffeln und dann die Firma vor die Wand fahren lassen um dem Volk die Folgekosten aufzubrummen.](https://blog.fefe.de/?ts=a37ef905)
+* [Diese ganzen Viren-Labore sind eine super Idee, besonders wenn sie dann mal in die Luft fliegen.](https://blog.fefe.de/?ts=a3812c48)
+* [In Ecuador sind sehr viele Daten von Einwohnern aus einem Elasticsearch-Server solzialisiert worden.](https://blog.fefe.de/?ts=a381214d)
+* [Schaut mal, Millionen Patientendaten haben es ins Netz geschafft.](https://www.kuketz-blog.de/datenskandel-millionenfach-patientendaten-ungeschuetzt-im-netz/)
+* [Deutschland ist unangefochtener Spitzenreiter im Müllerzeugen!](https://netzfrauen.org/2019/09/17/togo-2/)
