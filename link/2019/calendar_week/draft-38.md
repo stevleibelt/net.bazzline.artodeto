@@ -6,3 +6,6 @@
 * [In Ecuador sind sehr viele Daten von Einwohnern aus einem Elasticsearch-Server solzialisiert worden.](https://blog.fefe.de/?ts=a381214d)
 * [Schaut mal, Millionen Patientendaten haben es ins Netz geschafft.](https://www.kuketz-blog.de/datenskandel-millionenfach-patientendaten-ungeschuetzt-im-netz/)
 * [Deutschland ist unangefochtener Spitzenreiter im Müllerzeugen!](https://netzfrauen.org/2019/09/17/togo-2/)
+* [OpenSlides wurde in der Version 3.0 veröffentlicht.](/var/www/jobleads.de/www/public/data/dynamic/shared/reports/)
+* [Die Bundesregierung möchte den Finanzmarkt noch mehr von der Realität abkommen und eine weitere Schattenwährung in Form von Blockchain erschaffen - natürlich mit unseren Steuergeldern.](https://blog.fefe.de/?ts=a37f8849)
+* [welt-im-wandel.tv >>Das Geheimnis eines glücklichen Lebens - wie du dich von Sorgen, Ängsten und Schuldgefühle befreist<<.](https://www.welt-im-wandel.tv/video/das-geheimnis-eines-gluecklichen-lebens-wie-du-dich-von-sorgen-aengsten-und-schuldgefuehlen-befreist/)
