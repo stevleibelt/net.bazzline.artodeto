@@ -9,3 +9,5 @@
 * [OpenSlides wurde in der Version 3.0 veröffentlicht.](/var/www/jobleads.de/www/public/data/dynamic/shared/reports/)
 * [Die Bundesregierung möchte den Finanzmarkt noch mehr von der Realität abkommen und eine weitere Schattenwährung in Form von Blockchain erschaffen - natürlich mit unseren Steuergeldern.](https://blog.fefe.de/?ts=a37f8849)
 * [welt-im-wandel.tv >>Das Geheimnis eines glücklichen Lebens - wie du dich von Sorgen, Ängsten und Schuldgefühle befreist<<.](https://www.welt-im-wandel.tv/video/das-geheimnis-eines-gluecklichen-lebens-wie-du-dich-von-sorgen-aengsten-und-schuldgefuehlen-befreist/)
+* [Samba wurde in der Version 4.11 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=Samba-4.11-Released)
+* [Realitätsabgleich billiges Gemüse aus dem Ausland.](https://netzfrauen.org/2019/09/19/nahrung/) - Mich schauen Menschen auch immer komisch an, wenn ich erst einmal Gemüse suche, welches aus Deutschland kommt.
