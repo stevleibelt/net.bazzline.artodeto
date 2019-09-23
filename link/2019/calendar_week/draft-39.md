@@ -1,0 +1,6 @@
+* [Gesichtserkennung in Belgien? Jetzt nicht mehr!](https://blog.fefe.de/?ts=a376666b)
+* [Realitätsabgleich Flüchtlingsheime - 1](https://blog.fefe.de/?ts=a37866eb)
+* [Realitätsabgleich Flüchtlingsheime - 2](https://blog.fefe.de/?ts=a37865df)
+* [In Bayern darf die Polizei jetzt ohne richterlichen Beschluss deine Wohnung betreten - klingt anders ais durchsuchen.](https://blog.fefe.de/?ts=a3788306)
+* [FeFe redet über Hackback.](https://blog.fefe.de/?ts=a378f747)
+* [Ein falscher Datenbankeintrag und schwupps, bist du ein Verbrecher - soweit in Dänemark.](https://blog.fefe.de/?ts=a37be121)
