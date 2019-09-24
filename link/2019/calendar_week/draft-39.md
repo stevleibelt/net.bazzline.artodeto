@@ -4,3 +4,7 @@
 * [In Bayern darf die Polizei jetzt ohne richterlichen Beschluss deine Wohnung betreten - klingt anders ais durchsuchen.](https://blog.fefe.de/?ts=a3788306)
 * [FeFe redet über Hackback.](https://blog.fefe.de/?ts=a378f747)
 * [Ein falscher Datenbankeintrag und schwupps, bist du ein Verbrecher - soweit in Dänemark.](https://blog.fefe.de/?ts=a37be121)
+* [ReactOS wurde in der Version 0.4.12 veröffentlicht.](https://www.pro-linux.de/news/1/27465/reactos-0412-freigegeben.html)
+* [OpenProject wurde in der Version 10 veröffentlicht.](https://www.pro-linux.de/news/1/27462/openproject-10-ver%C3%B6ffentlicht.html)
+* [Wisst ihr wie die LED's an heutigen Gamer-GPU's vom Treiber angesprochen werden? Eigentlicht wollt ihr das nicht wissen.](https://blog.fefe.de/?ts=a374e26f)
+* [Die Dresdner Polizei hat einen Wasserwerfer der freien und Hansestadt Hamburg bei sich gefunden.](https://blog.fefe.de/?ts=a374ca43)
