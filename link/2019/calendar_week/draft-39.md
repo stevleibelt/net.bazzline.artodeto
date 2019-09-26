@@ -8,3 +8,8 @@
 * [OpenProject wurde in der Version 10 veröffentlicht.](https://www.pro-linux.de/news/1/27462/openproject-10-ver%C3%B6ffentlicht.html)
 * [Wisst ihr wie die LED's an heutigen Gamer-GPU's vom Treiber angesprochen werden? Eigentlicht wollt ihr das nicht wissen.](https://blog.fefe.de/?ts=a374e26f)
 * [Die Dresdner Polizei hat einen Wasserwerfer der freien und Hansestadt Hamburg bei sich gefunden.](https://blog.fefe.de/?ts=a374ca43)
+* [Nein? Doch! Oh? Dinge die keine Langzeitstudie hatten sind auf einmal schädlich, so aktuell in den USA mit den Vaporisier (E-Zigarette).](https://blog.fefe.de/?ts=a3757188)
+* [Realitätsabgleich KI (nein, nicht die schlechten GIF-Vorschläge in Slack), sondern im Bereich "CI".](https://blog.fefe.de/?ts=a3756d7c)
+* [>>Wenn der Chef unrealistische Forderungen aufstellt, dann macht man keine Überstunden, sondern reißt die Deadline. Und zwar je krasser, desto besser.<<](https://blog.fefe.de/?ts=a375513a)
+* [Limbas wurde in der Version 4.0 veröffentlicht.](https://www.pro-linux.de/news/1/27469/limbas-40-ver%C3%B6ffentlicht.html)
+* [CentOS wurde in der Version 8.0 veröffentlicht. Zudem gibt es mit CentOS Stream jetzt eine Rolling-Releases-Distribution.](https://www.pro-linux.de/news/1/27468/centos-80-und-stream-erschienen.html)
