@@ -13,3 +13,6 @@
 * [>>Wenn der Chef unrealistische Forderungen aufstellt, dann macht man keine Überstunden, sondern reißt die Deadline. Und zwar je krasser, desto besser.<<](https://blog.fefe.de/?ts=a375513a)
 * [Limbas wurde in der Version 4.0 veröffentlicht.](https://www.pro-linux.de/news/1/27469/limbas-40-ver%C3%B6ffentlicht.html)
 * [CentOS wurde in der Version 8.0 veröffentlicht. Zudem gibt es mit CentOS Stream jetzt eine Rolling-Releases-Distribution.](https://www.pro-linux.de/news/1/27468/centos-80-und-stream-erschienen.html)
+* [>>Please remember that your job is reading, understanding and thinking before typing, and typing is just a side-effect.<<](https://ocramius.github.io/blog/eliminating-visual-debt/)
+* [Checkmk wurde in der Version 1.6 veröffentlicht.](https://www.pro-linux.de/news/1/27472/checkmk-16-ver%C3%B6ffentlicht.html)
+* [FeFe hat einen Vortrag über Hypertech online gestellt.](https://blog.fefe.de/?ts=a3721327)
