@@ -16,3 +16,7 @@
 * [>>Please remember that your job is reading, understanding and thinking before typing, and typing is just a side-effect.<<](https://ocramius.github.io/blog/eliminating-visual-debt/)
 * [Checkmk wurde in der Version 1.6 veröffentlicht.](https://www.pro-linux.de/news/1/27472/checkmk-16-ver%C3%B6ffentlicht.html)
 * [FeFe hat einen Vortrag über Hypertech online gestellt.](https://blog.fefe.de/?ts=a3721327)
+* [ZFS On Linux wurde in der Version 0.8.2 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=ZFS-On-Linux-0.8.2-Released)
+* [IT "made in Germany", leider kein Qualitätssiegel.](https://blog.fefe.de/?ts=a3730cd6)
+* [Vor dem Bundesmeldegesetzt sind Einige gleicher als Andere, Politiker zum Beispiel.](https://blog.fefe.de/?ts=a3730796)
+* [Quantencomputer? Eher als Co-Prozessor denn als CPU.](https://blog.fefe.de/?ts=a3730256)
