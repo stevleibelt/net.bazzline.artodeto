@@ -20,3 +20,5 @@
 * [IT "made in Germany", leider kein Qualitätssiegel.](https://blog.fefe.de/?ts=a3730cd6)
 * [Vor dem Bundesmeldegesetzt sind Einige gleicher als Andere, Politiker zum Beispiel.](https://blog.fefe.de/?ts=a3730796)
 * [Quantencomputer? Eher als Co-Prozessor denn als CPU.](https://blog.fefe.de/?ts=a3730256)
+* [Die Polizei darf in den USA während einer Hausdurchsuchung Dinge stehlen und bleibt straffrei.](https://blog.fefe.de/?ts=a371010b)
+* [China hat jetzt wohl eine Überwachungskamera mit 500 Megapixel und kann damit eine ganze Demonstration mit einmal identifizieren.](https://blog.fefe.de/?ts=a3717f0d)
