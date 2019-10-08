@@ -1,0 +1,7 @@
+* [Realitätsabgleich das tut die Blockpartei für unser Volk und die kommenden Generationen, NICHTS - es gibt keinerlei Verantwortung gegenüber Mensch und Natur was die Zukunft angeht.](https://blog.fefe.de/?ts=a3645442)
+* [Social Hacking zum Thema Vermummungsverbot in Hongkong.](https://blog.fefe.de/?ts=a3670cb5)
+* [In Chinas Schulen werden jetzt die Gehirnwellen der Kinder aufgenommen.](https://blog.fefe.de/?ts=a3670950)
+* [Wow, die Steuerfahndung wurde in den USA finanziell so beschnitten, dass sie nicht mehr die Reichen überprüft (da zu aufwendig) - wer hat die Mittel zusammengekürzt? Genau, die Reichen.](https://blog.fefe.de/?ts=a36655b6)
+* [Und noch einmal Blockpartei zum Thema Bildungspolitik.](https://blog.fefe.de/?ts=a369d3fd)
+* [Der Eisbär stirbt aus, der Grizzlybär stirbt aus, CDU/CSU leugnen den Klimawandel.](https://blog.fefe.de/?ts=a368e274)
+* [Ihr wollt vendor etwas kleiner machen was composer so aus dem Internet speichert? Probiert doch einmal sx/skrub.](https://github.com/ssx/skrub)
