@@ -5,3 +5,5 @@
 * [Und noch einmal Blockpartei zum Thema Bildungspolitik.](https://blog.fefe.de/?ts=a369d3fd)
 * [Der Eisbär stirbt aus, der Grizzlybär stirbt aus, CDU/CSU leugnen den Klimawandel.](https://blog.fefe.de/?ts=a368e274)
 * [Ihr wollt vendor etwas kleiner machen was composer so aus dem Internet speichert? Probiert doch einmal sx/skrub.](https://github.com/ssx/skrub)
+* [Die Anstalt vom 1. Oktober zeigt auf professioneller Ebene wie die CDU/Blockpartei den Ökostrom kaputt gemacht haben.](https://blog.fefe.de/?ts=a365a904)
+* [Nein? Doch! Oh? Dem Staat geht es immer schlechter und die richtig wohalbenden Menschen zahlen immer weniger Steuern, ob da eine Kausalität besteht?](https://blog.fefe.de/?ts=a365ed59)
