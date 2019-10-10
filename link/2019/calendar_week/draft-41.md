@@ -7,3 +7,6 @@
 * [Ihr wollt vendor etwas kleiner machen was composer so aus dem Internet speichert? Probiert doch einmal sx/skrub.](https://github.com/ssx/skrub)
 * [Die Anstalt vom 1. Oktober zeigt auf professioneller Ebene wie die CDU/Blockpartei den Ökostrom kaputt gemacht haben.](https://blog.fefe.de/?ts=a365a904)
 * [Nein? Doch! Oh? Dem Staat geht es immer schlechter und die richtig wohalbenden Menschen zahlen immer weniger Steuern, ob da eine Kausalität besteht?](https://blog.fefe.de/?ts=a365ed59)
+* [Ein PHP Projekt "mal eben schnell" analysieren um ein Gefühl für die Struktur zu kriegen? PHPLOC](https://github.com/sebastianbergmann/phploc)
+* [Weihnachten steht vor der Tür, Tails starte eine Spendenkampagne.](https://www.pro-linux.de/news/1/27492/tails-startet-spendenkampagne-2019.html)
+* [Geschäftskritische Daten in der Cloud speichern? Richtig gute Idee!](https://blog.fefe.de/?ts=a362ba73)
