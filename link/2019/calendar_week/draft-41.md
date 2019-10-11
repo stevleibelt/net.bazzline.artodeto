@@ -21,3 +21,13 @@
 * [Nextcloud wurde in der Version 16.0.5 und 15.0.12 veröffentlicht.](https://nextcloud.com/blog/time-to-update-16.0.5-and-15.0.12-are-here/)
 * [Remote mit Eclipse Che IDE entwickeln.](https://opensource.com/article/19/10/cloud-ide-che)
 * [So wenig Berühung wie möglich, damit ich so wenig wie möglich Schaden davon tragen könnte.](https://www.youtube.com/embed/F_3QOE7wnXo?rel=0) - Unsere Distanzgesellschaft.
+* [Dubai verkauft Solarstrom billiger als Deutschland Atomstrom.](https://blog.fefe.de/?ts=a3610b7d) - Wäre natürlich anders wenn Dubai auf Uran hocken würde.
+* [Cisco ist auch heute kaputt.](https://blog.fefe.de/?ts=a361543c)
+* [Raytracing in einem MySQL Select-Statement.](https://blog.fefe.de/?ts=a36151e4)
+* [Realitätsabgleich CDU und wie sie sich um ihre gemachten Problene nicht kümmern - heute Nazis.](https://blog.fefe.de/?ts=a3614817)
+* [Realitätsabgleich - die bei Google sind schlauer - sind sie nicht.](https://blog.fefe.de/?ts=a36196e2) - Aber sie machen gute Werbung und klatschen euch das so lange vor das Gesicht bis ihr es glaubt.
+* [Wenn Palmenwälder mit dem Militär vor den Ureinwohnern "geschützt" werden müssen, sollte auch der letzte Mensch verstehen, dass Palmenöl in der Masse nicht gut ist.](https://netzfrauen.org/2019/10/10/guatemala-4/) - Mal die ganze Transportkette ausgeklammert.
+* [Android? Browser? Privacy Browser oder FOSS Browser!](https://www.kuketz-blog.de/privacy-browser-datenschutzfreundlicher-android-browser/)
+* [Nextcloud für Android wurde in der Version 3.8.1 veröffentlicht.](https://nextcloud.com/blog/nextcloud-3.8.1-for-android-is-out-plus-a-tip/)
+* [Zabbix wurde in der Version 4.4 veröffentlicht.](https://www.pro-linux.de/news/1/27503/zabbix-44-freigegeben.html)
+* [Kunstlicht im Büro und wenig Bewegung, dies kann zu Bluthochdruck und andere Dinge führen.](https://youtu.be/KrVB_k1tnM8)
