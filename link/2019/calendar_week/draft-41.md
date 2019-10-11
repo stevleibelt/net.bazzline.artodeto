@@ -10,3 +10,14 @@
 * [Ein PHP Projekt "mal eben schnell" analysieren um ein Gefühl für die Struktur zu kriegen? PHPLOC](https://github.com/sebastianbergmann/phploc)
 * [Weihnachten steht vor der Tür, Tails starte eine Spendenkampagne.](https://www.pro-linux.de/news/1/27492/tails-startet-spendenkampagne-2019.html)
 * [Geschäftskritische Daten in der Cloud speichern? Richtig gute Idee!](https://blog.fefe.de/?ts=a362ba73)
+* [Ein schönes Beispiel wie weniger Werbung auch heute noch besser funktioniert.](https://blog.fefe.de/?ts=a360514e)
+* [Interessant, die Realität hat sich die letzten Jahre über zunehmend der Kinogewalt angepasst so dass die Kinobesucher jetzt Angst kriegen weil das auf der Leinwand wirklich passieren kann.](https://tuxproject.de/blog/2019/10/die-verweichlichung-des-kinobesuchers-am-beispiel-des-neuen-films-ueber-den-joker/)
+* [In Deutschland werden Reiche mit Einkünften über 500.000 Euro pro Jahr auch immer und immer seltener Überprüft.](https://blog.fefe.de/?ts=a360cfe7) - Toll diese Gleichstellung.
+* [DHL schaltet den SMS-Dienst für ihre Packstationen ab - wollt oder könnt ihr nicht deren Werbetracker-App nutzen, gibt es keine Packstation mehr für euch.](https://www.kuketz-blog.de/packstation-dhl-einfuehrung-eines-app-zwangs/)
+* [Mit HttpCanary könnt ihr den Netzwerkverkehr einer Anwendung mitschneiden.](https://www.kuketz-blog.de/empfehlungsecke-app-verkehr-mitschneiden-android-ios/)
+* [PostgreSQL wurde in der Version 12 veröffentlicht.](https://www.postgresql.org/about/news/1976/)
+* [>>Heilpflanze des Monats Oktober 2019: Europäisches Wolfstrapp<<](https://bio-erzgebirge.de/wp/?p=19232)
+* [Nextcloud mit BAreos sichern - hier wird euch gezeigt wie das geht.](https://nextcloud.com/blog/how-to-back-up-nextcloud-with-bareos/)
+* [Nextcloud wurde in der Version 16.0.5 und 15.0.12 veröffentlicht.](https://nextcloud.com/blog/time-to-update-16.0.5-and-15.0.12-are-here/)
+* [Remote mit Eclipse Che IDE entwickeln.](https://opensource.com/article/19/10/cloud-ide-che)
+* [So wenig Berühung wie möglich, damit ich so wenig wie möglich Schaden davon tragen könnte.](https://www.youtube.com/embed/F_3QOE7wnXo?rel=0) - Unsere Distanzgesellschaft.
