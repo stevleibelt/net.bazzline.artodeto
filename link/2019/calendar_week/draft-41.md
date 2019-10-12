@@ -31,3 +31,6 @@
 * [Nextcloud für Android wurde in der Version 3.8.1 veröffentlicht.](https://nextcloud.com/blog/nextcloud-3.8.1-for-android-is-out-plus-a-tip/)
 * [Zabbix wurde in der Version 4.4 veröffentlicht.](https://www.pro-linux.de/news/1/27503/zabbix-44-freigegeben.html)
 * [Kunstlicht im Büro und wenig Bewegung, dies kann zu Bluthochdruck und andere Dinge führen.](https://youtu.be/KrVB_k1tnM8)
+* [Keiner hat mehr lust bei Hackfressenbuchs Cryptowährung mitzumachen.](https://blog.fefe.de/?ts=a35fc167)
+* [Die man-pages wurde in der Version 5.3 veröffentlicht.](http://linux-man-pages.blogspot.com/2019/10/man-pages-503-is-released.html)
+* [Wisst ihr was wir nach Halle brauchen? Nein, nicht mehr soziale Gerechtigkeit oder weniger soziale Kälte, nein, mehr Überwachungsbefugnis für den Polizeistaat.](https://tuxproject.de/blog/2019/10/das-internet-ist-an-allem-schuld/) - Wir sollten auch Papier verbieten, sonst wechseln die Gefährder noch auf die Post aus.
