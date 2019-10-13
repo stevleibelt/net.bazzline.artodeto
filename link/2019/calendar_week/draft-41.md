@@ -34,3 +34,6 @@
 * [Keiner hat mehr lust bei Hackfressenbuchs Cryptowährung mitzumachen.](https://blog.fefe.de/?ts=a35fc167)
 * [Die man-pages wurde in der Version 5.3 veröffentlicht.](http://linux-man-pages.blogspot.com/2019/10/man-pages-503-is-released.html)
 * [Wisst ihr was wir nach Halle brauchen? Nein, nicht mehr soziale Gerechtigkeit oder weniger soziale Kälte, nein, mehr Überwachungsbefugnis für den Polizeistaat.](https://tuxproject.de/blog/2019/10/das-internet-ist-an-allem-schuld/) - Wir sollten auch Papier verbieten, sonst wechseln die Gefährder noch auf die Post aus.
+* [Das Rechenwerk und die Arithmetik der Z1 (vcfb19)](https://cdn.media.ccc.de/events/vcfb/2019/h264-hd/vcfb19-113-deu-Das_Rechenwerk_und_die_Arithmetik_der_Z1_hd.mp4)
+* [Das kurze Leben der Cray-3 (vcfb19)](https://cdn.media.ccc.de/events/vcfb/2019/h264-hd/vcfb19-115-deu-Das_kurze_Leben_der_Cray-3_hd.mp4)
+* [In Luxemburg darf man ab 01.03.2020 konstelos mit Bus, Bahn und Tram fahren.](https://netzfrauen.org/2019/10/12/air-pollution-2/) - Warum eigentlich in Deutschland nicht?
