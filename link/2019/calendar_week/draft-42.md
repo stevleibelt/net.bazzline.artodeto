@@ -7,3 +7,10 @@
 * [.NET Core 3.0 API ist 120k groß :-O.](https://blog.fefe.de/?ts=a358d56f)
 * [Richtiger Gedankengang vom FeFe, wenn jeder eine Waffe tragen kann, erankert dies im Kopf das Gefühl der permanenten Unsicherheit und treibt die Menschen in den Unterdrückungsstaat.](https://blog.fefe.de/?ts=a358c83c)
 * [Realitätsabgleich Tierversuche - bitte einmal jeder anschauen um zu evaluieren ob es wirklich nötig ist für eine Gesichtscreme.](https://netzfrauen.org/2019/10/15/tierversuche-3/)
+* [Mit Sweet Home 3D sein Haus bauen - Digital.](https://opensource.com/article/19/10/interior-design-sweet-home-3d)
+* [Aufklärung hilft, auch bei Tox gegenüber der Polizei.](https://blog.fefe.de/?ts=a3595c3e)
+* [Schöner Aufruf von FeFe zur Marktlücke deutscher Produkte, unser Ruf, den wir zu verlieren im Inbegriff sind ist es Qualität zu liefern.](https://blog.fefe.de/?ts=a359bf6e)
+* [Nein? Doch! Oh? Wenn man beim Produkt am Anfang spart, wird es hinten raus kacke - so bei den Geldautomaten die ganz normale Windows-PC's sind.](https://blog.fefe.de/?ts=a359a006)
+* [Realitätsabgleich "banaler Nationalismus".](https://blog.fefe.de/?ts=a3599c5f)
+* [Huch? Die USA haben noch ein paar Raketen in der Türkei rumliegen.](https://blog.fefe.de/?ts=a359ef8b) - Was machen die eigentlich wenn die Türkei die gern behalten möchte?
+* [26M schenkt der Welt Kreditkartendatensätze.](https://blog.fefe.de/?ts=a359ee14)
