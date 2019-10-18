@@ -14,3 +14,7 @@
 * [Realitätsabgleich "banaler Nationalismus".](https://blog.fefe.de/?ts=a3599c5f)
 * [Huch? Die USA haben noch ein paar Raketen in der Türkei rumliegen.](https://blog.fefe.de/?ts=a359ef8b) - Was machen die eigentlich wenn die Türkei die gern behalten möchte?
 * [26M schenkt der Welt Kreditkartendatensätze.](https://blog.fefe.de/?ts=a359ee14)
+* [Die deutschen Automobilhersteller haben so viel outgesourced und eingespart, dass sie nicht einmal mehr Türschlüssel richtig herstellen.](https://blog.fefe.de/?ts=a3564b23)
+* [Die magische Hand des freien Marktes in Aktion bei Frankiermaschinen.](https://blog.fefe.de/?ts=a3564bf8)
+* [Noch mehr freier Markt? Das Telefonnetz in Österreich war ausgefallen.](https://blog.fefe.de/?ts=a3564832)
+* [PgBouncer wurde in der Version 1.12.0 veröffentlicht.](https://www.postgresql.org/about/news/1981/)
