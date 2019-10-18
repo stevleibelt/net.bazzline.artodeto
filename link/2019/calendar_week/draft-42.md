@@ -18,3 +18,5 @@
 * [Die magische Hand des freien Marktes in Aktion bei Frankiermaschinen.](https://blog.fefe.de/?ts=a3564bf8)
 * [Noch mehr freier Markt? Das Telefonnetz in Österreich war ausgefallen.](https://blog.fefe.de/?ts=a3564832)
 * [PgBouncer wurde in der Version 1.12.0 veröffentlicht.](https://www.postgresql.org/about/news/1981/)
+* [Realitätsabgleich Flüchtlingskriese und Flüchtlinkslager.](https://netzfrauen.org/2019/10/18/bosnien/)
+* [Microsoft hat erste Verschleißerscheinungen mit ihrer KI, die haben jetzt Whitelisten eingeführt.](https://blog.fefe.de/?ts=a3575ed3)
