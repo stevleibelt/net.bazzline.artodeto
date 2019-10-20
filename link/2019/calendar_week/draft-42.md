@@ -20,3 +20,8 @@
 * [PgBouncer wurde in der Version 1.12.0 veröffentlicht.](https://www.postgresql.org/about/news/1981/)
 * [Realitätsabgleich Flüchtlingskriese und Flüchtlinkslager.](https://netzfrauen.org/2019/10/18/bosnien/)
 * [Microsoft hat erste Verschleißerscheinungen mit ihrer KI, die haben jetzt Whitelisten eingeführt.](https://blog.fefe.de/?ts=a3575ed3)
+* [Realteks WiFi ist auch kaputt.](https://blog.fefe.de/?ts=a355a004)
+* [Ach du Scheiße, Wahlen werden jetzt auf Amazon's AWS gemacht.](https://blog.fefe.de/?ts=a3558c35)
+* [Gute Frage, wie ist das eigentlich wenn ich als Besucher zu jemanden gehe der Wanzen wie Alexa im Haus hat, müsste mich da der Bewohner laut DSVGO nicht erst um meine Erlaubnis bitten?](https://blog.fefe.de/?ts=a35587cf)
+* [Realitätsabgleich Schlüssel der Autohersteller.](https://blog.fefe.de/?ts=a355eb63)
+* [Was ist der Vorteil von Gesichtsscans? Man kann euer Gesicht einfach überall scannen ohne dass ihr es merkt.](https://blog.fefe.de/?ts=a355d035)
