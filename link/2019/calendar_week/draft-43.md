@@ -2,3 +2,8 @@
 * [Pylint solltet ihr kennen, wenn ihr Python sprecht.](https://opensource.com/article/19/10/python-pylint-introduction)
 * [Schaut, Herr Spahn ist immer ehrlich, all eure Gesundheitsdaten sammelt der Staat und verschenkt sie dann an Herrn Spahns Firmen.](https://blog.fefe.de/?ts=a353bbe5)
 * [Pacman wurde in der Version 5.2 veröffentlicht.](http://allanmcrae.com/2019/10/pacman-5-2-release/)
+* [Achso, das Online-Banking wird in der EU deswegen beknackert, damit man in der EULA noch einen "Achso, und wir dürfen ihre Daten verkaufen"-Passus einschieben kann.](https://blog.fefe.de/?ts=a350c2b7)
+* [Das hier kriege ich gar nicht verarbeitet, die Bano of America baut ihre eigene Cloud, ist günstiger aber will dann nicht dabei bleiben.](https://blog.fefe.de/?ts=a35331b2)
+* [Euro-6-Diesel sind weniger sauber als Euro-1-Diesel.](https://blog.fefe.de/?ts=a3532a7a)
+* [Guter Hinweis, es müssen auch die Personen entlohnt werden, die saubere Rohstoffe wie Wasser oder Luft "bereitstellen" - und damit müssen sich auch die Städter auseinandersetzen.](https://blog.fefe.de/?ts=a35328cd)
+* [OmniOS wurde in der Version r151030y veröffentlicht.](http://www.phoronix.com/scan.php?page=news_item&px=OmniOS-r151030y)
