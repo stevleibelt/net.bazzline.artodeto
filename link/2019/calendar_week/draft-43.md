@@ -7,3 +7,9 @@
 * [Euro-6-Diesel sind weniger sauber als Euro-1-Diesel.](https://blog.fefe.de/?ts=a3532a7a)
 * [Guter Hinweis, es müssen auch die Personen entlohnt werden, die saubere Rohstoffe wie Wasser oder Luft "bereitstellen" - und damit müssen sich auch die Städter auseinandersetzen.](https://blog.fefe.de/?ts=a35328cd)
 * [OmniOS wurde in der Version r151030y veröffentlicht.](http://www.phoronix.com/scan.php?page=news_item&px=OmniOS-r151030y)
+* [Was? Ihr wollt für eure freie Software Spenden haben und erdreistet euch diese Anwendungen im Google-Playstore anzubieten? Da verdient Google doch nichts an euren Spenden, was soll das denn!](https://lists.zx2c4.com/pipermail/wireguard/2019-October/004596.html)
+* [Subventionierte Flächenstillegung aka wilde Wiese find ich gut, dass Banken und Konzerne wie Nestle diese Flächen kaufen um Gewinn zu machen kotzt mich an.](https://blog.fefe.de/?ts=a351af5c)
+* [Nein? Doch! Oh? Wenn Alexa und co mithört, kann man euch super persönliche Phishing E-Mails schicken.](https://blog.fefe.de/?ts=a351aef6)
+* [>>[...] alle unter dem Namen "Fintech" arbeiten und so tun, als hätten sie irgendwas neu erfunden. Oder leisteten irgendwas außer anderen Leuten Geld aus der Tasche zu ziehen.<< - Das lasse ich gern mal so stehen.](https://blog.fefe.de/?ts=a351ac8715) - >>PSD2 ist dann quasi die Erlaubnis für andere Banken und Startups, diese Ölfelder auch anzuzapfen<<
+* [Interessanter Gedankengang, die Zentralisierung am Beispiel der Schule führt dazu, dass Orte aussterben.](https://blog.fefe.de/?ts=a351fad5)
+* [Tails wurde in der Version 4.0 veröffentlicht.](https://www.pro-linux.de/news/1/27534/tails-40-auf-der-basis-von-debian-10-buster-ver%C3%B6ffentlicht.html)
