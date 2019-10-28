@@ -1,0 +1,7 @@
+* [Hier gibt es eine kleine und feine Einführung in MySQL Workbench.](https://www.percona.com/blog/2019/10/23/mysql-workbench-review/)
+* [Die Grippe-Impfung wirkt maximal einmal, bei einer natürlichen Grippe erschafft der Körper aber gleich eine ganze Reihe von Antikörpern gegen verschiedene Grippe-Erreger.](https://blog.fefe.de/?ts=a3486780)
+* [FeFe listet mal so auf was gegen den Einsatz von Cloudflare spricht.](https://blog.fefe.de/?ts=a34b5e05)
+* [Julian Assange wird wohl derbe gefoltert :-(.](https://blog.fefe.de/?ts=a34d2ef2)
+* [Was unterscheidet die "Deutsche Gesellschaft üf Wehrtechnik" und "Campact"? Ersteres wird als Gemeinnützig anerkannt, Letztere nicht.](https://blog.fefe.de/?ts=a34c3b73)
+* [Best Western Hotels hat 179 GB Daten dank der Cloud-Nutzung die Freiheit geschenkt.](https://blog.fefe.de/?ts=a34f961c)
+* [Altmaier von der CDU will jetzt Ölheizungen subventionieren.](https://blog.fefe.de/?ts=a34ea772)
