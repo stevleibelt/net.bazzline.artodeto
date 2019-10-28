@@ -5,3 +5,6 @@
 * [Was unterscheidet die "Deutsche Gesellschaft üf Wehrtechnik" und "Campact"? Ersteres wird als Gemeinnützig anerkannt, Letztere nicht.](https://blog.fefe.de/?ts=a34c3b73)
 * [Best Western Hotels hat 179 GB Daten dank der Cloud-Nutzung die Freiheit geschenkt.](https://blog.fefe.de/?ts=a34f961c)
 * [Altmaier von der CDU will jetzt Ölheizungen subventionieren.](https://blog.fefe.de/?ts=a34ea772)
+* [>>Vegetarisch, vegan oder ganz normale Ernährung: Was ist wirklich gesund?<<](https://www.welt-im-wandel.tv/video/vegetarisch-vegan-oder-ganz-normale-ernaehrung-was-ist-wirklich-gesund/)
+* [>>[...] Ein deutscher Autofahrer steht zurzeit pro Jahr um die 150 Stunden im Stau. [...]<<](https://www.sonnenseite.com/de/franz-alt/kommentare-interviews/die-automobilitaet-macht-immobil.html)
+* [Wie geht noch einmal strace?](https://opensource.com/article/19/10/strace)
