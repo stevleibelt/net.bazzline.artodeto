@@ -12,3 +12,4 @@
 * [Nein? Doch! Oh? Webassembly ist kaputt.](https://blog.fefe.de/?ts=a349de5b)
 * [KeePassXC wurde in der Version 2.5.0 veröffentlicht.](https://www.pro-linux.de/news/1/27548/passwort-manager-keepassxc-erreicht-version-250.html)
 * [Seht ihr, Porno oder Kindesmissbrauch, so werden weiterhin neue Überwachungstechnologien dem Volk "schmackhaft" gemacht.](https://blog.fefe.de/?ts=a346fb3d) - Und wenn man in Australien schon einma via Gesichtserkennung prüft, ob der Nutzer alt genug ist um den Porno zu sehen, kann man doch gleich einmal mitspeicher was er sich da so anschaut.
+* [Jura in Deutschland: >>Wer ein Problem damit hat, dass wegen unserer Arbeit weniger Kindergärten gebaut werden - da ist die Tür.<<](https://blog.fefe.de/?ts=a3461118)
