@@ -13,3 +13,8 @@
 * [KeePassXC wurde in der Version 2.5.0 veröffentlicht.](https://www.pro-linux.de/news/1/27548/passwort-manager-keepassxc-erreicht-version-250.html)
 * [Seht ihr, Porno oder Kindesmissbrauch, so werden weiterhin neue Überwachungstechnologien dem Volk "schmackhaft" gemacht.](https://blog.fefe.de/?ts=a346fb3d) - Und wenn man in Australien schon einma via Gesichtserkennung prüft, ob der Nutzer alt genug ist um den Porno zu sehen, kann man doch gleich einmal mitspeicher was er sich da so anschaut.
 * [Jura in Deutschland: >>Wer ein Problem damit hat, dass wegen unserer Arbeit weniger Kindergärten gebaut werden - da ist die Tür.<<](https://blog.fefe.de/?ts=a3461118)
+* [Uber, die Firma die "disruptiv" sein will hat der Allgemeinheit Kundendaten geschenkt.](https://blog.fefe.de/?ts=a342a320)
+* [Strom via Oberleitung, das ist günstiger haben sie gesagt, muss man ausschalten wenn es zu warm wird und ihr eure Klimaanlagen anschalten wollt haben sie vergessen zu sagen - die magische Hand des freien Marktes.](https://blog.fefe.de/?ts=a342e65f)
+* [Bei Amazon können sich Geräte mit eurem Benutzerkonto verbinden ohne dass sie in eurer Übersicht auftauchen.](https://blog.fefe.de/?ts=a345d009)
+* [Die Blockpartei macht so viel Öko, dass sie ein neues Steinkohlekraftwerk ans Netz nimmt.](https://blog.fefe.de/?ts=a3472af5)
+* [Kanal9TV - Herbst Impressionen Erzgebirge](https://www.youtube.com/watch?v=_IgrDZSwTo8)
