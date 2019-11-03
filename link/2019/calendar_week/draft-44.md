@@ -18,3 +18,6 @@
 * [Bei Amazon können sich Geräte mit eurem Benutzerkonto verbinden ohne dass sie in eurer Übersicht auftauchen.](https://blog.fefe.de/?ts=a345d009)
 * [Die Blockpartei macht so viel Öko, dass sie ein neues Steinkohlekraftwerk ans Netz nimmt.](https://blog.fefe.de/?ts=a3472af5)
 * [Kanal9TV - Herbst Impressionen Erzgebirge](https://www.youtube.com/watch?v=_IgrDZSwTo8)
+* [uBlock Origin, Privacy Badger, HTTPS Everywhere, Flagfox, Decentraleyes und Facebook Container sind Firefox Erweiterungen die ihr kennen und nutzen solltet.](https://odoepner.wordpress.com/2019/11/01/stay-safe-on-the-web-using-firefox-and-these-add-ons/)
+* [Mit awk Textdateien sortieren?](https://opensource.com/article/19/11/how-sort-awk)
+* [Und hier gibt es zwei Tutorials wie ihr mit awk besser werdet.](https://opensource.com/article/19/10/advanced-awk)
