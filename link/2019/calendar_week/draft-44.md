@@ -21,3 +21,4 @@
 * [uBlock Origin, Privacy Badger, HTTPS Everywhere, Flagfox, Decentraleyes und Facebook Container sind Firefox Erweiterungen die ihr kennen und nutzen solltet.](https://odoepner.wordpress.com/2019/11/01/stay-safe-on-the-web-using-firefox-and-these-add-ons/)
 * [Mit awk Textdateien sortieren?](https://opensource.com/article/19/11/how-sort-awk)
 * [Und hier gibt es zwei Tutorials wie ihr mit awk besser werdet.](https://opensource.com/article/19/10/advanced-awk)
+* [Die Vorstände der Deutschen Bahn AG gönnen sich einen kräftigen Schluck aus der Lohnpulle, fast 600.000 Euro statt bisher dem Hungerlohn von 400.000 Euro pro Jahr kriegen die für ihre Leistungen.](https://blog.fefe.de/?ts=a341e234)
