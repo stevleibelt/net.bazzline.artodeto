@@ -1,2 +1,6 @@
 * [awk, Felder und Variablen? Geht!](https://opensource.com/article/19/11/fields-records-variables-awk)
 * [Ihr dachtet NFC ist eine gute Idee? Ich nicht und ich hatte recht.](https://blog.fefe.de/?ts=a33ee5c8)
+* [MagentaTV ist also ein richtiger Erfolg made in China.](https://blog.fefe.de/?ts=a33e5beb)
+* [Mit Licht Siri, Alexa etc. kontrollieren geht jetzt auch.](https://blog.fefe.de/?ts=a33f8e4c)
+* [FreeBSD wurde in der Version 12.1 veröffentlicht.](https://www.pro-linux.de/news/1/27565/freebsd-121-freigegeben.html)
+* [Rezession zum Buch >>Kulturgeschichte der DDR<<.](https://weltnetz.tv/story/2087-kultur-und-kulturpolitik-der-ddr)
