@@ -4,3 +4,7 @@
 * [Mit Licht Siri, Alexa etc. kontrollieren geht jetzt auch.](https://blog.fefe.de/?ts=a33f8e4c)
 * [FreeBSD wurde in der Version 12.1 veröffentlicht.](https://www.pro-linux.de/news/1/27565/freebsd-121-freigegeben.html)
 * [Rezession zum Buch >>Kulturgeschichte der DDR<<.](https://weltnetz.tv/story/2087-kultur-und-kulturpolitik-der-ddr)
+* [Systemd ist so groß geworden, dass es den Wunsch nach "best practices" gibt.](https://utcc.utoronto.ca/~cks/space/blog/linux/SystemdNeedsBestPractices)
+* [Wenn die Klimaschutzpläne der EU als ausreichend eingestuft werden, kannst du dir vorstellen wie schlecht es um den Klimaschutz weltweil steht.](https://blog.fefe.de/?ts=a33f0a56)
+* [Git wurde in der Version 2.24.0 veröffentlicht.](https://lwn.net/Articles/803893/rss)
+* [Endlich, die DSVGO zeigt weitere Wirkung, 14.5 Millionen Euro Strafe gegen Deutsche Wohnen.](https://blog.fefe.de/?ts=a33c409a)
