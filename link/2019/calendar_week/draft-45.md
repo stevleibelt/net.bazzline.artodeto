@@ -8,3 +8,9 @@
 * [Wenn die Klimaschutzpläne der EU als ausreichend eingestuft werden, kannst du dir vorstellen wie schlecht es um den Klimaschutz weltweil steht.](https://blog.fefe.de/?ts=a33f0a56)
 * [Git wurde in der Version 2.24.0 veröffentlicht.](https://lwn.net/Articles/803893/rss)
 * [Endlich, die DSVGO zeigt weitere Wirkung, 14.5 Millionen Euro Strafe gegen Deutsche Wohnen.](https://blog.fefe.de/?ts=a33c409a)
+* [Rohstoffe werden immer knapper und was machen die Rohstoffinhaber? Verkacken alles und die Rohstoffe in die Umwelt gehen.](https://blog.fefe.de/?ts=a33b5b4e) - Ist ja auch egal, als Monopolist passt man halt den Preis an wenn die Rendite nicht passt.
+* [Schau an, die böse AfD macht das Gleiche wie die Linken - zeigen wie dringend Teile in unserer Politik angepasst werden müssen - in den Abendstunden werden Gesetze wie am Fließband und ohne Demokratie durchgewunken.](https://blog.fefe.de/?ts=a33b4f24)
+* [Realitätsabgleich der freie Markt regelt das mit dem Klimawandel - nein tut er nicht, er wettet darauf das es schlimmer wird, so kann man mehr Gewinn machen.](https://netzfrauen.org/2019/11/08/climatechange-5/)
+* [Stück für Stück schafft die Blockpartei die gewonnene Demokratie ab.](https://blog.fefe.de/?ts=a33b4631)
+* [Rust wurde in der Version 1.39 veröffentlicht.](http://www.phoronix.com/scan.php?page=news_item&px=Rust-1.39-Released)
+* [Sailfish OS wurde in der Version 3.2.0 veröffentlicht.](https://www.pro-linux.de/news/1/27570/sailfish-os-320-torronsuo-verf%C3%BCgbar.html)
