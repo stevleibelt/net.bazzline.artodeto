@@ -14,3 +14,7 @@
 * [Stück für Stück schafft die Blockpartei die gewonnene Demokratie ab.](https://blog.fefe.de/?ts=a33b4631)
 * [Rust wurde in der Version 1.39 veröffentlicht.](http://www.phoronix.com/scan.php?page=news_item&px=Rust-1.39-Released)
 * [Sailfish OS wurde in der Version 3.2.0 veröffentlicht.](https://www.pro-linux.de/news/1/27570/sailfish-os-320-torronsuo-verf%C3%BCgbar.html)
+* [War die Treuhand bewusst als der Blitzableiter des Unmuts der eingegliederten Ost-Bevölkerung gebaut wurden?](https://blog.fefe.de/?ts=a3380432)
+* [Cloud in den Krankenhäusern? Super Idee, endlich geht die Sterberate wieder hoch!](https://blog.fefe.de/?ts=a338636b)
+* [Hier gibt es ein schönes Rezept für Wirsingkohlrouladen ohne Fleisch.](https://www.smarticular.net/wirsingrouladen-vegan-einfaches-rezept/)
+* [Und hier gibt es ein Tipp wie ihr Möhren im Keller lagern könnt.](http://www.neulichimgarten.de/blog/dies-und-das/moehren-karotten-richtig-lagern-fuer-selbstversorger/)
