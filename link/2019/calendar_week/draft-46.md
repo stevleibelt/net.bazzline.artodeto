@@ -2,3 +2,8 @@
 * [Ok, das Frauen an die Macht-Ding scheint seinen Zenit überschritten zu haben.](https://blog.fefe.de/?ts=a33775e8)
 * [>>Automate yourself within six months (denog11)<<](https://cdn.media.ccc.de/events/denog/denog11/h264-hd/denog11-26-eng-Automate_yourself_within_six_months_hd.mp4)
 * [FeFe zeigt wie falsch der Irrglaube an "Time to Market" ist.](https://blog.fefe.de/?ts=a3378ae2)
+* [Die KI ist schuld dass sie nicht von uns bedient werden - schwöre!](https://blog.fefe.de/?ts=a336af8c)
+* [Hier gibt es ein paar Details wie Microsoft mal nach München kam um die verlorenen Seelen zurück ins Land zu holen.](https://blog.fefe.de/?ts=a336ac36)
+* [Die Anstalt hat auch eine Folge zur Treuhand gemacht.](https://blog.fefe.de/?ts=a339b08d)
+* [Nextcloud wurde in den Versionen 17.0.1, 16.0.6 und 15.0.13 veröffentlicht.](https://nextcloud.com/blog/nextcloud-17-0-1-is-here-updates-to-15-and-16-also-out/)
+* [Roundcube wurde in der Version 1.4.0 veröffentlicht.](https://roundcube.net/news/2019/11/09/roundcube-1.4.0-released)
