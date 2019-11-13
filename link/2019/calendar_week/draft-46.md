@@ -7,3 +7,7 @@
 * [Die Anstalt hat auch eine Folge zur Treuhand gemacht.](https://blog.fefe.de/?ts=a339b08d)
 * [Nextcloud wurde in den Versionen 17.0.1, 16.0.6 und 15.0.13 veröffentlicht.](https://nextcloud.com/blog/nextcloud-17-0-1-is-here-updates-to-15-and-16-also-out/)
 * [Roundcube wurde in der Version 1.4.0 veröffentlicht.](https://roundcube.net/news/2019/11/09/roundcube-1.4.0-released)
+* [Nextcloud für Android wurde in der Version 3.9.0 veröffentlicht.](https://nextcloud.com/blog/nextcloud-3-9-0-for-android-is-here-markdown-preview-remote-wipe-integration-new-media-player-and-more/)
+* [Nextcloud Desktop wurde in der Version 2.6.1 veröffentlicht.](https://nextcloud.com/blog/nextcloud-desktop-client-2-6-1-brings-remote-wipe-dark-mode-support-to-mac-os-x-and-more/)
+* [Hier wird euch erklärt wie ihr PostgreSQL aufsetzt.](https://opensource.com/article/19/11/getting-started-postgresql)
+* [Digikam wurde in der Version 6.4 veröffentlicht.](https://www.pro-linux.de/news/1/27582/digikam-64-mit-erweiterter-plugin-schnittstelle.html)
