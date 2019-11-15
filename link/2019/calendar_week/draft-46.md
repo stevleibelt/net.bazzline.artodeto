@@ -22,3 +22,8 @@
 * [www.heimat-fuer-fachkraefte.de - Das Portal für alle aus Sachsen die wieder nach Hause wollen.](https://www.so-geht-saechsisch.de/zu-hause-in-sachsen/ankommen/fachkraefte-fuer-sachsen-ein-ueberblick-der-jobportale-im-freistaat/)
 * [Die Unterstützung für PHP 7.1 endet bald.](https://www.pro-linux.de/news/1/27586/unterst%C3%BCtzung-f%C3%BCr-php-71-endet-bald.html)
 * [Burnout? Das Problem kann einem auch in der Open-Source-Welt begegnen.](https://opensource.com/article/19/11/burnout-open-source-communities)
+* [PostgreSQL wurde in den Versionen 12.1, 11.6, 10.11, 9.6.16, 9.5.20, und 9.4.25 veröffentlicht.](https://www.postgresql.org/about/news/1994/)
+* [Der Container-Registry Dienst Quay ist jetzt freie Software, danke RedHat.](https://www.pro-linux.de/news/1/27589/red-hat-%C3%B6ffnet-quay.html)
+* [>>Aktuelles für Chemnitz im Nov / Dez 2019<<](https://bio-erzgebirge.de/wp/?p=19461)
+* [>>Spaß statt Streit. Mama chill mal!<< - Workshop in Freiberg.](https://anjakraschewski.de/spass-statt-streit-workshop/)
+* [Interessante Aussage von FeFe, zwar kann Sandboxing das Hostsystem schützen, aber die Daten im Prozess können dennoch missbraucht werden - Daten, das Erdöl des 21. Jahrhunderts.](https://blog.fefe.de/?ts=a332c5b4)
