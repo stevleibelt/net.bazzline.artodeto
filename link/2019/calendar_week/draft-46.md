@@ -27,3 +27,14 @@
 * [>>Aktuelles für Chemnitz im Nov / Dez 2019<<](https://bio-erzgebirge.de/wp/?p=19461)
 * [>>Spaß statt Streit. Mama chill mal!<< - Workshop in Freiberg.](https://anjakraschewski.de/spass-statt-streit-workshop/)
 * [Interessante Aussage von FeFe, zwar kann Sandboxing das Hostsystem schützen, aber die Daten im Prozess können dennoch missbraucht werden - Daten, das Erdöl des 21. Jahrhunderts.](https://blog.fefe.de/?ts=a332c5b4)
+* [Große Plattformen haben immer mehr Ausfälle weil auch diese nur bei Amazon und Google mieten? So ist das mit der magischen Hand des freien Marktes, Einheitsbrei in verschiedenen Verpackungen.](https://tuxproject.de/blog/2019/11/wer-sich-in-die-cloud-begibt-der-kommt-darin-um-5/)
+* [Docker wurde von Mirantis gekauft. Docker-Swarm soll in zwei Jahren zu Googles Kubernets migriert werden.](https://www.pro-linux.de/news/1/27591/mirantis-kauft-docker-enterprise-technology-platform.html) - Für Docker gibt es [Builda](https://buildah.io/), für Docker-Compose und Docker-Swarm gibt es noch keine freie Alternative.
+* [Internetradio mit PyRadio :-).](https://opensource.com/article/19/11/pyradio)
+* [Microsoft lässt den Windows Server 2008 auslaufen und bietet als Alternative nur ihre Azure-Cloud an.](https://blog.fefe.de/?ts=a330ab1b)
+* [Pub/Sub Job-Server? Das geht in PostgreSQL und zwar ziemlich gut.](https://layerci.com/blog/postgres-is-the-answer/)
+* [Staatstrojaner gegen Gefährder und jetzt auch gegen Einbrecher.](https://blog.fefe.de/?ts=a3300371) - Und wenn man schon dabei ist wird die Augen-, Haar- und Hautfarbe gleich mit an den Datensatz gepackt.
+* [Nestle, PepsiCo, Danone, Kraft Heinz Company und Mondelez International - von den Konzernen solltet ihr keine Nahrungsmittel mehr kaufen.](https://netzfrauen.org/2019/11/15/konzerne-4/)
+* [>>Leistungsspektrum - Heiko Dietrich Bauunternehmen GmbH & Co. KG<< - aus Langenau](https://www.youtube.com/watch?v=fXFvYCaV5Qg)
+* [Einen Marktschwärmer gibt es auch in Freiberg.](https://marktschwaermer.de/de-DE/assemblies/12037/collections/194395/products/category/highlighted)
+* [>>Dein Gehirn richtig nutzen! - Wie Du Dein Potenzial entwickeln kannst - Prof. Dr. Gerald Hüther<<](https://www.welt-im-wandel.tv/video/dein-gehirn-richtig-nutzen-wie-du-dein-potenzial-entwickeln-kannst-prof-dr-gerald-huether/)
+* [>>Heilpflanze des Monats November 2019: Hanf<<](https://bio-erzgebirge.de/wp/?p=19384)
