@@ -38,3 +38,8 @@
 * [Einen Marktschwärmer gibt es auch in Freiberg.](https://marktschwaermer.de/de-DE/assemblies/12037/collections/194395/products/category/highlighted)
 * [>>Dein Gehirn richtig nutzen! - Wie Du Dein Potenzial entwickeln kannst - Prof. Dr. Gerald Hüther<<](https://www.welt-im-wandel.tv/video/dein-gehirn-richtig-nutzen-wie-du-dein-potenzial-entwickeln-kannst-prof-dr-gerald-huether/)
 * [>>Heilpflanze des Monats November 2019: Hanf<<](https://bio-erzgebirge.de/wp/?p=19384)
+* [In Ohio USA darf man niemanden mehr bestrafen wenn deren Arbeit wissenschaftlich falsch ist solange der Grund dafür der ist, dass seine Religion ihm das so erklärt.](https://blog.fefe.de/?ts=a331fc6e)
+* [Die USA dürfen wohl zukünftig nicht mehr "pro forma" eure Geräte durchsuchen.](https://tuxproject.de/blog/2019/11/eine-gute-und-eine-schlechte-nachricht-zum-ueberwachungsstaat/)
+* [Wine wurde in der Version 4.20 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=Wine-4.20-Released)
+* [Interessante Gedanken warum die Blockpartei so leichtfertig die deutsche Solarbranche sterben lässt - wirtschaftlich hat es fast nur die neuen Bundesländer betroffen und die sind für die CDU/CSU/FDP-Wähler unnützer Ballast.](https://www.sonnenseite.com/de/wirtschaft/30-jahre-aufbruch-ost-von-pleiten-und-hoffnungen.html)
+* [Debian wird in der Version 10.2 veröffentlicht.](http://www.phoronix.com/scan.php?page=news_item&px=Debian-10.2-Released)
