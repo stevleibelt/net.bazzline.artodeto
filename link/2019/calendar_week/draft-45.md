@@ -8,3 +8,5 @@
 * [Wenn die Klimaschutzpläne der EU als ausreichend eingestuft werden, kannst du dir vorstellen wie schlecht es um den Klimaschutz weltweil steht.](https://blog.fefe.de/?ts=a33f0a56)
 * [Git wurde in der Version 2.24.0 veröffentlicht.](https://lwn.net/Articles/803893/rss)
 * [Endlich, die DSVGO zeigt weitere Wirkung, 14.5 Millionen Euro Strafe gegen Deutsche Wohnen.](https://blog.fefe.de/?ts=a33c409a)
+* [30 Prozent mehr SUV's allein von BWM in einem Quartal - Das müssen die Wähler der Blockpartei ohne Enkelkinder und verstrahltem Kopf sein.](https://blog.fefe.de/?ts=a33c210b)
+* [Hier gibt es ein Rezept wie ihr Naan Brot selber macht.](https://www.smarticular.net/naan-brot-rezept-indisches-fladenbrot-ohne-hefe-vegan/)
