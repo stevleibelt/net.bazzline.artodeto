@@ -4,3 +4,7 @@
 * [RegExp in awk? Hier könnt ihr es lernen.](https://opensource.com/article/19/11/how-regular-expressions-awk)
 * [Haare? Kann man auch ohne Chemiepampe waschen und pflegen.](https://www.smarticular.net/haarpflege-naturlocken-curly-girl-methode/)
 * [Mal wieder VIM und seine Plugins, mit Volk fängt alles an.](https://opensource.com/article/19/11/vim-plugins)
+* [Helft den Chemnitzer Linuxtagen 14.03.2020 ein Erfolg zu werden.](https://www.pro-linux.de/news/1/27602/chemnitzer-linux-tage-2020-rufen-zur-mitarbeit-auf.html)
+* [Coreboot wurde in der Version 4.11 veröffentlicht.](https://www.pro-linux.de/news/1/27603/coreboot-411-ver%C3%B6ffentlicht.html)
+* [Was ihr beachten müsst, wenn ihr von Python 2 auf Python 3 wechselt.](https://opensource.com/article/19/11/end-of-life-python-2)
+* [Wow, Schwedens Staatsanwaltschaft lässt die Vorwürfe gegen Julian Assange fallen.](https://blog.fefe.de/?ts=a32aeb02)
