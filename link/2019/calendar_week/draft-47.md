@@ -8,3 +8,5 @@
 * [Coreboot wurde in der Version 4.11 veröffentlicht.](https://www.pro-linux.de/news/1/27603/coreboot-411-ver%C3%B6ffentlicht.html)
 * [Was ihr beachten müsst, wenn ihr von Python 2 auf Python 3 wechselt.](https://opensource.com/article/19/11/end-of-life-python-2)
 * [Wow, Schwedens Staatsanwaltschaft lässt die Vorwürfe gegen Julian Assange fallen.](https://blog.fefe.de/?ts=a32aeb02)
+* [Nein? Doch! Oh? Das Entziehen der Akkreditierung vieler Journalisten beim G20 Gipfel in Hamburg war unrechtmäßig.](https://blog.fefe.de/?ts=a32b4c26)
+* [Israel, Rumänien, Belgien, überall sieht man, dass die Wähler keine Lust mehr auf Blockparteien haben.](https://blog.fefe.de/?ts=a3288c2d) - Keine Regierung ist manchmal halt besser als eine die gegen das Volk und für die Konzerne arbeitet - mal schauen ob die Deutschen auch noch darauf kommen.
