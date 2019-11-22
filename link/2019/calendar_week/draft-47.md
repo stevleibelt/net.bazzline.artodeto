@@ -10,3 +10,6 @@
 * [Wow, Schwedens Staatsanwaltschaft lässt die Vorwürfe gegen Julian Assange fallen.](https://blog.fefe.de/?ts=a32aeb02)
 * [Nein? Doch! Oh? Das Entziehen der Akkreditierung vieler Journalisten beim G20 Gipfel in Hamburg war unrechtmäßig.](https://blog.fefe.de/?ts=a32b4c26)
 * [Israel, Rumänien, Belgien, überall sieht man, dass die Wähler keine Lust mehr auf Blockparteien haben.](https://blog.fefe.de/?ts=a3288c2d) - Keine Regierung ist manchmal halt besser als eine die gegen das Volk und für die Konzerne arbeitet - mal schauen ob die Deutschen auch noch darauf kommen.
+* [Absurde und interessengebundene Politik der Blockpartei aufzeigen? Heute am Beispiel der Windkrafträder.](https://blog.fefe.de/?ts=a3287a32) - Die Chance, dass ihr eine Müllverbrennungsanlage neben euren Haus stehen habt ist höher als dass da ein Windkraftrad hinkommt. So sieht Politik aus, wenn die Atomkonzerne die Politiker schmieren.
+* [Windkrafträder töten Vögel? Ja, ungefähr 10 Prozent der Vögel die ein Atomkraftwerk umbringt.](https://blog.fefe.de/?ts=a32956eb)
+* [OpenRA wurde in der Version 20191117 veröffentlicht.](https://www.pro-linux.de/news/1/27606/openra-commandconquer-nachbau-in-neuer-version.html)
