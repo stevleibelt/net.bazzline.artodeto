@@ -13,3 +13,8 @@
 * [Absurde und interessengebundene Politik der Blockpartei aufzeigen? Heute am Beispiel der Windkrafträder.](https://blog.fefe.de/?ts=a3287a32) - Die Chance, dass ihr eine Müllverbrennungsanlage neben euren Haus stehen habt ist höher als dass da ein Windkraftrad hinkommt. So sieht Politik aus, wenn die Atomkonzerne die Politiker schmieren.
 * [Windkrafträder töten Vögel? Ja, ungefähr 10 Prozent der Vögel die ein Atomkraftwerk umbringt.](https://blog.fefe.de/?ts=a32956eb)
 * [OpenRA wurde in der Version 20191117 veröffentlicht.](https://www.pro-linux.de/news/1/27606/openra-commandconquer-nachbau-in-neuer-version.html)
+* [Roundcube wurde in der Version 1.4.1 veröffentlicht.](https://roundcube.net/news/2019/11/22/update-1.4.1-released)
+* [Wiener Kalk als natürliches Gegenmittel zur chemischen Keule von der Industrie.](https://www.smarticular.net/wiener-kalk-scheuerpulver-putzen-polieren/)
+* [Zusammenfassung wie illegal Rainer Wendt (CDU) so sein Demokrativerständniss ausübt.](https://blog.fefe.de/?ts=a326ed4c)
+* [UUID's in Datenbanken, schon gut aber eben langsam. Hier wird euch gezeigt was man dagegen machen kann.](https://www.percona.com/blog/2019/11/22/uuids-are-popular-but-bad-for-performance-lets-discuss/)
+* [Trump zeigt wie es geht, so viel Mist erzählen und machen bis keiner mehr zuhört oder hinterher kommt.](https://blog.fefe.de/?ts=a326b295) - Das probiert die Blockpartei in Deutschland auch schon im Kleinen.
