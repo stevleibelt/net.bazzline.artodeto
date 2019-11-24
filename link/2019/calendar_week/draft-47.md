@@ -18,3 +18,4 @@
 * [Zusammenfassung wie illegal Rainer Wendt (CDU) so sein Demokrativerständniss ausübt.](https://blog.fefe.de/?ts=a326ed4c)
 * [UUID's in Datenbanken, schon gut aber eben langsam. Hier wird euch gezeigt was man dagegen machen kann.](https://www.percona.com/blog/2019/11/22/uuids-are-popular-but-bad-for-performance-lets-discuss/)
 * [Trump zeigt wie es geht, so viel Mist erzählen und machen bis keiner mehr zuhört oder hinterher kommt.](https://blog.fefe.de/?ts=a326b295) - Das probiert die Blockpartei in Deutschland auch schon im Kleinen.
+* [Warum wird eigentlich nicht in die Brennstoffzellenauto investiert? Zu wenig Teile, zu lange Haltbarkeit.](https://www.sonnenseite.com/de/energie/harald-lesch-brennstoffzelle-im-auto-besser-als-lithiumakkus.html)
