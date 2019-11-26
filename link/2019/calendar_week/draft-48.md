@@ -1,3 +1,5 @@
 * [Kostenlose Schufaauskunft? Es wäre nicht die Schufa, wenn die Seite nicht versteckt wäre - "Datenkopie" ist der Namen und hier ist der Link.](https://www.meineschufa.de/site-11_3_1)
 * [Nein? Doch! Oh? UnitTests sind für den Entwickler wichtig - Firmen sollten ihren Entwickler also Zeit für UnitTests einräumen.](https://utcc.utoronto.ca/~cks/space/blog/programming/UnitTestsAsVerification)
 * [So, so, China wil bis 2050 null CO2-Emissionen schaffen, doof nur dass die Erde 25 Jahre vorher schon richtig kaputt gemacht wurde.](https://www.sonnenseite.com/de/politik/china-bis-2050-netto-null-c02-emissionen.html)
+* [Linux wurde in der Version 5.4 veröffentlicht.](https://www.pro-linux.de/news/1/27615/linux-kernel-54-freigegeben.html)
+* [Fortinet ist kaputt.](https://blog.fefe.de/?ts=a3223324)
