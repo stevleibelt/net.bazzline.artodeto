@@ -3,3 +3,6 @@
 * [So, so, China wil bis 2050 null CO2-Emissionen schaffen, doof nur dass die Erde 25 Jahre vorher schon richtig kaputt gemacht wurde.](https://www.sonnenseite.com/de/politik/china-bis-2050-netto-null-c02-emissionen.html)
 * [Linux wurde in der Version 5.4 veröffentlicht.](https://www.pro-linux.de/news/1/27615/linux-kernel-54-freigegeben.html)
 * [Fortinet ist kaputt.](https://blog.fefe.de/?ts=a3223324)
+* [Devuan wurde in der Version 2.1 veröffentlicht.](http://www.phoronix.com/scan.php?page=news_item&px=Devuan-2.1-Released)
+* [LibreELEC wurde in der Version 9.2 veröffentlicht.](https://www.pro-linux.de/news/1/27618/media-distribution-libreelec-92-freigegeben.html)
+* [Die Polizei der NRW wollte die Polizei-Bilder und GPS-Daten der Hambacher Forst Besetzer an den NRW Konzern weitergeben](https://blog.fefe.de/?ts=a32381d9)
