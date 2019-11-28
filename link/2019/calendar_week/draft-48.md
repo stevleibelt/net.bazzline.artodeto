@@ -6,3 +6,6 @@
 * [Devuan wurde in der Version 2.1 veröffentlicht.](http://www.phoronix.com/scan.php?page=news_item&px=Devuan-2.1-Released)
 * [LibreELEC wurde in der Version 9.2 veröffentlicht.](https://www.pro-linux.de/news/1/27618/media-distribution-libreelec-92-freigegeben.html)
 * [Die Polizei der NRW wollte die Polizei-Bilder und GPS-Daten der Hambacher Forst Besetzer an den NRW Konzern weitergeben](https://blog.fefe.de/?ts=a32381d9)
+* [Sogar Haribo verkackt ihre SAP Einführung.](https://blog.fefe.de/?ts=a3208de3)
+* [Flask, API aber wie? Hier könnt ihr euch schlau lesen.](https://opensource.com/article/19/11/python-web-api-flask)
+* [Lutris wurde in der Version 0.5.4 veröffentlicht.](http://www.phoronix.com/scan.php?page=news_item&px=Lutris-0.5.4-Released)
