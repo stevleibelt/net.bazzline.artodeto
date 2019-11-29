@@ -9,3 +9,6 @@
 * [Sogar Haribo verkackt ihre SAP Einführung.](https://blog.fefe.de/?ts=a3208de3)
 * [Flask, API aber wie? Hier könnt ihr euch schlau lesen.](https://opensource.com/article/19/11/python-web-api-flask)
 * [Lutris wurde in der Version 0.5.4 veröffentlicht.](http://www.phoronix.com/scan.php?page=news_item&px=Lutris-0.5.4-Released)
+* [Im Dunstkreis der SPD zu leben zahlt sich monatlich aus, egal ob man Student ist oder in der KiTa arbeitet - alle sind gleich, manche sind gleicher.](https://blog.fefe.de/?ts=a3200d93)
+* [Proxmox Mail Gateway wurde in der Version 6.1 veröffentlicht.](https://www.pro-linux.de/news/1/27624/proxmox-mail-gateway-61-ver%C3%B6ffentlicht.html)
+* [Regenwasser auffangen und Solarenergie speicher, das kann man nun mit einem Zelt.](https://netzfrauen.org/2019/11/28/abeer-seikaly/)
