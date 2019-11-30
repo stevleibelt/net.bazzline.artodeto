@@ -12,3 +12,7 @@
 * [Im Dunstkreis der SPD zu leben zahlt sich monatlich aus, egal ob man Student ist oder in der KiTa arbeitet - alle sind gleich, manche sind gleicher.](https://blog.fefe.de/?ts=a3200d93)
 * [Proxmox Mail Gateway wurde in der Version 6.1 veröffentlicht.](https://www.pro-linux.de/news/1/27624/proxmox-mail-gateway-61-ver%C3%B6ffentlicht.html)
 * [Regenwasser auffangen und Solarenergie speicher, das kann man nun mit einem Zelt.](https://netzfrauen.org/2019/11/28/abeer-seikaly/)
+* [Hier gibt es ein paar Geschenkideen wenn eure Kinder fünf bis zehn Jahre alt sind.](https://opensource.com/article/19/11/maker-gifts-kids) - Also Geschenkideen die was taugen.
+* [Die Bundeswehr kann ihre neuen Hubschrauber nicht nutzen weil das Handbuch zu schlecht ist - der Hersteller weiß das aber sitzt es aus.](https://blog.fefe.de/?ts=a31ffc8e)
+* [Was für eine gute Idee, Marmeladenrester zum Salatdressing machen.](https://www.smarticular.net/salatdressing-marmeladenreste-vinaigrette-salatsosse/)
+* [Ach Mensch, warum übertreibt der Kapitalismus immer? Wasserkraftwerke können uns helfen, aber wenn man an jeder Schlucht eins aufbaut gewinnen wir Strom, aber verlieren unsere Tiere und Pflanzen.](https://www.sonnenseite.com/de/umwelt/europas-fluesse-sind-verdammt.html) - Das ein BWL-er halt auch nicht ein einziges Mal mitdenken kann.
