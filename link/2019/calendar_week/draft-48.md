@@ -16,3 +16,4 @@
 * [Die Bundeswehr kann ihre neuen Hubschrauber nicht nutzen weil das Handbuch zu schlecht ist - der Hersteller weiß das aber sitzt es aus.](https://blog.fefe.de/?ts=a31ffc8e)
 * [Was für eine gute Idee, Marmeladenrester zum Salatdressing machen.](https://www.smarticular.net/salatdressing-marmeladenreste-vinaigrette-salatsosse/)
 * [Ach Mensch, warum übertreibt der Kapitalismus immer? Wasserkraftwerke können uns helfen, aber wenn man an jeder Schlucht eins aufbaut gewinnen wir Strom, aber verlieren unsere Tiere und Pflanzen.](https://www.sonnenseite.com/de/umwelt/europas-fluesse-sind-verdammt.html) - Das ein BWL-er halt auch nicht ein einziges Mal mitdenken kann.
+* [Wenn ihr in Microsoft Windows Explorer die Word-Preview anhabt, kann damit alles mögliche im Hintergrund ausgeführt werden. Und will Microsoft das Problem beheben? Nö](https://blog.fefe.de/?ts=a31d2979)
