@@ -12,3 +12,5 @@
 * [Im Dunstkreis der SPD zu leben zahlt sich monatlich aus, egal ob man Student ist oder in der KiTa arbeitet - alle sind gleich, manche sind gleicher.](https://blog.fefe.de/?ts=a3200d93)
 * [Proxmox Mail Gateway wurde in der Version 6.1 veröffentlicht.](https://www.pro-linux.de/news/1/27624/proxmox-mail-gateway-61-ver%C3%B6ffentlicht.html)
 * [Regenwasser auffangen und Solarenergie speicher, das kann man nun mit einem Zelt.](https://netzfrauen.org/2019/11/28/abeer-seikaly/)
+* [Die installierten Solar-Kraftwerke erreichen wohl noch dieses Jahr die 52 Gigawatt-Marke.](https://www.sonnenseite.com/de/politik/bayern-fordert-sofortige-aufhebung-des-52-gigawatt-deckels-fuer-photovoltaik.html)
+* [Nein? Doch! Oh? Wachstum erzeugt Bedürfnisse die nicht wichtig sind und verbraucht Ressourcen für quatsch.](https://netzfrauen.org/2019/11/29/wachstum-2/)
