@@ -1,2 +1,5 @@
 * [Die installierten Solar-Kraftwerke erreichen wohl noch dieses Jahr die 52 Gigawatt-Marke.](https://www.sonnenseite.com/de/politik/bayern-fordert-sofortige-aufhebung-des-52-gigawatt-deckels-fuer-photovoltaik.html)
 * [Nein? Doch! Oh? Wachstum erzeugt Bedürfnisse die nicht wichtig sind und verbraucht Ressourcen für quatsch.](https://netzfrauen.org/2019/11/29/wachstum-2/)
+* [Früher ging es ums Kupfer, heute ums Lithium - ein Muster wie die westliche Welt putscht.](https://weltnetz.tv/ticker/2216-westliche-demokratie-reloaded-1973-kupfer-2019-lithium)
+* [Ihr wollt euch dem Konsum in der Weihnachtszeit hingeben? Hier gibt es ein paar Open Source "Spielzeuge".](https://opensource.com/article/19/12/gadgets-holiday-wishlist)
+* [Sonneborn schlägt etwas völlig verrücktes für die EU-Politiker vor - moralische Standards.](https://blog.fefe.de/?ts=a31d5f17)
