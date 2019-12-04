@@ -3,3 +3,10 @@
 * [Früher ging es ums Kupfer, heute ums Lithium - ein Muster wie die westliche Welt putscht.](https://weltnetz.tv/ticker/2216-westliche-demokratie-reloaded-1973-kupfer-2019-lithium)
 * [Ihr wollt euch dem Konsum in der Weihnachtszeit hingeben? Hier gibt es ein paar Open Source "Spielzeuge".](https://opensource.com/article/19/12/gadgets-holiday-wishlist)
 * [Sonneborn schlägt etwas völlig verrücktes für die EU-Politiker vor - moralische Standards.](https://blog.fefe.de/?ts=a31d5f17)
+* [Die Versicherungen im Westen wollen Kohlekraftwerke nicht mehr versichern.](https://blog.fefe.de/?ts=a31b5fe7)
+* [Nein? Doch! Oh? Auch Siemens zahlt Schmiergelder um günstig an Volkseigentum zu kommen - das kennt Siemens noch von der Treuhand.](https://blog.fefe.de/?ts=a31b5e79)
+* [RabbitMQ ist kaputt.](https://blog.fefe.de/?ts=a31bad9e)
+* [KFZ-Kennzeichenscanner für die Umwelt! Nur so kann man Fahrverbote durchsetzen meint die Polizei Berlin.](https://blog.fefe.de/?ts=a318ed58) - Kinderpornographie funktioniert hier nicht und nach dem KFZ-Kennzeichenscanner kommt dann die Forderung nach einer Fehrnsteuerung für das KFZ.
+* [Hackfressenbuch schenkt ihren Mitarbeiter einen Chatbot damit diese sich gegen die schweren Fragen aus ihrer Familie behelfen können.](https://blog.fefe.de/?ts=a318e9f0)
+* [Realitätsabgleich AKW's in Frankreich - die werden alle bald hochgehen.](https://netzfrauen.org/2019/12/03/france-2/)
+* [Smartphones für Kinder? Erst ab 12 Jahre und ab 18 ohne Aufsicht.](https://www.kuketz-blog.de/kommentar-android-smartphone-kinder-und-jugendfreundlich-einrichten/)
