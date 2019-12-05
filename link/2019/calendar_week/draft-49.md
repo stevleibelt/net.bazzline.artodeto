@@ -10,3 +10,7 @@
 * [Hackfressenbuch schenkt ihren Mitarbeiter einen Chatbot damit diese sich gegen die schweren Fragen aus ihrer Familie behelfen können.](https://blog.fefe.de/?ts=a318e9f0)
 * [Realitätsabgleich AKW's in Frankreich - die werden alle bald hochgehen.](https://netzfrauen.org/2019/12/03/france-2/)
 * [Smartphones für Kinder? Erst ab 12 Jahre und ab 18 ohne Aufsicht.](https://www.kuketz-blog.de/kommentar-android-smartphone-kinder-und-jugendfreundlich-einrichten/)
+* [Wir können etwas als Gesellschaft verändern, dank Herrn Kuketz hat sich die Techniker Krankenkasse von der Ada Health GmbH getrennt.](https://www.kuketz-blog.de/techniker-krankenkasse-beendet-kooperation-mit-der-ada-health-gmbh/)
+* [Firefox wurde in der Version 71 veröffentlicht.](https://lwn.net/Articles/806215/rss)
+* [Wie wäre es mal mit einer Nudelsosse aus Hagebutten?](https://www.smarticular.net/hagebuttensosse-selber-machen-vegan/)
+* [Nein? Doch! Oh? Avast's Browser-Erweiterungen schicken munter den ganzen Verlauf eures Browsers an Avast.](https://blog.fefe.de/?ts=a318b785)
