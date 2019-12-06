@@ -22,3 +22,8 @@
 * [Das passiert wenn wir der FDP und ihren Wunsch nach einem schlanken Staat folgen - der Staat bleibt stehen.](https://blog.fefe.de/?ts=a31971e3)
 * [Eine schöne Idee wenn eure Kinder Angst vor Monstern haben - macht ein Anti-Monster Spray mit ätherischen Ölen die beruhigend wirken.](https://www.smarticular.net/anti-monster-spray-lavendel/)
 * [Nein? Doch! Oh? Brustkrebs kommt auch von der Chemie die sich Menschen täglich im Bad auf den Körper schmeißen.](https://blog.fefe.de/?ts=a31695f4)
+* [Kuketz hat seinen sechsten Teil der Serie OpenWRT fertig gestellt.](https://www.kuketz-blog.de/firewall-kontrolle-ausgehender-datenverkehr-openwrt-teil6/)
+* [gewaltlos.de scheint wohl ein Sicherheitsproblem zu haben, gebt eure Daten dort lieber nicht hin - tut mir leid, ich hoffe ihr findet eine andere Anlaufstelle, denn das Thema ist ernst.](https://www.kuketz-blog.de/warnung-vor-der-beratungsplattform-gewaltlos-de/)
+* [Nextcloud für Android wurde in der Version 3.9.2 veröffentlicht.](https://nextcloud.com/blog/nextcloud-3-9-2-for-android-is-out-plus-a-tip/)
+* [Pretix ist ein Open-Source Ticketshop das ihr lokal auf eurem Server hosten könnt.](https://www.pro-linux.de/artikel/2/1987/pretix-open-source-alternative-zuf%C3%BCr-event-ticketdienstleister.html)
+* [Kanal9TV - Weihnachtsmarkt Lichtenberg 2019](https://www.youtube.com/watch?v=GzfTE0_VaIo)
