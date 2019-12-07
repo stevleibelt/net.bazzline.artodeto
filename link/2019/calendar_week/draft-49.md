@@ -27,3 +27,7 @@
 * [Nextcloud für Android wurde in der Version 3.9.2 veröffentlicht.](https://nextcloud.com/blog/nextcloud-3-9-2-for-android-is-out-plus-a-tip/)
 * [Pretix ist ein Open-Source Ticketshop das ihr lokal auf eurem Server hosten könnt.](https://www.pro-linux.de/artikel/2/1987/pretix-open-source-alternative-zuf%C3%BCr-event-ticketdienstleister.html)
 * [Kanal9TV - Weihnachtsmarkt Lichtenberg 2019](https://www.youtube.com/watch?v=GzfTE0_VaIo)
+* [Barman wurde in der Version v2.10 veröffentlicht.](https://www.postgresql.org/about/news/1999/)
+* [DeepSpeech wurde in der Version 0.6 veröffentlicht.](https://www.pro-linux.de/news/1/27648/mozilla-gibt-deepspeech-06-frei.html)
+* [Kanal9TV - Weihnachtsmarkt Eppendorf 2019 - 50 Jahre Pyramide](https://www.youtube.com/watch?v=IF9vgVVP8NQ)
+* [Kanal9TV - Stollenanschnitt 2019 - 30. Freiberger Christmarkt](https://www.youtube.com/watch?v=jmtwhjc4TR4)
