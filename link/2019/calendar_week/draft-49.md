@@ -31,3 +31,5 @@
 * [DeepSpeech wurde in der Version 0.6 veröffentlicht.](https://www.pro-linux.de/news/1/27648/mozilla-gibt-deepspeech-06-frei.html)
 * [Kanal9TV - Weihnachtsmarkt Eppendorf 2019 - 50 Jahre Pyramide](https://www.youtube.com/watch?v=IF9vgVVP8NQ)
 * [Kanal9TV - Stollenanschnitt 2019 - 30. Freiberger Christmarkt](https://www.youtube.com/watch?v=jmtwhjc4TR4)
+* [Die Konsumgesellschaft hat es geschafft, jeder ist mit Dingen so beschäftigt, dass Menschen vor Einsamkeit sterben.](https://netzfrauen.org/2019/12/07/einsamkeit-2/) - Keine Sorge, Hackfressenbuch und Be-Evil-Google werden für das Problem bald Roboter erfinden.
+* [Das Gift Chlorpyrifos wird in der EU endlich ab 31.01.2020 verboten sein - hoffen wir, dass die Industrie nicht einfach mit einem noch schlimmeren Lebensvernichter um die Ecke kommt und das mit Schmiergeldern durchdrückt.](https://www.sonnenseite.com/de/umwelt/groer-erfolg-fr-die-gesundheit.html)
