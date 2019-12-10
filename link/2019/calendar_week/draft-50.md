@@ -3,3 +3,5 @@
 * [Hier, so eine linke Hippi-Seite hat mal wieder herausgefunden, dass der Ozean Sauerstoff und damit Arten verliert ... ach war gar keine linke Hippi-Seite :-O.](https://blog.fefe.de/?ts=a313ce5b)
 * [Europa ist wieder wer, Nummer 1 im Export von Plastikmüll!](https://netzfrauen.org/2019/12/08/plastic-22/) - Deutschland ist pro Einwohner und Landfläche die Nummer 1 weltweit!
 * [Brot so verwerten dass es Kindern schmeckt? 350 gr Brot, 2 Eier, 400 ml Milch, 100 gr Honig und ein wenig Obst.](https://www.smarticular.net/suesser-brotresteauflauf-ofenschlupfer-scheiterhaufen-vegan/)
+* [PostgreSQL JDBC wurde in der Version 42.2.9 veröffentlicht.](https://www.postgresql.org/about/news/2000/)
+* [Vulkan wurde in der Version 1.1.130 veröffentlicht.](http://www.phoronix.com/scan.php?page=news_item&px=Vulkan-1.1.130-Released)
