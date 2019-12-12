@@ -11,3 +11,7 @@
 * [>>>[...] The Washington Post reveals that senior U.S. officials failed to tell the truth about the war in Afghanistan throughout the 18-year campaign [...]<<](https://blog.fefe.de/?ts=a30ec7c3)
 * [Git wurde in so vielen Versionen aktualisiert ... aktualisiert eurer Git, dann seid ihr wieder etwas sicherer.](https://lwn.net/Articles/806972/rss)
 * [Nach Slow Food gibt es jetzt Slow Fashion - wie beim Essen kann man sagen, halt genau so wie man früher Kleidung produziert hat - lokal, langlebig und nachhaltig.](https://www.careelite.de/slow-fashion/)
+* [Lol, Apple ist wirklich in seiner eigenen Welt.](https://blog.fefe.de/?ts=a30ffebc)
+* [Selten Erden? Da scheint China einfach mehr in Forschung und Entwicklung gesteckt zu haben.](https://blog.fefe.de/?ts=a30e1d58) - "Forschung und Entwicklung"? Genau den Bereich den die BWL-er der Blockpartei wegstreichen.
+* [Certbot wurde in der Version 1.0 veröffentlicht.](https://www.pro-linux.de/news/1/27659/certbot-10-ver%C3%B6ffentlicht.html) - Danke EFF! Schade, dass mein Professor recht hatte als er vor 20 Jahren gesagt hat, dass bald alles verschlüsselt ist und wir damit viel Freiheit verlieren.
+* [Das Verfassungsgericht in Österreich verbietet den Staatstrojaner und die automatische Kennzeichenerfassung in Österreicht.](https://blog.fefe.de/?ts=a30ffe1a) - Was wird unsere Blockpartei dazu sagen? Die Bürger wurden nicht genug aufgeklärt!
