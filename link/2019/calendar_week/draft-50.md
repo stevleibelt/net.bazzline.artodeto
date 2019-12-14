@@ -15,3 +15,10 @@
 * [Selten Erden? Da scheint China einfach mehr in Forschung und Entwicklung gesteckt zu haben.](https://blog.fefe.de/?ts=a30e1d58) - "Forschung und Entwicklung"? Genau den Bereich den die BWL-er der Blockpartei wegstreichen.
 * [Certbot wurde in der Version 1.0 veröffentlicht.](https://www.pro-linux.de/news/1/27659/certbot-10-ver%C3%B6ffentlicht.html) - Danke EFF! Schade, dass mein Professor recht hatte als er vor 20 Jahren gesagt hat, dass bald alles verschlüsselt ist und wir damit viel Freiheit verlieren.
 * [Das Verfassungsgericht in Österreich verbietet den Staatstrojaner und die automatische Kennzeichenerfassung in Österreicht.](https://blog.fefe.de/?ts=a30ffe1a) - Was wird unsere Blockpartei dazu sagen? Die Bürger wurden nicht genug aufgeklärt!
+* [Krankenhäuser vernetzen und in das Internet lassen? Keine Gute Idee, heutiges Beispiel - Fürth.](https://blog.fefe.de/?ts=a30ac48b)
+* [Realitätsabgleich Banking-Apps, die sind halt echt alle so schlecht wie man dachte.](https://blog.fefe.de/?ts=a30d72a0) - Und Warum? Weil sie nur Bestimmungen von Versicherungen erfüllen müssen die nichts mit der Realität zu tun haben.
+* [Ihr kauft Obst und Gemüse in Deutschland das viele 1000 Kilometer entfernt gezüchtet wird? Ich hab hier einen kleinen Realitätsabgleich für euch.](https://netzfrauen.org/2019/12/13/pesticides-3/)
+* [Virtual Box wurde in der Version 6.1 veröffentlicht.](http://www.phoronix.com/scan.php?page=news_item&px=VirtualBox-6.1-Released)
+* [Dank SAP und ihrem Können im Verkacken und Geld raus tragen bleiben unsere Flieger auf dem Boden.](https://blog.fefe.de/?ts=a30cec71) - Auch eine Art das Weltklima zu retten ;-).
+* [ASN-Skript in Android via AFWall+ einbinden um Google und Hackfressenbuch auszusperren.](https://www.kuketz-blog.de/android-datensammler-wie-google-und-facebook-via-skript-aussperren/)
+* [Immer wieder eine richtig gute Idee - Atommüll auf einer Insel mitten im Ozean lagern - könnte ja nie jemand drauf kommen, dass dort mal Hochwasser oder ein Sturm wütet.](https://www.sonnenseite.com/de/zukunft/das-atomgrab-der-usa-bricht-auf-a-ozean-in-gefahr.html) - Und wenn, zahlt die Weltbevölkerung und nicht die Verursacher.
