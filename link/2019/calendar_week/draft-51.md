@@ -1,0 +1,2 @@
+* [Deutschland ist noch wer, besonders wenn es um ineffiziente Kohlekraftwerke geht.](https://de.wikipedia.org/wiki/Liste_von_fossilen_Kraftwerken_in_der_Europ%C3%A4ischen_Union_mit_der_h%C3%B6chsten_Kohlenstoffdioxidemission) - Danke [FeFe](https://blog.fefe.de/?ts=a308ff05)
+* [Unter dem Denkmantel der Bekämpfung der Rechten werden gerade alle Bürgerrechte im Internet ausgehebelt.](https://blog.fefe.de/?ts=a308f9fd) - [Hier](https://blog.fefe.de/?ts=a30b6146) der erste Artikel darüber.
