@@ -22,3 +22,4 @@
 * [Dank SAP und ihrem Können im Verkacken und Geld raus tragen bleiben unsere Flieger auf dem Boden.](https://blog.fefe.de/?ts=a30cec71) - Auch eine Art das Weltklima zu retten ;-).
 * [ASN-Skript in Android via AFWall+ einbinden um Google und Hackfressenbuch auszusperren.](https://www.kuketz-blog.de/android-datensammler-wie-google-und-facebook-via-skript-aussperren/)
 * [Immer wieder eine richtig gute Idee - Atommüll auf einer Insel mitten im Ozean lagern - könnte ja nie jemand drauf kommen, dass dort mal Hochwasser oder ein Sturm wütet.](https://www.sonnenseite.com/de/zukunft/das-atomgrab-der-usa-bricht-auf-a-ozean-in-gefahr.html) - Und wenn, zahlt die Weltbevölkerung und nicht die Verursacher.
+* [Bock auf Zuchtlachs? Realitätsabgleich und viel Spaß beim Gift essen.](https://netzfrauen.org/2019/12/14/salmon-2/)
