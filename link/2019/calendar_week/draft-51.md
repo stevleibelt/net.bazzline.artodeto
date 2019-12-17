@@ -6,3 +6,6 @@
 * [Nestle verliert mal wieder.](https://netzfrauen.org/2019/12/16/michigan-2/)
 * [OpenSlides wurde in der Version 3.1 veröffentlicht.](https://www.pro-linux.de/news/1/27671/openslides-31-verbessert-die-geschwindigkeit.html)
 * [DXVK wurde in der Version 1.5 veröffentlicht.](http://www.phoronix.com/scan.php?page=news_item&px=DXVK-1.5-Released)
+* [Die Deutsche Bahn wertet dann mal eure Sterckenverbindung aus - Datenschutz? Nicht mit der Deutschen Bahn!](https://blog.fefe.de/?ts=a3067fcc)
+* [Realitätsabgleich Bananen aus dem Supermarkt - lecker ist anders!](https://netzfrauen.org/2019/12/17/bananas-3/) - Schaut nur, wie viel Gift da verwendet wird.
+* [>>[...] Der zentrale Punkt hier ist, dass Geheimdienste immer lügen, egal wie gut und edel oder verderbt und böse die Partei ist, die ihre Lügen gerade als Basis für ihre Argumentation heranzieht. [...]<<](https://blog.fefe.de/?ts=a306e0cf)
