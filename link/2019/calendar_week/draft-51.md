@@ -9,3 +9,8 @@
 * [Die Deutsche Bahn wertet dann mal eure Sterckenverbindung aus - Datenschutz? Nicht mit der Deutschen Bahn!](https://blog.fefe.de/?ts=a3067fcc)
 * [Realitätsabgleich Bananen aus dem Supermarkt - lecker ist anders!](https://netzfrauen.org/2019/12/17/bananas-3/) - Schaut nur, wie viel Gift da verwendet wird.
 * [>>[...] Der zentrale Punkt hier ist, dass Geheimdienste immer lügen, egal wie gut und edel oder verderbt und böse die Partei ist, die ihre Lügen gerade als Basis für ihre Argumentation heranzieht. [...]<<](https://blog.fefe.de/?ts=a306e0cf)
+* [IT-Sicherheit? Das hört bei USB schon direkt auf.](https://blog.fefe.de/?ts=a307464c)
+* [SpamAssasin wurde in der Version 3.4.3 veröffentlicht.](https://lwn.net/Articles/807539/rss)
+* [Bei Percona gab es auch ein Weihnachtspaket an Veröffentlichungen.](https://www.percona.com/blog/2019/12/17/updated-xtradb-cluster-xtrabackup-percona-servers-new-features-in-kubernetes-operator-release-roundup/)
+* [Onlyoffice wurde in der Version 10.5 veröffentlicht.](https://www.pro-linux.de/news/1/27679/onlyoffice-105-erschienen.html)
+* [Dem stimme ich mit ein, >>Ich wünsch dir genug<<.](https://netzfrauen.org/2019/12/18/wish/)
