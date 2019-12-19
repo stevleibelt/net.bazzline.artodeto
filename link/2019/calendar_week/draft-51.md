@@ -14,3 +14,6 @@
 * [Bei Percona gab es auch ein Weihnachtspaket an Veröffentlichungen.](https://www.percona.com/blog/2019/12/17/updated-xtradb-cluster-xtrabackup-percona-servers-new-features-in-kubernetes-operator-release-roundup/)
 * [Onlyoffice wurde in der Version 10.5 veröffentlicht.](https://www.pro-linux.de/news/1/27679/onlyoffice-105-erschienen.html)
 * [Dem stimme ich mit ein, >>Ich wünsch dir genug<<.](https://netzfrauen.org/2019/12/18/wish/)
+* [Ihr merkt schon dass es immer mehr Schokolade gibt, habt Ihr mal darüber nachgedacht, dass dies nur durch Abholzung und Monokulturen geschafft werden kann?](https://netzfrauen.org/2019/12/19/deforestation/)
+* [Warum wird Krebs nicht geheilt? Weil man ein Haufen Asche mit dem Leid scheffeln kann!](https://weltnetz.tv/ticker/2233-bereicherung-krebskranken-branche-schuerft-pharmagold)
+* [Wow, der Präsident in Bolivien besteuert die Ölindustrie und hilft den Armen, das mögen die Reichen der Welt nicht sehen und stürzen Ihn.](https://blog.fefe.de/?ts=a304670e) - Und damit ja keiner auf so dumme Ideen kommt, wird er wegen Rebellion und Terrorismus angeklagt.
