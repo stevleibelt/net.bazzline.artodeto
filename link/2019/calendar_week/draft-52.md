@@ -3,3 +3,5 @@
 * [Status Quo Fukushima 2019.](https://netzfrauen.org/2019/12/26/fukushima-6/)
 * [Nein? Doch! Oh? Fahrassistenten machen euch zu schlechteren Autofahrern.](https://www.zdnet.com/article/uh-oh-advanced-driver-assistance-systems-are-making-us-all-bad-drivers/) - Ich nutze ja noch immer täglich den Schulterblick.
 * [MPV wurde in der Version 0.31 veröffentlicht.](http://www.phoronix.com/scan.php?page=news_item&px=MPV-0.31-Released)
+* [Nein? Doch! Oh? Das "Gesundheitsnetzwerk" was große IT-Unternehmen ohne Sinn und Verstand zusammen bauen ist kaputt.](https://www.ccc.de/de/updates/2019/neue-schwachstellen-gesundheitsnetzwerk)
+* [Die Blockpartei mit ihrem christlichem Anstrich hat dieses Jahr so viel Waffen wie nie exportiert.](https://weltnetz.tv/ticker/2238-merkels-rekordjahr-bei-export-von-ruestungsguetern)
