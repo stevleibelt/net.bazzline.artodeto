@@ -13,3 +13,6 @@
 * [Technische Kompetenzen vermitteln - nur wie? (36c3)](https://media.ccc.de/v/36c3-76-technische-kompetenzen-vermitteln-nur-wie-)
 * [Achtung Vorratsdatenspeicherung: Es wird ernst (36c3)](https://media.ccc.de/v/36c3-114-achtung-vorratsdatenspeicherung-es-wird-ernst)
 * [Wie man ein klimafreundliches Haus baut (36c3)](https://cdn.media.ccc.de/congress/2019/h264-hd/36c3-chaoswest-158-deu-Wie_man_ein_klimafreundliches_Haus_baut_hd.mp4)
+* [SystemRescueCd wurde in der Version 6.0.4 veröffentlicht.](https://www.planet3dnow.de/cms/53609-systemrescuecd-6-0-4/)
+* [Kanal9TV - Wir in Sachsen - Sendung 6](https://www.youtube.com/watch?v=e6zGhjV70SY)
+* [10 articles to enhance your security aptitude](https://opensource.com/article/19/12/security-resources)
