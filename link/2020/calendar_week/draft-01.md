@@ -16,3 +16,6 @@
 * [SystemRescueCd wurde in der Version 6.0.4 veröffentlicht.](https://www.planet3dnow.de/cms/53609-systemrescuecd-6-0-4/)
 * [Kanal9TV - Wir in Sachsen - Sendung 6](https://www.youtube.com/watch?v=e6zGhjV70SY)
 * [10 articles to enhance your security aptitude](https://opensource.com/article/19/12/security-resources)
+* [unDraw ist ein guter Startpunkt wenn ihr SVG-Bilder sucht.](https://undraw.co/)
+* [Helping WordPress users build climate-friendly websites (36c3)](https://cdn.media.ccc.de/congress/2019/h264-hd/36c3-wikipakawg-91-deu-Helping_WordPress_users_build_climate-friendly_websites_hd.mp4)
+* [Roundcube wurde in der Version 1.4.2 veröffentlicht.](https://roundcube.net/news/2029/01/01/update-1.4.2-released)
