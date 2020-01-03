@@ -19,3 +19,6 @@
 * [unDraw ist ein guter Startpunkt wenn ihr SVG-Bilder sucht.](https://undraw.co/)
 * [Helping WordPress users build climate-friendly websites (36c3)](https://cdn.media.ccc.de/congress/2019/h264-hd/36c3-wikipakawg-91-deu-Helping_WordPress_users_build_climate-friendly_websites_hd.mp4)
 * [Roundcube wurde in der Version 1.4.2 veröffentlicht.](https://roundcube.net/news/2029/01/01/update-1.4.2-released)
+* [Hier gibt es ein einfaches Beispiel wie ihr Streams in Java implementiert.](https://opensource.com/article/20/1/javastream)
+* [Realitätsabgleich Weltbank/IWF, ihr "wollt" Kredite weil ihr sonst in die Demokratie gebombt werdet? Dann privatisiert euer Wasser und versklavt euer Volk.](https://netzfrauen.org/2020/01/02/wasser-6/)
+* [Ruby wurde in der Version 2.7 veröffentlicht.](https://lwn.net/Articles/808512)
