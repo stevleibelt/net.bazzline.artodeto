@@ -22,3 +22,7 @@
 * [Hier gibt es ein einfaches Beispiel wie ihr Streams in Java implementiert.](https://opensource.com/article/20/1/javastream)
 * [Realitätsabgleich Weltbank/IWF, ihr "wollt" Kredite weil ihr sonst in die Demokratie gebombt werdet? Dann privatisiert euer Wasser und versklavt euer Volk.](https://netzfrauen.org/2020/01/02/wasser-6/)
 * [Ruby wurde in der Version 2.7 veröffentlicht.](https://lwn.net/Articles/808512)
+* [500 Mensche sind 2019 um 1,2 Billionen USD reicher geworden.](https://weltnetz.tv/ticker/2243-2019-sind-die-reichsten-500-menschen-der-welt) - Harte Arbeit zahlt sich eben aus!
+* [Libinput wurde in der Version 1.15 veröffentlicht.](http://www.phoronix.com/scan.php?page=news_item&px=Libinput-1.15-Released)
+* [Pi MusicBox und wie man sie aufsetzt.](https://opensource.com/life/15/3/pi-musicbox-guide) - Man nutzt die [Pi Musicbox](https://www.pimusicbox.com/) und [Mopidy](https://mopidy.com/)
+* [Das Kommando ipcs in Linux erklärt und angewendet.](https://opensource.com/article/20/1/inter-process-communication-linux)
