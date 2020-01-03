@@ -19,3 +19,5 @@
 * [unDraw ist ein guter Startpunkt wenn ihr SVG-Bilder sucht.](https://undraw.co/)
 * [Helping WordPress users build climate-friendly websites (36c3)](https://cdn.media.ccc.de/congress/2019/h264-hd/36c3-wikipakawg-91-deu-Helping_WordPress_users_build_climate-friendly_websites_hd.mp4)
 * [Roundcube wurde in der Version 1.4.2 veröffentlicht.](https://roundcube.net/news/2029/01/01/update-1.4.2-released)
+* [500 Mensche sind 2019 um 1,2 Billionen USD reicher geworden.](https://weltnetz.tv/ticker/2243-2019-sind-die-reichsten-500-menschen-der-welt) - Harte Arbeit zahlt sich eben aus!
+* [Libinput wurde in der Version 1.15 veröffentlicht.](http://www.phoronix.com/scan.php?page=news_item&px=Libinput-1.15-Released)
