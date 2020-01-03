@@ -21,3 +21,5 @@
 * [Roundcube wurde in der Version 1.4.2 veröffentlicht.](https://roundcube.net/news/2029/01/01/update-1.4.2-released)
 * [500 Mensche sind 2019 um 1,2 Billionen USD reicher geworden.](https://weltnetz.tv/ticker/2243-2019-sind-die-reichsten-500-menschen-der-welt) - Harte Arbeit zahlt sich eben aus!
 * [Libinput wurde in der Version 1.15 veröffentlicht.](http://www.phoronix.com/scan.php?page=news_item&px=Libinput-1.15-Released)
+* [Pi MusicBox und wie man sie aufsetzt.](https://opensource.com/life/15/3/pi-musicbox-guide) - Man nutzt die [Pi Musicbox](https://www.pimusicbox.com/) und [Mopidy](https://mopidy.com/)
+* [Das Kommando ipcs in Linux erklärt und angewendet.](https://opensource.com/article/20/1/inter-process-communication-linux)
