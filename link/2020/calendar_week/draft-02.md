@@ -1,0 +1,6 @@
+* [Firefox wurde in der Version 72 veröffentlicht.](http://www.phoronix.com/scan.php?page=news_item&px=Firefox-72-Available)
+* [>>Aktuelles für das Erzgebirge / Netzwerktreffen 13.1. Erla<<](https://bio-erzgebirge.de/wp/?p=19701)
+* [Pluggable Transports basierte Zensurumgehung (pw19)](https://cdn.media.ccc.de/events/privacyweek/2019/h264-hd/pw19-255-deu-Pluggable_Transports_basierte_Zensurumgehung_hd.mp4)
+* [Was macht die Blockpartei aka Bumsregierung wenn die Medienlawine gerade den "Terror der USA" rumotzt? Genau, man rüstet 135 Bahnhöfe mit Gesichtserkennung aus - nicht um den Kunden komfort zu bieten, sondern um der Polizei mehr Kontrollwahn zu geben. Das Funktioniert ja in London auch super.](https://tuxproject.de/blog/2020/01/collapse-under-the-empire-beyond-us-gesichtserkennung-fuer-die-bahn/)
+* [Ansible und Sicherheit.](https://opensource.com/article/20/1/ansible-news-edition-six)
+* [Soviel zum Thema Rohkost, auch vor über Hunderttausend Jahren hat man schön Gemüse geröstet.](https://netzfrauen.org/2020/01/06/vegan-2/)
