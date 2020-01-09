@@ -18,3 +18,5 @@
 * [SuperTuxKart wurde in der Version 1.1 veröffentlicht.](https://www.pro-linux.de/news/1/27701/supertuxkart-11-ver%C3%B6ffentlicht.html)
 * [Piwheels, das Repository was euch fertig gebaute Python-Pakete für den Raspberry Pi liefert - gehostet auf einer Raspberry Pi Farm :-D.](https://opensource.com/article/20/1/piwheels)
 * [>>Heilpflanze des Monats Januar 2020: Augentrost<<](https://bio-erzgebirge.de/wp/?p=19724)
+* [Mit Music-map.com könnt ihr eure Lieblingskünstler eingeben um verwandte Künstler zu finden.](https://www.music-map.com/omfo.html)
+* [Und weil wir indirekt gerade bei O.M.F.O. waren, hier der Link zu essay records.](http://essayrecordings.com/essay_vivadiaspora.htm) - Shantal du alte Socke, schön dass es dich gibt.
