@@ -20,3 +20,7 @@
 * [>>Heilpflanze des Monats Januar 2020: Augentrost<<](https://bio-erzgebirge.de/wp/?p=19724)
 * [Mit Music-map.com könnt ihr eure Lieblingskünstler eingeben um verwandte Künstler zu finden.](https://www.music-map.com/omfo.html)
 * [Und weil wir indirekt gerade bei O.M.F.O. waren, hier der Link zu essay records.](http://essayrecordings.com/essay_vivadiaspora.htm) - Shantal du alte Socke, schön dass es dich gibt.
+* [Aktuelles für den Raum Olbernhau Jan/Feb 2020](https://bio-erzgebirge.de/wp/?p=19739)
+* [Amazon, dass ist das Unternehmen welches seine Mitarbeiter trotz Milliardengewinne mit Zeitarbeitsverträgen abspeist, keine Gesundheitsvorsorge selbst bezahlt (sondern von den Krankenkassen alles bezahlen lässt), Daten von allen sammelt und Steuervermeidung (also legale Steuerhinterziehung) in einem Umfang betreibt, welches ein Bruttoinlandsprodukt von kleinen Staaten nahe kommt.](https://www.kuketz-blog.de/tschuess-amazon/)
+* [OpenWRT wurde in der Version 19.07 veröffentlicht.](http://www.phoronix.com/scan.php?page=news_item&px=OpenWrt-19.07-Released)
+* [Tails wurde in der Version 4.2 veröffentlicht.](https://www.pro-linux.de/news/1/27707/tails-42-verbessert-das-automatische-update.html)
