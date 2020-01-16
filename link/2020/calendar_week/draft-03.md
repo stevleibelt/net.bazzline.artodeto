@@ -31,3 +31,9 @@
 * [Europa verbietet ein weiteres Nervengift.](https://netzfrauen.org/2020/01/14/bayer-14/)
 * [khal und vdirsync helfen euch den Kalender zu synchronisieren.](https://opensource.com/article/20/1/open-source-calendar)
 * [WebAssembly in fünf Minuten.](https://opensource.com/article/20/1/webassembly)
+* [Realitätsabgleich Datenschutz in der freien Wirtschaft angekommen - Am Beispiel von Porno-Darstellern und deren Daten die mal so "ins Netz" geflutscht sind.](https://www.golem.de/news/datenleck-ausweiskopien-von-pornodarstellern-ungeschuetzt-im-netz-2001-146100-rss.html) - Das ist der Preis den Ihr zahlen müsst, wenn ihr eure Lohndaten vom Internet aus abrufen lassen wollt.
+* [Realitätsabgleich Digitalisierung am Beispiel des Fax-Gerätes und wie wenig auf den Kunden eingegangen wird.](https://www.golem.de/news/digitalisierung-aber-das-faxgeraet-muss-bleiben-2001-144953-rss.html)
+* [CentOs wurde in der Version 8.1. veröffentlicht.](https://www.pro-linux.de/news/1/27724/centos-81-ver%C3%B6ffentlicht.html)
+* [Mit diesen drei Open Source Tools verwaltet ihr eure Kontakte auf der Kommandozeile!](https://opensource.com/article/20/1/sync-contacts-locally)
+* [Notepad++ wurde in der Version 7.8.3 veröffentlicht.](https://notepad-plus-plus.org/downloads/v7.8.3/)
+* [Wow, wie verrückt und dreist, Immobilienscouts "Premium-Funktion" bedeutet, dass Immobilienscout eure Konto-Login-Daten bekommt und all eure Konto-Bewegungen mitliest.](https://www.kuketz-blog.de/immobilienscout24-premium-funktion-mit-bankkonto-zugriff/)
