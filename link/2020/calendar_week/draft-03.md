@@ -43,3 +43,5 @@
 * [todo.txt hilft euch eure Aufgabenlisten zu verwalten.](https://opensource.com/article/20/1/open-source-to-do-list)
 * [Wow, Open RAN wird jetzt von O2 in London probiert.](https://www.golem.de/news/o2-telefonica-testet-open-ran-in-europa-2001-146119.html)
 * [GNU Guile wurde in der Version 3.0.0 veröffentlicht.](https://www.pro-linux.de/news/1/27727/gnu-guile-300-erschienen.html)
+* [>> BIST DU ÜBERSÄUERT? - Alles was Du über Deinen Stoffwechsel wissen musst<<](https://www.welt-im-wandel.tv/video/bist-du-uebersaeuert-alles-was-du-ueber-deinen-stoffwechsel-wissen-musst)
+* [Ihr trinkt noch immer gern Milch aus Industrietierhaltung? Viel Spaß beim lesen.](https://netzfrauen.org/2020/01/17/animals-4/)
