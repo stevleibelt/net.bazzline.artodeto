@@ -37,3 +37,9 @@
 * [Mit diesen drei Open Source Tools verwaltet ihr eure Kontakte auf der Kommandozeile!](https://opensource.com/article/20/1/sync-contacts-locally)
 * [Notepad++ wurde in der Version 7.8.3 veröffentlicht.](https://notepad-plus-plus.org/downloads/v7.8.3/)
 * [Wow, wie verrückt und dreist, Immobilienscouts "Premium-Funktion" bedeutet, dass Immobilienscout eure Konto-Login-Daten bekommt und all eure Konto-Bewegungen mitliest.](https://www.kuketz-blog.de/immobilienscout24-premium-funktion-mit-bankkonto-zugriff/)
+* [Kanal9TV - Neujahrsempfang 2020 Freiberg](https://www.youtube.com/watch?v=yDbaulVgwRI)
+* [>>Twitter, Facebook und Co. sind keine Reichweiten-Bereitsteller für deutsche Behörden und
+öffentliche Institutionen, sondern gewinnorientierte Unternehmen.<<](https://www.kuketz-blog.de/twitter-kein-reichweiten-bereitsteller-fuer-behoerden-oeffentliche-institutionen/) - Schön geschrieben!
+* [todo.txt hilft euch eure Aufgabenlisten zu verwalten.](https://opensource.com/article/20/1/open-source-to-do-list)
+* [Wow, Open RAN wird jetzt von O2 in London probiert.](https://www.golem.de/news/o2-telefonica-testet-open-ran-in-europa-2001-146119.html)
+* [GNU Guile wurde in der Version 3.0.0 veröffentlicht.](https://www.pro-linux.de/news/1/27727/gnu-guile-300-erschienen.html)
