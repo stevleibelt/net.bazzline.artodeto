@@ -1,0 +1,4 @@
+* [Nein? Doch! Oh? Die EU überlegt ob sie Gesichtserkennung verbieten soll - Kurzum, da ist jemand mit der aktuellen Menge der Bestechungsgelder nicht zufrieden.](https://www.golem.de/news/kuenstliche-intelligenz-eu-erwaegt-verbot-von-gesichtserkennung-2001-146135-rss.html) - Oder sind schon wieder Wahlen?
+* [Noch einmal Europa, Europa produziert Unmengen an Gurken, Tomaten und weiteren Gemüse, doch da Afrika das noch billiger kann, werden die lokalen Produkte auf dem Müll geschmissen.](https://netzfrauen.org/2020/01/19/waste-5/) - Deswegen liebe Leute, kauft Regional, so bleibt "euer Geld" auch gleich in eurem Umkreis.
+* [>>[...] Der Neoliberalismus hatte wenig Ähnlichkeit mit der von Karl Popper propagierten >>offenen Gesellschaft<< [...]<<](https://www.maskenfall.de/?p=13924)
+* [Wer es noch nicht kennt, bitlbee for the win.](https://opensource.com/article/20/1/open-source-chat-tool)
