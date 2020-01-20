@@ -2,3 +2,7 @@
 * [Noch einmal Europa, Europa produziert Unmengen an Gurken, Tomaten und weiteren Gemüse, doch da Afrika das noch billiger kann, werden die lokalen Produkte auf dem Müll geschmissen.](https://netzfrauen.org/2020/01/19/waste-5/) - Deswegen liebe Leute, kauft Regional, so bleibt "euer Geld" auch gleich in eurem Umkreis.
 * [>>[...] Der Neoliberalismus hatte wenig Ähnlichkeit mit der von Karl Popper propagierten >>offenen Gesellschaft<< [...]<<](https://www.maskenfall.de/?p=13924)
 * [Wer es noch nicht kennt, bitlbee for the win.](https://opensource.com/article/20/1/open-source-chat-tool)
+* [Sehr schön, Asien will Plasikmüll immer weiter vermeiden.](https://netzfrauen.org/2020/01/20/plastic-23/) - Denn Asien kriegt den Müll von Europa ab und wir nennen das System "den Grünen Punkt".
+* [Nein? Doch! Oh? Da nutzt eine private Firma aus den USA öffentliche Bilder um damit eine Datenbank inklusive Gesichtserkennungssoftware aufzubauen.](https://www.golem.de/news/gesichtserkennung-us-firma-baut-heimlich-datenbank-mit-milliarden-fotos-auf-2001-146138.html) - Damit hätte niemand rechnen können.
+* [CoreOS ist nun stabil.](https://www.pro-linux.de/news/1/27731/fedora-coreos-erschienen.html)
+* [Wireshark kommt jetzt mit dem CLI-Teil TShark dazu, wow!](https://opensource.com/article/20/1/wireshark-linux-tshark)
