@@ -25,3 +25,8 @@
 * [Realitätsabgleich PHP im Jahr 2020.](https://stitcher.io/blog/php-in-2020)
 * [Realitätsabgleich "Cloud" und alle Produkte müssen ans Netz, bei Sonos habt ihr bald die Qual, veraltet und unsichere Software nutzen oder funktionierende Lautsprecher wegschmeißen.](https://www.golem.de/news/vernetzte-lautsprecher-sonos-schliesst-aeltere-produkte-von-weiterer-entwicklung-aus-2001-146174.html)
 * [>>Mondfee Räucherwerk im Januar 2020 – „Patchouli“<<](https://bio-erzgebirge.de/wp/?p=19758)
+* [Kanal9TV - Wir in Sachsen - Sendung 7](https://www.youtube.com/watch?v=UJkOw5fhYn4)
+* [Hier wird euch geziegt wie ihr das Wetter mit freier Software auslesen könnt.](https://opensource.com/article/20/1/open-source-weather-forecast) - Bezahlt habt ihr die Sensoren eh schon mit eurer Steuer.
+* [Bye, Bye, Deutsche Post - Die neuen DHL-Packstationen funktionieren nur noch mit einer App (wodurch die Deutsche Post an weitere Daten von euch kommt.](https://www.golem.de/news/pakete-neue-dhl-packstationen-nur-noch-mit-app-nutzbar-2001-146219-rss.html)
+* [Die Autovermietung Buchbinder hat gerade viele Kundendaten kostenfrei ins Netz gestellt.](https://www.golem.de/news/autovermietung-daten-von-millionen-buchbinder-kunden-offen-im-netz-2001-146213-rss.html)
+* [Coca Cola ist wohl einer der größten Plastikmüllhersteller der Welt.](https://netzfrauen.org/2020/01/22/cocacola-2/)
