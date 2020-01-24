@@ -30,3 +30,10 @@
 * [Bye, Bye, Deutsche Post - Die neuen DHL-Packstationen funktionieren nur noch mit einer App (wodurch die Deutsche Post an weitere Daten von euch kommt.](https://www.golem.de/news/pakete-neue-dhl-packstationen-nur-noch-mit-app-nutzbar-2001-146219-rss.html)
 * [Die Autovermietung Buchbinder hat gerade viele Kundendaten kostenfrei ins Netz gestellt.](https://www.golem.de/news/autovermietung-daten-von-millionen-buchbinder-kunden-offen-im-netz-2001-146213-rss.html)
 * [Coca Cola ist wohl einer der größten Plastikmüllhersteller der Welt.](https://netzfrauen.org/2020/01/22/cocacola-2/)
+* [System76 meint es ernst und will nun sogar die Embedded Controller mit freier Software versehen.](https://www.pro-linux.de/news/1/27745/das-open-source-firmware-projekt-von-system76.html)
+* [>>VERBUNDENHEIT. Episode 5 – Vorstellungskraft. „WIKUSAWA“<<](https://www.so-geht-saechsisch.de/arbeiten-und-erfinden/kreativwirtschaft/verbundenheit-episode-5-vorstellungskraft-wikusawa/)
+* [Mit Speedtest, Fast und iPerf könnt ihr auf der Kommandozeile eure Netzwerkgeschwindigkeit testen.](https://opensource.com/article/20/1/internet-speed-tests)
+* [ZFS On Linux wurde in der Version 0.8.3 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=ZFS-On-Linux-0.8.3)
+* [Umfall- und Lügensiggi wird jetzt Aufsichts der Deutschen Bank.](https://blog.fefe.de/?ts=a0d40693) - Größer kann man den Mittelfinger gegen das eigene Volk kaum strecken.
+* [>>As ever, the team doesn’t know exactly how the AI learned to navigate<<](https://blog.fefe.de/?ts=a0d7a5c1)
+* [Microsoft hat 250 Millionen Datensätzen dem Gemeingut unterstellt.](https://blog.fefe.de/?ts=a0d6736c)
