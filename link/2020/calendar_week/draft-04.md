@@ -37,3 +37,7 @@
 * [Umfall- und Lügensiggi wird jetzt Aufsichts der Deutschen Bank.](https://blog.fefe.de/?ts=a0d40693) - Größer kann man den Mittelfinger gegen das eigene Volk kaum strecken.
 * [>>As ever, the team doesn’t know exactly how the AI learned to navigate<<](https://blog.fefe.de/?ts=a0d7a5c1)
 * [Microsoft hat 250 Millionen Datensätzen dem Gemeingut unterstellt.](https://blog.fefe.de/?ts=a0d6736c)
+* [DXVK wurde in der Version 1.5.2 veröffentlicht.](http://www.phoronix.com/scan.php?page=news_item&px=DXVK-1.5.2-Released)
+* [Realitätsabgleich billige Kleidung.](https://netzfrauen.org/2020/01/24/ethiopia/)
+* [Hier wird euch TMUX kurz vorgestellt.](https://opensource.com/article/20/1/tmux-console)
+* [Welt im Wandel TV: Diese Dinge darfst Du niemals tun, wenn Du länger leben willst](https://www.welt-im-wandel.tv/video/diese-dinge-darfst-du-niemals-tun-wenn-du-laenger-leben-willst-ein-arzt-packt-aus/)
