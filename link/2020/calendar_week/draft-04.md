@@ -41,3 +41,5 @@
 * [Realitätsabgleich billige Kleidung.](https://netzfrauen.org/2020/01/24/ethiopia/)
 * [Hier wird euch TMUX kurz vorgestellt.](https://opensource.com/article/20/1/tmux-console)
 * [Welt im Wandel TV: Diese Dinge darfst Du niemals tun, wenn Du länger leben willst](https://www.welt-im-wandel.tv/video/diese-dinge-darfst-du-niemals-tun-wenn-du-laenger-leben-willst-ein-arzt-packt-aus/)
+* [Cleanmgr+ wurde in der Version 1.2.7.907 veröffentlicht.](https://www.planet3dnow.de/cms/54290-cleanmgr-v1-2-7-907/)
+* [Email und Kalender mit Vim? Geilo!](https://opensource.com/article/20/1/vim-email-calendar)
