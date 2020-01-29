@@ -16,3 +16,10 @@
 * [>>CCC fordert kompromissloses Recht auf Verschlüsselung<<](https://www.ccc.de/de/updates/2020/ccc-fordert-kompromissloses-recht-auf-verschlusselung)
 * [Hunger, knappes Wasser, Kenya, an was denkt ihr zu erst wenn ihr das Wort Gewächshäuser denkt? Genau, an Blumen die nach Europa geschickt werden damit sie dort glücklich verwelken können.](https://netzfrauen.org/2020/01/27/kenya-2/) - Wie viel besser kann man den Einwohnern in Kenya sonst aufzeigen, dass die Europäer verstanden haben was Sozial bedeutet.
 * [Sollte euch langweilig sein, es gibt 200 GB an Anleitungen von 3D Buzz via torrent legan herunter zuladen.](https://www.ghacks.net/2020/01/27/200-gigabytes-of-development-and-design-tutorials-from-3d-buzz-released/)
+* [Nein? Doch! Oh? Maschinen vergessen nicht und das umtrainieren (Verdrängen statt Vergessen) funktioniert auch nicht richtig - aber hey Machine Learning ist geil!](https://blog.fefe.de/?ts=a0d13f93)
+* [Nach der Nachricht frag ich mich, kann Bomardier wenigst Züge von der Hardware richtig bauen oder ist das die gleiche Qualität wie bei der Software?](https://blog.fefe.de/?ts=a0d137af)
+* [Fortinet wurde beim Backdoor-Einbauen erwischt.](https://blog.fefe.de/?ts=a0ce6c5b)
+* [Hier wird versucht die geplante Fremdbestimmung des Fahrzeugs schmackhaft zu machen indem das Spionageauto der Zukunft mit der Ampel reden kann.](https://www.golem.de/news/vernetzung-ampeln-melden-audis-gruenes-licht-2001-146326-rss.html)
+* [Wisst ihr was die USA historisch schon immer gut konnten? Apartheid fördern.](https://weltnetz.tv/ticker/2262-nicht-deal-sondern-trumps-betrug-des-jahrhunderts)
+* [Hackfressenbuch gibt euch mit "Hackfressenbuchs Aus" einen kleinen Einblick darüber wie genau euer Profil bei denen ist.](https://www.ghacks.net/2020/01/28/facebooks-off-facebook-activity-tool-is-now-available-to-everyone/)
+* [>>Die geheimnisvolle Kraft der Zirbeldrüse: Was Du über Deinen Schlaf wissen musst!<<](https://www.welt-im-wandel.tv/video/die-geheimnisvolle-kraft-der-zirbeldruese-was-du-ueber-deinen-schlaf-wissen-musst/)
