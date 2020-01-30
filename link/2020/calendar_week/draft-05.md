@@ -23,3 +23,9 @@
 * [Wisst ihr was die USA historisch schon immer gut konnten? Apartheid fördern.](https://weltnetz.tv/ticker/2262-nicht-deal-sondern-trumps-betrug-des-jahrhunderts)
 * [Hackfressenbuch gibt euch mit "Hackfressenbuchs Aus" einen kleinen Einblick darüber wie genau euer Profil bei denen ist.](https://www.ghacks.net/2020/01/28/facebooks-off-facebook-activity-tool-is-now-available-to-everyone/)
 * [>>Die geheimnisvolle Kraft der Zirbeldrüse: Was Du über Deinen Schlaf wissen musst!<<](https://www.welt-im-wandel.tv/video/die-geheimnisvolle-kraft-der-zirbeldruese-was-du-ueber-deinen-schlaf-wissen-musst/)
+* [>>[...] American bankers didn’t try cum-ex at home because they feared domestic regulators. [...]<<](https://blog.fefe.de/?ts=a0cf8e7a)
+* [Nein? Doch! Oh? Das BKA seitzt seit 1998 Gesichtserkennungssoftware ein und immer mehr Unternehmen dürften diese Daten nutzen.](https://www.golem.de/news/ueberwachung-polizei-speichert-5-8-millionen-gesichtserkennungsbilder-2001-146363-rss.html) - Das müssen die ganzen Gefährder sein vor denen uns die Massenmedien warnen.
+* [FreeNAS wurde in der Version 11.3 veröffentlicht.](http://www.phoronix.com/scan.php?page=news_item&px=FreeNAS-11.3-Released)
+* [Libreoffice wurde in der Version 6.4 veröffentlicht.](https://www.pro-linux.de/news/1/27758/libreoffice-64-freigegeben.html)
+* [VyOS, eine Open Source Lösung für Router und Firewalls.](https://opensource.com/article/20/1/open-source-networking)
+* [Es gibt jetzt ein FlashTool das euer Android mit dem Chrome-Browser über WebUSB flasht.](https://source.android.com/setup/contribute/flash)
