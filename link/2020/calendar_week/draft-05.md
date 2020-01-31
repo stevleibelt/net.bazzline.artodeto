@@ -29,3 +29,9 @@
 * [Libreoffice wurde in der Version 6.4 veröffentlicht.](https://www.pro-linux.de/news/1/27758/libreoffice-64-freigegeben.html)
 * [VyOS, eine Open Source Lösung für Router und Firewalls.](https://opensource.com/article/20/1/open-source-networking)
 * [Es gibt jetzt ein FlashTool das euer Android mit dem Chrome-Browser über WebUSB flasht.](https://source.android.com/setup/contribute/flash)
+* [Wow, es gibt schweinegeile und hochauflösende Bilder von der Sonne.](https://blog.fefe.de/?ts=a0cc0aaf) - Besonders Menschen mit einem Gotteskomplex empfehle ich die Bilder zur Einnordung
+* [Falls ihr euch fragt warum so viele Schmerzmittel so schnell verschrieben werden, die Software die euer Arzt nutzt wurde durch Schmiergelder "optimiert".](https://blog.fefe.de/?ts=a0cc0944)
+* [5G braucht der normale Mensch wirklich nicht, das wissen auch die Hersteller und so treiben sie heute die Landwirtschaft durch das Dorf, die können ja ohne 5G quasi nicht mehr arbeiten.](https://www.golem.de/news/landwirtschaft-4-0-ohne-daten-geht-nichts-mehr-auf-dem-acker-2001-146379.html) - Das Problem betrifft große Konzerne die automatisiert ein Ideastandard-Produkt verarbeiten was wenig mit richtigem Essen zu tun hat. Der Normale Landwird kommt mit GPS und ein paar Sensorstationen aus die er über WLAN oder garnicht anbindet und ausließt.
+* [Nextcloud wurde in der Version 17.0.3 und 16.0.8 veröffentlicht.](https://nextcloud.com/blog/17-0-3-and-16-0-8-out-now/)
+* [Wohlstandsprobleme, statt sich die Hände dreckig zu machen und wirklich etwas zu tun, macht man lieber Menschenketten.](https://tuxproject.de/blog/2020/01/haendchenhalten-gegen-den-tod/) - Bestimmt auch bald digital 5.0 ;-)
+* [Realitätsabgleich "Nutzen" von Flüchtlinge, das sind billige Organspender.](https://netzfrauen.org/2020/01/30/libya-2/)
