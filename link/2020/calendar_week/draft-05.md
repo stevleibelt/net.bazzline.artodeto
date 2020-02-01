@@ -35,3 +35,6 @@
 * [Nextcloud wurde in der Version 17.0.3 und 16.0.8 veröffentlicht.](https://nextcloud.com/blog/17-0-3-and-16-0-8-out-now/)
 * [Wohlstandsprobleme, statt sich die Hände dreckig zu machen und wirklich etwas zu tun, macht man lieber Menschenketten.](https://tuxproject.de/blog/2020/01/haendchenhalten-gegen-den-tod/) - Bestimmt auch bald digital 5.0 ;-)
 * [Realitätsabgleich "Nutzen" von Flüchtlinge, das sind billige Organspender.](https://netzfrauen.org/2020/01/30/libya-2/)
+* [Docis 4.0 mit mehr Bandbreite aber vor allem niedrigere Latenz.](https://www.golem.de/news/technetix-docsis-4-0-mit-10g-im-kabelnetz-wird-wirklichkeit-2001-146400.html)
+* [Realitätsabgleich Avocados.](https://netzfrauen.org/2020/01/31/avocado-2/)
+* [Debonet wurde in der Version 0.5 veröffentlicht.](https://www.ghacks.net/2020/02/01/windows-10-privacy-debotnet-0-5-update-brings-massive-improvements/)
