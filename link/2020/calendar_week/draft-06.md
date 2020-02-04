@@ -1,0 +1,18 @@
+* [Endlich gibt es wieder ein Land welches Anti-Personen-Minen im großen Maß einsetzt - danke USA!](https://blog.fefe.de/?ts=a0cbbdfe)
+* [Der UNO-Sonderberichterstatter für Folter, Nils Melzer, hat sich die Mühe gemacht und den Fall Julian Assange aufgearbeitet - Selbst die Frau, die angeblich vergewaltigt wurde, hat nie von Vergewaltigung gesprochen.](https://blog.fefe.de/?ts=a0cbba5a) - Und auch sonst zeigt dies ein erschreckendes Bild wie hier "Realität" produziert wird.
+* [Ann König hat eine Liste von Fastenreisezeiten für das erste Halbjahr 2020 veröffentlicht.](https://bio-erzgebirge.de/wp/?p=19777)
+* [FreeNAS wurde in der Version 11.3 veröffentlicht.](https://www.pro-linux.de/news/1/27765/freenas-113-freigegeben.html)
+* [Niemand hat die Absicht eine Mauer zu bauen - Realitätsabgleich "Abo" ab Beispiel Disney](https://www.golem.de/news/disney-auch-disney-klassiker-verschwinden-aus-dem-streaming-abo-2002-146416.html) - Kurzum, Disney, als Hausherr, entfernt einfach Titel nach Lust und Laune. Als Abo-Kunde ist man den Willen des Hausherren ausgesetzt.
+* [KDevelop wurde in der Version 5.5 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=KDevelop-5.5-Released)
+* [Big Data, KI und Filterblase veranschaulicht.](https://www.heise.de/newsticker/meldung/Virtueller-Stau-auf-Google-Maps-als-Kunstwerk-4651651.html)
+* ["Spitzenverband Digitale Gesundheitsversorung e.V." ist ein Zusammenschluss von Firmen die es mit dem Datenschutz im Gesundheitswesen nicht so ernst nehmen.](https://www.kuketz-blog.de/spitzenverband-digitale-gesundheitsversorgung-e-v-lobby-arbeit-der-ada-gmbh-und-co/)
+* [Nein? Doch! Oh? Einer der sich mit Kubernetes beschäftigt hat verkündet, dass Microservices Monoliths sind, bei denen man RPC's mit Networkcalls ersetzt hat.](https://blog.fefe.de/?ts=a0c6e90c)
+* [Der Pharmakonzern Novartis verlost eine Gentherapie für 100 todkranke Babys - alle anderen haben Pech oder müssen sich die marktüblichen Kosten von 2 Millionen USD irgendwie anders holen.](https://blog.fefe.de/?ts=a0c6dba2)
+* [Wer 20 Euro im Monat für Qualitätsjournalismus übrig hat kann sich mal die Replublik anschauen.](https://blog.fefe.de/?ts=a0c6807f)
+* [>> [...] These days it’s better to keep funds in cash rather than park them at the ECB [...] <<](https://www.bloomberg.com/news/articles/2020-01-31/german-banks-are-hoarding-so-many-euros-they-need-more-vaults)
+* [Wisst ihr was passiert wenn ihr eure Daten wie Videos und Bilder in der Cloud ablegt? Ein kleiner Fehler und schon können Andere eure Bilder und Videos sehen.](https://www.golem.de/news/google-fotos-google-exportierte-fremde-privatvideos-2002-146436-rss.html)
+* [Threema zusammengefasst Teil 2](https://www.kuketz-blog.de/threema-instant-messaging-dienst-aus-der-schweiz-messenger-teil2/)
+* [Mit openfoodfacts.org könnt ihr eure Nahrungsmittel begutachten.](https://world.openfoodfacts.org/) 
+* [In der Schweiz ist freie Software als Alternative im Leitfaden der Verwaltung angekommen.](https://www.pro-linux.de/news/1/27770/schweiz-neuer-leitfaden-unterst%C3%BCtzt-einsatz-von-oss-in-der-verwaltung.html)
+* [SSH Eingabe Multiplexer gesucht? Nennt sich Terminator.](https://opensource.com/article/20/2/terminator-ssh)
+* [ihateregex.io visualisiert euch euren RegEx-Ausdruck.](https://ihateregex.io/)
