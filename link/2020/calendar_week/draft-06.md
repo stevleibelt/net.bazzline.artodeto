@@ -16,3 +16,7 @@
 * [In der Schweiz ist freie Software als Alternative im Leitfaden der Verwaltung angekommen.](https://www.pro-linux.de/news/1/27770/schweiz-neuer-leitfaden-unterst%C3%BCtzt-einsatz-von-oss-in-der-verwaltung.html)
 * [SSH Eingabe Multiplexer gesucht? Nennt sich Terminator.](https://opensource.com/article/20/2/terminator-ssh)
 * [ihateregex.io visualisiert euch euren RegEx-Ausdruck.](https://ihateregex.io/)
+* [Ihr wohnt in Sachsen und eure Gemeinde wird nicht von der Telekom mit SDSL angebunden? Fragt einmal bei der CEMI Service GMBH nach.](https://cemiservice.de/info/)
+* [Ach Mensch, wie die Bundesregierung es schafft weniger Aktzeptanz und mehr gedankliche Grabenkämpfe zu schaffen. Da die Bundesregierung das mit einem mal direkt für die Bundeswehr und die Deutsche Bahn geschafft hat, muss man davon ausgehen, dass sie beraten wurden.](https://tuxproject.de/blog/2020/02/todesdiener-gegen-parolen/)
+* [Ihr sucht gute und handgefertigte Barfußschuhe aus Sachsen/Deutschland bei denen ihr die Sohle tauschen könnt und die kein Plastikmüll sind? Probiert es mal bei Senmotic, die sehen auch noch gut aus!](https://www.senmotic-shoes.eu/)
+* [Nestle macht es einen aber auch einfach mit den Finger drauf zu zeigen - mal wieder Wasser, mal wieder Nigeria.](https://netzfrauen.org/2020/02/04/nigeria-3/) - Ein Manager würde einem in das Gesicht lügen, dass Nestle ihre Versprechen gehalten hat - wenn es auch Abwasser ist, so gibt es vor Ort halt irgendwas nasses was theoretisch trinkbar wäre.
