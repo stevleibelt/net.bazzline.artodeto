@@ -39,3 +39,10 @@
 * [Hier gibt es ein schönes Beispiel wie ihr mit einer PowerShell eine REST API nutzt um Dinge zu erledigen.](https://opensource.com/article/20/2/devops-automation) - Danach könnt ihr HTTP(s) mit der PowerShell sprechen :-).
 * [YaCy ist eine Open Source, Peer-To-Peer Suchmaschinen (Web Indexer)](https://opensource.com/article/20/2/open-source-search-engine)
 * [>>Stop Merging Broken Code<< oder wie ihr mit Zuul bessere Tests fahren könnt und wie es zu Zuul kam.](https://opensource.com/article/20/2/zuul)
+* [Realitätsabgleich Klimawandel im hier und Jetzt.](https://www.nrk.no/chasing-climate-change-1.14859595)
+* [Was haben Thürigen und die EU gemeinsam? Die Nazis wählen die Blockpartei die nur an sich und nicht ans Volk denken.](https://tuxproject.de/blog/2020/02/thuer-2/)
+* [Lol, so funktioniert ein Monopol, erst baut Google Software um Fake-Videos zu machen und dann bietet es eine kostenpflichtige Dienstleistung an um diese Fake-Videos zu erkennen.](https://www.golem.de/news/jigsaw-assembler-googles-software-soll-bei-erkennung-von-faelschungen-helfen-2002-146507-rss.html) - Da haben sie gut von Deutschland abgeschaut, wir verkaufen Waffen und Protesen.
+* [>>Heilsame Sexualität - weiterer Beitrag: Bejahung unserer Sinnlichkeit<<](https://bio-erzgebirge.de/wp/?p=19840) - Ein schöner Beitrag darüber, dass unser Körper ein wunderbares Gefährt ist mit dem wir durch unser Leben reisen dürfen.
+* [>>Heilsame Sexualität - weiterer Beitrag: Deine Sexualität heilt Dich & Deinen Partner<<](https://bio-erzgebirge.de/wp/?p=19830) - Noch ein toller Beitrag der ja zum Orgasmus sagt.
+* [Das Miteinandermagazin für Sachsen und die Ostsee ist erschienen (Februar bis April 2020)](https://bio-erzgebirge.de/wp/?p=19810)
+* [Hey wir reichen Menschen der ersten Welt, die Menschen in Afrika verdursten weil ihr Gemüse, Obst, Blumen etc. aus Afrika kauft.](https://netzfrauen.org/2020/02/07/suedafrika-2/)
