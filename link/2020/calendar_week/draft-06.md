@@ -46,3 +46,4 @@
 * [>>Heilsame Sexualität - weiterer Beitrag: Deine Sexualität heilt Dich & Deinen Partner<<](https://bio-erzgebirge.de/wp/?p=19830) - Noch ein toller Beitrag der ja zum Orgasmus sagt.
 * [Das Miteinandermagazin für Sachsen und die Ostsee ist erschienen (Februar bis April 2020)](https://bio-erzgebirge.de/wp/?p=19810)
 * [Hey wir reichen Menschen der ersten Welt, die Menschen in Afrika verdursten weil ihr Gemüse, Obst, Blumen etc. aus Afrika kauft.](https://netzfrauen.org/2020/02/07/suedafrika-2/)
+* [Mexiko-Stadt verbietet "Einweg"-Plastik-"Kunst".](https://netzfrauen.org/2020/02/09/mexico-4/) - "Spiddel" wie man in Sachsen sagt.
