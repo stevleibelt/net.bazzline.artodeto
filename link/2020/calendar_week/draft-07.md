@@ -6,3 +6,8 @@
 * [Musik unter Linux mit Python komponieren? Hier erzählt jemand aus dem Schützengraben.](https://opensource.com/article/20/2/linux-open-source-music)
 * [Sind bald wieder Wahlen, merkt die CDU, dass Sie das Projekt 5 Prozent ins Auge gefasst hat oder gibt es in Berlin doch noch den einen under tausenden?](https://tuxproject.de/blog/2020/02/plini-pastures/)
 * [Patrick Breyer erzählt wie die Verhandlungen um den EU-Terrorfilter so verlaufen - das Volk verliert.](https://www.patrick-breyer.de/?p=589520) - Und am Ende wird diese arme Sau nur deswegen durchs Dorf getrieben, damit ein paar Superreiche noch reicher werden weil sie zertifizierte Hard- und Software verkaufen können.
+* [GDB wurde in der Version 9.1 veröffentlicht.](https://sourceware.org/git/gitweb.cgi?p=binutils-gdb.git;a=blob_plain;f=gdb/NEWS;hb=gdb-9.1-release)
+* [Stratis wurde in der Version 2.0.1 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=Stratis-2.0.1-Released)
+* [Mozilla Firefox wurde in der Version 73 veröffentlicht.](http://www.phoronix.com/scan.php?page=news_item&px=Firefox-73-Released)
+* [Hier gibt es eine kurze Einführung in Helm und kubectl.](https://opensource.com/article/20/2/kubectl-helm-commands)
+* [Was sind "Common Table Expressions" in MySQL und wie nutzt man sie?](https://www.percona.com/blog/2020/02/10/introduction-to-mysql-8-0-common-table-expressions-part-1/)
