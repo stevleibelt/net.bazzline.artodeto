@@ -11,3 +11,12 @@
 * [Mozilla Firefox wurde in der Version 73 veröffentlicht.](http://www.phoronix.com/scan.php?page=news_item&px=Firefox-73-Released)
 * [Hier gibt es eine kurze Einführung in Helm und kubectl.](https://opensource.com/article/20/2/kubectl-helm-commands)
 * [Was sind "Common Table Expressions" in MySQL und wie nutzt man sie?](https://www.percona.com/blog/2020/02/10/introduction-to-mysql-8-0-common-table-expressions-part-1/)
+* [Wie ihr mit der PowerShell alle verweisten Benutzersitzungen erhaltet wird euch hier gezeigt.](https://www.powershellbros.com/disconnected-sessions-domain-controllers/)
+* [>>[...] Um es auf den Punkt zu bringen: Management sieht sich als derjenige, der die Handlung vorantreibt. Den Entscheider. Die müssen selber auf die Entscheidung kommen, sonst wird die nicht umgesetzt. Du darfst denen nicht sagen, welche Entscheidung sie treffen müssen, sondern du musst dafür sorgen, dass sie alle Dinge sehen, die sie selbst zu der Entscheidung bringen werden. [...]<<](https://blog.fefe.de/?ts=a0bd7f89)
+* [Thunderbird wurde in der Version 68.5.0 veröffentlicht.](https://www.ghacks.net/2020/02/12/thunderbird-68-5-0-out-with-new-features-and-security-updates/)
+* [ProxySQL wurde in der Version 1.4.16 veröffentlicht.](https://www.percona.com/blog/2020/02/11/proxysql-1-4-16-and-updated-proxysql-admin-tool/)
+* [OSCAL 2019 - Introduction to anonymous mix networks.](https://mirror.netcologne.de/CCC/events/oscal/2019/h264-hd/oscal2019-11-eng-Introduction_to_Anonymous_Mix_Networks_hd.mp4)
+* [OSCAL 2019 - Linux distributions, lifecycles and containers.](https://berlin-ak.ftp.media.ccc.de/events/oscal/2019/h264-hd/oscal2019-7-eng-Linux_distributions_lifecycles_and_containers_hd.mp4)
+* [Diese wirksame Atemübung kann Dein Leben verändern! - Die Wim Hof Methode.](https://www.welt-im-wandel.tv/video/diese-wirksame-atemuebung-kann-dein-leben-veraendern-die-wim-hof-methode/) - Das Video geht keine fünf Minuten.
+* [Hier wird euch erklärt wie ihr fstrim als systemd-timer für eure SSDs einrichtet.](https://opensource.com/article/20/2/trim-solid-state-storage-linux)
+* [Mit ssl-on-demand könnt ihr eure Zertifikate und deren Gültigkeit überwachen lassen.](https://opensource.com/article/20/2/ssl-demand)
