@@ -20,3 +20,11 @@
 * [Diese wirksame Atemübung kann Dein Leben verändern! - Die Wim Hof Methode.](https://www.welt-im-wandel.tv/video/diese-wirksame-atemuebung-kann-dein-leben-veraendern-die-wim-hof-methode/) - Das Video geht keine fünf Minuten.
 * [Hier wird euch erklärt wie ihr fstrim als systemd-timer für eure SSDs einrichtet.](https://opensource.com/article/20/2/trim-solid-state-storage-linux)
 * [Mit ssl-on-demand könnt ihr eure Zertifikate und deren Gültigkeit überwachen lassen.](https://opensource.com/article/20/2/ssl-demand)
+* [Der Bund fördert das Dämmen von Dächern im Jahr 2020 durch die KfW richtig gut.](https://www.sonnenseite.com/de/tipps/so-dmmen-hauseigentmer-ihr-dach-richtig.html)
+* [Alle Änderungen zusammengefasst kann man sich über das enportal.de als Dokument zukommen lassen.](https://www.enportal.de/infobroschure-energiekosten-2020/)
+* [Nextcloud for Android wurde in der Version 3.10.0 veröffentlicht.](https://nextcloud.com/blog/nextcloud-3-10-0-for-android-is-here-bringing-collaborative-tools-dark-mode-rich-workspaces-and-more/)
+* [Nein? Doch! Oh? Viel mehr Pflanzen als angenommen sterben.](https://www.sonnenseite.com/de/umwelt/viele-pflanzenarten-wohl-strker-gefhrdet-als-bisher-angenommen.html)
+* [Der Bund fördert auch die Nutzung eines Energieberaters.](https://www.sonnenseite.com/de/tipps/bund-erhht-zuschsse-fr-gebudeenergieberatung.html)
+* [OpenPush möchte eine Alternative zu Googles Firebase Cloud Messaging sein.](https://www.kuketz-blog.de/openpush-open-source-alternative-zu-google-firebase-cloud-messaging/)
+* [Quibble will ein Windows Bootloader werden mit dem ihr Btrfs unter Windows benutzen könnt.](https://www.phoronix.com/scan.php?page=news_item&px=Quibble-Open-Source-Windows-BL)
+* [Nextcloud wurde in der Version 18.0.1 veröffentlicht.](https://nextcloud.com/blog/nextcloud-18-0-1-is-out/)
