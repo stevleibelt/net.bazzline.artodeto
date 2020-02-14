@@ -28,3 +28,13 @@
 * [OpenPush möchte eine Alternative zu Googles Firebase Cloud Messaging sein.](https://www.kuketz-blog.de/openpush-open-source-alternative-zu-google-firebase-cloud-messaging/)
 * [Quibble will ein Windows Bootloader werden mit dem ihr Btrfs unter Windows benutzen könnt.](https://www.phoronix.com/scan.php?page=news_item&px=Quibble-Open-Source-Windows-BL)
 * [Nextcloud wurde in der Version 18.0.1 veröffentlicht.](https://nextcloud.com/blog/nextcloud-18-0-1-is-out/)
+* [Nach einem Treffen der SPD mit der Warburg-Privatbank verzichtet das SPD geführte Hamburg auf Rückforderungen der Cum-Ex-Millionen von der Warburg-Privatbank.](https://blog.fefe.de/?ts=a0bbf266)
+* [Nein? Doch! Oh? Deepwater-Horizon hat doch mehr kaputt gemacht als alle Beteiligten zugeben wollen.](https://blog.fefe.de/?ts=a0bbcbad)
+* [Realitätsabgleich "wo kommt unser Soja eigentlich so her?"](https://netzfrauen.org/2020/02/13/argentinien-3/) - Soja steck im Fleisch und im Essen. Deswegen, kauft was bei euch um die Ecke angebaut wird, dann können euch die Konzerne weniger Bescheisen und ihr müsst direkt mit eurem Gewissen zurande kommen.
+* [PostreSQL wurde in den Versionen 12.2, 11.7, 1012, 9.6.17, 9.5.21 und 9.4.26 veröffentlicht.](https://www.postgresql.org/about/news/2011/)
+* [Hier würd euch erzählt was eine Recursive Common Table Expression in MySQL 8.0 ist.](https://www.percona.com/blog/2020/02/13/introduction-to-mysql-8-0-recursive-common-table-expression-part-2/)
+* [Wow, was die Medien uns hier wieder Vorlügen, angeblich ist das Volk so von der CDU "schockiert", dass es jetzt wieder die Kriegsverbrecher und Volksvernichter SPD wählen will.](https://blog.fefe.de/?ts=a0bb00a3) - Lasst euch nicht verarschen, wählt keine Sozialdemokraten.
+* [Realitätsabgleich Pharma-, Internet- und Energiekonzerne etc. pp: >>[...] damals wie heute sind Selbstüberschätzung und mangelnde Reflektion des eigenen Tuns dort die Regel, wo Profite winken [...]<<](https://www.kuketz-blog.de/digitaler-hustensaft-ein-kommentar-zum-scheitern-der-e-privacy-verordnung/)
+* [Schon mal was von der Hiren's BootCD PE gehört? Ich bisher nicht.](https://www.hirensbootcd.org/download/)
+* [Ihr wollt ein Mesh-Netzwerk aufbauen? Probiert es mal mit Freemesh.](https://opensource.com/article/20/2/mesh-network-freemesh)
+* [Tails wurde in der Version 4.3 veröffentlicht.](https://www.pro-linux.de/news/1/27797/tails-43-verbessert-sicherheit.html)
