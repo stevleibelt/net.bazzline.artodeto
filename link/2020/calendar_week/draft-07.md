@@ -42,3 +42,7 @@
 * [>>[...] Die zunehmende Privatisierung führt zudem zu einer Plünderung des Volkseigentums. Das Europa als Zusammenarbeit der Völker wurde durch ein US-kontrolliertes Wirtschaft-Europa verdrängt. Die Frage erscheint berechtigt, woher diese Entwicklungsrichtung stammt, wo doch regelmässig Wahlen stattfinden, bei denen die Bevölkerung die Politiker auswählten [...]<<](https://npr.news.eulu.info/2020/02/14/der-anglo-amerikanische-ursprung-der-europaeischen-einigungsbewegung/)
 * [Nein? Doch! Oh? Nachdem man Jahrzehnde die Acker in Norddeutschland verseucht hat, ist man nun überrascht, dass das Trinkwasser dort ebenfalls verseucht ist.](https://netzfrauen.org/2020/02/15/pestizide-7/) - Könnte man den Ackerboden doch nur wie Plastikmüll nach Asien oder Afrika verschiffen.
 * [OpenSSH wurde in der Version 8.2 veröffentlicht.](https://lwn.net/Articles/812537/)
+* [Vulkan wurde in der Version 1.2.133 veröffentlicht.](http://www.phoronix.com/scan.php?page=news_item&px=Vulkan-1.2.133-Released)
+* [MyPaint wurde in der Version 2.0 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=MyPaint-2.0-Released)
+* [PGP-Schlüssel selber hosten? Mit WKD geht das jetzt selber.](https://shibumi.dev/posts/how-to-setup-your-own-wkd-server/)
+* [Gute Begründung warum man lieber Skripte via Sudo whitelisten sollte statt Kommandos.](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/SudoersAndCoverScripts) - Skripte haben im Regelfall weniger Argumente und standardisieren etwas, was Kommandos universeller ermöglichen.
