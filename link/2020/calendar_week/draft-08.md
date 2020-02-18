@@ -1,0 +1,14 @@
+* [Nach Quinoa und Flohsamen hat die Industrie etwas neues zum vermarkten gefunden - Pilze aus Übersee.](https://netzfrauen.org/2020/02/17/vegan-4/) - Haltet es wie bei den Samen und Körnern, esst was lokal vorhanden ist. Das schon die Umwelt und hilft euren Körper, da europäische Pilze das beinhalten, was Europäer brauchen.
+* [Hier baut jemand mit python und qt ein WebAssembly-Programm.](https://opensource.com/article/20/2/wasm-python-webassembly)
+* [Wie funktioniert das mit den Plugins unter vim 8 eigentlicht?](https://opensource.com/article/20/2/how-install-vim-plugins)
+* [Wer Kali Linux nutzt ist ein Gefährder in Groß Britanien und wenn man in Hamburg-Mitte Sozialarbeiter sein will, muss man wie ein Migrant aussehen, sonst wird es nichts mit dem Traumberuf.](https://tuxproject.de/blog/2020/02/noseholes-snowsuit-ranger-hamburger-dunkelziffern/)
+* [Da Monsanto nun nicht mehr Teil der USA ist, wird Bayer weiter aus den USA verklagt - Heute "Dicamba".](https://netzfrauen.org/2020/02/17/bayer-15/) - Und nicht vergessen lieber deutscher Steuerzahler, Bayer ist systemkritisch und muss mit Steuergeldern gerettet werden. Bayer ist wichtiger als Kindergärten, Schulen, Feuerwehr, ja verdammt noch einmal wichtiger als die deutsche Autobahn!
+* [NetBSD wurde in der Version 9.0 veröffentlicht.](https://www.netbsd.org/releases/formal-9/NetBSD-9.0.html)
+* [Mit H5P könnt ihr tolle Präsentationen nativ im Browser machen.](https://h5p.org/)
+* [Grundlagen der Achtsamkeitsmeditation (metanook19)](https://cdn.media.ccc.de/events/metanook/metanook-2019/h264-hd/metanook19-16-deu-Grundlagen_der_Achtsamkeitsmeditation_hd.mp4)
+* [E-Mail Infrastruktur (metanook19)](https://cdn.media.ccc.de/events/metanook/metanook-2019/h264-hd/metanook19-31-deu-E-Mail_Infrastruktur_hd.mp4)
+* [Öffentliche Haushalte (metanook19)](https://cdn.media.ccc.de/events/metanook/metanook-2019/h264-hd/metanook19-11-deu-Oeffentliche_Haushalte_hd.mp4)
+* [Bildungshomöopathie (metanook19)](https://cdn.media.ccc.de/events/metanook/metanook-2019/h264-hd/metanook19-12-deu-Bildungshomoeopathie_hd.mp4)
+* [Hier gibt es eine schöne Zusammenfassung die verdeutlicht wie viel Angst die Fleisch- und Milchindustrie vor Phoenix Oscarrede hat.](https://netzfrauen.org/2020/02/18/phoenix/)
+* [Vivantes in Berlin ist so schlecht, dass nahezu ein ganzer Fachbereich gekündigt hat.](https://blog.fefe.de/?ts=a0b5bf08) - Sowas passiert, wenn man kritische Infrastruktur von BWL-er betreiben lässt
+* [Gewinne privatisieren, Verluste sozialisieren? Genau das hat die Bertelsmannstiftung vor, wenn sie laut schreit, dass die GKV die Beitragszahler der PKV mit offenen Armen empfangen soll.](https://blog.fefe.de/?ts=a0b47e7c) - Kurzum, mit privaten Rentenversicherungen kann man kein Geld mehr machen, die einstig jungen Leute sind jetzt alt und wollen was von ihren Beitragszahlungen haben - also fährt man diesen Wirtschaftszweig gegen die Wand.
