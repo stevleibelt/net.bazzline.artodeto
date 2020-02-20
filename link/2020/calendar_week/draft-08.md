@@ -19,3 +19,8 @@
 * [Ksnip ist ein freies Screenshot-Programm für Linux, macOS und Windows.](https://www.ghacks.net/2020/02/20/ksnip-is-a-cross-platform-open-source-screenshot-tool-with-many-annotation-options/)
 * [Roundcube wurde in der Version 1.4.3 veröffentlicht.](https://roundcube.net/news/2020/02/19/update-1.4.3-released)
 * [GNOME wurde in der Version 3.34.4 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=GNOME-3.34.4-Released)
+* [Du kannst dir das Auto nicht leisten damit du zur Arbeit kommst? Kein Problem, du kannst ja vor und nach der Arbeit als Uber-Fahrer arbeiten um das Auto zu finanzieren.](https://blog.fefe.de/?ts=a0b0a75f) - Nicht kaufen, sondern leihen.
+* [Wow, das MGM-Hotel in Las Vegas hat fast 11 Millionen Nutzerdaten der Allgemeinheit geschenkt.](https://blog.fefe.de/?ts=a0b09dbf)
+* [Alleine bei der Farbauswahl des DE-HUB's vom BMWI zeigt wo es hingeht, schwarz-weis-rot!](https://www.de-hub.de/)
+* [PPP ist wohl kaputt.](https://blog.fefe.de/?ts=a0b08d9a)
+* [>>[...] Generell in der Politik übrigens. Genau wie in der Medizin. Das Geld liegt in der Behandlung, nicht in der Heilung. In der Politik werden Probleme daher nicht gelöst sondern gemanaged. Und zwar möglichst unzureichend, damit wir auch morgen noch Politiker brauchen, die sich um unseren Turm aus ungelösten Problemen kümmern. [...]<<](https://blog.fefe.de/?ts=a0b39bf0)
