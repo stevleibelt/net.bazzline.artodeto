@@ -24,3 +24,8 @@
 * [Alleine bei der Farbauswahl des DE-HUB's vom BMWI zeigt wo es hingeht, schwarz-weis-rot!](https://www.de-hub.de/)
 * [PPP ist wohl kaputt.](https://blog.fefe.de/?ts=a0b08d9a)
 * [>>[...] Generell in der Politik übrigens. Genau wie in der Medizin. Das Geld liegt in der Behandlung, nicht in der Heilung. In der Politik werden Probleme daher nicht gelöst sondern gemanaged. Und zwar möglichst unzureichend, damit wir auch morgen noch Politiker brauchen, die sich um unseren Turm aus ungelösten Problemen kümmern. [...]<<](https://blog.fefe.de/?ts=a0b39bf0)
+* [Mesa wurde in de Version 20.0 veröffentlicht.](https://www.pro-linux.de/news/1/27816/mesa-200-freigegeben.html)
+* [Liebe Leute, ihr müsst eurer Windows 10 bei der Installation jetzt physich vom Netzwerk trennen, sonst könnt ihr Windows 10 nur mit Online-Konto installieren.](https://www.golem.de/news/windows-10-installation-auch-in-deutschland-mit-microsoft-kontozwang-2002-146773.html) - Bekloppte Zeiten.
+* [Auch eine schöne find file bash function.](https://opensource.com/article/20/2/find-file-script)
+* [Realitätsabgleich, Wichtigkeit der Großkonzerne - Sie nicht nicht wichtig, weder transportieren Sie die Werte der Gesellschaft, noch leisten sie etwas - beides übernimmt die Mittelschicht.](https://npr.news.eulu.info/2020/02/21/das-rueckgrat-der-gesellschaft/)
+* [Nein? Doch! Oh? Da wurde Jahrzehntelang das Handwerk des Lederverarbeiters als Tiermörder beschimpft und nun brauchen wir es wieder weil so ein paar Leute aus Kaktus Leder züchten.](https://netzfrauen.org/2020/02/20/mexico-5/) - Hätte uns nur früher jemand gearnt.
