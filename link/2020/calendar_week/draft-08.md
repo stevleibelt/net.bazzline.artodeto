@@ -34,3 +34,6 @@
 * [Schöne Liste die man mal durchlesen sollte wenn man in einer Firma nur Features kloppt.](https://cutle.fish/blog/12-signs-youre-working-in-a-feature-factory)
 * [Realitätsabgleich Organspenden.](https://www.welt-im-wandel.tv/video/die-wahrheit-ueber-organtransplantation-moderne-medizin-ein-mediziner-packt-aus/)
 * [Zensur am lebenden Beispiel Dichröhre und Influencer - die filtern alle Kommentare raus, die kritisch sind.](https://www.golem.de/news/youtube-influencer-moegen-clickbait-nicht-2002-146787.html)
+* [Ab 01.01.2020 sollen Besitzer eine 10 kW-PV-Anlage nur noch 15 Minuten pro Jahr für die Gewerbesteuer benötigen.](https://www.sonnenseite.com/de/energie/weniger-brokratie-fr-betreiber-von-photovoltaik-anlagen-bis-zehn-kilowatt.html)
+* [Der Universal Media Server wurde in der Version 9.3.0 veröffentlicht.](https://www.planet3dnow.de/cms/55237-universal-media-server-9-3-0/)
+* [Haushalte mit weniger als 6000 kwH pro Jahr können doch "Zwangsdigitalisiert" werden - die Zusatzkosten trägt dann der Mieter.](https://www.golem.de/news/intelligente-messsysteme-zwangs-rollout-der-vernetzten-stromzaehler-startet-2002-146796.html) - Wegelagerei ha man früher dazu gesagt.
