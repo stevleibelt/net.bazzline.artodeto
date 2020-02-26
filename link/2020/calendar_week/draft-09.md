@@ -6,3 +6,6 @@
 * [Hier gibt es einen Einstieg wie man C und C++ in der Wissenschaft nutzt.](https://opensource.com/article/20/2/c-data-science)
 * [Endlich gibt es dafür eine Studie, desto mehr Zucker ihr esst, desto weniger Vitamine könnt ihr aufnehmen.](https://netzfrauen.org/2020/02/24/sugar-3/)
 * [Die Perowskit-Tandemsolarzelle hat mittlerweile einen Wirkungsgrad von 29,15 Prozent erreicht.](https://www.sonnenseite.com/de/wissenschaft/rekord-wirkungsgrad-von-perowskit-tandemsolarzelle-springt-auf-2915-prozent.html)
+* [Firefox->about:config->network.trr.mode und dort die 5 eingeben.](https://wiki.mozilla.org/Trusted_Recursive_Resolver#network.trr.mode)
+* [Realitätsabgleich Menschenrechte in Groß Britanien: >>Yesterday Mr Assange was handcuffed 11 times, he was stripped naked two times at Belmarsh, and was put in five separate holding cells<<.](https://blog.fefe.de/?ts=a0ab8746)
+* [Airbnb verkauft euch jetzt Wanzen.](https://blog.fefe.de/?ts=a0ad7734)
