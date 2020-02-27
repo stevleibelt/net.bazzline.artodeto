@@ -15,3 +15,10 @@
 * [Craig Murray berichtet zum Gerichtsverfahren gegen Assange und wie behindert und offensichtlich dumm Assange hier als "der übelste Attentäter auf die freie Menscheit" hingestellt wird.](https://blog.fefe.de/?ts=a0a89791) - Zeichentrickfilme von vor 20 Jahre sind nichts dagegen.
 * [Jens Spahn zeigt für wem er kämpft, für die gefüllten Brieftaschen der Industrie - da werden jetzt auch Sterbegesuche abgelehnt um noch so viel Steuergelder wie möglich aus dem Todkranken rauszupressen.](https://blog.fefe.de/?ts=a0a88e89)
 * [Realitätsabgleich "Die Gesichtserkennung an den Bahnhöfen wird nie weiter genutzt."](https://blog.fefe.de/?ts=a0a88cdf)
+* [Was macht der MAD und andere bekloppten Behörden die zur Terrorabwehr da sind? Plakat-Überklebung verfolgen.](https://blog.fefe.de/?ts=a0a95835) - Also unsere Kita könnte ja mal 1000 Euro gebrauchen, falls den Behörden langweilig ist - oder ne Vollzeitputzfrau.
+* [Broadcom, Cypress und Exchange sind kaputt.](https://blog.fefe.de/?ts=a0a83a85)
+* [Noch so eine Verschwendung im Namen der Terrorabwehr, Vorratsdatenspeicherung am Beispiel NSA.](https://www.golem.de/news/vorratsdatenspeicherung-100-millionen-dollar-fuer-eine-telefonnummer-2002-146895-rss.html) - Mit den Summen könnte man das Leider auf der Welt verringern.
+* [WebAssembly ist so toll, da baut man jetzt eine Sandbox ringsrum - Sandbox, das Sicherheitskonzept was nicht funktioniert.](https://www.golem.de/news/rlbox-firefox-bekommt-webassembly-sandbox-2002-146891-rss.html)
+* [Wie erstelle ich ein Balkengraph in Grafana wird euch hier erklärt.](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/GrafanaMakeBarGraph)
+* [Go wurde in der Version 1.14 veröffentlicht.](https://www.golem.de/news/programmiersprache-go-1-14-erscheint-mit-stabilem-modulsystem-2002-146876-rss.html)
+* [Hier gibt es eine Übersicht von freien Q-And-A-Anwendungen.](https://opensource.com/article/20/2/open-source-qa)
