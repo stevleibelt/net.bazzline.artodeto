@@ -1,0 +1,1 @@
+* [Träumschen, Luxemburg macht es vor und schafft für den ÖPNV die Tickets ab.](https://www.golem.de/news/tschuess-tickets-luxemburg-feiert-kostenlosen-nahverkehr-2003-146945-rss.html) - Hätte ich in Deutschland auch gern, dafür würde ich auch mehr Steuern zahlen.
