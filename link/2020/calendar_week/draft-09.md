@@ -30,3 +30,13 @@
 * [Herzlichen Glückwunsch, SVN ist über 20 Jahre alt.](https://www.pro-linux.de/news/1/27832/apache-subversion-wird-20-jahre-alt.html)
 * [Hier wird euch gezeigt wie ihr von einem Debain 10 Buster mit openconnect und xmlstarlet mit einem Cisco AnyConnect verbindet.](https://odoepner.wordpress.com/2020/02/28/connect-to-cisco-anyconnect-using-debian-buster/)
 * [Der Bundesstaat Washington verbietet Nestle örtliches Wasser abzufüllen.](https://netzfrauen.org/2020/02/27/nestle-16/) - Macht euch keinen Kopf, wie ich Nestle und seine BWL-Mongos kenne, haben die schon einen weiteren unethischen Plan umgesetzt.
+* [Geilo, danke erneut an archive.org - über 20.000 VHS-Kassetten wurden digitalisiert und sind für alle verfügbar.](https://www.golem.de/news/internet-archive-vhs-vault-bewahrt-videokassetten-aus-den-90ern-fuer-alle-auf-2002-146942.html)
+* [PayPal ist so eine Drecksfirma, die verklagt euch wenn ihr denen ihre Fehler schickt, beschreibt und erklärt.](https://cybernews.com/security/we-found-6-critical-paypal-vulnerabilities-and-paypal-punished-us/)
+* [Genode wurde in der Version 20.02 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=Genode-OS-20.02-Released)
+* [Wine wurde in der Version 5.3 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=Wine-5.3-Released)
+* [SystemRescueCd wurde in der Version 6.1.0 veröffentlicht.](https://www.planet3dnow.de/cms/55352-systemrescuecd-6-1-0/)
+* [Rufus wurde in der Version 3.9 veröffentlicht.](https://www.planet3dnow.de/cms/55350-rufus-3-9/)
+* [Durch welche Gehirnwaschmaschine müssen SPD-Politiker eigentlich gehen, dass Sie solche Sätze sagen können?](https://tuxproject.de/blog/2020/02/beugehaft-fuer-florian-post/)
+* [DXVK wurde in der Version 1.5.5 veröffentlicht.](http://www.phoronix.com/scan.php?page=news_item&px=DXVK-1.5.5-Released)
+* [Hier wird euch noch einmal Näher gebracht was für ein verlogenes Pack an drecks Politiker die Unmenschen hinter dem "Institut Neue Soziale Marktwirtschaft" sind.](https://www.sonnenseite.com/de/politik/die-kampagnen-gegen-die-dezentrale-energiewende-laufen-verstrkt-weiter.html) - Die Personen haben nichts mit sozial zu tun, sie stellen das Wohl ihres Kontos über jegliches Lebewesen.
+* [Mit "Openjardin" könnt ihr euren Garten am PC planen.](https://openjardin.eu/)
