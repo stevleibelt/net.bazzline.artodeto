@@ -6,3 +6,17 @@
 * [Das Earth Island Institute verklagt Cocla Cola, Pepsi, Nestle, Clorox und viele weitere Konzerne weil diese Konzerne zur Plastikkriese auf dem Planeten beigetragen haben.](https://netzfrauen.org/2020/03/02/plastic-24/)
 * [CCC: Stellungnahme zu Wahlbeeinflussung und Meinungsmanipulation](https://www.ccc.de/de/updates/wahlbeeinflussung-und-meinungsmanipulation) - Jedes Wort ist wichtig, klickt drauf und lest es.
 * [Toll, Microsoft analysiert jetzt alles was ihr in deren Outlook 365 eintragt.](https://www.golem.de/news/datenschutz-bei-myanalytics-microsoft-weiss-wo-deine-freie-zeit-bleibt-2003-146761.html) - Die Kurzfassung, nutzt Outlook nur für die Arbeit und am besten dann auch nicht für wichtige und unternehmenskritische Dinge wie Besprechungen oder E-Mail, denn Microsoft ist wie Google, sie wissen alles was ihr auf deren (Cloud)-Computer macht. Die Cloud klaut.
+* [Hier wird euch der package manager "Cargo" der Programmiersprache "Rust" vorgestellt.](https://opensource.com/article/20/3/rust-cargo)
+* [DragonFlyBSD wurde in der Version 5.8 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=DragonFlyBSD-5.8-Released)
+* [In diesem Video wird euch gezeigt wie ihr ein Nachtlich zum selber Löten bauen könnt.](https://koeln.ftp.media.ccc.de/contributors/luebeck/chaotikum/h264-hd/chaotikum-48-deu-Malte_ueber_das_Nachtlicht_Fuenf-Minuten-Termine_hd.mp4)
+* [SETI@Home hat fertig - vorerst.](https://www.ghacks.net/2020/03/03/setihomes-search-for-extraterrestrial-intelligence-comes-to-an-end/)
+* [Linux From Scratch wurde in der Version 9.1 veröffentlicht.](https://www.pro-linux.de/news/1/27840/linux-from-scratch-91-freigegeben.html)
+* [GhostBSD wurde in der Version 20.02 veröffentlicht.](https://www.pro-linux.de/news/1/27839/ghostbsd-2002-freigegeben.html)
+* [Schöner Vergleich was Steamingdienste euch verheimlichen - Sie können euer Lieblingslied vom Lieblingsalbum entfernen "weil es so ist" oder gleich den Künstler löschen - das geht zu Hause nicht.](https://tuxproject.de/blog/2020/03/vinyl-8/)
+* [Erzählt es keinem weiter, aber in Indien funktioniert Bio-Dynamische Landwirtsschaft ohne Pestizide, ist billiger und erzeugt bessere Produkte.](https://netzfrauen.org/2020/03/03/organic-3/)
+* [Prüft bitte einmal ob ihr eure LetsEncypt-Zertifikate neu bauen müsst.](https://www.golem.de/news/tls-let-s-encrypt-muss-drei-millionen-zertifikate-zurueckziehen-2003-146999.html) - [Hier](https://unboundtest.com/caaproblem.html) gibt es eine Eingabemaske dafür.
+* [Nein? Doch! Oh? Der sogenannte Fachkräftemangel ist besonders bei unterbezahlten Jobs groß.](https://blog.fefe.de/?ts=a0a0978c)
+* [In Sachen Entsalzungsanlagen haben Wissenschaftler den Kapillareffekt nachgebaut.](https://blog.fefe.de/?ts=a0a02a1a) - Ich frag mich dabei immer, wie gesund dieses Wasser ist. Auf der anderen Seite ist es halt besser als kein Wasser.
+* [Beim NetzDG dürfen wie jetzt ganz öffentlich sehen wie der Markt sich selbst regulieren soll.](https://blog.fefe.de/?ts=a0a0000b) - Sehr schön, dann kann man den Anhängern der "magischen Hand des freien Marktes" einen aktuellen Fall von "geht halt nicht" vorzeigen.
+* [OpenShot wurde in der Version 2.5.1 veröffentlicht.](http://www.phoronix.com/scan.php?page=news_item&px=OpenShot-2.5.1-Released)
+* [Schaut mal, ihr hat Golem ein Werbeschreiben der Industrie abgedruckt indem es dem Leser sagen möchte "Die deutschen Behörden sind schlecht, weil sie unsere Bürgerdaten nicht in die Cloud packen".](https://www.golem.de/news/behoerden-wegen-cyberangriff-geschlossen-2003-146966.html)
