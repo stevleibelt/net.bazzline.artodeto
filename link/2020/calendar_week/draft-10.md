@@ -32,3 +32,8 @@
 * [Schönes Beispiel für "Wo ein Trog, da kommen die Schweine" - Die Gesichtserkennung der Firma "Cleaview Ai" wurde dann mal ungefragt auf Parties ausgerollt.](https://www.golem.de/news/clearview-ai-kunden-nutzen-gesichtserkennung-als-party-gag-2003-147086.html) - Ist das jetzt ein Grund mehr in dunkle Technoschuppen mit Strobo-Beleuchtung zu gehen?
 * [Systemd wurde in der Version 245 veröffentlicht.](https://lwn.net/Articles/814068)
 * [Hier beschreibt jemand wie er im Büro mit seinem Burnout/Depression gelernt hat umzugehen.](https://opensource.com/article/20/3/burnout)
+* [Vulkan wurde in der Version 1.2.134 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=Vulkan-1.2.134-Released)
+* [Hanf statt Sand für den Hausbau?](https://netzfrauen.org/2020/03/07/hanf-2/)
+* [Schön zu lesen, junge Afrikaner sind gedanklich aus der Sklaverei der Subventionen herausgekommen und wollen ihr Land selber verändern - unabhängig.](https://www.sonnenseite.com/de/wirtschaft/junge-afrikaner-erwarten-ra-des-erfolgs.html) - Wenn nötig und möglich gehe ich dafür mit auf die Straße.
+* [Debians APT wurde in der Version 2.0 veröffentlicht.](https://blog.jak-linux.org/2020/03/07/apt-2.0/) - Ziemlich cool wie ihr mich fragt, wie lange APT in Version 1 gehalten hat zeigt wie viel Gehirnschmalz damals bei der Planung reingesteckt wurde, wie wenig broken Dependencies es von Version 1 zu 2 gibt zeigt wie viel Gedanken auch dieses mal reingesteckt wurden. Völlig entgegen der "alles neu"-Stimmung bei "be evil" google.
+* [Telegram kommt in Sachen Datenschutz auch nicht gut weg.](https://www.kuketz-blog.de/telegram-sicherheit-gibt-es-nur-auf-anfrage-messenger-teil3/)
