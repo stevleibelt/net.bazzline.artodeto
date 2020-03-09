@@ -1,3 +1,9 @@
 * [Traurig aber wahr, Corona macht den alten Säcken aus der Blockpartei Sorgen weil es sie selbst bedroht, beim Klimawandel ist das anders, da sind sie schon unter der Erde wenn es los geht.](https://blog.fefe.de/?ts=a09bea83) - Und was so einen richtigen freien Christdemokrat ausmacht, dem interessiert seine Familie ehh nicht.
 * [Na Huch, fühlte sich hier einer auf seinen Schlipps getreten und meinte, dass man diese ganzen "Pornosüchtigen" an den Pranger stellen muss?](https://blog.fefe.de/?ts=a09bd386)
 * [AMD's Zen ist jetzt auch kaputt.](https://mlq.me/download/takeaway.pdf)
+* [Würde jemanden interessieren wenn es nicht Berlin wäre - die Elektrobusse kosten Milliarden Euro mehr.](https://www.golem.de/news/bvg-elektrobusse-werden-berlin-milliarden-euro-mehr-kosten-2003-147110.html) - [Hier](https://www.berlin.de/senuvk/verkehr/politik_planung/oepnv/nahverkehrsplan/download/nvp2019-2023/Anlage7-MigrationdesBusverkehrsaufnicht-fossileAntriebsenergien.pdf) die Erklärung vom Staat Berlin.
+* [Hier wird euch gezeigt wie ihr Vorlagen/Templates mit Libre Office vorbereitet.](https://opensource.com/article/20/3/libreoffice-templates)
+* [Nicht nur Boxen, jetzt auch Lampen - Phillips sagt dem Kunden "kauf halt neue wenn du die noch benutzen willst, auch wenn sie noch funktionieren".](https://www.golem.de/news/support-wird-beendet-hue-bridge-der-ersten-generation-verliert-ab-mai-funktionen-2003-147113.html) - Schön diese digitale Hue-Welt.
+* [Memcached wurde in der Version 1.6 veröffentlicht.](http://www.phoronix.com/scan.php?page=news_item&px=Memcached-1.6-Released)
+* [Collabora Online wurde in der Version 4.2 veröffentlicht.](https://www.pro-linux.de/news/1/27854/collabora-online-42-vorgestellt.html)
+* [Schöne Zusammenfassung was wir an der Corona-Panik lernen können und wie wuchtig der Klimaschutz ausfallen müsste.](https://blog.fefe.de/?ts=a098e36b)
