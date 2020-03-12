@@ -33,3 +33,16 @@
 * [4MLinux wurde in der Version 32.0 veröffentlicht.](https://www.pro-linux.de/news/1/27859/4mlinux-320-erschienen.html)
 * [Unicode wurde in der Version 13.0 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=Unicode-13-Released)
 * [Realitätsabgleich Rüstungsindustrie weltweit, warum es sich für Bänker und Christdemokraten finanziell so rechnet.](https://netzfrauen.org/2020/03/10/ruestungsgueter/) - Das die Schalter und Walter dieser "Industrie" frei von jeder Ethik sind steht für mich außer Frage, diese entarteten Personen sehen das als Win-Win-Geschäft da sie die werkzeuge zum töten und Verstümmeln und danach die Werkzeuge zum beseitigen und verarzten liefern. Gesellschaftlich muss sich jedes Land die Frage stellen warum die eigene Industrie Tötungswaffen in Kriesengebiete verkaufen und liefern darf.
+* [Warum eigentlich nur wegen dem Corona-Virus? Das ORF hat für den Vormittag wieder Bildungsfernsehn ins Programm aufgenommen.](https://blog.fefe.de/?ts=a09783f1)
+* [Gleiches Land, andere Wirkung, wegen Corona wurde in Österreich das Recht zur freien Meinungsäußerung beschnitten - Demonstrationen sind jetzt erst einmal bis voraussichtlich dem 03.04.2020 verboten.](https://blog.fefe.de/?ts=a0961a67) - Hoffentlich vergisst das keiner hinterher wiede an zu schalten.
+* [China und hier im speziellen Falle Xiaomi liefert mehrere tausend FFP3-Schutzmasken für Lau nach Italien.](https://blog.fefe.de/?ts=a09618a0) - Solidarität!
+* [Gnome wurde in der Version 3.36 veröffentlicht.](https://www.pro-linux.de/news/1/27867/gnome-336-freigegeben.html)
+* [Auch Chelsea Manning wird weiterhin im Gefängnis misshandelt. Und das alles nur, weil sie über Wikileaks gezeigt hat wie verachtend der Krieg ist.](https://www.golem.de/news/wikileaks-chelsea-manning-im-krankenhaus-2003-147199.html)
+* [Dank des europäischen Sozialfonds kann man in Borna-Gnandorf (bei Leipzig) jeden Dienstag und Donnerstag von 10 bis 18 Uhr den Zukunftsgarten besuchen.](https://sachsen.nabu.de/news/2020/27749.html)
+* [Schreibt viele README.md Datei oder lest diesen Link der euch in kürze sagt wie man gute Dokumentation schreibt.](https://opensource.com/article/20/3/documentation)
+* [Nein? Doch! Oh? - Aber jetzt auch als Studie, die Energieversorger wissen nicht wohin mit ihrem Geld und mache mehr als sie sollten.](https://www.sonnenseite.com/de/energie/horvth-studie-energieversorger-wachsen-ber-ihr-kerngeschft-hinaus.html)
+* [Whisper hat der Weltgemeinschaft 900 Millionen Datensätze geschenkt.](https://www.golem.de/news/whisper-datenleck-bei-app-fuer-intime-gestaendnisse-2003-147188.html)
+* [Die Bitkom zeigt ihr wahres Gesicht und findet es ganz furchtbar, dass Technik jetzt wenigst 5 Jahre halten soll.](https://www.golem.de/news/eu-kommission-industrie-wettert-gegen-recht-auf-reparatur-von-elektronik-2003-147186.html)
+* [Verrücktes Wetter auch in der Mongolai, dort ist es gerade derbe kalt.](https://netzfrauen.org/2020/03/11/asia-5/)
+* [Nicht nur in Hessen, nein auch in NRW ist der Bürger jetzt offiziell der Feind der Polizeibehörden.](https://www.golem.de/news/palantir-big-data-fuer-deutsche-ermittler-2003-147181.html)
+* [Public Money? Public Code! - gibt es jetzt auch auf deutsch zu lesen.](https://www.pro-linux.de/news/1/27863/fachpublikation-zu-public-money-public-code-jetzt-auch-auf-deutsch.html)
