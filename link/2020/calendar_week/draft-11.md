@@ -46,3 +46,11 @@
 * [Verrücktes Wetter auch in der Mongolai, dort ist es gerade derbe kalt.](https://netzfrauen.org/2020/03/11/asia-5/)
 * [Nicht nur in Hessen, nein auch in NRW ist der Bürger jetzt offiziell der Feind der Polizeibehörden.](https://www.golem.de/news/palantir-big-data-fuer-deutsche-ermittler-2003-147181.html)
 * [Public Money? Public Code! - gibt es jetzt auch auf deutsch zu lesen.](https://www.pro-linux.de/news/1/27863/fachpublikation-zu-public-money-public-code-jetzt-auch-auf-deutsch.html)
+* [Nachdem sie Chelsea Manning beinahe zu tode gefolter haben, entlässt der Staat USA sie jetzt, fordert aber noch 250000 USD Doller Bearbeitungsgebühr.](https://blog.fefe.de/?ts=a09403d1)
+* [Mecklenburg-Vorpommern hat jetzt auch ein Polizeiermächtigungsgesetzt.](https://blog.fefe.de/?ts=a094a744A) - Die Polizei darf jetzt bei euch einbrechen, euch mit Drohnen überwachen, Metadaten einholen, eure Passwörter und Pins einholen und vieles mehr. Ganz klar, der Bürger ist hier der Feind! [Hirnfick 2.0](https://tuxproject.de/blog/2020/03/sozialdemokratisch-einbrechen-zur-sicherheit/) hat es gut in einer Überschrift zusammen gefasst: "Solzialdemokratisch einbrechen zur Sicherheit."
+* [Nextcloud wurde in der Version 18.0.2, 17.04 und 16.0.9 veröffentlicht.](https://nextcloud.com/blog/18-0-2-17-0-4-and-16-0-9-are-here-update-time/)
+* [Tails wurde in der Version 4.4 veröffentlicht.](https://www.pro-linux.de/news/1/27869/tails-44-ver%C3%B6ffentlicht.html)
+* [Schöner Realitätsabgleich, durch Passivrauchen sterben pro Jahr wohl mehr als an Corona.](https://tuxproject.de/blog/2020/03/passivcorona/)
+* [TARS wurde jetzt von der Linux Foundation zu einer Stiftung gemacht.](https://www.pro-linux.de/news/1/27868/linux-foundation-gr%C3%BCndet-tars-foundation.html)
+* [Netflix darf die Preise nicht beliebig erhöhen, mein Dank geht ihr an den Verbraucherschutzt der eine Klage eingereicht hat.](https://www.golem.de/news/videostreaming-netflix-verliert-vor-gericht-gegen-verbraucherschuetzer-2003-147230.html)
+* [Hier wird euch gezeigt wie ihr ps Psexec.exe ein process-Log auf einem Remote-PC erstellen könnt.](https://4sysops.com/archives/using-process-monitor-procmon-remotely/)
