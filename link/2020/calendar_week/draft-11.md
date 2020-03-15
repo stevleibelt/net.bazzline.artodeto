@@ -54,3 +54,10 @@
 * [TARS wurde jetzt von der Linux Foundation zu einer Stiftung gemacht.](https://www.pro-linux.de/news/1/27868/linux-foundation-gr%C3%BCndet-tars-foundation.html)
 * [Netflix darf die Preise nicht beliebig erhöhen, mein Dank geht ihr an den Verbraucherschutzt der eine Klage eingereicht hat.](https://www.golem.de/news/videostreaming-netflix-verliert-vor-gericht-gegen-verbraucherschuetzer-2003-147230.html)
 * [Hier wird euch gezeigt wie ihr ps Psexec.exe ein process-Log auf einem Remote-PC erstellen könnt.](https://4sysops.com/archives/using-process-monitor-procmon-remotely/)
+* [Die Blockpartei fängt an die Bürgerrechte zu entfernen, Firmen mit wirtschaftlichem Interesse dürfen alle Daten erheben die sie für nötig erachten, solange  ihr Rechtsanwalt das irgendwie begründen kann, dass diese Daten zum Schutz der Weltbevölkerung gegenüber Corona genutzt werden kann.](https://www.golem.de/news/datenschutz-firmen-duerfen-coronavirus-daten-erheben-2003-147248.html) - Ulrich Kleber ist hier das U-Boot der Wirtschaft, seines Zeichens Bundesdatenschutzbeauftragter.
+* [Endlich einmal zusammengefasst, Windows-Updates mit der PowerShell nutzen.](https://www.windowspro.de/wolfgang-sommergut/windows-updates-powershell-abfragen-herunterladen-installieren)
+* [Kapitalismus im Endstadium am Beispiel der Kaka-Anwendung.](https://www.golem.de/news/kaia-krankenkassen-erwarten-ueberhoehte-preise-fuer-gesundheits-apps-2003-147243.html) - Daran könnt ihr sehen, wie soziales Vermögen privatisiert wird. "Durch Zufall" findet man keine Namen der Eigentümer von dem Drecksladen auf deren Internetseite.
+* [Visual Basic ist fertig.](https://www.golem.de/news/net-core-5-microsoft-beendet-weiterentwicklung-von-visual-basic-2003-147238.html)
+* [Ceph wurde in der Version 4.0 veröffentlicht.](https://www.pro-linux.de/news/1/27872/red-hat-ver%C3%B6ffentlicht-ceph-storage-4.html)
+* [Die SystemRescueCD wurde in der Version 6.1.1 veröffentlicht.](https://www.planet3dnow.de/cms/55676-systemrescuecd-6-1-1/)
+* Habt Mut zur Solidarität!
