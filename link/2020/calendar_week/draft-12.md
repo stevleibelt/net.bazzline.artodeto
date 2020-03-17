@@ -1,2 +1,23 @@
 * [Guter Zeitpunkt zu zeigen wie dumm nahezu alle Ideen der Bertelsmann-Stiftung sind.](https://blog.fefe.de/?ts=a0920edd) - Ich reihe mich in FeFes Frage ein, kann man der Bertelsmann-Stiftung bitte mal die Gemeinnützigkeit aberkennen? Danke!
 * [Alles zum Thema Geld in Sachsen zum Coronavirus.](https://www.smwa.sachsen.de/4358.htm)
+* [Klingt vernünftig, Corona entsteht weil die Welt sich wegen den Menschen immer weiter aufheizt.](https://www.sonnenseite.com/de/zukunft/corona-ist-nur-ein-kleiner-blick-in-die-zukunft.html)
+* [BlueZ wurde in der Version 5.54 veröffentlicht.](http://www.phoronix.com/scan.php?page=news_item&px=BlueZ-5.54-Released)
+* [Realitätsabgleich Konzernen sind rechtliche Personen, hier kämpft eine Frau gegen die Monokultur im Wald und wird jetzt dafür verklagt.](https://netzfrauen.org/2020/03/15/trees-4/)
+* [Hey liebe Telekom, warum schaltet ihr in den USA "Telefonflat" für alle frei und vergesst euer Heimatland?](https://www.sonnenseite.com/de/wirtschaft/coronavirus-telekommunikationsanbieter-sollen-begrenzung-des-datenvolumens-aufheben.html)
+* [Falls ihr noch immer denkt, dass Wahlcomputer eine tolle Idee sind, lest euch mal den Artikel zu Nedap auf wikipedia durch.](https://de.wikipedia.org/wiki/Nedap)
+* [Realitätsabgleich Tierversuche und hier sogar aus Münster.](https://netzfrauen.org/2020/03/16/tierversuche-6/)
+* [Realitätsabgleich "die unsichtbare Hand des freien Marktes" regelt das, Ferienwohnungen/AirBnB die den Bürgerinnen und Bürgern in Prag den bezahlbahren Mietraum klauen.](https://blog.fefe.de/?ts=a091674b)
+* [Frankreich verhängt mal wieder Milliarden Euro Strafen wegen Preisabsprachen gegen Apple - und Deutschland?](https://www.cnbc.com/2020/03/16/apple-fined-1point2-billion-by-french-competition-authorities.html)
+* [Sumatra PDF wurde in der Version 3.2 veröffentlicht.](https://www.ghacks.net/2020/03/17/sumatra-3-2-pdf-reader-drops-windows-xp-support/)
+* [Ehrlichkeit im Jahr der Bundestagswahl - "Heute, so und morgen so."](https://tuxproject.de/blog/2020/03/niemand-hat-die-absicht/)
+* [Die Android Anwendung CodeCheck kann mein leider nicht mehr empfehlen.](https://www.kuketz-blog.de/codecheck-tracking-bis-der-barcode-glueht/)
+* [check_pgbackrest wurde in der Version 1.8 veröffentlicht.](https://www.postgresql.org/about/news/2022/)
+* [Google will euch unbedingt schneller mehr Werbung bringen, koste es was es wolle - zum Beispiel unnötig mehr Energie. So fasse ich für mich HTTP/3 zusammen.](https://www.pro-linux.de/news/1/27876/http3-vor-weiteren-h%C3%BCrden.html) - Statt am Protokoll zu schrauben sollte man lieber die dicken Webseiten optimieren. Drölfmillausend Tracker und externe Java-Skript-Bibliotheken und kein Ende in Sicht.
+* [Tails wurde in der Version 4.4 veröffentlicht.](https://tails.boum.org/news/version_4.4/)
+* [Hier wird euch gezeigt wie ihr mit Treq in Python asynchronen Code schreiben könnt.](https://opensource.com/article/20/3/treq-python)
+* [Wenn es so wäre, dank dem ganzen Wahn fahren eventuell die Geheimdienste und die Waffenschmieden herunter.](https://www.sonnenseite.com/de/zukunft/coronavirus-und-der-siegeszug-der-telearbeit.html)
+* [Die Wirtschaft ist noch nicht fertig mit dem Nein zum Verkauf der Nutzerdaten - also probiert man es über Österreich.](https://www.golem.de/news/coronavirus-oesterreich-ueberwacht-bewegungsstroeme-mit-handydaten-2003-147287.html)
+* [Und Bill Gates sowie Monsanto sind mit dem genmanipulierten Dreck auch noch nicht fertig - gut das sich Indien und Afrika dagegen wehren.](https://netzfrauen.org/2020/03/17/africa-11/)
+* [Zur Vorwarnung, die Airlines sind Bankrot weil sie nie Rücklagen für Ernstfälle gebildet haben.](https://blog.fefe.de/?ts=a08e6dc5) - Die unsichtbare Hand des freien Marktes in Aktion meine Damen und Herren
+* [Die Sprallos aus der "Initiative Neue Soziale Marktwirtschaft" zeigen ihr volles Denkpotential.](https://blog.fefe.de/?ts=a08e6861)
+* [Könnte Deutschland ja von lernen, Spanien verstaatlicht alle Krankenhäuser weil die unsichtbare Hand des freien Marktes unsichtbare für die Infrastruktur gesorgt hat.](https://blog.fefe.de/?ts=a08e621a)
