@@ -21,3 +21,10 @@
 * [Zur Vorwarnung, die Airlines sind Bankrot weil sie nie Rücklagen für Ernstfälle gebildet haben.](https://blog.fefe.de/?ts=a08e6dc5) - Die unsichtbare Hand des freien Marktes in Aktion meine Damen und Herren
 * [Die Sprallos aus der "Initiative Neue Soziale Marktwirtschaft" zeigen ihr volles Denkpotential.](https://blog.fefe.de/?ts=a08e6861)
 * [Könnte Deutschland ja von lernen, Spanien verstaatlicht alle Krankenhäuser weil die unsichtbare Hand des freien Marktes unsichtbare für die Infrastruktur gesorgt hat.](https://blog.fefe.de/?ts=a08e621a)
+* [Und weiter wird an den Grundrechten gesägt, die finazielle Interessensgemeinschaft der Wirtschaft unter dem Deckmantel des Robert-Koch-Instituts will wie ein Kleinkind jetzt endlich diese lästigen Grundrechte loswerden und endlich uneingeschränkt mit allen Personendaten spielen dürfen.](https://www.golem.de/news/coronavirus-rki-chef-rechnet-mit-tracking-app-fuer-infizierte-2003-147300.html)
+* [pgagroal wurde in der Version 0.5.0 veröffentlicht.](https://www.postgresql.org/about/news/2023/)
+* [npr.news analysiert einmal die COVID-19-Gesetze für Österreich.](https://npr.news.eulu.info/2020/03/17/eine-analyse-der-covid-19-gesetze-fuer-oesterreich/)
+* [>>Corona – Vom Virus zur globalen Bedrohung? - Raus aus der Spirale der Angst! Roberto Martinez<<](https://www.welt-im-wandel.tv/video/corona-vom-virus-zur-globalen-bedrohung-raus-aus-der-spirale-der-angst-roberto-martinez/)
+* [Vulkan wurde in der Version 1.2.135 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=Vulkan-1.2.135-Released)
+* [Mehr Tote durch Coca Cola oder Luftverschmutzung - was Corona auf einmal positives bewirkt.](https://www.sonnenseite.com/de/franz-alt/kommentare-interviews/ist-corona-besiegbar.html)
+* [Java wurde in der Version 14 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=Java-14-GA-JDK-Release)
