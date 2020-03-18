@@ -28,3 +28,4 @@
 * [Vulkan wurde in der Version 1.2.135 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=Vulkan-1.2.135-Released)
 * [Mehr Tote durch Coca Cola oder Luftverschmutzung - was Corona auf einmal positives bewirkt.](https://www.sonnenseite.com/de/franz-alt/kommentare-interviews/ist-corona-besiegbar.html)
 * [Java wurde in der Version 14 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=Java-14-GA-JDK-Release)
+* [Der Oberbürgermeister der Silber- und Universitätsstadt Sven Krüger stimmt mit mir ein - Habt Mut zur Solidarität.](https://www.youtube.com/watch?v=BMcWG7Tee9k)
