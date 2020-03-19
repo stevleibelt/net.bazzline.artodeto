@@ -28,6 +28,7 @@
 * [Vulkan wurde in der Version 1.2.135 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=Vulkan-1.2.135-Released)
 * [Mehr Tote durch Coca Cola oder Luftverschmutzung - was Corona auf einmal positives bewirkt.](https://www.sonnenseite.com/de/franz-alt/kommentare-interviews/ist-corona-besiegbar.html)
 * [Java wurde in der Version 14 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=Java-14-GA-JDK-Release)
+<<<<<<< HEAD
 * [Sehr ihr, das war alles nur gespielt, nun verschenkt die Telekom doch ewig viele Bewegungsdaten an das Robert-Koch-Institut.](https://www.golem.de/news/coronavirus-telekom-gibt-handydaten-an-rki-weiter-2003-147312.html) - Aber geht ruhig weiter, angeblich hat irgendwer mal geschaut ob die Daten auch anonymisiert sind - vertraut der Telekom doch einfach! Wichtige Randnotiz, die Telekom verkauft die Nutzerdaten bereits über ihre Firma MotionLogic. Über die Webseite [https://www.optout-service.telekom-dienste.de/public/anmeldung.jsp](https://www.optout-service.telekom-dienste.de/public/anmeldung.jsp) könnt ihr euch von diesem Dreck abmelden.
 * [Lazygit, ein Konsolenprogramm um git zu steuern.](https://opensource.com/article/20/3/lazygit)
 * [Schönes Beispiel von Doman Driven Design mit definitern Contextübergängen, da wird ein Message-Bus mit definierten Nachrichten genutzt, damit zwei Programe mit einander arbeiten können.](https://opensource.com/article/20/3/zeromq-c-python)
@@ -45,3 +46,4 @@
 * [Schöne Erinnerung, auch Prostituierte müssen wegen ihres Verdienstausfalles unterstützt werden.](https://www.neues-deutschland.de/artikel/1134471.olaf-scholz-rufe-nach-dem-rettungsschirm.html) - Ich find es erschreckend, dass große Firmen zuerst Gelder erhalten
 * [Erneut eine Erinnerung wie "toll" die kranken Gedanken der Bertelsmann-Stiftung ist, wenn sie Krankenhäuser einsparen und privatisieren will. Spanien hat das schon gemacht und bezahlt den Preis.](https://www.neues-deutschland.de/artikel/1134481.kliniken-unter-staatlicher-kontrolle.html)
 * [Oh man, selbst die "Bundeswehr Media"-Anwendung hat google und Hackfressenbuch "inside".](https://www.kuketz-blog.de/bundesministerium-der-verteidigung-trackt-nutzer-via-facebook/)
+* [Der Oberbürgermeister der Silber- und Universitätsstadt Sven Krüger stimmt mit mir ein - Habt Mut zur Solidarität.](https://www.youtube.com/watch?v=BMcWG7Tee9k)
