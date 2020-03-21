@@ -28,7 +28,6 @@
 * [Vulkan wurde in der Version 1.2.135 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=Vulkan-1.2.135-Released)
 * [Mehr Tote durch Coca Cola oder Luftverschmutzung - was Corona auf einmal positives bewirkt.](https://www.sonnenseite.com/de/franz-alt/kommentare-interviews/ist-corona-besiegbar.html)
 * [Java wurde in der Version 14 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=Java-14-GA-JDK-Release)
-<<<<<<< HEAD
 * [Sehr ihr, das war alles nur gespielt, nun verschenkt die Telekom doch ewig viele Bewegungsdaten an das Robert-Koch-Institut.](https://www.golem.de/news/coronavirus-telekom-gibt-handydaten-an-rki-weiter-2003-147312.html) - Aber geht ruhig weiter, angeblich hat irgendwer mal geschaut ob die Daten auch anonymisiert sind - vertraut der Telekom doch einfach! Wichtige Randnotiz, die Telekom verkauft die Nutzerdaten bereits über ihre Firma MotionLogic. Über die Webseite [https://www.optout-service.telekom-dienste.de/public/anmeldung.jsp](https://www.optout-service.telekom-dienste.de/public/anmeldung.jsp) könnt ihr euch von diesem Dreck abmelden.
 * [Lazygit, ein Konsolenprogramm um git zu steuern.](https://opensource.com/article/20/3/lazygit)
 * [Schönes Beispiel von Doman Driven Design mit definitern Contextübergängen, da wird ein Message-Bus mit definierten Nachrichten genutzt, damit zwei Programe mit einander arbeiten können.](https://opensource.com/article/20/3/zeromq-c-python)
@@ -68,3 +67,17 @@
 * [Forcher aus China haben das Altern der Perowski-Solarzellen beendet oder vermindert.](https://www.sonnenseite.com/de/wissenschaft/perowskit-solarzellen-altern-jetzt-nicht-mehr.html)
 * [Ach Postillon, du bist manchmal so ehrlich und direkt.](https://www.der-postillon.com/2020/03/applaus-lob.html) - Die unterschwellig nie enden wollende Flut an Kritik ist so schön, ich werde diese Schablone nutzen und in meinen Alltag einbauen.
 * [Über HopePunk bin ich zu Simon Staalenhag und seinem >>The Electric State<< gekommen.](https://www.tor-online.de/simon-staalenhag-the-electric-state/)
+* [Von Afrika und Cuba werden wir lernen, mit weniger Ressourcen umzugehen.](https://netzfrauen.org/2020/03/21/corona/)
+* [Proton wurde in der Version 5.0.5 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=Valve-Proton-5.0-5)
+* [Schöne Idee, aber wohl völlig gegen das Portmonai der Blockpartei gerichtet - Nach dem Coronavirus könnte man verstärkt nachhaltige Energien fördern statt den alten Umweltverschmutzern beim weiterleben zu helfen.](https://www.sonnenseite.com/de/politik/coronakrise-und-energiewende-iea-fordert-grnen-stimulus.html)
+* [Schall- und Wärmedämung aus Altreifen?](https://www.sonnenseite.com/de/wissenschaft/forscher-machen-aus-altreifen-universalschaum.html)
+* [Falls ihr euch fragt ob die Mitarbeiter in den Konsumtempeln für die Leistungen der letzten Tage mehr bekommt - Nein!](https://blog.fefe.de/?ts=a088feb9) - Und hey, wir wissen auch, dass die Mitarbeiter dadurch nicht länger gehalten werden wenn der Konzern einsparen muss, dann wird einfach gefeuert.
+* [Spahn schwingt sich auf um Hitler zu werden und den Staat zu entmachten.](https://blog.fefe.de/?ts=a088fcad) - Alles nur vorübergehend natürlich ;-).
+* [Auch das Thema Wasserschutz sollte man nach dem Coronavirus angehen.](https://www.sonnenseite.com/de/umwelt/weltwassertag-klimakrise-ist-wasserkrise-a-10-forderungen-fr-verstrkten-gewsserschutz.html)
+* [bio-erzgebirge.de stellt euch zusammen welche Lebensmittel gut gegen Viren sind.](https://bio-erzgebirge.de/wp/?p=20147)
+* [Google Europa bekommt jetzt einen Betriebsrat.](https://www.golem.de/news/google-beschaeftigte-setzen-europaeischen-betriebsrat-durch-2003-147403.html)
+* [Achso, die Webseite vom Hitlerspahn hat natürlich auch Hackfressenbuch mit an Board und ist damit nicht DSGvO-Konform.](https://www.kuketz-blog.de/gesundheitsminister-spahn-trackt-besucher-via-facebook-und-co/)
+* [Amazon ist so ein Drecksladen, dass es weiterhin im großen Stile kankheitsbedingte Kündigungen ausspricht.](https://www.golem.de/news/corona-verdi-kritisiert-krankheitsbedingte-kuendigungen-bei-amazon-2003-147400.html) - Soziale Verantwortung passt nicht zum Raubtierkapitalismus.
+* [DXVK wurde in der Version 1.6 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=DXVK-1.6-Released)
+* [Sehr gut, das Einheitspatent in Europa kommt nicht durch den Bundestag.](https://www.golem.de/news/verfassungsgericht-kein-einheitspatent-in-der-eu-2003-147398.html) - Man könnte Patente ja lieber gleich abschaffen.
+* [Nein? Doch! Oh? Mehr Corona durch menschengemachten Feinstaub?](https://www.sonnenseite.com/de/umwelt/feinstaubpartikel-als-viren-vehikel.html)
