@@ -81,3 +81,9 @@
 * [DXVK wurde in der Version 1.6 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=DXVK-1.6-Released)
 * [Sehr gut, das Einheitspatent in Europa kommt nicht durch den Bundestag.](https://www.golem.de/news/verfassungsgericht-kein-einheitspatent-in-der-eu-2003-147398.html) - Man könnte Patente ja lieber gleich abschaffen.
 * [Nein? Doch! Oh? Mehr Corona durch menschengemachten Feinstaub?](https://www.sonnenseite.com/de/umwelt/feinstaubpartikel-als-viren-vehikel.html)
+* [Notstandsgesetz? Seid wachsam!](https://tuxproject.de/blog/2020/03/alles-was-zu-notstandsgesetzen-noch-gesagt-werden-muss/)
+* [Nein? Doch! Oh? - Die Blockparty möchte jetzt die Handyortung für Gefährder und weiter Personengruppen die nicht christlich und atlantisch genug eingestellt sind ausrollen.](https://www.golem.de/news/gesetzentwurf-regierung-plant-handyortung-potenziell-infizierter-2003-147408.html)
+* [In Neuss fahren sie jetzt mit Druckkammerlautsprechern durch die Gegend.](https://www.youtube.com/embed/vXONkQVZk1E)
+* [Die Wiener Staatsoper öffnet ihr Archive zum Streamen.](https://www.staatsoperlive.com/)
+* [Nächster Schritt im Drama und leider wie erwartet, die EZB schreibt Rom mitten im Problem an, dass die EZB jetzt Italien übernehmen und fremdbestimmen will.](https://www.maskenfall.de/?p=13999) - Und spätestens seit Griechenland kann man vorausschauen was passiert, kritische und vom vlk finanzierte Infrastruktur wird an Blackrock verkauft, die Preise steigen und die Qualität sinkt, die Wirtschaft wird ruiniert und die Zahl der Arbeitslosen steigt.
+* [Hier wird schön zusammengeschrieben was es für mögliche Gedankeneinstellungen nach dem Coronavirus so gibt.](https://www.sonnenseite.com/de/zukunft/die-welt-nach-corona.html) - Wichtig für mich, es zeigt wie schnell man "fest verankerte" Muster aufbrechen kann und wie wenig schlimm es ist.
