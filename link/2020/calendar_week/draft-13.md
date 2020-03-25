@@ -19,3 +19,13 @@
 * [Hey, das EU-Parlament stimmt jetzt per E-Mail ab.](https://www.behoerden-spiegel.de/2020/03/24/eu-parlament-stimmt-per-e-mail-ab/) - Jetzt kommen richtig beschissene Gesetze bei raus.
 * [Seid wachsen, habt Mut zur Solidarität, lasst euch nicht Verrückt machen - es ist nur FIAT-Geld ohne Wert.](https://youtu.be/aYZ2gVs9U7o?t=2283) - Soziale Bindung hingegen hat Wert.
 * [Wenn ich freiheitsrechte.org richtig verstehe gibt es für eine Allgemeine Ausgangssperre keine gesetliche Grundlage gibt.](https://freiheitsrechte.org/corona-und-grundrechte/)
+* [Die Netzfrauen vermitteln noch einmal Grundlagen wie man auch auf dem Balkon selber Gemüse anbaut.](https://netzfrauen.org/2020/03/25/garten-5/)
+* [LLVM wurde in der Version 10.0 veröffentlicht.](https://www.pro-linux.de/news/1/27900/llvm-100-freigegeben.html)
+* [Habt ihr eine SAS-SSD von HPE? Nun, die geht nach 40.000 Stunden kaputt.](https://www.golem.de/news/firmware-bug-hpes-ssds-fallen-garantiert-nach-40-000-stunden-aus-2003-147481.html) - "Bedauerlicher" Fehler in der Software, wie bei den Glühbirnen, wisst ihr?
+* [Mit rail.cc individuelle Zugreisen planen.](https://rail.cc/de) - Oder mit [interrail.eu](https://www.interrail.eu/de/)
+* [Nextcloud wurde in den Versionen 18.0.3 und 17.0.5 veröffentlicht.](https://nextcloud.com/blog/update-18-0-3-and-17-0-5-out-update-soon/)
+* [Hier wird euch noch einmal in Kürze erklärt was es neues in vSphere 7 gibt.](https://4sysops.com/archives/whats-new-in-content-libraries-in-vsphere-7/)
+* [Nachdem man aus der Blockpartei angefangen hat die Mobilfunkdaten zu privatisieren, ist ein weiteres Schlachtfeld jetzt das Internet an sich.](https://www.golem.de/news/bundesnetzagentur-netzbetreiber-duerfen-dienste-und-zugaenge-drosseln-2003-147499.html) - Bandbreitendrosslung, Volumenbegrenzung (also abschalten des Internets an sich) oder explizites drosseln einzelner Webseiten - richtig schöne Zensur die ihr da einführen wollt.
+* [>>[...] Unsere DSL-Anbieter haben unzureichende Netzkapazitäten. Weil es profitabler ist, neue Kunden mit unerreichbaren Zahlen zu ködern, als alten Kunden die versprochene Leistung zu liefern. [...]<<](https://blog.fefe.de/?ts=a085b74f)
+* [OpenWRT ist kaputt.](https://blog.fefe.de/?ts=a0858a4e)
+* [Microsofts Cloud hat sich überfressen.](https://blog.fefe.de/?ts=a08582e5)
