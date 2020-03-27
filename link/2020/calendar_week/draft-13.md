@@ -40,3 +40,13 @@
 * [KDE arbeitet mit Plasma BigScreen an einer Oberfläche für TVs.](https://www.pro-linux.de/news/1/27902/plasma-bigscreen-kde-f%C3%BCr-fernseher.html)
 * [JBoss Enterpreise Application Plattform wurde in der Version 7.3 veröffentlicht.](https://www.pro-linux.de/news/1/27904/jboss-enterprise-application-platform-73-erschienen.html)
 * [Der große Teich (Soldatenteich) ist jetzt frei von Kampfmitteln - die Renaturierung hat begonnen.](https://www.youtube.com/watch?v=DtAvnVk7YwQ)
+* [Google hat jetzt auch genug geklaut.](https://www.theregister.co.uk/2020/03/26/google_gsuite_outage/)
+* [Fremdschämen auf EU-Ebene.](https://blog.fefe.de/?ts=a083c28c)
+* [Wine wurde in der Version 5.5 veröffentlicht.](http://www.phoronix.com/scan.php?page=news_item&px=Wine-5.5-Released)
+* [CR258 Digitale Infrastruktur in Krisenzeiten](https://chaosradio.de/cr258-digitale-infrastruktur-in-krisenzeiten)
+* [Hey, kennt ihr schon den Profitipp der alten Männer aus dem DIW gegen Altersarmut? Na ganz einfach, private Vorsorge!](https://www.maskenfall.de/?p=14012) - Also liebe Arbeiter unter dem Mindestlohn, tut was gegen eure Armut und legt jeden Euro zweimal weg.
+* [LUKS wird wohl bald doppelt so schnell.](https://www.pro-linux.de/news/1/27908/disk-verschl%C3%BCsselung-in-linux-wird-schneller.html)
+* [Zwei-Faktor-Anmeldung in Nextcloud? Aber wie? Ja so!](https://nextcloud.com/blog/security-in-nextcloud-how-to-block-99-9-of-attacks/)
+* [Checkmk Free-Edition nutzen um eure Maschinen zu überwachen.](https://www.windowspro.de/thomas-drilling/windows-esxi-server-checkmk-free-edition-ueberwachen)
+* [Die weiße Elster wurde zur Flusslandschaft des Jahres 2020/2021 gewählt.](https://sachsen.nabu.de/naturundlandschaft/auenzentrum/27786.html)
+* [Rocket.Chat auf einen Pi? Ja das geht!](https://opensource.com/article/20/3/raspberry-pi-rocketchat)
