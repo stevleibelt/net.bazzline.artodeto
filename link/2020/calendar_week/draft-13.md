@@ -50,3 +50,7 @@
 * [Checkmk Free-Edition nutzen um eure Maschinen zu überwachen.](https://www.windowspro.de/thomas-drilling/windows-esxi-server-checkmk-free-edition-ueberwachen)
 * [Die weiße Elster wurde zur Flusslandschaft des Jahres 2020/2021 gewählt.](https://sachsen.nabu.de/naturundlandschaft/auenzentrum/27786.html)
 * [Rocket.Chat auf einen Pi? Ja das geht!](https://opensource.com/article/20/3/raspberry-pi-rocketchat)
+* [Hier gibt es eine Liste an Möglichkeiten die nach dem Corona-Problem umgesetzt werden kann.](https://www.sonnenseite.com/de/franz-alt/kommentare-interviews/was-kommt-nach-corona.html)
+* [Weniger ablenken lassen? Probiert es unter Windows einmal mit MinimizeToTray](https://www.ghacks.net/2020/03/28/minimize-any-program-to-the-system-tray-with-minimizetotray/)
+* [Bis zum 20.04.2020 bleiben die aktuellen Maßnahmen bezüglich des Corno-Problems bestehen.](https://blog.fefe.de/?ts=a0818c76)
+* [Falls ihr euch fragt warum die Luft so angenehm ist, in Europa ist die Luftverschmutzung um 40 Prozent zurück gegangen.](https://blog.fefe.de/?ts=a0806d70)
