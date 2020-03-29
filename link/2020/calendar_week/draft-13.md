@@ -54,3 +54,7 @@
 * [Weniger ablenken lassen? Probiert es unter Windows einmal mit MinimizeToTray](https://www.ghacks.net/2020/03/28/minimize-any-program-to-the-system-tray-with-minimizetotray/)
 * [Bis zum 20.04.2020 bleiben die aktuellen Maßnahmen bezüglich des Corno-Problems bestehen.](https://blog.fefe.de/?ts=a0818c76)
 * [Falls ihr euch fragt warum die Luft so angenehm ist, in Europa ist die Luftverschmutzung um 40 Prozent zurück gegangen.](https://blog.fefe.de/?ts=a0806d70)
+* [In Syrien haben ein paar Frauen ein Öko-Dorf gegründet und das funktioniert.](https://netzfrauen.org/2020/03/29/jinwar/)
+* [Schaut an, da ziehen die Aktionäre von Media-Markt-Satur über Jahrzehnte Gewinne aus dem Geschäft und kaum stockt der Wachstum für ein paar Wochen, schon wollen sie Gelder von der Bevölkerung.](https://www.golem.de/news/ceconomy-media-markt-saturn-besitzer-beantragt-staatshilfe-2003-147560.html)
+* [Schön, jemand der es so macht wie ich, Optionen und Argumente in Python separat definieren.](https://utcc.utoronto.ca/~cks/space/blog/python/ArgparseSetupWhere)
+* [Eine Erinnunerg für Jitsi, ersetzt die Google STUN-Server.](https://www.kuketz-blog.de/jitsi-meet-datenschutzfreundlich-ohne-google-stun-server/)
