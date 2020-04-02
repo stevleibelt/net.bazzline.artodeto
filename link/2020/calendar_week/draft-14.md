@@ -20,3 +20,20 @@
 * [Zoom unter Windows sozialisiert eure Anmeldedaten.](https://www.bleepingcomputer.com/news/security/zoom-client-leaks-windows-login-credentials-to-attackers/)
 * [GhostBSD wurde in der Version 20.03 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=GhostBSD-20.03-Released)
 * [ccc.de: >>Aus der Krise lernen: Digitale Zivilgesellschaft stärken!<<](https://www.ccc.de/de/updates/2020/zivilgesellschaft)
+* [MySQL 5.7 Tuning auf einer Seite gibt es hier.](https://www.percona.com/blog/2020/04/01/tips-for-mysql-5-7-database-tuning-and-performance/)
+* [Realitätsabgleich "Tracking Apps", die Dinger sind zu ungenau und erwischen zu viele.](https://www.patrick-breyer.de/?p=590721) - Wie werden es die Dumpfnasen der Blockpartei interpretieren? Wir brauchen mehr Tracking!
+* [Made in Germany, die Telekom schaut nur ob es HTTPS ist, wohin die Reise geht und welches Zertifikat es ist, ist egal - kurzum, Sicherheit wurde vergessen.](https://www.golem.de/news/coronavirus-covid-19-app-der-telekom-prueft-zertifikate-nicht-2004-147641.html)
+* [Realitätsabgleich Zusatzstoffe oder ihr esst Gift.](https://netzfrauen.org/2020/04/01/food-3/) - Und falls ihr euch wundert warum es euch oder euren Kindern so schlecht geht, verzichtet mal auf Industrieessen, denn das ist nur für die Industriemaschinen gemacht, nicht für euch Menschen.
+* [Wem wollen wir nun wirklich nicht Zugriff zu den privaten Nutzerdaten aller Europäer geben? Den Spassemacken von Palantir.](https://www.neues-deutschland.de/artikel/1135014.ueberwachungssoftware-bericht-bekannte-big-data-firma-will-corona-app-umsetzen.html)
+* [Hey, die magische Hand des freien Marktes in Aktion, stellt euch vor keiner kauft eure Produkte. Was macht ihr? Nach weiter auf 100 Prozent produzieren (und dann Staatshilfen beantragen natürlich) - so wird es beim Öl geschehen.](https://blog.fefe.de/?ts=a07b735c) - Komisch nur, dass ich an der Tankstelle nichts von dem Preisrutsch nach unten merke
+* [Hier gibt es einen schönen Artikel über ein freies Android.](https://www.pro-linux.de/artikel/2/1995/frei-mit-android-drei-jahre-open-source-smartphone.html)
+* [/e/ scheint ein gutes Android zu sein.](https://e.foundation/)
+* [LineageOS 17.1 wurde für das Moto X4 veröffentlicht.](https://wiki.lineageos.org/devices/payton/update)
+* [Die Ureinwohner der USA, hier im Falle die Mitglieder der Stämme Standing Rock und Sioux feiern einen Sieg gegen die Ölverschmutzung im eigenen Land.](https://netzfrauen.org/2020/04/02/standing-rock-2/)
+* [Nein? Doch! Oh? Noch immer nicht sicher, aber neue Funktionalitäten zum Ausschnüffeln der Bürger soll jetzt in die elektronische Patientenakte.](https://www.golem.de/news/e-rezept-mehr-funktionen-fuer-elektronische-patientenakte-beschlossen-2004-147654.html)
+* [Sachsen-Anhalt ist als einziges Bundesland gegen die geplante Erhöhung der Pflichtgebühr.](https://www.golem.de/news/ard-zdf-sachsen-anhalt-lehnt-erhoehung-des-rundfunkbeitrags-ab-2004-147653.html)
+* [Kanal9TV: >>Reiserecht<< in der Corona-Pandemie](https://www.youtube.com/watch?v=3OotPcZ63wc)
+* [>>Gruppenrichtlinienobjekte bereinigen: hartnäckige Einstellungen entfernen<<](https://www.windowspro.de/benjamin-buerk/gruppenrichtlinienobjekte-bereinigen-hartnaeckige-einstellungen-entfernen)
+* [Realitätsabgleich Huhn und Eier.](https://netzfrauen.org/2020/04/02/eier/)
+* [Nein? Doch! Oh? Wo es Futter gibt, da kommen Schweine - das NetzDG soll jetzt weiter aufgeweicht werden.](https://blog.fefe.de/?ts=a07b6b01) - Das Ziel ist klar, jeder Mensch ist ein Gefährder.
+* [Realitätsabgleich Stand der Lage in Deutschen (privaten?) Krankenhäusern.](https://blog.fefe.de/?ts=a07b1bef)
