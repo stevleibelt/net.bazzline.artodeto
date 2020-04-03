@@ -41,3 +41,4 @@
 * [Hier wird euch gezeigt wie ihr mit der PowerShell und Hyper-V ein eigenes Windows 10 Image baut.](https://4sysops.com/archives/create-a-customized-windows-10-image-using-powershell-and-hyper-v/)
 * [ccc.de: >>Gemeinsame Erklärung zivilgesellschaftlicher Organisationen: Staaten müssen beim Einsatz digitaler Überwachungstechnologien zur Bekämpfung von Pandemien die Menschenrechte achten<<](https://www.ccc.de/de/updates/2020/pandemie-menschenrechte)
 * [Wir die Corona-Problematik künstlich erzeugt um die Europäische Union wirtschaftlich weiter zu Schwächen und den Ausverkauf der Volkseigentümer voran zutreiben?](https://verfassungsblog.de/wie-corona-die-krisen-der-europaeischen-union-existenzbedrohend-verschaerft/)
+* [Realitätsabgleich wie gut Tarifverträge und Gewerkschaften für die Arbeitnehmer, also die 99 Prozent der Gesellschaft, sind.](https://www.verdi.de/themen/geld-tarif/++co++0137d62a-73f8-11ea-9483-525400940f89)
