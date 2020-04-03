@@ -37,3 +37,6 @@
 * [Realitätsabgleich Huhn und Eier.](https://netzfrauen.org/2020/04/02/eier/)
 * [Nein? Doch! Oh? Wo es Futter gibt, da kommen Schweine - das NetzDG soll jetzt weiter aufgeweicht werden.](https://blog.fefe.de/?ts=a07b6b01) - Das Ziel ist klar, jeder Mensch ist ein Gefährder.
 * [Realitätsabgleich Stand der Lage in Deutschen (privaten?) Krankenhäusern.](https://blog.fefe.de/?ts=a07b1bef)
+* [Nein? Doch! Oh? Überall vernichtet der Kapitalismus "Puffer" - denn alles was kein Geld bringt wird entfernt - und so sterben täglich ganze Arten aus. Das dies nicht ohne Folgen bleibt will keiner hören.](https://www.sonnenseite.com/de/wissenschaft/forscher-warnen-der-artenverlust-in-regenwldern-hat-dramatischere-folgen-als-gedacht.html)
+* [Hier wird euch gezeigt wie ihr mit der PowerShell und Hyper-V ein eigenes Windows 10 Image baut.](https://4sysops.com/archives/create-a-customized-windows-10-image-using-powershell-and-hyper-v/)
+* [ccc.de: >>Gemeinsame Erklärung zivilgesellschaftlicher Organisationen: Staaten müssen beim Einsatz digitaler Überwachungstechnologien zur Bekämpfung von Pandemien die Menschenrechte achten<<](https://www.ccc.de/de/updates/2020/pandemie-menschenrechte)
