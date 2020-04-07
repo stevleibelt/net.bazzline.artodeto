@@ -12,3 +12,6 @@
 * [NetBSD wurde in der Version 8.2 veröffentlicht.](https://www.pro-linux.de/news/1/27928/netbsd-82-freigegeben.html)
 * [Hier wird euch gezeigt wie ihr unter Linux einen QR-Code von eurem WLan baut.](https://shibumi.dev/posts/share-your-wifi-via-qr-code/)
 * [Hier wird euch gezeigt wie ihr geplante Aufgaben unter Windows mit hilfe der GPP erstellt.](https://www.windowspro.de/wolfgang-sommergut/geplante-aufgaben-ueber-gruppenrichtlinien-anlegen-loeschen)
+* [Spanien will das bedingungslose Grundeinkommen umsetzen.](https://blog.fefe.de/?ts=a0742c72)
+* [Die so sicheren und tollen Atomkraftwerke brauchen viele Personen um jedes Jahr die Brennstäbe zu wechseln.](https://blog.fefe.de/?ts=a0742c05)
+* [FeFe hat hier zwei Links auf die Webseite peira.org.](https://blog.fefe.de/?ts=a072855e)
