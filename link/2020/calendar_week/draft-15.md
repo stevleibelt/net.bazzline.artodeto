@@ -15,3 +15,9 @@
 * [Spanien will das bedingungslose Grundeinkommen umsetzen.](https://blog.fefe.de/?ts=a0742c72)
 * [Die so sicheren und tollen Atomkraftwerke brauchen viele Personen um jedes Jahr die Brennstäbe zu wechseln.](https://blog.fefe.de/?ts=a0742c05)
 * [FeFe hat hier zwei Links auf die Webseite peira.org.](https://blog.fefe.de/?ts=a072855e)
+* [OpenTTD wurde in der Version 1.10 veröffentlicht.](https://www.pro-linux.de/news/1/27934/openttd-110-freigegeben.html)
+* [Tails wurde in der Version 4.5 veröffentlicht.](https://www.pro-linux.de/news/1/27933/tails-45-schlie%C3%9Ft-kritische-sicherheitsl%C3%BCcken.html)
+* [Mit reveal.js und markdown schnell und einfach ein paar Folien bauen.](https://opensource.com/article/20/4/create-web-tutorial-git)
+* [Wie kann man Europa finaziell retten? Mit einer einfachen Finanztransaktionssteuer.](https://verfassungsblog.de/corona-bonds-zu-kurz-gesprungen-und-dann-auch-noch-in-die-falsche-richtung/) - Die belastet den normalen Menschen so rein gar nicht und spühlt unglaublich viel Geld in die Kassen.
+* [Realitätsabgleich Fleisch essen - schaut den Film Dominion.](https://www.careelite.de/dominion-film/)
+* [Ich hoffe FeFe hat Recht, China hat mehr Patente als die USA, hoffentlich sind wir den Quatsch dann bald mal los und können uns um wichtige Dinge kümmern.](https://blog.fefe.de/?ts=a0734169)
