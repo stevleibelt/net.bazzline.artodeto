@@ -25,3 +25,6 @@
 * [Corona-Datenspende-App nutzen? Dann veröffentlicht erst einmal den Quelltext ihr Sprallos.](https://www.kuketz-blog.de/corona-datenspende-rki-app-erschwert-datenschutz-analyse/)
 * [Firefox übermittelt Mozilla jetzt jeden Tag was so euer Standardbrowser ist.](https://www.bleepingcomputer.com/news/software/firefox-now-tells-mozilla-what-your-default-browser-is-every-day/)
 * [Ralph Lenkert von die Linke fordert etwas für den Kunden, Strafzahlungen wenn die beworbene Leistung nicht stimmt.](https://www.golem.de/news/beirat-der-bundesnetzagentur-kunden-werden-mit-falschen-angaben-betrogen-2004-147797.html) - Komisch dass hier die magische Hand des freien Marktes immer nur in die eine Richtung funktioniert und die andere Richtung per Gesetzen nachgerüstet werden muss. Ob dies der Grund ist, dass Bankster immer einen "schlanken Staat", also einen Staat der so wenig Personal hat, dass er mit dem Alltag nicht mehr zurande kommt, möchten?
+* [privacyIDEA wurde in der Version 3.3 veröffentlicht.](https://www.pro-linux.de/news/1/27938/privacyidea-33-erschienen.html)
+* [>>[...] Was ist Freiheit eigentlich wert, wenn sie nur in ruhigen Zeiten gilt? [...]<<](https://tuxproject.de/blog/2020/04/nach-der-freiheit/)
+* [Hier gibt es eine Liste von 10 Filmen über Plastikmüll.](https://www.careelite.de/plastikmuell-dokus-filme/)
