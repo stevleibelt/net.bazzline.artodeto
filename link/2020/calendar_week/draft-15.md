@@ -28,3 +28,7 @@
 * [privacyIDEA wurde in der Version 3.3 veröffentlicht.](https://www.pro-linux.de/news/1/27938/privacyidea-33-erschienen.html)
 * [>>[...] Was ist Freiheit eigentlich wert, wenn sie nur in ruhigen Zeiten gilt? [...]<<](https://tuxproject.de/blog/2020/04/nach-der-freiheit/)
 * [Hier gibt es eine Liste von 10 Filmen über Plastikmüll.](https://www.careelite.de/plastikmuell-dokus-filme/)
+* [Thunderbird wurde in der Version 68.7.0 veröffentlicht.](https://www.ghacks.net/2020/04/10/thunderbird-68-7-0-has-been-released/)
+* [Eine gute Begründung warum man in den commit messages mehr als nur "done" schreiben sollte.](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/SysadminCommitMsgWhat) - Die kurze Version, schreibt eure Absicht hinein.
+* [Die Schüler der Abschlussklassen in Sachsen können nach den Osterferien wieder in die Schule.](https://www.bildung.sachsen.de/blog/index.php/2020/04/09/schueler-der-abschlussklassen-koennen-nach-den-osterferien-wieder-an-die-schulen/)
+* [Die Abiturienten in Sachsen können dieses Jahr wählen ob und wann sie die erste Prüfungsrunde angehen.](https://www.bildung.sachsen.de/blog/index.php/2020/04/09/sachsens-abitur-fahrplan-steht/)
