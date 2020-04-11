@@ -32,3 +32,6 @@
 * [Eine gute Begründung warum man in den commit messages mehr als nur "done" schreiben sollte.](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/SysadminCommitMsgWhat) - Die kurze Version, schreibt eure Absicht hinein.
 * [Die Schüler der Abschlussklassen in Sachsen können nach den Osterferien wieder in die Schule.](https://www.bildung.sachsen.de/blog/index.php/2020/04/09/schueler-der-abschlussklassen-koennen-nach-den-osterferien-wieder-an-die-schulen/)
 * [Die Abiturienten in Sachsen können dieses Jahr wählen ob und wann sie die erste Prüfungsrunde angehen.](https://www.bildung.sachsen.de/blog/index.php/2020/04/09/sachsens-abitur-fahrplan-steht/)
+* [Schaut mal, in den USA versucht man wieder Bürgerrechte zu beschneiden indem man die End-zu-End-Verschlüsselung unter Strafe stellt. Aktuell wird dafür die Kinder-Pornographie durch das Dorf getrieben.](https://www.golem.de/news/earn-it-act-signal-droht-mit-us-rueckzug-wegen-geplanter-providerhaftung-2004-147833.html)
+* [Komisch oder? Die Menscheheit zerstört die Umwelt immer mehr und rottet dutzend Lebenwesen aus und dann erlaubt sich das Great Barrier Reef auch schon wieder eine Krankheit.](https://netzfrauen.org/2020/04/11/great-barrier-reef-3/)
+* [`zfs send` hat bald keine "Deduplicate" Option mehr.](https://utcc.utoronto.ca/~cks/space/blog/solaris/ZFSStreamDedupGone)
