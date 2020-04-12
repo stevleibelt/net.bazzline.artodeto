@@ -35,3 +35,5 @@
 * [Schaut mal, in den USA versucht man wieder Bürgerrechte zu beschneiden indem man die End-zu-End-Verschlüsselung unter Strafe stellt. Aktuell wird dafür die Kinder-Pornographie durch das Dorf getrieben.](https://www.golem.de/news/earn-it-act-signal-droht-mit-us-rueckzug-wegen-geplanter-providerhaftung-2004-147833.html)
 * [Komisch oder? Die Menscheheit zerstört die Umwelt immer mehr und rottet dutzend Lebenwesen aus und dann erlaubt sich das Great Barrier Reef auch schon wieder eine Krankheit.](https://netzfrauen.org/2020/04/11/great-barrier-reef-3/)
 * [`zfs send` hat bald keine "Deduplicate" Option mehr.](https://utcc.utoronto.ca/~cks/space/blog/solaris/ZFSStreamDedupGone)
+* [Die man-pages wurde in der Version 5.06 veröffentlicht.](http://linux-man-pages.blogspot.com/2020/04/man-pages-506-is-released.html)
+* [seL4 als Mikrokernel bekommt jetzt, unter dem Dach der Linux Foundation, eine eigene seL4 Foundation.](https://www.pro-linux.de/news/1/27940/linux-foundation-gr%C3%BCndet-sel4-foundation.html)
