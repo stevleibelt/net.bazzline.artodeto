@@ -10,3 +10,8 @@
 * [Skipper ist wohl im moment der schnellste Kubernetes HTTP-Router.](https://opensource.com/article/20/4/http-kubernetes-skipper)
 * [Jetzt wird erneut versucht die Corona-Problematik den Chinesen in die Schuhe zu schieben.](https://blog.fefe.de/?ts=a06b081f)
 * [Alternativlos wurde in der Version 46 veröffentlicht.](https://alternativlos.org/46/)
+* [Kuketz hat so ziemlich alle Bundesministerien untersucht, alles verkackt.](https://www.kuketz-blog.de/datenschutz-webseiten-der-bundesministerien-unter-der-lupe/)
+* [GNU Guix wurde in der Version 1.1 veröffentlicht.](https://lwn.net/Articles/817597)
+* [Da sieht man mal wieder wer hier regiert, die Automobilhersteller denken laut über eine, vom Steuerzahler bezahlte, Prämie für ihre Alt-Technologie-Wagen nach.](https://www.golem.de/news/2009-reloaded-kaufpraemien-sollen-nach-coronakrise-fuer-nachfrage-sorgen-2004-147884.html) - Und wenn das der Steuerzahler nicht mit macht? Dann drohen die Konzerne ohne Herz mit Entlassungen, denn die Gewinne der letzten Jahre sind schon privatisiert worden.
+* [Zimbra 9 ist nicht mehr open source.](https://lwn.net/Articles/817475)
+* [repmgr wurde in der Version 5.1 veröffentlicht.](https://www.postgresql.org/about/news/2028/)
