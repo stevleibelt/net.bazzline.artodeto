@@ -15,3 +15,11 @@
 * [Da sieht man mal wieder wer hier regiert, die Automobilhersteller denken laut über eine, vom Steuerzahler bezahlte, Prämie für ihre Alt-Technologie-Wagen nach.](https://www.golem.de/news/2009-reloaded-kaufpraemien-sollen-nach-coronakrise-fuer-nachfrage-sorgen-2004-147884.html) - Und wenn das der Steuerzahler nicht mit macht? Dann drohen die Konzerne ohne Herz mit Entlassungen, denn die Gewinne der letzten Jahre sind schon privatisiert worden.
 * [Zimbra 9 ist nicht mehr open source.](https://lwn.net/Articles/817475)
 * [repmgr wurde in der Version 5.1 veröffentlicht.](https://www.postgresql.org/about/news/2028/)
+* [Nextcloud Mail wurde in der Version 1.3 veröffentlicht.](https://nextcloud.com/blog/mail-1-3-introduces-mail-cache-improved-signatures-link-shares-mark-all-read-and-more/)
+* [Postgre SQL Optimieren? IN vs EXISTS vs ANY/ALL vs JOIN.](https://www.percona.com/blog/2020/04/16/sql-optimizations-in-postgresql-in-vs-exists-vs-any-all-vs-join/)
+* [Mir wurde in der Version 1.8 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=Mir-1.8-Released)
+* [Struktur in die Berechetigungen vom AD bringen und alles protokollieren? Das soll der Access Manager der Firma BAYOONET AG bringen.](https://www.windowspro.de/wolfgang-sommergut/access-manager-wiedervorlage-fuer-mitgliedschaften-ad-gruppen-fuer-ntfs-rechte)
+* [Am 29.04.2020 um 11:00 Uhr gibt es ein kostenfreies AD-Seminar welches 30 Minuten dauert.](https://www.windowspro.de/sponsored/micronova/technisches-webinar-management-des-active-directory-automatisieren-aufgaben)
+* [Bandbreiten-Werkzeug für die Kommandozeile? Ich bin gerade begeistert von BMON.](https://www.putorius.net/bmon-monitor-bandwidth-linux-command-line.html)
+* [SimpleActiveLogger fast von eurem Windows-System alles wichtige zusammen.](https://www.ghacks.net/2020/04/16/keep-track-of-your-computer-usage-with-simpleactivitylogger/) - Das Gute ist, wenn es die schaffen, kann man das auch alles mit der PowerShell schaffen.
+* [Wer ist eigentlich das Windows-Gegenstück zum Linux-root? Genau, der System-Benutzer.](https://4sysops.com/archives/how-to-access-the-sam-and-security-hives-in-the-registry-using-the-system-account/)
