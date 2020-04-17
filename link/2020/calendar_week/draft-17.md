@@ -23,3 +23,10 @@
 * [Bandbreiten-Werkzeug für die Kommandozeile? Ich bin gerade begeistert von BMON.](https://www.putorius.net/bmon-monitor-bandwidth-linux-command-line.html)
 * [SimpleActiveLogger fast von eurem Windows-System alles wichtige zusammen.](https://www.ghacks.net/2020/04/16/keep-track-of-your-computer-usage-with-simpleactivitylogger/) - Das Gute ist, wenn es die schaffen, kann man das auch alles mit der PowerShell schaffen.
 * [Wer ist eigentlich das Windows-Gegenstück zum Linux-root? Genau, der System-Benutzer.](https://4sysops.com/archives/how-to-access-the-sam-and-security-hives-in-the-registry-using-the-system-account/)
+* [Hier gibt es eine Liste mit verschiedenen Passwortmanagern für eure NextCloud.](https://nextcloud.com/blog/password-managers-for-nextcloud/)
+* [Puhh, also ich bin ja für viel, aber einen Jahrgang pro Forma einen Abschluss zu geben ist doch falsch.](https://tuxproject.de/blog/2020/04/abitur-statt-bildung/)
+* [Mit moodle als OpenSource-Lösung über PCs lernen?](https://www.bildung.sachsen.de/blog/index.php/2020/04/17/online-kurse-statt-unterrichtspraesenz/)
+* [Und auf linuxmuster.net gibt es ein Linux welches fertig für den Schuleinsatz ist.](https://www.pro-linux.de/news/1/27954/schulen-komplettl%C3%B6sung-linuxmusternet-in-version-7-freigegeben.html)
+* [Mit Quagga als routing software unter Linux einen eigenes SDN aufbauen.](https://opensource.com/article/20/4/quagga-linux)
+* [Was passiert mit Zoom wenn sich jemand, der davon Ahnung hat, mein einen Abend damit beschäftigt? Das was man erwartet, es kommt die Empfehlung "lieber Zettel und Stift".](https://blog.fefe.de/?ts=a067bfbc)
+* [Mit den in Rust geschriebenen Tremor kann man auch Queues bauen.](https://github.com/wayfair-tremor/tremor-runtime)
