@@ -30,3 +30,5 @@
 * [Mit Quagga als routing software unter Linux einen eigenes SDN aufbauen.](https://opensource.com/article/20/4/quagga-linux)
 * [Was passiert mit Zoom wenn sich jemand, der davon Ahnung hat, mein einen Abend damit beschäftigt? Das was man erwartet, es kommt die Empfehlung "lieber Zettel und Stift".](https://blog.fefe.de/?ts=a067bfbc)
 * [Mit den in Rust geschriebenen Tremor kann man auch Queues bauen.](https://github.com/wayfair-tremor/tremor-runtime)
+* [Auf der demeter Webseite finden sich viele Gerichte.](https://www.demeter.de/familie)
+* [Was brauchen wir in den aktuellen Zeiten? Genau, die Springer-Hetzpresse wie sie die Mitglieder es NATO-Angrisspaktes gegen die größte Weltmacht China einschwört.](https://weltnetz.tv/ticker/2324-bild-nutzt-corona-im-auftrag-der-usa-zur-brunnenvergiftung)
