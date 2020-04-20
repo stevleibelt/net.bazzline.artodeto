@@ -1,0 +1,5 @@
+* [Eine EU-weite Corona-Tracking Anwendung? Das geht natürlich nur mit geschlossener Software, denn nur geschlossene Software schafft vertrauen.](https://www.kuketz-blog.de/projekt-pepp-pt-offenbar-nicht-an-transparenz-interessiert/)
+* [Nahrungsmittelindustrie oder Chemiefirmen mit anderem Absatzmarkt.](https://netzfrauen.org/2020/04/19/lebensmittel-9/)
+* [Nein? Doch! Oh? Die Anwendung zum subentionieren des privaten Unternehmes RKI erhält vernichtende Resultate vom ccc.](https://www.ccc.de/de/updates/2020/abofalle-datenspende)
+* [DXVK wurde in der Version 1.6.1 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=DXVK-1.6.1-Released)
+* [BleachBit wurde in der Version 4.0 veröffentlicht.](https://www.ghacks.net/2020/04/20/bleachbit-4-0-released-with-improvements-for-cleaning-firefox-chrome-and-more-themes/)
