@@ -3,3 +3,11 @@
 * [Nein? Doch! Oh? Die Anwendung zum subentionieren des privaten Unternehmes RKI erhält vernichtende Resultate vom ccc.](https://www.ccc.de/de/updates/2020/abofalle-datenspende)
 * [DXVK wurde in der Version 1.6.1 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=DXVK-1.6.1-Released)
 * [BleachBit wurde in der Version 4.0 veröffentlicht.](https://www.ghacks.net/2020/04/20/bleachbit-4-0-released-with-improvements-for-cleaning-firefox-chrome-and-more-themes/)
+* [GNU Shepherd wurde in der Version 0.8 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=GNU-Shepherd-0.8-Released)
+* [NixOS wurde in der Version 20.03 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=NixOS-20.03-Released)
+* [Notepad++ wurde in der Version 7.8.6 veröffentlicht.](https://notepad-plus-plus.org/news/v786-thank-you-healthcare-workers/)
+* [>>Der Zerfall des Kapitalismus: Wie soll es weitergehen?<<](https://www.peira.org/der-zerfall-des-kapitalismus-wie-soll-es-weitergehen/)
+* [Baden-Württemberg hat mit BigBlueButton ein virtuelles Klassenzimmer, basierend auf freier Software, erstellt.](https://www.kuketz-blog.de/bigbluebutton-als-virtuelles-klassenzimmer-in-baden-wuerttemberg/) - [bigbluebutton.org](https://bigbluebutton.org/) oder [OpenMeetings](https://de.wikipedia.org/wiki/OpenMeetings).
+* [Realitätsabgleich "wie gut funktioniert Googles Rechtemanagement und wie leicht kann man es ausnutzen".](https://www.kuketz-blog.de/privacybreacher-die-datenschutzprobleme-von-android/)
+* [Die Palantir-Kriegsdatenfirma soll jetzt wohl auch in Hessen genutzt werden.](https://www.golem.de/news/big-data-hessens-corona-krisenstab-will-palantir-software-nutzen-2004-148025.html)
+* [Nginx wurde in der Version 1.18 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=Nginx-1.18-Released)
