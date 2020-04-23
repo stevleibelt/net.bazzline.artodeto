@@ -14,3 +14,11 @@
 * [>>Bargeldabschaffung und biometrische Erfassung sind untrennbar miteinander verbunden. Untrennbar verbunden ist Bill Gates  auch mit der Weltbank und der WHO,  deren heimlicher Chef er ist [...]<<](https://npr.news.eulu.info/2020/04/21/schoene-neue-welt-des-bill-gates/) - Also ist ein zentraler ID Chip für alle Menschen der Wunsch von Billy Boy. Fickfresse, mehr fällt mir nicht ein.
 * [Machen wir unsere Natur durch Spargel kaputt?](https://www.sonnenseite.com/de/umwelt/spargel-regional-und-saisonal.html) - Ja, denn Konzerne haben kein Herz.
 * [Noch einmal HUGO und was du darüber wissen musst.](https://opensource.com/article/20/4/hugo-classroom)
+* [GNU Shepherd wurde in der Version 0.8 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=GNU-Shepherd-0.8-Released)
+* [NixOS wurde in der Version 20.03 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=NixOS-20.03-Released)
+* [Notepad++ wurde in der Version 7.8.6 veröffentlicht.](https://notepad-plus-plus.org/news/v786-thank-you-healthcare-workers/)
+* [>>Der Zerfall des Kapitalismus: Wie soll es weitergehen?<<](https://www.peira.org/der-zerfall-des-kapitalismus-wie-soll-es-weitergehen/)
+* [Baden-Württemberg hat mit BigBlueButton ein virtuelles Klassenzimmer, basierend auf freier Software, erstellt.](https://www.kuketz-blog.de/bigbluebutton-als-virtuelles-klassenzimmer-in-baden-wuerttemberg/) - [bigbluebutton.org](https://bigbluebutton.org/) oder [OpenMeetings](https://de.wikipedia.org/wiki/OpenMeetings).
+* [Realitätsabgleich "wie gut funktioniert Googles Rechtemanagement und wie leicht kann man es ausnutzen".](https://www.kuketz-blog.de/privacybreacher-die-datenschutzprobleme-von-android/)
+* [Die Palantir-Kriegsdatenfirma soll jetzt wohl auch in Hessen genutzt werden.](https://www.golem.de/news/big-data-hessens-corona-krisenstab-will-palantir-software-nutzen-2004-148025.html)
+* [Nginx wurde in der Version 1.18 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=Nginx-1.18-Released)
