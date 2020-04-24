@@ -34,3 +34,5 @@
 * [Ein gutes Beispiel warum große Energieunternehmen schlecht für uns Menschen sind. Da bauen die große Windparks und verhalten sich so wie sie es bei der Atomindustrie machen, das abbauen übernimmt dann der Bürger.](https://www.golem.de/news/windparks-ausgedreht-2004-147881.html) - (Geförderte) Gewinne privatisieren, Verluste sozialisieren, immer und immer wieder. Wie kann es ein Staat erlauben, dass Windparks gebaut werden ohne ein finazier- und machbares Konzept für den Rückbau in der Tasche zu haben?
 * [In Zeiten von Corona und Ebola braucht die Bundeswehr was? Genau, Kampfdrohnen!](https://weltnetz.tv/story/2328-mit-kampfdrohnen-gegen-corona-und-ebola-virus) - Wie sonst soll Donald aus Rammstein mit einem Joystick Menschenmassen töten und danach einen Burger essen können?
 * [Hier wird euch erklärt wie ihr GPOs am zuverlässigsten bereinigt und pflegt.](https://4sysops.com/archives/remove-unneeded-settings-from-group-policy-objects/)
+* [Kennt einer von euch schon blissos?](https://www.blissos.org/)
+* [Ihr müsst einen USB-Stick mit einer Windows 10 ISO bauen? Nutzt doch WoeUSB.](https://github.com/slacka/WoeUSB)
