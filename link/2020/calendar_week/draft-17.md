@@ -36,3 +36,13 @@
 * [Hier wird euch erklärt wie ihr GPOs am zuverlässigsten bereinigt und pflegt.](https://4sysops.com/archives/remove-unneeded-settings-from-group-policy-objects/)
 * [Kennt einer von euch schon blissos?](https://www.blissos.org/)
 * [Ihr müsst einen USB-Stick mit einer Windows 10 ISO bauen? Nutzt doch WoeUSB.](https://github.com/slacka/WoeUSB)
+* [Nextcloud wurde in den Versionen 18.04, 17.0.6 und 16.0.10 veröffentlicht.](https://nextcloud.com/blog/18-0-4-17-0-6-and-16-0-10-are-here-plus-beta-5-for-nextcloud-19/)
+* [Yocto wurde in der Version 3.1 veröffentlicht.](https://www.pro-linux.de/news/1/27967/yocto-31-erste-ausgabe-mit-langfristiger-unterst%C3%BCtzung.html) - Kannte ich bisher auch nicht.
+* [Nextcloud für euer Android wurde in der Version 3.11.1 veröffentlicht.](https://nextcloud.com/blog/nextcloud-3-11-1-for-android-is-out-plus-tips-about-rich-workspaces-and-auto-upload/)
+* [Kapitalismus im Endstadium, freie Software, die das Add-Tracking verhindert, hilft es aktiv einen großen Batzen Energie einzusparen.](https://opensource.com/article/20/4/ad-blockers) - Falls ihr euch wundert warum die Webseite X so langsam lädt, das liegt am Tracking
+* [ccc.de: Corona-Tracing-App: Offener Brief an Bundeskanzleramt und Gesundheitsminister](https://www.ccc.de/de/updates/2020/corona-tracing-app-offener-brief-an-bundeskanzleramt-und-gesundheitsminister)
+* [Bangladesch fällt um, so ist es wenn alle Zara's, H&M's und andere Konzerne ohne Herz ihre Rendite dem Menschen vorziehen.](https://www.sonnenseite.com/de/wirtschaft/textil-stornos-bangladesch-droht-staatspleite.html)
+* [Ubuntu wurde in der Version 20.04 LTS veröffentlicht.](https://www.pro-linux.de/news/1/27970/ubuntu-2004-lts-freigegeben.html)
+* [Im Schnitt kostet euch ein Auto 400 bis 500 Euro pro Monat.](https://www.sonnenseite.com/de/mobilitaet/autobesitzer-unterschtzen-gesamtkosten-des-eigenen-autos-massiv.html) - Alles andere ist Quatsch.
+* [Südkorea schenkt der Welt mal wieder 400.000 Datensätzen von Bürgern der USA.](https://www.bleepingcomputer.com/news/security/400000-us-south-korean-card-records-put-up-for-sale-online/)
+* [Freiberger Wirte zeigen auf dem Obermarkt wie schlimm es um die Gastronomie in Freiberg wegen der politischen Corona-Problematik bestellt ist.](https://www.youtube.com/watch?v=EIhqDH46iZQ)
