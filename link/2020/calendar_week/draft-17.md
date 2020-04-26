@@ -46,3 +46,8 @@
 * [Im Schnitt kostet euch ein Auto 400 bis 500 Euro pro Monat.](https://www.sonnenseite.com/de/mobilitaet/autobesitzer-unterschtzen-gesamtkosten-des-eigenen-autos-massiv.html) - Alles andere ist Quatsch.
 * [Südkorea schenkt der Welt mal wieder 400.000 Datensätzen von Bürgern der USA.](https://www.bleepingcomputer.com/news/security/400000-us-south-korean-card-records-put-up-for-sale-online/)
 * [Freiberger Wirte zeigen auf dem Obermarkt wie schlimm es um die Gastronomie in Freiberg wegen der politischen Corona-Problematik bestellt ist.](https://www.youtube.com/watch?v=EIhqDH46iZQ)
+* [SharpApp wurde in der Version 0.23 veröffentlicht.](http://www.mirinsoft.com/blog/19-apps/24-the-sharpapp-stable-is-out) - Die SharpApp soll Debotnet ersetzen.
+* [Österreich macht die Grenzen dicht und setzt das Asylrecht aus.](https://verfassungsblog.de/oesterreich-setzt-das-asylrecht-aus/)
+* [Hier gibt es eine Liste wie ihr eure Wordpress-Seite sicher machen könnt.](https://opensource.com/article/20/4/wordpress-security)
+* [Wie soll man den Medien und den Regierungen trauen, wenn ihre Zahlen keinen einfachen Vergleich stand halten?](https://www.maskenfall.de/?p=14063)
+* [Realitätsabgleich "Mein Smartphone hält sogar fast zwei Jahre"](https://netzfrauen.org/2020/04/26/verbraucher-4/)
