@@ -10,3 +10,4 @@
 * [Ungarn und Polen sind wohl bald raus aus der EU?](https://verfassungsblog.de/corona-constitutional-16-scheidung-auf-europaeisch/)
 * [Du weißt, dass eine Firma richtig illegal arbeitet wenn die Firma von sich aus einen Deal dem Staat anbietet - im heutigen Fall wendet sich Broadcom an die EU.](https://www.golem.de/news/chipsaetze-broadcom-bietet-der-eu-einen-deal-an-2004-148120.html)
 * [Wozu die Ansible Tags gut sind versucht euch dieser Beitrag auf percona.com zu erklären.](https://www.percona.com/blog/2020/04/27/how-do-ansible-tags-work/)
+* [pgagroal wurde in der Version 0.6.0 veröffentlicht.](https://www.postgresql.org/about/news/2031/)
