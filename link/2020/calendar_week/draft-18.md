@@ -21,3 +21,15 @@
 * [Fedora wurde in der Version 32 veröffentlicht.](https://www.pro-linux.de/news/1/27977/fedora-32-freigegeben.html)
 * [Hamburg hat beschlossen das ab 2030 jeder Neubau mit einer PV-Anlage ausgerüstet werden muss.](https://www.sonnenseite.com/de/energie/hamburg-ist-vorreiter-bei-photovoltaik-pflicht-in-deutschland.html) - Schön wäre ja, wenn in dem Zuge die Regel für Eigenheimbauer gelockert werden. Aktuell sind die Kosten für eine PV-Anlage die einen Autark vom Strom macht so hoch und die Gesetze so streng, dass es sich kaum lohnt.
 * [Sysmon wurde in der Version 11.0 veröffentlicht.](https://www.ghacks.net/2020/04/29/sysmon-11-0-is-out-with-file-delete-monitoring/)
+* [Roundcube wurde in den Versionen 1.4.4, 1.3.11 und 1.2.10 veröffentlicht.](https://roundcube.net/news/2020/04/29/security-updates-1.4.4-1.3.11-and-1.2.10)
+* [Gute Frage in einem Kommentar, sollte man nicht die Firmen, die außerordentlich von der Corona-Problematik profitieren extra und solidarisch zur Kasse bitten?](https://forum.golem.de/kommentare/wirtschaft/microsoft-in-zwei-monaten-das-geschaeft-im-wert-von-zwei-jahren-gemacht/nicht-nur-microsoft-und-ich-frage-mich.../134534,5646496,5646496,read.html#msg-5646496)
+* [Für den Realitätsabgleich bezüglich "Die Daten der Corona-Anwendung werden sicher sein" - Großbritanien hat gerade fast neun Millionen Daten von Nummernschilderfassungen sozialisiert.](https://blog.fefe.de/?ts=a0578294)
+* [Wichtiger Hinweis zum Thema Corona-Anwendung, nicht nur technisch verkackt die Bundesregierung, auch sozial wird sie sich hinaufschwingen zu Goebbels gleichen.](https://blog.fefe.de/?ts=a0574287) - Nichts verhindert das geschlossene Aufstehen des Volkes besser als das Glieder des Volkes in Schichten/Kasten/Gruppen.
+* [Proxmox Mail Gateway wurde in der Version 6.2 veröffentlicht.](https://www.pro-linux.de/news/1/27982/proxmox-mail-gateway-62-ver%C3%B6ffentlicht.html)
+* [Die Verfassungsgerichte laufen Sturm gegen die verhängten Ausnahmebeschränkungen.](https://verfassungsblog.de/die-stunde-der-verfassungsgerichte/)
+* [Boing nutzt Corona um die Managementfehler unter dem Tisch fallen zu lassen und entlässt 16.000 Arbeitnehmer.](https://www.golem.de/news/boeing-luftfahrtkonzern-will-belegschaft-um-zehn-prozent-reduzieren-2004-148194.html)
+* [Kuketz zeigt euch, wie ihr euren Jitsi-Server optimiert.](https://www.kuketz-blog.de/jitsi-meet-optimierung-der-performance/)
+* [Scheinbar merken die Politiker, dass]
+* [project-open wurde in der Version 5.0 veröffentlicht.](https://www.pro-linux.de/news/1/27984/project-open-50-mit-gantt-editor-und-finanzindikatoren.html)
+* [Kanal9TV: Informationen zur aktuellen Situation an unseren Talsperren in Mittelsachsen -Talsperre Rauschenbach](https://www.youtube.com/watch?v=gMnhtsl6IJI)
+* [Die leute hinter dem Raspberry Pi haben einen HD Kamera für 50 Euro Endkundenpreis gebaut.](https://www.raspberrypi.org/blog/new-product-raspberry-pi-high-quality-camera-on-sale-now-at-50/)
