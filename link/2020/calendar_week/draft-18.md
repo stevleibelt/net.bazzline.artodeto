@@ -33,3 +33,12 @@
 * [project-open wurde in der Version 5.0 veröffentlicht.](https://www.pro-linux.de/news/1/27984/project-open-50-mit-gantt-editor-und-finanzindikatoren.html)
 * [Kanal9TV: Informationen zur aktuellen Situation an unseren Talsperren in Mittelsachsen -Talsperre Rauschenbach](https://www.youtube.com/watch?v=gMnhtsl6IJI)
 * [Die leute hinter dem Raspberry Pi haben einen HD Kamera für 50 Euro Endkundenpreis gebaut.](https://www.raspberrypi.org/blog/new-product-raspberry-pi-high-quality-camera-on-sale-now-at-50/)
+* [Pakistan gibt den Menschen ohne Arbeit eine Arbeit indem sie Bäume pflanzen.](https://blog.fefe.de/?ts=a054789d) - In dem nicht wirtschaftlichen Bereich hat Deutschland auch genug aufzuholen.
+* [Was ich nicht wusste, die Bundesregierung erlaubt den Krankenkassen seit November 2019 die Daten ihrer Kunden.](https://www.golem.de/news/pseudonymitaet-verfassungsrichter-pruefen-weitergabe-von-versichertendaten-2004-148206.html) - Irgendwie ein wenig anonymisiert aber mal ehrlich, mit ein paar wichtigen Eckdaten und dem Wohnort kommt man schnell zur echten Person
+* [Nein? Doch! Oh? Tiefseebergbau macht den Meeresboden für viele Jahre oder Jahrzehnte kaputt.](https://www.golem.de/news/meeresschutz-tiefseebergbau-schaedigt-meeresboden-fuer-lange-zeit-2004-148204.html) - Da fragt man sich wieder ob das Hirn vor der Studie ausgeschalten war.
+* [Auch das Bundesamt für Bevölkerungsschutz verkackt mit ihrer Smartphone-Anwendung und bindet ohne Enge Google ein.](https://www.kuketz-blog.de/nina-warn-app-zu-viele-abhaengigkeiten-zu-google/)
+* [Redis wurde in der Version 6.0 veröffentlicht.](http://antirez.com/news/132)
+* [Das Amtsblatt der Stadt Freiberg gibt es hier.](https://www.freiberg.de/stadt-und-buerger/aktuelles/amtsblatt)
+* [Magische Hand des freien Marktes und der Fluch des ewigen Wachstums? Millionen Tiere werden geschlachtet und nicht verkauft weil die Schlachthöfe geschlossen werden.](https://netzfrauen.org/2020/04/30/animals-9/)
+* [Es sieht so aus als würde Linux demnächst zwischen sechs und 49 Prozent schneller hochfahren.](https://www.phoronix.com/scan.php?page=news_item&px=Oracle-Faster-Linux-Boot-PADATA)
+* [pg_probackup wurde in der Version 2.3.0 veröffentlicht.](https://www.postgresql.org/about/news/2032/)
