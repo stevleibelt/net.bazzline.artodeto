@@ -1,0 +1,5 @@
+* [Reactive Streams in Java? Hier gibt es ein gutes Video - zumindest für mich als Anfänger.](https://odoepner.wordpress.com/2020/05/03/consumer-back-pressure-applied-to-reactive-streams-in-java-9/)
+* [>>Milliardäre spenden sehr theatralisch einen Bruchteil dessen, was sie früher an Steuern hätten zahlen müssen, um sicherzustellen, dass für ihre Aktionen maximale Publizität generiert wird.<<](https://netzfrauen.org/2020/05/03/gates-2/)
+* [>>Privatsphäre ist ein Menschenrecht!<<](https://www.kuketz-blog.de/leserfrage-wie-schaffst-du-es-in-dem-kampf-um-privatsphaere-nicht-zu-verzweifeln/)
+* [Bruce Schneier packt mal kurz aus warum eine Corona-App quatsch ist.](https://www.golem.de/news/coronakrise-schneier-haelt-contact-tracing-apps-fuer-unbrauchbar-2005-148227.html)
+* [Betriebssystem durch TTL identifizieren?](https://shibumi.dev/posts/identify-the-os-via-ping/)
