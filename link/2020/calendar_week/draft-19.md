@@ -3,3 +3,7 @@
 * [>>Privatsphäre ist ein Menschenrecht!<<](https://www.kuketz-blog.de/leserfrage-wie-schaffst-du-es-in-dem-kampf-um-privatsphaere-nicht-zu-verzweifeln/)
 * [Bruce Schneier packt mal kurz aus warum eine Corona-App quatsch ist.](https://www.golem.de/news/coronakrise-schneier-haelt-contact-tracing-apps-fuer-unbrauchbar-2005-148227.html)
 * [Betriebssystem durch TTL identifizieren?](https://shibumi.dev/posts/identify-the-os-via-ping/)
+* [GNU MediaGoblin wurde in der Version 0.10.0 veröffentlicht.](https://www.pro-linux.de/news/1/27985/gnu-mediagoblin-0100-ver%C3%B6ffentlicht.html)
+* [Ein Microsoft-Team hat in einem Blogeintrag über die Vorteile von Rust geschrieben.](https://msrc-blog.microsoft.com/2020/04/29/the-safety-boat-kubernetes-and-rust/)
+* [Systemd weiter erklärt. Es gibt doch targets die man auswählen kann.](https://opensource.com/article/20/5/systemd-startup)
+* [Dank JClic könnt ihr euren Kindern im Spiel das Programmieren näher bringen.](https://opensource.com/article/20/5/jclic-games-kids)
