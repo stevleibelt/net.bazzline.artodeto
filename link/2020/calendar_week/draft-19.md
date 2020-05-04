@@ -7,3 +7,5 @@
 * [Ein Microsoft-Team hat in einem Blogeintrag über die Vorteile von Rust geschrieben.](https://msrc-blog.microsoft.com/2020/04/29/the-safety-boat-kubernetes-and-rust/)
 * [Systemd weiter erklärt. Es gibt doch targets die man auswählen kann.](https://opensource.com/article/20/5/systemd-startup)
 * [Dank JClic könnt ihr euren Kindern im Spiel das Programmieren näher bringen.](https://opensource.com/article/20/5/jclic-games-kids)
+* [Pro-Linux.de verabschiedt sich von der Bildfläche.](https://www.pro-linux.de/artikel/2/1996/es-war-uns-eine-ehre.html)
+* [Daten mit Nextcloud teilen? Es ist so unglaublich einfach und da man Herr der eigenen Daten bleibt macht es noch viel spaß!](https://nextcloud.com/blog/sharing-in-nextcloud/)
