@@ -9,3 +9,15 @@
 * [Dank JClic könnt ihr euren Kindern im Spiel das Programmieren näher bringen.](https://opensource.com/article/20/5/jclic-games-kids)
 * [Pro-Linux.de verabschiedt sich von der Bildfläche.](https://www.pro-linux.de/artikel/2/1996/es-war-uns-eine-ehre.html)
 * [Daten mit Nextcloud teilen? Es ist so unglaublich einfach und da man Herr der eigenen Daten bleibt macht es noch viel spaß!](https://nextcloud.com/blog/sharing-in-nextcloud/)
+* [PhotoQt, ein dynamisches Bildbetrachungsprogramm mit einem Ranger.](https://www.ghacks.net/2020/05/05/photoqt-is-a-fluid-image-viewer-for-windows-and-linux/)
+* [Ubuntu 20.04 kommt mit einer Art ansible/docker-compose daher, nur nennt es sich dort "autoinstall".](https://utcc.utoronto.ca/~cks/space/blog/linux/Ubuntu2004AutoinstFormat)
+* [Inkscape wurde in der Version 1.0 veröffentlicht.](https://lwn.net/Articles/819431)
+* [Privazer wurde in der Version 4.0 veröffentlicht.](https://www.ghacks.net/2020/05/04/pc-cleaner-and-privacy-tool-privazer-4-0-released/)
+* [Vulkan wurde in der Version 1.2.140 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=Vulkan-1.2.140-Released)
+* [>>Ein Poem zur Corona-Covid-19-Virus-Krise von Rudolph Bauer<<](https://weltnetz.tv/video/2335-das-virus)
+* [Wisst ihr was wir in Zeiten von Elektrosmok und dem Wunsch nach totaler Bürgerüberwachung brauchen? Eine Wanze die all eure biometrischen Daten auswertet und irgendwo hin schickt.](https://www.golem.de/news/wearable-coronavirus-sensor-am-hals-erkennt-symptome-2005-148261.html)
+* [Schaut mal was die Blockpartei hier wieder versucht? Der Arzt muss in einem Ausweis "freiwillig" kund tun ob du eine optimale Arbeitsdrohne bist oder nicht.](https://verfassungsblog.de/der-immunitaetsausweis-und-der-weg-zurueck-in-ein-freiheitliches-leben/) - Und wenn du nicht optimal genug bist, darf dich der Arbeitgeber genau deswegen ablehnen. Ein Schritt weiter zu einer fixen Klassengesellschaft die total überwacht wird. Die Politiker nennen das "Immunitätspass".
+* [Dank dem Bundesverfassungsgericht und Herrn Spahn ist die Politik jetzt noch gleicher als alle anderen.](https://verfassungsblog.de/schutzlos-in-karlsruhe/) - Das Bundesverfassungsgericht nimmt sich selbst heraus, dass es Gesetze erlassen darf die gegen eigene Gesetze wie das DSVGO sind. Nur wenn ein Missbrauchsfall nachgewiesen wird, dann müsste man eventuell eine Risikoabwägung machen.
+* [FAI wurde in der Version 5.9.4 veröffentlicht.](https://www.pro-linux.de/news/1/27988/fai-594-freigegeben.html)
+* [Wie Herr Dr. Bruker schon vor 50 Jahren bekannt gegeben hat, der giftige Teil in der (Industrie-) Nahrung bringt uns alle um. Aktuell wird auf "jeder fünfte Mensch auf Erden" geschätzt.](https://netzfrauen.org/2020/05/05/food-4/)
+* [Hier wird euch gezeigt wie Flow Controll und quorum queues im RabbitMQ funktionieren.](https://www.rabbitmq.com/blog/2020/05/04/quorum-queues-and-flow-control-the-concepts/)
