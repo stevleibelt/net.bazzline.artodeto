@@ -21,3 +21,8 @@
 * [FAI wurde in der Version 5.9.4 veröffentlicht.](https://www.pro-linux.de/news/1/27988/fai-594-freigegeben.html)
 * [Wie Herr Dr. Bruker schon vor 50 Jahren bekannt gegeben hat, der giftige Teil in der (Industrie-) Nahrung bringt uns alle um. Aktuell wird auf "jeder fünfte Mensch auf Erden" geschätzt.](https://netzfrauen.org/2020/05/05/food-4/)
 * [Hier wird euch gezeigt wie Flow Controll und quorum queues im RabbitMQ funktionieren.](https://www.rabbitmq.com/blog/2020/05/04/quorum-queues-and-flow-control-the-concepts/)
+* [Canonical baut ihre OpenZFS Bemühungen mit Ubuntu 20.04 weiter aus.](https://www.phoronix.com/scan.php?page=news_item&px=Ubuntu-20.10-More-ZFS)
+* [Percona nimmt uns den schweren Start ab um ein InnoDB Cluster aufzusetzen.](https://www.percona.com/blog/2020/05/05/setting-up-an-innodb-cluster-with-a-few-lines-of-code/) - Danke!
+* [Tails wurde in der Version 4.6 veröffentlicht.](https://www.pro-linux.de/news/1/27992/tails-46-unterst%C3%BCtzt-u2f-token.html)
+* [In Venezuela sind wir auch an den Punkt angekommen, an dem man keiner Nachricht mehr glaube kann.](https://blog.fefe.de/?ts=a04cafeb)
+* [Thunderbrid wurde in der Version 68.8.0 veröffentlicht.](https://www.ghacks.net/2020/05/06/thunderbird-68-8-0-is-out-with-bug-and-security-fixes/)
