@@ -26,3 +26,16 @@
 * [Tails wurde in der Version 4.6 veröffentlicht.](https://www.pro-linux.de/news/1/27992/tails-46-unterst%C3%BCtzt-u2f-token.html)
 * [In Venezuela sind wir auch an den Punkt angekommen, an dem man keiner Nachricht mehr glaube kann.](https://blog.fefe.de/?ts=a04cafeb)
 * [Thunderbrid wurde in der Version 68.8.0 veröffentlicht.](https://www.ghacks.net/2020/05/06/thunderbird-68-8-0-is-out-with-bug-and-security-fixes/)
+* [Paralleles abarbeiten und seine Grenzen - Heute systemd und sein umount Befehl.](https://utcc.utoronto.ca/~cks/space/blog/linux/SystemdShutdownUnmountStorm) - Die Randbedingungen sind aber auch nicht gerade der Alltag :-).
+* [Hier wird euch snapd vorgestellt.](https://www.putorius.net/beginners-guide-snap-packages-linux.html)
+* [Wie ihr die automatische Updates von Windows Server neuer als 2012 deaktiviert wird euch hier gezeigt.](https://www.windowspro.de/benjamin-buerk/update-benachrichtigungen-windows-server-deaktivieren)
+* [Windows 10 wurde in der Version Build 19624 veröffentlicht.](https://www.bleepingcomputer.com/news/microsoft/windows-10-build-19624-released-with-windows-update-fixes/)
+* [pgMustard wurde in der Version 3 veröffentlicht.](https://www.postgresql.org/about/news/2035/)
+* [Google Dart wurde in der Version 2.8 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=Google-Dart-2.8-Released)
+* [Nextcloud Deck wurde in der Version 1.0 veröffentlicht. Zudem gibt es jetzt eine native Android Anwendung dafür.](https://nextcloud.com/blog/nextcloud-deck-1-0-available-today-plus-deck-for-android/)
+* [Hier wird euch erklärt wie ihr eure systemd units mit systemctl steuert.](https://opensource.com/article/20/5/systemd-units)
+* [Sagt ja zum Krebs, dank NFC ballern bald noch mehr Geräte ein Watt durch die Gegend.](https://www.golem.de/news/wlc-nfc-geraete-koennen-kuenftig-drahtlos-andere-geraete-aufladen-2005-148328.html)
+* [Um das Thema Julian Assange und wie die Mächtigen der Welt in ihrem rechtsfreien Raum arbeiten.](https://www.republik.ch/2020/01/31/nils-melzer-spricht-ueber-wikileaks-gruender-julian-assange)
+* [In den USA kannst du dich jetzt dem Militär entziehen wenn du die Corona-Grippe überstanden hast.](https://blog.fefe.de/?ts=a04d1546)
+* [Falls euch die Lügenpresse bald erzählt, dass das Grundeinkommen in Finnland nicht funktioniert hat, lest euch das hier durch.](https://blog.fefe.de/?ts=a04d0207) - Finnland hat "vergessen" ein Model zu erstellen um nachzuprüfen in welchem Maße das Grundeinkommen funktioniert hat.
+* [Peter Erlanson ist Krankenpfleger und erzählt wie es am Schützengraben der Krankenhäuser ausschaut.](https://weltnetz.tv/video/2337-ein-krankenhausmensch-redet-klartext)
