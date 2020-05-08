@@ -39,3 +39,11 @@
 * [In den USA kannst du dich jetzt dem Militär entziehen wenn du die Corona-Grippe überstanden hast.](https://blog.fefe.de/?ts=a04d1546)
 * [Falls euch die Lügenpresse bald erzählt, dass das Grundeinkommen in Finnland nicht funktioniert hat, lest euch das hier durch.](https://blog.fefe.de/?ts=a04d0207) - Finnland hat "vergessen" ein Model zu erstellen um nachzuprüfen in welchem Maße das Grundeinkommen funktioniert hat.
 * [Peter Erlanson ist Krankenpfleger und erzählt wie es am Schützengraben der Krankenhäuser ausschaut.](https://weltnetz.tv/video/2337-ein-krankenhausmensch-redet-klartext)
+* [Hier nutzt jemand Python in Ansible um eine xslx-Datei zu verändern.](https://www.kovarus.com/blog/managing-microsoft-excel-sheets-from-within-red-hat-ansible/)
+* [Und hier nutzt jemand Ansible um Systemkonfigurationen zu überprüfen.](https://www.redhat.com/sysadmin/configuration-verification-ansible)
+* [Und hier nutzt jemand Ansible um mit chocolatey Windows Systeme zu betreuen.](https://www.linkedin.com/pulse/ansible-automation-chocolatey-windows-package-installs-david-rojas/)
+* [Samsung Smartphones sind kaputt.](https://blog.fefe.de/?ts=a04d2cf3)
+* [Snap und wie man es benutzt.](https://www.putorius.net/beginners-guide-snap-packages-linux.html)
+* [Lachen oder weinen, ich bin mir nicht mehr sicher wenn es um die EU geht.](https://tuxproject.de/blog/2020/05/inzwischen-in-der-volldigitalisierten-eu/)
+* [Ab 01.01.2021 wird die elektronische Patientenakte zur freiwilligen Pflicht.](https://www.kuketz-blog.de/digitalisierung-des-gesundheitswesens-datenschutz-ist-was-doc/) - Und wie beschissen das alles ist.
+* [Bei den Netzfrauen gibt es eine Anleitung wir ihr euche eigenen Gemüsebete baut.](https://netzfrauen.org/2020/05/07/garden/)
