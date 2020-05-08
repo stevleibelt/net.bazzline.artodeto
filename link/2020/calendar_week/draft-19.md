@@ -47,3 +47,4 @@
 * [Lachen oder weinen, ich bin mir nicht mehr sicher wenn es um die EU geht.](https://tuxproject.de/blog/2020/05/inzwischen-in-der-volldigitalisierten-eu/)
 * [Ab 01.01.2021 wird die elektronische Patientenakte zur freiwilligen Pflicht.](https://www.kuketz-blog.de/digitalisierung-des-gesundheitswesens-datenschutz-ist-was-doc/) - Und wie beschissen das alles ist.
 * [Bei den Netzfrauen gibt es eine Anleitung wir ihr euche eigenen Gemüsebete baut.](https://netzfrauen.org/2020/05/07/garden/)
+* [Zoom will ihre Software sicherer machen und kauft eine Bude die ebenfalls nur Marketingluft zu bieten hat.](http://n-gate.com/hackernews/2020/05/07/0/)
