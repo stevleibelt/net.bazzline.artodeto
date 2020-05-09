@@ -48,3 +48,11 @@
 * [Ab 01.01.2021 wird die elektronische Patientenakte zur freiwilligen Pflicht.](https://www.kuketz-blog.de/digitalisierung-des-gesundheitswesens-datenschutz-ist-was-doc/) - Und wie beschissen das alles ist.
 * [Bei den Netzfrauen gibt es eine Anleitung wir ihr euche eigenen Gemüsebete baut.](https://netzfrauen.org/2020/05/07/garden/)
 * [Zoom will ihre Software sicherer machen und kauft eine Bude die ebenfalls nur Marketingluft zu bieten hat.](http://n-gate.com/hackernews/2020/05/07/0/)
+* [libertas und sanitas - ein Verein gegen das Gesetzt zur Pflichtimpfung.](http://s407929133.website-start.de/)
+* [Mehr als 73 Millionen Daten wurden dem Gemeinwohl geschenkt.](https://www.bleepingcomputer.com/news/security/hacker-group-floods-dark-web-with-data-stolen-from-11-companies/)
+* [Debian wurde in der Version 10.4 veröffentlicht.](http://www.phoronix.com/scan.php?page=news_item&px=Debian-10.4-Released)
+* [FreeType wurde in der Version 2.10.2 veröffentlicht.](http://www.phoronix.com/scan.php?page=news_item&px=FreeType-2.10.2-Released)
+* [Realitätsabgleich, der Irrsinn der Patente.](https://netzfrauen.org/2020/05/09/patent/)
+* [Wine wurde in der Version 5.8 veröffentlicht.](http://www.phoronix.com/scan.php?page=news_item&px=Wine-5.8-Released)
+* [FreeRDP wurde in der Version 2.1 veröffentlicht.](http://www.phoronix.com/scan.php?page=news_item&px=FreeRDP-2.1-Released)
+* [Hier wird euch gezeigt wie ihr Prometheus auf Windows installiert.](https://www.windowspro.de/philip-lorenz/prometheus-windows-installieren-konfigurieren)
