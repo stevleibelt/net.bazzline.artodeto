@@ -56,3 +56,7 @@
 * [Wine wurde in der Version 5.8 veröffentlicht.](http://www.phoronix.com/scan.php?page=news_item&px=Wine-5.8-Released)
 * [FreeRDP wurde in der Version 2.1 veröffentlicht.](http://www.phoronix.com/scan.php?page=news_item&px=FreeRDP-2.1-Released)
 * [Hier wird euch gezeigt wie ihr Prometheus auf Windows installiert.](https://www.windowspro.de/philip-lorenz/prometheus-windows-installieren-konfigurieren)
+* [Gutes Thema was durch Corona aufgezeigt wurde, der Exportweltmeister des Spargels verwirtschaftet seinen Gewinn durch lokale Arbeitslosigkeit und durch Steuergelder geförderte Außlandsarbeiter aus Rumänien.](https://netzfrauen.org/2020/05/10/plegekraefte-2/)
+* [Wusste ich auch nicht aber die Kommandozeilen-Schnittstelle vom NetworkManager nmcli kann OpenVpn-Dateien importieren.](https://www.putorius.net/mcli-import-openvpn.html)
+* [Axel Voss zeigt wie gut er von den Nazis gelernt hat, niemand hat die Absicht "nicht Corona-App"-Benutzer eine Mauer zu bauen - nur am gesellschaftlichen Leben dürfen sie dann nicht mehr teilnehmen.](https://www.golem.de/news/restaurants-und-kinos-axel-voss-will-corona-app-verweigerer-benachteiligen-2005-148373.html)
+* [EndeavourOS wurde in der Version 2020.05.08 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=EndeavourOS-May-2020)
