@@ -5,3 +5,4 @@
 * [Matrix und Riot bieten jetzt End-Zu-End-Verschlüsselung als Standard an.](https://www.golem.de/news/messenger-matrix-und-riot-machen-e2e-verschluesselung-zum-standard-2005-148380.html)
 * [Wisst ihr was eine richtig dumme Idee hinter Thunderbold war? Dass ein extern angeschlossenes Gerät in eurem Arbeitsspeicher rumschreiben kann. Wisst ihr was ihr mit USB 4.0 bekommt? Genau diese dumme Idee.](https://www.golem.de/news/thunderspy-nicht-patchbare-sicherheitsluecken-in-thunderbolt-2005-148387.html)
 * [Von credativ gibt es eine schöne Anleitung wie ihr Icinga2 mit Graphite und Grafana auf einem debian installiert.](https://www.credativ.de/blog/howtos/howto-icinga2-mit-graphite-und-grafana-unter-debian/)
+* [Mit firejail ein Programm in die Sandbox sperren.](https://www.kuketz-blog.de/firejail-linux-haerten-teil4/)
