@@ -6,3 +6,11 @@
 * [Wisst ihr was eine richtig dumme Idee hinter Thunderbold war? Dass ein extern angeschlossenes Gerät in eurem Arbeitsspeicher rumschreiben kann. Wisst ihr was ihr mit USB 4.0 bekommt? Genau diese dumme Idee.](https://www.golem.de/news/thunderspy-nicht-patchbare-sicherheitsluecken-in-thunderbolt-2005-148387.html)
 * [Von credativ gibt es eine schöne Anleitung wie ihr Icinga2 mit Graphite und Grafana auf einem debian installiert.](https://www.credativ.de/blog/howtos/howto-icinga2-mit-graphite-und-grafana-unter-debian/)
 * [Mit firejail ein Programm in die Sandbox sperren.](https://www.kuketz-blog.de/firejail-linux-haerten-teil4/)
+* [Da feiert sich Musk bestimmt selber weil er so "brave" und "american" ist. Ich sehe nur "hier sieht sich jemand über dem Gesetz".](https://www.golem.de/news/elon-musk-tesla-fabrik-startet-unter-missachtung-der-anordnungen-2005-148400.html)
+* [Ich bin mir bei der Idee der EU nicht sicher ob man wirklich die Konzerne mehr reglementieren will oder ob man durch die Hintertür mehr Zensurmechanismen installieren möchte.](https://www.golem.de/news/digitale-dienste-gesetz-chancen-fuer-die-kleinen-kontrolle-fuer-die-grossen-2005-148396.html) - Prinzipiell bin ich dafür, dass Konzerne mit ihren vielen Sub-Firmen als eine Einheit gesehen, versteuert und kontrolliert werden. Ich kenne bisher kein Konzern, der gut für das Gemeinwohl der Menschheit ist.
+* [Diebold Nixdorf ist kaputt.](https://krebsonsecurity.com/2020/05/ransomware-hit-atm-giant-diebold-nixdorf/)
+* [Die Blockpartei will jetzt zum Neustart weiter ihre Konzerne fördern deren Kraftwerke schon seit Jahrzehnten vom Steuerzahler absubventioniert wurden.](https://www.sonnenseite.com/de/politik/positionspapier-zum-klimaschutz-unionsfraktion-will-zurck-zum-markt.html)
+* [Die Eclipse Foundation kommt nach Europa.](https://www.golem.de/news/open-source-eclipse-foundation-verlegt-hauptsitz-nach-europa-2005-148413.html)
+* [Mit Lynis dein Linux auf die Sicherheit testen.](https://opensource.com/article/20/5/linux-security-lynis)
+* [Jitsi, Signa, Nextcloud-Talk, p2p.chat und Jami im Kurzvergleich.](https://opensource.com/article/20/5/open-source-video-conferencing)
+* [Proxmox VE wurde in der Version 6.2 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=Proxmox-VE-6.2-Released)
