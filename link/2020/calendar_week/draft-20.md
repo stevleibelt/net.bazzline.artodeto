@@ -14,3 +14,4 @@
 * [Mit Lynis dein Linux auf die Sicherheit testen.](https://opensource.com/article/20/5/linux-security-lynis)
 * [Jitsi, Signa, Nextcloud-Talk, p2p.chat und Jami im Kurzvergleich.](https://opensource.com/article/20/5/open-source-video-conferencing)
 * [Proxmox VE wurde in der Version 6.2 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=Proxmox-VE-6.2-Released)
+* [Zabbix wurde in der Version 5.0 LTS veröffentlicht.](https://www.zabbix.com/whats_new_5_0)
