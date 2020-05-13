@@ -22,3 +22,4 @@
 * [Coreboot wurde in der Version 4.12 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=Coreboot-4.12-Released)
 * [Lasst euch nicht einlullen, wenn Firmen wie Twitter 1000 Euro spendieren, damit ihr von zu Hause arbeitet ist das ein Gewinn für den Konzern und die BWL-er freuen sich einen Ast weil sie so viel eingespart haben.](https://www.golem.de/news/twitter-mitarbeiter-duerfen-dauerhaft-von-zuhause-aus-arbeiten-2005-148436.html) - Für 1000 Euro gibt es kaum eine gescheite Büroeinrichtung, ganz zu schweige von gescheiter Technik. Zudem muss der Arbeitgeber keinen Arbeitsplatz mehr unterhalten und bezahlen, wohingegen eure Kosten steigen (Wasser, Kaffee, Reinigung, Energie etc.)
 * [Serielle Schnittstelle mit Linux ansteuern? Tio hilft euch.](https://opensource.com/article/20/5/tio-linux)
+* [Pi-Hole wurde in der Version 5.0 veröffentlicht.](https://www.pro-linux.de/news/1/28011/pi-hole-50-erschienen.html)
