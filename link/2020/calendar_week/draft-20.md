@@ -29,3 +29,5 @@
 * [Wer stellt die Infrastruktur für die Corona-App und wer nutzt die Daten? Genau, Google und Apple.](https://www.kuketz-blog.de/leserfrage-nutzt-die-corona-tracing-app-proprietaere-google-apis/) - Und woher kam diese Information? Durch die Anfrage eines Nutzers ob man das Ding auch auf F-Droid findet.
 * [Microsoft legt sein Project Cerberus als Open Source auf.](https://www.golem.de/news/open-compute-microsoft-legt-root-of-trust-fuer-server-offen-2005-148455.html)
 * [Debotnet wird nicht mehr weiterentwickelt, dafür gibt es jetzt SharpApp.](https://www.mirinsoft.com/blog/19-apps/27-going-forward-with-sharpapp-only)
+* [Kali Linux wurde in der Version 2020.02 veröffentlicht.](https://www.pro-linux.de/news/1/28012/kali-linux-20202-freigegeben.html)
+* [Schwer zu verstehen, die Telekom macht fast eine Milliarde Euro Gewinn und fragt nach Subventionen.](https://www.golem.de/news/quartalsbericht-telekom-macht-in-coronazeiten-ueber-916-millionen-euro-gewinn-2005-148478.html) - Einfacher wäre es doch, wenn der Staat/Bund/die Länder ihre Infrastruktur bauen und die Telekom mietet sich als Dienstleister ein.
