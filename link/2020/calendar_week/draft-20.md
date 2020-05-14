@@ -23,3 +23,9 @@
 * [Lasst euch nicht einlullen, wenn Firmen wie Twitter 1000 Euro spendieren, damit ihr von zu Hause arbeitet ist das ein Gewinn für den Konzern und die BWL-er freuen sich einen Ast weil sie so viel eingespart haben.](https://www.golem.de/news/twitter-mitarbeiter-duerfen-dauerhaft-von-zuhause-aus-arbeiten-2005-148436.html) - Für 1000 Euro gibt es kaum eine gescheite Büroeinrichtung, ganz zu schweige von gescheiter Technik. Zudem muss der Arbeitgeber keinen Arbeitsplatz mehr unterhalten und bezahlen, wohingegen eure Kosten steigen (Wasser, Kaffee, Reinigung, Energie etc.)
 * [Serielle Schnittstelle mit Linux ansteuern? Tio hilft euch.](https://opensource.com/article/20/5/tio-linux)
 * [Pi-Hole wurde in der Version 5.0 veröffentlicht.](https://www.pro-linux.de/news/1/28011/pi-hole-50-erschienen.html)
+* [Microsoft beendet die Unterstützung für Windows 10 32 Bit.](https://www.bleepingcomputer.com/news/microsoft/rip-microsoft-to-drop-support-for-windows-10-on-32-bit-systems/)
+* [Ubuntu Touch wurde in der Version OTA-12 veröffentlicht.](https://ubports.com/de_DE/blog/unser-blog-1/post/ubuntu-touch-ota-12-release-276)
+* [44 zivilgeselschafftliche Organisationen, die Frakion der Grünen/EFA und weitere fordern bei der EU ein Stopp der entstehenden, biometrischen Massenüberwachung.](https://www.patrick-breyer.de/?p=591332)
+* [Wer stellt die Infrastruktur für die Corona-App und wer nutzt die Daten? Genau, Google und Apple.](https://www.kuketz-blog.de/leserfrage-nutzt-die-corona-tracing-app-proprietaere-google-apis/) - Und woher kam diese Information? Durch die Anfrage eines Nutzers ob man das Ding auch auf F-Droid findet.
+* [Microsoft legt sein Project Cerberus als Open Source auf.](https://www.golem.de/news/open-compute-microsoft-legt-root-of-trust-fuer-server-offen-2005-148455.html)
+* [Debotnet wird nicht mehr weiterentwickelt, dafür gibt es jetzt SharpApp.](https://www.mirinsoft.com/blog/19-apps/27-going-forward-with-sharpapp-only)
