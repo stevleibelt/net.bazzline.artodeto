@@ -45,3 +45,4 @@
 * [Onlyoffice wurde in der Version 5.5 veröffentlicht.](https://www.pro-linux.de/news/1/28015/onlyoffice-desktop-editoren-55-erschienen.html)
 * [Steuerverschwendung "live" in den USA, für weniger als 3000 Arbeitsplätze wird ein Werk von TSMC gefördert das zu wenig und auch noch veraltet produziert.](https://www.golem.de/news/auftragsfertiger-tsmc-will-5-nm-fab-in-den-usa-bauen-2005-148507.html)
 * [>>CoopCycle: Ein Open-Source-Bündnis vernetzt Lieferkollektive in ganz Europa<<.](https://netzpolitik.org/2019/coopcycle-ein-open-source-buendnis-vernetzt-lieferkollektive-in-ganz-europa/)
+* [Das Bundesverfassungsgericht bekommt mit Stephan Harbarth so nen richtigen allglaten Typen den niemand lieb hat - mit Sicherheit ein nie geliebtes Kind was dringend mal eine Umarmung braucht.](https://blog.fefe.de/?ts=a0409d31) - Kannst du dir nicht vorstellen, der Typ hat so viel Scheiße an der Backe und wird trotzdem gewählt.
