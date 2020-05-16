@@ -46,3 +46,14 @@
 * [Steuerverschwendung "live" in den USA, für weniger als 3000 Arbeitsplätze wird ein Werk von TSMC gefördert das zu wenig und auch noch veraltet produziert.](https://www.golem.de/news/auftragsfertiger-tsmc-will-5-nm-fab-in-den-usa-bauen-2005-148507.html)
 * [>>CoopCycle: Ein Open-Source-Bündnis vernetzt Lieferkollektive in ganz Europa<<.](https://netzpolitik.org/2019/coopcycle-ein-open-source-buendnis-vernetzt-lieferkollektive-in-ganz-europa/)
 * [Das Bundesverfassungsgericht bekommt mit Stephan Harbarth so nen richtigen allglaten Typen den niemand lieb hat - mit Sicherheit ein nie geliebtes Kind was dringend mal eine Umarmung braucht.](https://blog.fefe.de/?ts=a0409d31) - Kannst du dir nicht vorstellen, der Typ hat so viel Scheiße an der Backe und wird trotzdem gewählt.
+* [DXVK wurde in der Version 1.7 veröffentlicht.](http://www.phoronix.com/scan.php?page=news_item&px=DXVK-1.7-Released)
+* [Der Forschungsreaktor Garching strahlt vor freude.](https://www.golem.de/news/forschungsreaktor-radioaktives-c-14-in-garching-ausgetreten-2005-148530-rss.html)
+* [Kapitalismus im Endstadium, Nestle hat es hinbekommen dass ihnen das ganze Wasser in Vitel gehört. Also auch das Wasser was in einem Brunnen auf anderem Grund und Boden raussickert.](https://netzfrauen.org/2020/05/16/vittel-2/)
+* [>>Die Botschaft der Stunde ist klar: Wenn man Nein zur Zukunft sagt, und die Gegenwart ist instabil, öffnet man die Tür zur Vergangenheit.<<](https://www.peira.org/sieben-impulse-des-widerstands-radikaler-humanismus-in-einer-finster-werdenden-welt/)
+* [Nach fast einem halben Jahr Corona müssen Labore erst auch negative Tests melden.](https://netzpolitik.org/2020/labore-muessen-auch-negative-coronavirus-tests-melden/) - Da weiß man was man hat und wie man den Zahlen trauen kann.
+* [Giphy gehört jetzt zu Hackfressenbuch, also lieber nicht mehr nutzen.](https://www.golem.de/news/gifs-instagram-kauft-giphy-fuer-400-millionen-us-dollar-2005-148524.html)
+* [Es gibt eine Gesundheitsberaterin in Waldheim.](https://gesundheitsberater.de/locations/ilona-ramisch/)
+* [Ihr wollt im schönen Landkreis Mittelsachsen ein Massivhaus bauen und sucht einen ehrliche, kompetente und nette Firma? Saku-Massivhaus und lieben Gruß an Herrn Uhlmann.](https://www.saku-massivhaus.de/)
+* [Das EU-Parlament möchte mehr freie Software sehen, leider unter dem falschen Wunsch das es billiger wird.](https://www.patrick-breyer.de/?p=591374) - Dabei ist freie Software kein Gratisbier.
+* [Wow, RUST gibt es erst sein fünf Jahren und es hat schon so viel erreicht.](https://blog.rust-lang.org/2020/05/15/five-years-of-rust.html)
+* [BND kann illegal mehr als eine Billion Verbindungen pro Tag aus dem DE-CIX rausholen und als Parasit im After der USA direkt zurück in deren Magen schieben.](https://www.golem.de/news/de-cix-bnd-kann-1-2-billionen-verbindungen-pro-tag-abzweigen-2005-148515.html)
