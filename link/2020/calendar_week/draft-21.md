@@ -1,0 +1,5 @@
+* [Schöne Sache von Mozilla, die zeigen euch bald an wenn ihr die "maximale Länge" bei Passworteingaben erreicht habt.](https://www.ghacks.net/2020/05/18/firefox-77-wont-truncate-text-exceeding-max-length-to-address-password-pasting-issues/) - Eigentlich sollten das die Webseitenbetreiber machen, aber eigentlich sollten Webseiten auch ohne Werbung und Tracking funktionieren.
+* [Enlightment wurde in der Version 0.24 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=Enlightenment-0.24-Released)
+* [Zoom ist kaputt.](https://www.bleepingcomputer.com/news/software/zoom-global-outage-preventing-meetings-video-and-audio/)
+* [Acht Dinge die ihr bedenken könnt, wenn ihr mit CI/CD anfangt.](https://opensource.com/article/20/5/cicd-best-practices)
+* [QNAPs BWL-ern geht das Koks aus, also nerven sie ihre Kunden mit Bannerwerbung und zeigen, dass die gekaufte NAS noch immer QNAP gehört und sonst niemanden.](https://www.golem.de/news/nas-qnap-blendet-bannerwerbung-auf-eigenen-nas-systemen-ein-2005-148539.html)
