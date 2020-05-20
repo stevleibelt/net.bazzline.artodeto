@@ -18,3 +18,12 @@
 * [Danke Karlsruhe, die ausnahmslose und massenhafte Überwachung der Bundesbürger durch den BND ist verfassungswidrig.](https://netzpolitik.org/2020/das-neue-bnd-gesetz-ist-verfassungswidrig/) - Und hier kamen nur die offiziellen Praktiken dieses Naziinstrumentes auf dem Tisch. Auftraggeber des BND ist und bleibt der Bund, sprich die Mitglieder der Blockpartei.
 * [Ihr wollt eure Schule mit Big Blue Button ausrüsten wisst aber nicht wie? Fragt einmal bei cyber4edu.org vorbei.](https://cyber4edu.org/c4e/wiki/doku.php)
 * [ccc.de: >>Bundesverfassungsgericht verlangt Ausbau der Geheimdienstkontrolle<<](https://www.ccc.de/de/updates/2020/bverfg-geheimdienstkontrolle)
+* [Trend Micro, Symantec, alles kaputt.](https://blog.fefe.de/?ts=a03ace06)
+* [EasyJet löscht nicht und hat so über 9 Millionen Kundendaten sozialisiert.](https://blog.fefe.de/?ts=a03ac760) - "Regenangriff", sehr gute Rethorik fefe.
+* [Und Herr Röttgen so "ich kann diesen nutzlosen Schutz der Brügerrechte nicht verstehen."](https://blog.fefe.de/?ts=a03ac7ea)
+* [>>Die Grundrechte aus dem Grundgesetz gelten auch für Ausländer im Ausland.<<](https://blog.fefe.de/?ts=a03ac684)
+* [Das "Privacy Shield" wird wohl ausgezählt.](https://netzpolitik.org/2020/eu-kommission-bereitet-scheitern-von-privacy-shield-vor/)
+* [Wird auch Zeit, Microsoft will UWP und Win32 zusammenführen.](https://www.ghacks.net/2020/05/19/microsoft-wants-to-unify-uwp-and-win32-with-project-reunion/) - Wir alle wissen was passiert wenn man einen neuen Standard erfindet der zwei alte Standards ersetzen soll.
+* [Microsoft baut seinen eigenen Paketmanager.](https://www.ghacks.net/2020/05/19/first-look-at-the-windows-package-manager/)
+* [Windows Terminal wurde in der Version 1.0 veröffentlicht.](https://www.bleepingcomputer.com/news/microsoft/windows-terminal-10-is-here-with-numerous-improvements/)
+* [Ohjeh, die Firma "Deutsche Glasfaser" wird von ausländischen Firmen gekauft.](https://www.golem.de/news/inexio-deutsche-glasfaser-darf-verkauft-werden-2005-148603.html) - Warum das nicht der Staat selber kauft? Ist doch kritische Infrastruktur.
