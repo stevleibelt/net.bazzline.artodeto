@@ -27,3 +27,13 @@
 * [Microsoft baut seinen eigenen Paketmanager.](https://www.ghacks.net/2020/05/19/first-look-at-the-windows-package-manager/)
 * [Windows Terminal wurde in der Version 1.0 veröffentlicht.](https://www.bleepingcomputer.com/news/microsoft/windows-terminal-10-is-here-with-numerous-improvements/)
 * [Ohjeh, die Firma "Deutsche Glasfaser" wird von ausländischen Firmen gekauft.](https://www.golem.de/news/inexio-deutsche-glasfaser-darf-verkauft-werden-2005-148603.html) - Warum das nicht der Staat selber kauft? Ist doch kritische Infrastruktur.
+* [Die Gesellschaft für Freiheitsrechte veröffentlicht ihren "Grundrechte-Report 2020"](https://freiheitsrechte.org/grundrechte-report-2020/)
+* [Zstd wurde in der Version 1.4.5 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=Zstd-1.4.5-Released)
+* [Firefox-Kompendium, Drei-Browser-Konzept?](https://www.kuketz-blog.de/leserfrage-welche-spuren-hinterlaesst-mein-browser/)
+* [Bluetooth ist per Standard kaputt - gut zu wissen wenn Google und Apple unter dem Deckmantel der "Sicherheit" gerade eine weltweite Profiling-App mit Bluetooth anbieten wollen.](https://www.golem.de/news/drahtlos-standard-bluetooth-sicherheitsluecke-betrifft-praktisch-alle-geraete-2005-148659.html)
+* [Google Doordash und Grubhub mache euch kaputt statt euch zu helfen.](https://www.saddlebackbbq.com/how-google-doordash-grubhub-conspire-screw-local-restaurants)
+* [Nein? Doch! Oh? Mit Websockets werden jetzt Portscanns gemacht - gegen die Kunden.](https://nullsweep.com/why-is-this-website-port-scanning-me/)
+* [Web scrapping mit Python.](https://opensource.com/article/20/5/web-scraping-python)
+* [Dav1d wurde in der Version 0.7 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=Dav1d-0.7-Faster-AV1-Decoding)
+* [Wishbone hat 40 Millionen Nutzerdaten sozialisiert.](https://www.bleepingcomputer.com/news/security/hacker-shares-40-million-wishbone-user-records-for-free/)
+* [Civilization 6 gibt es gerade für lau bei epic megagames.](https://www.golem.de/news/firaxis-civilization-6-kostenlos-im-epic-games-store-verfuegbar-2005-148643.html)
