@@ -1,0 +1,4 @@
+* [Wenn du eine Finanzierung für ein Statussymbol brauchst, kannst du abschätzen in welchem Stadium sich der Kapitalismus so befindet.](https://www.golem.de/news/finanzierung-per-apple-card-ipads-und-macs-sollen-monatlich-abbezahlt-werden-2006-148943-rss.html)
+* [Nextcloud wurde in den Versionen 18.0.5, 17.0.7 und 16.0.11 veröffentlicht.](https://nextcloud.com/blog/minor-releases-18-0-5-17-0-7-and-16-0-11-are-here-end-of-support-for-16/) - Nextcloud 16.* ist im übringen offiziell raus.
+* [Roundcube wurde in den Versionen 1.4.5 und 1.3.13 veröffentlicht.](https://roundcube.net/news/2020/06/07/updates-1.4.6-and-1.3.13-released)
+* [Kann nur scheiße werden, Vattenvall baut den weltweit größten Offshore-Windpark.](https://www.sonnenseite.com/de/wirtschaft/vattenfall-baut-weltweit-grten-offshore-windpark.html) - Abbau und Entsorgung werden dann wieder sozialisiert.
