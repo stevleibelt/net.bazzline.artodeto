@@ -13,3 +13,5 @@
 * [Hier gibt es ein Shell-Skript das euch hilft mittels der Blink-LEDs den richtigen RaspberryPi zu finden.](https://opensource.com/article/20/6/find-raspberry-pi)
 * [Mit MailCleaner und LetsEncrypt die Spamflut etwas abfedern.](https://opensource.com/article/20/6/secure-open-source-antispam)
 * [Der Nabu hat eine Anleitung für den Bau eines Insektenhotels veröffentlicht.](https://www.nabu.de/tiere-und-pflanzen/insekten-und-spinnen/insekten-helfen/00959.html)
+* [Die Bundesregierung will per Gesetzt wirklich moderne Internetgeschwindigkeit überall ausrollen.](https://netzpolitik.org/2020/so-soll-das-recht-auf-schnelle-internetanschluesse-aussehen/)
+* [Mit Okular PDF Dateien bearbeiten.](https://okular.kde.org/)
