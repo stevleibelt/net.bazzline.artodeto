@@ -15,3 +15,5 @@
 * [Der Nabu hat eine Anleitung für den Bau eines Insektenhotels veröffentlicht.](https://www.nabu.de/tiere-und-pflanzen/insekten-und-spinnen/insekten-helfen/00959.html)
 * [Die Bundesregierung will per Gesetzt wirklich moderne Internetgeschwindigkeit überall ausrollen.](https://netzpolitik.org/2020/so-soll-das-recht-auf-schnelle-internetanschluesse-aussehen/)
 * [Mit Okular PDF Dateien bearbeiten.](https://okular.kde.org/)
+* [Database .Net wurde in der Version v30.4 veröffentlicht.](https://www.postgresql.org/about/news/2043/)
+* [Mit dem headless CMS Strapi Webseiten bauen.](https://strapi.io/)
