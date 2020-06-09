@@ -17,3 +17,10 @@
 * [Mit Okular PDF Dateien bearbeiten.](https://okular.kde.org/)
 * [Database .Net wurde in der Version v30.4 veröffentlicht.](https://www.postgresql.org/about/news/2043/)
 * [Mit dem headless CMS Strapi Webseiten bauen.](https://strapi.io/)
+* [GnuTLS ist kaputt.](https://blog.fefe.de/?ts=a02055d9)
+* [Notepad++ wurde in der Version 7.8.7 veröffentlicht.](https://www.planet3dnow.de/cms/56309-notepad-7-8-7/)
+* [Demnächst gibt es Pr0ns im Internet nur nach Anmeldung.](https://www.golem.de/news/jugendschutz-websperren-gegen-pornoseiten-ruecken-naeher-2006-148976.html) - Deutschland sagt nein zu anonymen Wixern! Und da dies schwer umsetzbar ist, wird dann halt zensiert.
+* [Nicht nur funktionierende "Smart-Lautsprecher", nein auch "Smart-Kühlschränke" könnt ihr genau dann wegschmeißen wenn die Firma keinen Bock mehr auf Softwareupdates hat.](https://www.golem.de/news/smarte-kuehlschraenke-hersteller-verschweigen-support-dauer-2006-148974.html)
+* [KDE Plasma wurde in der Version 5.19 veröffentlicht.](https://kde.org/announcements/plasma-5.19.0)
+* [Steuerhinterziehung in Echtzeit, Telefonica verkauft ihre Masten an eine eigene Tochtergesellschafft.](https://www.golem.de/news/telxius-telefonica-deutschland-verkauft-ueber-10-000-mobilfunkmasten-2006-148983.html)
+* [Schaut mal wie schön kaputt die Android App von Zoom ist.](https://www.kuketz-blog.de/zoom-analyse-des-datensendeverhaltens-der-android-app/)
