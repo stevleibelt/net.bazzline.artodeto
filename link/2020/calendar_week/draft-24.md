@@ -24,3 +24,12 @@
 * [KDE Plasma wurde in der Version 5.19 veröffentlicht.](https://kde.org/announcements/plasma-5.19.0)
 * [Steuerhinterziehung in Echtzeit, Telefonica verkauft ihre Masten an eine eigene Tochtergesellschafft.](https://www.golem.de/news/telxius-telefonica-deutschland-verkauft-ueber-10-000-mobilfunkmasten-2006-148983.html)
 * [Schaut mal wie schön kaputt die Android App von Zoom ist.](https://www.kuketz-blog.de/zoom-analyse-des-datensendeverhaltens-der-android-app/)
+* [Realitätsabgleich Stromverbrauch der IT: Ein Like bei Hackfressenbuch verbraucht so viel Energie wie zwei Kilometer mit einem Benziauto fahren.](https://www.heise.de/tp/features/Stromfresser-Internet-4776573.html) - Und dank LTE wird es einen Strombedarf benötigen der eigentlich Metropolen so am Leben hält und das oben drauf.
+* [Das Bündnis "Stoppt Gesichtserkennung" ist über die Domain gesichtserkennung-stoppen.de erreichbar.](https://www.gesichtserkennung-stoppen.de/)
+* [Wahlcomputer? Klar sind die gut, damit können wir die lästigen Stimmen der 99 Prozent der Bevölkerung rausfiltern.](https://blog.fefe.de/?ts=a01e49ad)
+* [Angriffskrieg jetzt auch gegen NGOs, ob dies von der Macht der digitalen Vorwärtsverteidigung und damit von "Hackern" betrieben wird, die von den Steuergeldern bezahlt werden?](https://blog.fefe.de/?ts=a01e443a)
+* [Intel ist jetzt auch über mehrere Kerne kaputt.](https://www.golem.de/news/sicherheitsluecken-sgaxe-crosstalk-und-me-luecken-in-intel-cpus-2006-149000.html)
+* [Stellt euch vor ihr erfindet etwas und es funktioniert, doch was wollen die Werbetreibenden? Mehr Inovation die das Produkt dann verschlimmbessern.](https://www.golem.de/news/surface-book-3-im-test-microsofts-alleskoenner-braucht-einen-neuen-anstrich-2006-148989-3.html)
+* [Es wird versucht ein Lieferkettengesetz zu etablieren und das mögen weltumspannende Konzerne nicht.](https://verfassungsblog.de/die-haftung-von-zertifizierungs-und-pruefunternehmen-als-gebotener-bestandteil-eines-effektiven-lieferkettengesetzes/) - Und wenn Konzerne etwas schlecht finden, ist es im Regelfall etwas gutes für die Welt.
+* [Militarisierung der Polizei? Auch hier ist Deutschland ganz weit vorn dabei!](https://netzpolitik.org/2020/klage-gegen-geheimhaltung-von-polizeipanzern/)
+* [Multimaster mit PostgreSQL aber wie? Percona erklärt euch das einmal.](https://www.percona.com/blog/2020/06/09/multi-master-replication-solutions-for-postgresql/)
