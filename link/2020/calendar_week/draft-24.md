@@ -33,3 +33,20 @@
 * [Es wird versucht ein Lieferkettengesetz zu etablieren und das mögen weltumspannende Konzerne nicht.](https://verfassungsblog.de/die-haftung-von-zertifizierungs-und-pruefunternehmen-als-gebotener-bestandteil-eines-effektiven-lieferkettengesetzes/) - Und wenn Konzerne etwas schlecht finden, ist es im Regelfall etwas gutes für die Welt.
 * [Militarisierung der Polizei? Auch hier ist Deutschland ganz weit vorn dabei!](https://netzpolitik.org/2020/klage-gegen-geheimhaltung-von-polizeipanzern/)
 * [Multimaster mit PostgreSQL aber wie? Percona erklärt euch das einmal.](https://www.percona.com/blog/2020/06/09/multi-master-replication-solutions-for-postgresql/)
+* [Hier wird euch erklärt wie ihr Collabora Online in eure Nextcloud integriert.](https://nextcloud.com/blog/how-to-install-collabora-online-in-nextcloud-hub/)
+* [HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\UserProfileEngagement\ScoobeSystemSettingEnabled = 0](https://www.golem.de/news/microsoft-windows-10-verwirrt-mit-pop-up-fenster-2006-149028.html)
+* [Massentierhaltungen, aber nicht um die Ecke bitte! Schaut mal lieber nach.](https://netzfrauen.org/2020/06/11/animals-10/) - Auf [Project Counterglow](https://www.counterglow.org/) könnt ich nachschauen.
+* [PgBouncer wurde in der Version 1.14.0 veröffentlicht.](https://www.postgresql.org/about/news/2045/)
+* [In Go debuggen? Aber mitte mit Delve.](https://opensource.com/article/20/6/debug-go-delve)
+* [Mit jaBuT könnt ihr unter Windows Daten sichern.](https://www.ghacks.net/2020/06/11/jabut-is-a-freeware-file-backup-program-for-windows/)
+* [Schaut mal, dank Windows 10 wird jetzt funktionierende Hardware einfach unbrauchbar markiert und muss ersetzt werden.](https://www.bleepingcomputer.com/news/microsoft/windows-10-2004-dell-and-lenovo-publish-list-of-compatible-devices/) - Schön dieses ganze wegschmeißen, schlecht für die Welt.
+* [Ein neues Rezo Video ist da und wie beim Video davor liefert er sehr gut und neutral ab.](https://weltnetz.tv/story/2355-verkackt-es-nicht-die-zerstoerung-der-presse)
+* [IBM nutzt Corona aus um zwei Firmen zu schließen.](https://www.golem.de/news/helpdesk-ibm-aiws-feuert-80-prozent-der-beschaeftigten-in-deutschland-2006-149018.html)
+* [Nextcloud für Android wurde in der Version 3.12 veröffentlicht.](https://nextcloud.com/blog/nextcloud-for-android-3-12-brings-expiration-date-for-shares-circles-support-and-over-120-other-improvements/)
+* [Schönes Beispiel von der magischen Hand des freien Marktes. Vodafone verkauft lieber 5G Strahlenverträge statt Glasfaser zu verlegen, führt danach eine Kundenbefragung durch wofür 5G genutzt wird und ist selbst total positiv überrascht, dass die Leute lieber 5G nutzen als nichts zu haben.](https://www.golem.de/news/vodafone-5g-als-ersatz-fuer-langsame-dsl-leitung-2006-149035.html)
+* [Gimp wurde in der Version 2.10.20 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=GIMP-2.10.20-Released)
+* [20 Millionen Euro für die Entwicklung einer Corona-App? Erscheint mir arg viel, aber man erfährt ja wieder keine Vertragsdetails.](https://www.golem.de/news/bundesregierung-entwicklung-von-corona-app-kostet-20-millionen-euro-2006-149033.html)
+* [Wie installiert man heute eigentlich ein Windows 10?](https://4sysops.com/archives/microsoft-modern-desktop/)
+* [Mit Microsoft Autopilot Systeme schnell aufsetzen?](https://docs.microsoft.com/en-us/windows/deployment/windows-autopilot/windows-autopilot)
+* [Schon wieder eine wichtige Person eines indigenen Volkes ermordet. Ron Domingo Choc, Maya-Arzt in Guatemala.](https://netzfrauen.org/2020/06/11/guatemala-6/)
+* [Europol nutzt die verächtende Software der US-Firma Palantir.](https://netzpolitik.org/2020/europol-nutzt-palantir/)
