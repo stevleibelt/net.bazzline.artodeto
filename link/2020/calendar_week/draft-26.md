@@ -65,3 +65,5 @@
 * [Auch die europäische Umweltagentur gibt Warnsignale bezüglich des Zustandes unserer Weltmeere.](https://www.sonnenseite.com/de/umwelt/die-europische-umweltagentur-zum-zustand-der-europischen-meere.html)
 * [Traurig, Frauen sterben durch Vergewaltigung häufiger als durch diese Politik gemachte Corona-Problematik.](https://netzfrauen.org/2020/06/26/wearetired/)
 * [Wie ihr den AppLocker härtet wird euch hier erklärt.](https://4sysops.com/archives/hardening-applocker/)
+* [PuTTY wurde in der Version 0.74 veröffentlicht.](https://www.planet3dnow.de/cms/56559-putty-0-74/)
+* [Blender wurde in der Version 2.83.1 veröffentlicht.](https://www.planet3dnow.de/cms/56557-blender-2-83-1/)
