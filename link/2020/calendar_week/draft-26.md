@@ -67,3 +67,7 @@
 * [Wie ihr den AppLocker härtet wird euch hier erklärt.](https://4sysops.com/archives/hardening-applocker/)
 * [PuTTY wurde in der Version 0.74 veröffentlicht.](https://www.planet3dnow.de/cms/56559-putty-0-74/)
 * [Blender wurde in der Version 2.83.1 veröffentlicht.](https://www.planet3dnow.de/cms/56557-blender-2-83-1/)
+* [Schau an TikTok liest die Zwischenablage auf dem iPhone aus und statt es direkt Apple zu melden nutzen sie diese Information für sich.](https://netzpolitik.org/2020/video-app-tiktok-liest-aus-was-menschen-auf-dem-iphone-in-die-zwischenablage-kopiert-haben/)
+* [Nun also als U-Boot getarnte Evangelen versprechen den armen und gläubigen Indigenen Völker eine Wundermedizin. So rottet man, ganz human, unter dem Auge der Öffentlichkeit weiterhin die Ureinwohner aus.](https://netzfrauen.org/2020/06/27/peru/)
+* [Was passiert, wenn man nicht mit seinen (Zwangs)-Kunden redet könnt ihr vom ARD-Chef lesen, der ist der Meinung, dass seine Kunden alles lieben was sie machen.](https://www.golem.de/news/ard-chef-die-leute-lieben-das-was-wir-machen-und-zwar-alles-2006-149333.html)
+* [`HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows\WindowsUpdate\TargetReleaseVersion:1` und `HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows\WindowsUpdate\TargetReleaseVersionInfo:2004`](https://www.ghacks.net/2020/06/27/you-can-now-set-the-target-windows-10-release-in-professional-versions/)
