@@ -6,3 +6,8 @@
 * [Wer ist mit fast 20 Prozent besser als alle Mitbewerber im freien Markt? Nextcloud!](https://cloud.bazzline.net/index.php/apps/news/#/items/unread)
 * [Die Abgeordneten im Europäischen Parlament müssen Apples iVote nutzen, mit Apple-Gerät und Apple-Konto.](https://netzpolitik.org/2020/ivote-eu-abgeordnete-kritisieren-neue-abstimmungs-app/) - Ein Unternehmen der USA bestimmt somit wie gewählt wird, was kann da schon passieren!
 * [Der Leiter es operativen Geschäfts von Wirecard ist sich so sicher über seine "Buchhaltertricks", dass er lieber in einem Land bleibt das kein Auslieferungsabkommen mit Deutschland hat.](https://blog.fefe.de/?ts=a0076f37)
+* [Hier wird euch gezeigt wie ihr mit der PowerShell alle bekannten PCs ausgebt und filtert.](https://sid-500.com/2019/07/30/powershell-retrieve-list-of-domain-computers-by-operating-system/)
+* [Der Verfassungsblog stellt sich die Frage wer so ein Lockdown bezahlt, wenn es von einer Fabrik/Firma ausgeht](https://verfassungsblog.de/haftung-auf-umwegen/)
+* [Hier werden euch 10 Werkzeuge für ReactJS vorgestellt.](https://opensource.com/article/20/6/reactjs-tools)
+* [Lua wurde in der Version 5.4 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=Lua-5.4-Released)
+* [GnuCash wurde in der Version 4.0 veröffentlicht.](https://lwn.net/Articles/824721/rss)
