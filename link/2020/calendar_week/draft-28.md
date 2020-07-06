@@ -17,3 +17,4 @@
 * [Hier werden euch verschiedene Open-Source Test-Automatisierungs-Frameworks vorgestellt.](https://opensource.com/article/20/7/open-source-test-automation-frameworks)
 * [Der Universal Media Server wurde in der Version 9.7.1 veröffentlicht.](https://www.planet3dnow.de/cms/56691-universal-media-server-9-7-1/)
 * [Mit Warden in Android Tracking- und Logging-Dienste den Weg nach Hause abschneiden.](https://www.kuketz-blog.de/warden-tracker-aus-android-apps-entfernen/) - Was für ein Aufwand getrieben werden muss, damit man bei Android ein wenig Herr seiner Daten bleibt, abartig!
+* [>>Was haben Sie eigentlich gemacht, als die Polizei George Floyd ermordet hat?<< >>Ich habe ein paar wichtige Konstanten umbenannt!<<](https://blog.fefe.de/?ts=a1fdf387)
