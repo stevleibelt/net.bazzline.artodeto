@@ -67,3 +67,6 @@
 * [>>Welt-im-Wandel.TV - Die Welt anders sehen. Manipulierte Zahlen? – Die ganze Wahrheit über die Virus-Statistik - Ein Arzt spricht Klartext<<](https://www.welt-im-wandel.tv/video/manipulierte-zahlen-die-ganze-wahrheit-ueber-die-virus-statistik-ein-arzt-spricht-klartext/)
 * [Wisst ihr warum der Klimaschutz so ungern umgesetzt wird? Weil man mit dem Klimaschutz gleichzeitig die Bevölkerung gesunden lassen würden und an einer gesunden Bevölkerungen verdient doch keiner was!](https://www.sonnenseite.com/de/umwelt/klimaschutz-ist-gesundheitsschutz.html)
 * [Nachhaltigkeit? Nicht mit der Deutschen Bank.](https://netzfrauen.org/2020/07/11/deutsche-bank-4/)
+* [Was würde die Überbevölkerung der Städte und das Sterben der "Landbevölkerung" stoppen? Genau, ein gescheiter öffentlicher Nah- und Fernverkehr.](https://www.sonnenseite.com/de/mobilitaet/das-comeback-der-schiene-geht-in-die-nchste-runde.html) - Aber wer will das schon, die Wohnungen in den Großstädten gehören großen Konzernen und deren Gewinn ist wichtiger als das Glück des eigenen Volks.
+* [Linus Torvalds redet Tacheles über AVX 512.](https://www.phoronix.com/scan.php?page=news_item&px=Linus-Torvalds-On-AVX-512)
+* [Hier gibt es ein paar Beispiele wie ihr mit `Get-ADComputer` eure Domain nach Geräten durchsucht.](https://www.powershellbros.com/get-ad-computer-examples/)
