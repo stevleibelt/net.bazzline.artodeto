@@ -30,3 +30,17 @@
 * [VirtualBox wurde in der Version 6.1.12 veröffentlicht.](https://www.planet3dnow.de/cms/56845-virtualbox-6-1-12/)
 * [Auf der Dichröhre gibt es demnächst mehr Werbung.](https://www.golem.de/news/videoportal-youtube-will-mehr-werbepausen-2007-149668.html)
 * [>>That's it. That's the story. Popular modern technology is taken over by expats from a megacorp and made worse in the service of a hyper-specialized (and just plain over-hyped) orchestration platform. That's the world today.<<](https://www.roguelazer.com/2020/07/etcd-or-why-modern-software-makes-me-sad/) - Googles "Geschäftsgebaren" schön zusammen gefasst. Google interessiert sich nen scheiß ob du mit deren Änderung zufrieden bist oder deren "Das Produkt reift bei dem Kunden"-Versionsgespring gut findest. Danke an [Hackernews](http://n-gate.com/hackernews/2020/07/14/0/) für den Link.
+* [Meyer Burger will in Freiberg das Loch von Solarworld füllen.](https://www.sonnenseite.com/de/wirtschaft/solarindustrie-kommt-zurck-nach-deutschland.html)
+* [Verdammt USA, die verbrennen Tiere wo Corona ausgebrochen ist.](https://netzfrauen.org/2020/07/15/covid-19-2/) - Das zeigt so deutlich wie weit sich die Menschen emotional von den Lebenwesen Tier abgekoppelt haben.
+* [>>[...] Es kann nicht sein, dass BKA und Verfassungsschutz auch ohne konkreten Verdacht auf eine Straftat Internetnutzer ausspionieren dürfen. [...] eil ich eine Protestseite gegen die Bestandsdatenauskunft ins Netz gestellt habe, landete mein Name vollkommen zu Unrecht in der bundesweiten Polizeidatenbank für ‚Cybercrime‘. [...]<<](https://www.patrick-breyer.de/?p=592077)
+* [Microsoft Outlook ist kaputt.](https://www.bleepingcomputer.com/news/microsoft/microsoft-outlook-is-crashing-worldwide-with-0xc0000005-errors-how-to-fix/)
+* [Realitätsabgleich Duales-System und Recycling in Deutschland. Deutschland verfehlt die EU-Sammelquote.](https://www.sonnenseite.com/de/umwelt/elektroschrott-deutschland-verfehlt-eu-sammelquote-von-45-prozent-knapp.html)
+* [Danke Max Schrem für deinen Kampf, das EuGH musste erklären, dass der Privacy Shield genau so ein Müll wie Safe Harbour ist. Solange eine NSA oder Andere über dem Gesetzt schweben, so lange sind unsere Daten Freiwild.](https://netzpolitik.org/2020/eugh-zum-privacy-shield-schuld-ist-das-system-der-massenueberwachung/)
+* [Kanal9TV: Impressionen Erlebnis Shopping in Freiberg](https://www.youtube.com/watch?v=0lO9DhQ5M7k)
+* [Kanal9TV: Neue Akkuladestation in Freiberg](https://www.youtube.com/watch?v=Yn9q1Tqqalc)
+* [Kanal9TV: Tipps für den Sommerurlaub in Freiberg](https://www.youtube.com/watch?v=1VWCC-gsg7I)
+* [Notepad++ wurde in der Version 7.8.9 veröffentlicht.](https://notepad-plus-plus.org/downloads/v7.8.9/)
+* [Pine64 hat einen Monatseintrag geschrieben der sich gewaschen hat.](https://www.pine64.org/2020/07/15/july-updatepmos-ce-pre-orders-and-new-pinephone-version/)
+* [Mobian, Debian fpr mobile.](https://mobian-project.org/)
+* [Immer wieder ein Blick wert, digitale Wahlen im "Land of the Free".](https://blog.fefe.de/?ts=a1eef742)
+* [Fabio De Masi hat seine Rede vor dem Bundestag bezüglich Wirecard vom 02.07.2020 zum lesen online gestellt.](https://www.linksfraktion.de/nc/parlament/reden/detail/fabio-de-masi-wirecard-skandal-wir-haben-als-erste-gewarnt/)
