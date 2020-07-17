@@ -44,3 +44,13 @@
 * [Mobian, Debian fpr mobile.](https://mobian-project.org/)
 * [Immer wieder ein Blick wert, digitale Wahlen im "Land of the Free".](https://blog.fefe.de/?ts=a1eef742)
 * [Fabio De Masi hat seine Rede vor dem Bundestag bezüglich Wirecard vom 02.07.2020 zum lesen online gestellt.](https://www.linksfraktion.de/nc/parlament/reden/detail/fabio-de-masi-wirecard-skandal-wir-haben-als-erste-gewarnt/)
+* [Android ist kaputt.](https://www.bleepingcomputer.com/news/security/new-android-malware-steals-your-dating-and-social-accounts/)
+* [Wisst ihr was richtig gut ist am Gemüse von weit, weit weg? Die setzen Antibiotika in Massen ein. Völlig überraschend als, dass die Bevölkerung der westlichen Welt auf einmal Antibiotikaresistenz wird.](https://netzfrauen.org/2020/07/17/antibiotika/)
+* Die DENIC betreibt auch gern Bauernfängerein, wenn ihr eine Domain auslaufen lasst, kriegt ihr eine Rechnung von der DENIC über 58 Euro pro Jahr. Wohlgemerkt für eine Domain die sonst rund fünf Euro pro Jahr zahlt. Nach einem Telefonat mit der Servicehotline stellt sich raus, dass diese Rechnung eigentlich ein Angebot ist. Zahlt man nicht, passiert nichts und die Domain wird zurück in den Domainpool geführt. Warum man Rechnung statt Angebot schreibt konnte mir die nette Frau am Telefon nicht erklären.
+* [Die Bundesregierung möchte europaweit mehr Polizei, mehr Bürgerspionage und mehr Datensammelwut.](https://netzpolitik.org/2020/bundesregierung-fuer-europaeische-polizeipartnerschaft/)
+* [Nextcloud wurde in den Version 18.0.7 und 17.0.8 veröffentlicht.](https://nextcloud.com/blog/first-19-update-plus-18-0-7-and-17-0-8/)
+* [ProcDump gibt es jetzt auch unter Linux.](https://opensource.com/article/20/7/procdump-linux)
+* [Stellt sich heraus, das begradigen und einengen der Flüsse ist schlecht. Jetzt fließt das Wasser zu schnell an der Erde vorbei, so dass diese kein Wasser mehr aufnehmen und speichern kann.](https://www.sonnenseite.com/de/umwelt/anhaltende-drre-erfordert-paradigmenwechsel-knftig-mehr-wasser-in-der-landschaft-halten.html)
+* [Hamburg und Schleßwig-Hollstein rollen Matrix für die Behörden aus.](https://www.golem.de/news/messenger-schleswig-holstein-will-matrix-chat-fuer-verwaltung-2007-149687.html)
+* [Die Stadt Bühl nutzt Jitsi.](https://netzpolitik.org/2020/interview-wie-freie-software-die-menschen-im-badischen-buehl-begeistert/)
+* [Hier gibt es einen langen Artikel darüber wie Wissenschaft]
