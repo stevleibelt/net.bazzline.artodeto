@@ -54,3 +54,9 @@
 * [Hamburg und Schleßwig-Hollstein rollen Matrix für die Behörden aus.](https://www.golem.de/news/messenger-schleswig-holstein-will-matrix-chat-fuer-verwaltung-2007-149687.html)
 * [Die Stadt Bühl nutzt Jitsi.](https://netzpolitik.org/2020/interview-wie-freie-software-die-menschen-im-badischen-buehl-begeistert/)
 * [Hier gibt es einen langen Artikel darüber wie Wissenschaft]
+* [Debian wurde in de rVersion 9.13 veröffentlicht.](http://www.phoronix.com/scan.php?page=news_item&px=Debian-9.13-Stretch-Released)
+* [China sterilisiert kurzerhand Bevölkerungsgruppe die es nicht mag.](https://netzfrauen.org/2020/07/18/uiguren/)
+* [Google is evil, ein weiterer Schritt, google bestimmt jetzt was Fake News ist und was nicht.](https://www.golem.de/news/fake-news-keine-google-werbung-fuer-corona-verschwoerungsmythen-2007-149733-rss.html) - Das ist für mich auch der ganze Grund warum die gleichgeschalteten Medien so lange über das Thema Fake News berichtet haben. So hat man die Bevölkerung darauf vorbereitet, dass man mal etwas dagegen machen muss.
+* [Cloudflare ist kaputt.](https://www.golem.de/news/internet-konfigurationsfehler-nimmt-cloudflare-dienste-offline-2007-149729-rss.html)
+* [Microsofts Procmon gibt es jetzt für Linux.](https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-open-source-linux-version-of-procmon-tool/)
+* [Realitätsabgleich Bill Gates und seine Stiftung die die Menschheit kaputtimpfen will.](https://npr.news.eulu.info/2020/07/17/nur-ein-kleiner-piekser-die-geschichte-von-bill-gates-teil-1/)
