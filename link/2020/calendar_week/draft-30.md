@@ -16,3 +16,4 @@
 * [Nein? Doch! Oh? Brasilien exportiert immer mehr Fleisch und Soja und nun kommt heraus dass fast 20 Prozent des abgeholzten Regenwaldes illega abgeholzt wurden. Und von den restlichen 80 Prozent wurden die Besitzer halt vertrieben oder getötet - tja, da kann man nichts gegen machen.](https://www.sonnenseite.com/de/wirtschaft/brasilien-noch-viele-schmutzige-agrar-exporte.html)
 * [9,2 Milliarden USD ist ebay Kleinanzeigen wert.](https://www.golem.de/news/adevinta-ebay-verkauft-kleinanzeigenmarkt-fuer-9-2-milliarden-dollar-2007-149777.html) - Niemand hat sie Absicht mit euren Nutzerdaten Geld zu machen.
 * [`net helpmsg <errorcode>` oder `winrm helpmsg <errorcode>`](https://www.windowspro.de/tool/fehlermeldungen-windows-10-auswerten-microsoft-error-lookup-tool)
+* [arch linux: aus jellyfin-bin wird bald jellyfin-web-bin und jellyfin-server-bin.](https://aur.archlinux.org/packages/jellyfin-bin/)
