@@ -19,3 +19,4 @@
 * [Sichere Krypto ist kompliziert und das Vertrauensproblem kann nicht wegautomatisiert werden.](https://blog.fefe.de/?ts=a1e87b6f) - Deswegen nur Krypto mit Personen nutzen mit dem ihr persönlich den Schlüssel/das Zertifikat tauschen könnt
 * [Auch /e scheint nicht so gut zu sein wie sie von sich selbst behaupten.](https://www.kuketz-blog.de/e-eine-datenschutzfreundliche-android-alternative/)
 * [Genau was die Welt braucht, statt mal offen über Autos und "Warum brauchen wir im Alltag 1000 NM" zu reden, hauen wir Elektronik drauf damit selbst der dümmste Einzeller mit Vollgas fahren kann bis die Elektronik an ihre Grenzen kommt.](https://www.golem.de/news/audi-e-tron-s-sportback-stark-schnell-idiotensicher-2007-149781.html)
+* [arch linux: aus jellyfin-bin wird bald jellyfin-web-bin und jellyfin-server-bin.](https://aur.archlinux.org/packages/jellyfin-bin/)
