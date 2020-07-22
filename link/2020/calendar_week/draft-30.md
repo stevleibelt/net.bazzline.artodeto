@@ -20,3 +20,16 @@
 * [Auch /e scheint nicht so gut zu sein wie sie von sich selbst behaupten.](https://www.kuketz-blog.de/e-eine-datenschutzfreundliche-android-alternative/)
 * [Genau was die Welt braucht, statt mal offen über Autos und "Warum brauchen wir im Alltag 1000 NM" zu reden, hauen wir Elektronik drauf damit selbst der dümmste Einzeller mit Vollgas fahren kann bis die Elektronik an ihre Grenzen kommt.](https://www.golem.de/news/audi-e-tron-s-sportback-stark-schnell-idiotensicher-2007-149781.html)
 * [arch linux: aus jellyfin-bin wird bald jellyfin-web-bin und jellyfin-server-bin.](https://aur.archlinux.org/packages/jellyfin-bin/)
+* Eine Frage zum Verständnis, warum baut man in ein KFZ immer mehr Monitore ein? Knöpfe kann ich erfühlen und muss nicht hinschauen und generell, sollte mein Blick nicht auf die Straße statt den Monitoren ruhen?
+* [FeFe hat sich den neusten Michael Moore Film angeschaut.](https://blog.fefe.de/?ts=a1e948e1)
+* [Das ist mir auch vom Schrim gerutscht, das BKA begeht Hausfriedensbruch in eurem Schmierphone und zeigt keine Reue, da es ja gestzlich keine Quellen-TKÜ ist.](https://blog.fefe.de/?ts=a1e9841e) - Wegen solcher Haarspalterei vertraut man niemanden mehr. Macht euch mal gerade und zeigt Schneid!
+* [Laut Bosch stecken in den heutigen Autos mehrere 100.000 Zeilen Code.](https://www.golem.de/news/17-000-mitarbeiter-bosch-gruendet-riesige-software-unternehmenseinheit-2007-149797.html) - Für mich ein Grund mehr sich Richtung Lada Niva zu orientieren.
+* [Tansania hat exemplarisch zwei Wilderer zu 30 Jahren Haft verdonnert.](https://netzfrauen.org/2020/07/21/malawi-2/)
+* [Notepad++ wurde in der Version 7.8.9 veröffentlicht.](https://www.planet3dnow.de/cms/56983-notepad-7-8-9/)
+* [Aller 20 Minuten greift Google einmal alle wichtigen Daten von eurem Schmierphone ab.](https://www.kuketz-blog.de/take-back-control-googles-datensammelwut-unter-android-einschraenken/) - Mit NetGuard, AFWall+ und Blokada könnt ihr etwas dagegen unternehmen.
+* [Für alle PostmarkOS nutzer auf euren 32 Bit Systemen: `apk upgrade -U -a`](https://postmarketos.org/blog/2020/07/21/breaking-update-in-edge/)
+* [PDF ist weiterhin kaputt.](https://www.golem.de/news/sicherheitsluecke-pdf-signaturen-immer-noch-unsicher-2007-149802.html)
+* [Thunderbird wurde in der Version 78.0.1 veröffentlicht.](https://www.ghacks.net/2020/07/22/thunderbird-78-0-1-has-been-released/)
+* [Wisst ihr was wir in den Zeiten von wenig Kontrast auf der UI brauchen? Genau, noch weniger Kontrast!](https://www.golem.de/news/benutzeroberflaeche-so-soll-das-neue-microsoft-office-aussehen-2007-149799.html)
+* [`Universal Function Call Syntax`, eine Funktionalität in D die es gern in viele Programmiersprachen schaffen kann.](https://opensource.com/article/20/7/d-programming)
+* [Die Free Software Foundation meckert zu recht als dass den Studenten (und auch den Kunden) keine Wahl beim Thema "digitales Studium" gelassen werden.](https://my.fsf.org/give-students-userfreedom) - Im Regelfall muss man irgend eine propreitäre Software installieren oder Nutzen und verliert damit auch die Hoheit auf seine Daten.
