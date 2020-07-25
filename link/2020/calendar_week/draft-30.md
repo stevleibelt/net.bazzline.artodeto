@@ -42,3 +42,7 @@
 * [Sehr gut, Fahrer in Groß Britanien klagen die Datenauskunft gegenüber Uber aus.](https://netzpolitik.org/2020/uber-fahrer-wollen-transparenz-ueber-daten-und-algorithmen/)
 * [>>Das Schleswig-Holsteinische Oberverwaltungsgericht hat heute zugunsten einer Veröffentlichung der bisher geheim gehaltenen Rechtsgutachten der Landtagsjuristen geurteilt (Az. 4 LB 45/17). Diese Gutachten sind brisant, weil aus ihnen Rechts- und Verfassungsverstöße von Regierung und Landtag hervor gehen können.<<](https://www.patrick-breyer.de/?p=592389)
 * [Hier arbeitet jemand für die Gesellschaft und löscht Datenbanken die ohne Passwort durch die Welt laufen.](https://www.bleepingcomputer.com/news/security/new-meow-attack-has-wiped-over-1-800-unsecured-databases/)
+* [>>Das goldene Kalb namens Digitalisierung<<](https://www.peira.org/das-goldene-kalb-namens-digitalisierung/)
+* [Realitätsabgleich des billigen Blutgemüses, Blutobsts und Blutfleisch aus Afrika.](https://netzfrauen.org/2020/07/24/landgrabbing-2/)
+* [Bison wurde in der Version 3.7 veröffentlicht.](https://lwn.net/Articles/826988/rss)
+* [digiKam wurde in der Version 7.0.0 veröffentlicht.](https://lwn.net/Articles/826970/rss)
