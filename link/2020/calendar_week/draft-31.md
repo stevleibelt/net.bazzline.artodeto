@@ -23,3 +23,12 @@
 * [In den USA gibt es "private Netzwerke von Sicherheitskameras" und wer hätte sich das gedacht, die Polizei nutzt diese im Dauermodus zur Echtzeitüberwachung.](https://netzpolitik.org/2020/san-francisco-polizei-ueberwachte-proteste-mit-privatem-kameranetzwerk/)
 * [In Portland gibt es jetzt auch eine "Wall of Moms".](https://netzfrauen.org/2020/07/28/portland/)
 * [Hier wird euch gezeigt wie ihr Microsoft Windows mit Ansible automatisiert, ohne Netzwerk!](https://4sysops.com/archives/automate-windows-without-network-connectivity-with-ansible/)
+* [Verstehe ich nicht, BMW erhält Steuergelder um 2022 eine Abteilung für die Akkuforschung aufzubauen und die Ergebnisse rein privat nutzen zu können.](https://www.golem.de/news/staatliche-foerderung-bmw-erhaelt-60-millionen-euro-fuer-akkuforschung-2007-149953.html) - Da wird BWM also belohnt, dass sie einen ganzen Forschungs- und Technikzweig in ihrer Branche verschlafen haben
+* [Die Jungs und Mädels hinter dem PinePhone wollen jetzt eine Slider-Tastatur wie vom N900 anbieten, ich geh kapot!](https://www.pine64.org/2020/07/29/invitation-to-play-along/)
+* [Ab dem 3. August 2020 wird Microsoft SHA-1 durch SHA-2 ersetzen.](https://www.bleepingcomputer.com/news/microsoft/microsoft-to-remove-all-windows-downloads-signed-with-sha-1/)
+* [Nein? Doch! Oh? Nach dem ersten Schnellschuss der Corona Warnapp ist Ruhe von Seiten der Telekom und SAP, Fehlerbehebungen werden als Funktionserweiterungen verkauft und sollen extra abgerechnet werden.](https://netzpolitik.org/2020/kommentar-die-corona-warn-app-hat-ein-kommunikationsproblem/)
+* [Das wäre von Anfang an mein "Verkaufsargument" für die Maskenpflicht gewesen - das Tragen einer MAske hilft gegen Überwachung weil die Gesichtserkennungssoftware damit nicht umgehen kann.](https://netzpolitik.org/2020/studie-masken-schuetzen-nicht-nur-vor-corona-sondern-auch-gegen-ueberwachung/)
+* [Durch die Steuerbehörde von Vermont wurden Steuerdaten aus drei Jahren der Gemeinschaft überführt.](https://www.bleepingcomputer.com/news/security/vermont-tax-department-exposed-3-years-worth-of-tax-return-info/)
+* [Docker ist kaputt.](https://www.bleepingcomputer.com/news/security/sneaky-doki-linux-malware-infiltrates-docker-cloud-instances/)
+* [Zoom ist kaputt.](https://www.bleepingcomputer.com/news/security/zoom-bug-allowed-attackers-to-crack-private-meeting-passwords/)
+* [GRUB2 ist kaputt - Codename BootHole.](https://www.phoronix.com/scan.php?page=news_item&px=BootHole-GRUB2-Secure-Boot)
