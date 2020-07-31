@@ -32,3 +32,13 @@
 * [Docker ist kaputt.](https://www.bleepingcomputer.com/news/security/sneaky-doki-linux-malware-infiltrates-docker-cloud-instances/)
 * [Zoom ist kaputt.](https://www.bleepingcomputer.com/news/security/zoom-bug-allowed-attackers-to-crack-private-meeting-passwords/)
 * [GRUB2 ist kaputt - Codename BootHole.](https://www.phoronix.com/scan.php?page=news_item&px=BootHole-GRUB2-Secure-Boot)
+* [>>Vom Cum-Ex-Steuerraub über Fall Amthor bis Wirecard das gleiche Bild<<](https://weltnetz.tv/ticker/2381-vom-cum-ex-steuerraub-ueber-fall-amthor-bis-wirecard-das-gleiche-bild)
+* [Kanal9TV: Schauplatz Eisenbahn in Chemnitz-Hilbersdorf](https://www.youtube.com/watch?v=n_4RJCqqSJc)
+* [Schauplatz-eisenbahn.de in Chemnitz-Hetzdorf.](https://www.schauplatz-eisenbahn.de/)
+* [TrickBot infiziert jetzt auch Linux Maschinen.](https://www.bleepingcomputer.com/news/security/linux-warning-trickbot-malware-is-now-infecting-your-systems/)
+* [Nein? Doch! Oh? Entweder sind die Spendengelder zu gering oder die Politiker in den USA haben vergessen genug Aktien zu kaufen. Ihnen ist Aufgefallen das be evil, hackfressenbuch, apfel und amazonas eine Monopolmacht inne haben und diese schändlicherweise auch noch ausnutzen.](https://netzpolitik.org/2020/big-tech-vor-us-kongress-wenn-universen-aufeinanderprallen/) - Achso und eigentlich sind nur Wahlen.
+* [OPNSense wurde in der Version 20.7 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=OPNsense-20.7-Released)
+* [>>[...] EDV-Kaufmann war das Berufsbild der Wahl, doch dafür braucht man gute Mathenoten - und die hatte Fischer nicht. Also lernte er Bankkaufmann.[...] <<](https://www.golem.de/news/sysadmin-day-2020-du-kannst-doch-computer-2007-149946.html)
+* [Anvil, ein freies Web-Framework mit dem man mit nur Python eine Webseite bauen kann.](https://opensource.com/article/20/7/why-open-source)
+* [Blotbox kann jetzt nativ Powershell Skripte ausführen.](http://www.mirinsoft.com/blog/19-apps/37-blotbox-supports-now-powershell-scripting-with-presets-for-reinstalling-all-built-in-apps-and-many-more)
+* [`journal-brief` schreibt euch eine E-Mail wenn euer systemd journal etwas gefährliches aufzeichnet.](https://opensource.com/article/20/7/systemd-journals-email)
