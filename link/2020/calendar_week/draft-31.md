@@ -50,3 +50,5 @@
 * [Mit PS2EXE ein Powershell Skript zu einer Exe wandeln? Ja das geht!](https://sid-500.com/2020/07/31/powershell-convert-ps1-files-to-exe-files/)
 * [SAP und Telekom verkacken in Deutschland. Was machen Firmenchefs? Probleme lösen? Nein, weiter und zusammen für Europa mit Anlauf verkacken.](https://tuxproject.de/blog/2020/07/deutsche-wertarbeit/)
 * [Eine Millionen DNA-Sequenzen wurden der Gemeinschaft überführt.](https://www.buzzfeednews.com/article/peteraldhous/hackers-gedmatch-dna-privacy)
+* [Debian wurde in der Version 10.5 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=Debian-10.5-Released)
+* ["Ticker" oder "Sleep", hier werden in Kürze die Vor- und Nachteile geschildert.](https://utcc.utoronto.ca/~cks/space/blog/programming/TickersVersusSleeping)
