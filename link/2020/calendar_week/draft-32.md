@@ -1,1 +1,5 @@
 * [Github Actions, also RPCs auf anderer Leuten Computer die Dinge tun - richtig gutes Zeug.](https://devopsdirective.com/posts/2020/07/stupid-github-actions/)
+* [Hier gibt es eine Karte wie viele Böden der Welt schon mit Glyphosat verseucht sind.](https://netzfrauen.org/2020/08/03/glyphosat-6/) - Es ist überall, dieses Gift!
+* [Libinput wurde in der Version 1.16 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=Libinput-1.16-Released)
+* [Nein? Doch! Oh? Es braucht eine Umfrage um zu erkennen, dass Schüler wieder in die Schule wollen.](https://www.bildung.sachsen.de/blog/index.php/2020/08/03/schueler-wollen-wieder-in-die-schule-ergebnisse-der-leipziger-corona-schulstudie-liegen-vor/) - Und die Wahrheit ist auch, Eltern werden eine zweite politische Coronawelle mit Kindern zu Hause nur beschadet überstehen.
+* [>>[...] Boah die Linken immer, mit Idealismus, Ethik und Moral. 7000 Euro! Da würde sich ein typischer CSU-Politiker nicht mal für bücken, um das aufzuheben. Da haben die Personal für. [...]<<](https://blog.fefe.de/?ts=a1d935f0)
