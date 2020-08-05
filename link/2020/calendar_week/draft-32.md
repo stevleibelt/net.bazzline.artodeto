@@ -12,3 +12,8 @@
 * [Lol, Twitter nutzt die Datenm der 2FA für Werbung.](https://netzpolitik.org/2020/twitter-drohen-bis-zu-250-millionen-dollar-strafe-weil-es-telefonnummern-fuer-werbung-nutzte/)
 * [Die Alarmanlagen von Abus sind kaputt.](https://blog.fefe.de/?ts=a1d7f967) - War die Software, da kann man nichts machen.
 * [Da treibt der freie Markt wieder eine Sau durchs Dorf. Die Bürger sollen sich freuen, dass nich alle Bürgerdaten über das Internet abrufbar sind. Ansonsten fehlt in der IT der Gemeinden und Städten das Geld, es ist Infrastruktur und die wird von Berlin aus kaputtgespart.](https://www.golem.de/news/it-in-behoerden-modernisierung-unerwuenscht-2008-148846.html)
+* [HCL Notes und HCL Domino wurde in der Version 11.0.1 FP1 veröffentlicht.](https://n-komm.de/hcl-notes-und-domino-11-0-1-fp1-erschienen/)
+* [Die Volksverräter der Blockpartei (CDU/CSU/SPD/FDP) nutzen ihre aktuelle Macht in der EU und fordern erneut Europol zum europäischen FBI umzubauen.](https://netzpolitik.org/2020/europol-verordnung-plaene-fuer-ein-europaeisches-fbi/)
+* [Die Türkei nutzt die deutschen Gesetze zur Zensur um zu zeigen wie viel Zensur machbar ist.](https://netzpolitik.org/2020/tuerkisches-internet-gesetz-die-bislang-schlimmste-kopie-des-deutschen-netzwerkdurchsetzungsgesetzes/)
+* [Der Postillon macht das, was man von Medien wünscht.](https://www.der-postillon.com/2020/08/beirut.html)
+* [Beirut zeigt was es für eine tolle Idee von der magischen Hand des freien Marktes ist, Dinge in großen Stückzahlen zentral zu lagern.](https://netzfrauen.org/2020/08/05/beirut/)
