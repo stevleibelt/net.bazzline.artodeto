@@ -73,3 +73,5 @@
 * [Microsoft will WSL 2 auch für Windows 10 1903 und 1909 ausrollen.](https://www.bleepingcomputer.com/news/microsoft/wsl2-now-rolling-out-to-devices-running-windows-10-1903-and-1909/) - `wsl -l -v` um die aktuelle Version zu prüfen und `wsl --set-version <name> 2` um auf die WSL 2 Version zu migrieren
 * [`[Net.ServicePointManager]::SecurityProtocol = [Net.SecurityProtocolType]'Tls11,Tls12'` wenn ihr eine PowerShell kleiner Version 6 nutzt.](https://www.windowspro.de/tipp/invoke-webrequest-es-konnte-kein-geschuetzter-ssltls-kanal-erstellt-werden)
 * [>>Die Tatsache, dass Tesla eine Sitzlehne verwendet, die so unsicher wie ein Gartenstuhl ist, ist das beste Beispiel dafür, dass wir unsere Sicherheitsstandards überdenken müssen<<](https://www.golem.de/news/unsicher-wie-ein-gartenstuhl-tesla-sitz-bei-unfall-nach-hinten-weggeknickt-2008-150404.html) - Das ist das Resultat im Zeitalter der Blender.
+* [Be-Evils Browser macht aktiv die DNS Infrastruktur kaputt.](https://blog.fefe.de/?ts=a1c10954)
+* [Die USA erklären uns kurz die Welt - Wir sind die Guten!](https://blog.fefe.de/?ts=a1c171de)
