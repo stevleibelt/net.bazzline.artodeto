@@ -1,0 +1,10 @@
+* [Die >>FrOSCon Cloud Edition 2020<< fand am Wochenende statt.](https://events.ccc.de/2020/08/21/froscon-cloud-edition-2020/)
+* [Cookie AutoDelete wurde in der Version 3.5.0 veröffentlicht.](https://www.ghacks.net/2020/08/21/cookie-autodelete-3-5-0-extension-gets-massive-cleanup-improvements/)
+* [Der Computer hatte in Österreich für ein Jahr entschieden wer Förderungswürdig ist und wer nicht - zum Glück fanden das Menschen mit aktivem Gehirn schlecht.](https://netzpolitik.org/2020/oesterreich-ams-datenschutzbehoerde-stoppt-jobcenter-algorithmus/)
+* [TypeScript wurde in der Version 4.0 veröffentlicht.](https://www.golem.de/news/microsoft-typescript-version-4-0-veroeffentlicht-2008-150408.html)
+* [Wisst ihr wo wir dringend mehr Werbung und geflacker brauchen damit sich die Augen und der Geist nicht erholen kann? Genau! In einer völlig überfüllten U-Bahn die unterirdisch fährt.](https://www.golem.de/news/display-technologie-lg-installiert-transparente-oled-fenster-in-u-bahnen-2008-150410.html)
+* [Meine "Milchpulver"-Fabrik in Frankreich von Nestle führt zu massenhaften Tiersterben um die Fabrik.](https://netzfrauen.org/2020/08/21/nestle-17/)
+* [Freepik und Flaticons haben der Gemeinschaft 8,3 Millionen Datensätze zur Verfügung gestellt.](https://www.bleepingcomputer.com/news/security/freepik-data-breach-hackers-stole-83m-records-via-sql-injection/)
+* [Ach schau an, scheinbar hat Hackfressenbuch so Palaver wegen TikTok gemacht. Klar, die magische Hand des freien Marktes hat keine Angst vor Innovationen ;-).](https://blog.fefe.de/?ts=a1bc3e39)
+* [XUL war scheinbar komplizierter als gedacht.](https://utcc.utoronto.ca/~cks/space/blog/links/MozillaWhyNoXULAddons) - Nachdem ich diesen Artikel gelesen hab muss ich mich bei den Entwicklern von Mozilla entschuldigen. Als Endanwender schien es mir nur so als wollte Mozilla versuchen mit den WebExtensions so viele Chrome Entwickler wie möglich zu gewinnen.
+* [Onlineklausuren an Unis? Geht natürlich nur mit Spionagesoftware.](https://netzpolitik.org/2020/proctoring-hochschule-ueberwacht-studierende-bei-online-klausuren/) - Liest doch ehh keiner die AGBs.
