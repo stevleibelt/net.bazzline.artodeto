@@ -8,3 +8,13 @@
 * [Ach schau an, scheinbar hat Hackfressenbuch so Palaver wegen TikTok gemacht. Klar, die magische Hand des freien Marktes hat keine Angst vor Innovationen ;-).](https://blog.fefe.de/?ts=a1bc3e39)
 * [XUL war scheinbar komplizierter als gedacht.](https://utcc.utoronto.ca/~cks/space/blog/links/MozillaWhyNoXULAddons) - Nachdem ich diesen Artikel gelesen hab muss ich mich bei den Entwicklern von Mozilla entschuldigen. Als Endanwender schien es mir nur so als wollte Mozilla versuchen mit den WebExtensions so viele Chrome Entwickler wie möglich zu gewinnen.
 * [Onlineklausuren an Unis? Geht natürlich nur mit Spionagesoftware.](https://netzpolitik.org/2020/proctoring-hochschule-ueberwacht-studierende-bei-online-klausuren/) - Liest doch ehh keiner die AGBs.
+* [`lsusb -D /dev/bus/usb/... | more`](https://opensource.com/article/20/8/usb-id-repository)
+* [An der elektronischen Patientenakte sieht man sehr schön wie weit Weg Berlin von allem ist.](https://www.kuketz-blog.de/elektronische-patientenakte-datenschutzverstoesse-wir-kommen/) - Ach ja und ohne Smartphone (not rooted etc.) geht ehh nichts.
+* [`Projekt-Grundeinkommen`, Kuketz schaut sich einmal deren Datenschutzniveau an ... eher nicht vorhanden.](https://www.kuketz-blog.de/pilotprojekt-grundeinkommen-aeusserst-fragwuerdiges-datenschutzniveau/)
+* [Ohne Schäuble wäre attac weiterhin ein gemeinnütziger Verein. Aber wer will schon Globalisierungskritiker als Verein haben.](https://weltnetz.tv/ticker/2388-fanatiker-schaeuble-reserviert-gemeinnuetzigkeit-fuer-neoliberales-profitsystem)
+* [Woha, beim Uberspace gibt es bald mehr als 10GB Speicher!](https://blog.uberspace.de/u7-storage-performance-update-2/) - Sehr gut und danke für eure genauen Meldungen. Wegen dem "Speicherproblem" hab ich mehrere Benutzerkonten wovon einige gar keine Domain haben sondern nur als Datengrab genutzt werden.
+* [Sachsen informiert welche digitalen Dienste es aktuell für Schüler anbietet und woran gearbeitet wird.](https://www.bildung.sachsen.de/blog/index.php/2020/08/24/plan-b-bei-schulschliessungen/) - Wichtig, ihr braucht kein amerikanski-Video-Datenschnorcheldienst an euren Schulen, Sachsen kann das selber!
+* [Gitee.com als Alternative zu github.com](https://gitee.com/)
+* [Grundwasserverseuchung durch zu vielen Einsatz von Tränengas - geht in den USA!](https://blog.fefe.de/?ts=a1ba3eaa)
+* [Auch der Geheimdienst in Dänemark ist kaputt.](https://blog.fefe.de/?ts=a1ba38df)
+* [Was hat Mexiko im Vergleich zu Deutschland? Bildungsfernsehn in Zeiten der politischen Corona-Problematik.](https://blog.fefe.de/?ts=a1ba36ce)
