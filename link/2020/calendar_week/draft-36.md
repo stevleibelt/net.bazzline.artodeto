@@ -21,3 +21,14 @@
 * [Hier gibt es eine schöne Liste mit Dingen die man nutzen sollte um weg von Google/Hackfressenbuch etc. zu kommen.](https://degoogle.jmoore.dev/)
 * [Mit arwes gibt es etwas mehr kyber auf eurer Webseite.](https://arwes.dev/)
 * [Falls ihr ADA lernen wollt.](https://learn.adacore.com/)
+* [Cisco ist mal wieder kaputt.](https://www.golem.de/news/ios-xr-offene-sicherheitsluecken-bei-cisco-routern-2009-150604-rss.html)
+* [Realitätsabgleich die Stasi bei amazon.](https://netzpolitik.org/2020/neue-studie-so-ueberwacht-amazon-seine-beschaeftigten-in-den-usa/)
+* [28 Billionen Tonnen Eis in 23 Jahren vernichtet. Erderwärmung ftw!](https://www.sonnenseite.com/de/umwelt/in-23-jahren-sind-28-billionen-tonnen-eis-geschmolzen/)
+* [Big be evil separiert weiter das Netz in "Seiten auf meinen Servern und die Anderen".](https://tuxproject.de/blog/2020/09/jetzt-noch-schneller-nicht-fuendig-werden-dank-google/) - Inhalt ist egal, Hauptsache die Seite wird schnell geladen!
+* [Was macht die BaFin neben dieser lästigen und ungewollten Kontrolle der Finanzmärkte? Genau, Aktienhandel!](https://blog.fefe.de/?ts=a1b0ef37) - Gut das da nie ein Interessenskonflikt entstehen kann!
+* [Linux From Scratch wurde in der Version 10.0 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=Linux-From-Scratch-10.0-Release)
+* [WSL2 und wie ihr euren Lamp-Stack darin aufbaut.](https://www.windowspro.de/wolfgang-sommergut/apache-mysql-php-subsystem-fuer-linux-2-wsl2-installieren)
+* [Das Bundesgesundheitsministerium gibt Steuergelder für ein weiteres Gesundheitsportal aus, der Inhalt wird dieses mal offiziell von der Industrie erarbeitet.](https://netzpolitik.org/2020/oeffentlich-finanzierte-alternative-gesundheitsministerium-startet-eigenes-informationsportal/#vorschaltbanner) - 4 Millionen Euro für eine Werbeplattform also.
+* [Mit firewalld und firewall-cmd die Linux Firewall steuern.](https://opensource.com/article/20/9/firewall)
++ [Ant Design - sprache und Richtwerk.](https://ant.design/)
+* [Mit Patternfly HTML Seiten bauen.](https://www.patternfly.org/v4/)
