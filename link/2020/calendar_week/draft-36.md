@@ -32,3 +32,8 @@
 * [Mit firewalld und firewall-cmd die Linux Firewall steuern.](https://opensource.com/article/20/9/firewall)
 + [Ant Design - sprache und Richtwerk.](https://ant.design/)
 * [Mit Patternfly HTML Seiten bauen.](https://www.patternfly.org/v4/)
+* [Die Corona-Demo ist medial so präsent (besonders die angeblichen Rechten oder Alternativen wie Veganer oder Heilpraktiker) und ab heute wissen wir auch warum das medial so aufgebauscht wird - die Blockpartei nutzt dies als Anlass um mal wieder Vorratsdatenspeicherung zu fordern.](https://www.golem.de/news/extremismus-cdu-fordert-nach-corona-demo-vorratsdatenspeicherung-2009-150619-rss.html)
+* [Kanal9TV: Bergfest Sayda 2020](https://www.youtube.com/watch?v=RUklbOIl-1Y)
+* [Sri Lanka sagt jetzt auch nein zum Import von Plastikwaren.](https://netzfrauen.org/2020/09/03/sri-lanka-3/)
+* [>>[...] Eine der ewigen Gesetzmäßigkeiten der Überwachungsdebatte lautet: Wenn irgendwas passiert, wofür es eine politische Verantwortung geben könnte, weil man Sachen versäumt hat, dann fordert die CDU/CSU einfach die Vorratsdatenspeicherung. Mittlerweile auch in Kombination mit dem Staatstrojaner. Das ist immer ein gutes Ablenkungsmanöver. [...]<<](https://netzpolitik.org/2020/grundrechenarten-statt-vorratsdatenspeicherung/#vorschaltbanner)
+* [Be Evil reicht die Digitalsteuer direkt an die Kunden weiter. Wäre ja noch schöner wenn Alphabet und Black Rock auf einen kleinen Teil ihrer Gewinne verzichten müssten.](https://www.golem.de/news/hoehere-preise-google-gibt-digitalsteuer-an-werbekunden-weiter-2009-150638.html)
