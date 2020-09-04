@@ -45,3 +45,10 @@
 * [RunningforShelter hat sein DJ Set Kepotopiva 2020 vom Mittwoch online gestellt.](https://www.mixcloud.com/RunningforShelter/running-for-shelter-kepotopival-2020-wednesday/)
 * [Die Polizei fragt auch in Sachsen-Anhalt unberechtigt Daten von den Bürgern ab ... weil, ja weil die Kontrolle so schwer wäre.](https://www.golem.de/news/polizei-unberechtigte-datenabfragen-in-sachsen-anhalt-2009-150658.html) - Vier Augen Prinzip, immer mit Begründung und Nachverfolgbarkeit sind wirklich schwer umzusetzen.
 * [>>Selbe Regierung, die US-Drohnenmorde von deutschem Boden aus zulässt und zu Misshandlung Assanges schweigt, kritisiert Russland für Mordversuch an Nawalny<<](https://www.der-postillon.com/2020/09/drohnenmorde-assange.html)
+* [Nach drei Wochen ist die IT der Bundeswerh FuhrparkService noch immer nicht wieder online.](https://augengeradeaus.net/2020/09/drei-wochen-nach-dem-hackerangriff-auf-bundeswehr-tochter-ist-das-it-systeme-noch-down/)
+* [GnuPG wurde in der Version 2.2.23 veröffentlicht.](https://lwn.net/Articles/830538)
+* [Threema möchte gern Open Source werden.](https://www.golem.de/news/krypto-messenger-threema-soll-open-source-werden-2009-150663.html) - Aber wie bei Telegram nur der Client-Code.
+* [Mexiko verbietet Genmais (GMO) und Glyphosat!](https://netzfrauen.org/2020/09/03/mexiko-2/)
+* [Seit fast zwei Monaten verboten und Hackfressenbuch macht weiter mit Privacy Shield.](https://netzpolitik.org/2020/facebook-schickt-weiter-daten-in-die-usa/#vorschaltbanner)
+* [>>Zur Vorbeugung von Datenmissbrauch und Identitätsdiebstahl sollen Bürger ein Recht auf anonyme Nutzung von Internetdiensten erhalten.<<](https://www.patrick-breyer.de/?p=592656) - So zumindest der Vorschlag des Rechtsausschusses des Europaparlaments
+* [`awk --field-separator ': ' '/Linux/ { print $2;  }' os.txt`](https://opensource.com/article/20/9/awk-ebook)
