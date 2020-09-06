@@ -52,3 +52,10 @@
 * [Seit fast zwei Monaten verboten und Hackfressenbuch macht weiter mit Privacy Shield.](https://netzpolitik.org/2020/facebook-schickt-weiter-daten-in-die-usa/#vorschaltbanner)
 * [>>Zur Vorbeugung von Datenmissbrauch und Identitätsdiebstahl sollen Bürger ein Recht auf anonyme Nutzung von Internetdiensten erhalten.<<](https://www.patrick-breyer.de/?p=592656) - So zumindest der Vorschlag des Rechtsausschusses des Europaparlaments
 * [`awk --field-separator ': ' '/Linux/ { print $2;  }' os.txt`](https://opensource.com/article/20/9/awk-ebook)
+* [Der Chaos Communication Congress 2020 wird digital und dezentral.](https://netzpolitik.org/2020/remote-chaos-experience-der-ccc-kongress-wird-dieses-jahr-dezentral-und-digital/#vorschaltbanner) - [Hier](https://events.ccc.de/2020/09/04/rc3-remote-chaos-experience/) der Blog-Eintrag
+* [VirtualBox wurde in der Version 6.1.14 veröffentlicht.](https://www.planet3dnow.de/cms/58301-virtualbox-6-1-14/)
+* [Die magische Hand des freien Marktes ... baggert dann mal in der Sperrzzone von Tschernobyl rum.](https://www.sonnenseite.com/de/umwelt/gefaehrliches-ausbaggern-in-der-sperrzone-von-tschernobyl/)
+* [Realitätsabgleich Wirecard und Mietpreise, 45.000 Euro pro Monat hat nichts mit realen Mietpreisen zu tun. Das ist ein Konstrukt um an der Steuer vorbei noch mehr Gewinn zu machen.](https://www.golem.de/news/wirecard-skandal-marsalek-villa-kostet-45-000-euro-miete-im-monat-2009-150693.html)
+* [Sehr gut! Teile der Jugend von Portugal verklagen 33 Staaten wegen unterlassener Hilfe beim Klimaschutz.](https://www.sonnenseite.com/de/politik/portugiesische-jugendliche-verklagen-33-staaten/)
+* [Die magische Hand des freien Marktes ... packt 6000 Rinder auf ein Containerschiff.](https://netzfrauen.org/2020/09/04/livestock/)
+* [Weston wurde in der Version 9.0 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=Weston-9.0-Released)
