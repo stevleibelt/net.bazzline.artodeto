@@ -16,3 +16,8 @@
 * [KDevelop wurde in der Version 5.6 ver√ffentlicht](https://www.kdevelop.org/news/kdevelop-560-released)
 * [Inkscape wurde in der Version 1.0.1 ver√ffentlicht](https://inkscape.org/release/inkscape-1.0.1/)
 * [GStreamer wurde in der Version 1.18 ver√ffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=GStreamer-1.18-Released)
+* [Mit der Nextcloud eine digital souver√§ne Schulcloud aufbauen.](https://nextcloud.com/blog/eine-digital-souverane-schulcloud/)
+* [Google zensiert weiter in ihrem Browser. Sie fangen mit langsam geladener Werbung an.](https://www.bleepingcomputer.com/news/google/google-chrome-starts-blocking-ads-that-slow-down-the-browser/) - Das Ziel? Werbetreibende sollen auf die google Infrastruktur wechseln, dass macht das Verfolgen der Benutzer auch einfacher f√ºr google.
+* [Zu recht gestellte Frage, warum muss der Webserver wissen welche Aufl√∂sung ich fahre wenn mein Browser eh alles selbst rendert und entscheidet?](https://tuxproject.de/blog/2020/09/tore-zum-mistmachweb-7-aus-bequemlichkeit-durchs-blaehweb/)
+* [Mit nccm ssh Verbindungen verwalten.](https://opensource.com/article/20/9/ssh-connection-manager) - Geht auch mit einer gut gepflegten `alias` Sektion in der Shell-Konfiguration.
+* [Mit jupyter, pandoc und beamer Pr√§sentationsfolien inklusive Handouts bauen.](https://opensource.com/article/20/9/presentation-jupyter-notebooks)
