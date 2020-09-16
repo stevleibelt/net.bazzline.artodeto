@@ -8,3 +8,8 @@
 * [Simple Signup mit der Nextcloud.](https://opensource.com/article/20/9/decentralization-signup)
 * [>>NABU-Magazin "naturnah" - Sommerausgabe 2020 ist erschienen<<](https://sachsen.nabu.de/news/2020/28534.html)
 * [Thüringen ist jetzt wieder wer und baut Waffen für die Grenzenverteidigung des deutschen Bundes!](https://augengeradeaus.net/2020/09/das-neue-sturmgewehr-der-bundeswehr-kommt-aus-suhl-zusammenfassung/)
+* [Pine64 hat sein September Update veröffentlicht.](https://www.pine64.org/2020/09/15/september-update-let-it-sink-in/)
+* [Nutzt Luxon.js statt Moment.js.](https://lwn.net/Articles/831556/rss)
+* [Nextcloud for Android wurde in der Vrsion 3.13.1 veröffentlicht.](https://nextcloud.com/blog/nextcloud-3-13-1-for-android-is-out-plus-tips-about-auto-upload-for-existing-images-and-more/)
+* [BlueSpice, XWiki und DokuWiki sind Alternativen zu Confluence.](https://opensource.com/article/20/9/open-source-alternatives-confluence)
+* [HCL Traveler wurde in der Version 11.0.1 FP1 veröffentlicht.](https://n-komm.de/traveler-support-fuer-ios-14/)
