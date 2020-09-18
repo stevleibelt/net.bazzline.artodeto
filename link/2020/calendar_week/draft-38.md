@@ -22,3 +22,10 @@
 * [Schade das die Bumsregierung nicht an anderen Ecke so schnell und konsequent ist, der Chef des Bundesamt für Bevölkerungsschutzes muss gehen weil er zu wenig Steuergelder zur Aufrechterhaltung der Infrastruktur bekommen hat.](https://www.golem.de/news/bbk-chef-muss-gehen-verpatzter-warntag-hat-personelle-konsequenzen-2009-150912.html)
 * [Die Piratenpartei nordet einmal die Rede von Flintenuschi vor der EU-Kommission ein.](https://www.patrick-breyer.de/?p=593120)
 * [`systemd-analyze blame`](https://opensource.com/article/20/9/systemd-startup-configuration)
+* [Kanal9TV: Impressionen Genuss-Piazza Freiberg 2020](https://www.youtube.com/watch?v=c3GhLn0SCO0)
+* [Kanal9TV: Richtfest Herderhaus in Freiberg](https://www.youtube.com/watch?v=joTvJuW3-tU)
+* [Nein? Doch! Oh? Routerfreiheit gilt auch für FTTH Anschlüsse.](https://www.golem.de/news/glasfaser-routerfreiheit-gilt-laut-bundesnetzagentur-auch-fuer-ftth-2009-150937.html) - Das es dafür überhaupt erst ein Gericht bedarf welches dies gegenüber den Anbietern durchdrücken muss.
+* [Windeln.de hat 6,4 Terrabyte an Kundendaten der Allgemeinheit zur Verfügung gestellt.](https://www.golem.de/news/datenleck-windeln-de-laesst-kundendaten-ungeschuetzt-im-internet-2009-150935.html)
+* [Nein? Doch! Oh? Chemie in Kosmetik bringt den Tod.](https://netzfrauen.org/2020/09/17/cosmetics-2/)
+* [Laut einer Studie hat die Atomenergie dem Bund der deutschen Steuerzahler seit 1950 fast eine Billion Euro gekostet.](https://www.sonnenseite.com/de/wirtschaft/atomkraft-kosten-von-ueber-einer-billion-euro/) - Soviel zum Thema "billiger Strom". Billig für die Betreiber, teuer für die Folge-folge-folge-folge-Generationen
+* [Ihr habt kein ZFS und keine Snapshots, wollt aber Sichern? Nutzt doch rdiff-backup.](https://opensource.com/article/20/9/rdiff-backup-linux)
