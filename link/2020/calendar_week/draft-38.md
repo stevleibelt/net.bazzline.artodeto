@@ -29,3 +29,10 @@
 * [Nein? Doch! Oh? Chemie in Kosmetik bringt den Tod.](https://netzfrauen.org/2020/09/17/cosmetics-2/)
 * [Laut einer Studie hat die Atomenergie dem Bund der deutschen Steuerzahler seit 1950 fast eine Billion Euro gekostet.](https://www.sonnenseite.com/de/wirtschaft/atomkraft-kosten-von-ueber-einer-billion-euro/) - Soviel zum Thema "billiger Strom". Billig für die Betreiber, teuer für die Folge-folge-folge-folge-Generationen
 * [Ihr habt kein ZFS und keine Snapshots, wollt aber Sichern? Nutzt doch rdiff-backup.](https://opensource.com/article/20/9/rdiff-backup-linux)
+* [Deutschland darf keine großen Kriegsdinge mehr bauen, kein Problem, baut Deutschland eben große Geschütze auf kleine Plattformen - heute, auf Polizeischiffe.](https://augengeradeaus.net/2020/09/bundespolizei-jetzt-mit-kanone-unterwegs/)
+* [pgAdmin wurde in der Version 4.26 veröffentlicht.](https://www.postgresql.org/about/news/2073/)
+* [Unter dem Namen Libre-SOC soll eine 100 prozentige Open Source/Open Hardware Plattform mit RISC-V entstehen.](https://www.phoronix.com/scan.php?page=news_item&px=Libre-SOC-2020)
+* [Tesla wurde als größte Datenschleuder der westlichen Welt ausgezeichnet.](https://www.golem.de/news/big-brother-award-tesla-als-dauernd-aktive-datenschleuder-ausgezeichnet-2009-150961.html)
+* [Sogar die ARD berichtet darüber wie weit Flintenuschi von lokalen Problemen der EU-Bevölkerung entfernt ist. Ich glaub die wird noch in die Nato gelobt.](https://tuxproject.de/blog/2020/09/hoffnung-dexit-4-buergernah-woanders-sein/)
+* [Verschwommene Schrift unter Windows 10 für einige Anwendungen? Hier gibt es Lösungsvorschläge.](https://www.ghacks.net/2020/09/14/how-to-fix-blurry-text-in-programs-on-windows-10/)
+* [Haha, Hackfressenbuch und Be Evil zensieren jetzt sogar innerhalb. Da hat Home Office viel Gutes für die Firmen, fällt doch so der mögliche Kaffeeklatsch in der Küche weg.](https://netzpolitik.org/2020/firmenkultur-facebook-und-google-beschneiden-interne-debatten/#vorschaltbanner)
