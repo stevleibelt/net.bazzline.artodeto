@@ -36,3 +36,5 @@
 * [Sogar die ARD berichtet darüber wie weit Flintenuschi von lokalen Problemen der EU-Bevölkerung entfernt ist. Ich glaub die wird noch in die Nato gelobt.](https://tuxproject.de/blog/2020/09/hoffnung-dexit-4-buergernah-woanders-sein/)
 * [Verschwommene Schrift unter Windows 10 für einige Anwendungen? Hier gibt es Lösungsvorschläge.](https://www.ghacks.net/2020/09/14/how-to-fix-blurry-text-in-programs-on-windows-10/)
 * [Haha, Hackfressenbuch und Be Evil zensieren jetzt sogar innerhalb. Da hat Home Office viel Gutes für die Firmen, fällt doch so der mögliche Kaffeeklatsch in der Küche weg.](https://netzpolitik.org/2020/firmenkultur-facebook-und-google-beschneiden-interne-debatten/#vorschaltbanner)
+* [RaspberryPi und Ansible die x-te.](https://opensource.com/article/20/9/raspberry-pi-ansible)
+* [Sculpt OS wurde in der Version 20.08 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=Sculpt-OS-20.08-Released)
