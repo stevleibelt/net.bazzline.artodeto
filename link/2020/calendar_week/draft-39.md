@@ -17,5 +17,10 @@
 * [Stellt sich heraus, für den schlimmen Waldbrand in Kalifornien war einer gebrochenes Teil eines Starkstrommastens verantwortlich. Der hat 97 Jahre seinen Dienst getan und hätte ihn jemand in den letzten 20 Jahren mal kontrolliert, hätte man das Problem beheben können.](https://twitter.com/tubetimeus/status/1306359385656946688)
 * [DuckDB könnte eine Alternative zu SQLite sein.](https://duckdb.org/)
 * [Haha, nice, ebd2 hat es geschafft, er macht jetzt was mit Holz statt mit IT und ist glücklich - jeden Tag.](https://github.com/docker/cli/issues/267)
-* [Ich hoffe alle Beteiligten spielen Sparta und bleiben Standhaft. Hackfressenbuch meint, sie schalten ihren Dienst für Europa ab wenn sie Steuern zahlen müssten.](https://blog.fefe.de/?ts=a1977c31)
+* [Ich hoffe alle Beteiligten spielen Sparta und bleiben Standhaft. Hackfressenbuch meint, sie schalten ihren Dienst für Europa ab wenn sie Steuern zahlen müssten.](https://blog.fefe.de/?ts=a1977c31) - Wäre schön, endlich hätten ein paar Menschen um mich rum wieder mehr Zeit zum reden :-).
 * [Realitätsabgleich: Microsoft in Schulen.](https://www.kuketz-blog.de/bildungswesen-entlarvung-der-haeufigsten-microsoft-mythen/)
+* [skolelinux - die Schulnetzwerk-Lösung für alle, basierend auf Debian.](https://www.skolelinux.de/de/)
+* [Microsofts Bing-Suche ist kaputt und verliert eure privaten Daten.](https://www.kuketz-blog.de/microsoft-bing-server-leakt-personenbeziehbare-daten/)
+* [Microsoft Terminal Preview wurde in der Version 1.4 veröffentlicht.](https://www.bleepingcomputer.com/news/microsoft/windows-terminal-14-released-with-hyperlink-and-jump-list-support/)
+* [China möchte jetzt auch vor 2060 klimaneutral sein.](https://www.sonnenseite.com/de/politik/durchbruch-in-der-internationalen-klimapolitik-und-erfolg-der-eu-klimadiplomatie/) - Klar, China möchte nach 2050 existieren und denkt siuch auch, lieber jetzt Anfangen wo es noch Ressourcen gibt.
+* [Stellt sich heraus, ob ein Corona-Test "ja" oder "nein" sagt hängt von der selbst gewählten Eichung des Herstellers ab.](https://npr.news.eulu.info/2020/09/22/ihr-coronavirus-test-ist-positiv-vielleicht-sollte-er-es-nicht-sein/)
