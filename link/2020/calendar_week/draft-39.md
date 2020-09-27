@@ -31,3 +31,9 @@
 * Alternativen zu [uMatrix](https://github.com/gorhill/uMatrix) könnten [eMatrix](https://gitlab.com/vannilla/ematrix), [NanoCore](https://github.com/NanoAdblocker/NanoCore#nano-adblocker-core) und [Javascript Firewall](https://addons.mozilla.org/de/firefox/addon/javascript-firewall/) sein
 * [Sieben Dinge die du über Ansible wissen solltest.](https://opensource.com/article/20/9/ansible) - `ansible-bender` war mir auch neu
 * [libreprojects.net](https://libreprojects.net/)
+* [GraalVM und PHP gehen richtig ab.](https://www.phoronix.com/scan.php?page=news_item&px=GraalPHP-GraalVM-PHP)
+* [Airbnb ist kaputt.](https://www.golem.de/news/datenleck-airbnb-gibt-gastgebern-zugriff-auf-fremde-postfaecher-2009-151125.html)
+* [Calibre wurde in der Version 5.0 veröffentlicht.](https://calibre-ebook.com/new-in/fourteen)
+* [Nein? Doch! Oh? Bioplastik hat so viel Chemie drinne das es euch vergiftet.](https://www.sonnenseite.com/de/wissenschaft/bioplastik-ist-keine-unbedenkliche-alternative-zu-herkoemmlichen-kunststoffen/)
+* [Barton Gellman hat ein neues Buch veröffentlicht.](https://netzpolitik.org/2020/der-dunkle-spiegel-seit-ich-edward-snowden-getroffen-habe-habe-ich-nie-aufgehoert-ueber-meine-schulter-zu-schauen/#vorschaltbanner)
+* [Hier gibt es ein gutes Setup Skript für Windows 10.](https://www.ghacks.net/2020/09/27/windows-10-setup-script-has-a-new-name-and-is-now-easier-to-use/)
