@@ -2,3 +2,12 @@
 * [Nextcloud Client wurde in der Version 3.0.2 veröffentlicht.](https://nextcloud.com/blog/minor-release-of-desktop-client-and-second-release-candidate-of-nextcloud-hub-20-are-here/)
 * [Fischmehlfabrik ist der neuste Scheiß für unsere Umwelt.](https://netzfrauen.org/2020/09/24/gambia/)
 * [PostgreSQL wurde in der Version 13.0 veröffentlicht.](https://www.postgresql.org/about/news/2077/)
+* [Roundcube wurde in der Version 1.4.9 veröffentlicht.](https://roundcube.net/news/2020/09/27/update-1.4.9-released)
+* [HCL Domino: `tell http show security`](http://blog.nashcom.de/nashcomblog.nsf/dx/domino-http-show-kyr-file-used.htm)
+* [Komisch, in China geht es. GM verkauft dort ein Elektroauto für 5000 Euro.](https://www.golem.de/news/hongguang-mini-elektroauto-fuer-5-000-euro-verkauft-sich-extrem-gut-2009-151135.html) - Bitte bedenken, in China gibt es ganz andere Regeln was das Thema Sicherheit angeht
+* [Windows 10 und optionale Treiber - nur installieren wenn das Gerät aktuell Probleme macht.](https://www.ghacks.net/2020/09/27/should-you-install-windows-10s-optional-driver-updates/)
+* [Wie schlimm ist die Nutzerverfolgung im Internet? So schlimm!](https://www.kuketz-blog.de/cookie-matching-retargeting-bei-online-shops/)
+* [Der Datenschutzbeauftragte aus Rheinland-Pfalz sagt ja zu Open Source und damit nein zur Bürgerüberwachung.](https://www.golem.de/news/landesdatenschutzbeauftragter-datenschuetzer-sollen-open-source-empfehlen-2009-151141.html)
+* [Gut gemacht Kuketz, der Cookie von Google Analytics ist jetzt systemrelevant.](https://www.kuketz-blog.de/google-analytics-cookie-ist-nun-schon-fuer-die-funktionalitaet-der-website-unerlaesslich/)
+* [Bei manchen Aussagen würde ich mich gern irren, aber wenn selbst FeFe langsam daran glaubt, dass meine Cyberpunk-Bücher aus den Sibzigern eine Blaupause für unsere Gegenwart und Zukunft geliefert haben ...](https://blog.fefe.de/?ts=a193ddfe)
+* [Atomlobbyist und Volkfsverräter Wolfgang Clement ist tod.](https://blog.fefe.de/?ts=a18f6182) - Ach und den Schwachsinn der "Initiative neue Soziale Marktwirtschaft", also den gesetzlich anerkannten Ausverkauf von Volkseigentum und Rückgewinnung der Sklavenwirtschaft hat er auch noch verbockt.
