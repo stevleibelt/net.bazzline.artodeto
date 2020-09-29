@@ -11,3 +11,7 @@
 * [Gut gemacht Kuketz, der Cookie von Google Analytics ist jetzt systemrelevant.](https://www.kuketz-blog.de/google-analytics-cookie-ist-nun-schon-fuer-die-funktionalitaet-der-website-unerlaesslich/)
 * [Bei manchen Aussagen würde ich mich gern irren, aber wenn selbst FeFe langsam daran glaubt, dass meine Cyberpunk-Bücher aus den Sibzigern eine Blaupause für unsere Gegenwart und Zukunft geliefert haben ...](https://blog.fefe.de/?ts=a193ddfe)
 * [Atomlobbyist und Volkfsverräter Wolfgang Clement ist tod.](https://blog.fefe.de/?ts=a18f6182) - Ach und den Schwachsinn der "Initiative neue Soziale Marktwirtschaft", also den gesetzlich anerkannten Ausverkauf von Volkseigentum und Rückgewinnung der Sklavenwirtschaft hat er auch noch verbockt.
+* [Stratis wurde in der Version 2.2 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=Stratis-2.2)
+* [Der VNC Server für Wayland WayVnc wurde in der Version 0.3.1 veröffentlicht.](https://lists.freedesktop.org/archives/wayland-devel/2020-September/041635.html)
+* [Terraform kann jetzt auch Windows AD.](https://4sysops.com/archives/terraform-windows-ad-provider-for-automating-active-directory/)
+* [`HKLM:\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogon` -> `PowerShell.exe` für Server Core](https://www.windowspro.de/tipp/server-core-powershell-statt-cmdexe-starten)
