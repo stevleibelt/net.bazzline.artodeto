@@ -48,3 +48,5 @@
 * [Sächsische Schüler können über BigBlueButton jetzt auch Videokonferenzsysteme nutzen - Danke freie Software!](https://www.bildung.sachsen.de/blog/index.php/2020/10/01/neuer-videokonferenzdienst-macht-unterricht-bei-pandemiebedingten-schulschliessungen-moeglich/)
 * [Das Brot von SubWay besteht zu 10 Prozent oder mehr aus Zucker.](https://blog.fefe.de/?ts=a1889082)
 * [Microsoft lockt alle in Ihre Cloud und macht die dann kaputt, so geschehen bei outlook.com.](https://blog.fefe.de/?ts=a1888edf) - Das ist doch eine große Firma, die haben bestimmt eine Fallback-Infrastruktur bei den Preisen! Nein, haben sie nicht.
+* [Die USA verbieten jetzt auch den Einfuhr von Palmenöl.](https://netzfrauen.org/2020/10/03/palmoel-3/)
+* [Nextcloud Talk kann bald mit vielen anderen Chatclients arbeiten.](https://nextcloud.com/blog/bridging-chat-services-in-talk/)
