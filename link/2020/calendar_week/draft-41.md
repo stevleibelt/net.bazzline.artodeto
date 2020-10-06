@@ -5,3 +5,9 @@
 * [Die LernSAX-Plattform für die Schüler in Sachsen hat jetzt eine zentrale Anmeldemaske.](https://www.bildung.sachsen.de/blog/index.php/2020/10/05/einer-fuer-alles-schullogin-buendelt-alle-digitalen-dienste-fuer-schulen-auf-einer-plattform/)
 * [Mit der Erweiterung `Neat URL` für den Mozilla Firefox und Chromium werden die lästigen tracking-Parameter in URLs entfernt.](https://www.ghacks.net/2020/09/25/neat-url-is-an-extension-for-chrome-and-firefox-that-removes-tracking-elements-from-links/)
 * [Hier werden euch "virtual environemnts" in Python näher gebracht.](https://opensource.com/article/20/10/venv-python)
+* [Python wurde in der Version 3.9 veröffentlicht.](https://lwn.net/Articles/833550/rss)
+* [Traurig aber wahr, zur Prüfung ob eine Datenabfrage bei der Bundespolizei oder dem BKA überhaupt erlaubt ist, fehlt es an Personal.](https://netzpolitik.org/2020/kleine-anfrage-unberechtigte-datenabfragen-bei-bundespolizei-und-bka/) - Will ja auch keiner, dann könnte keins der Tech-Firmen mehr einfach so illegal Daten saugen.
+* [Nein? Doch! Oh? Jetzt zeigt auch noch eine Studie, dass Vorratsdatenspeicherung bei der Strafverfolgung nichts bringt.](https://www.patrick-breyer.de/?p=593219)
+* [Das EuGH bestätigt erneut, eine anstandslose Vorratsdatenspeicherung ist und bleibt illegal.](https://netzpolitik.org/2020/eu-gericht-anlasslose-vorratsdatenspeicherung-bleibt-illegal/)
+* [Cisco muss 1,9 Milliarden USD zahlen weil sogar Richter mittlerweile erkennen mit welchem Vorsatz die Cisco-Produkte das Thema Sicherheit ausklammern/verletzen.](https://www.golem.de/news/centripetal-networks-cisco-systems-soll-1-9-milliarden-dollar-strafe-zahlen-2010-151323.html) - 2 Milliarden USD sind aber eher Peanuts für Cisco.
+* [Hier wird euch gezeigt wie ihr die Web-Suche in Windows 10 über Gruppenrichtlinien deaktivieren könnt.](https://www.windowspro.de/wolfgang-sommergut/web-suche-windows-10-deaktivieren-gruppenrichtlinien)
