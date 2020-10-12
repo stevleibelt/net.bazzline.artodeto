@@ -1,1 +1,6 @@
-* [
+* [Kritische Infrastruktur und Ukraine, was fällt euch als erstes bei dem armen Land ein? Natürlich, Kampfdrohnen aus der Türkei!](https://netzpolitik.org/2020/neuer-ruestungsdeal-ukraine-will-kampfdrohnenflotte-aus-der-tuerkei/)
+* [Hier wird euch gezeigt wie ihr mit der MEMCM einen Multi-App Kiosk erstellt und wartet.](https://4sysops.com/archives/update-windows-10-multi-app-kiosk-using-run-script-in-microsoft-endpoint-configuration-manager-memcm/)
+* [Mit `Get-ScheduledTask` und `Register-ScheduledTask` via PowerShell schnell geplante Aufgaben exportieren und importieren.](https://www.windowspro.de/wolfgang-sommergut/geplante-aufgaben-andere-rechner-uebertragen-powershell)
+* [Die Infrastruktur der Software AG wurde aufgemacht.](https://www.bleepingcomputer.com/news/security/software-ag-it-giant-hit-with-23-million-ransom-by-clop-ransomware/)
+* [>>Die Kriege der Zukunft werden um Wasser geführt, denn Wasser verspricht für das 21. Jahrhundert das zu werden, was das Öl für das 20. Jahrhundert war [...]<<](https://netzfrauen.org/2020/10/10/water-5/)
+* [Be evil speichert ja alles über euch und gibt diese Daten seit Neustem den Behörden freiwillig und großzügig offiziell weiter.](https://www.golem.de/news/strafverfolgung-google-rueckt-ip-adressen-von-suchanfragen-heraus-2010-151435.html) - Gut, wenn die NSA dein Risikokapitalgeber war ist das halt ein Punkt auf der langen Angenda der Vertragserfüllung, nicht wahr?
