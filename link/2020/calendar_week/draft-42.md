@@ -15,3 +15,9 @@
 * [>>Die Europäische Kommission entwickelt ein Verfahren zur Identifikation von Personen anhand ihres gesprochenen Wortes.<<](https://netzpolitik.org/2020/algorithmische-ueberwachung-eu-entwickelt-abhoerplattform-mit-sprachanalyse-und-gesichtserkennung/)
 * [Die öffentlich-rechtlichen Medien geben sich selbst eine Studie im Auftrag und kriegen ihr Wunschergebnis was so weit weg von der Bevölkerung ist wie der SPD Vostand zur Basis.](https://tuxproject.de/blog/2020/10/statistisch-bin-ich-super/) - "Schau ich mir meine Arbeit an, find ich sie super gemacht."
 * [Nextcloud wurde in den Version n19.04, 18.0.10 und 17.0.10 veröffentlicht.](https://nextcloud.com/blog/minor-releases-19-0-4-18-0-10-and-17-0-10-are-here-end-of-support-for-17/)
+* [KDE wurde in der Version 5.20 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=KDE-Plasma-5.20-Released)
+* [Krita wurde in der Version 4.4 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=Krita-4.4-Released)
+* [Heinz Wegmann hat dann mal einen Solar-Traktor erfunden.](https://www.sonnenseite.com/de/zukunft/mit-sonnenkraft-den-acker-pfluegen/)
+* [Ora2Pg wurde in der Version 21.0 veröffentlicht. Wer also endlich von der lästigen Oracle in die flauschige Postgre migrieren will, kann dies nun noch entspannter machen.](https://www.postgresql.org/about/news/ora2pg-v210-has-been-released-2090/)
+* [Es fehlt noch immer ein Open Technology Fund in Europa. Europa wirbt gerade überall Open Source einsetzen zu wollen, aber dies mit zu finanzieren ... nein, dann lieber Gelder für Waffen.](https://netzpolitik.org/2020/wo-bleibt-europas-open-technology-fund/)
+* [Danke netzpolitik.org und die weiteren Mitstreiter das ihr Strafanzeige gegen FinFisher gestellt habt.](https://netzpolitik.org/2020/unsere-strafanzeige-razzia-bei-staatstrojaner-firma-finfisher-in-muenchen/)
