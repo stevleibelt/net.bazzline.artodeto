@@ -21,3 +21,12 @@
 * [Ora2Pg wurde in der Version 21.0 veröffentlicht. Wer also endlich von der lästigen Oracle in die flauschige Postgre migrieren will, kann dies nun noch entspannter machen.](https://www.postgresql.org/about/news/ora2pg-v210-has-been-released-2090/)
 * [Es fehlt noch immer ein Open Technology Fund in Europa. Europa wirbt gerade überall Open Source einsetzen zu wollen, aber dies mit zu finanzieren ... nein, dann lieber Gelder für Waffen.](https://netzpolitik.org/2020/wo-bleibt-europas-open-technology-fund/)
 * [Danke netzpolitik.org und die weiteren Mitstreiter das ihr Strafanzeige gegen FinFisher gestellt habt.](https://netzpolitik.org/2020/unsere-strafanzeige-razzia-bei-staatstrojaner-firma-finfisher-in-muenchen/)
+* [Nein? Doch! Oh? Die Blockpartei kündigt den Uploadfilter an, die Medien sagen "wird schon nicht so schlimm werden" und oh wunder, es wird eine verstaatlichte Zensur.](https://blog.fefe.de/?ts=a1780d61)
+* [Sicherheitssoftware bringt was? Genau, noch ein Einfallstor für noch mehr Sicherheitsproblemen.](https://blog.fefe.de/?ts=a178742a)
+* [Hey, Intels SGX ist kaputt und was denkt sich Intel so? Wir bauen es in noch mehr Prozessoren ein!](https://www.golem.de/news/ice-lake-sp-intels-xeon-sp-v3-cpus-nutzen-erstmals-sgx-2010-151504.html)
+* [Kanal9TV: Verantwortung aus Leidenschaft](https://www.youtube.com/watch?v=U3z7Z-cc48w)
+* [Bluetooth unter Linux und damit auch Android ist kaputt.](https://blog.fefe.de/?ts=a176d129) - Bluetooth, dass ist die Zauberschnittstelle für eure Corona-Warn-App
+* [>>Mittels Machine Learning will Google Löcher in den Analytics-Daten stopfen, die durch fehlende Cookies von Drittanbietern entstehen.<<](https://blog.fefe.de/?ts=a176cd81) - Kurzum, die fehlenden Daten werden dann nach Gusto aufgefüllt.
+* [weltnetz.tv: Wie der Staat seine Akten vor den Bürgern versteckt](https://weltnetz.tv/video/2408-ewig-geheim)
+* [Jitsy hat jetzt ein Warteraum.](https://scheible.it/neues-jitsi-lobby/)
+* [pine64: Update: new hacktober gear](https://www.pine64.org/2020/10/15/update-new-hacktober-gear/)
