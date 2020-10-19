@@ -1,3 +1,8 @@
 * [Hier wird euch gezeigt wie Ihr Collabora Office Online mit Docker Compose und Traefik installiert.](https://goneuland.de/collabora-office-online-mit-docker-compose-und-traefik-installieren/)
 * [Passend dazu, wie man von Docker-Compose auf Podman-Compose umsteigt.](https://www.metamost.com/migrating-from-docker-compose-to-podman/)
 * [Oder auch: >>Dockerless, part 3: Moving development environment to containers with Podman<<](https://mkdev.me/en/posts/dockerless-part-3-moving-development-environment-to-containers-with-podman)
+* [Podman wurde in der Version 2.1 veröffentlicht.](https://podman.io/releases/2020/10/05/podman-release-v2.1.0.html)
+* [Ihr berichtet negativ über die Chemie- oder Tierindustrie? Tja, dann verabschiedet euch mal von eurem regulären Leben in der christlich aufgeschlossenen Gesellschaft - ach so und alle Angehörige und Freunde werden direkt mit demokratisiert.](https://netzfrauen.org/2020/10/19/agriculture-industry/)
+* [Ich wollte gerade selber schreiben was es für eine saudumme Idee ist seinen Webbrowser in der Cloudflare-Wolke zu parken ... stellt sich heraus, FeFe hat sich besser ausgedrückt.](https://blog.fefe.de/?ts=a1738544)
+* [DiGA Kalmeda, die erste "Gesundheits-App" auf Kassenkosten ist jetzt da und kommt, natürlich, nur mit einem Datenstaubsauber/Tracking von einer Firma aus der privaten Wirtschaft - Microsoft.](https://www.kuketz-blog.de/diga-kalmeda-gesundheits-app-mit-microsoft-tracker/)
+* [Urheberrechtsreform? Da sind sich die private Wirtschaft und die öffentlich-rechtlichen einig, freies Wissen für niemanden!](https://netzpolitik.org/2020/vorsicht-wenn-oeffentlich-rechtliche-und-privatsender-gemeinsam-marschieren/) - Wäre ja noch schöner wenn jeder alles lernen könnte - also besonders von früher!
