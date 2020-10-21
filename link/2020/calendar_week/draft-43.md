@@ -17,3 +17,12 @@
 * [Immer diese Fahrradfahrer!](https://tuxproject.de/blog/2020/10/haltet-das-opfer/)
 * [Gut das wir die Guten sind, die Blockpartei hat wieder eine Scheibe mehr von ihrer Salamitaktik aufgegeben, nun sollen die deutschen Behörden offiziell alles und jeden hacken dürfen ... um die Vormachtsstellung des DEUTSCHEN sicher zu stellen EINSEINSELFFFF!](https://www.golem.de/news/ueberwachung-regierung-will-staatstrojaner-fuer-die-geheimdienste-2010-151617.html)
 * [Hier wird euch gezeigt wie ihr mit der Powershell Word benutzt um aus einer `*.docx` eine `*.pdf` zu machen.](https://sid-500.com/2020/10/20/powershell-convert-word-documentes-to-pdf-documents/)
+* [Apple-Anwendungen sind von Firewallregeln ausgenommen, Google-Anwendungen von Privatsphären-Einstellungen ... ALLES ZU EUREM BESTEN!](https://blog.fefe.de/?ts=a171ed38)
+* [>>[...] Das einzige in Spahns Lebenslauf, das nach "Geld verdienen" klingt, ist seine Tätigkeit als Pharmalobbyist. [...]<<](https://blog.fefe.de/?ts=a171d18b)
+* [Hier wird euch gezeigt wie ihr das veraltete JScript im Internet Explorer deaktiviert.](https://www.ghacks.net/2020/10/20/you-can-now-disable-jscript-execution-in-internet-explorer/)
+* [Matrix.org möchte jetzt eine Art Bewertungssystem einführen um gegen Missbrauch vorzugehen.](https://matrix.org/blog/2020/10/19/combating-abuse-in-matrix-without-backdoors)
+* [>>Bürgerenergiegemeinschaften treiben seit jeher dezentrale Energieprojekte voran und sichern die lokale Teilhabe an sauberer Energieproduktion.<<](https://www.sonnenseite.com/de/energie/solarenergie-mit-und-fuer-menschen-vor-ort/) - Und dies ist auch der Grund warum es im Bundestag Gesetze für die Monopole und gegen kleine Gemeinschaften gibt, in kleinen Gruppen wir immer besser und nachhaltiger lokal investiert.
+* [Stellt sich heraus, wenn die Polizei unkontrolliert "ihr Ding" machen kann, gibt es auch keine Aufklärung bei "Upsis".](https://netzpolitik.org/2020/nichts-als-blendgranaten/) - Gut das unsere Geheimdienste streng kontrolliert werden!
+* [Peru ist weiterhin GMO-frei.](https://netzfrauen.org/2020/10/21/peru-2/)
+* [Die Blockpartei hat entschieden: >>Alle 19 Geheimdienste von Bund und Ländern dürfen demnächst heimlich Geräte hacken.<<](https://netzpolitik.org/2020/bundesregierung-beschliesst-staatstrojaner-fuer-alle-geheimdienste/)
+* [TrueNAS wurde in der Version 12.0 veröffentlicht.](https://www.truenas.com/docs/hub/intro/release-notes/tn-12_0-release/)
