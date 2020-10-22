@@ -26,3 +26,9 @@
 * [Peru ist weiterhin GMO-frei.](https://netzfrauen.org/2020/10/21/peru-2/)
 * [Die Blockpartei hat entschieden: >>Alle 19 Geheimdienste von Bund und Ländern dürfen demnächst heimlich Geräte hacken.<<](https://netzpolitik.org/2020/bundesregierung-beschliesst-staatstrojaner-fuer-alle-geheimdienste/)
 * [TrueNAS wurde in der Version 12.0 veröffentlicht.](https://www.truenas.com/docs/hub/intro/release-notes/tn-12_0-release/)
+* [Kauf auf Rechnung um PayPal zu entkommen? Nun, auch hier arbeitet PayPal daran eure Daten ungefragt zu stehlen.](https://www.kuketz-blog.de/paypal-auch-bei-kauf-auf-rechnung-oder-vorkasse-oftmals-mit-an-bord/)
+* [Berlin wird von der Blockpartei immer weiter kaputt gemacht.](https://tuxproject.de/blog/2020/10/berlin-venezuelern-3/)
+* [>>Im Mutterland der Demokratie, Großbritannien, steht Julian Assange vor Gericht. Er soll in die USA, die überall in der Welt Regime-Change-Kriege anzetteln, ausgeliefert werden. Mehr als 40 Menschenrechtsorganisationen weltweit solidarisieren sich mit dem Whistleblower und demonstrieren in vielen Städten.<<](https://weltnetz.tv/video/2409-solidaritaet-mit-julian-assange)
+* [Kanal9TV: Villa Baldauf Traditionelles Handwerk](https://www.youtube.com/watch?v=swAKyH5WuPM)
+* [PayPal will jetzt auch mit BitCoin rummischen.](https://www.golem.de/news/bitcoin-und-co-paypal-will-zur-handelsplattform-fuer-kryptowaehrungen-werden-2010-151658.html)
+* [Die EU-Behörde und die EU-Kommission sind unterwandert von Lobbyisten](https://netzpolitik.org/2020/hinter-der-milchglasscheibe-sitzt-ein-lobbyist/) - Vöölig überraschend, ist mir bewusst.
