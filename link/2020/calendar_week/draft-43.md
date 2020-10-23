@@ -32,3 +32,11 @@
 * [Kanal9TV: Villa Baldauf Traditionelles Handwerk](https://www.youtube.com/watch?v=swAKyH5WuPM)
 * [PayPal will jetzt auch mit BitCoin rummischen.](https://www.golem.de/news/bitcoin-und-co-paypal-will-zur-handelsplattform-fuer-kryptowaehrungen-werden-2010-151658.html)
 * [Die EU-Behörde und die EU-Kommission sind unterwandert von Lobbyisten](https://netzpolitik.org/2020/hinter-der-milchglasscheibe-sitzt-ein-lobbyist/) - Vöölig überraschend, ist mir bewusst.
+* [Hier gibt es mal eine HTML Seite mit angezeigten Steuerzeichen.](https://secretgeek.github.io/html_wysiwyg/html.html)
+* [Nein? Doch! Oh? Deutschland kann mit erneuerbarer Energie komplett versorgt werden.](https://www.sonnenseite.com/de/energie/stromversorgung-auf-basis-erneuerbarer-energien-laeuft-stabil/) - Ob dies erklärt warum Deutschland seit Jahrzehnten Strom exportiert?
+* [Snowden darf unbefristet in Russland bleiben.](https://www.golem.de/news/whistleblower-snowden-darf-unbefristet-in-russland-bleiben-2010-151678.html)
+* [VirtualBox wurde in der Version 6.1.16 veröffentlicht.](https://www.planet3dnow.de/cms/59199-virtualbox-6-1-16/)
+* [LibreOffice wurde in der Version 6.4.7 veröffentlicht.](https://www.planet3dnow.de/cms/59202-libreoffice-6-4-7/)
+* [IrfanView wurde in der Version 4.56 veröffentlicht.](https://www.planet3dnow.de/cms/59186-irfanview-4-56/)
+* [Krieg? Das schafft nur Verlierer und Leid.](https://blog.fefe.de/?ts=a16cccfe)
+* [Goldman Sachs zahlz fast drei Milliarden Dollar Strafe für Bestechung die sie 2009, kurz nach der Finanzkriese, getätigt haben.](https://blog.fefe.de/?ts=a16f1eeb) - Soviel zum Thema Glaubwürdigkeit der Finanzmärkte.
