@@ -40,3 +40,9 @@
 * [IrfanView wurde in der Version 4.56 veröffentlicht.](https://www.planet3dnow.de/cms/59186-irfanview-4-56/)
 * [Krieg? Das schafft nur Verlierer und Leid.](https://blog.fefe.de/?ts=a16cccfe)
 * [Goldman Sachs zahlz fast drei Milliarden Dollar Strafe für Bestechung die sie 2009, kurz nach der Finanzkriese, getätigt haben.](https://blog.fefe.de/?ts=a16f1eeb) - Soviel zum Thema Glaubwürdigkeit der Finanzmärkte.
+* [Zentrale Plattform auf der Projekte gehostet werden und ein Gesetzt was schön schwammig ist und schon kann eine Industrie mit wilden Behauptungen viele Softwareprojekte verschwinden lassen.](https://www.golem.de/news/urheberrecht-code-von-youtube-dl-wegen-dmca-anfrage-offline-2010-151700.html)
+* [Der Film "Carbon Bomb" beleuchtet die dunklen Machenschaften von Exxon Mobile und der Weltbank.](https://www.sonnenseite.com/de/tipps/dokumentarfilm-premiere/)
+* [Dankeschön, ich bin also nicht alleine, jede Datei sollte eine Änderung haben. Für mich aus dem Grund als dass man besser Filtern kann.](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/WhyIncludeWithExtension)
+* [Arch Linux und libtraceevent im Einsatz? Es gibt etwas zu tun.](https://www.archlinux.org/news/libtraceevent59-1-update-requires-manual-intervention/)
+* [Repmgr wurde in der Version 5.2.0 veröffentlicht.](https://www.postgresql.org/about/news/announcing-the-release-of-repmgr-520-2096/)
+* [Mit ScreenTranslator kann man Text aus Bildern automatisiert "auslesen".](https://www.ghacks.net/2020/10/24/screentranslator-is-an-open-source-tool-that-can-translate-text-from-images/)
