@@ -2,3 +2,6 @@
 * [Erinnert ihr euch noch daran wie euch die Gen-Lobby ins Gesicht gelogen hat als sie meinte "wir haben alles unter Kontrolle"?](https://blog.fefe.de/?ts=a16b1c8b) - Eins ihrer Experimente ist aus dem Labor entflohen, vermehrt sich selber und kann nicht wirklich eingefangen werden. Und all dies passiert in Belgien.
 * [Haha, willkommen in der Zukunft, alles was Hackfressenbuch gekauft hat muss demnächst ein Konto bei Hackfressen buch haben. Schritt 2, das Konto muss "gut" sein.](https://www.golem.de/news/quest-2-wer-facebook-loescht-verliert-inhalte-bei-oculus-2010-151718.html)
 * [Das Debian Projekt hat Peertube 10.000,00 Euro gespendet.](https://www.golem.de/news/peertube-debian-spendet-fuer-freie-live-streaming-software-2010-151715.html) - Peertube ist das Dichröhre für coole Kinder.
+* [Composer wurde in der Version 2.0 veröffentlicht.](https://blog.packagist.com/composer-2-0-is-now-available/)
+* [Nein? Doch! Oh? "Ich hab recht" spendet Millionen Euro damit es nicht zu einer Strafe kommt.](https://netzpolitik.org/2020/wie-der-datenkonzern-den-journalismus-umgarnt/)
+* [OpenAccess an Universitäten und verdammt noch einmal wie konnte eine Firma ein solches Monopol aufbauen?](https://netzpolitik.org/2020/neues-vom-grossverlag-elsevier-kein-open-access-deal-dafuer-mit-spyware-gegen-schattenbibliotheken/)
