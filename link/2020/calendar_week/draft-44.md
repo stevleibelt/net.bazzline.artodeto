@@ -42,3 +42,8 @@
 * [Klar kannst du die Angebote des von mir propagandierten freien Marktes nutzen, nur dann bring ich dir die Demokratie du Sklave! So geht es gerade zwischen den USA und Jamaika zurande.](https://www.golem.de/news/usa-droht-jamaika-bei-einsatz-von-huawei-5g-keine-hilfe-mehr-bei-hurrikans-2010-151787.html)
 * [Hier gibt es noch einmal MySQL/MariaDB Grundlagen.](https://opensource.com/article/20/10/mariadb-mysql-cheat-sheet)
 * [Schlimmer als im Film, am besten man sagt nichts mehr.](https://www.dailydot.com/unclick/pycon-dongle-joke-misogyny-sexism-adria-richards/)
+* [Kanal9TV: Freibergsdorfer Hammer um 1980](https://www.youtube.com/watch?v=VQ0DRHOBrL0)
+* [Auch die Arktis stirbt.](https://netzfrauen.org/2020/10/30/arctic-ocean/)
+* [Nextcloud Desktop Client wurde in der Version 3.0.3 veröffentlicht.](https://nextcloud.com/blog/desktop-client-3-0-3-is-here-with-over-a-dozen-fixes/)
+* [Jetzt wollen die auch noch die Mailinglisten kaputt machen, ich will kein HTML in Mailinglisten haben ihr Spackos!](https://www.theregister.com/2020/08/25/linux_kernel_email/)
+* [Nein? Doch! Oh? Desto mehr "Arzeneimittel" gefressen werden, desto höher sind die Rückstände und die Belastung der Umwelt mit dem Chemiedreck.](https://www.sonnenseite.com/de/umwelt/arzneimittelrueckstaende-in-der-umwelt/)
