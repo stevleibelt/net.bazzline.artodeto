@@ -47,3 +47,4 @@
 * [Nextcloud Desktop Client wurde in der Version 3.0.3 veröffentlicht.](https://nextcloud.com/blog/desktop-client-3-0-3-is-here-with-over-a-dozen-fixes/)
 * [Jetzt wollen die auch noch die Mailinglisten kaputt machen, ich will kein HTML in Mailinglisten haben ihr Spackos!](https://www.theregister.com/2020/08/25/linux_kernel_email/)
 * [Nein? Doch! Oh? Desto mehr "Arzeneimittel" gefressen werden, desto höher sind die Rückstände und die Belastung der Umwelt mit dem Chemiedreck.](https://www.sonnenseite.com/de/umwelt/arzneimittelrueckstaende-in-der-umwelt/)
+* [Das Amtsblatt der Stadt Freiberg für den Oktober 2020 ist erschienen.](https://www.freiberg.de/stadt-und-buerger/aktuelles/amtsblatt?tx_reintdownloadmanager_reintdlm%5Bdownloaduid%5D=5973&cHash=c7c87207f50a494e2300253ef3de78b2)
