@@ -42,6 +42,13 @@
 * [Klar kannst du die Angebote des von mir propagandierten freien Marktes nutzen, nur dann bring ich dir die Demokratie du Sklave! So geht es gerade zwischen den USA und Jamaika zurande.](https://www.golem.de/news/usa-droht-jamaika-bei-einsatz-von-huawei-5g-keine-hilfe-mehr-bei-hurrikans-2010-151787.html)
 * [Hier gibt es noch einmal MySQL/MariaDB Grundlagen.](https://opensource.com/article/20/10/mariadb-mysql-cheat-sheet)
 * [Schlimmer als im Film, am besten man sagt nichts mehr.](https://www.dailydot.com/unclick/pycon-dongle-joke-misogyny-sexism-adria-richards/)
+* [`wsl --install -d debian`](https://devblogs.microsoft.com/commandline/distro-installation-added-to-wsl-install-in-windows-10-insiders-preview-build-20246/) - Und um zu wissen was es so gibt, `wsl --list --online`.
+* [Freut euch drauf, es wurden wieder Krankenhäuser "auf gemacht" und Millionen Krankendaten "hinausgetragen".](https://www.bleepingcomputer.com/news/security/brooklyn-and-vermont-hospitals-are-latest-ryuk-ransomware-victims/) - Das ist die Zukunft die ihr kriegt, wenn ihr "die totale Vernetzung" wollt.
+* [WordPress wurde in der Version 5.5.2 veröffentlicht.](https://wordpress.org/news/2020/10/wordpress-5-5-2-security-and-maintenance-release/)
+* [Es gibt Jitsi auch für den Desktop.](https://scheible.it/jitsi-meet-desktop/)
+* [Freiheitsrecht.org hat sich die Mühe gemacht und den aktuellen Stand von "Welche Grundgesetze wurden jetzt noch nicht entfernt" zusammengestellt.](https://freiheitsrechte.org/corona-und-grundrechte/)
+* [>>Künftig soll der Umgang mit illegalen Inhalten im Internet europaweit besser geregelt werden. Einem Medienbericht zufolge setzt sich nun Frankreich dafür ein, dass das kommende Gesetz für digitale Dienste auch bei legalen, aber schädlichen Inhalten wie Desinformation greifen soll.<<](https://netzpolitik.org/2020/musikindustrie-geht-gegen-youtube-dl-vor-und-behindert-damit-unsere-arbeit/)
+* [Kuketz hat sich das Matrix-Protokoll inklusive Stiftung und Client sehr genau angeschaut. Danke dafür!](https://www.kuketz-blog.de/element-messaging-ueber-die-matrix-messenger-teil7/)
 * [Kanal9TV: Freibergsdorfer Hammer um 1980](https://www.youtube.com/watch?v=VQ0DRHOBrL0)
 * [Auch die Arktis stirbt.](https://netzfrauen.org/2020/10/30/arctic-ocean/)
 * [Nextcloud Desktop Client wurde in der Version 3.0.3 veröffentlicht.](https://nextcloud.com/blog/desktop-client-3-0-3-is-here-with-over-a-dozen-fixes/)
