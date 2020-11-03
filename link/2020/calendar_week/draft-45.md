@@ -6,3 +6,8 @@
 * [Realitätsabgleich - die Gesundheitsämter sind längst über ihrer Kotzgrenze, der heiligen schwarzen Null vom Rollstuhlterrorist sei dank.](https://www.kuketz-blog.de/gesundheitsaemter-austausch-sensibler-daten-per-e-mail/)
 * [Sehr stark, HCL Domino kann man jetzt auch via Podman starten.](http://blog.nashcom.de/nashcomblog.nsf/dx/podman-vs-docker-on-centos-8.htm)
 * [Mit `Kotlin/Native` Anwendungen für mehrere Plattformen bauen?](https://kotlinlang.org/docs/reference/native-overview.html)
+* [Wahlbeobachter in den USA im Jahr 2020.](https://blog.fefe.de/?ts=a15ee93f)
+* [Nein? Doch! Oh? Die Bremer CDU bricht das Eis und erklärt das Unmögliche, Corona Spionage-App für alle sonst Bußgeld.](https://blog.fefe.de/?ts=a15ee690)
+* [Hier wird euch gezeigt wie ihr mit Flutter eine Liste erstellt.](https://opensource.com/article/20/11/flutter-lists-mobile-app)
+* [Pyston wurde in der Version v2 veröffentlicht.](https://blog.pyston.org/2020/10/28/pyston-v2-20-faster-python/)
+* [Mit Hilfe von Gcam Services Provider eine Google Camera App auf einem ent-googletem Android nutzen.](https://www.kuketz-blog.de/google-camera-auf-googlefreien-androiden-gcam-services-provider/)
