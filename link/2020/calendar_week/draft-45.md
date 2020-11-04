@@ -11,3 +11,9 @@
 * [Hier wird euch gezeigt wie ihr mit Flutter eine Liste erstellt.](https://opensource.com/article/20/11/flutter-lists-mobile-app)
 * [Pyston wurde in der Version v2 veröffentlicht.](https://blog.pyston.org/2020/10/28/pyston-v2-20-faster-python/)
 * [Mit Hilfe von Gcam Services Provider eine Google Camera App auf einem ent-googletem Android nutzen.](https://www.kuketz-blog.de/google-camera-auf-googlefreien-androiden-gcam-services-provider/)
+* [Nein? Doch! Oh? Microsoft Office 365 und der Datenschutz kommen einfach nicht zusammen.](https://netzpolitik.org/2020/office-365-in-der-schule-grobe-verletzungen-datenschutzrechtlicher-vorschriften/)
+* [Mattel ist kaputt, so kaputt.](https://www.bleepingcomputer.com/news/security/leading-toy-maker-mattel-hit-by-ransomware/)
+* [Früher ging es nur um Klamotten. Heute braucht man ein IPad um dem Schulunterricht folgen zu dürfen.](https://www.golem.de/news/hartz-iv-schueler-bekommen-vom-amt-kein-ipad-bezahlt-2011-151903.html) - Bekloppt in vielerlei Hinsicht, Technikneutral ist es nicht und dass die Schule den Eltern mal so eben aufbürgt ein Furzprodukt kaufen zu müssen ist illegal.
+* [Hier wird euch gezeigt wie ihr mit npm und nodejs eine asynchrone Suchanwendung in Nachrichten schreibt.](https://opensource.com/article/20/11/top-level-await-javascript)
+* [Laut Altmeiner passen Leistungsschutzrecht und Fair-Use einfach nicht zusammen.](https://blog.fefe.de/?ts=a15c45c7) - Nein? Doch! Gähn!
+* [Github Actions ist kaputt.](https://blog.fefe.de/?ts=a15f7c2e)
