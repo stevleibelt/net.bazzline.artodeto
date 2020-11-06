@@ -34,3 +34,16 @@
 * [SSL Zertifikate halten bald nur noch 389 Tage.](http://blog.nashcom.de/nashcomblog.nsf/dx/the-new-magic-number-of-the-year-is-398.htm)
 * [Schöner deutscher Staat, er sagt Ja nur Arbeit und nein zur Kultur. Hey, was hat uns Kultur schon gebracht? Diese Last wie Demokratie und Grundrechte, das braucht doch keiner wenn er Autos bauen darf die er sich nie leisten kann.](https://verfassungsblog.de/ist-das-kunst-dann-kann-das-weg/)
 * [Es gibt jetzt Solarmodule für eure Fensterrahmen.](https://www.sonnenseite.com/de/wissenschaft/solarmodul-in-08-15-fensterrahmen-integrierbar/)
+* [Digitalisierung für das Volk? Na nur für einen ganz kleinen Kreis. Da wo es der Masse etwas nützen könnte wird gespart. Zum Beispiel bei den Videokonferenzräumen am Landesgericht. In München gibt es genau einen Raum dafür.](https://blog.fefe.de/?ts=a15d1fde)
+* [Günther Oettinger brachte Stuttgart21 trotz Proteste auf dem Weg und wird jetzt entlohnt indem er bei der Tunnelbohrfirma im Aufsichtsrat sitzen darf.](https://blog.fefe.de/?ts=a15a5a42)
+* [RabbitMQ wurde in der Version 3.8.9 veröffentlicht.](https://www.rabbitmq.com/blog/2020/11/06/this-month-in-rabbitmq-augsep-2020-recap/)
+* [Camparie hat der gemeinschaft 2 TB an Daten zur Verfügung gestellt.](https://www.bleepingcomputer.com/news/security/campari-hit-by-ragnar-locker-ransomware-15-million-demanded/)
+* [Mit ChaosMesh könnt ihr euren Kubernetes-Cluster schön durchprüfen.](https://www.percona.com/blog/2020/11/05/chaosmesh-to-create-chaos-in-kubernetes/)
+* [Die USA wollen wohl per Gesetz "pay per privacy" verankern.](https://netzpolitik.org/2020/us-volksentscheid-ein-schritt-vor-zwei-zurueck/) - Privatssphäre ist damit in den USA kein Grundrecht.
+* [Wisst ihr was während der politischen Corona-Problematik gemacht wird? Gesetze erlassen bis der Ratssaal glüht.](https://netzpolitik.org/2020/sachverstaendigenanhoerungen-im-schnelldurchgang-durch-die-parlamente-gehievt/) - Die gleichgeschalteten Medien berichten ja nicht drüber.
+* [Nein? Doch! Oh? Obwohl uns versprochen wurde "dass das nie kommen würde", kommt es jetzt, Fingerabdrücke per Gesetz im Personalausweis.](https://netzpolitik.org/2020/bits-bundestag-will-verpflichtende-fingerabdruecke-in-paessen-so-kannst-du-dich-wehren/) - Verräterparteien!
+* [Hier wird euch gezeigt wie ihr die UFW installiert und administriert.](https://goneuland.de/debian-10-buster-ufw-uncomplicated-firewall-einrichten/)
+* [Der NABU Sachsen berichtet über den aktuellen Stand der Sanierungsarbeiten am Röderteich.](https://sachsen.nabu.de/news/2020/28906.html)
+* [Achso, eure Fingerabdrücke bleiben jetzt für ewig in einer Datenbank. Das wird die Polizei mit Sicherheit nie Missbrauchen, niemand hat die Absicht Datensätze zu missbrauchen.](https://netzpolitik.org/2020/biometrische-daten-bundestag-beschloss-speicherpflicht-fuer-fingerabdruecke-in-personalausweisen/)
+* [Neben "Datensparsamkeit" hat die EU noch Ass im Ärmel die sie ausspielen könnte, Interoperabilität zwischen Diensten.](https://netzpolitik.org/2020/interoperabilitaet-wie-die-eu-die-sozialen-netzwerke-aufbrechen-kann/) - Das wäre eine schöne Welt, offene Standards und jeder kann nehmen was er will.
+* [Ein Worm/Botnet verbreitet sich über Pastebin.](https://www.bleepingcomputer.com/news/security/reverse-shell-botnet-gitpaste-12-spreads-via-github-and-pastebin/)
