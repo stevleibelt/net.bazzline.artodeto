@@ -47,3 +47,15 @@
 * [Achso, eure Fingerabdrücke bleiben jetzt für ewig in einer Datenbank. Das wird die Polizei mit Sicherheit nie Missbrauchen, niemand hat die Absicht Datensätze zu missbrauchen.](https://netzpolitik.org/2020/biometrische-daten-bundestag-beschloss-speicherpflicht-fuer-fingerabdruecke-in-personalausweisen/)
 * [Neben "Datensparsamkeit" hat die EU noch Ass im Ärmel die sie ausspielen könnte, Interoperabilität zwischen Diensten.](https://netzpolitik.org/2020/interoperabilitaet-wie-die-eu-die-sozialen-netzwerke-aufbrechen-kann/) - Das wäre eine schöne Welt, offene Standards und jeder kann nehmen was er will.
 * [Ein Worm/Botnet verbreitet sich über Pastebin.](https://www.bleepingcomputer.com/news/security/reverse-shell-botnet-gitpaste-12-spreads-via-github-and-pastebin/)
+* [Gimp wurde in der Version 2.99.2 veröffentlicht.](https://www.planet3dnow.de/cms/59591-gimp-2-99-2/)
+* [Hoffentlich ernst gemeint, Gröhlemeier meint so >>die Reichen müssen den Künstlern in der Kriese helfen<<.](https://tuxproject.de/blog/2020/11/corona-einfach-wegbezahlen/) - Hoffen wir einmal, immerhin ist er bisher durch "Steueroptimierungen" aufgefallen. Lebt in Deutschland aber bezahlt keinerlei Steuern.
+* [Die Videos von der Arch Conf 2020 sind online und sehenswert, ich hab schon vier durch.](https://conf.archlinux.org/posts/arch_conf_online_2020_content_release/)
+* [PostmarkOS wurde in der Version 2020-11 veröffentlicht.](https://postmarketos.org/blog/2020/11/06/postmarketOS-in-2020-11-part-1/)
+* [Stalld wurde in der Version 1.2 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=New-Stalld-Releases)
+* [Noch eine Ecke wo die Blockpartei schlampt, Einreisebescheinigung, bisher ein kleiner Zettel im Flugzeug, zukünftig App-Zwang etc. - ach so und wie üblich, Sicherheit und Integrität wird später versprochen, kommt also nie.](https://netzpolitik.org/2020/einreise-aus-risikogebieten-digitalisierung-an-der-grenze/)
+* [Hey, gebt der Contentmafia einen kleinen Finger und sie nutzen es als Atombombe.](https://netzpolitik.org/2020/youtube-dl-musikindustrie-schiesst-mit-der-schrotflinte-auf-open-source/)
+* [Unter dem Deckmantel "Terrorismusbekämpfung" dürfen die deutschen Geheimdienste jetzt auf Ewig überall und jeden beschnüffeln, denn im Zweifel ist jeder Bürger ein Terrorist!](https://www.golem.de/news/bundestag-geheimdienstbefugnisse-gelten-unbefristet-2011-151951.html)
+* [Es reicht nicht, dass wir den Meeresbewohnern mit Supertankern auf den Geist gehen, jetzt setzten wir auch noch Schall ein um den Ozean mit Drohnen voll zustopfen.](https://www.golem.de/news/datenuebertragung-bundeswehr-testet-schall-internet-unter-wasser-2011-151764.html) - Hey, was soll da schon passieren?
+* [Lighthouse wurde in der Version v0.9 veröffentlicht.](https://blog.ret2.io/2020/04/29/lighthouse-v0.9/)
+* [Hier wird euch gezeigt wie ihr euren Jitsi-Server auf Geschwindigkeit optimiert.](https://scheible.it/jitsi-meet_geschwindigkeit-performance/)
+* [Mutt wurde in der Version 2.0 veröffentlicht.](https://lwn.net/Articles/836544/rss)
