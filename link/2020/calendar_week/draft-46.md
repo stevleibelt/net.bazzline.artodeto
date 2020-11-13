@@ -40,3 +40,10 @@
 * [Noch einmal etwas von der Firma "Da wo wir sind ist vorn", nachdem Google allen auf den Geist mit seinen tausend agiel Protokollideen ging merken sie selber, dass ihr scheiß Protokoll nur nervt und stellen das "Killerfeature" dafür ein. HTTP/1.1 FTW!](https://www.golem.de/news/quic-chrome-entfernt-server-push-fuer-http-verbindungen-2011-152064.html)
 * [Und zum Dritten, Googles zentraler "App-Store" verteilt dann mal schön Malware.](https://blog.fefe.de/?ts=a153dbb0) - Hätte ich nicht gedacht du, dass sich die Cracker auf den Single Point of Failure konzentrieren.
 * [Das Bundeskartellamt prüft dann Mal WhatsApp etc. nach ihrer Datenschutzfreundlichkeit.](https://netzpolitik.org/2020/whatsapp-co-bundeskartellamt-untersucht-messenger-apps/)
+* [Kanal9TV: Schlüsselübergabe an den Freiberger Karneval Klub](https://www.youtube.com/watch?v=-aGh158LAjI)
+* [Diese atomare Energie ist ja so günstig, für die Betreiber zumindest. Vattenfall kriegt für Atomkraftwerke Nachzahlungen obwohl die Dinger keinen Strom mehr produzieren.](https://www.sonnenseite.com/de/wirtschaft/atomarer-reststrom-wird-teurer/)
+* [Die Sony Playstation 5 Controller hören immer mit.](https://www.golem.de/news/sony-playstation-5-hoert-in-multiplayerspielen-mit-2011-152086.html)
+* [PostgreSQL wurde in den Versionen PostgreSQL 13.1, 12.5, 11.10, 10.15, 9.6.20 und 9.5.24 veröffentlicht.](https://www.postgresql.org/about/news/postgresql-131-125-1110-1015-9620-and-9524-released-2111/)
+* [Wenn das Bundesinstitut das Landesgericht Köln ignoriert weil diese die Veröffentlichung der Risikobewertung zum Glyphosat-Gutachten fordert, kannst du dir ausdenken wie illegal Glyphosat so ist.](https://netzpolitik.org/2020/zensurheberrecht-glyphosat-gutachten-durfte-veroeffentlicht-werden/)
+* [Österreich sperrt dann jetzt mal alle weg, die "geistig abnorm" sind.](https://blog.fefe.de/?ts=a150f471)
+* [Das Gefängnis in dem Julian Assange ist, ist so schlimm, da werden nicht einmal Selbstmorde angezeigt.](https://blog.fefe.de/?ts=a150f090)
