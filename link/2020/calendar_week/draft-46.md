@@ -47,3 +47,9 @@
 * [Wenn das Bundesinstitut das Landesgericht Köln ignoriert weil diese die Veröffentlichung der Risikobewertung zum Glyphosat-Gutachten fordert, kannst du dir ausdenken wie illegal Glyphosat so ist.](https://netzpolitik.org/2020/zensurheberrecht-glyphosat-gutachten-durfte-veroeffentlicht-werden/)
 * [Österreich sperrt dann jetzt mal alle weg, die "geistig abnorm" sind.](https://blog.fefe.de/?ts=a150f471)
 * [Das Gefängnis in dem Julian Assange ist, ist so schlimm, da werden nicht einmal Selbstmorde angezeigt.](https://blog.fefe.de/?ts=a150f090)
+* [Nach Afrika jetzt auch Indien, keiner will Genscheiß anbauen.](https://netzfrauen.org/2020/11/13/india-16/) - Ich sehe schon, bald ist es Alternativlos und Deutschland muss Genscheiß anbauen für den Export.
+* [Warum nicht schon eher? Kinobetreiber überlegen eine Art Genossenschaft aufzubauen.](https://www.golem.de/news/film-kleinere-kinos-wollen-kunden-digital-erreichen-2011-152095.html)
+* [>>Drei von vier Menschen in Deutschland sind unzufrieden mit unserem Umgang mit der Umwelt.<<](https://www.sonnenseite.com/de/tipps/ard-umfrage-deutsche-bewerten-umgang-mit-umwelt-sehr-kritisch/) - Und das kommt aus einer ARD-Umfrage. Ich kann mir nicht vorstellen wie viel da optimiert wurde, dass wenigst einer von vier Bürgern mit dem Umgang der Umwelt in Deutschland zufrieden ist.
+* [sturm-monitor.de](https://www.sturm-monitor.de)
+* [Von den USA lernen zu siegen, euer Softwareprojekt liegt weiter hinter dem Zeitplan zurück? Sagt einfach "die Chinesen hatten uns gehackt" und schon müsst ihr ja quasi alles umschreiben und habt noch mal Jahre Zeit gewonnen.](https://www.golem.de/news/us-air-force-chinesen-hatten-zugriff-auf-software-des-f-35-kampfjets-2011-152098.html)
+* [Die Welt ist fertig, also die Welt die wir Menschen benötigen um Leben zu können.](https://www.nature.com/articles/s41598-020-75481-z)
