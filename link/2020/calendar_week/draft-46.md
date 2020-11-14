@@ -53,3 +53,8 @@
 * [sturm-monitor.de](https://www.sturm-monitor.de)
 * [Von den USA lernen zu siegen, euer Softwareprojekt liegt weiter hinter dem Zeitplan zurück? Sagt einfach "die Chinesen hatten uns gehackt" und schon müsst ihr ja quasi alles umschreiben und habt noch mal Jahre Zeit gewonnen.](https://www.golem.de/news/us-air-force-chinesen-hatten-zugriff-auf-software-des-f-35-kampfjets-2011-152098.html)
 * [Die Welt ist fertig, also die Welt die wir Menschen benötigen um Leben zu können.](https://www.nature.com/articles/s41598-020-75481-z)
+* [Pluto TV hat 3,2 Millionen Nutzerdatensätze der Allgemeinheit zur Verfügung gestellt.](https://www.bleepingcomputer.com/news/security/hacker-shares-32-million-pluto-tv-accounts-for-free-on-forum/)
+* [Betonteile wie Lärmschutzplatten fallen auf den Autobahnen herunter, so kaputt gespart wurden die Autobahnen. Gleicher Zustand wie unser Gesundheitssystem und der wahre Grund der "Wirtschaftslokotomive Deutschlands".](https://blog.fefe.de/?ts=a14edc0f)
+* [PowerShell wurde in der Version 7.1 veröffentlicht.](https://www.windowspro.de/news/powershell-71-als-store-app-verfuegbar-updates-fuer-psreadline-secretmanagement-powershellget)
+* [Hier wird euch gezeigt wie ihr mit msmtp E-Mails verschickt.](https://goneuland.de/debian-10-buster-e-mails-versenden-mit-msmtp/)
+* [Und hier wird euch gezeigt wie ihr mit finger Dinge melden könnt - zum Beispiel eine E-Mail verschicken wenn sich ein Benutzer angemeldet hat.](https://goneuland.de/debian-10-buster-email-benachrichtigung-bei-erfolgreichem-login-per-ssh/)
