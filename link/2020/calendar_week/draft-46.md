@@ -58,3 +58,5 @@
 * [PowerShell wurde in der Version 7.1 veröffentlicht.](https://www.windowspro.de/news/powershell-71-als-store-app-verfuegbar-updates-fuer-psreadline-secretmanagement-powershellget)
 * [Hier wird euch gezeigt wie ihr mit msmtp E-Mails verschickt.](https://goneuland.de/debian-10-buster-e-mails-versenden-mit-msmtp/)
 * [Und hier wird euch gezeigt wie ihr mit finger Dinge melden könnt - zum Beispiel eine E-Mail verschicken wenn sich ein Benutzer angemeldet hat.](https://goneuland.de/debian-10-buster-email-benachrichtigung-bei-erfolgreichem-login-per-ssh/)
+* [PinePhone hat sein November-Update online gestellt.](https://www.pine64.org/2020/11/15/november-update-kde-pinephone-ce-and-a-peek-into-the-future/)
+* [Wisst ihr das eurer Elektroschrott besser gesichert ist als euer Fleisch von Übersee?](https://netzfrauen.org/2020/11/15/cattle-ship/)
