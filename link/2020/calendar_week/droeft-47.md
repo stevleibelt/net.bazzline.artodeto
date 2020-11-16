@@ -1,0 +1,8 @@
+* [Microsofts "Secure Boot" ist so verkackt wie man es damals gedacht hatte.](https://www.golem.de/news/boothole-kein-plan-keine-sicherheit-2011-152108.html)
+* [Hier wird euch gezeigt wie ihr im JavaScript eure Jitsi-Räume defininiert.](https://scheible.it/jitsi-meet-api/)
+* [Die große Kreis- und Bergstadt Freiberg schickt den Weihnachtszauber für den verbotenen Weihnachtsmarkt in die Herzen der Menschen.](https://www.freiberg.de/stadt-und-buerger/aktuelles/neuigkeiten/weihnachtszauber-statt-weihnachtsmarkt)
+* [Stand Heute (2020-11-16) sind 11 Menschen im Landkreis Mittelsachsen mit Covid-19 gestorben.](https://www.landkreis-mittelsachsen.de/corona.html)
+* [Verrückt, private und öffentliche Daten von Bürgern innerhalb Europa sollen "nutzbar" gemacht werden. Die Infrastruktur wie auch die Händler und Erfasser sollen gemeinnützig sein, aber hohe technische Standards erhalten.](https://netzpolitik.org/2020/open-data-eu-moechte-datenspenden-erleichtern/) - Am Ende sind alle geil auf meine privaten Daten und ich bin nur noch mit Opt-Out-Zettel-ausfüllen beschäftigt.
+* [Kapitalismus im Endstadium, Benutzer von "wir haben recht" bezahlen Mobilfunkdaten damit deren Schmierphone ihnen Werbung anzeigt.](https://www.golem.de/news/klage-gegen-google-android-soll-260-mbyte-mobilfunkdaten-pro-monat-uebertragen-2011-152134.html)
+* [Kuketz zeigt euch wie ihr schnell Widerspruch gegen Direktwerbung und Profiling sowie Meinungsforschung einlegt.](https://www.kuketz-blog.de/widerspruch-gegen-direktwerbung-profiling-meinungsforschung-etc-einlegen/)
+* [Hier wird euch gezeigt wie ihr mit `tfenv` zwischen verschiedenen Terraform-Versionen wechselt.](https://opensource.com/article/20/11/tfenv)
