@@ -17,3 +17,7 @@
 * [Nextcloud zeigt euch was ihr alles mit eurer Nextcloud machen könnt um mal richtig einen ab zu kollaborieren.](https://nextcloud.com/blog/get-a-productivity-boost-from-integrated-communication/)
 * [Letzte Bastion Bundesrat, vorerst offiziell keinen Bundestrojaner für die 19 Geheimdienste innerhalb Deutschlands.](https://netzpolitik.org/2020/bundesrat-wirtschaftsausschuss-lehnt-staatstrojaner-fuer-geheimdienste-ab/)
 * [`cargo clippy` ist Rusts optionaler Linter.](https://opensource.com/article/20/11/commands-rusts-cargo)
+* [Wenn ein Kryptomeister schon sagt "Blockchain Wahlen sind noch beschissener als Internet Wahlen".](https://blog.fefe.de/?ts=a14d7cb9)
+* [Kanada hat sich gegen seine Bürger entschieden und bespitzelt diese im vollen Umfang ab jetzt offiziell.](https://blog.fefe.de/?ts=a14d705a)
+* [Apple verkauft die Bewegungsdaten seiner Nutzer an das US-Militär.](https://blog.fefe.de/?ts=a14d4694)
+* [Cisco ist kaputt.](https://blog.fefe.de/?ts=a14d44f2)
