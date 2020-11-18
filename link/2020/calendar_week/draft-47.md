@@ -21,3 +21,5 @@
 * [Kanada hat sich gegen seine Bürger entschieden und bespitzelt diese im vollen Umfang ab jetzt offiziell.](https://blog.fefe.de/?ts=a14d705a)
 * [Apple verkauft die Bewegungsdaten seiner Nutzer an das US-Militär.](https://blog.fefe.de/?ts=a14d4694)
 * [Cisco ist kaputt.](https://blog.fefe.de/?ts=a14d44f2)
+* [Bill Gates macht wieder Werbung für seine Pharmafirmen und versucht lustig zu sein, die Bürger kontern mit >>"Wir bitten sie (auch), Steuern zu zahlen!"<<.](https://blog.fefe.de/?ts=a14bc469)
+* [Jo, liest sich wie mein Alltag im Home Office vor vielen Jahren.](https://blog.fefe.de/?ts=a14a3d58)
