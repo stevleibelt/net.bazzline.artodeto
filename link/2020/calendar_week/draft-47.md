@@ -23,3 +23,11 @@
 * [Cisco ist kaputt.](https://blog.fefe.de/?ts=a14d44f2)
 * [Bill Gates macht wieder Werbung für seine Pharmafirmen und versucht lustig zu sein, die Bürger kontern mit >>"Wir bitten sie (auch), Steuern zu zahlen!"<<.](https://blog.fefe.de/?ts=a14bc469)
 * [Jo, liest sich wie mein Alltag im Home Office vor vielen Jahren.](https://blog.fefe.de/?ts=a14a3d58)
+* [Kanal9TV: Freiberger Obermarkt - Die Stadtführungen gibt es weiterhin.](https://www.youtube.com/watch?v=jenIhZUS6yc)
+* [Unser Kapitalismus: Rumänen in Deutschland, Asiaten in Rumänien](https://www.arte.tv/de/videos/098419-002-A/re-schuften-im-schlachthof/) - Dieses Video ist die Quintessenz der christlichen Werte der zivilisierten ersten Welt.
+* [Mozilla übergibt ihre Servo-Engine der Linux Foundation.](https://www.golem.de/news/browser-engine-mozilla-gibt-servo-an-die-linux-foundation-ab-2011-152199.html)
+* [Hier gibt es Ansible auf einem Blatt.](https://opensource.com/article/20/11/ansible-cheat-sheet)
+* [NewPipe wurde in der Version 0.20.3 veröffentlicht.](https://newpipe.schabi.org/blog/pinned/release/newpipe-0.20.3/)
+* [Notes/Domino hat das FP2 für die Version 11.0.1 veröffentlicht.](http://blog.nashcom.de/nashcomblog.nsf/dx/notesdomino-11.0.1-fp2-has-been-released.htm)
+* [Traveler wurde in der Version 11.0.2 veröffentlicht.](https://n-komm.de/hcl-traveler-11-0-2-veroeffentlicht/)
+* [Nextcloud Android Client wurde in der Version 3.14 veröffentlicht.](https://nextcloud.com/blog/nextcloud-for-android-3-14-brings-status-setting-support-push-notification-support-sharing-enhancements-and-over-380-other-improvements/)
