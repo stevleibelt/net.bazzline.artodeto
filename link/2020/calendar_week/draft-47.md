@@ -31,3 +31,13 @@
 * [Notes/Domino hat das FP2 für die Version 11.0.1 veröffentlicht.](http://blog.nashcom.de/nashcomblog.nsf/dx/notesdomino-11.0.1-fp2-has-been-released.htm)
 * [Traveler wurde in der Version 11.0.2 veröffentlicht.](https://n-komm.de/hcl-traveler-11-0-2-veroeffentlicht/)
 * [Nextcloud Android Client wurde in der Version 3.14 veröffentlicht.](https://nextcloud.com/blog/nextcloud-for-android-3-14-brings-status-setting-support-push-notification-support-sharing-enhancements-and-over-380-other-improvements/)
+* [>>Das Überspringen der natürlicherweise in Wirtstieren wie Fledermäusen oder anderen Wildtieren lebenden Erreger auf Menschen werde durch einen zu engen Kontakt zwischen Menschen und Wildtieren ermöglicht, der durch das menschliche Vordringen in immer entlegenere Regionen der Erde stark befördert werde. Die Übernutzung arten- und virenreicher Regionen in den Tropen durch Abholzung von Regenwäldern und Siedlungsbau sowie den unkontrollierte Handel mit Wildtieren sehen die Forscher nach Auswertung von mehr als 600 wissenschaftlichen Arbeiten zum Thema als die treibenden Faktoren globaler Pandemien an.<<](https://blog.fefe.de/?ts=a148ad7e)
+* [Trend Micro ist kaputt.](https://blog.fefe.de/?ts=a148aba1)
+* [Routerzwang 2.0, danke Blockpartei.](https://www.golem.de/news/gesetzesaenderung-endgeraetehersteller-sehen-wiedereinfuehrung-des-routerzwangs-2011-152250.html)
+* [Rust wurde in der Version 1.48.0 veröffentlicht.](https://lwn.net/Articles/837771/rss)
+* [WSUS Updates per Script ablehnen und löschen.](https://www.windowspro.de/wolfgang-sommergut/wsus-speicherplatz-zurueckgewinnen-alte-ersetzte-updates-loeschen)
+* [>>[...] Dazu gehört z.B. dass man Mitarbeiter-Ängste ernst nimmt, aber unsere Regierung müsste auch endlich mal ansagen, wer für Umsatzausfälle aufkommt, während die Großvermögen weiter wachsen. Soziale Gerechtigkeit wär hier das Stichwort. Aber abgesehen von Marco Bülow scheint sich da aktuell niemand für zu interessieren. [...]<<](https://blog.fefe.de/?ts=a14969db) - Danke FeFe, dachte schon du ignorierst diese wahren Probleme (oder sie kommen nicht dicht genug an dich heran).
+* [Fürs Logbuch, ab Domino 10 wird die `dbdirman.nsf` nicht mehr benötigt.](http://blog.nashcom.de/nashcomblog.nsf/dx/domino-db-directory-cache-changes-in-domino-10-no-dbdirman.nsf-not-needed-any-more.htm)
+* [Also Notes/Domino 12 wird stark.](https://n-komm.de/ausblick-auf-domino-v12/)
+* [Hackfressenbuchs Schreiber ist kaputt, der nimmt jetzt Anrufe ohne euer Wissen entgegen.](https://www.golem.de/news/sicherheitsluecke-facebook-messenger-erlaubt-belauschen-von-nutzern-2011-152270.html)
+* [Nextcloud wurde in der Version 20.0.2 veröffentlicht.](https://help.nextcloud.com/t/nextcloud-20-0-2-well-done/98739)
