@@ -41,3 +41,7 @@
 * [Also Notes/Domino 12 wird stark.](https://n-komm.de/ausblick-auf-domino-v12/)
 * [Hackfressenbuchs Schreiber ist kaputt, der nimmt jetzt Anrufe ohne euer Wissen entgegen.](https://www.golem.de/news/sicherheitsluecke-facebook-messenger-erlaubt-belauschen-von-nutzern-2011-152270.html)
 * [Nextcloud wurde in der Version 20.0.2 veröffentlicht.](https://help.nextcloud.com/t/nextcloud-20-0-2-well-done/98739)
+* [Kuketz für euch ganz kurz in NetGuard für Android ein.](https://www.kuketz-blog.de/netguard-umgang-mit-ad-block-listen/)
+* [Realitätsabgleich Abfall den ihr nicht seht.](https://www.sonnenseite.com/de/umwelt/invisible-waste-abfaelle-die-wir-nicht-sehen/)
+* [Nein? Doch! Oh? Wenn wir regionales Essen durch den Einheitsbrei der Industrie ersetzen machen wir die Umwelt kaputt.](https://www.sonnenseite.com/de/wissenschaft/neue-studie-zeigt-folgen-der-umstellung-globaler-ernaehrungsgewohnheiten-ueber-jahrzehnte/)
+* [Wine wurde in der Version 5.22 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=Wine-5.22-Released)
