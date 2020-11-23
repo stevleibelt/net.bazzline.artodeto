@@ -1,0 +1,6 @@
+* [Immutable Objects gibt es auch in Python.](https://www.onli-blogging.de/1990/Immutability-und-ein-praktischer-Einsatzzweck.html)
+* [>>Von der Ausnahme zum Alltäglichen - Sicherheitsgesetzgebung in der Krise<<](https://verfassungsblog.de/von-der-ausnahme-zum-alltaglichen/)
+* [Kuketz sagt euch welche Browser ihr unter Android nutzen solltet.](https://www.kuketz-blog.de/leserfrage-welcher-browser-ist-auf-android-empfehlenswert/)
+* [WebPack, Bower, Gulp, Grunt etc.](https://opensource.com/article/20/11/javascript-build-tools)
+* [NewPipe wurde in der Version 0.20.4 veröffentlicht.](https://newpipe.schabi.org/blog/pinned/release/newpipe-0.20.4/)
+* [Die Eletronic Frontier Foundation hat die Webseite "Cover Your Tracks" veröffentlicht mit der Ihr testen könnt wie gut ihr im Internet nachverfolgt werden könnt.](https://firstpartysimulator.net/)
