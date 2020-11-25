@@ -13,3 +13,12 @@
 * [PulseAudio wurde in der Version 14.0 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=PulseAudio-14-Released)
 * [GNU Guix wurde in der Version 1.2.0 veröffentlicht.](https://lwn.net/Articles/838177/rss)
 * [Warum haben alle Politiker so Angst wegen Covid-19? Weil es zeigt wie kaputt gespart das deutsche Krankensystem ist. Da wurden Leute "outgesourced" die jetzt für weniger Geld, mit weniger Ausrüstung und schlechterer sozialer Absicherung mehr arbeiten sollen.](https://blog.fefe.de/?ts=a1421c7d)
+* [Ladensäulen in Deutschland? Ein neues Monopol mit Staatshilfen.](https://www.sonnenseite.com/de/mobilitaet/deutschland-darf-nicht-zum-eldorado-der-ladesaeulen-monopolisten-werden/) - Klingt altmodisch, aber Infrastruktur gehört in Staatshand.
+* [Fossil ist scheinbar ein GIT mit WIKI, Forum, BugTracker etc. - wie man heute so schön schreibt, Batteries inside.](https://opensource.com/article/20/11/fossil)
+* [Hier wird euch gezeigt wie ihr die lästige "Meet Now" Werbung unter Windows 10 abstellt.](https://www.bleepingcomputer.com/news/microsoft/how-to-disable-microsofts-new-meet-now-feature-in-windows-10/)
+* [McAfee ist kaputt, dadurch kommen böse Menschen auf euren Computer.](https://blog.fefe.de/?ts=a14050d9)
+* [Zu Thanks Giving sieht man die wahre Armut im Land des Turbokapitalismus.](https://blog.fefe.de/?ts=a1404542)
+* [So, So, Uruguay fährt mit einer kompletten Durchseuchung seiner Bevölkerung mit Covid-19 ziemlich gut.](https://blog.fefe.de/?ts=a140ad0c)
+* [Ähm, die USA schicken dann mal einen Raketenzerstörer in Russlands Badewanne.](https://blog.fefe.de/?ts=a1409034)
+* [>>Microsoft hat die Office-Suite 365 um Funktionen erweitert, mit denen Unter­nehmen die Arbeitsgepflogenheiten ihrer Belegschaft ­detailliert beobachten können.<<](https://blog.fefe.de/?ts=a143bc49)
+* [>>Ich war selbst 20 Jahre in der Polizei, ich würde in der BRD nie ein Zeugenschutzprogramm annehmen.<<](https://blog.fefe.de/?ts=a14399cf)
