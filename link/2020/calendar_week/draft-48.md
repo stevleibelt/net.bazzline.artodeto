@@ -30,3 +30,10 @@
 * [In der EU diskutiert man endlich darüber, dass man Hardware lange und günstig reparieren kann.](https://netzpolitik.org/2020/recht-auf-reparatur-lang-lebe-die-hardware/)
 * [Blender wurde in der Version 2.91.0 veröffentlicht.](https://www.planet3dnow.de/cms/60197-blender-2-91-0/)
 * [Nein? Doch! Oh? Amazon, die Firma die euch gern zur Hause auspioniert, spioniert auch unverschämt seine Mitarbeiter aus.](https://netzpolitik.org/2020/ueberwachung-am-arbeitsplatz-amazon-spioniert-seinen-beschaeftigten-in-leipzig-hinterher/)
+* [Haha, ein AWS-Knoten ist kaputt und reist knapp drei Prozent der AWS-Dienste in den Keller.](https://blog.fefe.de/?ts=a14029d2) - Anderer Leute Computer, anderer Leute Computer.
+* [Filmt ihr in Frankreich einen Polizisten der jemanden verprügelt? Nun, dann macht ihr euch neuerdings strafbar.](https://blog.fefe.de/?ts=a1402364)
+* [Schufas "CheckNow" ist eine Einwilligung, dass die Flachwixer zwölf Monate all eure Kontoauszüge mitlesen dürfen.](https://blog.fefe.de/?ts=a14134ff)
+* [Jetzt kann man Solarzellen schon für wenige Eurocent herstellen, nur mit dem Wirkungsgrad und der Haltbarkeit hapert es noch etwas.](https://www.sonnenseite.com/de/wissenschaft/perowskit-solarmodule-ultraschnell-herstellbar/)
+* [Nein? Doch! Oh? Da schaut man, nach über 50 Jahren mal etwas genauer hin und sieht sofort, dass der Flugverkehr deutlich klimaschädlicher ist als von der Flugindustrie behauptet.](https://www.sonnenseite.com/de/umwelt/eu-kommissions-studie-zeigt-klimaschaedlichkeit-des-flugverkehrs-deutlich-unterschaetzt/)
+* [Systemd wurde in der Version 247 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=systemd-247)
+* [Wow, von Steuergeldern gefördert sollen Schüler ihr Zeugnis dem freien Markt zur Verfügung stellen wenn sie ein Mathetest und ein Gewinnspiel mitmachen wollen.](https://www.kuketz-blog.de/mathe-im-advent-datenschutz-steht-nicht-im-fokus/)
