@@ -6,3 +6,13 @@
 * [Ihr wollt auf Balkonien selber ein Solarmodul anbringen? >>Mach dein Strom<< hilft euch bei der Anmeldung.](https://www.sonnenseite.com/de/tipps/mach-deinen-strom-hilft/)
 * [Falls ihr es mal am Telefon braucht, die Buchstabiertafel hilft, wenn ihr nach "A wie Alfa" oder "C wie Charlie" sucht.](https://de.wikipedia.org/wiki/Buchstabiertafel)
 * [Trent-Micro ist kaputt.](https://blog.fefe.de/?ts=a13a126e)
+* [OpenZFS wurde in der Version 2.0 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=OpenZFS-2.0-Released)
+* [Zivilgesellschaftliche Organisationen? Dafür brauchen wir Geheimdienste, damit die diese Terrororganisationen richtig gut durchleuchten.](https://netzpolitik.org/2020/demokratie-leben-bundesregierung-laesst-weiterhin-zivilgesellschaftliche-organisationen-von-geheimdienst-ueberpruefen/)
+* [Die netzpolitik.org bietet einen Privacy-Score-Rechner an mit dem ihr errechnen könnt wie sicher eurer digitales Ich ist.](https://netzpolitik.org/2020/datenscham/)
+* [pip wurde in der Version 20.3 veröffentlicht.](https://lwn.net/Articles/838580)
+* [Warum kann Lidl, McDonalds und Konsorten eigentlich ihr Fleisch so billig anbieten? Weil sie den Planeten "auf der anderen Seite" kaputt machen und unmengen an Ressourcen vernichten.](https://netzfrauen.org/2020/12/01/brasilien-3/) - Achso und die Probleme mit Klimaschäden etc., aktuell kleine Beträge wie fast [6 Mrd. Euro pro Jahr](https://www.sonnenseite.com/de/wirtschaft/der-teure-preis-des-billigfleischs/), werden auf die Allgemeinheit abgewälzt.
+* [K9-Mail, das E-Mail-Programm für Android mit OpenPGP-Unterstützung!](https://k9mail.app/)
+* [dismail.de - die Plattform mit deren Hilfe ihr das Internet frei nutzen könnt.](https://dismail.de/)
+* [tchncs.de - eine Webseite die eine Sammlung ganz wunderbarer OpenSource-Software bereit stellt.](https://tchncs.de/)
+* [Hier wird euch erklärt warum `io_uring` (Async-IO) und `eBPF` so revolutionär im Linux Kernel sind.](https://www.scylladb.com/2020/05/05/how-io_uring-and-ebpf-will-revolutionize-programming-in-linux/)
+* [Androids `GO SMS Pro` ist richtig kaputt.](https://www.bleepingcomputer.com/news/security/android-app-still-exposing-messages-of-100m-users-despite-bug-fix/)
