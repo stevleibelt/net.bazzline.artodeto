@@ -16,3 +16,8 @@
 * [tchncs.de - eine Webseite die eine Sammlung ganz wunderbarer OpenSource-Software bereit stellt.](https://tchncs.de/)
 * [Hier wird euch erklärt warum `io_uring` (Async-IO) und `eBPF` so revolutionär im Linux Kernel sind.](https://www.scylladb.com/2020/05/05/how-io_uring-and-ebpf-will-revolutionize-programming-in-linux/)
 * [Androids `GO SMS Pro` ist richtig kaputt.](https://www.bleepingcomputer.com/news/security/android-app-still-exposing-messages-of-100m-users-despite-bug-fix/)
+* [`^M` in der Datei? Datei im `vi` öffnen und `:set ff-unix` ausführen.](https://www.putorius.net/remove-carriage-return-characters-linux.html)
+* [Vancouvers `Trans Link` wurde gecracked.](https://www.bleepingcomputer.com/news/security/metro-vancouvers-transit-system-hit-by-egregor-ransomware/)
+* [Mundschutz hilft nicht mehr gegen Gesichtserkennung.](https://netzpolitik.org/2020/biometrie-studie-mundschutz-hilft-nicht-mehr-gegen-gesichtserkennung/)
+* [Stratis wurde in der Version 2.3 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=Stratis-Storage-2.3)
+* ["Ich hab recht" und "nimm den scheiß hier" sind jetzt gleich auf beim Thema Mitarbeiterüberwachung.](https://netzpolitik.org/2020/arbeitnehmerinnenrechte-us-bundesbehoerde-wirft-google-ueberwachung-von-protestierenden-mitarbeitern-vor/)
