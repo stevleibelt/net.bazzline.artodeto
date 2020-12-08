@@ -3,3 +3,18 @@
 * [Am 11.12.2020 ab 9 Uhr Tag der Fernsehrat des ZDFs als Lifestream.](https://netzpolitik.org/2020/neues-aus-dem-fernsehrat-69-erstmals-virtuell-erstmals-per-livestream/)
 * [Was bedeutet das `@` Symbol in einer systemd Unit Konfigurationsdatei? Hier wird es euch erklärt.](https://opensource.com/article/20/12/multiple-service-instances-systemctl)
 * [Nein? Doch! Oh? Sozialökonomisch betrachtet ist die Massentierhaltung ein Minusgeschäfft.](https://netzfrauen.org/2020/12/07/agriculture/) - Es loht nur, weil man Gewinne privatisiert und Verluste sozialisieren kann.
+* [Microsoft Teams ist kaputt, Microsoft interessiert sich nicht für den Zeroday Explode, Electron ist und bleibt eine grundsätzlich schlechte Idee.](https://blog.fefe.de/?ts=a130d774)
+* [Wenn die Wirtschaft das Recht auf schnelles Internet mit "das ist doch Planwirtschaft!" entkräften will, weißt du, dass dies ein dringendes Recht ist was umgesetzt gehört.](https://netzpolitik.org/2020/recht-auf-schnelles-internet-abgesang-auf-eine-gute-idee/)
+* [Vulkan wurde in der Version 1.2.164 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=Vulkan-1.2.164-Released)
+* [Avira ist jetzt Norton.](https://www.bleepingcomputer.com/news/security/nortonlifelock-purchases-avira-for-360-million/)
+* [Bash wurde in der Version 5.1 veröffentlicht. Damit wurde auch Readline in der Version 8.1 veröffentlicht.](https://lwn.net/Articles/839212)
+* [Unter dem Deckmantel des Kindesmissbrauchs dürfen bald alle bei Hackfressenbuch und Luftpe eure Nachrichten durchsuchen.](https://netzpolitik.org/2020/gesetz-gegen-kindesmissbrauch-eu-parlament-gibt-weg-frei-fuer-durchleuchten-privater-nachrichten/)
+* [Verkettete Liste und der gute Geschmack.](https://github.com/mkirchner/linked-list-good-taste) - Danke [Hackernews](http://n-gate.com/hackernews/2020/12/07/0/)
+* [Hier wird mit radicle eine P2P Code-Hosting-Plattform gebaut.](https://radicle.xyz)- Danke [Hackernews](http://n-gate.com/hackernews/2020/12/07/0/)
+* [Slack wird jetzt mit Salesforce geschrieben.](https://www.salesforce.com/news/press-releases/2020/12/01/salesforce-definitive-agreement-update/) - Danke [Hackernews](http://n-gate.com/hackernews/2020/12/07/0/). Und wenn Salesforce für etwas bekannt ist, dann für ihre Einstellung zum Thema Privatssphäre von Mitarbeitern.
+* [Es gab am 25.11.2020 eine Abstimmung darüber ob der Nama "Assange" aus dem EU-Bericht zur Lage der Grundrechte herausgehalten werden soll. Die Blockpartei hat 408 mal dafür gestimmt, 191 stimmten dagegen und 93 wönnten sich nicht entscheiden.](https://martinsonneborn.de/assange-abstimmung/)
+* [Domino V12 wird man wohl per JSON konfigurieren können.](http://blog.nashcom.de/nashcomblog.nsf/dx/domino-one-touch-setup.htm)
+* [Proton wurde in der Version 5.13-3 veröffentlicht. DXVK wurde in der Version 1.7.3 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=Proton-5.13-3-Released)
+* [>>Signal schafft etwas, was vielen Messengern nicht gelingen mag: Crypto for the Masses<<](https://www.kuketz-blog.de/signal-hohe-sicherheit-und-zero-knowledge-prinzip-messenger-teil9/)
+* [Die Privatisierung der Bundesdruckerrei entschlackt den Staat halt so sehr, dass der Personalausweis und weitere Dokumente demnächst gern mal 30 Prozent teurer werden.](https://www.finanzen.de/news/2021-personalausweis-10-euro-mehr)
+* [Hier wird euch anhand eines Spiels gezeigt wie Bash funktioniert.](https://opensource.com/article/20/12/learn-bash)
