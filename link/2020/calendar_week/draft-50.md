@@ -18,3 +18,5 @@
 * [>>Signal schafft etwas, was vielen Messengern nicht gelingen mag: Crypto for the Masses<<](https://www.kuketz-blog.de/signal-hohe-sicherheit-und-zero-knowledge-prinzip-messenger-teil9/)
 * [Die Privatisierung der Bundesdruckerrei entschlackt den Staat halt so sehr, dass der Personalausweis und weitere Dokumente demnächst gern mal 30 Prozent teurer werden.](https://www.finanzen.de/news/2021-personalausweis-10-euro-mehr)
 * [Hier wird euch anhand eines Spiels gezeigt wie Bash funktioniert.](https://opensource.com/article/20/12/learn-bash)
+* [>>Spahn: "Wenn alle zusammenhalten, können wir Corona überstehen, ohne Pflegekräfte besser zu bezahlen"<<](http://feedproxy.google.com/~r/blogspot/rkEL/~3/bPv9lIpADBE/spahn-wenn-alle-zusammenhalten-konnen.html)
+* [>>Alle Bundesländer und knapp 60 Prozent der Bürgerinnen und Bürger wollen solare Selbstverbraucher von der EEG-Umlage befreien – zwei Drittel meinen, vor allen Dingen große CO2-Emittenten sollten die Energiewende finanzieren.<<](https://www.sonnenseite.com/de/energie/mehrheit-gegen-sonnensteuer/)
