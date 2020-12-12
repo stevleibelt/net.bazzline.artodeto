@@ -39,3 +39,6 @@
 * [Desto mehr Zahlen verglichen werden, desto mehr zeigt sich was hier für ein kaputtes Spiel wegen Kakalunka gefahren wird. Egal was man macht, es sterben einfach nicht genug.](https://initiative-freie-impfentscheidung.de/hoehere-sterblichkeit-wegen-corona/)
 * [11.12.2020, der Tag an dem Europa seine Meinungsfreiheit im Internet verloren hat.](https://www.patrick-breyer.de/?p=593996)
 * [Kuketz gibt euch Hinweise wie ihr trotz Schmierphone ruhig leben könnt.](https://www.kuketz-blog.de/tipps-fuer-ein-ruhiges-arbeit-und-eine-entspanntere-freizeit/)
+* [Cyberpunk 2077 und das Thema Pimmel.](https://www.polygon.com/2020/12/10/22167349/cyberpunk-2077-penis-glitch-breasts)
+* [HSE wurde in der Version 1.9 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=Micron-HSE-1.9-Open-Source)
+* [PAPPL wurde in der Version 1.0 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=PAPPL-1.0-Released)
