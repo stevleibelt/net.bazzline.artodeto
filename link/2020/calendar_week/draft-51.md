@@ -16,3 +16,15 @@
 * Corona in Sachsen, der Folgetag nach einem Test gilt als erster Tag der Quarantäne. Die positiv getestet Person ist 10 Tage in Quarantäne, oder noch zwei Tage länger wenn er nicht gegen Ende der 10 Tage frei von Symptomen ist. Die Erstkontakte sind 14 Tage in Quarantäne. Die Quarantäne beginnt für alle erneut, wenn jemand Symptome bekommt und positiv getestet wird. Die Person, die vorher schon Corona hatte, muss nicht erneut in Quarantäne.
 * [Bareos wurde in den Version 18.2.10 und 19.2.9 veröffentlicht.](https://www.bareos.com/de/Nachrichten/19.2.9-de.html)
 * [Kuketz hat eine Sicherheitsmatrix zu den aktuellen Messanger erstellt.](https://www.kuketz-blog.de/kuketz-blog-messenger-matrix-mit-fokus-it-sicherheit-datenschutz/)
+* [`dmidecode` und was man sonst macht, wenn man sich neu anmeldet.](https://opensource.com/article/20/12/linux-server)
+* [Datenschutz in der Bundesregierung? Eher nicht, fast 300 Bundestagsabgeordnete glaube noch immer, dass das Abkommen mit den USA legal ist.](https://netzpolitik.org/2020/zerschlagenes-privacy-shield-289-bundestagsabgeordnete-scheitern-am-datenschutz/)
+* [Die EU ist schon so verstrahlt, dass sie grünen Wasserstoff durch Atomreaktoren erzeugen will.](https://www.sonnenseite.com/de/energie/atomkraft-droht-teil-von-europas-wasserstoffmarkt-zu-werden/)
+* [Paris muss Strafe zahlen weil die Stadt Frauen bei der Einstellung bevorzugt. Die Bürgermeisterin findet das absurd.](https://blog.fefe.de/?ts=a127d5b3) - Schön diese Gleichheit nach dem Sturz des Patriarchats.
+* [Hier gibt es einen Cyberpunk 2077 Charakter-Plan-Rechner.](https://nukesdragons.com/cyberpunk-2077/character)
+* [Netzpolitik.org gibt ein erstes Rescume über den Stand der EU-Gesetzgebung bezüglich den Tech-Riesen wie Hackfressenbuch und "Ich hab recht!".](https://netzpolitik.org/2020/bits-die-groesste-netzpolitische-lobbyschlacht-der-20er-erreicht-ersten-hoehepunkt/)
+* [CloudLinux will CentOS beerben.](https://lwn.net/Articles/840221)
+* [Twitter verschenkt Nutzerdaten und muss nur 450.000,00 Euro Strafe zahlen.](https://netzpolitik.org/2020/dsgvo-strafe-twitter-zahlt-fuer-datenleck-nur-450-000-euro/)
+* [Mit `Send-SmigServerData` und `Receive-SmigServerData` einen Windws-Server (zum Beispiel den WSUS) auf ein neues OS migrieren.](https://4sysops.com/archives/migrate-windows-server-update-services-wsus-to-a-new-server/)
+* [Baros wurde in der Version 20 veröffentlicht.](https://www.bareos.com/de/Nachrichten/bareos-20-de.html)
+* [Die Bürgerinitiative "Right2Water" kümmert sich endlich um ein Recht auf sauberes und gesundes Wasser in Europa.](https://www.sonnenseite.com/de/umwelt/eu-trinkwasser-richtlinie-sauberes-wasser-fuer-die-ganze-eu/)
+* [Es wird immer verrückter, freie Journalisten sind immer mehr bedroht.](https://netzfrauen.org/2020/12/16/media-3/)
