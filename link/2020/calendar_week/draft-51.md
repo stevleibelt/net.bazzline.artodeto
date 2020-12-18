@@ -34,3 +34,12 @@
 * [BND-Gesetz: >>Bundesregierung beschließt Geheimdienst-Überwachung wie zu Snowden-Zeiten<<](https://netzpolitik.org/2020/bnd-gesetz-bundesregierung-beschliesst-geheimdienst-ueberwachung-wie-zu-snowden-zeiten/)
 * [>>Darf zwischen Geimpften und Ungeimpften differenziert werden?<<](https://verfassungsblog.de/bald-wird-geimpft/)
 * [>>Kartellvorwürfe gegen Google und Facebook<<](https://netzpolitik.org/2020/online-werbung-kartellvorwuerfe-gegen-google-und-facebook/)
+* [>>Nach vier Jahren Kampagnen und Verhandlungen hat sich Südamerikas größte Lebensmittelkette endlich dazu verpflichtet, Tierleid zu 100% zu verringern.<<](https://netzfrauen.org/2020/12/17/brazil-9/)
+* [>>Verbraucher*innen sollen künftig alte Handys, Taschenlampen und andere Elektrogeräte auch bei vielen Lebensmitteleinzelhändlern abgeben können.<<](https://www.sonnenseite.com/de/tipps/supermaerkte-sollen-elektroaltgeraete-zuruecknehmen/)
+* [Fitbit darf von Google gekauft werden.](https://blog.fefe.de/?ts=a1254d9f)
+* [Gutenberg will das Wirecard in China rumpfuschen darf.](https://blog.fefe.de/?ts=a1259211)
+* [Insider haben bei Solarwinds auch schon Aktienverkäufe vor dem Hack gemacht.](https://blog.fefe.de/?ts=a125fbdc)
+* [CCC: >>Offener Brief an die Bundesregierung: Angemessene Fristen statt Scheinbeteiligung<<](https://www.ccc.de/de/updates/2020/scheinbeteiligung) - Kurzum, aktuell werden neue Gesetze im Tagestakt beschlossen, dagegen muss etwas gemacht werden. Denn Gesetze sind komplex und müssen bewertet werden und dafür fehlt schlicht die Zeit.
+* [>>Das natürliche Kapital unserer Welt - Biodiversität, Luft, Wasser, Boden und Klima - ist unter Beschuss.<<](https://www.sonnenseite.com/de/tipps/standing-up-for-a-sustainable-world/)
+* [>>Vermeintliches Abfallprodukt Flugasche enthält sehr große Mengen an wertvollem Metall.<<]https://www.sonnenseite.com/de/wissenschaft/zink-aus-muellverbrennungsanlage-gewinnbar/)
+* [Die "US nuclear weapons agency" wurde auch gehackt.](https://www.bleepingcomputer.com/news/security/solarwinds-hackers-breach-us-nuclear-weapons-agency/)
