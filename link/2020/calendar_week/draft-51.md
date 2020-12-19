@@ -43,3 +43,6 @@
 * [>>Das natürliche Kapital unserer Welt - Biodiversität, Luft, Wasser, Boden und Klima - ist unter Beschuss.<<](https://www.sonnenseite.com/de/tipps/standing-up-for-a-sustainable-world/)
 * [>>Vermeintliches Abfallprodukt Flugasche enthält sehr große Mengen an wertvollem Metall.<<]https://www.sonnenseite.com/de/wissenschaft/zink-aus-muellverbrennungsanlage-gewinnbar/)
 * [Die "US nuclear weapons agency" wurde auch gehackt.](https://www.bleepingcomputer.com/news/security/solarwinds-hackers-breach-us-nuclear-weapons-agency/)
+* [Daimler, Evonik, Bayer und weitere könnten dank der Blockpartei aktiv Steuerhinzerziehung in der Größenordnung von fünf Milliarden Euro pro Jahr umsetzen.](https://www.sonnenseite.com/de/wirtschaft/noch-ein-milliarden-rabatt-bei-der-eeg-umlage/)
+* [Ihr findet man sollte mal etwas gegen den Welthunger tun? Kauft nicht in großen Supermärkten sondern nur lokal und vor Ort.](https://netzfrauen.org/2020/12/18/food-5/)
+* [Auch netzpolitik.org ermahnt die Bumsregierung bezüglich der viel zu lachsen Kontrolle von neuen Gesetzen.](https://netzpolitik.org/2020/offener-brief-an-bundesministerien-bei-neuen-gesetzen-nicht-mehr-nur-kurzes-drueberschauen/)
