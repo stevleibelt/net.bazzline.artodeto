@@ -26,3 +26,7 @@
 * [Hier wird euch gezeigt wie ihr Kubernetes unter Arch Linux laufen lasst.](https://linderud.dev/blog/kubernetes-in-arch-linux/)
 * [Karsten Loesing vom Tor-Projekt ist am 18.12.2020 gestorben.](https://lwn.net/Articles/841245)
 * [Redox OS wurde in der Version 0.6.0 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=Redox-OS-0.6-Released)
+* [>>Es ist nicht pathetisch, sondern einfach wahr: Das Ende der menschlichen Zivilisation ist möglich geworden.<<](https://www.sonnenseite.com/de/franz-alt/kommentare-interviews/die-revolution-des-mitgefuehls/)
+* [Der Brexit-Deal wurde zu Weihnachten gemacht, damit die Bevölkerung erst zwischen den Tagen oder im kommenden Jahr mit dem Quatsch "belastet wird".](https://blog.fefe.de/?ts=a11bd388)
+* [Ein Aktivist in Ghana verhindert den Bau eines Kohlekraftwerks.](https://netzfrauen.org/2020/12/26/ghana-4/)
+* [GIMP wurde in der Version 2.99.4 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=GIMP-2.99.4-Released)
