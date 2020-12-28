@@ -30,3 +30,5 @@
 * [Der Brexit-Deal wurde zu Weihnachten gemacht, damit die Bevölkerung erst zwischen den Tagen oder im kommenden Jahr mit dem Quatsch "belastet wird".](https://blog.fefe.de/?ts=a11bd388)
 * [Ein Aktivist in Ghana verhindert den Bau eines Kohlekraftwerks.](https://netzfrauen.org/2020/12/26/ghana-4/)
 * [GIMP wurde in der Version 2.99.4 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=GIMP-2.99.4-Released)
+* [Ruby wurde in der Version 3.0 veröffentlicht und hat jetzt auch einen JIT-Compiler und dadurch bis zu dreifache Ausführungsgeschwindigkeit.](https://www.phoronix.com/scan.php?page=news_item&px=Ruby-3.0-Released)
+* [NewPipe wurde in der Version 0.20.7 veröffentlicht.](https://newpipe.net/blog/pinned/release/newpipe-0.20.7/)
