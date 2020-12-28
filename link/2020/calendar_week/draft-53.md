@@ -1,0 +1,12 @@
+* [40 Jahre nach Tschernobyl und es ist noch immer eine Gefahr.](https://netzfrauen.org/2020/12/28/tschernobyl-2/)
+* [>>Ausufernde Überwachung, Gesichtserkennung und Handgranaten für die Polizei<<](https://freiheitsrechte.org/ausufernde-uberwachung-gesichtserkennung-und-handgranaten-fur-die-polizei/)
+* [>>Wenn ich in bestimmten Milieus Informationen gewinnen möchte, benötige ich das Vertrauen von Insidern.<<](https://freiheitsrechte.org/wenn-ich-in-bestimmten-milieus-informationen-gewinnen-mochte-benotige-ich-das-vertrauen-von-insidern/)
+* [C++ lernen? Probiert es mit diesem kleinen Spiel.](https://opensource.com/article/20/12/learn-c-game)
+* [Und hier noch einmal das gleiche Spiel mit Python gebaut.](https://opensource.com/article/20/12/learn-python)
+* [Nein? Doch! Oh? Nachdem die Autokonzerne Milliarden Subventionen bekommen haben, stellt sich heraus, dass doch nicht so viel gerettet werden muss.](https://www.sonnenseite.com/de/wirtschaft/beschaeftigungsabbau-in-der-autoindustrie-durch-e-mobilitaet-bis-2030-deutlich-geringer-als-befuerchtet/) - Natürlich werden die Subventionen nicht zurück gezahlt.
+* [Hier wird euch gezeigt wie ihr euren Jitsi-Server via Docker aktuell haltet.](https://goneuland.de/jitsi-docker-update-durchfuehren/)
+* [Komisch, die armen 90 Prozent sind für Lebensänderungen damit am Ende des Tages noch etwas brauchbare Erde übrig ist.](https://www.sonnenseite.com/de/zukunft/fast-90-prozent-bereit-zu-lebensstilaenderung/)
+* [Roundcube wurde in den Versionen 1.4.10, 1.3.16 und 1.2.13 veröffentlicht.](https://roundcube.net/news/2020/12/27/security-updates-1.4.10-1.3.16-and-1.2.13)
+* [NewPipe wurde in der Version 0.20.8 veröffentlicht.](https://newpipe.net/blog/pinned/release/newpipe-0.20.8/)
+* [Auch in Indonesien kämpfen Frauen gegen die Konzerne und die Abholzung des Waldes.](https://netzfrauen.org/2020/12/27/sumatra-4/)
+* [Sachsen so: >>Ein bloßer Verdacht auf künftige illegale Handlungen reicht aus, um ins Visier der sächsischen Polizei zu geraten.<<](https://netzpolitik.org/2020/saechsisches-polizeigesetz-verfassungsbeschwerde-gegen-scharfe-ueberwachungsinstrumente-eingelegt/)
