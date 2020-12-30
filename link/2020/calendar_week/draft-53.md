@@ -19,3 +19,8 @@
 * [12 Stunden pro Tag für sieben Tage und danach eine Woche Freizeit - das hatte Fiat/Chrysler vor.](https://www.wsws.org/en/articles/2020/12/29/shap-d29.html)
 * [>>Julian Assange droht eine 175-jährige Freiheitsstrafe. Die erste Instanz im Auslieferungsersuchen der Vereinigten Staaten geht in wenigen Tagen in ihr Finale, und es wird um nichts weniger als um die Pressefreiheit gekämpft. Im Assange-Verfahren wird eklatant gegen rechtsstaatliche Prinzipien verstoßen, kommentiert Wolfgang Kaleck.<<](https://netzpolitik.org/2020/julian-assange-pressefreiheit-vor-gericht/)
 * [Kawasaki ist kaputt.](https://www.bleepingcomputer.com/news/security/kawasaki-discloses-security-breach-potential-data-leak/)
+* [Podman und >>Container images, multi-architecture, manifests, ids, digests - what's behind?<<](https://www.opensourcerers.org/2020/11/16/container-images-multi-architecture-manifests-ids-digests-whats-behind/)
+* [Tine 2.0 wurde in der Version 2020.11 veröffentlicht.](https://www.admin-magazin.de/News/Mehr-Tempo-fuer-Tine-2.0)
+* [Hier wird euch gezeigt wie ihr eure Nextcloud mit Elastic Search deutlich beschleunigt.](https://goneuland.de/nextcloud-server-mit-elasticsearch-collabora-office-docker-compose-und-traefik-installieren/)
+* [T-Mobile ist kaputt und zeigt dass auch Sie wirklich alles ihrer Kunden aufzeichnen.](https://www.bleepingcomputer.com/news/security/t-mobile-data-breach-exposed-phone-numbers-call-records/)
+* [Hier wird euch gezeigt wie ihr den Windows 10 Update Fehlercode 0x8024a105 behebt.](https://ekiwi-blog.de/8063/fehler-bei-windows-update-fehlercode-0x8024a105/)
