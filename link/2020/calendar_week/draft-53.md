@@ -24,3 +24,9 @@
 * [Hier wird euch gezeigt wie ihr eure Nextcloud mit Elastic Search deutlich beschleunigt.](https://goneuland.de/nextcloud-server-mit-elasticsearch-collabora-office-docker-compose-und-traefik-installieren/)
 * [T-Mobile ist kaputt und zeigt dass auch Sie wirklich alles ihrer Kunden aufzeichnen.](https://www.bleepingcomputer.com/news/security/t-mobile-data-breach-exposed-phone-numbers-call-records/)
 * [Hier wird euch gezeigt wie ihr den Windows 10 Update Fehlercode 0x8024a105 behebt.](https://ekiwi-blog.de/8063/fehler-bei-windows-update-fehlercode-0x8024a105/)
+* [Hier wird euch gezeigt wie ihr LUA anhand eines Spiels lernt.](https://opensource.com/article/20/12/lua-guess-number-game) - Ich mag diese Serie wirklich sehr, danke!
+* [Neben der fehlenden Nährwerttabelle fehlt auch noch eine Umweltkostentabelle für alle Artikel.](https://www.sonnenseite.com/de/wirtschaft/die-unsichtbaren-kosten-des-konsums/)
+* [>>Ursprünglich zur Verkehrsbeobachtung gedacht, haben Überwachungskameras in immer mehr Bereichen Einzug gehalten. Mittlerweile können sie mehr als nur Bilder aufzeichnen: Verhaltens- und Gesichtserkennung wecken Begehrlichkeiten.<<](https://netzpolitik.org/2020/die-urbane-ueberwachung/)
+* [Es gibt eine Scanner-App für Android oder Chrome welches euch beim Breach-Protokoll in Cyberpunk 2077 hilft.](https://www.reddit.com/r/cyberpunkgame/comments/kneej7/i_made_a_web_app_to_solve_the_breach_protocol/)
+* [Die Partei zeigt ihre und damit die Meinung der 99 Prozent zum Thema Auslieferung von Assange.](https://martinsonneborn.de/assange-auslieferungsverfahren/) - Dies wird ein Paradebeispiel westlicher Werte sein meine Freunde!
+* [Das, unter anderem in Freiberg (Sachsen), ansässige Unternehmen Siltronic will durch die Übernahme von GlobalWafers zur Nummer Zwei der Waferproduktion werden.](https://www.planet3dnow.de/cms/60438-globalwafers-will-preise-fuer-wafer-erhoehen/)
