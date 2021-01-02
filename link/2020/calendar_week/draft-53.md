@@ -30,3 +30,11 @@
 * [Es gibt eine Scanner-App für Android oder Chrome welches euch beim Breach-Protokoll in Cyberpunk 2077 hilft.](https://www.reddit.com/r/cyberpunkgame/comments/kneej7/i_made_a_web_app_to_solve_the_breach_protocol/)
 * [Die Partei zeigt ihre und damit die Meinung der 99 Prozent zum Thema Auslieferung von Assange.](https://martinsonneborn.de/assange-auslieferungsverfahren/) - Dies wird ein Paradebeispiel westlicher Werte sein meine Freunde!
 * [Das, unter anderem in Freiberg (Sachsen), ansässige Unternehmen Siltronic will durch die Übernahme von GlobalWafers zur Nummer Zwei der Waferproduktion werden.](https://www.planet3dnow.de/cms/60438-globalwafers-will-preise-fuer-wafer-erhoehen/)
+* [>>"Mein Huren-Manifest" - Online-Lesung und Gespräch mit Undine de Rivière (rc3)<<](https://cdn.media.ccc.de/events/rc3/h264-hd/rc3-csh-11522-deu-Mein_Huren-Manifest_-_Online-Lesung_und_Gespraech_mit_Undine_de_Riviere.mp4)
+* [Hier wird euch gezeigt welche Werke unter anderem in einigen Ländern (und anderen nicht, danke ihr Wixer von Disney) gemeinfrei geworden sind.](https://tuxproject.de/blog/2021/01/public-domain-day-2021/)
+* [>>An alle Mächtigen der Welt - nach dem der Ausbruch von Coronavirus uns gezeigt hat, wie verletzlich die Menschheit ist - wie wäre es 2021 mit dem Ausbruch des 1. Weltfriedens?<<](https://netzfrauen.org/2021/01/01/frieden/)
+* [Rust wurde in der Version 1.49.0 veröffentlicht.](https://lwn.net/Articles/841528)
+* [Notepad++ wurde in der Version 7.9.2 veröffentlicht.](https://notepad-plus-plus.org/downloads/v7.9.2/)
+* [Basecamp hat ihr HTML/JavaScript Stack frei verfügbar gemacht.](https://hotwire.dev/)
+* [>>OECD befürwortet Vermögensteuer in Deutschland<<](https://blog.fefe.de/?ts=a1115c12)
+* [Dank dem kaputten Solarwinds hat jetzt $irgendwer den Quelltext von Windows.](https://blog.fefe.de/?ts=a11094b5)
