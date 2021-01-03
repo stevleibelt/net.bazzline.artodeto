@@ -38,3 +38,5 @@
 * [Basecamp hat ihr HTML/JavaScript Stack frei verfügbar gemacht.](https://hotwire.dev/)
 * [>>OECD befürwortet Vermögensteuer in Deutschland<<](https://blog.fefe.de/?ts=a1115c12)
 * [Dank dem kaputten Solarwinds hat jetzt $irgendwer den Quelltext von Windows.](https://blog.fefe.de/?ts=a11094b5)
+* [Nein? Doch! Oh? Die ganzen Windeln sind voll mit Chemiemüll den man nicht entsorgen kann.](https://netzfrauen.org/2021/01/03/chemikalien/) - Und gleichzeitig macht Pampus Werbung, dass die Kinder ruhig auch noch mit drölf Windeln tragen können.
+* [Die Anleitung wie ihr Grafana mit Prometheus und Docker/Podman baut wurde erneuert.](https://goneuland.de/grafana-mit-docker-compose-und-traefik-installieren/)
