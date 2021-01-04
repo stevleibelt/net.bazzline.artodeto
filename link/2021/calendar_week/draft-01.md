@@ -1,2 +1,3 @@
 * [Zyxel ist kaputt.](https://www.bleepingcomputer.com/news/security/secret-backdoor-discovered-in-zyxel-firewalls-and-ap-controllers/)
 * [Die CSU fängt im neuen Jahr direkt damit an lästigen Bürgerschutz nieder zureisen.](https://tuxproject.de/blog/2021/01/csu-digital-belastend/) - Cookiewarnung? Klar könnte man den ganzen Firmen mal mit DSVGO kommen, aber das wäre ja etwas für das Volk.
+* [Am Beispiel Assange sieht man, leider, dass der internationale Strafsgerichthof nur die rechte Hand der Siegermächte ist.](https://blog.fefe.de/?ts=a10de189) - Also er dient damit dem einen Prozent, egal ob es gerecht ist oder nicht.
