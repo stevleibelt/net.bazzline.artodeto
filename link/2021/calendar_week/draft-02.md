@@ -6,3 +6,4 @@
 * [Heroic wurde in der Version 1.0 veröffentlicht. Heroic ist ein freier Client für Epic Megagames Store.](https://www.onli-blogging.de/2001/Heroic-1.0-veroeffentlicht,-FOSS-Client-fuer-Epic.html)
 * [Hier wird euch gezeigt, wie ihr euren Pi benutzt damit andere im Netzwerk den angebotenen Nutzer ohne Treiberinstallation benutzen können - Stichwort AirPrint/Bonjour/AVAHI-Daemon.](https://pimylifeup.com/raspberry-pi-airprint/)
 * [Hier wird euch gezeigt wie ihr Prometheus auf einem Pi installiert.](https://pimylifeup.com/raspberry-pi-prometheus/)
+* [Blackrock Assi Friedrich Merz so >>Die Politik und das Recht in Deutschland sind "viel zu viel auf den individuellen Datenschutz ausgerichtet"<<](https://blog.fefe.de/?ts=a10285ae)
