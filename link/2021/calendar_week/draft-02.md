@@ -24,3 +24,12 @@
 * [Im Virunga Nationalpark wurden sechs Parkranger kaltblütig ermordet.](https://netzfrauen.org/2021/01/11/virunga/) - Nur damit reiche Menschen irgendwas seltenes auf der Haut tragen oder in die Wohnung stellen können.
 * [Nein? Doch! Oh? Da merkt die EU, dass mit der Schiene günstig und emissionsarm gearbeitet werden kann.](https://www.sonnenseite.com/de/mobilitaet/2021-ist-das-europaeische-jahr-der-schiene/) - Hätte man das nur gewusst bevor man die Straßenbahnen aus den Städten und die Bahnschinen aus den Gemeinden für Autostraßen rückgebaut hat.
 * [Danke Reporter ohne Grenzen: >>Massenüberwachung des BND muss vor Europäischen Gerichtshof für Menschenrechte<<](https://netzpolitik.org/2021/reporter-ohne-grenzen-massenueberwachung-des-bnd-muss-vor-europaeischen-gerichtshof-fuer-menschenrechte/)
+* [OsmAnd - Die Karten- und Navigationsanwendung für Android und IOS.](https://osmand.net/de/help-online)
+* [Windows Defender ist kaputt.](https://blog.fefe.de/?ts=a103358f)
+* [Ihr kriegt auf Arbeit nichts gebacken? Blockiert euch im Kalender Zeit für euch.](https://opensource.com/article/21/1/calendar-time-boxing)
+* [Mit Zram auf dem Pi etwas mehr aus dem Arbeitsspeicher kitzeln.](https://pimylifeup.com/raspberry-pi-zram/)
+* [Mit log2ram etwas IO von der SD-Card vom Pi nehmen.](https://pimylifeup.com/raspberry-pi-log2ram/)
+* [Nein? Doch! Oh? Klärschlamm und Plastikfolien kontaminieren die Felder auf denen unser Essen wächst.](https://www.sonnenseite.com/de/wissenschaft/klaerschlaemme-und-plastikfolien-kontaminieren-die-felder/)
+* [Capcom hat fast eine halbe Millionen Daten verloren.](https://www.bleepingcomputer.com/news/security/capcom-390-000-people-may-be-affected-by-ransomware-data-breach/)
+* [Dank SAP konnten Studenten an der FU-Berlin für einen Tag alle Noten bis 2005 einsehen und auch verändern.](https://netzpolitik.org/2021/datenschutz-gau-freie-universitaet-berlin-gab-studierenden-vollen-zugriff-auf-alle-pruefungsdaten-update/) - Bananensoftware reift am Kunden.
+* [Uh wie schön, Podman 3.0 kann Docker Compose ersetzen.](https://podman.io/blogs/2021/01/11/podman-compose.html)
