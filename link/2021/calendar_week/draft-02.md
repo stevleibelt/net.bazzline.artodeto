@@ -33,3 +33,15 @@
 * [Capcom hat fast eine halbe Millionen Daten verloren.](https://www.bleepingcomputer.com/news/security/capcom-390-000-people-may-be-affected-by-ransomware-data-breach/)
 * [Dank SAP konnten Studenten an der FU-Berlin für einen Tag alle Noten bis 2005 einsehen und auch verändern.](https://netzpolitik.org/2021/datenschutz-gau-freie-universitaet-berlin-gab-studierenden-vollen-zugriff-auf-alle-pruefungsdaten-update/) - Bananensoftware reift am Kunden.
 * [Uh wie schön, Podman 3.0 kann Docker Compose ersetzen.](https://podman.io/blogs/2021/01/11/podman-compose.html)
+* [Nelmio/Alice wurde in der Version v3.8.0 veröffentlicht.](https://github.com/nelmio/alice/releases/tag/v3.8.0)
+* [Skype ist kaputt.](https://www.bleepingcomputer.com/news/microsoft/skype-is-down-worldwide-microsoft-working-on-issues/)
+* [Kuketz liefert einen Begründungstext den Ihr Menschen schicken könnt bevor ich euch aus WhatsApp ausklingt.](https://www.kuketz-blog.de/mustertext-anregung-zum-umzug-whatsapp-zu-signal-threema/)
+* [Hier wird euch gezeigt wie ihr Big Blue Button mit Docker aufsetzt.](https://goneuland.de/big-blue-button-docker-unter-debian-10-installieren/) - Nehmt lieber Podman statt Docker.
+* [Deutschland, als armes drölftes Weltland, ist zwar für Umweltschutz, aber finanziell etwas dazu beitragen kann es leider nichts.](https://www.sonnenseite.com/de/umwelt/afrika-bekommt-grosse-gruene-mauer/)
+* [Es gibt jetzt `man.archlinux.org` :-).](https://archlinux.org/news/manual-pages-indexing-service/)
+* [Kohleausstieg in Deutschland. In den öffentlichen Kindergärten werden Stifte, Papier und Leim gekürzt und gleichzeitig wird RWE und LEAG Millarden Steuergelder geschenkt weil sie nicht so viel subventionierten Gewinn machen konnten wie sie sich das ausgerechnet haben.](https://www.sonnenseite.com/de/politik/kohleausstieg-im-bundestag-union-und-spd-druecken-entschaedigungsvertrag-durch/)
+* [Teilt eure Aufgabenlisten auf, "Dringend/Wichtig", "Dringend/Nicht wichtig", "Nicht dringend/Wichtig", "Nicht dringend/Nicht Wichtig".](https://opensource.com/article/21/1/prioritize-tasks)
+* [Universal Media Server wurde in der Version 10.0.0 veröffentlicht.](https://www.planet3dnow.de/cms/60679-universal-media-server-10-0-0/)
+* [Mit dem aktuellen Stand des "Digital-Märkte-Gesetz" wird am Ende nichts passieren.](https://netzpolitik.org/2021/digitale-dienste-gesetzespaket-ruetteln-am-goldenen-kaefig-des-silicon-valley/) - Solange für einen Nachrichtendienst wie "WhatsApp" das Versenden und Empfangen von Nachrichten als Kernfunktion angesehen wird, wird man keine media verlautbare Interoperabilität erreichen.
+* [Dr. Karl-Hartmut Müller, der den NABU Sachsen geprägt hat, ist leider verstorben.](https://sachsen.nabu.de/news/2021/29245.html)
+* [Söder macht in München jetzt irgendwas mit Quanten.](https://tuxproject.de/blog/2021/01/liegengebliebenes-vom-13-januar-2021/)
