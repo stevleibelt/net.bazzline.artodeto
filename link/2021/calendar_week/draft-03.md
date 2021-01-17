@@ -1,0 +1,1 @@
+* [>>Der CDU-Parteitag lief ungefähr so, wie es zu erwarten war. Das Personal besteht ja aus einem Versager (Laschet) und zwei transatlantischen Neocon-Überzeugungstätern (Merz und Röttgen).<<](https://blog.fefe.de/?ts=9efdddd4)
