@@ -16,3 +16,14 @@
 * [Hier berichtet eine Frau wie das Leben in einem chinesischen Umerziehungslager so ist - von Hitler lernen heißt eben auch 2021 noch siegen lernen.](https://netzfrauen.org/2021/01/18/xinjiang-2/)
 * [Der VLC media player wurde in der Version 3.0.12 veröffentlicht.](https://www.planet3dnow.de/cms/60742-vlc-media-player-3-0-12/)
 * [Neuland im Jahr 2021, das BSI knallt auf seine Anmeldeseite zum deutschen IT-Sicherheitskongress ohne Ende Google-Spionage drauf.](https://www.kuketz-blog.de/bsi-anmeldeseite-zum-17-deutscher-it-sicherheitskongress-mit-google-verwanzt/)
+* [e.foundation v0.14 kommt bald raus und es werden wieder mehr Geräte unterstützt.](https://community.e.foundation/t/week-03-2021-development-and-testing-updates/25947)
+* [Scheiße, dnsmasq ist kaputt.](https://blog.fefe.de/?ts=9ef6cbfa) - Patcht bald mal alles was ihr habt.
+* [Ab 15. März zeigt google vor richtig ist, nämlich nur bei und für google.](https://blog.fefe.de/?ts=9ef6c7ab)
+* [Wunderwelt KI und Gesichtserkennung - und was man alles für Quatsch damit machen kann. Trainiere eine Software nur lange genug mit "richtigen Daten" und schon kannst du am Gesicht erkennen was die Person angeblich denkt.](https://www.golem.de/news/gesichtserkennung-wenn-das-gesicht-die-politische-einstellung-verraet-2101-153512.html) - Und der unterbezahlte Polizist kann dann nur sagen "Sorry, sagt der Computer so".
+* [Schöner Realitätsabgleich von dem inneren der Partei "Die Linke": >>Wir sind mehr und mehr zu einer Akademikerpartei geworden, wie viele andere linke Parteien in Europa auch. (…) Unsere Parteiführung hat eine Themensetzung und Sprache, die sich vor allem an Studierende und akademisch Gebildete in den Großstädten richtet.<<.](https://tuxproject.de/blog/2021/01/mehr-jans-fuer-deutschland-5-reichtum-den-reichen/)
+* [WireGuard gibt es bald für die pFSense.](https://www.phoronix.com/scan.php?page=news_item&px=WireGuard-pfSense-Introduced)
+* [Noch traue ich CrowdSec nicht, aber die Idee dahinter ist gut.](https://opensource.com/article/21/1/crowdsec-rest-api)
+* [Auch in Javascript kann man Spiele programmieren.](https://opensource.com/article/21/1/learn-javascript)
+* [Der ehemalige Gouverneur von Michigan Rick Snyder wurde sechs Jahre nach bekanntwerden seiner Unfähigkeit endlich angeklagt.](https://netzfrauen.org/2021/01/20/flint/)
+* [Hier werden ihr in das Thema DMSO eingeführt.](https://www.gesundheits-universum.de/dmso-wunder-mittel-fuer-wundheilung/)
+* [Geht es in Deutschland nicht, versucht es die Blockpartei über die EU - Die sterbenden Großparteien möchten gern Sperrklauseln einführen. Zum Glück ist das Bundesverfassungsgericht auf der Seite der Bürger.](https://www.patrick-breyer.de/?p=594708)
