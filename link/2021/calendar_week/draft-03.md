@@ -46,3 +46,10 @@
 * [HCL Notes, Domino und Traveler wurden in der Version Beta V12 1 veröffentlicht.](http://blog.nashcom.de/nashcomblog.nsf/dx/notes-domino-traveler-v12-beta1-released.htm)
 * [Da hat er recht, die `DEDUP` Ausgabe könnte OpenZFS gern aus `zpool list` entfernen oder ersetzen.](https://utcc.utoronto.ca/~cks/space/blog/solaris/ZFSDedupLingeringSign)
 * [>>Tilo Jung hat mal die Merkel gefragt, was sie von "No Covid" hält und wieso es Geld für Wirtschaftsförderung gibt aber nicht für kostenlose Masken für Hartzer, Studenten und Soloselbständige<<](https://blog.fefe.de/?ts=9ef47310)
+* [SonicWall ist kaputt.](https://blog.fefe.de/?ts=9ef22b67)
+* [Equalizer APO hilft euch das zu leise Mikrophone unter Windows laut zu kriegen.](https://ekiwi-blog.de/8309/mikrofon-zu-leise-am-laptop-realtek-microphone-array/)
+* [Drupal hat Aktualisierungen gegen einige "Zero Exploits" veröffentlicht.](https://www.bleepingcomputer.com/news/security/drupal-releases-fix-for-critical-vulnerability-with-known-exploits/)
+* [MyFreeCams hat 2 Millionen Datensätze der Gemeinschaft zur Verfügung gestellt.](https://www.bleepingcomputer.com/news/security/myfreecams-site-hacked-to-steal-info-of-2-million-paying-users/)
+* [Ha, auch eine Möglichkeit, BASF und Bayer ziehen politisch die Stricke damit es keine öffentliche Diskussion über den Anbau der Nutzpflanze Hanf gibt.](https://netzfrauen.org/2021/01/22/hanf-3/) - Lieber Gentechnik, die ist teurer und macht Natur und Mensch kaputt.
+* [HR is not your friend.](https://rachelbythebay.com/w/2021/01/17/woe/)
+* [Auf dieser Webseite wählt ihr ein Muskel aus und sie bietet euch eine entsprechende Übung an.](https://musclewiki.com/)
