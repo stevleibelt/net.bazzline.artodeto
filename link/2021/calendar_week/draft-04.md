@@ -42,3 +42,12 @@
 * [>>From Docker Compose to Kubernetes with Podman<<](https://www.redhat.com/sysadmin/compose-kubernetes-podman)
 * [>>Die EU plant, private Chats, Nachrichten und E-Mails massenhaft und anlasslos auf verdächtige Inhalte zu durchsuchen.<<](https://www.patrick-breyer.de/?p=595001) - Danke Herr Breyer das sie so hinterher sind und uns informieren.
 * [Aquifere, die natürlichen Wasserleitungen von Mutter Natur verlaufen zunehmend unter Boden der von Konzernen gekauft wird.](https://netzfrauen.org/2021/01/27/watercrisis/)
+* [Kapitalismus im Endstadium, da soll der neue James Bond Film nachgedreht werden, weil die darn "platzierten" Werbebotschaften veraltet sind.](https://blog.fefe.de/?ts=9eed8f89)
+* [Dieses Robinhood zeigt wie assozial die Finanzmärkte sind. Lasst euch nicht in das Thema ein.](https://blog.fefe.de/?ts=9eed8fcb)
+* [Ob Danone oder Nestle, beides sind Konzerne ohne Herz. Gut in dem Bericht zu sehen, die "Wasserabfüllstationen", die der lokalen Bevölkerung das Grundwasser und damit das Lebenselexier klauen, liegen versteckt im Wald.](https://netzfrauen.org/2021/01/28/danone/)
+* [pgAdmin wurde in der Version v4.30 veröffentlicht.](https://www.postgresql.org/about/news/pgadmin-4-v430-released-2158/)
+* [PHP 7 ist unter Arch Linux jetzt veraltet, wird aber vorübergehend in separaten Paketen gepflegt.](https://archlinux.org/news/php-80-and-php-7-legacy-packages-are-available/)
+* [>>Die Installation von Hintertüren in verschlüsselten Apps ist so, als würde man den Strafverfolgungsbehörden einen Schlüssel zum Haus eines jeden Bürgers geben<<](https://netzpolitik.org/2021/verschluesselung-sichere-kommunikationsanbieter-warnen-vor-hintertueren/)
+* [Mit Itanium im Linuxkernel ist endlich schluss.](https://www.phoronix.com/scan.php?page=news_item&px=Linux-Orphans-Itanium-IA64)
+* [Unter dem Namen `Registermodernisierungsgesetz` kommt die Bürger-ID.](https://netzpolitik.org/2021/eine-nummer-fuer-alles-und-jeden/) - Danke Blockpartei, brennt hoffentlich lange im Verderben.
+* [OPNsense wurde in der Version 21.1 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=OPNsense-21.1-Released)
