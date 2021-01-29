@@ -51,3 +51,4 @@
 * [Mit Itanium im Linuxkernel ist endlich schluss.](https://www.phoronix.com/scan.php?page=news_item&px=Linux-Orphans-Itanium-IA64)
 * [Unter dem Namen `Registermodernisierungsgesetz` kommt die Bürger-ID.](https://netzpolitik.org/2021/eine-nummer-fuer-alles-und-jeden/) - Danke Blockpartei, brennt hoffentlich lange im Verderben.
 * [OPNsense wurde in der Version 21.1 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=OPNsense-21.1-Released)
+* [Kanal9TV: Winterimpresionen aus dem Albertpark in Freiberg.](https://www.youtube.com/watch?v=UUqjDH4d0Ds)
