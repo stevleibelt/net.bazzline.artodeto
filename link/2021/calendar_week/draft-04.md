@@ -52,3 +52,9 @@
 * [Unter dem Namen `Registermodernisierungsgesetz` kommt die Bürger-ID.](https://netzpolitik.org/2021/eine-nummer-fuer-alles-und-jeden/) - Danke Blockpartei, brennt hoffentlich lange im Verderben.
 * [OPNsense wurde in der Version 21.1 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=OPNsense-21.1-Released)
 * [Kanal9TV: Winterimpresionen aus dem Albertpark in Freiberg.](https://www.youtube.com/watch?v=UUqjDH4d0Ds)
+* [Wichtige Wahrheit wie ihr eure E-Mails verwaltet und dies später auf viele andere Bereiche auf der Festplatte und im Leben umsetzt. Ihr braucht so gut wie keine E-Mail von vor 10 Jahren.](https://opensource.com/article/21/1/declutter-workspace)
+* [Auf Uberspace ist suod wieder ganz.](https://blog.uberspace.de/sudo-cve-2021-3156/)
+* [Influencer müssen jetzt endlich anzeigen ob deren Artikel bezahlt werden oder nicht - sprich sie müssen Werbung anzeigen.](https://netzpolitik.org/2021/neue-regeln-fuer-influencer-werbung-anzeige-bezahlt/)
+* [perl.com wurde von Fremden übernommen und verschleudert jetzt Maleware.](https://www.bleepingcomputer.com/news/security/perlcom-domain-stolen-now-using-ip-address-tied-to-malware/)
+* [Desto genauer untersucht wird, desto mehr Dreck haben die Fische aus den Zuchtfarmen.](https://netzfrauen.org/2021/01/29/fishfarms/) - Ein Glück, dass wir hier im Erzgebirge kleine Fischzuchten haben.
+* [Umweltverschmutzung durch große Konzerne? Na klar, aber nur, wenn man es vor Ort anzeigt und dabei nicht geötet wird.](https://netzfrauen.org/2021/01/30/shell/)
