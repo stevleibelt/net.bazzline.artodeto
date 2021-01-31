@@ -58,3 +58,7 @@
 * [perl.com wurde von Fremden übernommen und verschleudert jetzt Maleware.](https://www.bleepingcomputer.com/news/security/perlcom-domain-stolen-now-using-ip-address-tied-to-malware/)
 * [Desto genauer untersucht wird, desto mehr Dreck haben die Fische aus den Zuchtfarmen.](https://netzfrauen.org/2021/01/29/fishfarms/) - Ein Glück, dass wir hier im Erzgebirge kleine Fischzuchten haben.
 * [Umweltverschmutzung durch große Konzerne? Na klar, aber nur, wenn man es vor Ort anzeigt und dabei nicht geötet wird.](https://netzfrauen.org/2021/01/30/shell/)
+* [In Bangladesh werden auch weiterhin unbequeme Völker getötet.](https://netzfrauen.org/2021/01/31/rohingya-2/)
+* [Wahre Worte, im Alltag reicht auch eine SQLite.](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/SQLiteAsDBOption)
+* [>>[...] Das sieht aber nicht gut aus für die Hedgefunds gerade. Die Verluste vom Short Selling schwappen jetzt auf andere Aktien über, weil die Hedgefunds ihre Investments verkaufen müssen, um ihre Lehrverkaufsverluste aufzufangen. [...]<<](https://blog.fefe.de/?ts=9ee87fad)
+* [Der Chef der BaFin musste wegen Wirecard endlich entlassen werden.](https://blog.fefe.de/?ts=9eea4138)
