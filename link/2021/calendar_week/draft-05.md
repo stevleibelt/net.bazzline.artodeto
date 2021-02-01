@@ -1,1 +1,8 @@
-* [
+* [Falls ihr eure USB-C Dockingstation von Lenovo nicht aktualisieren könnt, hier gibt es eine Lösung.](https://forums.lenovo.com/t5/Displays-Options-and-Accessories/Can-t-update-firmware-for-displayport-on-ThinkPad-USB-C-Dock-Gen2/m-p/4506706?page=3#5245822)
+* [Für Linux und Alsa gibt es das Programm "NoiseTorch" um die Mirkophoneaufnahme zu verbessern.](https://www.onli-blogging.de/2008/Laermfilter-fuers-Mikrofon-unter-Alsa.html)
+* [Nein? Doch! Oh? Da gibt der Konzern Vattenfall eine Studie in Auftrag um seinen Absatzmarkt zu vergrößern und, völlig überraschend, suggeriert das Ergebnis der Studie, dass man[n] mit einem E-Auto attraktiver ist.](https://www.sonnenseite.com/de/mobilitaet/darum-sind-fahrer-von-elektroautos-so-beliebt/)
+* [Hier wird euch gezeigt wie ihr von Docker zu Kubernetes migriert.](https://www.opensourcerers.org/2021/02/01/how-to-go-from-docker-to-kubernetes-the-right-way/)
+* [>>Ungefähr ein Drittel der für den menschlichen Verzehr produzierten Nahrung – 1,3 Milliarden Tonnen – wird weggeworfen.<<](https://netzfrauen.org/2021/02/01/foodwaste-6/)
+* [Mit der Methode ZOMBIES von der Idee zur lauffähigen Umsetzung.](https://opensource.com/article/21/2/development-guide)
+* [Mit `zint` könnt ihr QR-Codes erstellen.](https://opensource.com/article/21/2/zint-barcode-generator)
+* [Nigeria zeigt offen was die Einführung von GMOs für die Landwirte bedeutet, Versklavung!](https://netzfrauen.org/2021/02/01/nigeria-4/)
