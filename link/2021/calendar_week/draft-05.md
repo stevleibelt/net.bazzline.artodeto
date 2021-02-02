@@ -17,3 +17,8 @@
 * [Werbung für Freiberg von Freiberg - Ina's Filzshop, die machen jetzt auch schöne Filzbilder.](https://www.inasfilzshop.de/de/)
 * [Mehr Digitalisierung! Innerhalb von einem Jahr hat sich die Anzahl an geklauten Identitäten verdoppelt.](https://www.bleepingcomputer.com/news/security/us-govt-number-of-identity-theft-reports-doubled-last-year/)
 * [Der Staat Washington hat 1.6 Millionen Bürgerdaten verloren.](https://www.bleepingcomputer.com/news/security/data-breach-exposes-16-million-washington-unemployment-claims/)
+* [Nehmt euch bitte einmal 10 Minuten Zeit, sieben Minuten um das Wunder von Mutter Natur zu beobachten und drei Minuten um alles nachwirken zu lassen.](https://www.nationalgeographic.com/animals/2019/02/time-lapse-film-shows-salamander-development/)
+* [Schönes Resultat nach sechs Jahren Industrie-Programmierern.](https://chriskiehl.com/article/thoughts-after-6-years)
+* [n-gate.com fasst die FOSDEM 2021 zusammen.](http://n-gate.com/fosdem/2021/02/01/0/)
+* [Mit jedem neuen Gesetzt nur "Beschleunigung des Leitungsausbaus" werden Gewinne privatisiert.](https://www.sonnenseite.com/de/energie/oekostromausbau-schnellerer-ausbau-statt-mehr-lange-leitungen/) - Was das Volk eher brauchst sind lokale Projekte statt den Ausbau einer globalen "Stromautobahn".
+* [Wenn ihr mit der Kommandozeile Audiodateien bearbeitet, schaut doch mal auf `SoX`.](https://opensource.com/article/20/2/linux-sox)
