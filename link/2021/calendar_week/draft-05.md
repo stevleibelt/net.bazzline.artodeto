@@ -62,3 +62,7 @@
 * [Nein? Doch! Oh? Mit Analytics, Neusprech für Überwachung, kann man auch Viren ausspielen.](https://blog.fefe.de/?ts=9ee52e13) - Hätte ich nicht gedacht, dass man durch das Einbinden von Dritt-Software die irgendwas macht, auch mal Viren ausspielen kann ;-).
 * [tranq ist das neue Krokodil.](https://netzfrauen.org/2021/02/05/drugs/)
 * [Realitätsabgleich Linux Kernel, eine Firma mit Milliarden Umsätze schafft es nicht ein paar Entwickler für die Kernelentwicklung abzustellen. Wohlgemerkt, nahezu alle Produkte der Firma benötigen diesen Kernel.](https://www.phoronix.com/scan.php?page=news_item&px=Easy-To-Test-Kernel-Stable-RCs)
+* [Endlich für den Massenmarkt, USB-Ladekabel mit Maleware inside.](https://scheible.it/evilcrow-cable/)
+* [EndevourOS hat seine erste Version 2021 veröffentlicht.](https://endeavouros.com/news/our-first-release-of-2021-has-arrived/)
+* [Thunderbird wurde in der Version 78.7.1 veröffentlicht.](https://www.planet3dnow.de/cms/61036-thunderbird-78-7-1/)
+* [Ubuntu Touch sieht jetzt neuer aus.](https://devices.ubuntu-touch.io/)
