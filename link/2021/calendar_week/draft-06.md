@@ -1,2 +1,7 @@
 * [Ihr wollt mal wissen welche Firmen ihr über Frontext Steuergelder schenkt? Böhmermann liefert.](https://blog.fefe.de/?ts=9edeca80)
 * [Netzpolitik fragt an: >>Wer haftet künftig bei unzulässigen Grundrechtseingriffen?<<](https://netzpolitik.org/2021/predictive-policing-und-gesichtserkennung-wer-haftet-kuenftig-bei-unzulaessigen-grundrechtseingriffen/)
+* [Web 2.0 besteht weiterhin auf RSS.](https://atthis.link/blog/2021/rss.html) - Bietet euer Dienst kein RSS an, will er nicht am offenen Internet mitmachen. Danke an [n-gate.com](http://n-gate.com/hackernews/2021/02/07/0/).
+* [Windows 10 Schnellstart? Nur ein weiterer Versuch von Microsoft alternativen Betriebssystemen wie Linux das Leben schwer zu machen.](https://ekiwi-blog.de/8440/linux-parallel-zu-windows-installieren-installationsart-linux-neben-windows-10-installieren-fehlt/)
+* [Auch den Ozean machen wie Menschen mit unserem Krach kaputt.](https://www.sonnenseite.com/de/wissenschaft/laerm-des-ozeans/)
+* [>>Spitzenreiter ist Google: Der Datenkonzern hat längst die größte Lobbypräsenz aller Firmen in Brüssel, er gibt mit zuletzt acht Millionen Euro im Jahr mehr aus als die sieben größten Autohersteller zusammen, errechneten die Lobbywächter von Corporate Europe Observatory.<<](https://netzpolitik.org/2021/pressefoerderung-europas-werk-und-googles-beitrag/)
+* [>>GFF reicht Beschwerde gegen BAMF-Handydatenauswertung beim Bundesdatenschutzbeauftragten ein<<](https://freiheitsrechte.org/pm-bamf-beschwerde/) - Danke!
