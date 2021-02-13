@@ -39,3 +39,8 @@
 * [>>Einigen Berechnungen zufolge verfügt China über 200.000 bis 800.000 Fischerboote, die fast die Hälfte der weltweiten Fischereiaktivitäten ausmachen.<<](https://netzfrauen.org/2021/02/11/fishing/)
 * [Völlig überraschend, in Wirecard ist auch wenigst ein deutscher Geheimdienst mit verwickelt.](https://blog.fefe.de/?ts=9edb67f9) - Dabei sind die deutschen Geheimdienste doch die Guten, somit müssen die Flachwixer von Wirecard auch gute Leute sein.
 * [Willst du in die USA einreisen? Dann mach dich bereit, dass Smartphones und Laptops durchsucht werden.](https://blog.fefe.de/?ts=9edbf42d)
+* [OpenZFS wurde in der Version 2.0.3 veröffentlicht.](https://github.com/openzfs/zfs/releases/tag/zfs-2.0.3)
+* [>>Nach Berechnungen der EU-Kommission entgeht dem europäischen Steuerwesen durch diesen niedlichen, von der EU selbst geschaffenen Trick jährlich 70 Mrd. Euro.<<](https://martinsonneborn.de/altmaier-wird-schwitzen/)
+* [Nein? Doch! Oh? Den großen Teil der Rettungsgelder zur politischen Corona-Problematik landet bei Konzernen die die Welt zerstören, Ölbohfirmen zum Beispiel die deutlich mehr von der Corona Problematik getroffen wurden als Menschen im Einzelhandel.](https://www.sonnenseite.com/de/politik/ein-jahr-corona-die-fossilen-sind-wieder-die-gewinner/)
+* [Podman wurde in der Version 3.0.0 veröffentlicht.](https://podman.io/releases/2021/02/11/podman-release-v3.0.0.html)
+* [Falls ihr was bei Azure macht, Microsoft verkauft gern eine Bewegungsdaten.](https://blog.fefe.de/?ts=9ed83d79)
