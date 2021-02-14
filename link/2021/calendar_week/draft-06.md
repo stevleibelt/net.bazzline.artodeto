@@ -44,3 +44,7 @@
 * [Nein? Doch! Oh? Den großen Teil der Rettungsgelder zur politischen Corona-Problematik landet bei Konzernen die die Welt zerstören, Ölbohfirmen zum Beispiel die deutlich mehr von der Corona Problematik getroffen wurden als Menschen im Einzelhandel.](https://www.sonnenseite.com/de/politik/ein-jahr-corona-die-fossilen-sind-wieder-die-gewinner/)
 * [Podman wurde in der Version 3.0.0 veröffentlicht.](https://podman.io/releases/2021/02/11/podman-release-v3.0.0.html)
 * [Falls ihr was bei Azure macht, Microsoft verkauft gern eine Bewegungsdaten.](https://blog.fefe.de/?ts=9ed83d79)
+* [Bäume hier, Straßen dort, es gibt immer wieder bewundernswerte Menschen die etwas großes schaffen. Warum wie das als Gesellschaft nicht hinbekommen?](https://netzfrauen.org/2021/02/14/india-20/)
+* [Nein? Doch! Oh? Die indigienen Völker, die nicht wie der Rest dem monotonen Rythmus der Konzerne nachfolgen sind die Hoffnung für den Aufbau einer nachhaltigen Welt.](https://www.sonnenseite.com/de/zukunft/indigene-voelker-sind-entscheidend-fuer-den-aufbau-einer-nachhaltigeren-welt-nach-der-pandemie/) - Die Bücher eurer Großeltern sind ebenso wichtig, da steht nämlich drinne was einheimisches Obst und Gemüse ist und wie man das anbaut.
+* [Mit `jq` könnt Ihr JSON im VIM schön machen. `:%!jq .`](https://www.putorius.net/format-json-file-in-vim.html)
+* [Ihr wollt mehrere Webcams in Jitsi nutzen? Schaut doch mal hier vorbei, da wird euch erklärt wie ihr OBS dazu nehmen könnt.](https://scheible.it/virtuelle-webcam-in-jitsi-meet/)
