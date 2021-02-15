@@ -1,1 +1,10 @@
-* [
+* [NewPipe wurde in der Version 0.20.10 veröffentlicht.](https://newpipe.net/blog/pinned/release/newpipe-0.20.10-released/)
+* [Notepad++ wurde in der Version 7.9.3 veröffentlicht.](https://notepad-plus-plus.org/downloads/v7.9.3/)
+* [Wow, scheinbar dreht "Ich hab recht" KI mächtig frei, hier wurde ein ganzes Google Konto (Inklusive Daten-, E-Mail-, Dichröhrezugriff etc.) blockiert, wegen weil iss so.](https://twitter.com/Demilogic/status/1358661840402845696) - Danke [ngate](http://n-gate.com/hackernews/2021/02/14/0/)
+* [NPM, PIP, GEM, Composer, alles kaputt.](https://medium.com/@alex.birsan/dependency-confusion-4a5d60fec610) - Danke [ngate](http://n-gate.com/hackernews/2021/02/14/0/)
+* [K-9 Mail sucht nach Spendern.](https://k9mail.app/2021/02/14/K-9-Mail-is-looking-for-funding) - Danke [ngate](http://n-gate.com/hackernews/2021/02/14/0/)
+* [Der CCC fordert die Minister und die Bundesregierung dazu auf, die nicht rechtskonformen und überteuerten Lösungen an Schulen zum Distanzlernen durch freie Alternativen aus dem Bereich "Public Money, Public Code" zu ersetzen.](https://www.ccc.de/de/updates/2021/lockdown-ohne-lock-in) - Und auch alles, was der CCC seit Ewigkeiten fordert. Lokale Lösungen die nicht sofort das ganze Land dunkel werden lassen weil es nur ein Rechenzentrum in Frankfurt gibt, kein "Lock In" von Nutzern und Daten.
+* [WordPress scheint sich wohl selbst erledigen zu wollen.](https://www.henning-uhle.eu/informatik/wordpress-und-bloggen/wordpress-zukunft-wird-es-auch-meine-sein) - Klingt beim Lesen fast so als hätten sie sich von Mozilla beraten lassen. Scheinbar ist [ClassicPress](https://www.classicpress.net/) das Wordpress für normale Menschen.
+* [>>Wenn die Oberflächenschicht des Ozeans dick ist, wirkt sie als Puffer für extreme Meereserwärmung – eine neue Studie von CU Boulder zeigt jedoch, dass diese „gemischte Schicht“ von Jahr zu Jahr flacher wird. [...]<<](https://www.sonnenseite.com/de/wissenschaft/marine-hitzewellen-werden-intensiver-und-haeufiger/)
+* [The Dark Mod wurde in der Version 2.09 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=The-Dark-Mod-2.09)
+* [Die einfache Benutzbarkeit von Software oder "ich will es nur benutzen und nicht nachdenken".](https://www.onli-blogging.de/2011/Was-ist-Usability.html)
