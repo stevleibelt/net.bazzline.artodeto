@@ -43,3 +43,6 @@
 * [ReclaimYourFace, auch bei Patrick Breyer](https://www.patrick-breyer.de/?p=595255)
 * [Multimedia auf Linux? MPV, VLC, MPD, Kaffeine/Rythmbox und viel mehr gibt es hier.](https://opensource.com/article/21/2/linux-media-players)
 * [Netjukebox, die HTML Steuerung eures MPDs.](http://www.netjukebox.nl/)
+* [Hackfressenbuch markiert in Australien den Dicken und nimmt das öffentliche Leben aus seiner Anzeigewolke.](https://netzpolitik.org/2021/plattformen-vs-publisher-warum-facebook-in-australien-keine-news-mehr-zeigt/) - Denn wenn dem Konzern etwas stört, dann für Daten Geld bezahlen zu müssen. Aber glaubt mir, deren Server saugen weiterhin die Daten der Betroffenen auf, nur angezeigt wird nichts.
+* [Netzpolitik hinterfragt kritisch ob der Schlag gegen Emotet rechtens war.](https://netzpolitik.org/2021/der-zweck-heiligt-nicht-die-mittel/) - Denn auch für die Polizei ist der Cyberspace kein rechtsfreier Raum.
+* [Der Universal Media Server wurde in der Version 10.1.0 veröffentlicht.](https://www.planet3dnow.de/cms/61252-universal-media-server-10-1-0/)
