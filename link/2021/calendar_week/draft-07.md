@@ -46,3 +46,16 @@
 * [Hackfressenbuch markiert in Australien den Dicken und nimmt das öffentliche Leben aus seiner Anzeigewolke.](https://netzpolitik.org/2021/plattformen-vs-publisher-warum-facebook-in-australien-keine-news-mehr-zeigt/) - Denn wenn dem Konzern etwas stört, dann für Daten Geld bezahlen zu müssen. Aber glaubt mir, deren Server saugen weiterhin die Daten der Betroffenen auf, nur angezeigt wird nichts.
 * [Netzpolitik hinterfragt kritisch ob der Schlag gegen Emotet rechtens war.](https://netzpolitik.org/2021/der-zweck-heiligt-nicht-die-mittel/) - Denn auch für die Polizei ist der Cyberspace kein rechtsfreier Raum.
 * [Der Universal Media Server wurde in der Version 10.1.0 veröffentlicht.](https://www.planet3dnow.de/cms/61252-universal-media-server-10-1-0/)
+* [Langeweile mit eurem Palmenölprodukt? Schaut mal was die Konzerne in eurem Namen mit Mutter Natur anrichten.](https://netzfrauen.org/2021/02/18/congo-5/)
+* [Auf putorius wird euch einmal die systemd Version von tmp-Files erklärt.](https://www.putorius.net/systemd-tmpfiles.html)
+* [Microsoft verkürzt mal so eben die Lebenszeit des nächsten Windows 10 Enterprice LTSC von 10 auf 5 Jahre.](https://www.borncity.com/blog/2021/02/19/windows-10-ltsc-nchste-version-nur-noch-mit-5-jahren-support/)
+* [Windows 10 21H1 läuft dann mal so mit durch.](https://www.windowspro.de/news/windows-10-21h1-wird-kleines-update-trotzdem-bloss-18-monate-support/04712.html)
+* [Tschau Doctor Scripto, Hallo PowerShell Community.](https://devblogs.microsoft.com/scripting/all-good-things-must-come-to-an-end/)
+* [Fingerprint benötigt? `ssh-keygen -lf ~/.ssh/id_rsa`](https://www.shellhacks.com/ssh-fingerprint-get-fingerprint-of-ssh-rsa-key/)
+* [nVidia zeigt wem eure gekaufte Grafikkarte gehört und taktet das Ding runter wenn ihr Dinge damit macht die nVidia nicht gut findet.](https://www.3dcenter.org/news/nvidia-limitiert-die-mining-performance-der-geforce-rtx-3060)
+* [Die Chemnitzer Linuxtage finden vom 13.03.2021 bis 14.03.2021 online statt.](https://www.admin-magazin.de/News/Chemnitzer-Linux-Tage-Mitte-Maerz-erstmals-als-digitales-Event)
+* [NGinx und der lästige "trailing slash" einer URL, mit rewrite rule und `proxy_pass` wird das Problem SEO-freundlich gelöst.](https://www.shellhacks.com/nginx-proxy_pass-without-trailing-slash/)
+* [DXVK wurde in der Version 1.8 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=DXVK-1.8-Released)
+* [Wie kaputt macht der Mensch Mutter Erde? So kaputt! Und nebenbei produziert der Mensch pro Jahr mittlerweile mehr Müll als es Lebewesen auf der Erde gibt. Und Küstenstädte werden eure Enkelkinder nicht mehr sehen.](https://netzfrauen.org/2021/02/19/climate-2/)
+* [Deswegen war Oracle an TikTok interessiert, man will in den chinesischen Sicherheitsapparat als Lieferant hinein.](https://netzpolitik.org/2021/ueberwachungstechnologie-wie-oracle-seine-technik-dem-chinesischen-sicherheitsapparat-verkauft/)
+* [Klexikon, das Lexikon für Kinder.](https://klexikon.zum.de/wiki/Klexikon:Willkommen_im_Klexikon) - Danke [netzpolitik](https://netzpolitik.org/2021/statt-wikipedia-und-klexikon-nrw-zahlt-26-millionen-fuer-drei-jahre-online-brockhaus-an-schulen/).
