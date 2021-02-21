@@ -66,3 +66,5 @@
 * [Bewerbungsgespräche via Videokonferenz führen? Da kann man doch KI drauf schmeißen ... und kriegt dann interessante Ergebnisse. Also ich videokonferenze jetzt nur noch vor einem Bücherregal.](https://netzpolitik.org/2021/algorithmen-fuer-bewerbungen-das-buecherregal-im-hintergrund-hat-einfluss-darauf-ob-du-den-job-bekommst/)
 * [>>[..] Wollte man das sinnvoll kritisieren, müsste man sehr viel tiefer einsteigen und die Art und Weise, wie hierzulande Politik gemacht wird, grundsätzlich hinterfragen, Womöglich gar machbare Alternativen benennen. Passiert nicht, das inhaltsleere Anprangern geht immer so weiter [...]<<](https://horstschulte.com/2021/die-presse-ist-von-der-politik-enttaeuscht-mich-kotzt-die-presse-an/)
 * [`empty($foo)`, ich finde auch das man `empty` immer mit etwas Klarerem ersetzen kann.](https://beberlei.de/2021/02/19/when_to_use_empty_in_php_i_say_never.html)
+* [LastPass, wohl doch nur eine Trackingschleuder.](https://www.kuketz-blog.de/lastpass-android-drittanbieter-ueberwachen-jeden-schritt/)
+* [Kroger ist kaputt.](https://www.bleepingcomputer.com/news/security/kroger-data-breach-exposes-pharmacy-and-employee-data/)
