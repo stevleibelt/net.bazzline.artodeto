@@ -55,3 +55,13 @@
 * [Es versucht mal wieder jemand ein modulares Notebook zu bauen.](https://www.heise.de/news/Reparierbarer-und-einfach-aufruestbarer-Framework-Laptop-soll-Muell-vermeiden-5066208.html)
 * [Vorstellen ein Konzern zerstört eure Natur, vorstellen ihr protestiert dagegen da dies eurer demokratisches Recht und moralische Pflicht ist ... nun Konzerne wollen dies verbieten lassen.](https://netzfrauen.org/2021/02/26/climate-3/)
 * [Verkokste Bankster? Laut Werbung sind sie gegen den Ausbau von Kohle, ihre Bücher sagen etwas anderes, Banken finanzieren mehr Kohleausbau als in den letzten Jahren.](https://www.sonnenseite.com/de/wirtschaft/banken-steigern-kohlefinanzierung-trotz-klimazusagen/)
+* [Lastpass hat dann mal sieben Spionagedienstleister auf ihrer Webseite.](https://www.kuketz-blog.de/7-tracker-in-passwort-app-lastpass-hohes-medienecho/)
+* [Kanal9TV: Impressionen von der Ruine Burg Frauenstein](https://www.youtube.com/watch?v=V6c0XqRdARc)
+* [Nextcloud wurde in den Version 20.0.8 und 19.0.0 veröffentlicht.](https://nextcloud.com/blog/nextcloud-20-0-8-and-19-0-9-are-out-update/)
+* [Ihr könnt einen USB Stick über VMWare ESXI ansprechen, es ist nur nicht einfach.](http://woshub.com/mount-usb-flash-drive-vmware-esxi/)
+* [Blender wurde in der Version 2.92.0 veröffentlicht.](https://www.planet3dnow.de/cms/61420-blender-2-92-0/)
+* [pgAdmin 4 wurde in der Version v5.0 veröffentlicht.](https://www.postgresql.org/about/news/pgadmin-4-v50-released-2176/)
+* [Thema RHEL: >>An eligibility process and a subscription process, and probably an ongoing eligibility audit process. Wow, that sounds almost as simple as downloading a free ISO and doing whatever you want with it. Gee, thanks IBM!!!! Nothing says "community" quite like centralized control and inefficient bureaucratic processes.<<](https://www.phoronix.com/forums/forum/phoronix/latest-phoronix-articles/1241069-red-hat-announces-free-rhel-for-open-source-infrastructure)
+* [Juniper will keine Switche mehr verkaufen, die bringen jetzt "KI" in ihre "cloud managed" Switches.](https://www.heise.de/news/Alles-Mist-Juniper-bringt-KI-ins-Cloud-gemanagete-Netz-5066817.html) - Ein Switch darf keine KI und kein cloud managed haben.
+* [Strahlend weise Zähne? Dank radioaktiven Material.](https://de.wikipedia.org/wiki/Doramad)
+* [Es kommt wie es geplant ist, Bayer macht 10 Milliarden Euro Verluste. Und die USA haben die bestehenden und größer werdenden Klagewellen der Welt gegen Glyphosat schön dem europäischen Steuerzahlern aufs Auge gedrückt nachdem die US-Amerikaner Jahrzehnte dicke Gewinne mit dem Gift eingefahren haben.](https://blog.fefe.de/?ts=9ec691fb)
