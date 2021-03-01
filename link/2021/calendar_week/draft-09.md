@@ -1,1 +1,9 @@
-* [
+* [Die Brennstäbe von Fukushima sollen dann eventuell und möglicherweise 2024 raus geholt werden.](https://blog.fefe.de/?ts=9ec23923)
+* [Der BND zeigt weswegen er da sein will, "Bei uns dürft ihr Dinge tun die illegal sind.".](https://blog.fefe.de/?ts=9ec22add)
+* [Schreibt sich wie ein Witz, nehmen die Flachpfeifen in Brüssel aber ernst >>Die Regierungen aus Frankreich, Deutschland und Spanien wollen bis 2040 ein KI-basiertes „Luftverteidigungsnetzwerk“ entwickeln. Es besteht aus einem neuartigen Kampfjet, der von Drohnenschwärmen begleitet wird. Für die Vernetzung mit anderen Einheiten am Boden und in der Luft sorgt dann eine Gefechts-Cloud<<](https://netzpolitik.org/2021/future-combat-air-system-industrie-zankt-um-groesstes-europaeisches-ruestungsprojekt/)
+* [Parsedown scheint die PHP Markdown Bibliothek zu sein.](https://php.watch/articles/php-markdown-libraries)
+* [Hier wird euch gezeigt wie ihr mit einer XML Schablone und der PowerShell neue Benutzer im AD anlegt.](https://devblogs.microsoft.com/powershell-community/leveraging-xml-with-new-employee-powershell-scripts/)
+* [Android VPN ist kaputt, wenigst 21 Millionen Benutzer wurden vom dem Ballast der Sicherheit und Privatssphäre befreit.](https://www.borncity.com/blog/2021/02/28/android-vpn-gehackt-daten-von-21-millionen-nutzern-online/)
+* [Universal Media Server wurde in der Version 10.2.0 veröffentlicht.](https://www.planet3dnow.de/cms/61459-universal-media-server-10-2-0/)
+* [ET: Legacy wurde in der Version 2.77 veröffentlicht.](https://www.etlegacy.com/blog/et-legacy-277-released)
+* [CrowdSec ist so ein Werkzeug bei dem ich mir nicht sicher bin ob das eine gute oder eine schlechte Idee ist.](https://www.putorius.net/secure-your-linux-servers-crowdsec.html)
