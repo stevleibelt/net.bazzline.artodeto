@@ -60,3 +60,7 @@
 * [Bin ich auch dafür, systemd kann gern mal einen Linter für Unit-Files mitbringen.](https://utcc.utoronto.ca/~cks/space/blog/linux/SystemdUnitLinterNeed)
 * [Wegen "weil is so!" wurde das temporäre "Masernschutzgesetzt" (Neusprech für Zwangsimpfung) auf Ende 2021 verlängert.](https://initiative-freie-impfentscheidung.de/masernschutzgesetz-uebergangsfrist-verlaengert/)
 * [Und damit haben wir es in einer Woche geschafft, hier kommt der dritte Teil wie Ihr Zabbix mit Ansbile aufsetzt.](https://blog.zabbix.com/finalizing-the-installation-of-zabbix-agent-with-ansible/13321/)
+* [Microsoft Exchange ist kaputt, wenigst 30000 Firmen betroffen.](https://blog.fefe.de/?ts=9ebc7d20)
+* [NomadeBSD wurde in der Version 1.4 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=NomadBSD-1.4-Released)
+* [Wollt ihr mal sehen wie verstrahle Erde so nach 61 Jahre ausschaut? Die Sahara zeigt es euch und vor allem Spanien und Frankreich. Die Franzosen hatten dort Atomwaffentest gemacht und bringen damit Europa radioaktiven Sand, danke.](https://netzfrauen.org/2021/03/06/france-5/)
+* [Raspberry Pi, FreeBSD, Bastille? Hier wird es euch erklärt. Mal wieder ein voller Erfolg für den kleinen Pi, schneller könnt ihr BSD nicht lernen und macht nichts kaputt.](https://opensource.com/article/21/3/bastille-raspberry-pi)
