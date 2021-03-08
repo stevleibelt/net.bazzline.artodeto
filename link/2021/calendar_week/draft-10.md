@@ -1,1 +1,12 @@
-* [
+* [MyPoponaut, der Stuhl der mit eurem Becken mitgeht statt es fest zuhalten. Und der Stuhl kommt aus der Arzgebirg.](https://www.my-poponaut.com/)
+* [Mit scrcpy könnt ihr euer Android-Bildschirm auf einen Linux-PC spiegeln.](https://opensource.com/article/21/3/android-raspberry-pi)
+* [`pee` ist wie `tee`, nur ohne Ausgabe.](https://www.putorius.net/linux-pee-command-tee-standard-input-into-pipes.html)
+* [Immer wenn jemand "der Datenschutz tötet Menschen" schreit, meint er eigentlich "mein Unternehm kann sich nicht an privaten und öffentlichen Daten auf Kosten des Volkes bereichern weil da Gesetze im Weg stehen".](https://www.kuketz-blog.de/der-datenschutz-der-corona-warn-app-gefaehrdet-menschenleben/)
+* [Falls ihr euer Xiaomi Telefon mit der aktuellsten Firmware versehen möchtet.](https://xiaomifirmwareupdater.com/releases.xml)
+* [Schönes Beispiel von "Software die nichts kostet, klaut euch alles", hier hat jemand Xiaomi's Browser angeschaut.](https://palant.info/2020/05/04/are-xiaomi-browsers-spyware-yes-they-are.../) - Danke [n-gate.com](http://n-gate.com/hackernews/2021/03/07/0/)
+* [So, so, Fleisch kommt bald aus dem Chemietank.](https://agfundernews.com/beyond-meat-signs-global-supply-deals-with-mcdonalds-yum-brands.html) - Danke [n-gate.com](http://n-gate.com/hackernews/2021/03/07/0/), als ob diese Masse besser ist, da ist noch mehr Chemie drinne. Der große Vorteil davon ist, dass man den Dreck patentieren kann.
+* [eGay und weitere verbieten Dr. Seuss Bücher weil die für den heutigen Zeitgeist zu sehr zum nachdenken anregen.](https://www.wsj.com/articles/dr-seuss-books-deemed-offensive-will-be-delisted-from-ebay-11614884201) - Danke [n-gate.com](http://n-gate.com/hackernews/2021/03/07/0/)
+* [Hier schreibt einer, dass er sich mit RUST abmüht und Zig super für sein Gehirn ist.](https://kevinlynagh.com/rust-zig/) - Danke [n-gate.com](http://n-gate.com/hackernews/2021/03/07/0/)
+* [Hier vergleicht jemand Zig mit RUST](https://scattered-thoughts.net/writing/assorted-thoughts-on-zig-and-rust/)
+* [Dolt ist die Idee, git auf einer SQL anzuwenden.](https://github.com/dolthub/dolt) - Danke [n-gate.com](http://n-gate.com/hackernews/2021/03/07/0/)
+* [Kuketz zeigt euch im kleinen was es noch so für ein Netz neben Hackfressenbuch gibt.](https://www.kuketz-blog.de/open-source-intelligence-osint-informationen-aus-frei-verfuegbaren-offenen-quellen-sammeln/)
