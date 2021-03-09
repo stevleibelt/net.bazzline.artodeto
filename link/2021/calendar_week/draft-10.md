@@ -10,3 +10,7 @@
 * [Hier vergleicht jemand Zig mit RUST](https://scattered-thoughts.net/writing/assorted-thoughts-on-zig-and-rust/)
 * [Dolt ist die Idee, git auf einer SQL anzuwenden.](https://github.com/dolthub/dolt) - Danke [n-gate.com](http://n-gate.com/hackernews/2021/03/07/0/)
 * [Kuketz zeigt euch im kleinen was es noch so für ein Netz neben Hackfressenbuch gibt.](https://www.kuketz-blog.de/open-source-intelligence-osint-informationen-aus-frei-verfuegbaren-offenen-quellen-sammeln/)
+* [Thunderbird wurde in der Version 78.8.1 veröffentlicht.](https://www.planet3dnow.de/cms/61784-thunderbird-78-8-1/)
+* ["Luca" ist eine Anwendung für Smartphones welches der Steuerzahler bezahlt, die Fanta4 dafür Millionenbeträge auf ihre überfüllten Kontos bekommen und der Steuerzahler nicht einmal den Quelltext oder die Anwendung selber erhält.](https://netzpolitik.org/2021/luca-app-der-rapper-als-retter-in-der-not/) - Stellt euch vor, mit euren Steuern wird eine Straße gebaut die den Betreiber gehört und ihr müsst etwas extra bezahlen um das Volkseigentum nutzen zu können.
+* [Hier gibt es 13 freie Alternativen zu Luca.](https://www.wirfuerdigitalisierung.de/impressum) - [Recover](https://www.recoverapp.de/) - scheint aktuell das Sternchen untern denen zu sein.
+* [Handyspionage kann jeden treffen, auch dich.](https://netzpolitik.org/2021/nso-whatsapp-hack-betroffene-von-handy-spionage-berichten/) - Denn dank den Gesetzen reicht eine Vermutung um dich als Terrorist einstufen zu können
