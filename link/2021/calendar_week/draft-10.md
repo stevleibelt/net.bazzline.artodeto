@@ -19,3 +19,14 @@
 * [Intel, die Firma die seit 20 Jahren Fehler in ihrer Hardware hat und keine Lust hat die ganz zu machen, die lügen euch ins Gesicht das sie jetzt homomorphe Verschlüsselung können.](https://blog.fefe.de/?ts=9eb87c1e)
 * [Blockchain, QR-Code, Teilzeit-Anonymisierte-Daten, ne Softwareklitsche die nur für diesen Zweck gegründet wurde - Corona ist so gut wie besiegt.](https://blog.fefe.de/?ts=9eb942c5)
 * [Oh Gott, die USA zeigen ihren Bürgern wie sehr man sie als Ballast empfindet wenn sie Probleme haben, ein Chatbot soll sie bald aus dem Suizid befreien.](https://blog.fefe.de/?ts=9eb9bb62) - Sie in den Freitod zu treiben ist auch eine Art der Befreiung.
+* [Das schöne an der Cloud und an zentraler Struktur ist ja, dass es dann viele trifft wenn etwas passiert. In Strasbourg hat es bei OVH gebrannt.](https://www.bleepingcomputer.com/news/technology/ovh-data-center-burns-down-knocking-major-sites-offline/)
+* [Portainer auf dem Pi, hier wird dir gezeigt wie es geht.](https://pimylifeup.com/raspberry-pi-portainer/)
+* [>>Täglich der Stunden zwei: Displayfrei!<<](https://weltnetz.tv/video/2468-leben-ist-live)
+* [Es gibt gerade die Überlegungen von einigen Linux-Distributionen CPUs, die älter sind als 10 Jahre, aus der Unterstützung zu nehmen.](https://www.phoronix.com/scan.php?page=news_item&px=Arch-Linux-LTO-Proposed) - Gleichzeitig gibt es [hier](https://www.phoronix.com/forums/forum/phoronix/latest-phoronix-articles/1243698-arch-linux-looking-to-employ-lto-by-default-possibly-raise-x86-64-requirements?p=1243755#post1243755) eine wunderschöne Diskussionsrunde darüber. Nach dem Lesen der Kommentare find ich den Schritt nicht gut.
+* [Es gibt ein archlinux für 32 bit :-).](https://archlinux32.org/)
+* [Anhand vom Beispiel Feuchtigkeitssensor wird euch hier etwas über syslog-ng und elasticsearch erklärt.](https://opensource.com/article/21/3/sensor-data-raspberry-pi)
+* [Es stellt sich immer mehr heraus, dass KI und Automatisierung zu Fehlern führt. Was ist die Lösung? Die Menschen sollen jetzt selber die Daten korrigieren. Und wenn es genügend Leute machen, wird die Entscheidung der KI eventuell geändert.](https://netzpolitik.org/2021/algorithmwatch-widerspruch-mit-ein-paar-klicks/) - Ich warte drauf, wenn es die ersten Lobbyverbände vor der KI gibt.
+* [OpenZFS wurde in der Version 2.0.4 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=OpenZFS-2.0.4-Released)
+* [Wordpress wurde in der Version 5.7 veröffentlicht.](https://wordpress.org/news/2021/03/esperanza/)
+* [Überwachungskameras der Firma Verkada sind kaputt.](https://blog.fefe.de/?ts=9eb604e0) - Die werden in unwichtigen Bereichen wie Krankenhäusern, Gefängnissen, Schulen etc. eingesetzt.
+* [Die Lernanwendung Anton der privaten Firma Solocode hat gleich mal keine Passwörter wenn es um Nutzerdaten geht.](https://blog.fefe.de/?ts=9eb605fb)
