@@ -30,3 +30,15 @@
 * [Wordpress wurde in der Version 5.7 veröffentlicht.](https://wordpress.org/news/2021/03/esperanza/)
 * [Überwachungskameras der Firma Verkada sind kaputt.](https://blog.fefe.de/?ts=9eb604e0) - Die werden in unwichtigen Bereichen wie Krankenhäusern, Gefängnissen, Schulen etc. eingesetzt.
 * [Die Lernanwendung Anton der privaten Firma Solocode hat gleich mal keine Passwörter wenn es um Nutzerdaten geht.](https://blog.fefe.de/?ts=9eb605fb)
+* [Wie blöd kann die Bundesregierung sein, für jedes Impfzertifikat, erhält IBM Geld.](https://blog.fefe.de/?ts=9eb7888a) - Die sollen die Infrastruktur nur bauen, betrieben wird der ganze Mist doch ehh vom Bund.
+* [Die Blockchain in der IBM-Impfpass-Software ist auch nur eine Blockchain damit man eine Blockchain eingebaut hat, nutzlos und Ressourcenverschwendung.](https://blog.fefe.de/?ts=9eb78586)
+* [Wenn es um Mitarbeiter der Springer Hetzpresse geht, ist Vorverurteilung auf einmal fehl am Platze.](https://blog.fefe.de/?ts=9eb7f393) - Ist das schon eine Bi-Polare-Störung bei denen?
+* [Wenn die Polizei geheime Massenabfrage gegen ihre V-Männer/freie Mitarbeiter, ähh, rechtsradikale Gruppen machen muss, ist das auf einmal nicht verhältnismäßig.](https://blog.fefe.de/?ts=9eb7ee5f)
+* [Die Firma Ulbrich, die den Impfpass verkacken wird, die hat sich auch schon mal hinter IOTA versucht, ging auch schief.](https://blog.fefe.de/?ts=9eb7db52) - Und deren Anspruch ist im übrigen "Privatsspähre ist tot".
+* [Passt auch, der angeblich anonyme "Fingerabdruck" hat sehr viele private Daten.](https://blog.fefe.de/?ts=9eb62c5b)
+* [>>Big Pharma und Staat: Masken, Impfen und Profite<< - >>Gesundheitspolitik? Korrupt, kolonial, kapitalistisch<<](https://weltnetz.tv/video/2469-big-pharma-und-staat-masken-impfen-und-profite)
+* [Die Nextcloud wurde vom "European Date Protection Supervisor" (Europäischer Datenschutzbeauftrager) mit der Bestnote beurteilt.](https://nextcloud.com/blog/european-data-protection-supervisor-recognizes-nextcloud-as-an-example-of-privacy-respecting-personal-information-management-systems/)
+* [Fukushia, 10 Jahre her und kein Ende in sicht.](https://netzfrauen.org/2021/03/11/fukushima-8/)
+* [Lasst euch nicht verarschen, das "Beaufsichtigen" beim Homeschooling oder Homeuniversitäting ist reinste und menschenverachtenste Spionage.](https://www.kuketz-blog.de/proctorio-proctoring-software-auf-augenhoehe-mit-spyware/) - Den Schülern und Studenten wird eine Software aufgezwungen die IMMER JEDEN Internetverkehr im Browser analysiert, auch nach der Schule oder Uni.
+* [Windows 10 stürzt beim Drucken ab.](https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-windows-10-crash-issue-due-to-march-updates/)
+* [Da die Bürger der Politik die Idee ausgetrieben haben, machen es die Urheberrechtsverwahrer nun selbst, über große Bonuszahlungen wird das Internet zensiert.](https://netzpolitik.org/2021/clearingstelle-urheberrecht-im-internet-die-rueckkehr-der-netzsperren/) - "Verhaltenskodex" nennen die das.
