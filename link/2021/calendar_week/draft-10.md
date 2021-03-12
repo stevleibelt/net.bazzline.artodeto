@@ -42,3 +42,14 @@
 * [Lasst euch nicht verarschen, das "Beaufsichtigen" beim Homeschooling oder Homeuniversitäting ist reinste und menschenverachtenste Spionage.](https://www.kuketz-blog.de/proctorio-proctoring-software-auf-augenhoehe-mit-spyware/) - Den Schülern und Studenten wird eine Software aufgezwungen die IMMER JEDEN Internetverkehr im Browser analysiert, auch nach der Schule oder Uni.
 * [Windows 10 stürzt beim Drucken ab.](https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-windows-10-crash-issue-due-to-march-updates/)
 * [Da die Bürger der Politik die Idee ausgetrieben haben, machen es die Urheberrechtsverwahrer nun selbst, über große Bonuszahlungen wird das Internet zensiert.](https://netzpolitik.org/2021/clearingstelle-urheberrecht-im-internet-die-rueckkehr-der-netzsperren/) - "Verhaltenskodex" nennen die das.
+* [Oha, in Texas wurde wohl mit absicht die ganze Petrochemie an die Wand gefahren. So ein Unwetter bietet sich halt an einmal die abgeschriebenen Werke vor die Wand zu fahren damit man danach noch einmal Entschädigung bekommt und gleichzeitig den Preis nach oben schiebt.](https://blog.fefe.de/?ts=9eb4ff16)
+* [In Lübeck und Finnland gab es zwei patentfreie Impfstoffe gegen die politische Coronaproblematik (leider nur gegen die Erkältung, nicht die politische Verdummung). Beide wurden klein gehalten damit die Pharmafirmen mit medialer Hetzpresse ihre Gewinne maximieren konnten.
+* [F5 ist kaputt.](https://blog.fefe.de/?ts=9eb4dd80)
+* [Die EU verkauft jetzt ohne lästige Mittelsmänner Waffen und Kriegsgerät direkt in Kriegsgebiete. Bezahlt werden muss das nicht, es gibt einen ungedeckelten "Topf" der dafür genutzt wird.](https://blog.fefe.de/?ts=9eb4d68f) - Kurzum, auf Kosten unserer Steuergelder werden Waffen in Kriegsgebiete verschickt. Der Name für das Projekt "European Peace Facility"
+* [Du bist ungeschickt bei deiner Bestechung wenn dich Wolfgang "Aktenkoffer" Schäuble öffentlich als korrupt bezeichnet.](https://blog.fefe.de/?ts=9eb55174)
+* [IBM's DB2 ist kaputt.](https://blog.fefe.de/?ts=9eb5ad8d)
+* [Schade, statt dankbar zu sein, dass jemand eine Schwachstelle in der Software veröffentlicht, wird die Macht der Zensur genutzt.](https://blog.fefe.de/?ts=9eb4ba4a) - Damit ist das Thema "Lernen von Fehlern" bald zuende.
+* [Mit der Version 21 von 7zip gibt es eine native Version auf Linux.](https://www.putorius.net/7zip-21-0-provides-native-linux-support.html)
+* [OpenWRT läuft jetzt auch auf einem Raspberry Pi.](https://opensource.com/article/21/3/router-raspberry-pi)
+* [NewPipe wurde in der Version 0.20.11 veröffentlicht.](https://newpipe.net/blog/pinned/release/newpipe-0.20.11-released/)
+* [Nutzt den Pi-Hole um ein kinderfreundliches Internet zu schaffen.](https://opensource.com/article/21/3/raspberry-pi-parental-control) - Kurzum, einen separaten DNS für die Kinder und gut ist.
