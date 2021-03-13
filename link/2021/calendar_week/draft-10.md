@@ -53,3 +53,6 @@
 * [OpenWRT läuft jetzt auch auf einem Raspberry Pi.](https://opensource.com/article/21/3/router-raspberry-pi)
 * [NewPipe wurde in der Version 0.20.11 veröffentlicht.](https://newpipe.net/blog/pinned/release/newpipe-0.20.11-released/)
 * [Nutzt den Pi-Hole um ein kinderfreundliches Internet zu schaffen.](https://opensource.com/article/21/3/raspberry-pi-parental-control) - Kurzum, einen separaten DNS für die Kinder und gut ist.
+* [>>Die neue Masche der Pharma ist eine Kooperation mit Google. Die Krankheit des Menschen ist ein einträgliches Geschäft - dazu sind auch die Pharmakonzerne gerne bereit, Millionen Euro an den richtigen Stellen zu platzieren, um ihre Medikamente, ob sie nun helfen oder nicht, genehmigt zu bekommen. Besonders wichtig sind Ihre Daten und die bekommen die Konzerne kostenlos frei Haus geliefert.<<](https://netzfrauen.org/2021/03/13/lobbyismus-2/)
+* [Freie Software und Freie Hardware, ein Traum. Hier wird euch gezeigt wie ihr euch ein Theremin schraubt.](https://opensource.com/article/21/3/open-source-theremin)
+* [Laut einer Statistik aus den USA reduziert der ganze Maskelball die mögliche COVID-19-Rate um etwas mehr als 1 Prozent.](https://npr.news.eulu.info/2021/03/12/die-cdc-maskenmandat-studie/)
