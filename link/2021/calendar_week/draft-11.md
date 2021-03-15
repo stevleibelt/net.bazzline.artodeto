@@ -7,3 +7,10 @@
 * [Der Tierpark und das Musem in Freiberg öffnen wahrscheinlich zum 15.03.2021 wieder.](https://www.freiberg.de/stadt-und-buerger/aktuelles/neuigkeiten/tierpark-und-museum-oeffnen-wieder)
 * [Das Corona-Testzentrum in Freiberg öffnent zum 15.03.2021, Baby es sind bald Wahlen.](https://www.freiberg.de/stadt-und-buerger/aktuelles/neuigkeiten/corona-testzentrum-startet-montag)
 * [Und noch einmal große Kreis-, Universitäts-, Bergbau-, Silber- und UNESCO-Weltkulturerbestadt Freiberg, am 16.03.2021, zwischen 16:30 und 18:00 Uhr, findet die erste offenen Online-Bürgersprechstunde statt.](https://www.freiberg.de/stadt-und-buerger/aktuelles/neuigkeiten/erste-offene-online-buergersprechstunde)
+* [Ekelhaft, Amazon Alexa und Google Assistant werden genutzt um euch zu belauschen, auch euren Herzrythmus.](https://blog.fefe.de/?ts=9eb1e6db) - Also, so richtig können die Geräte das nicht, aber die "KI" dahinter tippt wilde und entscheidet ob ihr zur Kategorie "gesund" oder "tot" gehört
+* [Wo ein Trog ist ... die CIA und die NSA haben jetzt herausgefunden, warum der Solarwinds-Hack funktioniert hatte. Weil sie per Gesetz nicht so einfach im Inland schnüffeln dürfen.](https://blog.fefe.de/?ts=9eb1e4ac)
+* [Die CDU so, Datenschutz muss weg, außer für uns Politiker, da ist es wichtig.](https://blog.fefe.de/?ts=9eb1eaec)
+* [Der Betreuer von `dhcpcd` muss wegen Krebsbefall das Handtuch werfen. Die besten Wünsche gehen an Ihm.](https://roy.marples.name/archives/dhcpcd-discuss/0003457.html) - `dhcpcd`, auch so ein Programm was jede Firma nutzt und keiner bezahlt etwas dafür.
+* [Nein? Doch! Oh? Volkswagen, Daimler und BMW machen es wie bei der Steuer, mit Lügen im gesetzlichen Rahmen gaukeln diese Firmen Klimaschutz vor.](https://www.sonnenseite.com/de/wirtschaft/greenpeace-analyse-vw-daimler-und-bmw-rechnen-sich-ihren-beitrag-zum-klimaschutz-schoen/)
+* [Notepad++ wurde in der Version 7.9.4 veröffentlicht.](https://notepad-plus-plus.org/downloads/v7.9.4/)
+* [Hier wird euch erklärt wie ihr unter Windows dank Invoke-Command auf entfernten PCs Kommandos und Skripte laufen lasst.](http://woshub.com/invoke-command-run-powershell-scripts-remotely/)
