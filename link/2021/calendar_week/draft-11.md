@@ -22,3 +22,12 @@
 * [Es wird so schlimm wie ich es gedacht habe, die DNS-Sperren durch das Monopol der Netzanbieter macht den Bock zum Gärtner.](https://netzpolitik.org/2021/edit-policy-die-cuii-initiative-private-netzsperren-ohne-gerichtsbeschluss/)
 * [2023 werdet ihr kaum noch Waren aus dem Ausland kriegen.](https://netzpolitik.org/2021/neues-frachtinformationssystem-eu-kommission-startet-elektronische-warenvoranmeldung-mit-risikoanalyse/)
 * [Eventuell hat Microsoft einen Fix für sein BSOD-Drucker-Problem veröffentlicht. Wer ist so mutig und testet den?](https://www.borncity.com/blog/2021/03/16/windows-10-auerplanmiges-update-fr-drucken-bluescreen-bug/)
+* [Nein? Doch! Oh? Der Justizminister in Bayer ist auch offiziell Korrupt.](https://blog.fefe.de/?ts=9eaf23d0)
+* [Olaf Scholz, der Supermann aus Hamburg wollte kurz vor dem Bekanntwerden des Wirecard-Skandals noch mal Steuergelder in das Unternehmen pumpen damit es nicht auffällt. DEUTSCHE LÖSUNG!](https://blog.fefe.de/?ts=9eaf0e2e)
+* [>>Ich möchte diese Gelegenheit nutzen, um den Ärzten und dem Pflegepersonal meinen Dank auszudrücken. Niemand sollte 80 Wochenstunden arbeiten müssen. Das ist Raubbau an den körperlichen Ressourcen derjenigen Menschen. Ihr seid Helden, allesamt!<<](https://blog.fefe.de/?ts=9eaf045f) - Dem schließe ich mich an. Ich hatte 60 Wochenstunden und die waren schon scheiße.
+* [Schön so eine Cloud, Microsoft hat ihren eigenen Authentifizierungsdienst zerschossen, so konnten sich selbst die Dienste untereinander nicht anmelden.](https://blog.fefe.de/?ts=9eae08b7) - Zentralisierte Lösungen, nichts anderes ist die Cloud.
+* [In Groß Britanien darf man bald nur noch geräuschlos demonstrieren.](https://blog.fefe.de/?ts=9eae02bb)
+* [Und mehr Atomsprengköpfe braucht Groß Britanien auch dringend!](https://blog.fefe.de/?ts=9eae789e)
+* [`flameshot gui` ist ja ein richtig schönes Screenshot Werkzeug.](https://github.com/flameshot-org/flameshot)
+* [Mit K6 könnt ihr recht entspannt Lasttest gegen eure Infrastruktur fahren.](https://opensource.com/article/21/3/journey-to-open-source) - Der Werbespruch ist "wie Unittests für die Leistung".
+* [Hier werden euch einige freie Projektmanagement-Systeme vorgestellt.](https://opensource.com/article/21/3/open-source-project-management)
