@@ -31,3 +31,13 @@
 * [`flameshot gui` ist ja ein richtig schönes Screenshot Werkzeug.](https://github.com/flameshot-org/flameshot)
 * [Mit K6 könnt ihr recht entspannt Lasttest gegen eure Infrastruktur fahren.](https://opensource.com/article/21/3/journey-to-open-source) - Der Werbespruch ist "wie Unittests für die Leistung".
 * [Hier werden euch einige freie Projektmanagement-Systeme vorgestellt.](https://opensource.com/article/21/3/open-source-project-management)
+* [>>Andere wird 3. stärkste Kraft in BaWü. Nichtwähler erneut Wahlsieger.<<](https://www.reddit.com/r/de/comments/m5g42c/andere_wird_3_st%C3%A4rkste_kraft_in_baw%C3%BC_nichtw%C3%A4hler/)
+* [Quer vom BR vergleicht das Thromboserisiko richtig. Bei "der Pille" bekommen 1.100 von 1 Million Frauen eine Thrombose, bei Astrazeneca 6 von 1 Millionen.](https://www.reddit.com/r/de/comments/m5puso/quer_vom_br_zum_tromboserisiko_beim/)
+* [Einbildung ist auch eine Bildung, bei Office 365 werden Benutzerkonten und -daten geklaut wie nichts gutes, aber die Manager fühlen sich wegen der Dauerwerbeschleiche in der Cloud sicherer aufgestellt.](https://blog.fefe.de/?ts=9eaf278e) - Denn das Zauberwort hier ist "Compliance", irgendwer behauptet, dass Jemand anderes irgendwas zahlt wenn sonst etwas passiert.
+* [Der Microsoft Drucker-Fehler ist noch größer, Bilder und QR-Codes werden auch nicht mehr gedruckt.](https://www.borncity.com/blog/2021/03/18/windows-10-microsoft-besttigt-grafik-druckfehler-nach-mrz-2021-updates/)
+* [Die immer mit ihrem Ruf nach Datenschutz, bei den Corona Tests waren mal eben 130.000 Testergebnise mit Name, Adresse und Testergebnis für alle abrufbar.](https://netzpolitik.org/2021/sicherheitsluecke-mehr-als-130-000-corona-testergebnisse-waren-frei-im-netz-abrufbar/)
+* [Wieder etwas gelernt, dass `-v` in `grep -v` steht für `--invert-match`.](https://opensource.com/article/21/3/grep-cheat-sheet)
+* [Genau das ist IoT, die USA verbieten Hersteller da diese ihre Produkte als Wegwerfprodukte sehen.](https://www.borncity.com/blog/2021/03/18/nationale-sicherheit-usa-verbannen-iot-produkte-von-fnf-oem-herstellern/) - Und dies ist das gefährliche an dem Konzept von IoT, ich soll einen Produkt vertrauen, welches schon kaputt ankommt und nie ein Update sehen wird
+* [Audacity wurde in der Version 3.0 veröffentlicht.](https://www.bleepingcomputer.com/news/software/audacity-30-released-with-new-aup3-file-format-speed-improvements/)
+* [>>Datenschutzbeauftragter: Behörden sollen unverzüglich auf Microsoft verzichten<<](https://blog.fefe.de/?ts=9eade697)
+* [DEr KSK Munitionsskandal kann nicht aufgeklärt werden weil die wichtigen Dateien gelöscht wurden.](https://blog.fefe.de/?ts=9eadd74d)
