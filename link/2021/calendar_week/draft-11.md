@@ -40,4 +40,10 @@
 * [Genau das ist IoT, die USA verbieten Hersteller da diese ihre Produkte als Wegwerfprodukte sehen.](https://www.borncity.com/blog/2021/03/18/nationale-sicherheit-usa-verbannen-iot-produkte-von-fnf-oem-herstellern/) - Und dies ist das gefährliche an dem Konzept von IoT, ich soll einen Produkt vertrauen, welches schon kaputt ankommt und nie ein Update sehen wird
 * [Audacity wurde in der Version 3.0 veröffentlicht.](https://www.bleepingcomputer.com/news/software/audacity-30-released-with-new-aup3-file-format-speed-improvements/)
 * [>>Datenschutzbeauftragter: Behörden sollen unverzüglich auf Microsoft verzichten<<](https://blog.fefe.de/?ts=9eade697)
-* [DEr KSK Munitionsskandal kann nicht aufgeklärt werden weil die wichtigen Dateien gelöscht wurden.](https://blog.fefe.de/?ts=9eadd74d)
+* [Der KSK Munitionsskandal kann nicht aufgeklärt werden weil die wichtigen Dateien gelöscht wurden.](https://blog.fefe.de/?ts=9eadd74d)
+* [>>Das Verzeichnis intelligence-oversight.org sammelt und veröffentlicht nun richtungsweisende Beispiele aus der internationalen Praxis von Aufsichtsgremien und ihren landeseigenen Geheimdiensten.<<](https://netzpolitik.org/2021/geheimdienste-gute-beispiele-fuer-bessere-kontrolle/)
+* [`KB5001649` soll endlich alle Probleme unter Windows 10 mit dem "BlueScreen to print" lösen.](https://www.bleepingcomputer.com/news/microsoft/new-windows-10-emergency-updates-fix-remaining-printing-issues/)
+* [Endlich ist die Beschneidung in Kenya vor Gericht verboten.](https://netzfrauen.org/2021/03/19/fgm-3/)
+* [OTRS CE ist jetzt Znuny LTS.](https://www.admin-magazin.de/News/OTRS-Community-Edition-lebt-als-Fork-weiter)
+* [Hier wird euch gezeigt wie ihr mit Zabbix snmp Templates baut.](https://blog.zabbix.com/building-templates-for-snmp-devices/13588/)
+* [Microsoft Exchange ist kaputt.](https://www.borncity.com/blog/2021/03/18/microsoft-exchange-online-macht-wieder-die-grtsche-18-03-2021/)
