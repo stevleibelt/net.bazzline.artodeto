@@ -47,3 +47,10 @@
 * [OTRS CE ist jetzt Znuny LTS.](https://www.admin-magazin.de/News/OTRS-Community-Edition-lebt-als-Fork-weiter)
 * [Hier wird euch gezeigt wie ihr mit Zabbix snmp Templates baut.](https://blog.zabbix.com/building-templates-for-snmp-devices/13588/)
 * [Microsoft Exchange ist kaputt.](https://www.borncity.com/blog/2021/03/18/microsoft-exchange-online-macht-wieder-die-grtsche-18-03-2021/)
+* [Also Pi-Hole via Podman auf einem Raspberry Pi 1 geht nicht.](https://github.com/pi-hole/docker-pi-hole/issues/507)
+* [>>[...] Fridays For Future [:] [...] Allein in Deutschland wurde in mehr als 200 Städten demonstriert [...] Es geht jetzt nicht mehr nur um Wissenschaft, Wirtschaft und Politik, sondern auch um Ethik.<<](https://www.sonnenseite.com/de/franz-alt/kommentare-interviews/die-fridays-for-future-bewegung-ist-zurueck/)
+* [Deutschland wird seit über zwei Jahren herunter gefahren, aber Queer.de hat nichts besseres im Kopf als sich über mehr Abwechslung bei einem Warnsignal zu begeifern.](https://tuxproject.de/blog/2021/03/ampelroeckchen/) - Denn wo wir mehr Deutungsfreiheit brauchen, dann wohl im Straßenverkehr und bei Warnsignalen!
+* [Die EU will jetzt auch offiziell erst einmal jede abgefangene Kommunikation speichern um sie später einmal entschlüsseln und gegen dich verwenden zu können.](https://netzpolitik.org/2021/ende-zu-ende-verschluesselung-eu-kommission-will-technik-zum-abhoeren-von-5g-verbindungen-erforschen/)
+* [Es gibt eine anonyme und kostenfreie Lösung statt Smudo noch mehr Geld für sein LuCa-Dreck in den Hals zu werfen.](https://netzpolitik.org/2021/npp-225-zu-apps-in-der-pandemiestrategie-wer-rettet-uns-vor-der-app/) - Aber scheinbar hat Smudo einfach noch zu wenig Gewissen
+* [eBay verkackt gerade mit seinem "neuen Bezahlsystem", da fallen für Inlandstransaktionen auf einmal Auslandsgebühren an - *huch*, das war mit Sichheit so nicht von eGay gedacht ;-).](https://www.borncity.com/blog/2021/03/20/neue-zahlungsabwicklung-noch-eine-kostenfalle-bei-ebay/)
+* [Acer ist kaputt.](https://www.bleepingcomputer.com/news/security/computer-giant-acer-hit-by-50-million-ransomware-attack/)
