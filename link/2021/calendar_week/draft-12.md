@@ -1,2 +1,15 @@
 * [Die CDU will jetzt integer sein, also interger gegenüber ihren Konzernfreunden.](https://blog.fefe.de/?ts=9ea6a0b9)
 * [John Cleese zeigt die Realität, er verkauft jetzt NFT's.](https://blog.fefe.de/?ts=9ea91b7a)
+* [Immer weniger Bürger sehen die weiteren Einschränkungen und Lockdowns als Lösung.](https://www.henning-uhle.eu/informatik/1-jahr-home-office-ich-hab-die-nase-voll)
+* [Kuketz testet einmal einen QR-Scanner aus dem Google Play Store. Wie zu erwarten, Datenschutz ist hier fehl am Platze.](https://www.kuketz-blog.de/qr-barcode-scanner-qr-scanner-app-die-deine-privatsphaere-nicht-respektiert/)
+* [Discord will wohl ins Bett zu Microsoft steigen.](https://www.borncity.com/blog/2021/03/23/discord-in-verkaufsverhandlungen-schlgt-microsoft-fr-10-milliarden-zu/)
+* [PHP 8.1 und endlich gibt es LDAP Objekte `\LDAP`, `\LDPAResult` und `\LDAPResultEntry`.](https://php.watch/version/8.1/LDAP-resource)
+* [PHP 8.1 kriegt mit Fibers eine Art Threads zur Laufzeit.](https://php.watch/versions/8.1/fibers)
+* [Hier wird euch gezeigt, wie ihr den Windows 10 Fehlercode `0xC004C003` löst.](https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-workaround-for-0xc004c003-windows-10-activation-errors/)
+* [Das BKA nutzt dann mal Schadsoftware um eure PCs "zu sichern".](https://netzpolitik.org/2021/schadsoftware-bereinigung-bka-nutzt-emotet-takedown-als-tueroeffner-fuer-mehr-befugnisse-und-neue-gesetze/)
+* [Webshit weekly von n-gate.com lohnt die Woche einfach komplett.](http://n-gate.com/hackernews/2021/03/21/0/)
+* [Hier wird euch gezeigt, wie ihr mit ansible die wichtigsten Statistiken eurer Maschinen erfragen könnt.](https://opensource.com/article/21/3/ansible-sysadmin)
+* [Hier gibt es sechs Plugins mit denen ihr euer Wordpress bereit zum Internetverkauf machen könnt.](https://opensource.com/article/21/3/wordpress-plugins-retail)
+* [Microsoft ist wie google, bald werden eure Nutzerdaten nicht nur erfasst, sondern auch an Microsoft gesendet. Stand jetzt, nur für "A/B-Tests".](https://www.borncity.com/blog/2021/03/22/windows-10-kommt-edge-als-neue-spyware/) - A/B-Teste deine Mutter!
+* [HP verschlechtert seine Drucker mit jedem "Firmware-Update", endlich klagt jemand gegen diese Praxis.](https://www.borncity.com/blog/2021/03/22/sammelklage-gegen-hp-wegen-geblockter-drucker-cartridges/) - Bald gibt es Farbe bei HP nur noch gegen ein Abo-Model.
+* [>>Elefanten in Kenia verhungern, damit Menschen in Europa Avocados essen können<<](https://netzfrauen.org/2021/03/21/africa-19/)
