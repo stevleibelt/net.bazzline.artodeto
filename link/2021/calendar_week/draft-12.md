@@ -13,3 +13,16 @@
 * [Microsoft ist wie google, bald werden eure Nutzerdaten nicht nur erfasst, sondern auch an Microsoft gesendet. Stand jetzt, nur für "A/B-Tests".](https://www.borncity.com/blog/2021/03/22/windows-10-kommt-edge-als-neue-spyware/) - A/B-Teste deine Mutter!
 * [HP verschlechtert seine Drucker mit jedem "Firmware-Update", endlich klagt jemand gegen diese Praxis.](https://www.borncity.com/blog/2021/03/22/sammelklage-gegen-hp-wegen-geblockter-drucker-cartridges/) - Bald gibt es Farbe bei HP nur noch gegen ein Abo-Model.
 * [>>Elefanten in Kenia verhungern, damit Menschen in Europa Avocados essen können<<](https://netzfrauen.org/2021/03/21/africa-19/)
+* [Hier wird euch gezeigt, wie ihr mit der Powershell den RemoteDesktop aktiviert. `Install-Module Enable-RemoteDesktop`](https://sid-500.com/2021/03/22/enable-remote-desktop-remotely-with-powershell-enable-remotedesktop/)
+* [Luca ist nur so sicher wie die Personen die es bedienen.](https://netzpolitik.org/2021/digitale-gaestelisten-das-zentrale-problem-von-luca/)
+* [Und digitalcourage hat sich Luca auch einmal angeschaut.](https://www.kuketz-blog.de/luca-app-zusammenfassung-der-vorlaeufigen-sicherheits-analyse/) - `Hohes Missbrauchsrisiko aufgrund der Zentralisierung des Vertrauens.`
+* [Hier wird euch gezeigt wie ihr Zabbix mit einer PostgreSQL und einer TimescaleDB aufsetzt.](https://blog.zabbix.com/how-to-deploy-zabbix-on-postgresql-with-timescale-db-plugin/13668/)
+* [Notepad wurde in der Version 7.9.5 veröffentlicht.](https://www.planet3dnow.de/cms/62070-notepad-7-9-5/)
+* [Plan 9 steht jetzt unter der MIT Lizenz.](https://www.phoronix.com/scan.php?page=news_item&px=Plan-9-2021)
+* [Spahn so, lieber Maschinen statt Menschen!](https://netzpolitik.org/2021/triage-software-in-notaufnahmen-der-naechste-schnellschuss-aus-dem-hause-spahn/) - Und stirbt jemand, schade, schade, Softwarefehler.
+* [>>Basically, when you have a real SQL database, you have ability to optimize execution plans. Which could easily yield orders of magnitude of improvement in performance.<<](https://zaitcev.livejournal.com/262026.html)
+* [Ikea mag seine Mitarbeiter auch nicht, das sind doch alles nur Klauschweine!](https://www.borncity.com/blog/2021/03/24/mitarbeiterbespitzelung-ikea-vor-gericht/)
+* [Universal Media Server wurde in der Version 10.4.0 veröffentlicht.](https://www.planet3dnow.de/cms/62098-universal-media-server-10-4-0/)
+* [Demoszene ist UNESCO-Kulturerbe.](https://netzpolitik.org/2021/digitale-kunst-demoszene-wird-unesco-kulturerbe/)
+* [Zoom verdient durch die Hochschulen knapp 6,5 Millionen Euro im Jahr 2020.](https://netzpolitik.org/2021/private-infrastruktur-fuer-die-lehre-so-viel-bezahlen-hochschulen-fuer-zoom/)
+* [Hier wird euch gezeigt wie ihr in der bash Dateien lesen und schreiben könnt.](https://opensource.com/article/21/3/input-output-bash)
