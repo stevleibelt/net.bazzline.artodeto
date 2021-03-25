@@ -26,3 +26,10 @@
 * [Demoszene ist UNESCO-Kulturerbe.](https://netzpolitik.org/2021/digitale-kunst-demoszene-wird-unesco-kulturerbe/)
 * [Zoom verdient durch die Hochschulen knapp 6,5 Millionen Euro im Jahr 2020.](https://netzpolitik.org/2021/private-infrastruktur-fuer-die-lehre-so-viel-bezahlen-hochschulen-fuer-zoom/)
 * [Hier wird euch gezeigt wie ihr in der bash Dateien lesen und schreiben könnt.](https://opensource.com/article/21/3/input-output-bash)
+* [Gnome wurde in der Version 40 veröffentlicht.](https://lwn.net/Articles/850371)
+* [Das Netzwerkdurchsuchungsgesetz führt dazu, dass Anbieter pro Forma Dinge automatisiert löschen. Alles, was nicht Werbung oder dumme Unterhaltung und Mainstream ist, wird damit gelöscht.](https://netzpolitik.org/2021/netzwerkdurchsetzungsgesetz-studie-zeigt-schwaechen-bei-gesetz-gegen-hassrede-auf/) - Es findet also eine Gleichschaltung statt, damit das Netzwerkdurchsuchungsgesetz nicht genutzt wird.
+* [`winget install "VLC media player" --silent`](http://woshub.com/using-winget-package-manager-windows/) - Um zu wissen was es gibt, gibt es [hier](https://winstall.app/) eine Webseite zum Datenbestand
+* [Google entfernt einmal mehr eine Erweiterung die zum Schutz der Privatsphäre da ist.](https://www.bleepingcomputer.com/news/security/google-removes-privacy-focused-clearurls-chrome-extension/)
+* [Tor wurde in der Version 10.0.14 veröffentlicht.](https://www.borncity.com/blog/2021/03/25/tor-browser-10-0-14/)
+* [Nein? Doch! Oh? Mütter und Ungeborene dieses Jahr 50 Chemikalien mehr im Blut.](https://netzfrauen.org/2021/03/25/chemicals-3/)
+* [Rust wurde in der Version 1.51.0 veröffentlicht.](https://blog.rust-lang.org/2021/03/25/Rust-1.51.0.html)
