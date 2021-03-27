@@ -44,3 +44,6 @@
 * [Die nahe Grenzverteidigung in Afghanistan feiert sein 20 jähriges Jubileum.](https://blog.fefe.de/?ts=9ea3613d)
 * ["Vorsichtige Öffnung", FeFe so, "Vorsichtiges Anzünden des Reichtags"?](https://blog.fefe.de/?ts=9ea35bb5)
 * [Und das "Antikorruptionsgesetz" der Blockpartei wird was man denkt, es macht alles schlimmer.](https://blog.fefe.de/?ts=9ea35f24)
+* [Android ist kaputt.](https://www.bleepingcomputer.com/news/security/new-android-malware-spies-on-you-while-posing-as-a-system-update/)
+* [Nein? Doch! Oh? Stellst sich heraus, dass Schulen und Kitas doch nicht die Herde der Infektion sind.](https://www.bildung.sachsen.de/blog/index.php/2021/03/26/selbsttests-an-schulen-geringe-infektionsrate-bei-schulpersonal-und-schuelern/)
+* [Der BND darf jetzt eure Server und deren Betreiber hacken.](https://netzpolitik.org/2021/bnd-gesetz-bundesnachrichtendienst-erhaelt-so-viele-ueberwachungsbefugnisse-wie-noch-nie/)
