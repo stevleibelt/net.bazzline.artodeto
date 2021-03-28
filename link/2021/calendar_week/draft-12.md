@@ -47,3 +47,8 @@
 * [Android ist kaputt.](https://www.bleepingcomputer.com/news/security/new-android-malware-spies-on-you-while-posing-as-a-system-update/)
 * [Nein? Doch! Oh? Stellst sich heraus, dass Schulen und Kitas doch nicht die Herde der Infektion sind.](https://www.bildung.sachsen.de/blog/index.php/2021/03/26/selbsttests-an-schulen-geringe-infektionsrate-bei-schulpersonal-und-schuelern/)
 * [Der BND darf jetzt eure Server und deren Betreiber hacken.](https://netzpolitik.org/2021/bnd-gesetz-bundesnachrichtendienst-erhaelt-so-viele-ueberwachungsbefugnisse-wie-noch-nie/)
+* [Hey, macht euch keine Sorgen, die Millionen tote Quallen sind ganz natürlich.](https://netzfrauen.org/2021/03/27/climate-4/) - Das liegt definitiv nicht an der Überfischung, den steigenden Temperaturen oder der Vergiftung der Umwelt.
+* [Uff, fast 100.000 Tiere verenden gerade in dem schwimmenden Sarg auf dem Suez-Kanal.](https://netzfrauen.org/2021/03/27/suez/)
+* [Debian wurde in der Version 10.9 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=Debian-10.9-Released)
+* [Natürlich schlägt sich auch die SPD durch ihre politische Coronaproblematik die Taschen voll.](https://blog.fefe.de/?ts=9e9e0beb)
+* [Uff, schwere Pleite von pFSense und Wireguard.](https://blog.fefe.de/?ts=9ea14136)
