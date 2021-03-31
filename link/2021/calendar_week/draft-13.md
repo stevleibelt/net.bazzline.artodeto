@@ -25,3 +25,6 @@
 * [Die CDU so, wir können alles außer die Wahrheit.](https://blog.fefe.de/?ts=9e9dced7)
 * [Die Bumsregierung als Vorbilder, gleiches Recht für alle ... da unten.](https://blog.fefe.de/?ts=9e9c16b2)
 * [Ihr setzt Krypto ein? Warum? Warum ist egal, sobald ihr Krypto einsetzt, seid ihr Terroristen.](https://blog.fefe.de/?ts=9e9c15d2)
+* [Hier wird euch `git cherry-pick` kurz und knackig erklärt.](https://opensource.com/article/21/3/git-cherry-pick)
+* [Nein? Doch! Oh? Da schaut mal wieder jemand genauer hin und merkt, dass die Werbeversprechen nicht stimmen. Heute beim Thema "CO2-Speicherung der Böden".](https://www.sonnenseite.com/de/umwelt/die-meisten-boeden-koennen-weniger-co2-speichern-als-gedacht/)
+* [Mit `WIN-PS2EXE` könnt ihr eure PowerShell-Skripte in eine Exe-Datei umwandeln.](https://4sysops.com/archives/convert-a-powershell-script-into-an-exe-with-ps2exe-and-win-ps2exe/)
