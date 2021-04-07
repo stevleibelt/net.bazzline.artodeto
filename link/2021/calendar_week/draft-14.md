@@ -14,3 +14,14 @@
  * [In Zeiten von Corona muss man lernen etwas teilen zu können, gesteigerte Dividente zum Beipiel. Daimler macht das und bezieht gleichzeitig 700 Millionen Euro Kurzarbeitergeld.](https://blog.fefe.de/?ts=9e95a34e) - Kurzum, Daimler hat sich vom Autobauen verabschiedet und geht jetzt ganz darin auf Steuergelder in Dividenden umzuwanden. Endlich weg vom lästigen Metal!
  * [Hier gibt es Kindheitserinnerungen einer Marie Knudsen (geb. Rode) von der schönen Silberstadt Freiberg/Sachsen.](https://www.kitzigs.de/?page_id=603)
  * [Wisst ihr welche Firme wir in Europa brauchen um unsere unabhängige Europa-Cloud GaiaX zu bauen? Palentir, Huawei, Alibaba, Haier, Amazon, Google, Salesforce, Microsoft ...](https://blog.fefe.de/?ts=9e95f6e1)
+ * [Dell und Lenovo verbieten ab jetzt, dass ihr die gekaufte CPU später in einem anderen Mainboard benutzt.](https://blog.fefe.de/?ts=9e92979a)
+ * [Django wurde in der Version 3.2 veröffentlicht.](https://lwn.net/Articles/851733/rss)
+ * [Nein? Doch! Oh? Wenn es mehr Radwege gibt, wird auch mehr Rad gefahren.](https://www.sonnenseite.com/de/mobilitaet/mehr-radwege-fuehren-auch-zu-deutlich-mehr-radverkehr/) - Kann ich gar nicht nachvollziehen, ich liebe es auf der völlig überfüllten Straße regelmäßig von LKW's und Deppen in zu schnellen Autos aufs Korn genommen zu werden. Besser als jeder Kaffee am Morgen!
+ * [PowerShell mit Keepassx? `Install-Module SecretManagement.KeePass`](https://www.windowspro.de/wolfgang-sommergut/powershell-secretmanagement-passwoerter-keepass-secretstore-verwalten)
+ * [Kuketz hat einmal zusammen getragen warum MS Teams nicht in Schulen eingesetzt werden darf.](https://www.kuketz-blog.de/einsatz-von-ms-teams-an-schulen-was-spricht-dagegen/)
+ * [Falls Ihr beim Aufräumen eurer Terminaserver häufiger über die Verzeichnisse mit dem Namen `WER` stoßt, das steht für `Windows Error Reporting` und das kann man ausstellen.](http://woshub.com/wer-windows-error-reporting-clear-reportqueue-folder-windows/)
+ * [Signal baut jetzt Blockchain ein :-(.](https://blog.fefe.de/?ts=9e9221ad)
+ * [Statt mal in Java zu investieren um Geld zu verdiehen, verfehlen Oracles Pläne Geld aus dem Nichts zu erzeugen weiterhin ihre Ziele.](https://blog.fefe.de/?ts=9e926d50)
+ * [Scheuer findet Aufklärung gegen Korruption auch scheiße.](https://blog.fefe.de/?ts=9e93ad42)
+ * [LinkedIn hat 500 Millionen Nutzerdaten der Allgemeinheit geschenkt.](https://www.borncity.com/blog/2021/04/07/datenleck-500-millionen-linkedin-nutzerdaten-zum-verkauf-in-untergrundforen/)
+ * [Hier wird euch gezeigt, wie ihr Steam auf FreeBSD installiert und wie gut das alles auch noch funktioniert.](https://euroquis.nl//freebsd/2021/04/06/steam-freebsd)
