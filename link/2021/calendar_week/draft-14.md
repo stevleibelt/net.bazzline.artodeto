@@ -25,3 +25,9 @@
  * [Scheuer findet Aufklärung gegen Korruption auch scheiße.](https://blog.fefe.de/?ts=9e93ad42)
  * [LinkedIn hat 500 Millionen Nutzerdaten der Allgemeinheit geschenkt.](https://www.borncity.com/blog/2021/04/07/datenleck-500-millionen-linkedin-nutzerdaten-zum-verkauf-in-untergrundforen/)
  * [Hier wird euch gezeigt, wie ihr Steam auf FreeBSD installiert und wie gut das alles auch noch funktioniert.](https://euroquis.nl//freebsd/2021/04/06/steam-freebsd)
+ * [>>[...] Anderseits ist die bittere Wahrheit: Wir haben in der Firmware vieler chinesischer Android-Geräte einen Auto-Updater, der von Sicherheitsforschern als Riskware klassifiziert wird.  [...]<<](https://www.borncity.com/blog/2021/04/07/vorlufige-analyse-des-gigaset-malware-angriffs-durch-auto-installer-in-der-firmware/)
+ * [Am 11.09.2021 findet die Wanderung "Die Freiberger 8" statt.](https://www.fva-holzhau.de/11-09-2021-Die-Freiberger-8.5975-1.htm)
+ * [Der SWR zeigt, wer für das billige Fleisch aus dem Ausland bezahlt.](https://www.sonnenseite.com/de/umwelt/billiges-fleisch-wer-bezahlt-fuer-die-kleinen-preise/) - Nein? Doch! Oh? Nicht die Hersteller sondern die 99 Prozent der restlichen Weltbevölkerung.
+ * [Cisco ist kaputt, nein, wirklich, schon wieder.](https://www.bleepingcomputer.com/news/security/cisco-fixes-bug-allowing-remote-code-execution-with-root-privileges/)
+ * [Hier wird euch gezeigt, wie ihr einen `Scheduled Task` mit der PowerShell erzeugt.](http://woshub.com/how-to-create-scheduled-task-using-powershell/)
+ * [Pro Jahr sterben was neun Millionen Menschen an schmutziger Luft.](https://netzfrauen.org/2021/04/07/climatechange-14/) - Da muss Covid-19 noch viel üben und Statistiker bestechen und dort hin zu kommen.
