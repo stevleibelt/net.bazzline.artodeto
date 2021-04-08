@@ -31,3 +31,4 @@
  * [Cisco ist kaputt, nein, wirklich, schon wieder.](https://www.bleepingcomputer.com/news/security/cisco-fixes-bug-allowing-remote-code-execution-with-root-privileges/)
  * [Hier wird euch gezeigt, wie ihr einen `Scheduled Task` mit der PowerShell erzeugt.](http://woshub.com/how-to-create-scheduled-task-using-powershell/)
  * [Pro Jahr sterben was neun Millionen Menschen an schmutziger Luft.](https://netzfrauen.org/2021/04/07/climatechange-14/) - Da muss Covid-19 noch viel üben und Statistiker bestechen und dort hin zu kommen.
+ * [Bluetooth unter Linux ist kaputt.](https://blog.fefe.de/?ts=9e901bc8)
