@@ -20,3 +20,20 @@
 * [Immer wenn ich mir das große Bild der Drupal-Geschichte anschaue, bin ich begeistert was die da bauen.](https://opensource.com/article/21/4/drupal-updates) - Das wirkt nie planlos und die verändern "unter der Haube" so viel. Tolles Projekt!
 * [Seit dem 11.04.2019 sitzt Julian Assange unter schlimmen Bedingungen im Gefängnis. Eine Schande für die erste Welt ist das!](https://netzpolitik.org/2021/wikileaks-zweiter-jahrestag-der-verhaftung-von-julian-assange/)
 * [Interessante Frage und danke, dass sich jemand damit beschäftigt. Was passiert mit dem Reifenabrieb?](https://www.sonnenseite.com/de/umwelt/wohin-verschwindet-der-reifenabrieb/)
+* [Schönes Beispiel für BWL-er Abschaum, der Klink-Konzern Helios macht millionen Gewinne, fährt ihr Personal auf Verschleiß und schüttet natürlich die Gewinne als Dividende aus.](https://blog.fefe.de/?ts=9e88533e) - Genau das ist es, was passiert, wenn man kritische Infrastruktur wie Kliniken privatisiert. Es werden mit weniger Personal und schlechteren Standards mehr Gelder erwirtschaftet die in Werbung und Dividenden privatisiert werden.
+* [>>Raspberry Pi Home-Cluster mit Ansible erstellen und verwalten (glt21)<<](https://cdn.media.ccc.de/events/glt21/h264-hd/glt21-247-deu-Raspberry_Pi_Home-Cluster_mit_Ansible_erstellen_und_verwalten_hd.mp4)
+* [>>Installation & Konfiguration moderner Applikationen mit Foreman (glt21)<<](https://cdn.media.ccc.de/events/glt21/h264-hd/glt21-243-deu-Installation_Konfiguration_moderner_Applikationen_mit_Foreman_hd.mp4)
+* [>>Photovoltaics and how to use them in your DIY electronics projects (glt21)<<](https://cdn.media.ccc.de/events/glt21/h264-hd/glt21-224-eng-Photovoltaics_and_how_to_use_them_in_your_DIY_electronics_projects_hd.mp4)
+* [Hier haben sich Leute hingesetzt und den Grund für die Luca-Lizenzierung gefunden, es fallen Bewegungsdaten heraus.](https://blog.fefe.de/?ts=9e887ca4) - Also genau das, was bei der Corona-App so streng nicht implementiert wurde.
+* [Die USA baut seine Besatzungsmacht in Deutschland mit 500 weiteren Soldaten aus. Die sollen über die Weltraumtheorie des BND noch mehr cybern.](https://blog.fefe.de/?ts=9e8870cd) - DEMOKRATIE FÜR ALL UNSERE FREUNDE UND FEINDE!
+* [Europa ist wieder wer, nur noch China holzt in Brasilien mehr Regenwald ab als wir!](https://blog.fefe.de/?ts=9e8865ef) - Damit sind wir schon einmal Europameister und auf dem Sprung zum Weltmeister *trööööt*
+* [Ich hoffe da kommt nichts durch die Hintertür, die EU-Kommission möchte "Social Scoring" verbieten bevor es Mode wird.](https://netzpolitik.org/2021/ki-gesetz-eu-kommission-moechte-social-scoring-verbieten/)
+* [Nextcloud Desktop wurde in der Version 3.2 veröffentlicht.](https://nextcloud.com/blog/nextcloud-desktop-client-3-2-with-status-feature-and-virtual-files-available-now/)
+* [Kuketz ist so nett und hat seine Emfpehlungsecke um die Rubrik >>Remote-Control<< erweitert.](https://www.kuketz-blog.de/empfehlungsecke-remote-control-bzw-fernwartungstools/)
+* [Die haben halt nichts Wichtigeres zu tun. Der Rechtsausschuss des Europaparlaments will mehr Zensur um ein verschärftes Vorgehen gegen unautorisierte Livestreams von Sportereignissen erwirken.](https://www.patrick-breyer.de/unautorisierte-sport-livestreams-parlamentsausschuss-stimmt-fuer-verschaerfte-massnahmen-und-gegen-digitale-grundrechte/) - Hier hilft nur eins, nur noch lokalen Fußball konsumieren.
+* [X.Org Server wurde in der Version 1.20.11 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=X.Org-Server-1.20.11)
+* [NPM ist weiterhin kaputt.](https://www.bleepingcomputer.com/news/security/new-linux-macos-malware-hidden-in-fake-browserify-npm-package/)
+* [>>Luca-App: CCC fordert Bundesnotbremse<<](https://www.ccc.de/de/updates/2021/luca-app-ccc-fordert-bundesnotbremse)
+* [FreeBSD wurde in der Version 13.0 veröffentlicht.](https://lwn.net/Articles/852552/rss)
+* [PHP 8.1 bekommt den Rückgabewet `never`.](https://php.watch/versions/8.1/never-return-type)
+* [Hier wird euch gezeigt, wie ihr über die PowerShell und Excel `xslx` Dateien lest und schreibt.](http://woshub.com/read-write-excel-files-powershell/)
