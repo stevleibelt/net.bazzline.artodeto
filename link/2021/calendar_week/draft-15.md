@@ -43,3 +43,8 @@
 * [Am 20.04.2021 stellt die Gesellschaft für Freiheitsrechte ihr Gutachten zum Corona-Notstandsgesetz vor.](https://freiheitsrechte.org/pm-gutachten-corona-notbremse/)
 * [>>Hier machte sich noch mal deutlich, dass gerade die Verlegerlobby das Urheberrecht immer noch als ihr exklusives Spielzeug betrachtet, das einzig und allein dazu besteht, ihre Geschäftsmodelle zu schützen – selbst wenn das auf Kosten des Zugangs zur Literatur mitten in eine globalen Pandemie geht.<<](https://netzpolitik.org/2021/expertenanhoerung-zur-urheberrechtsnovelle-das-beste-das-dem-urheberrecht-passieren-konnte/)
 * [Hier geht es um das thema des systemd-resolvers und wie man den via ansible ausschaltet.](https://opensource.com/article/21/4/systemd-resolved)
+* [Neuseeland verbietet als eins der ersten Länder den Export von lebenden Tieren.](https://netzfrauen.org/2021/04/15/newzealand-10/) - Danke!
+* [HCL Verse wurde in der Version 2.1.0 veröffentlicht.](https://n-komm.de/hcl-verse-2-1-0-veroeffentlicht/)
+* [HCL Notes und Domino wurde in der Version 11.0.1 FP3 veröffentlicht.](https://n-komm.de/hcl-verse-2-1-0-veroeffentlicht/)
+* [Die Corona Warn-App kann ab diese Woche auch ein "Check In".](https://netzpolitik.org/2021/neue-version-der-corona-warn-app-einchecken-per-qr-code/) - Das gleiche wie die überteuerte "Luca", nur eben datenschutzfreundlich.
+* [Realitätsabgleich Tierversuche gefällig? Schaut hier mal vorbei.](https://netzfrauen.org/2021/04/15/spain-5/)
