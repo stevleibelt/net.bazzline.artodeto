@@ -48,3 +48,8 @@
 * [HCL Notes und Domino wurde in der Version 11.0.1 FP3 veröffentlicht.](https://n-komm.de/hcl-verse-2-1-0-veroeffentlicht/)
 * [Die Corona Warn-App kann ab diese Woche auch ein "Check In".](https://netzpolitik.org/2021/neue-version-der-corona-warn-app-einchecken-per-qr-code/) - Das gleiche wie die überteuerte "Luca", nur eben datenschutzfreundlich.
 * [Realitätsabgleich Tierversuche gefällig? Schaut hier mal vorbei.](https://netzfrauen.org/2021/04/15/spain-5/)
+* [Der Dokumentarfilm >>We the Power<< zeigt Beispiele wie man Bürgerkraftwerke in Europa baut.](https://www.sonnenseite.com/de/tipps/dokumentarfilm-we-the-power-zeigt-die-kraft-der-buergerenergie/)
+* [Die Einwohner von Grönland werden ihrer Natur und ihrem Land geraubt, wegen Selten Erden und Uran.](https://netzfrauen.org/2021/04/16/greenland/)
+* [Erkan?](https://blog.fefe.de/?ts=9e874436)
+* [Es gibt ja Hacker, die immer wieder zeigen wie unanständig die NSA ist. Und die NSA hat jetzt beschlossen, dass sie ohne Beweise einen Schuldigen gefunden haben, es sind die Russen, fertig.](https://blog.fefe.de/?ts=9e878207)
+* [Nein? Doch! Oh? Die kommerziellen Anwendungen bestehen zu 60 bis 97 Prozent aus freier Software. Aber die verrückten BWL-er setzen lieber veraltete und unsichere freie Software ein, denn die Betreuung kostet Geld und das will ja keiner bezahlen.](https://www.admin-magazin.de/News/Open-Source-Komponenten-in-kommerzieller-Software-alarmierend-unsicher)
