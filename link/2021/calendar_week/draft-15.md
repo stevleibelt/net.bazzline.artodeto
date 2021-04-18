@@ -53,3 +53,11 @@
 * [Erkan?](https://blog.fefe.de/?ts=9e874436)
 * [Es gibt ja Hacker, die immer wieder zeigen wie unanständig die NSA ist. Und die NSA hat jetzt beschlossen, dass sie ohne Beweise einen Schuldigen gefunden haben, es sind die Russen, fertig.](https://blog.fefe.de/?ts=9e878207)
 * [Nein? Doch! Oh? Die kommerziellen Anwendungen bestehen zu 60 bis 97 Prozent aus freier Software. Aber die verrückten BWL-er setzen lieber veraltete und unsichere freie Software ein, denn die Betreuung kostet Geld und das will ja keiner bezahlen.](https://www.admin-magazin.de/News/Open-Source-Komponenten-in-kommerzieller-Software-alarmierend-unsicher)
+* [Matrix hat mit `www.messenger-matrix.de` endlich eine eigene DE-Domain.](https://www.kuketz-blog.de/messenger-matrix-bekommt-eigene-domain-www-messenger-matrix-de/)
+* [In Windows 10 ist auf einmal `DNS` und `Shared Folders` kaputt.](https://www.bleepingcomputer.com/news/microsoft/mandatory-windows-10-update-causing-dns-and-shared-folder-issues/)
+* [Asunder, Easy Tag und schon habt ihr eure Musik digitalisiert.](https://opensource.com/article/21/4/digitize-cd-open-source-tools)
+* [Da mittlerweile Firmware-Updates über "Updater" automatisch passiert, werden diese Firmwares immer häufiger angegriffen.](https://www.borncity.com/blog/2021/04/18/bericht-firmware-angriffe-auf-dem-vormarsch/) - Hätte uns nur jemand vorher darüber gewarnt ;-)
+* [WhatsApp ist kaputt, doppelt.](https://www.borncity.com/blog/2021/04/18/zwei-whatsapp-schwachstellen-htten-smartphone-bernahme-ermglicht/)
+* [uBlock Origin funktioniert unter Firefox am besten.](https://github.com/gorhill/uBlock/wiki/uBlock-Origin-works-best-on-Firefox) - Danke [n-gate.com](http://n-gate.com/hackernews/2021/04/14/0/).
+* [Hier wird euch gezeigt, wir Ihr MySQL für Zabbix optimiert.](https://blog.zabbix.com/mysql-performance-tuning-101-for-zabbix/13899/)
+* [Bei `Codecov` wurde eingebrochen und der Quelltext der 29.000 Kunden konnte damit gelesen werden.](https://blog.fefe.de/?ts=9e8526bf)
