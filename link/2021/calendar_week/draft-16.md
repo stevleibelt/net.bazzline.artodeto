@@ -12,3 +12,4 @@
 * [Der Datenschutzbeauftragte von NRW kritisiert die Polizei von NRW, da die Polizei die Überwachungssoftware von Palentir gegen die eigenen Bürger nutzt.](https://netzpolitik.org/2021/datenschutzbehoerde-nrw-einsatz-der-palantir-software-bei-der-polizei-als-rechtswidrig-gebrandmarkt/)
 * [Geico hat all seine 28 Millionen Kundendaten der Öffentlichkeit geschenkt - ungewollt.](https://www.bleepingcomputer.com/news/security/geico-data-breach-exposed-customers-drivers-license-numbers/)
 * [Falls eurer Tabelle `SystemEvents` zu voll wird und ihr ein Skript zum löschen braucht, hier gibt es das `rsyslog mysql housekeeping` für euch.](https://github.com/bazzline/rsyslog_mysql_housekeeping)
+* [>>Mit anderen Worten: Der Uno-Folterbeauftragte Nils Melzer vergleicht hier die Behörden in Europa heute mit Adolf Eichmann bei der Judenvernichtung<<](https://blog.fefe.de/?ts=9e804bbc)
