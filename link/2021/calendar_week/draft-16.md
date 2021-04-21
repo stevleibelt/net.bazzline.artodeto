@@ -13,3 +13,10 @@
 * [Geico hat all seine 28 Millionen Kundendaten der Öffentlichkeit geschenkt - ungewollt.](https://www.bleepingcomputer.com/news/security/geico-data-breach-exposed-customers-drivers-license-numbers/)
 * [Falls eurer Tabelle `SystemEvents` zu voll wird und ihr ein Skript zum löschen braucht, hier gibt es das `rsyslog mysql housekeeping` für euch.](https://github.com/bazzline/rsyslog_mysql_housekeeping)
 * [>>Mit anderen Worten: Der Uno-Folterbeauftragte Nils Melzer vergleicht hier die Behörden in Europa heute mit Adolf Eichmann bei der Judenvernichtung<<](https://blog.fefe.de/?ts=9e804bbc)
+* [Sehr schön, da hat jemand bei Microsoft mitgedacht. Von Haus aus kann das Programm, welches via UAC mit erhöhten/erweiterten Rechten läuft, keine Netzlaufwerke nutzen.](http://woshub.com/how-to-access-mapped-network-drives-from-the-elevated-apps/) - Das kann man natürlich ändern, ich find es aber gut, wenn genau das nicht geht.
+* [SonicWall ist mal wieder kaputt.](https://www.borncity.com/blog/2021/04/21/sonicwall-email-security-zero-day-vulnerabilities-april-20-2021/)
+* [Geht scheinbar nur in Deutschland, nur hier getraut es sich der Markt, gegen die Kundenbindung und für die Ausbeutung der Kunden zu sein. Heute am Beispiel von Mobilfunkverträgen.](https://www.borncity.com/blog/2021/04/21/kostenfalle-handy-vertrag-bei-telekom-vodafone-co/)
+* [VirtualBox wurde in der Version 6.1.20 veröffentlicht.](https://www.planet3dnow.de/cms/62529-virtualbox-6-1-20/)
+* [Innerhalb der Polizei gibt es auf Neusprech nur bedauerliche Einzefälle.](https://netzpolitik.org/2021/rechte-und-rassistische-umtriebe-bei-der-polizei-lauter-einzelfaelle/) - Man muss die Zahl auf der andere Seite nur groß genug machen, dann ist alles ein bedauerlicher Einzelfall.
+* [Die EU so, Kohle, Erdgas, Erdöl und Atomenergie sind jetzt nachhaltig ... am Ende ist doch alles natürlich.](https://netzfrauen.org/2021/04/20/greendeal/)
+* [Nein? Doch! Oh? Auch alles was in Skype passiert wird überwacht. Wegen dem Terrorverdacht und so.](https://netzpolitik.org/2021/microsoft-scannt-alles-skype-chats-auf-terrorverdacht-durchleuchtet/)
