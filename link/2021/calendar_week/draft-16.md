@@ -40,3 +40,5 @@
 * [>>Während sich die Atomkraft Chancen auf ein Revival ausmacht, werden den Erneuerbaren Energien endlos Steine in den Weg gelegt. Die Bundesregierung hat in der aktuellen Legislaturperiode keine Chance versäumt, Erneuerbare Energien auszubremsen und die notwendigen Änderungen im EEG zu verschleppen.<<](https://www.sonnenseite.com/de/politik/35-jahre-nach-tschernobyl/)
 * [Euch fällt keine Idee ein wie ihr ne Feierei machen könnt? The Endless Acid Banger regelt.](https://www.vitling.xyz/toys/acid-banger/)
 * [Daniel Nashed hat ein Skript gebaut um Domino V12 in Podman laufen zu lassen.](http://blog.nashcom.de/nashcomblog.nsf/dx/domino-v12-community-image-on-any-container-platform.htm)
+* [Winget wurde in der Version 0.3 veröffentlicht.](https://www.bleepingcomputer.com/news/microsoft/windows-10-package-manager-can-now-remove-any-app-from-the-command-line/) - `winget uninstall` ist jetzt verfügbar.
+* [QNAP ist kaputt.](https://www.borncity.com/blog/2021/04/25/das-qnap-desaster-ransomware-angriff-auf-nas-einheiten/)
