@@ -1,0 +1,2 @@
+* [Die Gesellschaft für Freiheitsrechte stellt beim Bundesverfassungsgericht einen Eilantrag gegen die Notstandsgesetze wegen unverhältnismäßige Einschränkung.](https://freiheitsrechte.org/pm-ausgangssperren/) - [Hier](https://freiheitsrechte.org/faq-ausgangssperren/) wird auch erklärt warum das unverhältnismäßig ist.
+* [So wie die Polizei sich in den Nazis einschleust, schleichen sich jetzt Sicherheitsforscher in die Crackerszene ein.](https://www.borncity.com/blog/2021/04/25/sicherheitsforscher-dringen-in-struktur-einer-ransomware-gruppe-ein/)
