@@ -11,3 +11,6 @@
 * [Was plant das Bundesinstitut für Bau-, Stadt- und Raumforschung wenn es über "Smart Cities" nachdenkt?](https://blog.fefe.de/?ts=9e782ef4) - Durch anstandslose Massenüberwachung aller Bürger können Wahlen abgeschafft werden. Ich dachte immer, dass Koks zu teuer für Angestellte des öffentlichen Dienstes ist.
 * [Hier wird euch gezeigt, wie ihr php selber aus dem Quelltext baut.](https://php.watch/articles/compile-php-ubuntu)
 * [>>Abholzung führt zu mehr Infektionskrankheiten beim Menschen<<](https://netzfrauen.org/2021/04/26/deforestation-2/)
+* [CDU/CSU sind weitsichtig, statt mit den Völkern aus der Nähe Freundschaft zu finden, ist ihr Blick nur in die USA gerichtet.](https://blog.fefe.de/?ts=9e7801f9)
+* [>>1.981 Milliarden Dollar für Rüstung auszugeben bedeutet, dass 2,4 Prozent der globalen Wirtschaftsleistung für Rüstungsgüter verschwendet werden.<<](https://www.sonnenseite.com/de/zukunft/deutschland-und-die-welt-ruesten-hemmungslos-auf-trotz-corona-und-klimakatastrophe/)
+* [Hier wird euch gezeigt, wie ihr nen HCL domino via ansible aufsetzt.](http://blog.nashcom.de/nashcomblog.nsf/dx/containers-are-all-about-automation-ansible-is-a-great-tool-as-well.htm)
