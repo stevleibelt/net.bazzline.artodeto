@@ -6,3 +6,8 @@
 * [>>Ebenso wie Google ist Cloudflare ein Krebsgeschwür des Internets, das sich unaufhaltsam ausdehnt.<<](https://www.kuketz-blog.de/the-great-cloudwall-weshalb-cloudflare-ein-krebsgeschwuer-ist/) - Kurzum, ja, das unterschreibe ich so. Wir leben im Internet in einer Welt voller Monopole. Gäbe es 100 Cloudflare's, wäre die Nutzung ok.
 * [Die Bundesnotbremse ist wohl aktuell rechtlich noch nicht gültig.](https://verfassungsblog.de/die-bundesnotbremse-ist-nicht-zustande-gekommen/)
 * [>>Die Risiken eines Unfalls und das mögliche Ausmaß der Schäden ist so groß, dass kein Versicherungsunternehmen Atomunfälle versichert.<<](https://www.sonnenseite.com/de/umwelt/leben-mit-strahlung-und-angst/)
+* [Hier wird euch gezeigt, wie ihr mit `snapper` die BTRFS snapshots verwaltet.](https://www.incredigeek.com/home/snapper-reverting-changes-on-fedora/)
+* [Apples ICloud hat mal wieder schluckauf.](https://www.bleepingcomputer.com/news/apple/apple-icloud-mail-outage-causing-email-sending-receiving-issues/)
+* [Was plant das Bundesinstitut für Bau-, Stadt- und Raumforschung wenn es über "Smart Cities" nachdenkt?](https://blog.fefe.de/?ts=9e782ef4) - Durch anstandslose Massenüberwachung aller Bürger können Wahlen abgeschafft werden. Ich dachte immer, dass Koks zu teuer für Angestellte des öffentlichen Dienstes ist.
+* [Hier wird euch gezeigt, wie ihr php selber aus dem Quelltext baut.](https://php.watch/articles/compile-php-ubuntu)
+* [>>Abholzung führt zu mehr Infektionskrankheiten beim Menschen<<](https://netzfrauen.org/2021/04/26/deforestation-2/)
