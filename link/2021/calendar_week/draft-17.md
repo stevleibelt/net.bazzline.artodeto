@@ -14,3 +14,13 @@
 * [CDU/CSU sind weitsichtig, statt mit den Völkern aus der Nähe Freundschaft zu finden, ist ihr Blick nur in die USA gerichtet.](https://blog.fefe.de/?ts=9e7801f9)
 * [>>1.981 Milliarden Dollar für Rüstung auszugeben bedeutet, dass 2,4 Prozent der globalen Wirtschaftsleistung für Rüstungsgüter verschwendet werden.<<](https://www.sonnenseite.com/de/zukunft/deutschland-und-die-welt-ruesten-hemmungslos-auf-trotz-corona-und-klimakatastrophe/)
 * [Hier wird euch gezeigt, wie ihr nen HCL domino via ansible aufsetzt.](http://blog.nashcom.de/nashcomblog.nsf/dx/containers-are-all-about-automation-ansible-is-a-great-tool-as-well.htm)
+* [Singapur nutzt die, durch der politischen Coronaproblematik geschaffenen, Überwachungstechnologie gegen alles. "Unsere Corona-App" kann das nicht, die Luca-App könnte das auch.](https://blog.fefe.de/?ts=9e77e4cd)
+* [Falls in eure Blase gerade "Infraschall" von Windkrafträdern eindringt, hier kann man sich kurz informieren.](https://blog.fefe.de/?ts=9e77e2f7)
+* [Oh Gott, Laschet und Merz zusammen für die Bundestagswahl. HEIL den USA II.](https://blog.fefe.de/?ts=9e77dcfe)
+* [Google führt weiterhin Krieg gegen Alles was nicht google ist. Eine KI kann, von heute auf Morgen, Programme und Bewertungen aus deren App-Store löschen - ohne Chance das dies Rückgängig gemacht werden kann.](https://blog.fefe.de/?ts=9e77dcfe) - Und was macht google? Schaltet eine Wand und Armada von "KI"-Systeme als Kontaktstelle ein. "Ihr Anliegen ist uns wichtig *didüdü*".
+* [Hier wird euch gezeigt, wie ihr mit Ansible und JSON Daten umgeht, lesend und schreibend!](https://opensource.com/article/21/4/process-json-data-ansible)
+* [Stratis wurde in der Version 2.4 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=Stratis-2.4-Released)
+* [GCC wurde in der Version 11.1 veröffentlicht.](https://lwn.net/Articles/854572/rss)
+* [China plündert wohl mit 17.000 Schiffen die Weltmeere.](https://netzfrauen.org/2021/04/27/galapagos-2/)
+* [Nashed zeigt wie One Touch Setup mit Domino 12 geht. Wow!](http://blog.nashcom.de/nashcomblog.nsf/dx/domino-v12-one-touch-setup-for-real-world-deployments.htm)
+* ["Netflix and Chill" oder wie man mit "Infotainment" am Beispiel von Netflix mal eben die Geschichte und die moralischen Wertvorstellungen zentralisiert umschreibt.](https://orbisnjus.com/2021/04/27/netflix-and-chill-die-paedophilen-und-propagandistischen-urspruenge-des-zentrums-amerikanischer-pop-kultur-video/)
