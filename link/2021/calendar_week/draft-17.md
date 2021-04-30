@@ -39,3 +39,5 @@
 * [Intels SGX kurz zusammengefasst.](https://blog.fefe.de/?ts=9e745459)
 * [IBM hat New York einen Blockchain-basierten Covid-Impfpasst aufgeschwatzt.](https://blog.fefe.de/?ts=9e74418a) - Und hey, was die USA machen, muss Deutschland doppelt so schnell nach machen!
 * [Und Fridays for Future hat Recht.](https://blog.fefe.de/?ts=9e74bb61)
+* [Am 22.04.2021 fand der Spatenstich für ein weiteres Wasserwerk im Wasserzweckverband Freiberg statt.](https://www.youtube.com/watch?v=Cldj7DAYRSo) - Möge es uns 40 Jahre gute Dienste leisten.
+* [OpenNIC ist eventuell eine Lösung gegen die Zensur.](https://opensource.com/article/21/4/opennic-internet)
