@@ -31,3 +31,11 @@
 * ["Start-Up", "Gorillas", "hyperlokale Logistikzentren" ICH HAB A BULLSHITBINGO!](https://netzpolitik.org/2021/gorillas-start-up-die-neuen-verteilungskaempfe/)
 * [Nein? Doch! Oh? Der Grafikkartenmarkt ist leer und überteuert. Was macht die magische Hand des freien Marktes? Pause.](https://www.3dcenter.org/news/geruechtekueche-nvidias-nextgen-kommt-spaeter-als-erwartet-ampere-muss-wohl-bis-ende-2022-durch)
 * [Mit `wbadmin` könnt Ihr Windows selbst oder alles sichern.](http://woshub.com/how-to-create-full-system-image-backup-in-windows-10/) - In Bunt nennt sich das Programm dann `Sdclt.exe`.
+* [QNAP ist kaputt.](https://www.bleepingcomputer.com/news/security/qnap-warns-of-agelocker-ransomware-attacks-on-nas-devices/)
+* [Photon OS als günstiges Docker-OS?](http://blog.nashcom.de/nashcomblog.nsf/dx/photon-os.htm)
+* [Der EU-Rat hat beschlossen, dass ab jetzt jede Nachricht im Internet von fehleranfälligen und nicht nachvollziehbaren KI's durchleuchtet werden müssen und "Treffer" an die Polizei gemeldet werden.](https://www.patrick-breyer.de/eu-deal-zur-chatkontrolle-flaechendeckende-und-verdachtslose-durchsuchung-von-privatnachrichten-wird-gesetz/#comment-4116) - Die Fehlerquote ist sehr hoch, der Angeklagte hat keine Chance seine Unschuld zu beweisen, dass Missbrauchspotenzial ist hoch und das eigentliche Problem wird nur weiter in den Untergrund gedrängt. Ein Armutszeugnis für die EU.
+* [Erneut wurde das Masernschutzgesetzt Vorübergehenderweise verlängert. Dieses mal bis zum 31.12.2021.](https://impfentscheidung.online/masernschutzgesetz-uebergangsfrist-verlaengert/)
+* [Der Verein "Initiative freie Impfentscheidung e.V." strebt eine Verfassungsbeschwerde gegen das Infektionsschutzgesetzes an.](https://impfentscheidung.online/verfassungsbeschwerde-und-gutachten-infektionsschutzgesetz/)
+* [Intels SGX kurz zusammengefasst.](https://blog.fefe.de/?ts=9e745459)
+* [IBM hat New York einen Blockchain-basierten Covid-Impfpasst aufgeschwatzt.](https://blog.fefe.de/?ts=9e74418a) - Und hey, was die USA machen, muss Deutschland doppelt so schnell nach machen!
+* [Und Fridays for Future hat Recht.](https://blog.fefe.de/?ts=9e74bb61)
