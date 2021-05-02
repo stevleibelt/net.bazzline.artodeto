@@ -41,3 +41,17 @@
 * [Und Fridays for Future hat Recht.](https://blog.fefe.de/?ts=9e74bb61)
 * [Am 22.04.2021 fand der Spatenstich für ein weiteres Wasserwerk im Wasserzweckverband Freiberg statt.](https://www.youtube.com/watch?v=Cldj7DAYRSo) - Möge es uns 40 Jahre gute Dienste leisten.
 * [OpenNIC ist eventuell eine Lösung gegen die Zensur.](https://opensource.com/article/21/4/opennic-internet)
+* [Entweder etwas juristisches, oder Microsoft hat in Baden-Würtemberg genug Geld in die Koffer gesteckt, so dass die Schulen in die nicht DSVGO-konforme Microsoft-Cloud gedrängt werden. Denn im eigenen Landes-Hochschulnetzt, dürfen sie nach 12 Monaten nicht mehr bleiben.](https://blog.fefe.de/?ts=9e73bd37)
+* [>>Trotz großer Unzufriedenheit mit der Digitalisierung in Deutschland trauen Bürger der CDU und CSU am ehesten zu, die digitale Transformation erfolgreich zu gestalten.<<](https://blog.fefe.de/?ts=9e73d49e)
+* [Ein Land will nicht mehr selbst GMO-Scheiß anbieten, doch die freundliche Faust aus Europa zeigt was es von eigenmächtigen Ideen hält.](https://netzfrauen.org/2021/05/02/gmo-6/) - Selber denken, wer den Mexikaner diesen Floh ins Ohr gesetzt hat?
+* [Auch Apfle entscheidet nach Mondstellung ob euer Benutzerkonto gut oder böse ist.](https://www.borncity.com/blog/2021/05/02/mann-verklagt-apple-wegen-kontosperre-april-2021/) - Denkt gar nicht erst, etwas schlechtes über Gott Jobs zu denken, Siri lauscht sogar eure Gedanken!
+* [OpenIndiana wurde in der Version 2021.04 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=OpenIndiana-2021.04)
+* [Python ist kaputt.](https://www.bleepingcomputer.com/news/security/python-also-impacted-by-critical-ip-address-validation-vulnerability/)
+* [Almeria in Spanien, da, wo auf einer Wüste nur Plastikgewächshäuser stehen und unmengen an Grundwasser und Sklavenarbeiter verbraucht werden, um Steuermittel zu verschwenden und "auf der internationalen Weltbühne" verbilligtes Obst und Gemüse verkaufen zu können.](https://netzfrauen.org/2021/05/01/spain-6/)
+* [Joa Watkins teilt meine aktuelle Meinung zu PHP's Fibers.](https://blog.krakjoe.ninja/2021/05/worthiness.html) - Aber wir werden sehen wohin die Reise geht. Wenn es am Ende "das Ding" wird, dann verbeuge ich mich natürlich vor der Weitsicht der PHP-Kern-Entwickler.
+* [NewPipe wurde in der Version 0.21.2 veröffentlicht.](https://newpipe.net/blog/pinned/release/newpipe-0.21.2-released/)
+* [Nein? Doch! Oh? Dezentrale Stromnetze sparen Milliarden von Euro, machen dadurch die Energiewende billiger und verhindern auch noch einen deutschlandweiten "Blackout".](https://www.sonnenseite.com/de/wirtschaft/dezentralitaet-erspart-netzausbau-energiewende-billiger-und-gerechter/) - Warum baut Deutschland nun ein zentrales Stromnetz auf? Damit das Oligopol aus EON, ENBW, Vatenfall und RWE bald noch mehr Gewinne erwirtschaften kann.
+* [Hier wird euch gezeigt, wie Ihr in eurem vSphere 7 Alarme erstellt die Ihr via SNMP oder SNTP versendet.](https://4sysops.com/archives/how-to-configure-and-manage-vsphere-7-alarms/)
+* [QEMU wurde in der Version 6.0.0 veröffentlicht.](https://lwn.net/Articles/855030/rss)
+* [Hier wird euch gezeigt, wie ihr Mailcow via Docker zusammenbaut. ClamAV und Traefik ist auch mit dabei.](https://goneuland.de/mailcow-e-mail-komplettsytem-mit-antivirus-spam-filer-webmail-webfrontend-installieren-mittels-docker-und-traefik/)
+* [Hier wird euch etwas über Docker beigebracht, `scratch` ist das wirklich wichtige hierbei.](https://devopsdirective.com/posts/2021/04/tiny-container-image/)
