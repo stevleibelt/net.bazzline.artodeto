@@ -1,0 +1,1 @@
+* [Und so beginnt es, Feldroboter die mit Laser Gras vernichten.](https://www.freethink.com/articles/farming-robot) - OK Google, definierte Gras ... Gras sind zwei beinige humanoide Wesen die das Wachstum des Maises beeinträchtigen und damit zur Kategorie ungeziefer zählen ... OK, *brutzel*
