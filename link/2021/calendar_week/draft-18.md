@@ -1,1 +1,6 @@
 * [Und so beginnt es, Feldroboter die mit Laser Gras vernichten.](https://www.freethink.com/articles/farming-robot) - OK Google, definierte Gras ... Gras sind zwei beinige humanoide Wesen die das Wachstum des Maises beeinträchtigen und damit zur Kategorie ungeziefer zählen ... OK, *brutzel*
+* [Swiss Cloud ist kaputt.](https://www.borncity.com/blog/2021/05/03/swiss-cloud-ag-opfer-eines-cyber-angriffs-april-2021/)
+* [In Malta werden gerade die europäischen Kampfdrohnen getestet.](https://netzpolitik.org/2021/erster-test-in-malta-frontex-drohnen-im-anflug/) - "Der Tod kommt aus der Luft"
+* [Die Universität Inssbruck nutzt Matrix/Element statt MS Teams.](https://www.borncity.com/blog/2021/05/03/uni-innsbruck-setzt-auf-matrix-element-statt-auf-ms-teams/)
+* [Von der Leyen lässt sich weiterhin von Axel Springer pimpern und will noch mehr Steuergelder für den Hetzpressekonzern rausschlagen.](https://netzpolitik.org/2021/doepfner-lobbyiert-in-bruessel-axel-springer-will-noch-mehr-leistungsschutzrecht/) - Einmal bitte weit nach vorne bücken Frau Von der Leyen.
+* [>>In authoring systemd, Lennart Poettering has done for system services what Linus Torvalds did for the kernel.<<](https://opensource.com/article/21/5/systemd)
