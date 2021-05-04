@@ -10,3 +10,4 @@
 * [Ab PHP 8.1. wird das `Serializable` Interface nicht mehr unterstützt.](https://php.watch/versions/8.1/serializable-deprecated)
 * [Sehr gut, ich ermutige alle Amazon-Angestellte zum Streik.](https://netzpolitik.org/2021/arbeitsbedingungen-deutsche-amazon-beschaeftigte-streikten/) - Amazon hat so eine Marktmacht, zahlt so wenig Steuern und nutzt die Volksstrukturen so aus, dass es nur als Vorbild vorranschreiten darf und nicht wie jetzt als Schlitzohr welches auf verbrante Erde steht.
 * [Mit HCL Domino 12 kann man, dank `kyrtool import all -k <keyfile> -i <pem>`, Schlüssel importieren aber noch nicht exportieren.](http://blog.nashcom.de/nashcomblog.nsf/dx/domino-v12-using-certmgr-for-certificates-used-outside-domino.htm)
+* [Wolfgang Marx schreibt hier seine Freude und seinen Weg den er bisher mit OpenSTACK gegangen ist.](https://www.opensourcerers.org/2021/05/03/now-lets-face-it-what-the-heck-is-openstack-and-where-might-it-be-useful/)
