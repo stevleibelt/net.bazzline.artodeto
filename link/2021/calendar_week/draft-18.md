@@ -11,3 +11,19 @@
 * [Sehr gut, ich ermutige alle Amazon-Angestellte zum Streik.](https://netzpolitik.org/2021/arbeitsbedingungen-deutsche-amazon-beschaeftigte-streikten/) - Amazon hat so eine Marktmacht, zahlt so wenig Steuern und nutzt die Volksstrukturen so aus, dass es nur als Vorbild vorranschreiten darf und nicht wie jetzt als Schlitzohr welches auf verbrante Erde steht.
 * [Mit HCL Domino 12 kann man, dank `kyrtool import all -k <keyfile> -i <pem>`, Schlüssel importieren aber noch nicht exportieren.](http://blog.nashcom.de/nashcomblog.nsf/dx/domino-v12-using-certmgr-for-certificates-used-outside-domino.htm)
 * [Wolfgang Marx schreibt hier seine Freude und seinen Weg den er bisher mit OpenSTACK gegangen ist.](https://www.opensourcerers.org/2021/05/03/now-lets-face-it-what-the-heck-is-openstack-and-where-might-it-be-useful/)
+* [Nein? Doch! Oh? Laut ersten und offiziellen Zählung hat Nestle wohl ausversehen 25 mal mehr Wasser abgepumpt als es dies in Kalifornien durfte.](https://netzfrauen.org/2021/05/04/california-3/) - Das schockiert mich nicht!
+* [Mit Venoty könnt Ihr mehrere ISO's auf einem USB Stick packen.](https://opensource.com/article/21/5/linux-ventoy)
+* [Signal hat mal die Möglichkeiten von Hackfressenbuch ausgenutzt und Werbung geschaltet.](https://blog.fefe.de/?ts=9e6f572b)
+* [Eine 19 Jährige Russin, Ola Misik, hatte wohl vor der Polizei die Verfassung von Russland vorgelesen und muss deswegen zwei Jahre in das Gefängnis. Sie hat es getan, da sie von den Taten der Geschwister Scholl angetan war.](https://blog.fefe.de/?ts=9e6f764a) - Und leider ja, als frischer Erwachsener oder als Rentner hat man die wenigsten Verpflichtungen und sollte solch eine Tat wagen.
+* [Warum ist die /e/ foundation und ihr freies Android so wichtig?](https://community.e.foundation/t/positive-reviews-of-e/31244/3)
+* [Gelöscht darf jetzt mehr im Netz, wiederhergestellt muss hingegen nacah wie vor nichts.](https://netzpolitik.org/2021/netzdg-novelle-mehr-rechte-fuer-nutzerinnen-nur-auf-schmalem-meldeweg/)
+* [HCL Notes unterstützt hab Version 11.0.1 FP3 die Integration von Online Meetings im Kalender.](http://blog.nashcom.de/nashcomblog.nsf/dx/new-notes-online-meeting-integration.htm)
+* [Nein? Doch! Oh? Das ehrenwerte Oligopol aus E.ON, EnBW, Vattenfall und RWE lügen uns mit ihrem Strommix an.](https://www.sonnenseite.com/de/energie/strom-studie-versorger-liefern-bis-zu-58-weniger-oekostrom-als-offiziell-angegeben/)
+* [register.com ist kaputt.](https://www.bleepingcomputer.com/news/technology/network-solutions-and-registercom-hit-by-ongoing-dns-outage/)
+* [Podman wurde in der Version 3.1.0 veröffentlicht.](https://podman.io/new/2021/04/02/new.html)
+* [Hier wird euch gezeigt, wie Ihr mit etwas CSS eine druckfreundliche Artikelseite im s9y erzeugt.](https://www.onli-blogging.de/index.php?url=2028/Ein-Printstylesheet-fuer-den-Blog.html)
+* [Da kann der Politiker trennen, eine Privatperson macht einen Fehler von 1000 Euro und wird verhaftet, eine Firma macht 44 Milliarden Euro Umsatz und muss null Euro Steuern abführen.](https://netzpolitik.org/2021/steuervermeidung-in-der-eu-amazon-zahlt-trotz-rekordumsatz-keine-steuern/)
+* [b3 scheint ein i3wm für Windows 10 zu sein.](https://github.com/ritschmaster/b3)
+* [ezQuake](https://www.ezquake.com/)
+* [Der Freistaat Sachsen nutzt die Corona-Warn-App als erstes Bundesland mit seiner Check-In Funktion.](https://netzpolitik.org/2021/neue-corona-schutzverordnung-sachsen-erlaubt-check-in-per-corona-warn-app/)
+* [OpenProject und Nextcloud arbeiten zusammen.](https://nextcloud.com/blog/openproject-and-nextcloud-announce-collaboration-and-integration-features/) - Was dadurch wohl aus der Nextcloud-Anwendung "Deck" werden wird? Ich bin erfreut!
