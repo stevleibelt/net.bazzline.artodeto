@@ -34,3 +34,9 @@
 * [Windows Defender ist kaputt.](https://www.bleepingcomputer.com/news/microsoft/windows-defender-bug-fills-windows-10-boot-drive-with-thousands-of-files/)
 * [Nextcloud Android client wurde in der Version 3.16 freigegeben.](https://nextcloud.com/blog/android-client-3-16-is-here-bringing-improvements-and-over-90-fixes-to-the-users/)
 * [Auf nashcom.de wird euch ein Einblick gegeben wie und warum Domino so gebaut ist wenn es um Ausfallsicherheit geht.](http://blog.nashcom.de/nashcomblog.nsf/dx/domino-diagnostics-crash-detection-fault-recovery.htm)
+* [Die USA setzen das Patentrecht für Covid-19 aus.](https://blog.fefe.de/?ts=9e6d6c29) - [Die EU](https://blog.fefe.de/?ts=9e6d7eeb) diskutiert diesen Schritt gerade auch. Ich traue den Pharmafirmen keinen Meter, die kriegen doch so eine kostenlose, weltweite Studie über ihren mRNA-Schmutz und gehen keinerlei Verpflichtungen bei steigenden Gewinnen ein.
+* [Endlich ein Schritt in die richtige Richtung, bald darf man auch in deutschen Krankenhäusern wieder sterben.](https://blog.fefe.de/?ts=9e6d6f21)
+* [GNUstep wurde in der Version 1.28 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=GNUstep-0.29-With-Wayland)
+* [Microsoft Windows 10 "automatisches neu Verbinden" von Netzlaufwerken ist kaputt.](http://woshub.com/could-not-reconnect-mapped-network-drives/)
+* [Hier wird euch gezeigt wie ihr DHCPD-Probleme mit Ansible löst.](https://opensource.com/article/21/5/ansible-server-services)
+* [Über 53 Milliarden Euro veruntreut die Bundesregierung als Geschenke an die NATO.](https://tuxproject.de/blog/2021/05/66-jahre-verbrannte-erde-chaos-spd-club/) - Hätte mal viel in Brücken, Schulen, KiTa's, Polizei, Feuerwehr und so sozialem Kram stecken können. Wäre mir auch deutlich lieber gewesen.
