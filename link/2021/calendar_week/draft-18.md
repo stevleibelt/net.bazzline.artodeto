@@ -27,3 +27,10 @@
 * [ezQuake](https://www.ezquake.com/)
 * [Der Freistaat Sachsen nutzt die Corona-Warn-App als erstes Bundesland mit seiner Check-In Funktion.](https://netzpolitik.org/2021/neue-corona-schutzverordnung-sachsen-erlaubt-check-in-per-corona-warn-app/)
 * [OpenProject und Nextcloud arbeiten zusammen.](https://nextcloud.com/blog/openproject-and-nextcloud-announce-collaboration-and-integration-features/) - Was dadurch wohl aus der Nextcloud-Anwendung "Deck" werden wird? Ich bin erfreut!
+* [Der NABU und der BSW haben zusammen einen Solarpark-Standard definiert.](https://www.sonnenseite.com/de/umwelt/nabu-und-bsw-definieren-solarpark-standards/)
+* [Der `dm` kriegt im Linux Kernel 5.13 ein par nette Verbesserungen, TRIM/DISCARD wird jetzt für die Metadaten genutzt und rbtree um besser unter nicht x86-Plattformen zu arbeiten.](https://www.phoronix.com/scan.php?page=news_item&px=Linux-5.13-Device-Mapper)
+* [Cisco ist kaputt.](https://www.bleepingcomputer.com/news/security/cisco-bugs-allow-creating-admin-accounts-executing-commands-as-root/)
+* [Da war wohl der Zensor pinkeln, Microsoft hat schon mal eine E-Mail zum kündigen der kostenfreien Benutzerkonten vorbereitet und verschickt.](https://www.bleepingcomputer.com/news/microsoft/no-active-microsoft-teams-free-organizations-will-not-be-deleted/)
+* [Windows Defender ist kaputt.](https://www.bleepingcomputer.com/news/microsoft/windows-defender-bug-fills-windows-10-boot-drive-with-thousands-of-files/)
+* [Nextcloud Android client wurde in der Version 3.16 freigegeben.](https://nextcloud.com/blog/android-client-3-16-is-here-bringing-improvements-and-over-90-fixes-to-the-users/)
+* [Auf nashcom.de wird euch ein Einblick gegeben wie und warum Domino so gebaut ist wenn es um Ausfallsicherheit geht.](http://blog.nashcom.de/nashcomblog.nsf/dx/domino-diagnostics-crash-detection-fault-recovery.htm)
