@@ -40,3 +40,18 @@
 * [Microsoft Windows 10 "automatisches neu Verbinden" von Netzlaufwerken ist kaputt.](http://woshub.com/could-not-reconnect-mapped-network-drives/)
 * [Hier wird euch gezeigt wie ihr DHCPD-Probleme mit Ansible löst.](https://opensource.com/article/21/5/ansible-server-services)
 * [Über 53 Milliarden Euro veruntreut die Bundesregierung als Geschenke an die NATO.](https://tuxproject.de/blog/2021/05/66-jahre-verbrannte-erde-chaos-spd-club/) - Hätte mal viel in Brücken, Schulen, KiTa's, Polizei, Feuerwehr und so sozialem Kram stecken können. Wäre mir auch deutlich lieber gewesen.
+* [Bedauerlicher Einzelfall, der Verfassungschutzt liefert Akten nicht.](https://blog.fefe.de/?ts=9e6aefee)
+* [Statt Papier mit Plastikbeschichtung demnächst Papier mit Wachsbeschichtung?](https://www.sonnenseite.com/de/wissenschaft/bioaktive-papierbeschichtung-ersetzt-kunststoffverpackungen-bei-lebensmitteln/) - Gute Idee, aber warum muss der Wachs noch einmal aus Brasilien kommen und kann nicht lokal abgebaut werden?
+* [Kanal9TV: >>Maibaum in Brand-Erbisdorf 2021 + Haushaltsplan<<](https://www.youtube.com/watch?v=qwiSMDYmP54)
+* [Kanal9TV: >>Stadtgeburtstag Marienberg 2021<<](https://www.youtube.com/watch?v=cwG7I21EAbI) - Glück Auf Marienberg, gegründet 27.04.1521.
+* [Kanal9TV: >>Ankündigung Freiberger Sommernächte<<](https://www.youtube.com/watch?v=d2jkBhX7gWQ)
+* [Früher konnten wir uns ohne TV oder Internet beschäftigen, damals gab es noch Fantasie.](https://tuxproject.de/blog/2021/05/medienkritik-in-kuerze-kreatives-vergessen-mit-der-taz/)
+* [Peloton ist kaputt, all eure Daten sind frei im Netz.](https://www.borncity.com/blog/2021/05/06/peloton-nutzerdaten-standen-offen-im-netz/) - Warum will ich gleich noch mal keine Smart-Lampe mit Kamera im Bad? Genau deswegen!
+* [Rust wurde in der Version 1.52.0 veröffentlicht.](https://blog.rust-lang.org/2021/05/06/Rust-1.52.0.html)
+* [Mit miRAKles im Bereich LoRa rumspielen?](https://www.pine64.org/2021/05/06/lets-make-mirakles-happen/)
+* [Wolle Blume kaufen? In Afrika verhungern die Menschen weil Europa deren Wasser klaut um Blumen für den Supermarkt zu züchten.](https://netzfrauen.org/2021/05/06/africa-22/)
+* [Qualcom und damit rund 40 Prozent der Schmierphones ist kaputt.](https://www.bleepingcomputer.com/news/security/qualcomm-vulnerability-impacts-nearly-40-percent-of-all-mobile-phones/)
+* [Der Postillon ist erneut seiner Zeit voraus. Bald werden soziale Medien inklusive Bestätigung von "Freunden" pflicht, bevor etwas rechtsgültig ist.](https://www.der-postillon.com/2021/05/impfung-instagram.html) - Nur über diesen Kniff kriegt man auch die Leute dazu, die gar keinen Werbequatsch wollen. Denn man will nur eins, eure Daten und eure "Freunde"
+* [Die EU will, dass kritische oder dem Alltag weitreichend durchdringende Software nicht mehr geprüft werden kann.](https://netzpolitik.org/2021/handesabkommen-eu-will-verbot-von-offenlegungspflicht-fuer-quellcode/) - Oder anders gesagt, von Alexa bis hin zur Software um Atomkraftwerke zu steuern, kann man diese bald nicht mehr auf deren Funktionsrichtigkeit und Sicherheit prüfen. Spinnt es bei euch Mongos?
+* [Patrick Breyer fordert zu recht, dass das Wort "Datenpanne" nicht mehr genutz werden darf und dass der Datenverlust hart bestraft wird.](https://www.patrick-breyer.de/datenverlust-bei-berliner-lieferdienst-startup-gorillas-patrick-breyer-fordert-wirksame-sanktionen-und-investitionen-in-it-sicherheit/)
+* [Ach, was soll das denn, jemand haut Audacity gekauft und Spionagesoftware reingebaut.](https://blog.fefe.de/?ts=9e6bdc77)
