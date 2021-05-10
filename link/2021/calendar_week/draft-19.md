@@ -1,2 +1,7 @@
 * [Ihr könnt euer Windows 10 nun endlich auf 20H2 upgraden.](https://www.bleepingcomputer.com/news/microsoft/microsoft-removes-last-remaining-windows-10-upgrade-blocks/)
 * [Hier wird euch gezeigt, wie ihr via PowerShell benachrichtigt werdet, wenn sich im AD Gruppenmitgliedschaften ändern.](https://devblogs.microsoft.com/powershell-community/how-do-i-discover-changes-to-an-ad-groups-membership/)
+* [Tjo, nach den ganzen Versagern aus den anderen Parteien kommt Die Partei und stellt jemand seriösen als Kanzlerkandidat auf, Serdar Somuncu.](https://www.tagesspiegel.de/berlin/kandidat-der-partei-serdar-somuncu-will-kanzler-werden/20204094.html)
+* [Nachdem Kryptomining mehr Strom als ganze Länder verbraucht, gibt es jetzt ein PC Spiel welches das alles simuliert.](https://blog.todamax.net/2021/wat-willste-denn-ey-der-strom-kommt-doch-aus-der-steckdose1/)
+* [Nein? Doch! Oh? Immer mehr Natur wird zerstört und immer deutlicher wird, wie Alles von einander abhängt.](https://netzfrauen.org/2021/05/09/nature/)
+* [PostmarkOS wurde in der Version v.21.03.1 veröffentlicht.](https://postmarketos.org/blog/2021/05/09/v21.03.1-release/)
+* [Liest sich wie ein Scherz, Microsoft hat einen automatischen Aktualisierer in Windows sowie den Microsoft Store und doch, zeigt euer Notepad bald ein "eine neue Version ist verfügbar"-Dialog an.](https://www.bleepingcomputer.com/news/microsoft/windows-10-notepad-will-warn-when-youre-running-an-old-version/)
