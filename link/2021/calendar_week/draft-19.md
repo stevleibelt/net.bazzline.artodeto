@@ -5,3 +5,17 @@
 * [Nein? Doch! Oh? Immer mehr Natur wird zerstört und immer deutlicher wird, wie Alles von einander abhängt.](https://netzfrauen.org/2021/05/09/nature/)
 * [PostmarkOS wurde in der Version v.21.03.1 veröffentlicht.](https://postmarketos.org/blog/2021/05/09/v21.03.1-release/)
 * [Liest sich wie ein Scherz, Microsoft hat einen automatischen Aktualisierer in Windows sowie den Microsoft Store und doch, zeigt euer Notepad bald ein "eine neue Version ist verfügbar"-Dialog an.](https://www.bleepingcomputer.com/news/microsoft/windows-10-notepad-will-warn-when-youre-running-an-old-version/)
+* [Ölkonzernen ist es egal ob sie Benzin oder Wasserstoff aus Erdöl herstellen.](https://www.golem.de/news/tuerkiser-wasserstoff-basfs-fragwuerdige-wasserstoff-produktionsmethode-2105-156307.html)
+* [Apple AirTag ist kaputt, ein Freudentag für den Überwachungsstaat, Stalker und weitere.](https://www.borncity.com/blog/2021/05/10/apple-airtag-von-deutschen-sicherheitscrack-gehackt/)
+* [Die Renten sich sicher, das Telefax nicht!](https://blog.fefe.de/?ts=9e67b992)
+* [Das OpenSource Projekt unvanquished hat seine Graifkengine Daemon vorgestellt. Daemon ist eine Mischung aus ioquake und doom 3.](https://unvanquished.net/announcing-daemon-engine-beta-0-52/)
+* [Geil, mit `net user <benutzername>` kann man unter Windows aktive, aber verstecke Nutzer anlegen.](https://www.borncity.com/blog/2021/05/11/windows-versteckte-benutzerkonten-anlegen-und-aufspren/) - `net user` zeigt diese Benutzer dann nicht an :-O.
+* [Coreboot wurde in der Version 4.14 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=Coreboot-4.14-Released)
+* [Nein? Doch! Oh? Laut internen Dokumenten können BKA und LKA seit Jahren Telegram und WhatsApp abhören. Warum fordern sie dann weiterhin den Staatstrojaner? Na weil sie es können und nie satt werden!](https://netzpolitik.org/2021/ohne-staatstrojaner-polizei-und-geheimdienste-koennen-whatsapp-mitlesen/)
+* [Nach dem Artensterben, den permanenten Kriegen für ein imaginäres Gut wie Macht oder Geld kommt jetzt die dritte Bedrohung, gefälschte Impfpässe!](https://blog.fefe.de/?ts=9e64a025) - Gut, dass die privatisierte Bundesdruckerei schon eine Lösung dafür hat.
+* [Tschernobyl, das Atomkraftwerk welches uns als Mahnmal einer gelten sollte, dass Atomkraftwerke nichts für uns dumme Menschen ist, in dem Ding fängt gerade eine neue Kettenreaktion an.](https://blog.fefe.de/?ts=9e64992b)
+* [Mit dem textbasierenden E-Mail Programm Alpin kann man auch im Jahr 2021 sehr gut arbeiten.](https://opensource.com/article/21/5/alpine-linux-email)
+* [VLC wurde in der Version 3.0.14 veröffentlicht.](https://www.borncity.com/blog/2021/05/11/vlc-3-0-14-verfgbar/)
+* [Ihr braucht den Chromium weil Webseiten heute nur noch daraufhin optimieren? Dann nutzt doch den ungoogled Chromium.](https://www.kuketz-blog.de/ungoogled-chromium-datensendeverhalten-desktop-version-browser-check-teil2/)
+* [Microsoft baut wohl jetzt auch eBPF in Windows ein.](https://www.phoronix.com/scan.php?page=news_item&px=Microsoft-Windows-eBPF)
+* [LibreOffice baut langsam GTK4 ein.](https://www.phoronix.com/scan.php?page=news_item&px=LibreOffice-GTK4-Starts)
