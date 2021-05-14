@@ -19,3 +19,7 @@
 * [Ihr braucht den Chromium weil Webseiten heute nur noch daraufhin optimieren? Dann nutzt doch den ungoogled Chromium.](https://www.kuketz-blog.de/ungoogled-chromium-datensendeverhalten-desktop-version-browser-check-teil2/)
 * [Microsoft baut wohl jetzt auch eBPF in Windows ein.](https://www.phoronix.com/scan.php?page=news_item&px=Microsoft-Windows-eBPF)
 * [LibreOffice baut langsam GTK4 ein.](https://www.phoronix.com/scan.php?page=news_item&px=LibreOffice-GTK4-Starts)
+* [Der Hamburger Datenschutzbeauftragter sagt Nein zur anstandslosen Datenweitergabe von WhatsApp zu Hackfressenbuch.](https://blog.fefe.de/?ts=9e6558eb)
+* [Nach Astrazeneca wird jetzt auch Sputink V auf westlicher Art schlecht gemacht. Anschuldigungen die keinen ersten Blick stand halten.](https://blog.fefe.de/?ts=9e655ada)
+* [Die Unabhänige Quelle Craig Murray wird jetzt nach Assange Art kaputt gemacht.](https://blog.fefe.de/?ts=9e65195c)
+* [Scheint so, dass wir diesen Blockchainkram endlich hinter uns haben. Möge es so bleiben.](https://blog.fefe.de/?ts=9e63da01)
