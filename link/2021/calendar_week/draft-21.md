@@ -5,3 +5,6 @@
 * [Vivaldi ist auch keine Browseralternative.](https://www.kuketz-blog.de/vivaldi-datensendeverhalten-desktop-version-browser-check-teil5/)
 * [Das EuGH will endlich ernst machen bei Datenschutzverstößen.](https://www.borncity.com/blog/2021/05/16/datenschtzer-plant-durchgreifen-bei-privacy-shield-versten/) - Hoffentlich unter dem Motto "die dicken Fische zu erst".
 * [Nein? Doch! Oh? Apotheken-App gibt private Gesundheitsdaten für Werbezwecke weiter.](https://netzpolitik.org/2021/medikamentensuche-apotheken-app-gibt-gesundheitsdaten-zu-werbezwecken-weiter/) - Verkäufer sind eben nur Verkäufer.
+* [>>Menschenrechte als Kompass in und aus der Covid-19-Krise<<](https://covid19-menschenrechte.de/)
+* [Nachhaltigkeit und Klimaschutz in Europa? Nicht mit der Blockpartei.](https://www.sonnenseite.com/de/politik/eu-umweltausschuss-stimmt-fuer-schwaches-klimagesetz/)
+* [Brave ist auch kein gescheiter Browser.](https://www.kuketz-blog.de/brave-datensendeverhalten-desktop-version-browser-check-teil1/)
