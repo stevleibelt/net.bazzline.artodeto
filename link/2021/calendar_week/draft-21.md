@@ -8,3 +8,13 @@
 * [>>Menschenrechte als Kompass in und aus der Covid-19-Krise<<](https://covid19-menschenrechte.de/)
 * [Nachhaltigkeit und Klimaschutz in Europa? Nicht mit der Blockpartei.](https://www.sonnenseite.com/de/politik/eu-umweltausschuss-stimmt-fuer-schwaches-klimagesetz/)
 * [Brave ist auch kein gescheiter Browser.](https://www.kuketz-blog.de/brave-datensendeverhalten-desktop-version-browser-check-teil1/)
+* [Bei euch klingelt ein Wahlkampfhelfer an der Tür? Ich macht bitte sofort zu, deren "Apps" sind so unsicher, dass alle Daten zu euch drekt geklaut werden.](https://netzpolitik.org/2021/sicherheitsluecken-in-wahlkampf-apps-karl-heinz-t-parteimitglied-hat-gerade-bauland-gekauft/) - Und da Wahlkampf wie Werbung ist (was interessiert mich mein Geschwätz von Gestern), gibt es keinen Eurocent für die Sicherheit eurer ungefragt, erfassten Daten.
+* [Windows 10 21h1 wurde veröffentlicht.](https://www.bleepingcomputer.com/news/microsoft/windows-10-21h1-is-released-these-are-the-new-features/)
+* [Mit `Mimikatz` könnt ihr unter Windows Passwörter im laufenden Betrieb auslesen.](http://woshub.com/how-to-get-plain-text-passwords-of-windows-users/)
+* [Mehr als 17 Millionen mal wurde. ohne richterlichen Beschluss, Bürgerdaten im Bezug auf Telefonnummer oder IP-Adresse, im Jahr 2020 abgerufen.](https://netzpolitik.org/2021/bestandsdatenauskunft-2020-behoerden-fragen-alle-zwei-sekunden-wem-eine-telefonnummer-gehoert/) - Das passt super zum Beworbenen "nur für Terroristen werden wir das einsetzen"-Werbespruch
+* [Thunderbird wurde in der Version 78.10.2 veröffentlicht.](https://www.borncity.com/blog/2021/05/19/thunderbird-78-10-2/)
+* [>>In nur 100 Jahren gingen auf Grund von Monokulturen über 75 Prozent der biologischen Vielfalt verloren.<<](https://netzfrauen.org/2021/05/20/bees-7/)
+* [Pin64 arbeitet bei FemtoStar mit.](https://www.pine64.org/2021/05/19/femtostar-taking-aim-for-the-stars/)
+* [Auch die Gletscher im zentralen Asien schmelzen.](https://www.sonnenseite.com/de/wissenschaft/das-ende-vieler-asiatischer-gletscher-ist-besiegelt/)
+* [Mit dem `Domino Event Monitoring` kann man einiges auslößen, zum Beispiel SNMP Traps.](http://blog.nashcom.de/nashcomblog.nsf/dx/leveraging-domino-event-monitoring-for-domino-v12-certmgr-health-checks.htm)
+* [Die Drückermentalität in Deutschland in zahlen, 1,67 Milliarden Überstunden, 892 Millionen davon unbezahlt.](https://blog.fefe.de/?ts=9e5a3d13)
