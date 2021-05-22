@@ -27,3 +27,8 @@
 * [Hier gibt es einen schönen Bericht über die Unsummen, die Krankenhäuser verdienen wenn sie Personen intubieren. 40.000 USD.](https://orbisnjus.com/2021/05/21/corona-die-cash-cow-finanzielle-incentives-und-die-maer-von-ueberlasteten-krankenhaeusern-pandemie-skandal-weiter-ausgeschmueckt-op-ed/) - Was steigert den Gewinn des Krankenhauses sehr schnell und damit wird gern mal schneller intubiert als es nötig ist. Es ist ja Pandemie, da stellt keiner Fragen.
 * [PipeWire wurde in der Version 0.3.28 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=PipeWire-0.3.28-Released)
 * [Microsofts Active Directory kann jetzt zeitlich begrenzte Rechte vergeben.](http://woshub.com/temporary-membership-in-active-directory-groups/)
+* [PGP im neuen Thunderbird ist kaputt.](https://blog.fefe.de/?ts=9e5904aa)
+* [Desto interessanter ein Paper klingt, desto eher ist es müll.](https://blog.fefe.de/?ts=9e5634bf)
+* [>>Amazon Europa: Rekordumsatz und kein Cent Steuern<<](https://weltnetz.tv/ticker/2499-amazon-europa-rekordumsatz-und-kein-cent-steuern)
+* [Nextcloud wurde in den Versionen 21.0.2, 20.0.10 und 19.0.11 veröffentlicht.](https://nextcloud.com/blog/21-0-2-20-0-10-and-19-0-11-are-available-prepare-to-update-beta-1-for-22-is-also-out-so-you-can-help-test/)
+* [Da lässt man ein paar Webfricker aus Werbeagenturen das COVID-19-Impfportal und das SORMAS-System basteln und wundert sich hinterher, dass die am laufenden Band Nutzerdaten verlieren.](https://www.borncity.com/blog/2021/05/22/schwachstellen-bei-covid-19-impfportalen-und-beim-sormas-system/) - Bei 90 Prozent der Webseiten geht es nicht um Datenschutz, hauptsache der "JETZT KOSTENPFLICHTIG KAUFEN"-Button ist groß und schnell erreichbar.
