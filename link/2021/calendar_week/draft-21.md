@@ -32,3 +32,4 @@
 * [>>Amazon Europa: Rekordumsatz und kein Cent Steuern<<](https://weltnetz.tv/ticker/2499-amazon-europa-rekordumsatz-und-kein-cent-steuern)
 * [Nextcloud wurde in den Versionen 21.0.2, 20.0.10 und 19.0.11 veröffentlicht.](https://nextcloud.com/blog/21-0-2-20-0-10-and-19-0-11-are-available-prepare-to-update-beta-1-for-22-is-also-out-so-you-can-help-test/)
 * [Da lässt man ein paar Webfricker aus Werbeagenturen das COVID-19-Impfportal und das SORMAS-System basteln und wundert sich hinterher, dass die am laufenden Band Nutzerdaten verlieren.](https://www.borncity.com/blog/2021/05/22/schwachstellen-bei-covid-19-impfportalen-und-beim-sormas-system/) - Bei 90 Prozent der Webseiten geht es nicht um Datenschutz, hauptsache der "JETZT KOSTENPFLICHTIG KAUFEN"-Button ist groß und schnell erreichbar.
+* [Nicht zentrale und industrielle, sondern denzentrale und biodynamische Landwirtschaft können den Hunger bekämpfen.](https://netzfrauen.org/2021/05/23/agroecology/)
