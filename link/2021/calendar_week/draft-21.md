@@ -8,3 +8,6 @@
 * [Soweit ist es schon gekommen, jetzt braucht man pro Anwendungsgebiet einen speziellen Browser.](https://www.kuketz-blog.de/browser-nutzung-am-desktop-digitaler-schutzschild-teil2/) - Leider stimme ich Kuketz Verhalten zu und tu es im gleich.
 * [Bose ist kaputt.](https://www.borncity.com/blog/2021/05/25/audio-hersteller-bose-datenleck-nach-ransomware-befall/)
 * [Der Gaza Streifen auf Google Maps ist aus Gründen, die Israel gut findet, verschwommen.](http://n-gate.com/hackernews/2021/05/21/0/) - So erwischt man sie nicht zu sehr beim Rasenmähen
+* [Die Grünen sind die CDU der Windkraftwerke. Neuster Beweis, sie verkaufen ebenso Waffen wie die Christen. Defensivwaffen wie Panzer und so, wisst ihr schon.](https://blog.fefe.de/?ts=9e5214f9)
+* [Die Polen bauen an der Grenze zu den Tschechen Braunkohle ab und stehlen den Tschechen damit Grundwasser. Die Tschechen klagen jetzt vor dem EuGH.](https://blog.fefe.de/?ts=9e522ae9)
+* [Axel Voss von der Springer Hetzpresse baut sein Geschäftsmodel auf den illegalen Handel von personenbezogenen Daten auf, also wie "Wir haben recht"-Google, und ist jetzt auf das DSVGO sauer. Das DSVGO zeigt ihm nämlich erneut, wie illegal sein Geschäftsmodel ist. Was macht ein Ertappter? Er kokst dagegen an, jetzt mit ohne Argumenten.](https://blog.fefe.de/?ts=9e523258)
