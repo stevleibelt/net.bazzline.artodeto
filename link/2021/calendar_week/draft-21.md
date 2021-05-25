@@ -1,1 +1,9 @@
 * [Hier wird euch gezeigt, wie ihr Aragon2 in PHP benutzt.](https://scheible.it/hash-algorithmus-argon2-in-php/)
+* [Nach zwei bis drei Jahren haben Solaranlagen mehr Strom produziert als deren Herstellung gekostet hat.](https://www.sonnenseite.com/de/energie/uba-oekobilanz-photovoltaik-anlagen-amortisieren-sich-energetisch-nach-maximal-21-jahren/)
+* [Gerechtigkeit durch Software? Da stehen wir vor dem gleichen Problem wie immer, was genau ist Gerechtigkeit?](https://netzpolitik.org/2021/automatisierte-entscheidungen-gerechtigkeit-ist-kein-plugin/) - Es wird somit Geld ausgegeben, um die Klärung dieser Frage erneut nach hinten zu schieben.
+* [Mit `fping -r <ip address> [<another ip address> [...]]` könnt Ihr mehrere IP-Adressen abfragen und erhaltet eine Textnachricht zurück.](https://www.incredigeek.com/home/ping-multiple-ip-addresses-to-see-if-they-are-up-or-down/)
+* [Arch Linux wechselv on #freenode irc auf `libra.chat`.](https://archlinux.org/news/move-of-official-irc-channels-to-liberachat/)
+* [Deswegen soll jeder ein Elektroauto kaufen, die Industrie braucht eure privaten Autos als Akkus um über die Nacht zu kommen.](https://www.sonnenseite.com/de/zukunft/konzept-fuer-dezentrale-energiewende-ich-mache-mit-muss-aber-nichts-machen/) - Als Gegenleistung wird versprochen, dass die - nur in Deutschland - überteuerten Strompreise nicht mehr ganz so stark ansteigen.
+* [Wahre Geschichte, als (System)-Administrator sollte man sich mit Rust beschäftigen dürfen. Scheinbar ist Rust bald überall drinne.](https://utcc.utoronto.ca/~cks/space/blog/programming/RustInOurFuture)
+* [Soweit ist es schon gekommen, jetzt braucht man pro Anwendungsgebiet einen speziellen Browser.](https://www.kuketz-blog.de/browser-nutzung-am-desktop-digitaler-schutzschild-teil2/) - Leider stimme ich Kuketz Verhalten zu und tu es im gleich.
+* [Bose ist kaputt.](https://www.borncity.com/blog/2021/05/25/audio-hersteller-bose-datenleck-nach-ransomware-befall/)
