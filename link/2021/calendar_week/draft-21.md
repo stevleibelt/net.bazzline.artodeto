@@ -7,3 +7,4 @@
 * [Wahre Geschichte, als (System)-Administrator sollte man sich mit Rust beschäftigen dürfen. Scheinbar ist Rust bald überall drinne.](https://utcc.utoronto.ca/~cks/space/blog/programming/RustInOurFuture)
 * [Soweit ist es schon gekommen, jetzt braucht man pro Anwendungsgebiet einen speziellen Browser.](https://www.kuketz-blog.de/browser-nutzung-am-desktop-digitaler-schutzschild-teil2/) - Leider stimme ich Kuketz Verhalten zu und tu es im gleich.
 * [Bose ist kaputt.](https://www.borncity.com/blog/2021/05/25/audio-hersteller-bose-datenleck-nach-ransomware-befall/)
+* [Der Gaza Streifen auf Google Maps ist aus Gründen, die Israel gut findet, verschwommen.](http://n-gate.com/hackernews/2021/05/21/0/) - So erwischt man sie nicht zu sehr beim Rasenmähen
