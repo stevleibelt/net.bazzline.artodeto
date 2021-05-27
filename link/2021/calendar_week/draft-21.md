@@ -20,3 +20,14 @@
 * [Endlich, gegen Google wurden zwei Verfahren vom Bundeskartellamt eingeleitet.](https://www.borncity.com/blog/2021/05/26/google-im-fokus-des-bundeskartellamts-2-verfahren-eingeleitet/)
 * [>>Der Aktivist Max Schrems "hat mehr durchsetzen können als die Datenschutzbehörden" [...]<<](https://blog.fefe.de/?ts=9e50c3cc)
 * [Hier geht es zwar eigentlich um Flatpak aber euch wird gleich noch gezeigt wie ihr mit bash cli Argumente auswertet.](https://opensource.com/article/21/5/launch-flatpaks-linux-terminal)
+* [Der Postillon hat mir den Tag am Morgen schon wieder gerettet. "Weiter wie bisher, das Volk rügt uns eh nicht."](https://www.der-postillon.com/2021/05/lockdown-light-2.html)
+* [Auch in den USA wird jetzt so getan, als würde man etwas gegen die Monopole wie Amazon machen wollen.](https://netzpolitik.org/2021/online-handel-us-generalstaatsanwalt-reicht-kartellrechtsklage-gegen-amazon-ein/) - Bildet euch nichts ein, es geht nur darum, dass Schmiergelder gezahlt werden.
+* [>>Der berühmte Fotograf Sebastião Salgado pflanzt mit seiner Frau vier Millionen Bäume und schafft 20 Jahre später einen neuen Wald<<](https://netzfrauen.org/2021/05/26/salgado/)
+* [Hier gibt es eine Statusmeldung wie es um PHP 8.0 in Serendipity bestellt ist.](https://www.onli-blogging.de/2037/Trackbacks-fuer-Serendipity-mit-PHP-8.html)
+* [Endlich einmal ein realistischer Beitrag zu Telegram. Warum nutzen Cracker Telegram? Weil es einfach ist.](https://www.borncity.com/blog/2021/05/26/wie-hacker-den-dienst-telegram-missbrauchen/) - Somit ist Telegrams größtes Verschulden, dass es einfach das tut was es soll, Nachrichten verschicken.
+* [Hier gibt es einen Rückblick auf vier Jahre PostmarkOS.](https://postmarketos.org/blog/2021/05/26/four-years/)
+* [Hinter der Luca-App stehen halt nur Blender und Marketingfuzzis, keine Enwickler.](https://www.borncity.com/blog/2021/05/26/hack-dein-gesundheitsamt-die-luca-app-machts-mglich/) - Die haben bisher jede der obersten Regeln der Softwareentwicklung gebrochen. Heute "validiere und säubere deine Ein- und Ausgaben."
+* [AlmaLinux wurde in der Version 8.4 - Update 4 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=AlmaLinux-8.4-Oracle-Linux-8U4)
+* [NewPipe wechselt von #freenode zu Libera.Chat.](https://newpipe.net/blog/pinned/irc-move/)
+* [Wow, was für ein toller Artikel über reguläre Ausdrücke in PHP.](https://php.watch/articles/php-regex-readability)
+* [Endlich einmal etwas Gutes, Shell muss bis 2030 ihren CO2-Ausstoß um 45 Prozent verringern. Da die Klage 2021 angestrebt wurde, gilt der Ausstoß von 2019 als Referenzwert.](https://blog.fefe.de/?ts=9e5040f5) - Großartig!
