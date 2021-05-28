@@ -31,3 +31,16 @@
 * [NewPipe wechselt von #freenode zu Libera.Chat.](https://newpipe.net/blog/pinned/irc-move/)
 * [Wow, was für ein toller Artikel über reguläre Ausdrücke in PHP.](https://php.watch/articles/php-regex-readability)
 * [Endlich einmal etwas Gutes, Shell muss bis 2030 ihren CO2-Ausstoß um 45 Prozent verringern. Da die Klage 2021 angestrebt wurde, gilt der Ausstoß von 2019 als Referenzwert.](https://blog.fefe.de/?ts=9e5040f5) - Großartig!
+* [Justiz und Inneres es Europaparlaments - >>Innenausschuss stimmt Gesetz zur flächendeckenden und verdachtslosen Durchsuchung der privaten Kommunikation zu<<](https://www.patrick-breyer.de/chatkontrolle-innenausschuss-stimmt-gesetz-zur-flaechendeckenden-und-verdachtslosen-durchsuchung-der-privaten-kommunikation-zu/)
+* [>>Der baden-württembergische Landesdatenschutzbeauftragte Stefan Brink geht gegen die mittlerweile auf den Seychellen ansässige Gesichtserkennungsfirma PimEyes vor.<<](https://netzpolitik.org/2021/gesichtserkennung-datenschutz-verfahren-gegen-pimeyes-und-clearview/)
+* [vSphere ist kaputt.](https://www.borncity.com/blog/2021/05/27/schwachstelle-cve-2021-21985-in-vsphere-client-patchen/)
+* [Haha, ranz Klarna ist kaputt.](https://blog.fefe.de/?ts=9e5147c4)
+* [Kanal9TV: Neustart in Freiberg - Solarmodulproduktion bei Meyer Burger](https://www.youtube.com/watch?v=bVArXL52LK8)
+* [Insektizide gelangen ins Meer und töten dort ALLES, auch Wale.](https://netzfrauen.org/2021/05/27/whales-4/) - Und der Industrie soll ich weiterhin vertrauen, dass sie Gefahren abschätzen kann? Vergiss es!
+* [Kanal9TV: Bürgerdialog in Freiberg](https://www.youtube.com/watch?v=M67xnrfihjo)
+* [Kanal9TV: Reiche Zeche - Abriss des Fördergerüstes](https://www.youtube.com/watch?v=hN6TpvPVkM4)
+* [Dank dem Bundesverfassungsgericht, kann der NaBu jetzt Druck gegen die Blockpartei in Sachsen aufbauen.](https://sachsen.nabu.de/news/2021/30038.html)
+* [Microsoft hat ihr raubkopiertes WinGet veröffentlicht.](https://www.windowspro.de/news/microsoft-veroeffentlicht-windows-package-manager-10-winget/04782.html) - Aktuell gibt es 1400 Pakete.
+* [Hier wird euch gezeigt, wie Ihr den Wettermüll von Windows 10 in der Taskleiste entfernt.](https://www.borncity.com/blog/2021/05/28/windows-10-funktion-nachrichten-und-wetter-deaktivieren-und-mehr/)
+* [Nein? Doch! Oh? Stellt sich heraus, der Industrie ist die Umwelt weiterhin egal. Wegwerfprodukte sind weiterhin umweltschädlich.](https://www.sonnenseite.com/de/tipps/schadstoffe-in-plastikfreien-to-go-produkten/) - Und gleichzeitigt zeigt es, wie ungewillt die Blockpartei ist, die Umwelt zu schützen
+* [Der Berliner Verfassungsschutz sieht KenFM als Gefahr.](https://blog.fefe.de/?ts=9e517de1) - Der Verfassungsschutz gehört abgeschafft.
