@@ -44,3 +44,9 @@
 * [Hier wird euch gezeigt, wie Ihr den Wettermüll von Windows 10 in der Taskleiste entfernt.](https://www.borncity.com/blog/2021/05/28/windows-10-funktion-nachrichten-und-wetter-deaktivieren-und-mehr/)
 * [Nein? Doch! Oh? Stellt sich heraus, der Industrie ist die Umwelt weiterhin egal. Wegwerfprodukte sind weiterhin umweltschädlich.](https://www.sonnenseite.com/de/tipps/schadstoffe-in-plastikfreien-to-go-produkten/) - Und gleichzeitigt zeigt es, wie ungewillt die Blockpartei ist, die Umwelt zu schützen
 * [Der Berliner Verfassungsschutz sieht KenFM als Gefahr.](https://blog.fefe.de/?ts=9e517de1) - Der Verfassungsschutz gehört abgeschafft.
+* [Angeblich will die Jugend lieber KI und BigData statt echte Politiker.](https://blog.fefe.de/?ts=9e4f9d2c) - Politische Entfremdung? Möglich! Aber ich gehe davon aus, dass die Politiker deswegen nicht aussterben. Die werde weiter bezahlt werden müssen und sind dann "neutrale und unbefangene Berater" der KI.
+* [Chian hilft Sierra Leone und muss dafür seinen Regenwald abholzen.](https://netzfrauen.org/2021/05/29/sierra-leone/)
+* [Wow, das badische Landesmuseum wickelt scheinbar all seine Bezahloptiinen über PayPal ab.](https://www.kuketz-blog.de/badisches-landesmuseum-briefpost-bezueglich-paypal-an-die-datenschutzbeauftragte/) - Hochgefährlich und schade zugleich, mit den Reifeisenbanken und Sparkassen haben wir genügend Infrastruktur in Volkshand!
+* [SonicWall ist mal wieder kaputt.](https://www.bleepingcomputer.com/news/security/sonicwall-urges-customers-to-immediately-patch-nsm-on-prem-bug/) - So langsam will SonicWall das neue Cisco werden.
+* [NewPipe wurde in der Version 0.21.3 veröffentlicht.](https://newpipe.net/blog/pinned/release/newpipe-0.21.3-released/)
+* [Archlinux Installer wurde in der Version 2.2 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=Arch-Linux-Archinstall-2.2)
