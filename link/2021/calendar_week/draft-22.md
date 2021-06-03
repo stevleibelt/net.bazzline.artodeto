@@ -15,3 +15,18 @@
 * ["Ich hab recht" findet es auf einmal unpraktisch, dass man den Datenschutz in Android so hochdrehen kann.](https://tuxproject.de/blog/2021/06/das-richtige/) - Deswegen funkt Android wohl mit jeder neuen Version noch mehr Daten nach Hause, was?
 * [Hier wird schön gezeigt was Videokonferenzen - gern ja ohne Kamera - für Umweltsünden sind, wenn man eine vorhandene Telefoninfrastruktur daneben stellt.](https://www.panagenda.com/2021/06/why-call-quality-dashboards-from-microsoft-are-insufficient/) - Telefone sind halt nicht sexy genug, die funktionieren einfach.
 * [Nextcloud für Android wurde in der Version 3.16.1 veröffentlicht.](https://nextcloud.com/blog/android-client-3-16-1/)
+* [Patrick Breyer versucht einen Rundumschlag um das Internet gesetzlich auf sicheren Beinen gegen den Überwachungskapitalismus zu machen.](https://www.patrick-breyer.de/digitale-dienste-gesetz-berichterstatter-patrick-breyer-will-befreiungsschlag-gegen-ueberwachungskapitalismus/)
+* [Mozilla Firefox wurde in der Version 79.0.0 veröffentlicht.](https://www.borncity.com/blog/2021/06/02/firefox-89-0-0-mit-proton-und-78-11-0-esr-verfgbar/) - Das Wichtigste zu erst, `browser.proton.enabled = false`
+* [Chaos Computer Club: >>Offener Brief: Alle gegen noch mehr Staatstrojaner<<](https://www.ccc.de/de/updates/2021/offener-brief-alle-gegen-noch-mehr-staatstrojaner)
+* [Ab PHP 8.1 kann man `final` auch endlich für Klassenkonstanten nutzen.](https://php.watch/versions/8.1/final-class-const)
+* [OBS wurde in der Version 27.0 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=OBS-Studio-27.0-Released)
+* [WinGET ist kaputt.](https://www.bleepingcomputer.com/news/security/windows-10s-package-manager-flooded-with-duplicate-malformed-apps/)
+* [Libinput wurde in der Version 1.18 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=Libinput-1.18-Released)
+* [Sehr schön, ZITiS wird verklagt.](https://netzpolitik.org/2021/informationsfreiheit-wir-verklagen-die-hacker-behoerde-zitis/)
+* [Warum gibt es Kriege die Jahre und Jahrzehnte dauern? Damit Rüstungskonzerne Umsatz und Profit erwirtschaften!](https://netzfrauen.org/2021/06/01/yemen-3/)
+* [In den USA wird Google auch verklagt.](https://netzpolitik.org/2021/us-klage-google-versteckt-erfassung-von-standortdaten/)
+* [Über das `whenCreated` und dem `Events` Logbuch könnt Ihr herausfinden welcher Nutzer ein AD-Benutzerkonto erstellt hat.](http://woshub.com/getting-ad-accounts-created-in-the-last-24-hours/)
+* [Kali Linux wurde in der Version 2021.2 veröffentlicht.](https://www.bleepingcomputer.com/news/security/kali-linux-20212-released-with-new-tools-improvements-and-themes/)
+* [Die Gesellschaft für Freihheitsrechte klagt mit Salome Krug Mecklenburg-Vorpommern und deren Sicherheits- und Ordnungsgesetz an.](https://freiheitsrechte.org/iv-salome-krug/)
+* [Euer Bürgeramt zwingt euch auf, die Luca-App zu nutzen? Das ist nicht Rechtens und ihr meldet das bitte.](https://www.borncity.com/blog/2021/06/03/brgeramt-nur-mit-der-luca-app-betretbar-meldung-erwnscht/)
+* [Hier wird euch die Geschichte hinter Java serverless functions und ein kurzer Einstieg präsentiert.](https://opensource.com/article/21/6/java-serverless-functions)
