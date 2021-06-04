@@ -30,3 +30,11 @@
 * [Die Gesellschaft für Freihheitsrechte klagt mit Salome Krug Mecklenburg-Vorpommern und deren Sicherheits- und Ordnungsgesetz an.](https://freiheitsrechte.org/iv-salome-krug/)
 * [Euer Bürgeramt zwingt euch auf, die Luca-App zu nutzen? Das ist nicht Rechtens und ihr meldet das bitte.](https://www.borncity.com/blog/2021/06/03/brgeramt-nur-mit-der-luca-app-betretbar-meldung-erwnscht/)
 * [Hier wird euch die Geschichte hinter Java serverless functions und ein kurzer Einstieg präsentiert.](https://opensource.com/article/21/6/java-serverless-functions)
+* [>>Der weltgrößte Nahrungsmittelkonzern Nestlé hat eingeräumt, dass über 60 Prozent seiner Mainstream-Nahrungsmittel und -Getränkeprodukte „ungesund“ sind.<<](https://netzfrauen.org/2021/06/03/nestle-18/)
+* [DBUS-Broker wurde in der Version 29 veröffentlicht.](https://github.com/bus1/dbus-broker/releases/tag/v29)
+* [Die autonomen Waffensysteme aka Killer-Roboter sind schon da: >>The lethal autonomous weapons systems were programmed to attack targets without requiring data connectivity between the operator and the munition<<](https://blog.fefe.de/?ts=9e47ae07) - Codewort Kargu
+* [Am Beispiel der TU Berlin zeigt sich wie gut das "wir müssen überall schnell mittanzen"-Konzept so funktioniert.](https://blog.fefe.de/?ts=9e47a96c) - Ach und kosten darf ein Tanz ja auch nichts.
+* [GRUB behält jetzt seine ältere Version bei und widmet sich dem Jahr 2038-Problem.](https://www.phoronix.com/scan.php?page=news_item&px=GRUB-Backup-Restore)
+* [Die Baerbock hat wohl schon sieben mal versucht zu Betrügen und wurde dabei erwischt.](https://tuxproject.de/blog/2021/06/medienkritik-in-kuerze-selbstfalschdenker/?unapproved=83783&moderation-hash=10eed67b284c163d623438d4f5e8f037#comment-83783) - Ich erkenne hier ein Muster.
+* [Europa will den Europapass einführen.](https://netzpolitik.org/2021/digitale-brieftasche-eu-kommission-plant-europaweite-eid/) - Und alles, was für den Bürger wichtig ist, wird mit "müsste" beschrieben. Kurzum, alles müsste, wäre nett und kann weg. Hauptsache man kann endlich Bewegungsprofile über Länder hinweg erstellen.
+* [Nicht nur Öl- und Tierschiffe sind schwimmende Rostlauben, auch Chemie- oder Plastikschiffe sind es.](https://netzfrauen.org/2021/06/03/srilanka/) - Kapitalismus im Endstadium.
