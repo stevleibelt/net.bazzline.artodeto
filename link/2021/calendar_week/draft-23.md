@@ -1,0 +1,1 @@
+* [Die Impfärzte in Hessen müssen sich über ein Formular registrieren, welches datenschutztechnisch in den USA steht.](https://www.kuketz-blog.de/corona-impfung-registrierung-fuer-betriebsaerzte-via-microsoft-forms/) - Ganz ehrlich, dann würde ich mich als Arzt auch nicht registrieren.
