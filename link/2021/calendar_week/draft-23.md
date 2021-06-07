@@ -7,3 +7,6 @@
 * [Klimaschutz? Klar, aber nur in Hochglanzblättern. In Wirklichkeit entstehen auch in diesem Jahr 400 neue Kohlemienen.](https://netzfrauen.org/2021/06/05/climate-5/)
 * [Eine neue Partei ist entstanden, "Die Basis".](https://netzpolitik.org/2021/die-basis-eine-schrecklich-nette-partei/)
 * [Prosus kauft Stack Overflow für 1,8 Milliarden Dollar.](https://www.borncity.com/blog/2021/06/04/stack-overflow-von-investment-firma-prosus-gekauft/) - [Hier](https://de.wikipedia.org/wiki/Prosus) steht etwas über Prosus.
+* [VMware vCenter ist kaputt.](https://blog.fefe.de/?ts=9e458808)
+* [Die Blockpartei war es: Die Polizei darf jetzt auch Nachts bei euch rein kommen.](https://blog.fefe.de/?ts=9e458808)
+* [Frau Baerbock ist eine Transatlantikerin. Sie vertritt damit die Wünsche der USA vor den Wünschen ihres Volkes.](https://blog.fefe.de/?ts=9e4264e9)
