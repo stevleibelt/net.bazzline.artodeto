@@ -10,3 +10,8 @@
 * [VMware vCenter ist kaputt.](https://blog.fefe.de/?ts=9e458808)
 * [Die Blockpartei war es: Die Polizei darf jetzt auch Nachts bei euch rein kommen.](https://blog.fefe.de/?ts=9e458808)
 * [Frau Baerbock ist eine Transatlantikerin. Sie vertritt damit die Wünsche der USA vor den Wünschen ihres Volkes.](https://blog.fefe.de/?ts=9e4264e9)
+* [Das FBI hat eine Firma für Krypto-Telefone betrieben.](https://blog.fefe.de/?ts=9e41e84f) - Und betreibt bestimmt weitere. Wem kannst du da noch trauen?
+* [Kuketz zeigt euch was sich hinter der User ID 15698979 und der Collection nobody für den Fenec Browser verbirgt.](https://www.kuketz-blog.de/howto-beliebige-add-ons-in-fennec-auf-android-installieren/)
+* [Die magische Hand des Marktes in Aktion? Schaut euch mal die Gesellschafts- und Finanzstruktur der Schweinemastbetriebe an.](https://netzfrauen.org/2021/06/08/pigs-2/)
+* [>>Freiheit und Verantwortung neu wagen<<, ab 10.06.2021 in Freiberg.](https://www.mdr.de/nachrichten/sachsen/chemnitz/freiberg/corona-genehmigung-modellprojekt-freiberg-100.html)
+* [LibreWolf ist das, was Firefox sein will.](https://www.kuketz-blog.de/librewolf-datensendeverhalten-desktop-version-browser-check-teil8/)
