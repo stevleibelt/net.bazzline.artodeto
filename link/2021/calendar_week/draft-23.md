@@ -43,3 +43,4 @@
 * [So meint die Blockpartei es also, wenn sie von "IT Sicherheit" in der eGK usw. spricht. 68 Stellen werden im Papier gefordert und vier davon werden ausgeschrieben.](https://netzpolitik.org/2021/it-sicherheit-im-gesundheitsministerium-unbedarft-durch-die-pandemie/)
 * [`netsh wlan show profile` und `netsh wlan show profile "<ssid>" key=clear` und schon seht ihr das Wlan-Passwort eurer SSID unter Windows.](http://woshub.com/view-saved-wi-fi-passwords-windows/)
 * [Auch in diesem Jahr wurde wieder mehr Geld für Atomwaffen ausgegeben.](https://www.sonnenseite.com/de/politik/weltweite-ausgaben-fuer-atomwaffen-steigen-um-14-milliarden-us-dollar/)
+* [Buzzfeed bekommt einen Pulitzerpreis? WTF!](https://blog.fefe.de/?ts=9e3d029a)
