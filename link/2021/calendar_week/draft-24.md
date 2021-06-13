@@ -1,0 +1,1 @@
+* [Die Tabakindustrie ist so falsch, die haben kurzerhand eine erlogene Studie heraus gebracht, als dass Rauchen den Verlauf von Covid-19 mildert.](https://blog.fefe.de/?ts=9e3d013a) - Wie verdreht im Kopf muss man sein, solch eine Lüge zu publizieren?
