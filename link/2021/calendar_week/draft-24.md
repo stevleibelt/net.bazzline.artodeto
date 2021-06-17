@@ -19,3 +19,8 @@
 * [Die politische Coronaproblematik scheint vorbei zu sein, die Ausnahmegesetze und sonstige Bürgerverächtung bleibt.](https://verfassungsblog.de/ende-der-krise-ohne-ende-des-krisenrechts/)
 * [Martin Sonneborn nutzt seine politische Macht und zeigt die Kölner Polizei an.](https://martinsonneborn.de/anzeige-ist-raus/)
 * [SW-Iron ist auch ein Drecksbrowser.](https://www.kuketz-blog.de/srware-iron-datensendeverhalten-desktop-version-browser-check-teil10/)
+* [Stuttgart 21 hat ja noch 79 Jahre Zeit, bis er fertig gestellt werden muss. Deswegen wird jetzt ein Nebenbahnhof gebaut.](https://blog.fefe.de/?ts=9e34cc93)
+* [Ach deswegen soll das G2 Netz im Mobilfunksektor weiter erhalten werden, dort schnüffelt es sich, dank bewusster Fehler, am einfachsten.](https://blog.fefe.de/?ts=9e372b8c) - Geheimdienste gehören abgeschafft!
+* [Realitätsabgleich: So werden Shrimps gezüchtet.](https://netzfrauen.org/2021/06/16/fishfarms-2/)
+* [Haha, Apple zählt sein Betriebssystem auf 11 und schon muss Microsoft nachziehen. Wir sehen uns bei der 78 wieder.](https://tuxproject.de/blog/2021/06/windowsversion_wirklich_final_2-docx/)
+* [Laut EuGH dürfen nationale Datenschutzbehörden Firmen verklagen dürfen, für die Irland eigentlich zuständig ist.](https://blog.fefe.de/?ts=9e361ed6) - Die Renten sind gesichert, würde ich mal sagen.
