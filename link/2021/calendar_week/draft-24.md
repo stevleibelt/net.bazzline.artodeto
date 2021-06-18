@@ -24,3 +24,4 @@
 * [Realitätsabgleich: So werden Shrimps gezüchtet.](https://netzfrauen.org/2021/06/16/fishfarms-2/)
 * [Haha, Apple zählt sein Betriebssystem auf 11 und schon muss Microsoft nachziehen. Wir sehen uns bei der 78 wieder.](https://tuxproject.de/blog/2021/06/windowsversion_wirklich_final_2-docx/)
 * [Laut EuGH dürfen nationale Datenschutzbehörden Firmen verklagen dürfen, für die Irland eigentlich zuständig ist.](https://blog.fefe.de/?ts=9e361ed6) - Die Renten sind gesichert, würde ich mal sagen.
+* [Schöne neue Welt, über 7000 Lebensmittel haben so viele Pestizide in sich, dass sie zurückgerufen werden müssen.](https://netzfrauen.org/2021/06/17/food-6/) - Überlegt einmal wie hart die Nahrungsmittelindustrie verkackt haben muss, bis dieser Fakt durch den Morast an Schweigegeldern hochgeblubbert ist. So hart haben die verkackt, dass sich Niemand mehr getraut weg zu schauen.
