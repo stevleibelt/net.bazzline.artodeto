@@ -25,3 +25,7 @@
 * [Haha, Apple zählt sein Betriebssystem auf 11 und schon muss Microsoft nachziehen. Wir sehen uns bei der 78 wieder.](https://tuxproject.de/blog/2021/06/windowsversion_wirklich_final_2-docx/)
 * [Laut EuGH dürfen nationale Datenschutzbehörden Firmen verklagen dürfen, für die Irland eigentlich zuständig ist.](https://blog.fefe.de/?ts=9e361ed6) - Die Renten sind gesichert, würde ich mal sagen.
 * [Schöne neue Welt, über 7000 Lebensmittel haben so viele Pestizide in sich, dass sie zurückgerufen werden müssen.](https://netzfrauen.org/2021/06/17/food-6/) - Überlegt einmal wie hart die Nahrungsmittelindustrie verkackt haben muss, bis dieser Fakt durch den Morast an Schweigegeldern hochgeblubbert ist. So hart haben die verkackt, dass sich Niemand mehr getraut weg zu schauen.
+* [Das Landesgericht Hamburg zeigt wieder wie kurz Porschefahrer denken.](https://blog.fefe.de/?ts=9e3320ad)
+* [Starlink kackt bei 50 Grad in der Sonne ab, also sobald es ein wenig Sommer wird.](https://blog.fefe.de/?ts=9e330d01)
+* [Die Salzbachtalbrücke wurde auch gesperrt. Danke CDU.](https://blog.fefe.de/?ts=9e3309c6)
+* [Das große Bayern kann nur groß, auch verkacken, von elf Millionen auf 270 Millionen Euro Steuergelder *ohne* Resultat.](https://blog.fefe.de/?ts=9e33791b)
