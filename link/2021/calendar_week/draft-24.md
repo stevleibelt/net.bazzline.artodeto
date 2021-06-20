@@ -29,3 +29,7 @@
 * [Starlink kackt bei 50 Grad in der Sonne ab, also sobald es ein wenig Sommer wird.](https://blog.fefe.de/?ts=9e330d01)
 * [Die Salzbachtalbrücke wurde auch gesperrt. Danke CDU.](https://blog.fefe.de/?ts=9e3309c6)
 * [Das große Bayern kann nur groß, auch verkacken, von elf Millionen auf 270 Millionen Euro Steuergelder *ohne* Resultat.](https://blog.fefe.de/?ts=9e33791b)
+* [Das IPhone kann mit "%" in der SSID nicht umgehen.](https://blog.fefe.de/?ts=9e318119)
+* [Bind9 ist kaputt.](https://blog.fefe.de/?ts=9e31fec7)
+* [Damit konnte niemand rechnen, erst der unerwartet Winter und jetzt der unerwartete Sommer!](https://blog.fefe.de/?ts=9e31fb5d)
+* [In den USA ist es so, du steckst null Euro in Sicherheit und wenn dann jemand deine nicht vorhandene Sicherheit aushebelt, dann kannst du den Schaden von der Steuer absetzen.](https://blog.fefe.de/?ts=9e31e0b7)
