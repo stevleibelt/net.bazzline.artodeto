@@ -13,3 +13,13 @@
 * [Haie werden von allein Seiten aus bedroht und ausgerottet.](https://netzfrauen.org/2021/06/19/sharks-2/)
 * [Wie PostgreSQL einfach mal RabbitMQ und Redis im typischen 80/20 Fall ersetzt.](https://spin.atomicobject.com/2021/02/04/redis-postgresql/) - Dadurch schrumpft euer Technologie-Stack und alles wird wartbarer. Danke [n-gate.com](http://n-gate.com/hackernews/2021/06/14/0/).
 * [Gooey baut euch, aus eurer Python CLI eine GUI.](https://github.com/chriskiehl/Gooey)
+* [zfs-snap-manager wurde in der Version 0.3.0 veröffentlicht.](https://github.com/khenderick/zfs-snap-manager/releases/tag/v0.3.0)
+* [`du` in Rust geschrieben, `dust`.](https://opensource.com/article/21/6/dust-linux)
+* [Tor wurde in der Version 10.0.18 veröffentlicht.](https://www.borncity.com/blog/2021/06/21/tor-10-0-18-fixt-tracking-mglichkeit/)
+* [Rocky Linux wurde in der Version 8.4 veröffentlicht.](https://lwn.net/Articles/860420/rss)
+* [>>EU-Datenschützer fordern Verbot von Gesichtserkennung im öffentlichen Raum<<](https://netzpolitik.org/2021/kuenstliche-intelligenz-eu-datenschuetzer-fordern-verbot-von-gesichtserkennung-im-oeffentlichen-raum/) - Möge es Realität werden
+* [Wenn ihr per Lastschrift bezahlt, aber PayPal im Hintergrund agiert, wird PayPal euer Einkauf übermittelt.](https://www.kuketz-blog.de/diese-daten-erhaelt-paypal-beim-bezahlen-per-lastschrift/) - Und da will uns die Blockpartei erzählen, dass Datenschutz quatsch ist.
+* [Uff, die Webseite und auch die Android-Anwendung von VPN99 sind voll mit Schnüffelprogrammen.](https://www.kuketz-blog.de/vpn99-ein-vpn-anbieter-der-es-mit-der-privatsphaere-nicht-so-genau-nimmt/)
+* [Vulkan wurde in der Version 1.2.182 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=Vulkan-1.2.182-Released)
+* [Arzgebirg zum trachn.](https://haamitland-arzgebirg.erzgebirgskaufhaus.de/)
+* [Red Hat bietet euch mit CodeReady Workspaces eine Umgebung auf Basis von OpenShift an damit ihr "gegen alles" programmieren und testen könnt.](https://www.opensourcerers.org/2021/06/21/codeready-workspaces/)
