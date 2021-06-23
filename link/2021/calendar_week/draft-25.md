@@ -29,3 +29,4 @@
 * [Soweit ist es schon gekommen, jetzt brüskiert sich eine Blockpartei weil ein Mann gegenüber einer Frau gewonnen hat.](https://tuxproject.de/blog/2021/06/freie-wahl-aber-als-affront/)
 * [Das Krebsgeschwür, entschuldigung, die Abmahn Kanzlei "Waldorf Frommer" wurde in "Frommer Legal" umbenannt.](https://www.borncity.com/blog/2021/06/22/neue-abmahnwelle-von-frommer-legal-wegen-filesharing/)
 * [Duckduckgo Provacy Browser ist auch eine Luftnummer.](https://www.kuketz-blog.de/duckduckgo-privacy-browser-datensendeverhalten-android-app-browser-check-teil12/)
+* [>>Die Tatsache, dass im Jahr 2021 das einzige Weltraumteleskop seiner Art mit einer CPU betrieben wird, die mit Technik der 1970er Jahre auf einer Platine aus einzelnen ICs zusammengelötetet wurde, ist längst kein Grund mehr für Stolz auf die alte Technik.<<](https://www.golem.de/news/hubble-uralttechnik-ohne-ersatz-versagt-im-orbit-2106-157498-2.html)
