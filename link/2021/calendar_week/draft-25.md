@@ -23,3 +23,9 @@
 * [Vulkan wurde in der Version 1.2.182 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=Vulkan-1.2.182-Released)
 * [Arzgebirg zum trachn.](https://haamitland-arzgebirg.erzgebirgskaufhaus.de/)
 * [Red Hat bietet euch mit CodeReady Workspaces eine Umgebung auf Basis von OpenShift an damit ihr "gegen alles" programmieren und testen könnt.](https://www.opensourcerers.org/2021/06/21/codeready-workspaces/)
+* [>>Im Jahr 2040 werden die Stromgestehungskosten auf Werte zwischen 3,58 und 6,77 €Cent /kWh bei kleinen PV-Dachanlagen und zwischen 1,92 und 3,51 €Cent /kWh bei Freiflächenanlagen prognostiziert. Ab dem Jahr 2024 liegen die Stromgestehungskosten aller PV-Anlagen (ohne Batteriespeicher) unter 10 €Cent /kWh.<<](https://www.sonnenseite.com/de/energie/studie-zu-stromgestehungskosten/)
+* [SonicWall ist mal wieder kaputt.](https://www.bleepingcomputer.com/news/security/sonicwall-bug-affecting-800k-firewalls-was-only-partially-fixed/)
+* [`fd-find` ist `find` in Rust geschrieben.](https://opensource.com/article/21/6/fd-linux) - `fd . '/my/path' --changed-before 364d` ist schon sexy
+* [Soweit ist es schon gekommen, jetzt brüskiert sich eine Blockpartei weil ein Mann gegenüber einer Frau gewonnen hat.](https://tuxproject.de/blog/2021/06/freie-wahl-aber-als-affront/)
+* [Das Krebsgeschwür, entschuldigung, die Abmahn Kanzlei "Waldorf Frommer" wurde in "Frommer Legal" umbenannt.](https://www.borncity.com/blog/2021/06/22/neue-abmahnwelle-von-frommer-legal-wegen-filesharing/)
+* [Duckduckgo Provacy Browser ist auch eine Luftnummer.](https://www.kuketz-blog.de/duckduckgo-privacy-browser-datensendeverhalten-android-app-browser-check-teil12/)
