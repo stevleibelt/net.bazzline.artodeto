@@ -30,3 +30,11 @@
 * [Das Krebsgeschwür, entschuldigung, die Abmahn Kanzlei "Waldorf Frommer" wurde in "Frommer Legal" umbenannt.](https://www.borncity.com/blog/2021/06/22/neue-abmahnwelle-von-frommer-legal-wegen-filesharing/)
 * [Duckduckgo Provacy Browser ist auch eine Luftnummer.](https://www.kuketz-blog.de/duckduckgo-privacy-browser-datensendeverhalten-android-app-browser-check-teil12/)
 * [>>Die Tatsache, dass im Jahr 2021 das einzige Weltraumteleskop seiner Art mit einer CPU betrieben wird, die mit Technik der 1970er Jahre auf einer Platine aus einzelnen ICs zusammengelötetet wurde, ist längst kein Grund mehr für Stolz auf die alte Technik.<<](https://www.golem.de/news/hubble-uralttechnik-ohne-ersatz-versagt-im-orbit-2106-157498-2.html)
+* [Mit ChaChi gibt es einen `Remote Access Trojan`.](https://www.borncity.com/blog/2021/06/24/blackberry-entdeckt-remote-access-trojan-rat-chachi/)
+* [Leste euch die AGB's durch, Microsoft sperrt Konten ohne den Grund zu nennen und ihr kommt nicht mehr an eure Daten.](https://www.borncity.com/blog/2021/06/24/microsoft-kontensperre-ein-exemplarischer-fall-und-microsofts-fail/) - Es ist zum Beispiel nicht erlaubt, dass ihr eure Daten im OneDrive noch einmal verschlüsselt.
+* [Klarer Fall von Selbstmord, McAfee hat sich im Gefängnis erhängt.](https://www.borncity.com/blog/2021/06/23/john-mcafee-tot-in-zelle-entdeckt/)
+* [Grupo Fleury ist kaputt.](https://www.bleepingcomputer.com/news/security/healthcare-giant-grupo-fleury-hit-by-revil-ransomware-attack/)
+* [PRemoteM](https://github.com/VShawn/PRemoteM) oder [mRemoteNG](https://mremoteng.org/)
+* [OpenZFS wurde in der Version 2.0.5 veröffentlicht.](https://github.com/openzfs/zfs/releases/tag/zfs-2.0.5)
+* [Die Überwachung der Mitarbeiter ist in der EU rechtswidrig, nur richtige Regeln oder Gesetzte gibt es nicht.](https://netzpolitik.org/2021/bossware-gewerkschaften-warnen-vor-ki-ueberwachung-am-arbeitsplatz/)
+* [Die Smartphone Anwendung "Doctolib" teilt dann mal all eure Gesundheistdaten mit Hackfressenbuch/Facebook.](https://netzpolitik.org/2021/arzttermine-doctolib-app-teilte-sensible-gesundheitsdaten-mit-facebook/) - Wenn ich Datenschutzbeauftragter wäre, hätte diese Firma ein "geschlossen" Schild an der Tür.
