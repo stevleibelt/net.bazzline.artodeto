@@ -38,3 +38,13 @@
 * [OpenZFS wurde in der Version 2.0.5 veröffentlicht.](https://github.com/openzfs/zfs/releases/tag/zfs-2.0.5)
 * [Die Überwachung der Mitarbeiter ist in der EU rechtswidrig, nur richtige Regeln oder Gesetzte gibt es nicht.](https://netzpolitik.org/2021/bossware-gewerkschaften-warnen-vor-ki-ueberwachung-am-arbeitsplatz/)
 * [Die Smartphone Anwendung "Doctolib" teilt dann mal all eure Gesundheistdaten mit Hackfressenbuch/Facebook.](https://netzpolitik.org/2021/arzttermine-doctolib-app-teilte-sensible-gesundheitsdaten-mit-facebook/) - Wenn ich Datenschutzbeauftragter wäre, hätte diese Firma ein "geschlossen" Schild an der Tür.
+* [>>zum Setup benötigt Windows 11 Home einen Internet-Zugang samt Microsoft-Account<<](https://www.3dcenter.org/news/microsoft-kuendigt-windows-11-fuer-jahresende-2021) - Geht kacken :-). Mehr nicht deinstallierbaren Müll kriegt ihr auch noch dazu.
+* [Die WD My Book Nas werden gerade weltweit bereinigt.](https://www.bleepingcomputer.com/news/security/wd-my-book-nas-devices-are-being-remotely-wiped-clean-worldwide/)
+* [Über "wir wollen euch vor Nazis schützen" wird in NRW gerade ein Gesetzt zusammen geschraubt, welches ALLE Demonstrierenden wie Staatsfeinde behandelt.](https://netzpolitik.org/2021/nrw-laschet-regierung-will-demonstrierende-wie-kriminelle-behandeln/)
+* [Windows 10 und die DSGVO vertragen sich nicht.](https://www.anwalt.de/rechtstipps/windows-10-und-dsgvo-nutzung-erlaubt_170773.html) - Wo ist die europaweite Klage gegen Microsoft?
+* [Die geistigen Tiefflieger aus der Blockpartei wollen jetzt fest installierte Zensurfilter in allen digitalen Geräten.](https://tuxproject.de/blog/2021/06/loesung-auslandspornofilter/)
+* [OpenDocument Format wurde in der Version 1.3 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=ODF-1.3-OASIS-Approved)
+* [Acht Milliarden Euro zahlt der Steuerzahler um die Fehler der großen Industrie zu beheben.](https://www.sonnenseite.com/de/politik/acht-milliarden-euro-fuer-das-sofortprogramm-klimaschutz-2022-verabschiedet-aber-keine-solarpflicht/) - Die Industrie hat alles an Gewinne ausgeschüttet und NICHTS in den Klimaschutz investiert. Jetzt drohen sie mit "schenkt uns das Geld, oder wir machen den Laden dicht". Schade, dass es keine öffentliche Volksabstimmung über die zwei Möglichkeiten gegeben hat.
+* [`apt list` und `apt show` hab ich, glaube ich, noch nie genutzt.](https://opensource.com/article/21/6/apt-linux)
+* [>>Tokei is a program that displays statistics about your code<<](https://opensource.com/article/21/6/tokei)
+* [`iftop`, `nethogs` un `iotop` braucht man einfach.](https://utcc.utoronto.ca/~cks/space/blog/linux/NetworkTopPrograms)
