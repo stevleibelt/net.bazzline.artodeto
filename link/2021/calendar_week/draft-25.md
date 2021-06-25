@@ -48,3 +48,4 @@
 * [`apt list` und `apt show` hab ich, glaube ich, noch nie genutzt.](https://opensource.com/article/21/6/apt-linux)
 * [>>Tokei is a program that displays statistics about your code<<](https://opensource.com/article/21/6/tokei)
 * [`iftop`, `nethogs` un `iotop` braucht man einfach.](https://utcc.utoronto.ca/~cks/space/blog/linux/NetworkTopPrograms)
+* [Hier wird euch gezeigt, wie ihr Windows Server mit Konfigurationsdateien automatisiert installiert.](https://4sysops.com/archives/automate-windows-server-setup-using-an-answer-file/)
