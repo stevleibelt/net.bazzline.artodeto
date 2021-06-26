@@ -49,3 +49,8 @@
 * [>>Tokei is a program that displays statistics about your code<<](https://opensource.com/article/21/6/tokei)
 * [`iftop`, `nethogs` un `iotop` braucht man einfach.](https://utcc.utoronto.ca/~cks/space/blog/linux/NetworkTopPrograms)
 * [Hier wird euch gezeigt, wie ihr Windows Server mit Konfigurationsdateien automatisiert installiert.](https://4sysops.com/archives/automate-windows-server-setup-using-an-answer-file/)
+* [Die >>Sächsischen Metallwerk Freiberg<< haben eine 890 Kilogram schwere Glocke für den Merseburger Dom gegossen.](https://www.mdr.de/nachrichten/sachsen/chemnitz/freiberg/glocke-giessen-merseburger-dom-100.html)
+* [MyGNUHealt wurde in der Version 1.0.0 veröffentlicht.](https://lwn.net/Articles/860937)
+* [Bio ist ein Modename, nicht mehr und nicht weniger. Wer denkt, dass von heute auf Morgen alles Bio sein kann, hat das Konzept des "Marketings" nicht verstanden.](https://netzfrauen.org/2021/06/25/biofuels/)
+* [YAML, TOML, JSON, INI, alles kann, nichts muss, mit python.](https://opensource.com/article/21/6/parse-configuration-files-python)
+* [Kanal9TV: Der zweite Bürgerdialog in Freiberg ist verfügbar.](https://www.youtube.com/watch?v=pt3BNtPkO5M)
