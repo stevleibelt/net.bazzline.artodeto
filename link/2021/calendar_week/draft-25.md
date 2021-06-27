@@ -54,3 +54,8 @@
 * [Bio ist ein Modename, nicht mehr und nicht weniger. Wer denkt, dass von heute auf Morgen alles Bio sein kann, hat das Konzept des "Marketings" nicht verstanden.](https://netzfrauen.org/2021/06/25/biofuels/)
 * [YAML, TOML, JSON, INI, alles kann, nichts muss, mit python.](https://opensource.com/article/21/6/parse-configuration-files-python)
 * [Kanal9TV: Der zweite Bürgerdialog in Freiberg ist verfügbar.](https://www.youtube.com/watch?v=pt3BNtPkO5M)
+* [Wow, die Deutsche Bank wird bald verstaatlicht weil sie sich an der Kostenfalle Oracle verhoben haben.](https://blog.fefe.de/?ts=9e29d525) - Das Oracle alles zur NSA schickt, ist bekannt?
+* [Ab Juli darf jeder jeden als Schuldner öffentlich im Internet an den Pranger stellen.](https://blog.fefe.de/?ts=9e29d32f)
+* [Kuketz empfiehlt AdAway.](https://www.kuketz-blog.de/adaway-unkomplizierter-tracking-und-werbeblocker-fuer-android/) - Ich empfehle dabei immer gleich noch eine Spende :-).
+* [Die ETH Zürich hat schon etwas aus Dune erfunden.](https://www.sonnenseite.com/de/wissenschaft/rund-um-die-uhr-trinkwasser-aus-der-luftfeuchtigkeit-gewinnen/)
+* [Mercedes Benz verliert 1,6 Millionen Nutzerdaten.](https://www.bleepingcomputer.com/news/security/mercedes-benz-data-breach-exposes-ssns-credit-card-numbers/)
