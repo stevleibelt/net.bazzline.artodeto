@@ -5,3 +5,6 @@
 * [Die Blockpartei möchte jetzt auch ein "Social Scoring" einführen, Schufa für ALLE und auf ALLES.](https://tuxproject.de/blog/2021/06/從善如登，從惡是崩/)
 * [Na huch? Die USA scheint gesetzte gegen ihre IT Konzerne vorzubereiten.](https://netzpolitik.org/2021/silicon-valley-us-demokraten-ziehen-gegen-big-tech-ins-feld/)
 * [Nein? Doch! Oh? Auch die Webseiten der Bundesbehörden sind nicht Datenschutzkonform, weil sie Hackfressenbuch einbinden.](https://netzpolitik.org/2021/datenschutzbeauftragter-facebook-auftritte-von-bundesbehoerden-sind-nicht-datenschutzkonform/) - Und google auch!
+* [HCL bietet mit "DOMI" eine Integration der bekannten Videokonferenzlösungen für Notes zur Verfügung.](https://n-komm.de/besprechungen-in-notes-mit-sametime-meetings-teams-zoom-webex-und-gotomeeting-planen/)
+* [>>Lebensmitteldrucker wird anhand von DNA, Schweiß und Ihrem Lebensstil ein maßgeschneidertes persönliches Essen ausdrucken<<](https://netzfrauen.org/2021/06/27/food-7/)
+* [LinkedIn hat 700 Millionen Datensätze verloren.](https://blog.fefe.de/?ts=9e254488)
