@@ -14,3 +14,5 @@
 * [Dänemarks Zentralbank war für Monate offen für Angriffe.](https://www.bleepingcomputer.com/news/security/russian-hackers-had-months-long-access-to-denmarks-central-bank/)
 * [Der FOSS-Browser ist gut.](https://www.kuketz-blog.de/foss-browser-datensendeverhalten-android-app-browser-check-teil14/)
 * [PipeWire wurde in der Version 0.3.31 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=PipeWire-0.3.31-Released)
+* [Das Recht zur Reperatur (Smartphones und PCs ausgenommen) - Großes Britanien.](https://blog.fefe.de/?ts=9e231584)
+* [Der Warntag vom letzten Jahr fällt dieses Jahr aus.](https://blog.fefe.de/?ts=9e237f88)
