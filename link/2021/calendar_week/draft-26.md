@@ -16,3 +16,7 @@
 * [PipeWire wurde in der Version 0.3.31 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=PipeWire-0.3.31-Released)
 * [Das Recht zur Reperatur (Smartphones und PCs ausgenommen) - Großes Britanien.](https://blog.fefe.de/?ts=9e231584)
 * [Der Warntag vom letzten Jahr fällt dieses Jahr aus.](https://blog.fefe.de/?ts=9e237f88)
+* [Von wegen ehrliche Japaner, die verkaufen seit 30 Jahren Klimaanlagen ohne die richtig getestet zu haben.](https://blog.fefe.de/?ts=9e21f41f)
+* [Aufgeschoben ist nicht aufgehoben liebes EU-Parlament.](https://netzpolitik.org/2021/biometrische-ueberwachung-eu-abgeordnete-fordern-auszeit-fuer-gesichtserkennung/)
+* [Otto, Check24 und Kaufland, bei allen sind Nutzer- und Kundendaten umsonst zu haben.](https://www.borncity.com/blog/2021/07/01/kundendaten-von-online-marktpltzen-otto-kaufland-check24-einsehbar/)
+* [Nextcloud wurde in den Version 21.0.3, 20.0.11 und 19.0.13 veröffentlicht.](https://nextcloud.com/blog/maintenance-releases-21-0-3-20-0-11-19-0-13-are-out-and-22rc1-is-ready-for-testing/)
