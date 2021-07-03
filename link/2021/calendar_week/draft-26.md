@@ -20,3 +20,13 @@
 * [Aufgeschoben ist nicht aufgehoben liebes EU-Parlament.](https://netzpolitik.org/2021/biometrische-ueberwachung-eu-abgeordnete-fordern-auszeit-fuer-gesichtserkennung/)
 * [Otto, Check24 und Kaufland, bei allen sind Nutzer- und Kundendaten umsonst zu haben.](https://www.borncity.com/blog/2021/07/01/kundendaten-von-online-marktpltzen-otto-kaufland-check24-einsehbar/)
 * [Nextcloud wurde in den Version 21.0.3, 20.0.11 und 19.0.13 veröffentlicht.](https://nextcloud.com/blog/maintenance-releases-21-0-3-20-0-11-19-0-13-are-out-and-22rc1-is-ready-for-testing/)
+* [800 Geschäffte müssen in Schweden wegen Befall schließen.](https://www.borncity.com/blog/2021/07/03/coop-schweden-schliet-800-geschfte-nach-kaseya-vsa-lieferkettenangriff-durch-revil-gang/) - Schweden, das Land was kaum noch Bargeld hat da digitales Geld so viel mehr Angriffsfläche bietet.
+* [Realitätsabgleich "Europa gegen Rassismus" und "so wie es wirklich ist.](https://martinsonneborn.de/auf-die-knie-europaeer/)
+* [Der Golf von Mexiko brennt, dank Ölbohrungen.](https://netzfrauen.org/2021/07/03/mexico-6/) - Grüner Wasserstoff von Shell und BP, wisst schon.
+* [Darktable wurde in der Version 3.6 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=Darktable-3.6-Released)
+* [Sturzregen in Japan.](https://netzfrauen.org/2021/07/03/japan-4/)
+* [OpenZFS wurde in der Version 2.1 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=OpenZFS-2.1)
+* [Europol ist jetzt ein Geheimdienst.](https://netzpolitik.org/2021/neue-verordnung-europol-wird-quasi-geheimdienst/)
+* [Kanal9TV: 2. Bürgerdialog im Tivoli, jetzt in voller Länge.](https://www.youtube.com/watch?v=0g1vnpssUic)
+* [Argentinien verbietet als erstes Land Lachsfarmen.](https://netzfrauen.org/2021/07/02/argentina-2/)
+* [Hier wird euch gezeigt, wie ihr Prometheus im Container laufen lasst.](https://opensource.com/article/21/7/run-prometheus-home-container)
