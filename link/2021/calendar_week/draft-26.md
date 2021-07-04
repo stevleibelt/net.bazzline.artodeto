@@ -30,3 +30,6 @@
 * [Kanal9TV: 2. Bürgerdialog im Tivoli, jetzt in voller Länge.](https://www.youtube.com/watch?v=0g1vnpssUic)
 * [Argentinien verbietet als erstes Land Lachsfarmen.](https://netzfrauen.org/2021/07/02/argentina-2/)
 * [Hier wird euch gezeigt, wie ihr Prometheus im Container laufen lasst.](https://opensource.com/article/21/7/run-prometheus-home-container)
+* [Microsoft klebt jetzt mit KI Programmcode zusammen.](https://tuxproject.de/blog/2021/07/github-4-schoene-lizenz-hatten-sie-da-tja-bloed-jetzt/)
+* [Laut einer Reportage werden 80 Prozent der Open-Source-Komponenten nie oder ungenügend aktualisiert.](https://www.borncity.com/blog/2021/07/04/report-80-prozent-der-open-source-bibliotheken-werden-nie-aktualisiert/) - Ja, ist so.
+* [Wow, das sah vor 10 Jahren anders aus. Heute verbrauchen 3D-Karten nur noch Strom, wenn man deren Leistung braucht.](https://www.3dcenter.org/artikel/stromverbrauchs-ueberblick-fuer-directx-1112-grafikkarten)
