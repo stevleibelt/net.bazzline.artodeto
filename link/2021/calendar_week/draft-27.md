@@ -2,3 +2,7 @@
 * [PostmarkOS wurde in der Version 21.06 veröffentlicht.](https://postmarketos.org/blog/2021/07/04/v21.06-release/)
 * [>>Ohne PCR keine Pandemie<<](https://orbisnjus.com/2021/07/05/ohne-pcr-keine-pandemie-und-in-portugal-verschwinden-beinahe-alle-corona-toten-wie-von-zauberhand-op-ed/)
 * [Nein? Doch! Oh? Nicht Energiekonzerne sonderen Energiegenossenschafften sind federführend bei der Energiewende.](https://www.sonnenseite.com/de/wirtschaft/energiegenossenschaften-treiben-energiewende-voran/)
+* [Eine Firma, die seit jahren Versucht Krypto kaputt zu machen meint jetzt, dass nur Blockchain die Lösung für das ach so kaputte TCP/IP ist.](https://blog.fefe.de/?ts=9e1dc202)
+* [Firefox Klar ist fast ein guter Browser.](https://www.kuketz-blog.de/firefox-klar-focus-datensendeverhalten-android-app-browser-check-teil15/)
+* [>>Demnach würden bei einem Tempolimit von 130 Stundenkilometern 1,9 Millionen Tonnen weniger CO2-Äquivalente im Jahr in die Luft geblasen werden als ohne.<<](http://blog.todamax.net/2021/hoert-nicht-auf-die-verlierer/)
+* [Neil Young legt den Finger in die ach so soziale Wunde der Gates-Lügenfamilie.](https://netzfrauen.org/2021/07/05/farmaid/)
