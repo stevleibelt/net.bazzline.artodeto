@@ -6,3 +6,7 @@
 * [Firefox Klar ist fast ein guter Browser.](https://www.kuketz-blog.de/firefox-klar-focus-datensendeverhalten-android-app-browser-check-teil15/)
 * [>>Demnach würden bei einem Tempolimit von 130 Stundenkilometern 1,9 Millionen Tonnen weniger CO2-Äquivalente im Jahr in die Luft geblasen werden als ohne.<<](http://blog.todamax.net/2021/hoert-nicht-auf-die-verlierer/)
 * [Neil Young legt den Finger in die ach so soziale Wunde der Gates-Lügenfamilie.](https://netzfrauen.org/2021/07/05/farmaid/)
+* [PHP 8.1 hat jetzt ein `readonly` :-).](https://stitcher.io/blog/cloning-readonly-properties-in-php-81)
+* [Kubernetes? Nur mit Validierung!](https://opensource.com/article/21/7/kubernetes-schema-validation)
+* [Wow, `qpdf --split-pages original.pdf split.pdf` und `qpdf --empty concatenated.pdf --pages split-*.pdf --` FTW!](https://opensource.com/article/21/7/qpdf-command-line)
+* [Nach rechtem Terror kommt jetzt linker Terror umd mit illegal aufgeblähten Zahlen die imaginäre Angst vor dem unfassbaren Feind zu schüren und den Abbau der Grundrechte inklusive dem Aufbau eines Überwachungsstaates zu begründen.](https://netzpolitik.org/2021/ausscheidender-eu-berater-gilles-de-kerchove-erfindet-linksterroristische-gefahr/) - "Hier ist überall Lauschgift, in allen Ecken!"
