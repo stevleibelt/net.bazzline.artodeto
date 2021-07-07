@@ -10,3 +10,12 @@
 * [Kubernetes? Nur mit Validierung!](https://opensource.com/article/21/7/kubernetes-schema-validation)
 * [Wow, `qpdf --split-pages original.pdf split.pdf` und `qpdf --empty concatenated.pdf --pages split-*.pdf --` FTW!](https://opensource.com/article/21/7/qpdf-command-line)
 * [Nach rechtem Terror kommt jetzt linker Terror umd mit illegal aufgeblähten Zahlen die imaginäre Angst vor dem unfassbaren Feind zu schüren und den Abbau der Grundrechte inklusive dem Aufbau eines Überwachungsstaates zu begründen.](https://netzpolitik.org/2021/ausscheidender-eu-berater-gilles-de-kerchove-erfindet-linksterroristische-gefahr/) - "Hier ist überall Lauschgift, in allen Ecken!"
+* [Nach dem letzten Versucht hat Audacity zum Sprung ausgeholt und springt jetzt ins Abseits.](https://www.borncity.com/blog/2021/07/06/das-war-es-mit-audacity-neue-datenschutzvereinbarung/)
+* [Doof, auch Waterfox kann man nicht benutzen.](https://www.kuketz-blog.de/waterfox-datensendeverhalten-desktop-version-browser-check-teil16/)
+* [Hier wird euch gezeigt, wie ihr Zabbix 5.4 skalliert.](https://blog.zabbix.com/scalability-improvements/14832/)
+* [Hier wird euch noch einmal zusammengefasst, warum Patente und genmanipulierte Nahrungsmittel mist sind.](https://netzfrauen.org/2021/07/06/corporations-2/)
+* [MyDumper wurde in der Version 0.10.7 veröffentlicht.](https://www.percona.com/blog/mydumper-0-10-7-is-now-available/)
+* [PHP pg_builder wurde in der Version 1.0.0 veröffentlicht.](https://www.postgresql.org/about/news/pg_builder-100-and-pg_wrapper-100-packages-for-php-released-2255/)
+* [Die Linux Foundation hat jetzt eine 3D Foundation gegründet.](https://www.phoronix.com/scan.php?page=article&item=open-3d-engine&num=1)
+* [Die Sprallos aus der Blockpartei haben gewonnen, die EU darf bald alles mitlesen.](https://www.patrick-breyer.de/chatkontrolle-eu-verordnung-zur-flaechendeckenden-und-verdachtslosen-durchsuchung-elektronischer-nachrichten-angenommen-klage-geplant-widerstand-gegen-ausweitung/)
+* [Kasperskys Passwort-Generator ist arg kaputt.](https://blog.fefe.de/?ts=9e1a75d0)
