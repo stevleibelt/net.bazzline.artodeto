@@ -32,3 +32,8 @@
 * [Mit `age` könnt ihr unter Linux recht einfach Daten ver- und entschlüsseln.](https://opensource.com/article/21/7/linux-age)
 * [Tor hat das v3 seines Onion-Netzes scharf geschaltet.](https://www.bleepingcomputer.com/news/security/tor-browser-adds-new-anti-censorship-feature-v2-onion-warnings/)
 * [Systemd wurde in der Version 249 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=systemd-249)
+* [Schöner Vergleich, mit Starlink etc. verhält es sich wie mit den Elektrorollern. Private Firmen verschmutzen öffentlichen Raum und kümmern sich nicht um deren Müll.](https://netzpolitik.org/2021/starlink-co-der-sternenhimmel-gehoert-uns-allen-und-nicht-elon-musk-und-jeff-bezos/)
+* [Linux Mint wurde in der Version 20.2 veröffentlicht.](https://www.planet3dnow.de/cms/62978-linux-mint-20-2-uma-als-version-mit-cinnamon-xfce-und-mate-erschienen/)
+* [VKD3D wurde in der Version 2.4 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=VKD3D-Proton-2.4)
+* [Pink Floyd's Roger Waters: >>Mir sind irgendwie die Schimpfwörter für diese Arschlöcher ausgegangen, die Julian Assange inhaftiert haben<<](https://tuxproject.de/blog/2021/07/helft-roger-waters/)
+* [Auch bei Uberspace kracht es mal, aber wer eine solch tolle Stellungnahme schreibt, verdient weiterhin, dass man Kunde bleibt.](https://blog.uberspace.de/ausfall-am-29-06-2021/)
