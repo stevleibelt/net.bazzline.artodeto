@@ -37,3 +37,6 @@
 * [VKD3D wurde in der Version 2.4 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=VKD3D-Proton-2.4)
 * [Pink Floyd's Roger Waters: >>Mir sind irgendwie die Schimpfwörter für diese Arschlöcher ausgegangen, die Julian Assange inhaftiert haben<<](https://tuxproject.de/blog/2021/07/helft-roger-waters/)
 * [Auch bei Uberspace kracht es mal, aber wer eine solch tolle Stellungnahme schreibt, verdient weiterhin, dass man Kunde bleibt.](https://blog.uberspace.de/ausfall-am-29-06-2021/)
+* [Kanal9TV: Stadtführng in Freiberg.](https://www.youtube.com/watch?v=mqLxaDLXx-E)
+* [Tor gibt es jetzt in RUST.](https://lwn.net/Articles/862329)
+* [RT-Thread, ein Betriebssystem für IoT.](https://opensource.com/article/21/7/rt-thread-smart)
