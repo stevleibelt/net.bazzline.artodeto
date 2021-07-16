@@ -10,3 +10,9 @@
 * [Alles ist eins, außer die 0.](https://www.ccc.de/de/updates/2021/allesisteins)
 * [Mit der Weltraumtheorie kam die Bedrohung aus dem All. Bundeswehr goes Kosmonautentraining!](https://tuxproject.de/blog/2021/07/hindukusch-war-gestern/)
 * [Tails wurde in der Version 4.20 veröffentlicht.](https://lwn.net/Articles/862771)
+* [Früher war es der Überschallflug, heute muss es schon eine Rakete sein. Milliardäre und ihr Schwanzvergleich.](https://www.sonnenseite.com/de/zukunft/weltraumtourismus-umweltzerstoerendes-milliardaerswettrennen/)
+* [WooCommerce ist kaputt.](https://www.bleepingcomputer.com/news/security/woocommerce-fixes-vulnerability-exposing-5-million-sites-to-data-theft/) - Leider gehören die Fehler in die Kategorie "Anfängerfehler".
+* [Steam hat mit dem Steam Deck eine Spielekonsole für die Hand vorgestellt die mit Arch Linux und AMD Ryzen/Vega läuft.](https://www.phoronix.com/scan.php?page=news_item&px=Steam-Deck)
+* [Hier werden euch ein paar "Quality of life" Funktionalitäten in PHP 8.1 vorgestellt.](https://stitcher.io/blog/php-81-before-and-after)
+* [Günther Schwarz: >>Was die Christen glauben, Jesus lehrte es nicht! Und was Jesus lehrte – die Christen wissen es nicht<<](https://www.sonnenseite.com/de/franz-alt/kommentare-interviews/die-kirchenflucht/)
+* [Windows 11 ist Windows 7 "Projekt runde Ecken".](https://www.bleepingcomputer.com/news/microsoft/microsoft-unveils-windows-11s-beautiful-new-context-menus/) - Und statt etwas nützliches einzubauen, gibt es eine noch festere Verzahnung in Microsoft Produkte
