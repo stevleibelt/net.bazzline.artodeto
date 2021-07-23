@@ -35,3 +35,10 @@
 * [Von der Politik wurde Bauland in Überflutungsgebiete freigegeben, jetzt kam die Flut und was macht die blinde Politik? Ein lautes WEITERSO!](https://www.sonnenseite.com/de/umwelt/wiederaufbau-der-vom-hochwasser-zerstoerten-gebiete-muss-an-die-klimakrise-angepasst-werden/) - Statt dem Fluss wieder Platz zu geben und den Hochwasserschutz zu verbessern, wird halt wieder an der gleichen Stelle aufgebaut.
 * [Mit purelymail versicht eine Person die Branche für 10 Euro pro Jahr aufzumischen.](https://purelymail.com/) - Danke [n-gate.com](http://n-gate.com/hackernews/2021/07/07/0/)
 * [Das Bargeld wird weiter in einer Salamietaktik abgeschafft.](https://www.patrick-breyer.de/piraten-europaabgeordneter-mit-eu-angriff-auf-bargeld-und-virtuelles-bargeld-droht-schleichende-finanzielle-entmuendigung/)
+* [Kanal9TV: 3. Bürgerdialog im Kinopolis Freiberg](https://www.youtube.com/watch?v=wlXmUw0uyrk)
+* [Hier steht so viel wahres über das Thema Schätzung drinne.](https://stitcher.io/blog/optimistic-or-realistic-estimates) - Bauchgefühl mal zwei, wenn es länger als ein Monat dauert, gern mal drei.
+* [SquashFS Tools wurde in der Version 4.5 veröffentlich und wurde 20 Jahre alt.](https://www.phoronix.com/scan.php?page=news_item&px=SquashFS-Tools-4.5) - Danke!
+* [Wisst ihr was wir am Rhein häufig haben? Atomkraftwerke. Super Idee, kann bei so einem Hochwasser ja überhaupt nichts passieren.](https://www.sonnenseite.com/de/energie/atomkraftwerke-von-hochwasser-bedroht-endgueltige-abschaltung-gefordert/)
+* [Firewalld wurde in der Version 1.0 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=Firewalld-1.0)
+* [Nein? Doch! Oh? Da werden Geheimdienste genutzt um Menschenrechtsbeobachter zu verfolgen und optisch, dank Kriegsschiffe, in die Schranken zu weisen.](https://netzpolitik.org/2021/seenotrettung-in-der-aegaeis-griechischer-geheimdienst-verfolgt-menschenrechtsbeobachterinnen/)
+* [HCL Notes und HCL Domino wurde in der Version 10.0.1 FP7 veröffentlicht.](https://n-komm.de/hcl-notes-und-domino-10-0-1-fp7-veroeffentlicht/)
