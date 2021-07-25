@@ -42,3 +42,13 @@
 * [Firewalld wurde in der Version 1.0 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=Firewalld-1.0)
 * [Nein? Doch! Oh? Da werden Geheimdienste genutzt um Menschenrechtsbeobachter zu verfolgen und optisch, dank Kriegsschiffe, in die Schranken zu weisen.](https://netzpolitik.org/2021/seenotrettung-in-der-aegaeis-griechischer-geheimdienst-verfolgt-menschenrechtsbeobachterinnen/)
 * [HCL Notes und HCL Domino wurde in der Version 10.0.1 FP7 veröffentlicht.](https://n-komm.de/hcl-notes-und-domino-10-0-1-fp7-veroeffentlicht/)
+* [Digitaler Impfausweis? In Deutschland? Mit Anlauf verkackt.](https://blog.fefe.de/?ts=9e045cd2) - Und das sind die gleichen Papnasen die uns die politische Coronaproblematik eingebrockt haben.
+* [Mit `wohami` könnt ihr in der PowerShell und unter Windows prüfen, ob der aktuelle Benutzer zu eurer Domain passt.](https://www.shellhacks.com/check-if-user-is-in-domain-cmd-powershell/)
+* [Hier wird euch, in aller Kürze, das `readonly` für `Properties` in PHP 8.1 erklärt.](https://php.watch/versions/8.1/readonly)
+* [Wahl in Deutschland im Jahr 2021, Menschen auf Plakaten und ohne politischer Information.](https://tuxproject.de/blog/2021/07/plakat-non-placat/)
+* [`shell:startup` für den aktuellen Benutzer, `shell:common startup` für alle Benutzer. Falls ihr unter Windows mal eine `*.bat` Datei in den Autostart packen müsst.](https://www.shellhacks.com/run-batch-file-bat-on-startup-in-windows/)
+* [Und hier wird euch gezeigt, wie ihr eine `*.exe` aus einer `*.bat` Datei heraus startet.](https://www.shellhacks.com/create-batch-file-bat-to-run-exe-program/) - `@echo off\nstart "c:\foo\.bar.exe" /param1 /param2`
+* [Hier wird euch gezeigt, wie ihr ab Windows Server 2016 einen DHCP Server konfiguriert.](http://woshub.com/how-to-configure-dhcp-server-using-powershell/)
+* [Mal wieder hat ein CDN das Werbeinternet zum stocken gebracht.](https://www.borncity.com/blog/2021/07/23/akamai-dns-cdn-ausfall-kickte-zahlreiche-webseiten-aus-dem-internet-22-7-2021/)
+* [Firefox wurde in der Version 90.0.2 veröffentlicht.](https://www.borncity.com/blog/2021/07/23/firefox-90-0-2-verfgbar/)
+* [Wir brauchen dringend ethische Gesetze und eine gesellschaftliche Debatte in der Forschung. Männliche Mäuse gebähren in Laboren Kinder.](https://netzfrauen.org/2021/07/23/chinesescientists/)
