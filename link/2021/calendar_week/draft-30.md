@@ -16,3 +16,13 @@
 * [>>60.000 Menschen feiern beim Bergstadtsommer in Freiberg<<](https://www.mdr.de/nachrichten/sachsen/chemnitz/freiberg/bergstadtsommer-bilanz-100.html)
 * [Hier werdet ihr in das Land des Kernel Tracings abgeholt.](https://opensource.com/article/21/7/linux-kernel-ftrace)
 * [`du -threshold=1G`, also man kann in `du` direkt nach Größe filtern.](https://opensource.com/article/21/7/check-disk-space-linux-du)
+* [Gut so, Microsoft sieht, vorerst, ein, dass niemand seine Lizenzen und Server im Jahrestakt aktualisieren will.](https://www.borncity.com/blog/2021/07/28/windows-server-gibt-es-knftig-nur-als-ltsc-versionen/)
+* [FreeRDP wurde in der Version 2.4 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=FreeRDP-2.4)
+* [Hier wird euch mit `trace-cmd` gezeigt, wie Ihr Kernel tracing macht.](https://opensource.com/article/21/7/linux-kernel-trace-cmd)
+* [Völlig überraschend hat der Bundesgerichtshof festgestellt, dass die Cum-Ex-Geschäfte illegal und strafbar sind.](https://blog.fefe.de/?ts=9ffff965)
+* [>>Deutschland könnte den Atomwaffenverbotsvertrags (AVV) ohne rechtliche Hürden unterzeichnen. Auch die Mitgliedschaft in der Nato wäre davon nicht berührt.<<](https://www.sonnenseite.com/de/politik/greenpeace-studie-so-kann-deutschland-atomwaffenfrei-werden/) - Nur falls einer denkt, dies sei nicht möglich.
+* [Die Verteidiger der freien Welt haben so lange Druck auf Ecuador ausgeübt, bis Julian Assange seine Staatsbürgerschaft verliert.](https://blog.fefe.de/?ts=9fff82f4) - Und damit keiner daran Schuld hat, wir es als "verwaltungsrechtlicher Fehler" deklariert.
+* [Guter Einwand, wir leben im Jahr 2021 und dennoch gibt es kein Standard wie eine E-Mail gespeichert wird.](https://utcc.utoronto.ca/~cks/space/blog/tech/ModernEmailSearchingProblem) - Ohne einen Speicherstandard gibt es keine Standardwerkzeuge um E-Mails zu durchsuchen.
+* [Microsoft Office 2010 kann nicht mehr aktiviert werden.](https://www.borncity.com/blog/2021/07/28/microsoft-office-2010-keine-aktivierung-mehr/)
+* [>>Das Ganze ist nichts anderes als ein gigantisches Hardware-Verkaufs-Ankurbelungsprogramm, welches da mit Windows 11 gestartet wird. [...]<<](https://www.borncity.com/blog/2021/07/28/windows-11-microsoft-ama-die-hw-anforderungen-app-updates-und-weitere-einsichten/)
+* [Apache Cassandra wurde in der Version 4.0 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=Apache-Cassandra-4.0)
