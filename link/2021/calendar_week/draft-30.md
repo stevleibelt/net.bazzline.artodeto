@@ -26,3 +26,14 @@
 * [Microsoft Office 2010 kann nicht mehr aktiviert werden.](https://www.borncity.com/blog/2021/07/28/microsoft-office-2010-keine-aktivierung-mehr/)
 * [>>Das Ganze ist nichts anderes als ein gigantisches Hardware-Verkaufs-Ankurbelungsprogramm, welches da mit Windows 11 gestartet wird. [...]<<](https://www.borncity.com/blog/2021/07/28/windows-11-microsoft-ama-die-hw-anforderungen-app-updates-und-weitere-einsichten/)
 * [Apache Cassandra wurde in der Version 4.0 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=Apache-Cassandra-4.0)
+* [Am Beispiel TikTok wird gezeigt, wie heutige Profile im Netz funktionieren und warum man so wenig wie möglich preisgeben sollte.](https://netzpolitik.org/2021/datenjournalismus-tiktoks-algorithmus-draengt-zu-nischeninhalten/) - Klickst du einmal auf etwas, was außerhalb der Norm fällt, wirst du radikalisiert.
+* [`kubectl apply -f <path> --recursive`](https://www.shellhacks.com/kubectl-apply-all-files-in-directory/) - Falls Ihr mal die Änderungen eurer vielen `YAML`-Dateien mit einmal durchführen möchtet.
+* [Ich hab recht und Hackfressenbuch scheinen eine Impfflicht für ihre Mitarbeiter einzuführen.](http://blog.todamax.net/2021/google-fuehrt-die-impfpflicht-ein/)
+* [Daniel Nashed ist genau so gespannt auf TrueNas Scale wie ich.](http://blog.nashcom.de/nashcomblog.nsf/dx/truenas-scale-beta-1-this-is-freaking-awesome.htm)
+* [TrueCharts.org beherbert eine Liste von optimierten Container-Diensten für TrueNasScale.](https://truecharts.org/)
+* [OPNsense wurde in der Version 21.7 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=OPNsense-21.7)
+* [PHP 8.1 unterstützt jetzt das Hochladen von ganzen Verzeichnissen.](https://php.watch/articles/php81-directory-uploads) - Das mit dem rekursiv find ich etwas gewagt.
+* [Obwohl Freifunker eigentlich rechtlich sicher sein sollten, klagen Abmahnkanzleien wilde durch die Gegend und erreichen Rechtsunsicherheit.](https://netzpolitik.org/2021/abmahnungen-wegen-filesharing-freifunk-gute-absichten-koennen-menschen-finanziell-ruinieren/)
+* [ActivityPub scheint der Standard zu werden um das Fediverse groß werden zu lassen.](https://www.kuketz-blog.de/activitypub-das-fediverse-braucht-ein-einheitliches-protokoll/)
+* [Microsoft 365 ist kaputt, bevorzugt in Deutschland.](https://www.borncity.com/blog/2021/07/29/strung-bei-microsoft-365-2/)
+* [PHP Phive, das ist Composer aber DI für jede direkte Abhängigkeit gekapselt.](https://php.watch/articles/phive)
