@@ -37,3 +37,5 @@
 * [ActivityPub scheint der Standard zu werden um das Fediverse groß werden zu lassen.](https://www.kuketz-blog.de/activitypub-das-fediverse-braucht-ein-einheitliches-protokoll/)
 * [Microsoft 365 ist kaputt, bevorzugt in Deutschland.](https://www.borncity.com/blog/2021/07/29/strung-bei-microsoft-365-2/)
 * [PHP Phive, das ist Composer aber DI für jede direkte Abhängigkeit gekapselt.](https://php.watch/articles/phive)
+* [Manjaro wurde in der Version 21.1 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=Manjaro-21.1-Better-Btrfs) - Und Manjaro hat jetzt wohl "Atomic Backups" wenn ihr es auf Btrfs installiert.
+* [Nein? Doch! Oh? Es gibt eine gerichtliche Debatte ob >>Influencerin<<, das Steuersparmodel für Dauerwerbesendung, etwaig Schleichwerbung ist.](https://netzpolitik.org/2021/verbraucherschutz-influencerinnen-muessen-sich-vor-gericht-wegen-schleichwerbung-behaupten/)
