@@ -39,3 +39,14 @@
 * [PHP Phive, das ist Composer aber DI für jede direkte Abhängigkeit gekapselt.](https://php.watch/articles/phive)
 * [Manjaro wurde in der Version 21.1 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=Manjaro-21.1-Better-Btrfs) - Und Manjaro hat jetzt wohl "Atomic Backups" wenn ihr es auf Btrfs installiert.
 * [Nein? Doch! Oh? Es gibt eine gerichtliche Debatte ob >>Influencerin<<, das Steuersparmodel für Dauerwerbesendung, etwaig Schleichwerbung ist.](https://netzpolitik.org/2021/verbraucherschutz-influencerinnen-muessen-sich-vor-gericht-wegen-schleichwerbung-behaupten/)
+* Die Telekom und ihre LTE-Router-Sim ist so großartig, die funktioniert angeblich nur im Speedport Pro des französischen Versagerunternehmens Sagem
+* [`wsl.exe --install` geht jetzt im neusten Windows 10, `--[status|update|update rollback]` geht jetzt auch.](https://www.bleepingcomputer.com/news/microsoft/windows-10-now-lets-you-install-wsl-with-a-single-command/)
+* [Microsoft Edge wurde in der Version 92.0.902.62 veröffentlich. Damit soll der PDF-Freeze behoben wurden sein.](https://www.borncity.com/blog/2021/07/30/edge-92-0-902-62-fixt-pdf-freeze-problem/)
+* [eBPF unter Linux macht root privilege einfach möglich.](https://www.bleepingcomputer.com/news/security/linux-ebpf-bug-gets-root-privileges-on-ubuntu-exploit-released/)
+* [Der `UC Browser` ist eine reine Werbe- und Trackingschleuder.](https://www.kuketz-blog.de/uc-browser-datensendeverhalten-android-app-browser-check-teil17/)
+* [Outing vs. Ist mir egal wen du fickst.](https://tuxproject.de/blog/2021/07/worueber-man-halt-so-redet/)
+* [Das Internet Archiv wird 25 Jahre.](https://netzpolitik.org/2021/jubilaeum-des-internet-archive-die-allumfassende-bibliothek-wird-25/)
+* [Windows Bitlocker Verschlüsselung ist kaputt, trotz TPM.](https://www.borncity.com/blog/2021/07/30/windows-bitlocker-verschlsselung-trotz-tpm-ausgehebelt/)
+* [Wenn ihr bei O2 einen Vertrag unterschriebt, gebt ihr quasi eure Leben auf.](https://netzpolitik.org/2021/weitere-o2-haendler-packen-aus-haekchen-setzen-ohne-datenschutz-aufklaerung/)
+* [Rust wurde in der Version 1.54.0 veröffentlicht.](https://blog.rust-lang.org/2021/07/29/Rust-1.54.0.html)
+* [Hier gibt es etwas PHP Geschichte zum Thema Objekten.](https://stitcher.io/blog/evolution-of-a-php-object)
