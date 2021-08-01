@@ -50,3 +50,6 @@
 * [Wenn ihr bei O2 einen Vertrag unterschriebt, gebt ihr quasi eure Leben auf.](https://netzpolitik.org/2021/weitere-o2-haendler-packen-aus-haekchen-setzen-ohne-datenschutz-aufklaerung/)
 * [Rust wurde in der Version 1.54.0 veröffentlicht.](https://blog.rust-lang.org/2021/07/29/Rust-1.54.0.html)
 * [Hier gibt es etwas PHP Geschichte zum Thema Objekten.](https://stitcher.io/blog/evolution-of-a-php-object)
+* [Olaf Schulz und die SPD, da müssten die Versicherungen jetzt zahlen und statt das einzufordern, will Oli lieber den Bund der Steuerzahler dazu verpflichten zu zahlen.](https://blog.fefe.de/?ts=9ff8576e)
+* [Craig Murray, der einzige neutrale Prozessbeobachter bei Julian Assange, muss jetzt auch ins Gefängnis.](https://blog.fefe.de/?ts=9ffbb752) - Wie offensichtlich die "freie Welt" hier den Mittelfinger gegenüber ihre Insassen erhebt. Gesetze und Rechte? Alles nur Schall und Rauch.
+* [Wow, in Luxemburg muss Amazon 746 Millionen Euro Strafe wegen ihrer Werbetracker zahlen.](https://blog.fefe.de/?ts=9ffbfb97)
