@@ -1,1 +1,13 @@
 * [Mit dem Registry Explorer macht die Windows Registry deutlich mehr Spaß.](https://www.bleepingcomputer.com/news/microsoft/registry-explorer-is-the-registry-editor-every-windows-user-needs/)
+* [Gemeinnützige Vereinen helfen dem Volk, oder warum sonst fangen Politiker an immer mehr gemeinnützigen Vereinen eben jene Gemmeinnützigkeit abzuerkennen?](https://freiheitsrechte.org/gemeinnuetzigkeit/)
+* [Passend zum Thema Gemmeinnützigkeit, hier wird euch gezeigt, wie das Recht auf Gemmeinnützigkeit aussehen könnte.](https://freiheitsrechte.org/faq-demokratiestaerkungsgesetz/)
+* [Lferando, ein erlaubter Monopolist der natürlich gegen seine Lohnsklaven ist.](https://netzpolitik.org/2021/arbeit-lieferando-und-seine-betriebsraete/)
+* [Hier wird euch gezeigt, wie ihr Kubermatic auf der Hetzner Cloud installiert.](https://shibumi.dev/posts/kubermatic-on-hetzner/)
+* [Die Grünen zeigen ganz offen, dass sie vier Jahre nichts machen wollen, wenn sie denn gewählt werden.](https://tuxproject.de/blog/2021/08/eine-mannin/)
+* [Die Lutris Beta 0.5.9 bringt den Epic Game Store mit sich.](https://www.phoronix.com/scan.php?page=news_item&px=Lutris-0.5.9-Beta) - Wow! Und danke für eure Arbeit. Die Unterstützung für GOG, DOSBOX und ScrummVM wurde auch verbesser.
+* [Passt mir mit "USB to RJ45"-Adaptern auf, gern ist da ein Minirechner versteckt der alles vom PC und im Netzwerk mitlesen kann.](https://scheible.it/lan-turtle-von-hak5-einrichten/)
+* [Der "Club of Rome" hatte recht, der Wachstumwahn wird von selbst geklärt, ob durch Rohstoffmangel oder einer Verschmutzngskriese ist am Ende doch egal.](https://www.sonnenseite.com/de/zukunft/was-wir-tun-muessen-damit-die-zivilisation-an-den-grenzen-des-wachstums-nicht-kollabiert/)
+* [Microsoft Windows PrintNightmare ist weiterhin ein Problem. Der letzte Patch hat nur eine "Kurve" auf der Straße zu "All your base belong to us" eingepatched.](https://www.bleepingcomputer.com/news/microsoft/remote-print-server-gives-anyone-windows-admin-privileges-on-a-pc/)
+* [Helft der GGF, damit sie uns gegen den Upload-Filter helfen kann.](https://freiheitsrechte.org/aufruf-illegale-sperrungen/)
+* [Die Sparkasse will euch jetzt deren `S-ID-Check-App` unterjubeln.](https://www.borncity.com/blog/2021/08/01/sicherheit-und-die-s-id-check-app-der-sparkassen/) - Wenn es unbedingt sein muss, nehmt smsTan/mTan. Besser ist es, Onlinebanking nur zu Hause und NIE von einem Schmierphone aus zu machen.
+* [Und Torch sang schon ... >>Die Welt brennt, Flammen auf jedem Kontinent. Schreiben unser Testament auf Pergament und scheinen permanent. [...]<<](https://netzfrauen.org/2021/07/31/wildfire/)
