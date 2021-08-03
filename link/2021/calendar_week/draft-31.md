@@ -11,3 +11,12 @@
 * [Helft der GGF, damit sie uns gegen den Upload-Filter helfen kann.](https://freiheitsrechte.org/aufruf-illegale-sperrungen/)
 * [Die Sparkasse will euch jetzt deren `S-ID-Check-App` unterjubeln.](https://www.borncity.com/blog/2021/08/01/sicherheit-und-die-s-id-check-app-der-sparkassen/) - Wenn es unbedingt sein muss, nehmt smsTan/mTan. Besser ist es, Onlinebanking nur zu Hause und NIE von einem Schmierphone aus zu machen.
 * [Und Torch sang schon ... >>Die Welt brennt, Flammen auf jedem Kontinent. Schreiben unser Testament auf Pergament und scheinen permanent. [...]<<](https://netzfrauen.org/2021/07/31/wildfire/)
+* [Hier packt jemand drei neue Ebenen in das OSI-Schichten-Model ein, Benutzer, Organisation und Regierung.](https://www.opensourcerers.org/2021/08/02/securing-layer-8/)
+* [dav1d wurde in der Version 0.9.1 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=Dav1d-0.9.1-Released)
+* [Hier wird euch erklärt, wie ihr APPX oder APPXBundle Dateien für die Offlineinstallation aus dem Microsoft Windows Store herunter ladet.](http://woshub.com/how-to-download-appx-installation-file-for-any-windows-store-app/)
+* [Kuketz führt euch hier in die Benutzung von nftables ein.](https://www.kuketz-blog.de/nftables-firewall-einstellungen-digitaler-schutzschild-teil12/)
+* [Upsi, das französische Cerba-Labor verliert ungenannt viele Personendaten wie Name, Geschlecht, Geburtsdatum, Krankheit etc.](https://www.borncity.com/blog/2021/08/02/datenschutzvorfall-bei-franzsischem-cerba-labor-trifft-ketterhill-in-luxemburg-und-wen-noch/)
+* [Der Nextcloud Desktop Client wurde in der Version 3.3 veröffentlicht.](https://nextcloud.com/blog/desktop-sync-client-3-3-improves-reliability-and-performance/)
+* [Microsoft schaltet für Windows 10 21H1 und Windows 11 eine automatische Blockade von "unerwünschten Anwendungen" an.](https://www.borncity.com/blog/2021/08/03/windows-10-blockt-standardmig-unerwnschte-anwendungen-pua/) - Kurzum, solange Microsoft nicht möchte, könnt ihr keine neue Version euer benötigten Software installieren.
+* [WireGuard kommt eventuell für Windows NT, als Kernel-Modul.](https://www.phoronix.com/scan.php?page=news_item&px=WireGuardNT-Windows-Kernel)
+* [npm ist an noch einer Stelle kaputt `- `.](https://www.bleepingcomputer.com/news/software/empty-npm-package-has-over-700-000-downloads-heres-why/)
