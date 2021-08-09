@@ -1,0 +1,12 @@
+* [Mit dem Paket `alt_getopt` parst ihr in lua wunderschön eure Kommandozeile.](https://opensource.com/article/21/8/parsing-commands-lua)
+* [Den iCab Mobile kann man unter iOs wohl nutzen.](https://www.kuketz-blog.de/icab-mobile-datensendeverhalten-ios-app-browser-check-teil18/)
+* [Microsoft tut gerade so, als würden sie wirklich auf Nutzer hören wollen und ihr Windows 11, welches schon im Status RC ist, noch einmal grundlegend ändern.](https://www.bleepingcomputer.com/news/microsoft/windows-11-is-coming-soon-but-users-want-these-features-back/) - "Ich kann Sie verstehen" - Und lege ihre Wünsche auf den wichtigen Aktenstapel *Schreddergeräusch*
+* [0 A.D. wurde in der Alpha 25 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=0-AD-Alpha-25)
+* [Bei openstreetmaps geht es um Liebe :-).](https://opensource.com/article/21/8/openstreetmap)
+* [Die Bibliothek `net` in `Rust` und `Go` ist kaputt.](https://www.bleepingcomputer.com/news/security/go-rust-net-library-affected-by-critical-ip-address-validation-vulnerability/)
+* [Wie vieles aus dem Supermarkt, so ist auch die Eisverpackung eigentlich gefährlicher Sondermüll.](https://www.sonnenseite.com/de/tipps/eisverpackungen-nicht-weiterverwenden/)
+* [Amazon Kindle ist kaputt.](https://www.borncity.com/blog/2021/08/06/amazon-kindle-sicherheitslcke-ermglichte-amazon-kontenbernahme/)
+* [Gigabyte ist kaputt.](https://www.bleepingcomputer.com/news/security/computer-hardware-giant-gigabyte-hit-by-ransomexx-ransomware/)
+* [Kommen App-Stores und App-Publisher den gesetzlichen Verpflichtungen nach? Nein](https://www.kuketz-blog.de/bundeskartellamt-sektoruntersuchung-mobile-apps/)
+* [Wenn ihr google-drive benutzt, dürft ihr nur "gute Daten" drauf haben. Was gut ist, definiert "Ich hab recht" für euch.](http://n-gate.com/hackernews/2021/07/21/0/)
+* [Kubernetes ist das Multics unserer Generation.](http://n-gate.com/hackernews/2021/07/21/0/)
