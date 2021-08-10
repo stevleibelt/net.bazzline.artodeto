@@ -10,3 +10,13 @@
 * [Kommen App-Stores und App-Publisher den gesetzlichen Verpflichtungen nach? Nein](https://www.kuketz-blog.de/bundeskartellamt-sektoruntersuchung-mobile-apps/)
 * [Wenn ihr google-drive benutzt, dürft ihr nur "gute Daten" drauf haben. Was gut ist, definiert "Ich hab recht" für euch.](http://n-gate.com/hackernews/2021/07/21/0/)
 * [Kubernetes ist das Multics unserer Generation.](http://n-gate.com/hackernews/2021/07/21/0/)
+* [Apple gibt ganz offen zu, dass sie all eure verschlüsselten Daten lesen können und dies auch tun.](https://blog.fefe.de/?ts=9fee3280)
+* [Buffalo und Arcadyan sind kaputt und damit Speedport Smart 3 und die Easybox.](https://blog.fefe.de/?ts=9ff3e839)
+* [HCL Traveler 12.0 wurde im Fix Pack 1 veröffentlicht.](https://n-komm.de/hcl-traveler-12-0-fix-pack-1-erschienen/)
+* [Das Stadtradeln beginnt wieder.](https://www.stadtradeln.de/freiberg-sachsen)
+* [Statt Seide lieber Baumwolle oder Hanf?](https://www.careelite.de/ist-seide-vegan-nachhaltig/)
+* [>>In Konstanz, der ersten deutschen Stadt, die den Energienotstand ausgerufen hat, will Energieberater Hans-Joachim Horn die Menschen davon überzeugen, ihren Strom selbst zu produzieren.<<](https://www.sonnenseite.com/de/tipps/welchen-preis-zahlen-wir-fuer-die-energiewende/)
+* [Eine Million Kreditkartendaten wurden, aus Werbezwecke, veröffentlicht.](https://www.bleepingcomputer.com/news/security/one-million-stolen-credit-cards-leaked-to-promote-carding-market/) - Da kann man sich vorstellen um welche Massen an Daten es da geht, wenn der Anbieter mal eben so eine Million Datensätze verschenkt.
+* [Kingston will eine microSD-Karte in Industriequalität anbieten.](https://www.borncity.com/blog/2021/08/10/industrial-microsd-von-kingston/) - Ich bin auf dem Preis gespannt, Interesse hab ich.
+* [Hier wird euch gezeigt, wie ihr Treiber von einem Windows System exportiert und wieder importiert.](https://www.borncity.com/blog/2021/08/10/treiber-unter-windows-in-ordner-exportieren-und-wieder-importieren/)
+* [Apple baut dann mal offiziell eine Überwachungsinfrastruktur aus und öffnet die Büchse der Pandora.](https://netzpolitik.org/2021/privatsphaere-apple-faellt-um/)
