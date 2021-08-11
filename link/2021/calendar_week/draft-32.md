@@ -20,3 +20,15 @@
 * [Kingston will eine microSD-Karte in Industriequalität anbieten.](https://www.borncity.com/blog/2021/08/10/industrial-microsd-von-kingston/) - Ich bin auf dem Preis gespannt, Interesse hab ich.
 * [Hier wird euch gezeigt, wie ihr Treiber von einem Windows System exportiert und wieder importiert.](https://www.borncity.com/blog/2021/08/10/treiber-unter-windows-in-ordner-exportieren-und-wieder-importieren/)
 * [Apple baut dann mal offiziell eine Überwachungsinfrastruktur aus und öffnet die Büchse der Pandora.](https://netzpolitik.org/2021/privatsphaere-apple-faellt-um/)
+* [Sachsen-Anhalt zeigt die Denkweise von CDU/SPD/FDP (fast der ganzen Blockpartei also), Ja zum Auto, Ja zum Flugzeug, Ja zur Braunkohle.](https://blog.fefe.de/?ts=9feca221)
+* [Apple verschlüsselt eure Sicherungen jetzt doch nicht.](https://blog.fefe.de/?ts=9fec9038) - Das FBI fand die Idee blöd.
+* [Hätte uns nur jemand beim Klima gewarnt ... ach verdammt, wir wurden schon 1970 gewarnt? Hätte nur jemand zugehört.](https://www.sonnenseite.com/de/umwelt/klima-auf-der-kippe/)
+* [QNAP und Synology sind, dank eChoraix, beide kaputt.](https://www.bleepingcomputer.com/news/security/ech0raix-ransomware-now-targets-both-qnap-and-synology-nas-devices/)
+* [Mozilla Firefox wurde in der Version 91 veröffentlicht.](https://www.mozilla.org/en-US/firefox/91.0/releasenotes/)
+* [Elementary OS wurde in der Version 6.0 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=Elementary-OS-6.0)
+* [NewPipe wurde in der Version 0.21.8 veröffentlicht.](https://newpipe.net/blog/pinned/release/newpipe-0.21.8-released/)
+* [VirtualBox wurde in der Version 6.1.26 veröffentlicht.](https://www.borncity.com/blog/2021/08/11/virtualbox-6-1-16-freigegeben-2/)
+* [Gutes Beispiel warum Geheimdienste abgeschafft gehören, am Beispiel in diesem Text wird eine Menschenrechtsorganisation seit 15 Jahren überwacht - ohne echten Grund.](https://netzpolitik.org/2021/schweiz-geheimdienst-ueberwacht-menschenrechtsorganisation-seit-15-jahren/)
+* [Der Verein >>Welterbe Montanregion Erzgebirge e.V.<< stellt pro Projek 2.000 Euro und insgesammt 200.000 Euro für Projekte zur Verfügung.](https://knappenverein.de/breite-unterstuetzung-fuer-welterbe-aktive-welterbe-montanregion-erzgebirge-e-v-unterstuetzt-projekte-in-der-region-2/)
+* [Ein kleiner Schritt in die richtige Richtung, die Polizei darf in Köln nicht mehr alles überwachen sowie aufnehmen.](https://netzpolitik.org/2021/gerichtsbeschluss-koelner-polizei-darf-bei-videoueberwachung-nicht-machen-was-sie-will/)
+* [Microsoft Exchange ist kaputt.](https://www.borncity.com/blog/2021/08/10/exchange-server-neues-zu-den-proxyshell-schwachstellen/)
