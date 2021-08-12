@@ -32,3 +32,16 @@
 * [Der Verein >>Welterbe Montanregion Erzgebirge e.V.<< stellt pro Projek 2.000 Euro und insgesammt 200.000 Euro für Projekte zur Verfügung.](https://knappenverein.de/breite-unterstuetzung-fuer-welterbe-aktive-welterbe-montanregion-erzgebirge-e-v-unterstuetzt-projekte-in-der-region-2/)
 * [Ein kleiner Schritt in die richtige Richtung, die Polizei darf in Köln nicht mehr alles überwachen sowie aufnehmen.](https://netzpolitik.org/2021/gerichtsbeschluss-koelner-polizei-darf-bei-videoueberwachung-nicht-machen-was-sie-will/)
 * [Microsoft Exchange ist kaputt.](https://www.borncity.com/blog/2021/08/10/exchange-server-neues-zu-den-proxyshell-schwachstellen/)
+* [Warnmeldungen im Katastrophenfall dürfen in Deutschland nur an die Bevölkerung ausgegeben werden, wenn das Urheberrecht stimmt.](https://blog.fefe.de/?ts=9fea9447)
+* [Die NSA kauft sich für 10 Milliarden USD bei amazon ein.](https://blog.fefe.de/?ts=9fea9358)
+* [Biontech, das ist eine Firma bei der wir Steuerzahler das Erforschen, das aufbauen der Produktionsstrecken und zum Schluss das Herstellen des Produktes finanzieren.](https://blog.fefe.de/?ts=9fed132c) - Bei 5,3 Milliarden Euro Umsatz macht die Firma damit 2,8 Milliarden Euro Gewinn. Ach und die Blockpartei hat schon jetzt weitere Impfdosen bis 2023 bestellt.
+* [Nein? Doch! Oh? Uber macht jetzt doch niemals Gewinne.](https://blog.fefe.de/?ts=9fed7361)
+* [Hier gibt es einen regen Gedankenaustausch über das Thema Selbstoptimierung.](https://www.henning-uhle.eu/allgemein/selbstoptimierung-fuer-die-tonne-bitte)
+* [Danke Microsoft, der JIT in den Chromebrowsern bringt nichts, außer eine Menge Bugs.](https://blog.fefe.de/?ts=9febc2aa) - Da Frag ich mich, warum google keine Tests ohne JIT fährt. Ich muss doch messen ob sich der Aufwand lohnt.
+* [netzpolitik.org führt ab heute ein Dossier zum Thema staatlicher Überwachung.](https://netzpolitik.org/2021/neues-dossier-zu-ueberwachung-auf-dem-laufenden-bleiben/)
+* [Thunderbird wurde in der Version 78.13.0 veröffentlicht.](https://www.borncity.com/blog/2021/08/11/thunderbird-78-13-0/)
+* [Eine Bürgerin hat die inoffizielle >>Bundesstelle für Open Data<< erstellt, da es die Bundesregierung und die Blockpartei seit Jahrzehnten nicht wollen.](https://netzpolitik.org/2021/open-data-aktivistinnen-handeln-der-staat-schaut-zu/)
+* [Hier wird euch gezeigt, wie ihr eurem Zertifikatsdiens im AD zu SHA-2 und KSP migriert.](https://www.windowspro.de/brandon-lee/active-directory-zertifikatsdienste-zu-sha-2-ksp-migrieren)
+* [Thunderbird wurde in der Version 91 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=Thunderbird-91-Released)
+* [`pstree --show-pids`](https://opensource.com/article/21/8/linux-procps-ng)
+* [CO2-Steuer? Warum nicht für das Wegwerfen von Lebensmittel?](https://www.sonnenseite.com/de/umwelt/lebensmittelabfaelle-verursachen-33-milliarden-tonnen-co2/)
