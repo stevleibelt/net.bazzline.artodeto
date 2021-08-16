@@ -1,0 +1,1 @@
+* [In Afghanistan wurden im übrigen schon vor 12 Jahren große Lithium-Vorkommen gefunden.](https://blog.fefe.de/?ts=9fe4ac46) - Nur falls sich einer fragt warum da gerade wieder der Völkermord von der einzig wahren Weltmacht an die Spitze gebombt wurde.
