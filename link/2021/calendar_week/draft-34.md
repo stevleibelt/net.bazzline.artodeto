@@ -1,1 +1,22 @@
 * [In Afghanistan wurden im übrigen schon vor 12 Jahren große Lithium-Vorkommen gefunden.](https://blog.fefe.de/?ts=9fe4ac46) - Nur falls sich einer fragt warum da gerade wieder der Völkermord von der einzig wahren Weltmacht an die Spitze gebombt wurde.
+* [Das auswärtige Amt muss niemans aus Afghanistan holen, weil dort alle seit Jahren in die Scheinselbständigkeit getrieben wurden.](https://blog.fefe.de/?ts=9fe0ff3a)
+* [Maas wurden Außenminister, nicht weil er Erfahrung hatte, sondern weil er einfach übrig war.](https://blog.fefe.de/?ts=9fe23b50) - Stellt euch vor, ihr werdet Schichtleiter in einem Beruf den ihr noch nie gemacht habt und von dem Menschenleben abhängig sind, nur weil halt gerade kein anderer da war.
+* [Apples Kinderporno-Suchfunktion ist aus dem Stand verkackt.](https://blog.fefe.de/?ts=9fe22070) - Damit kannst du also jemand anderen Bilder unterschieben, die Person sieht es nicht, weil es nichts anstößiges ist, wird dann aber trotzdem von der Polizei abgeführt und pro Forma als KiPo-Mensch abgestempelt.
+* [Was passiert mit Daten die erfasst werden? Sie gehen verloren, so den USA mit ihrer kleinen no-fly-Liste. Sind ja nur 2 Millionen Datensätze.](https://blog.fefe.de/?ts=9fe5676d)
+* [Die Telekommunikationskonzerne zeigen warum man sie anbrennen sollte, nicht nur, dass sie für das anschalten einer vorhandenen Technologie Unsummen verlangen, jetzt wollen Sie auch noch jede SMS abrechnen.](https://netzpolitik.org/2021/einfuehrung-von-cell-broadcast-rueckt-naeher/) - Das Beste kommt noch, auf einmal ist denen der Datenschutz wichtig, der Staat darf nicht wissen an welches Telefon die SMS geht. Kurzum, es wird immer zu viel berechnet werden. Und mit Sicherheit kostet so eine Notfallsms 50 Eurocent oder mehr das Stück.
+* [LibreOffice Community wurde heute in der Version 7.2 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=LibreOffice-7.2-Community)
+* [Nextclouds Android Client wurde in der Version 3.17 veröffentlicht.](https://nextcloud.com/blog/android-client-3-17-released-with-a-new-video-player-ui-improvements-and-more/)
+* [Hier wird euch gezeigt, wie ihr Flags in eurem C CLI-Programm auslest.](https://opensource.com/article/21/8/short-option-parsing-c)
+* [Wenn ihr an Mali denkt, müsst ihr an Frankreichs Hunger nach atomar spaltbaren Elementen denken.](https://netzfrauen.org/2021/08/18/mali/)
+* [Go wurde in der Version 1.17 veröffentlicht.](https://lwn.net/Articles/866496/rss)
+* [Scheuerandi performt wie man es erwartet, seine Funklochbehörde macht Ihn und seine Familie reich, das geplante Ziel der Personalkosten hat er jetzt schon um den Faktor drei erhöht.](https://netzpolitik.org/2021/scheuers-funklochamt-dreimal-teurer-als-geplant/) - Schön auch, es gibt gleich zwei Geschäftsführer und da man von 170.000 Euro Brutto kaum leben kann, kommen noch einmal 120.000 Euro Zusatzleistung hinzu.
+* [HCL Notes und Domino 12 haben Panagenda's MarvelClient Essentials schon von Haus aus dabei.](https://www.panagenda.com/blog/notes-12-is-live-and-so-is-marvelclient-12/)
+* [Git wurde in der Version 2.33.0 veröffentlicht.](https://lwn.net/Articles/866524/rss)
+* [Hier schreibt sich ein Grund- und Menschenrechtler seinen Frust gegenüber der Bundesregierung zum Verhalten in Afghanistan von der Seele.](https://netzpolitik.org/2021/afghanistan-die-ganze-verlogenheit-der-bundesregierung/)
+* [Manjaro wurde in der Version 21.1 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=Manjaro-21.1-Released)
+* [Firefox wurde in den Versionen 91.0.1 und 91.0.1 ESR veröffentlicht.](https://www.borncity.com/blog/2021/08/18/firefox-91-0-1-und-91-0-1-esr/)
+* [Thunderbird wurde in der Version 91.0.1 veröffentlicht.](https://www.borncity.com/blog/2021/08/18/thunderbird-91-0-1/)
+* [Ihr wollt immer die neuste Proton Version? `protonup` will hier eine Alternative sein.](https://www.onli-blogging.de/2065/Mit-protonup-leichter-das-neueste-Proton-GE-installieren.html)
+* [Synology ist kaputt.](https://www.borncity.com/blog/2021/08/18/sicherheitswarnung-fr-synology-diskstation-manager-und-uc-skynas/)
+* [Github.com will jetzt auch 2FA.](https://www.bleepingcomputer.com/news/security/github-urges-users-to-enable-2fa-after-going-passwordless/) - Nicht nur Passwortmanager, jetzt brauch ich auch noch einen TOTP-Manager
+* [Hier werden euch die Neuerungen vom Windows 10 21H2 erläutert.](https://www.bleepingcomputer.com/news/microsoft/new-windows-10-21h2-build-comes-with-improved-wifi-security/)
