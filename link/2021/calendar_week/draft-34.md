@@ -20,3 +20,18 @@
 * [Synology ist kaputt.](https://www.borncity.com/blog/2021/08/18/sicherheitswarnung-fr-synology-diskstation-manager-und-uc-skynas/)
 * [Github.com will jetzt auch 2FA.](https://www.bleepingcomputer.com/news/security/github-urges-users-to-enable-2fa-after-going-passwordless/) - Nicht nur Passwortmanager, jetzt brauch ich auch noch einen TOTP-Manager
 * [Hier werden euch die Neuerungen vom Windows 10 21H2 erläutert.](https://www.bleepingcomputer.com/news/microsoft/new-windows-10-21h2-build-comes-with-improved-wifi-security/)
+* [Hackfressenbuch tut es der Blockpartei gleich, statt sich dem Gesetz zu beugen wird erst einmal so getan als würde man sich um den Datenschutz kümmern - indem man etwas eigenen Erfinden.](https://netzpolitik.org/2021/neuer-report-facebook-kocht-eigenes-daten-sueppchen-zur-imagepflege/)
+* [Die, von Steuergelder finanzierte, Luca-Anwendung ist ein Paradebeispiel wie die Blockpartei aus CDU/CSU/SPD/Die Grünen Politik macht.](https://www.borncity.com/blog/2021/08/19/posse-luca-app-teuer-nutzen-zweifelhaft-und-prfung-verweigert/)
+* [Das Wahlrecht bleibt auch 2021 in Deutschland nicht verfassungskonform.](https://verfassungsblog.de/weiter-warten-auf-verfassungskonformes-wahlrecht/)
+* [Wisst ihr was die, jährlich mit Gewinnausschüttung beglücken, Automobilbranche dringend braucht? Ein Zeichen, dass es richtig ist Gewinne zu privatisieren! Bis 2025 stellt die Bundesregierung über eine Milliarde Euro für Forschung und Entwicklung bereit.](https://netzpolitik.org/2021/von-wegen-klimaschutz-die-bundesregierung-macht-eine-milliarde-euro-fuer-die-autoindustrie-locker/) - Das passt doch perfekt zu meiner Aussage gegenüber der Luca-App, dort wurde die Entwicklung auch durch Steuerzahler bezahlt und anschließend forderte die Firma um Smudo noch Lizenzkosten in Millionenhöhe.
+* [Cisco ist kaputt.](https://www.bleepingcomputer.com/news/security/hackers-can-bypass-cisco-security-products-in-data-theft-attacks/)
+* [Mesa wurde in der Version 21.2.1 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=Mesa-21.2.1-Released)
+* [Windows Server wurde in der Version 2022 LTSC veröffentlicht.](https://www.borncity.com/blog/2021/08/19/windows-server-2022-ltsc-ist-da/)
+* [Das Forum Nachhaltiger Geldanlagen e.V. übermittelt der Europäischen Kommission einen Offenen Brief zum Ausschluss von Atomkraft in der EU-Taxonomie.](https://www.sonnenseite.com/de/wirtschaft/offener-brief-an-die-eu-kommission-atomkraft-keine-nachhaltige-energieerzeugung/)
+* [Nein? Doch! Oh? Microsoft erhöht seine Cloud-Preise um bis zu 20 Prozent.](https://www.borncity.com/blog/2021/08/20/microsoft-365-es-wird-teurer-in-2022/)
+* [LinkedIn ist kaputt, nahezu jeder Nutzer kann Angebote erstellen und damit massig Daten generieren.](https://www.bleepingcomputer.com/news/security/you-can-post-linkedin-jobs-as-almost-any-employer-so-can-attackers/)
+* [SixtyFPS ist ein freies Toolkit für RUST, C++ und JavaScript welches in der Version 0.1 veröffentlicht wurde.](https://www.phoronix.com/scan.php?page=news_item&px=SixtyFPS-0.1-Rust-Toolkit)
+* [Panagenda stellt euch hier die drei wichtigsten Schritte vor, wie ihr eure Domino-Umgebung absichert.](https://www.panagenda.com/blog/3-secrets-about-your-hcl-domino-server-security/)
+* [Hier wird euch gezeigt, wie ihr die Verzeichnisgröße via PowerShell kalkuliert. Das beste was ich daran gelernt habe ist das `Measure-Object`.](http://woshub.com/powershell-get-folder-sizes/)
+* [Hier wird euch erklärt was es für Möglichkeiten, in der freien Softwarewelt, gibt, um Datenbank Replikation zu ermögliche.](https://opensource.com/article/21/8/database-replication-open-source)
+* [Onlyfans macht sich selber kaputt und entfernt alle Pornos.](https://blog.fefe.de/)
