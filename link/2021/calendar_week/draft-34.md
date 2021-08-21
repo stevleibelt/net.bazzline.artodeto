@@ -20,3 +20,10 @@
 * [Synology ist kaputt.](https://www.borncity.com/blog/2021/08/18/sicherheitswarnung-fr-synology-diskstation-manager-und-uc-skynas/)
 * [Github.com will jetzt auch 2FA.](https://www.bleepingcomputer.com/news/security/github-urges-users-to-enable-2fa-after-going-passwordless/) - Nicht nur Passwortmanager, jetzt brauch ich auch noch einen TOTP-Manager
 * [Hier werden euch die Neuerungen vom Windows 10 21H2 erläutert.](https://www.bleepingcomputer.com/news/microsoft/new-windows-10-21h2-build-comes-with-improved-wifi-security/)
+* [OpenSSH wurde in der Version 8.7 veröffentlicht.](https://lwn.net/Articles/866926)
+* [Da wurde noch einmal durchgezählt, die Sicherheitsschwachstelle bei T-Mobile in den USA betrifft jetzt 54 Millionen Endkunden.](https://www.bleepingcomputer.com/news/security/t-mobile-data-breach-just-got-worse-now-at-54-million-customers/)
+* [Bei den HTTP DDos Attacken sind wir jetzt bei 17 Millionen Anfragen pro Sekunden.](https://www.bleepingcomputer.com/news/security/http-ddos-attacks-reach-unprecedented-17-million-requests-per-second/) - Nur falls einer von euch denkt, dass eine Firewall nutzloser kram ist und dass eure Plasterouter diesen Ansturm locker verkraften.
+* [AT&T hat auch 70 Millionen Kundendaten verloren, tut aber so als wäre das nicht so.](https://www.bleepingcomputer.com/news/security/atandt-denies-data-breach-after-hacker-auctions-70-million-user-database/) - Ist klar, das sind dezentrale Backups, oder? ;-)
+* [Auch Intels Alder-Lake kommt einfach nicht an AMDs Zen Architektur heran.](https://www.3dcenter.org/news/intel-stellt-alder-lake-prozessoren-architektur-vor-und-verspricht-19-ipc-gewinn-bei-den-grosse)
+* [Sollte eurer Alt-Tab unter Windows 10 nicht mehr funktionieren, dann könnte es am aktuellen Windows Patch liegen?](https://www.borncity.com/blog/2021/08/21/windows-10-update-kb5005033-strt-alt-tab-funktionalitt/)
+* [Proton wurde in der Version 6.3-6 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=Proton-6.3-6-Released)
