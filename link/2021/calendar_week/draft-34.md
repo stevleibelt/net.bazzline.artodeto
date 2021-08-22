@@ -42,3 +42,8 @@
 * [Hier wird euch gezeigt, wie ihr die Verzeichnisgröße via PowerShell kalkuliert. Das beste was ich daran gelernt habe ist das `Measure-Object`.](http://woshub.com/powershell-get-folder-sizes/)
 * [Hier wird euch erklärt was es für Möglichkeiten, in der freien Softwarewelt, gibt, um Datenbank Replikation zu ermögliche.](https://opensource.com/article/21/8/database-replication-open-source)
 * [Onlyfans macht sich selber kaputt und entfernt alle Pornos.](https://blog.fefe.de/)
+* [Microsoft Exchange werden jetzt zu haufenweise mit LockFile aufgemacht.](https://www.bleepingcomputer.com/news/security/microsoft-exchange-servers-being-hacked-by-new-lockfile-ransomware/)
+* [Hier wird euch von einer Drei-Tages-Tour an der Freiberger Mulde erzählt.](https://www.mdr.de/nachrichten/sachsen/chemnitz/freiberg/urlaub-sommer-ferien-radtour-freiberger-mulde-100.html)
+* [In Spaniens Region Murcia kippt das Klima, tote Fische überall wo man schauen kann.](https://netzfrauen.org/2021/08/22/spain-8/)
+* [Die Stadt Wien veröffentlicht einen Leitfaden wie man Solaranlagen und Dachbegrünung in den Städten vorantreiben kann.](https://www.sonnenseite.com/de/energie/solaranlagen-und-dachbegruenung/)
+* [Laschet zeigt, wohin es mit der CDU get, wenn jemand so verrückt ist und sie wählt.](https://blog.fefe.de/?ts=9fdf8466)
