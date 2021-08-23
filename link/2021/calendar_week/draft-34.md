@@ -1,1 +1,3 @@
-* [
+* [Der Wechsel von Python2 zu Python3 ist ein Beispiel wie schwer es ist, wenn man nicht Zeit bekommt seine Software an den aktuellen Stand der Technik zu halten.](https://utcc.utoronto.ca/~cks/space/blog/python/Python2WithoutDistros) - Irgendwann kommt der Punkt, dass es zu viele alte Programme gibt und der Aufwand so groß ist, dass man ihn nur noch mit Produktionsausfall aufholen kann.
+* [Hier wird euch gezeigt, wie ihr mit dem baldig erscheinenden mkinitcpio v31 ein UEFI-Stub baut.](https://linderud.dev/blog/mkinitcpio-v31-and-uefi-stubs/)
+* [Jitsi Meet wurde in der Version 2.0.6173 veröffentlicht.](https://scheible.it/neue-version-von-jitsi-meet-veroeffentlicht/)
