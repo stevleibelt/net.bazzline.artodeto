@@ -20,3 +20,13 @@
 * [Firefox wurde in der Version 91.0.2 veröffentlicht.](https://www.borncity.com/blog/2021/08/25/firefox-91-0-2-verfgbar/)
 * [Nein? Doch! Oh? Langsam merkt man, dass die KI-Idee mit ihren Trainingsdaten eine doofe Sache ist.](https://netzpolitik.org/2021/sprachverarbeitende-ki-basismodelle-von-google-und-co-oeffnen-diskriminierung-tuer-und-tor/) - Ich ziehe hier ein Vergleich heran, wenn Krieg den meisten Teil in einem Nachschlagewerk aufnimmt, denkt jeder Leser, dass Krieg ein elementarer Bestandteil des menschlichen Lebens sein muss. So geht es einer KI, wenn diese mit Trainingsdaten gefüttert wird.
 * [Hier wird euch der Tackle Test Generator für Java vorgestellt.](https://opensource.com/article/21/8/tackle-test)
+* [Daniel Nashed schreibt hier einmal nieder, wie er HCL Domino V12 installieren würde.](http://blog.nashcom.de/nashcomblog.nsf/dx/introducing-domino-on-linux-one-touch-install.htm)
+* [Am Beispiel von Afrika sieht man, warum in Afghanistan noch immer Krieg ist. Es geht um Rohstoffe, sonst nichts.](https://netzfrauen.org/2021/08/25/entwicklungshilfe-4/) - Ach und die weltgrößte Volkswirtschaft China erhält 150 Millionen Euro Entwicklungshilfe von Deutschland *hust* Veruntreuung von Volksvermögen!
+* [Eine Stadt in New Hampshire hat 2,3 Millionen USD verloren.](https://www.bleepingcomputer.com/news/security/new-hampshire-town-loses-23-million-to-overseas-scammers/)
+* [OpenShot wurde in der Version 2.6 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=OpenShot-2.6-Released)
+* [Mit PHP 8.1 könnt ihr jetzt Phar's erzeugen die OpenSSL-256 oder OpenSSL-512 nutzen.](https://php.watch/versions/8.1/phar-openssl-256-openssl-512)
+* [Wie bescheiden so ein Microsoft Exchange Server zu administieren ist zeigt die aktuelle Update-Problematik. Da ist der Exchange seit Monaten angreifbar und noch immer sind nicht alle gepatched.](https://www.bleepingcomputer.com/news/microsoft/microsoft-proxyshell-bugs-might-be-exploited-patch-servers-now/)
+* [Schönes Beispiel warum Dinge wie das Kabelprivileg eine schlechte Idee sind, hier wurde über Jahrzehnte doppelt abkassiert.](https://www.borncity.com/blog/2021/08/26/vodafone-und-die-doppelt-kassierte-kabelgebhr/)
+* [Thunderbird wurde in der Version 91.0.3 veröffentlicht.](https://www.borncity.com/blog/2021/08/26/thunderbird-91-0-3/)
+* [Auf Fedora Maschinen läuft ein `dnf-makecache` aller paar Stunden im Hintergrund und verbraucht eure Bandbreite.](https://utcc.utoronto.ca/~cks/space/blog/linux/FedoraDnfMakecacheOff) - Vom Lesen her würde ich das direkt aus stellen.
+* [Klassen in PHP? Nur als FQCN.](https://stitcher.io/blog/rational-thinking)
