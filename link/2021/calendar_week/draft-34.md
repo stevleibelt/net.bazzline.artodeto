@@ -30,3 +30,17 @@
 * [Thunderbird wurde in der Version 91.0.3 veröffentlicht.](https://www.borncity.com/blog/2021/08/26/thunderbird-91-0-3/)
 * [Auf Fedora Maschinen läuft ein `dnf-makecache` aller paar Stunden im Hintergrund und verbraucht eure Bandbreite.](https://utcc.utoronto.ca/~cks/space/blog/linux/FedoraDnfMakecacheOff) - Vom Lesen her würde ich das direkt aus stellen.
 * [Klassen in PHP? Nur als FQCN.](https://stitcher.io/blog/rational-thinking)
+* [Die Geldgeber hinter OnlyFans stoppt den Plan, dass sich OnlyFans sein Geschäftsmodel kaputt macht.](https://netzpolitik.org/2021/sexarbeit-onlyfans-rudert-bei-porno-entscheidung-zurueck/)
+* [BIG-IP von F5 ist kaputt.](https://www.borncity.com/blog/2021/08/26/f5-warnt-vor-kritischer-schwachstelle-in-big-ip/)
+* [PipeWire wurde in der Version 0.3.34 veröffentlicht.] (https://www.phoronix.com/scan.php?page=news_item&px=PipeWire-0.3.34-Released)
+* [Die Briten geben das DSGVO/GDPR auf und wollen "die Energie der Daten entfesseln".](https://www.borncity.com/blog/2021/08/27/post-brexit-grobritannien-wie-aus-dsgvo-aussteigen-und-ein-eigenes-ding-machen/) - Damit wollen Sie die Wirtschaft ankurblen und lassen alle Firmen bankrot gehen, die Dienstleistungen im Sinne der DSVGO anbieten.
+* [Synology ist kaputt.](https://www.bleepingcomputer.com/news/security/synology-multiple-products-impacted-by-openssl-rce-vulnerability/)
+* [Ragnarok wurde zum Aufhören und zur Herausgabe des Schlüssels zum entschlüsseln gebeten.](https://www.bleepingcomputer.com/news/security/ragnarok-ransomware-releases-master-decryptor-after-shutdown/)
+* [Wenn ich das richtig verstehe, dann verlangsamt Wester Digital seine SSD's per Firmwareupdate um bis zu 50 Prozent.](https://www.bleepingcomputer.com/news/hardware/western-digital-confirms-speed-crippling-sn550-ssd-flash-change/)
+* [Auch beim Strom zahlen die Bürger die Steuerentlastung der Konzerne mit. Am ende sind es fast 6 Prozent mehr als im Jahr 2020.](https://www.sonnenseite.com/de/energie/strompreise-in-deutschland-auf-neuem-allzeithoch/) - Auch dafür, danke GroKo/Blockpartei.
+* [Ihr braucht noch ein Beispiel das KI eine schlechte Idee ist? Es kommt auf deine Hautfarbe an und schon kriegst du faktisch keinen Kredit.](https://netzpolitik.org/2021/datenrassismus-wenn-algorithmen-den-hauskredit-verweigern/) - Und das ist nicht nur in den USA so.
+* [Auch dafür, danke Blockpartei, dass du mir zeigst was du mit freier Meinungsäußerung meinst.](https://netzpolitik.org/2021/peng-kollektiv-kulturbetrieb-protestiert-dass-die-polizei-aktionskuenstler-auf-terrorliste-setzen-will/)
+* [Ab PHP 8.1 gilt, `date_sunrise` und `date_sunset` werden nicht mehr unterstützt. Nutzt dafür lieber `date_sun_info`.](https://php.watch/versions/8.1/date_sunrise-date_sunset-funcs-deprecated)
+* [Kanal9TV: Glück Auf! kompakt für die KW35 2021](https://www.youtube.com/watch?v=-ZFNzpmSFHQ)
+* [Kanal9TV: Bürgerforum in Freiberg.](https://www.youtube.com/watch?v=X-Ye3vkCr-k)
+* [Mit HCL Notes 12.0.1 gibt es endlich deine Möglichkeit Replikationsfehler wie ein DIFF anschauen zu können.](http://blog.nashcom.de/nashcomblog.nsf/dx/notes-12.0.1-advanced-properties-box-for-replication-conflict-troubleshooting.htm)
