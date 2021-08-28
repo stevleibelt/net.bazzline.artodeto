@@ -44,3 +44,6 @@
 * [Kanal9TV: Glück Auf! kompakt für die KW35 2021](https://www.youtube.com/watch?v=-ZFNzpmSFHQ)
 * [Kanal9TV: Bürgerforum in Freiberg.](https://www.youtube.com/watch?v=X-Ye3vkCr-k)
 * [Mit HCL Notes 12.0.1 gibt es endlich deine Möglichkeit Replikationsfehler wie ein DIFF anschauen zu können.](http://blog.nashcom.de/nashcomblog.nsf/dx/notes-12.0.1-advanced-properties-box-for-replication-conflict-troubleshooting.htm)
+* [Laschet sagt "YOLO" gegen alle Gesetze und baut ein Kohlekraftwerk neben einem Kinderkrankenhaus.](https://blog.fefe.de/?ts=9fd62ef9)
+* [Hier wird ein voll elektrischer Strandrobotter vorgestellt der den Strand sauber macht.](https://netzfrauen.org/2021/08/28/4ocean/)
+* [Nein? Doch! Oh? WinTel unterstützt nur ältere Intel CPU's, AMD's erste Zen Generation wird nicht unterstützt.](https://www.bleepingcomputer.com/news/microsoft/windows-11-to-only-support-one-intel-7th-gen-cpu-no-amd-zen-cpus/)
