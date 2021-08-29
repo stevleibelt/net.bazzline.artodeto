@@ -47,3 +47,5 @@
 * [Laschet sagt "YOLO" gegen alle Gesetze und baut ein Kohlekraftwerk neben einem Kinderkrankenhaus.](https://blog.fefe.de/?ts=9fd62ef9)
 * [Hier wird ein voll elektrischer Strandrobotter vorgestellt der den Strand sauber macht.](https://netzfrauen.org/2021/08/28/4ocean/)
 * [Nein? Doch! Oh? WinTel unterstützt nur ältere Intel CPU's, AMD's erste Zen Generation wird nicht unterstützt.](https://www.bleepingcomputer.com/news/microsoft/windows-11-to-only-support-one-intel-7th-gen-cpu-no-amd-zen-cpus/)
+* [Wine wurde in der Version 6.16 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=Wine-6.16-Released)
+* [Schönes Resultat von FeFe weil die Azure Cloud aufgemacht wurde, wieso hat uns niemand gewarnt, dass die Daten weg sind, wenn ich sie weg gebe?](https://blog.fefe.de/?ts=9fd49d0c)
