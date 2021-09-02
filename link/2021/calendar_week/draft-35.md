@@ -32,3 +32,12 @@
 * [Jetzt verstehe ich, der typische Wähler der Grünen hofft und glaubt an die Lügen der Grünen, dass durch eine - vom Himmel fallende - technische Revolution der aktuelle Konsum beibehalten werden kann, ohne die Erde kaputt zu spielen.](https://tuxproject.de/blog/2021/09/enkelbrieftrick/)
 * [Danke all den Freiwilligen die unsere Grundrechte durchsetzen, der Druck war groß genug, als dass Microsoft ab dem 01.09.2021 so tut als würde es alle Persondendaten in Microsoft 365 pseudonymisieren.](https://www.borncity.com/blog/2021/09/01/microsoft-365-nderung-in-der-privatsphren-grundeinstellung-zum-1-9-2021/) - Macht euch aber nichts vor, man kann eine Person noch immer genau ausspionieren.
 * [Podman wurde in der Version 3.3 veröffentlicht.](https://podman.io/releases/2021/08/31/podman-release-v3.3.0.html)
+* [Nein? Doch! Oh? Statt wirklich in nachhaltigen Strom zu investieren, wird Kohlestrom mit Zertifikaten grün gewaschen.](https://www.sonnenseite.com/de/wirtschaft/wie-unternehmen-in-deutschland-greenwashing-bei-oekostrom-betreiben/)
+* [Wow, nach sechs Wochen Schwangerschaft ist es ab heute verboten eine Abtreibung zu veranlassen.](https://blog.fefe.de/?ts=9fd18f80)
+* [`Break` und `Throw` funktionieren in PowerShell so wie in anderen Programmiersprache.](https://sid-500.com/2021/09/01/powershell-difference-between-the-break-and-throw-statement/)
+* [Was steckt eigentlich hinter `Namespaces`, `cgroups`, `seccomp` und `SELinux`? Hier wird es euch erklärt.](https://opensource.com/article/21/8/container-linux-technology)
+* [Genode OS Framework wurde in der Version 21.08 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=Genode-OS-21.08)
+* [Die Hongkong-Grippe wurde 1969 irgendwie ganz anders gehandhabt als Kakalunka heute.](https://www.novo-argumente.com/artikel/war_willy_brandt_ein_massenmoerder)
+* [Jelle van der Waa stellt hier Xandikos als einfachen CardDAV/CalDAV server vor.](https://vdwaa.nl/xandikos-server-setup.html) - Ihr lernt auch gleich etwas über `uwsgi`, dies ist das wirklich spannende daran.
+* [Über die magische Hand des freien Marktes rollt die freie und Hanstestadt Hamburg jetzt einen Impfzwang aus.](https://verfassungsblog.de/privilegierung-geimpfter-und-faktischer-impfzwang/)
+* [Bangkok Airways sind sechs Terrabyte an Daten verloren gegangen.](https://www.bleepingcomputer.com/news/security/lockbit-gang-leaks-bangkok-airways-data-hits-accenture-customers/)
