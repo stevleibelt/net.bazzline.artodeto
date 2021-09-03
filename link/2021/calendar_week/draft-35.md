@@ -41,3 +41,12 @@
 * [Jelle van der Waa stellt hier Xandikos als einfachen CardDAV/CalDAV server vor.](https://vdwaa.nl/xandikos-server-setup.html) - Ihr lernt auch gleich etwas über `uwsgi`, dies ist das wirklich spannende daran.
 * [Über die magische Hand des freien Marktes rollt die freie und Hanstestadt Hamburg jetzt einen Impfzwang aus.](https://verfassungsblog.de/privilegierung-geimpfter-und-faktischer-impfzwang/)
 * [Bangkok Airways sind sechs Terrabyte an Daten verloren gegangen.](https://www.bleepingcomputer.com/news/security/lockbit-gang-leaks-bangkok-airways-data-hits-accenture-customers/)
+* [Der DPC in Irland verhängt eine Strafe von 225 Millionen Euro gegenüber WhatsApp/Hackfressenbuch.](https://noyb.eu/en/statement-dpc-issues-eu-225-million-fine-whatsapp) - Das sind nicht einmal 0,08 Prozent vom Jahresumsatz von Hackfressenbuch.
+* [Nein? Doch! Oh? Die Telekom und Vodafone verstoßen mit ihren "Zero-Rating-Produkten" gegen die Gesetze der Netzneutralität.](https://netzpolitik.org/2021/zero-rating-eugh-spricht-machtwort-zu-netzneutralitaet/) - Das hat mittlerweile sogar der EuGH heraus gefunden. Immer wieder schön zu sehen wie man der magischen Hand des freien Marktes vertrauen kann!
+* [Cisco ist kaputt.](https://www.bleepingcomputer.com/news/security/cisco-fixes-critical-authentication-bypass-bug-with-public-exploit/)
+* [Wie kommt denn das? Die FTC verbietet in den USA Spionage-App Anwendungen.](https://netzpolitik.org/2021/ueberwachung-us-aufsichtsbehoerde-verbietet-spionage-app/) - Damit sind bestimmt nicht die Trojaner der Geheimdienste gemeint, oder?
+* [Digital-O-Mat als Alternative zum Wahl-O-Mat.](https://netzpolitik.org/2021/bundestagswahl-wahl-o-maten-von-bundeszentrale-und-netzpolitischen-ngos-online/)
+* [Ach schau an, mit Bluetooth-Kopfhörer kann man ein super Bewegungsprofil erstellen.](https://netzpolitik.org/2021/tracking-wie-bluetooth-kopfhoerer-unseren-standort-verraten/)
+* [Atlassian Confluence ist kaputt.](https://www.borncity.com/blog/2021/09/02/massen-scans-und-angriffe-auf-confluence-enterprise-server/)
+* [Realtek ist kaputt.](https://www.borncity.com/blog/2021/09/03/juniper-realtek-schwachstellen-cve-2021-35394-und-cve-2021-35395-werden-angegriffen/)
+* [Kanal9TV: Ankündigung Freiberger Nachtschicht 2021](https://www.youtube.com/watch?v=4fefvrC7tWw)
