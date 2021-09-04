@@ -50,3 +50,6 @@
 * [Atlassian Confluence ist kaputt.](https://www.borncity.com/blog/2021/09/02/massen-scans-und-angriffe-auf-confluence-enterprise-server/)
 * [Realtek ist kaputt.](https://www.borncity.com/blog/2021/09/03/juniper-realtek-schwachstellen-cve-2021-35394-und-cve-2021-35395-werden-angegriffen/)
 * [Kanal9TV: Ankündigung Freiberger Nachtschicht 2021](https://www.youtube.com/watch?v=4fefvrC7tWw)
+* [Wie das US-Patentamt gerade herausgefunden hat, verhindern Patente den Fortschritt.](https://blog.fefe.de/?ts=9fcc9674) - Dort sitzen eindeutig zu viele Kommunisten
+* [Warum interessiert die CDU der Klimatschutz nicht? Weil 60 Prozent der Wähler einen fick auf die Welt gegen, die sie ihren Kindern und Enkelkindern hinterlassen.](https://blog.fefe.de/?ts=9fccfb01)
+* [Haha! Die Steuervermeider FDP kriegt stress mit ihren Firmengeflechten. Die haben eine Immobilienholding und die wird jetzt übernommen.](https://blog.fefe.de/?ts=9fcccb2d)
