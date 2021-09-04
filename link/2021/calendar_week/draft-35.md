@@ -53,3 +53,6 @@
 * [Wie das US-Patentamt gerade herausgefunden hat, verhindern Patente den Fortschritt.](https://blog.fefe.de/?ts=9fcc9674) - Dort sitzen eindeutig zu viele Kommunisten
 * [Warum interessiert die CDU der Klimatschutz nicht? Weil 60 Prozent der Wähler einen fick auf die Welt gegen, die sie ihren Kindern und Enkelkindern hinterlassen.](https://blog.fefe.de/?ts=9fccfb01)
 * [Haha! Die Steuervermeider FDP kriegt stress mit ihren Firmengeflechten. Die haben eine Immobilienholding und die wird jetzt übernommen.](https://blog.fefe.de/?ts=9fcccb2d)
+* [>>Into Dust<<, der neue Film von Orlando von Einsiedel.](https://www.sonnenseite.com/de/tipps/into-dust-ein-doku-drama-ueber-die-weltweite-wasserkrise/)
+* [>>Man kann mittels GPO den Zugriff auf das Internet durch Startmenü und Taskleiste deaktivieren.<<](https://www.borncity.com/blog/2021/09/04/windows-11-microsoft-macht-startmen-taskleite-mit-teams-promo-kaputt/)
+* [Nein? Doch! Oh? HomeOffice, IoT und Smart-Home sind Einfallstore in das Unternehmensnetzwerk.](https://www.borncity.com/blog/2021/09/04/homeoffice-und-smart-home-als-einfallstor-fr-hacks-in-unternehmensnetzwerke/)
