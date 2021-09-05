@@ -56,3 +56,7 @@
 * [>>Into Dust<<, der neue Film von Orlando von Einsiedel.](https://www.sonnenseite.com/de/tipps/into-dust-ein-doku-drama-ueber-die-weltweite-wasserkrise/)
 * [>>Man kann mittels GPO den Zugriff auf das Internet durch Startmenü und Taskleiste deaktivieren.<<](https://www.borncity.com/blog/2021/09/04/windows-11-microsoft-macht-startmen-taskleite-mit-teams-promo-kaputt/)
 * [Nein? Doch! Oh? HomeOffice, IoT und Smart-Home sind Einfallstore in das Unternehmensnetzwerk.](https://www.borncity.com/blog/2021/09/04/homeoffice-und-smart-home-als-einfallstor-fr-hacks-in-unternehmensnetzwerke/)
+* [Stuttgart als Beispiel wie unsere Identität als Volk und die verschiedenen Identitäten der Mundarten standardisiert werden.](https://blog.todamax.net/2021/stuttgart-inner-city-blues/)
+* [Schaut mal, da braucht jeder VPN und noch immer ist keine Firma bereit mal richtig Geld auf den Tisch zu hauen um diese Technologie sehr sicher zu machen.](https://www.borncity.com/blog/2021/09/05/it-sicherheit-achillesverse-ssl-vpn-schwachstellen/)
+* [Dav1d wurde in der Version 0.9.2 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=dav1d-0.9.2)
+* [Hier gibt es eine [Ironie]kleine[/Ironie] Liste der verschiedenen Lizenzen von Microsoft.](https://www.borncity.com/blog/2021/09/05/lizenzvergleiche-im-microsoft-lizenz-dschungel/)
