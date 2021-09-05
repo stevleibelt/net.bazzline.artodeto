@@ -1,0 +1,4 @@
+* [Microsoft sagt schon einmal, dass nicht unterstützte Hardware nicht alle oder keine Windows 11 Sicherheitsaktualisierungen bekommt.](https://www.bleepingcomputer.com/news/microsoft/windows-11-may-not-get-security-updates-on-unsupported-devices/)
+* [Manchmal frag ich mich, ob der Mensch überhaupt überleben soll ... selbst Krokodile werden in großen Farmen gezüchtet und wie Dinge gehalten.](https://netzfrauen.org/2021/09/05/crocodile-farming/)
+* [Die, von Steuergeldern finanziert und dann noch einmal gemietete Software "Luca" bekommt jetzt einen neuen Namen.](https://tuxproject.de/blog/2021/09/medienkritik-in-kuerze-schall-und-rauch/) - Ein so genannten "rebranding" ist nämlich billiger als die bestehenden Sicherheitsprobleme zu beseitigen.
+* [Olaf Schulz und seine SPD veruntreuen weiter Steuergelder und machen dies mit hoher, krimineller Energie.](https://blog.fefe.de/?ts=9fca2490)
