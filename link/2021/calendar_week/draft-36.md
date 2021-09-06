@@ -2,3 +2,8 @@
 * [Manchmal frag ich mich, ob der Mensch überhaupt überleben soll ... selbst Krokodile werden in großen Farmen gezüchtet und wie Dinge gehalten.](https://netzfrauen.org/2021/09/05/crocodile-farming/)
 * [Die, von Steuergeldern finanziert und dann noch einmal gemietete Software "Luca" bekommt jetzt einen neuen Namen.](https://tuxproject.de/blog/2021/09/medienkritik-in-kuerze-schall-und-rauch/) - Ein so genannten "rebranding" ist nämlich billiger als die bestehenden Sicherheitsprobleme zu beseitigen.
 * [Olaf Schulz und seine SPD veruntreuen weiter Steuergelder und machen dies mit hoher, krimineller Energie.](https://blog.fefe.de/?ts=9fca2490)
+* [Hier gibt es eine schöne Geschichte aus dem Schützengraben von ZFS und dem ARC-Cache.](https://www.brendangregg.com/blog/2021-09-06/zfs-is-mysteriously-eating-my-cpu.html)
+* [Ab dem 30.07.2022 werden einige PowerShell-Skripte für Azure nicht mehr funktionieren. Grund sind API-Änderungen.](https://www.borncity.com/blog/2021/09/06/microsoft-azure-api-nderungen-kippen-anwendungen-und-powershell-scripte/)
+* [OpenWRT wurde in der Version 21.02.0 veröffentlicht.](https://lwn.net/Articles/868406/rss)
+* [Am 18.09.2021 und 19.09.2021 finden die Datenspuren in Dresden statt.](https://events.ccc.de/2021/09/03/datenspuren-2021-log-down-light/)
+* [Deswegen die Werbung mit "Mach Briefwahl!", die Parteien verballern gerade JETZT ihre Werbegelder und wollen dich, ganz der Drückerkollonnenmentalität, schnell zum Abschluss nötigen.](https://blog.fefe.de/?ts=9fcbc205) - Nur "DIE LINKE" nervt nicht damit. Im übrigen nervt "DIE LINKE" auch als einzige nicht mit "Bitte, bitte, Spende!"
