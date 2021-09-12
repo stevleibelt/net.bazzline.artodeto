@@ -52,3 +52,10 @@
 * [Dank einer Greenpeace-Studio zeigt sich der dunkle Plan der Finanzlobby. Es wird bei der Klimaproblematik nicht gegengesteuert, weil Diese ein Inflationstreiber ist.](https://www.sonnenseite.com/de/wirtschaft/oekonomen-warnen-klimakrise-als-inflationstreiber/) - Und Inflation ist für Banken super, dann ist eure Rente weniger wert.
 * [GhostScript ist kaputt.](https://www.borncity.com/blog/2021/09/09/ghostscript-0-day-schwachstelle-ermglicht-server-bernahme/)
 * [Azure Container ist, mal wieder, kaputt.](https://www.borncity.com/blog/2021/09/09/nchste-azure-container-schwachstelle-ermglichte-datenklau/)
+* [CoreCtrl wurde in der Version 1.2 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=CoreCtl-1.2-Released)
+* [PHP 8.1. kann jetzt `readonly`.](https://stitcher.io/blog/php-81-readonly-properties)
+* [QNAP ist kaputt und ihr könnt sie etwas ganu machen.](https://www.borncity.com/blog/2021/09/11/sicherheitspatch-fr-qnap-systeme/)
+* [OpenShot wurde in der Version 2.6.1 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=OpenShot-2.6.1)
+* [Der selbst erfundene 9/11 wird immer klarer als "Startpunkt des Terrors vom Staat gegen die eigenen Bürger" in die Geschichte eingehen.](https://netzpolitik.org/2021/11-september-der-terror-als-beschleuniger-fuer-ueberwachung-und-grundrechteabbau/)
+* [Hackfressenbuch oder dynamicland.](https://netzpolitik.org/2021/digitale-revolution-radikale-subkultur-arbeitet-an-einer-alternative-zu-zuckerbergs-metaversum/)
+* [Windows AppContainer ist kaputt.](https://www.borncity.com/blog/2021/09/11/google-project-zero-0-day-schwachstelle-in-windows-appcontainern-offen-gelegt/)
