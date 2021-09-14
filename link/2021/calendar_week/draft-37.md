@@ -17,3 +17,19 @@
 * [Wenn ihr mal wieder in den Nachrichten von Umfragen und Studien hört, 1001 Person fragen reicht schon, damit man den rest hochrechnen darf.](http://blog.todamax.net/2021/du-weisst-das-tempolimit-wird-kommen-wenn/) - Sind ja Werte wie bei der politischen Coronaproblematik.
 * [Dem stimme ich zu, Farben im Terminal stören nur.](https://utcc.utoronto.ca/~cks/space/blog/tech/TextColoursWhyNot)
 * [PostmarkOS wurde in der Version v21.06 Service Pack 2 veröffentlicht.](https://postmarketos.org/blog/2021/09/13/v21.06.2-release/)
+* [Geht nur in der IT, ihr habt keinen Supportvertrag mehr? Dann gibt es auch keine kritischen Sicherheitsupdates mehr.](https://blog.fefe.de/?ts=9fc14e6f) - Kritische Sicherheitsupdates sind vergleichbar mit Rückrufaktionen aus der realen Welt, also etwas furchtbar dringendes.
+* [Da veröffentlicht der Verkäufer von Remote-Arbeits-Diensten eine Studie, dass Remote-Arbeit mist ist.](https://www.borncity.com/blog/2021/09/13/microsoft-studie-zeigt-remote-arbeit-gefhrdet-zusammenarbeit-und-zukunftsfhigkeit/) - Und was für mich gleich viel Gewicht hat, die treibende der Personen die eher durch Selbstdarstellung als durch Arbeit auffallen und die Karriereleiter hoch kommen - denen fehlt gerade die Bühne.
+* [Percona PostgreSQL wurde in den Versionen 11.13, 12.8 und 13.4 veröffentlicht.](https://www.percona.com/blog/release-roundup-september-13-2021/)
+* [ZFS auf einer MariaDB? Klar, L2ARC regelt.](https://www.percona.com/blog/mysql-zfs-in-the-cloud-leveraging-ephemeral-storage/)
+* [OSBuilder in der PowerShell um Windows-Images zu pflegen? Hier gibt es eine kurze Einführung.](https://www.windowspro.de/brandon-lee/windows-images-osdbuilder-automatisch-offline-aktualisieren)
+* [Resultiert dies in eine Abwanderung von Hackfressenbuch? In Australien müssen Betreiber öffentlicher Seiten jetzt Kommentare kontrollieren.](https://netzpolitik.org/2021/australien-medienunternehmen-muessen-facebook-kommentare-kontrollieren/)
+* [GDB wurde in der Version 11.1 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=GDB-11.1-Released)
+* [Microsoft im permanenten Kampf gegen die Anwender und Administratoren, heute, ein Ausblick was in Windows 11 zum Thema "Standardanwendung setzen" kommt.](https://www.bleepingcomputer.com/news/microsoft/firefox-now-bypasses-windows-11s-messy-default-browser-settings/)
+* [Nein? Doch! Oh? Die irischen Datenschützer verschleppen und blockieren die Umsetzung der DSGVO.](https://www.borncity.com/blog/2021/09/14/wie-irlands-idpc-systematisch-google-facebook-co-vor-dsgvo-verfahren-schtzen/)
+* [Am 24.09.2021 gilt es einen großen Klimastreik zu machen.](https://www.sonnenseite.com/de/politik/grosser-klimastreik-zur-bundestagswahl/)
+* [CentOS Stream nutzt das Repository `epel-next-release`.](http://blog.nashcom.de/nashcomblog.nsf/dx/centos-stream-uses-epel-next-release.htm)
+* [Jedes Gerät das im Internet hängt, ist von den Launen des Herstellers abhängig. Nur als Beispiel heute, Xiaomi. Aber glaubt nicht, dass es euren VW's etc. besser ergeht.](https://www.borncity.com/blog/2021/09/14/wegen-embargo-xiaomi-sperrt-smartphones/)
+* [Falls ihr in der PowerShell mal alle Tage, Monate oder sonstiges braucht.](https://sid-500.com/2021/09/14/powershell-list-weekdays-months-numbers-and-alphabet/)
+* [Verlasse dich nie auf das was aus der Datenbank kommt, nutze Hilfsfunktionen und im Falle PHP, pack es in ein Trait.](https://matthiasnoback.nl/2021/09/where-do-types-come-from/)
+* [Schönes Beispiel von "Werbung lügt", die Sauerstofftherapie gegen Alzheimer hilft nur auf dem Bild, die giftigen Plaques werden aufgelöst und schwumsen dann durch euren Körper.](https://blog.fefe.de/?ts=9fbe5143)
+* [Travis war kaputt und damit all eure Daten öffentlich zugänglich.](https://blog.fefe.de/?ts=9fbe5059)
