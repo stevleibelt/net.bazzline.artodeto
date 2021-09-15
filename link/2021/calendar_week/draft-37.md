@@ -33,3 +33,10 @@
 * [Verlasse dich nie auf das was aus der Datenbank kommt, nutze Hilfsfunktionen und im Falle PHP, pack es in ein Trait.](https://matthiasnoback.nl/2021/09/where-do-types-come-from/)
 * [Schönes Beispiel von "Werbung lügt", die Sauerstofftherapie gegen Alzheimer hilft nur auf dem Bild, die giftigen Plaques werden aufgelöst und schwumsen dann durch euren Körper.](https://blog.fefe.de/?ts=9fbe5143)
 * [Travis war kaputt und damit all eure Daten öffentlich zugänglich.](https://blog.fefe.de/?ts=9fbe5059)
+* [LibInput wurde in der Version 1.19 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=libinput-1.19)
+* [Auch im Windows Server 2022 gibt es für das AD keine wirklichen Neuerungen.](https://www.windowspro.de/news/active-directory-windows-server-2022-bleibt-funktionsebene-server-2016/04861.html) - Bleibt es eben beim Schema 88
+* [Microsoft patcht weiter ihr Betriebssystem kaputt weil sie den PrintNightmare nicht in den Griff kriegen.](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-remaining-windows-printnightmare-vulnerabilities/)
+* [Die HTML-Render-Engine der Microsoft Office Produkte ist kaputt.](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-cve-2021-40444-mshtml-zero-day-bug/)
+* [Tenet wurde in der Version v0.2 veröffentlicht.](https://blog.ret2.io/2021/09/14/tenet-v0.2/)
+* [Microsoft Windows 10 2004 wird am Dezember nicht mehr unterstützt.](https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-10-2004-reaches-end-of-service-in-december/)
+* [Microsoft Windows Patchday und der PrintServer geht direkt nicht mehr.](https://www.borncity.com/blog/2021/09/15/patchday-windows-10-updates-14-september-2021/)
