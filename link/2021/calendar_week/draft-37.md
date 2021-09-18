@@ -72,3 +72,10 @@
 * [Ein Trauerbeispiel, das Ermittlungsverfahren wurde von Seiten der CDU gegen Frau Wittmann eingestellt.](https://netzpolitik.org/2021/cdu-connect-ermittlungsverfahren-gegen-sicherheitsforscherin-lilith-wittmann-eingestellt/) - 150 Seiten Ermittlungsakte wurden geschaffen, dafür hätte man auch drei Toiletten in Schulen reparieren können.
 * [Müsste der Einzelhandel nicht automatisch Teil der `Slowfood`-Bewegung o.Ä. sein?](https://www.sonnenseite.com/de/mobilitaet/mehr-umsatz-durch-attraktive-stadtgestaltung/) - Mir kam gerade der Gedanke, im Supermarkt muss alles schnell gehen, weil man da als Kunde auch nicht sein will. Aber mal schön in der Altstadt stöbern gehen? Dafür nehme ich mir die Zeit.
 * [Schöner Ansatz, nennt eure Test-Cases vernünftig und spielt mit den Zeitformen.](https://matthiasnoback.nl/2021/09/write-unit-tests-like-scenarios/)
+* [OneCoin? Gab es wohl nie so recht.](https://blog.fefe.de/?ts=9fb8c854)
+* [Präzisionstöten mit der Drohne, bis zu zehn Personen weggemäht, bis zu sieben Kinder dabei, eventuell auch die gesuchte Person.](https://blog.fefe.de/?ts=9fb8c532) - Und dann wunder ihr euch, dass fremde Menschen schlecht gelaut in euer Land kommen.
+* [Ohha, computerisierter Scharfschütze der irgendwo wartet und bis zu 600 Schüsse in der Minute abgeben kann.](https://blog.fefe.de/?ts=9fbb3731)
+* [Wunderbar, HashiCorp beschreibt einmal warum ihre Produkte gut funktionieren und wie ihr selbst "Zero Trust" hinbekommt.](https://www.hashicorp.com/resources/how-zero-trust-networking)
+* [Oracle VirtualBox läuft, vorerst, nicht mehr in Microsoft Windows 11.](https://www.bleepingcomputer.com/news/microsoft/windows-11-is-no-longer-compatible-with-oracle-virtualbox-vms/)
+* [GIMP wurde in der Version 2.10.28 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=GIMP-2.10.28-Released)
+* [Haha, Microsoft Authenticator-App hat dann mal sechs verschiedene Datenabschnorchler aka Tracker.](https://www.kuketz-blog.de/microsoft-authenticator-app-sicherkritische-app-mit-tracking-bibliotheken-bad-idea/)
