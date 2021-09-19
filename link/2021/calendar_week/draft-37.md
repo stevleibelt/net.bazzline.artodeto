@@ -79,3 +79,4 @@
 * [Oracle VirtualBox läuft, vorerst, nicht mehr in Microsoft Windows 11.](https://www.bleepingcomputer.com/news/microsoft/windows-11-is-no-longer-compatible-with-oracle-virtualbox-vms/)
 * [GIMP wurde in der Version 2.10.28 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=GIMP-2.10.28-Released)
 * [Haha, Microsoft Authenticator-App hat dann mal sechs verschiedene Datenabschnorchler aka Tracker.](https://www.kuketz-blog.de/microsoft-authenticator-app-sicherkritische-app-mit-tracking-bibliotheken-bad-idea/)
+* [Jolla Sailfish OS wurde in der Version 4.2 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=Jolla-Sailfish-OS-4.2)
