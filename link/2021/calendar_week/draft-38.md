@@ -1,1 +1,11 @@
 * [HCL Notes, nutzt doch das DBMT statt `compact -B`.](https://blog.nashcom.de/nashcomblog.nsf/dx/domino-storage-optimization-why-are-there-still-customers-not-leveraging-the-full-potential.htm)
+* [Wenn ihr eine NVMe habt, nutzt doch `nvme-cli`.](https://opensource.com/article/21/9/nvme-cli)
+* [HarfBuzz wurde in der Version 3.0 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=HarfBuzz-3.0) - Ich habe noch nie davon gehört, aber es bildet das Rückrad vieler bekannter Projekte
+* [Anhand von Cloud-Servern erklärt FeFe, warum Cloud-Backup so gefährlich ist.](https://blog.fefe.de/?ts=9fb68b9e)
+* [Australien hält sich nicht an unterschriebene Verträge mit Frankreich, woraufhin alle merken, dass man mit den Ausis keine Verträge machen kann.](https://blog.fefe.de/?ts=9fb6827c)
+* [Was ist das Wichtigste bei der Einführung einer neuen Software?](https://www.opensourcerers.org/2021/09/20/how-to-scale-knowledge-transfer-and-keep-your-daily-business/) - Den Menschen klar machen, dass die Arbeit nicht "oben drauf" kommt, herausfinden wer Trainer sein will und die Chefetage darüber informieren.
+* [Ganz legal, da verlässt man seine Firma um dem Finanzamt/Parlamentsausschuss, der Steuergesetzgebung etc. kostenfrei Gesetztexte zu schreiben. Wenn alles durch ist, geht man zu seiner Firma zurück, wird befördert und kriegt einen Boni.](https://blog.fefe.de/?ts=9fb6a0f0)
+* [Die Blockpartei schafft, vor der Wahl, mal noch eben 71 neue Stellen die wenigst 8000 Euro pro Monat kriegen.](https://www.tagesspiegel.de/politik/vor-der-wahl-noch-schnell-die-getreuen-versorgen-operation-abendsonne-regierung-schafft-71-neue-hochbezahlte-stellen/27166574.html) - Das müssen die Leistungsträger sein, von dem die Springerpresse so gern schreibt!
+* [Eventuell reicht es ja, `HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\Print\` und dann `RpcAuthnLevelPrivacyEnabled=0`](https://www.borncity.com/blog/2021/09/20/windows-september-2021-update-workaround-fr-druckprobleme/)
+* [Antikorruptionsgesetze mit der Blockpartei? Die sehen so aus, als dass man dem "Spender" und dem Korrupierten nachweisen muss, dass Sie sich vorher abgesprochen haben, dass jetzt eine illegale Spende ausgelöst wird.](https://blog.fefe.de/?ts=9fb6be3f)
+* [Hier gibt es eine Art "Best Of" Videobeweise von Wahlbetrug.](https://blog.fefe.de/?ts=9fb6b070)
