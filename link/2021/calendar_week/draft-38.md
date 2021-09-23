@@ -42,3 +42,14 @@
 * [MyDumper wurde in der Version 0.11.1 veröffentlicht.](https://www.percona.com/blog/mydumper-0-11-1-is-now-available/)
 * [Samba wurde in der Version 4.15 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=Samba-4.15)
 * [Das Ozonloch über der Südhalbkugel ist jetzt schon mehr als drei mal so groß wie 2019.](https://www.sonnenseite.com/de/umwelt/ozonloch-auf-der-suedhalbkugel-bereits-groesser-als-antarktis/)
+* [Es gibt keine Impfpflicht sprach die Blockpartei und verbietet, per Gesetzt, die Lohnfortzahlung wenn man vom Gesetzgeber unter Quarantäne gesteckt wird.](https://blog.fefe.de/?ts=9fb5578f)
+* [Die Five Eyes rüsten jetzt als Three Eyes gegen China.](https://blog.fefe.de/?ts=9fb555a9)
+* [Wenn ihr einen LKW seht, betrachtet ihn mal so als ob 70 Prozent davon ungenutzte Lagerfläche sind.](https://blog.fefe.de/?ts=9fb5b288) - Es ist mittlerweile günstiger LKW's voll von A nach B zu fahren als die Ware im Lager zu haben. Grund? Grundstückspreise von Menschen deren Geld hart für ihr Leben arbeiten muss.
+* [Nextcloud macht eine kleine Umfrage.](https://help.nextcloud.com/t/who-are-we-take-part-in-the-nextcloud-community-survey/124056)
+* [Hikvision ist kaputt, 100 Millionen mal und mehr.](https://www.borncity.com/blog/2021/09/23/schwachstelle-in-100-millionen-ip-kameras-von-hikvision-und-clones/)
+* [Datenschutz hilft dem Klima, desto mehr Daten erhoben, gespeichert und verarbeitet werden, desto mehr Rechenzentren werden gebaut, betrieben und gewartet.](https://www.kuketz-blog.de/nachhaltige-gruene-it-was-datenschutz-mit-umweltschutz-zu-tun-hat/)
+* [GNOME wurde in der Version 41 veröffentlicht.](https://lwn.net/Articles/870031/rss)
+* [Vertrauensbildende Maßnahmen Bundesregierung, es gibt wieder ein Staatstrojaner und die Bundesregierung will keine Auskunft darüber geben wo der überall eingesetzt wird.](https://netzpolitik.org/2021/penisfisch-bundesregierung-verweigert-auskunft-ueber-israelischen-staatstrojaner-candiru/)
+* [Freiheitsrechtler reichen Klage gegen den Einsatz von Pegasus ein.](https://netzpolitik.org/2021/spaehsoftware-des-bka-freiheitsrechtler-reichen-datenschutz-beschwerde-gegen-einsatz-von-pegasus-ein/)
+* [Kosten für die Elektrorollerproblematik werden weiter sozialisiert.](https://www.kuketz-blog.de/hamburg-falsch-abgestellte-roller-ueber-hamburg-escootergmail-com-melden/) - Es gibt jetzt eine Melde-E-Mail-Adresse bei Google. Dabei hat jeder Hersteller GPS und könnte, aber dafür müsste man wollen. Ich würde, als Staat, einfach Knölchen an die Elektroroller verteilen. Damit würde sich die Problematik schnell selbst klären.
+* [Noch einmal Jekyll, erklärt im schnellen Durchlauf.](https://opensource.com/article/21/9/build-website-jekyll)
