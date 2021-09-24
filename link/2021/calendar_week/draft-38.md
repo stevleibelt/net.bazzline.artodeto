@@ -53,3 +53,10 @@
 * [Freiheitsrechtler reichen Klage gegen den Einsatz von Pegasus ein.](https://netzpolitik.org/2021/spaehsoftware-des-bka-freiheitsrechtler-reichen-datenschutz-beschwerde-gegen-einsatz-von-pegasus-ein/)
 * [Kosten für die Elektrorollerproblematik werden weiter sozialisiert.](https://www.kuketz-blog.de/hamburg-falsch-abgestellte-roller-ueber-hamburg-escootergmail-com-melden/) - Es gibt jetzt eine Melde-E-Mail-Adresse bei Google. Dabei hat jeder Hersteller GPS und könnte, aber dafür müsste man wollen. Ich würde, als Staat, einfach Knölchen an die Elektroroller verteilen. Damit würde sich die Problematik schnell selbst klären.
 * [Noch einmal Jekyll, erklärt im schnellen Durchlauf.](https://opensource.com/article/21/9/build-website-jekyll)
+* [Moderne Webanwendungen? Cachen bis der Arzt kommt.](https://www.percona.com/blog/modern-web-based-application-architecture-101/)
+* [RaidForums ist kaputt.](https://www.bleepingcomputer.com/news/security/raidforums-data-marketplace-accidentally-exposes-private-staff-page/)
+* [Kapitalismus im Endstadium, Hackfressenbuch macht interne Kontroller, weis wie schlecht es ist und macht dennoch weiter.](https://netzpolitik.org/2021/vertuschte-skandale-facebook-ist-einfach-nicht-zu-trauen/)
+* [Neugeborene von Heute haben zehn mal mehr Mikroplastik in sich als Erwachsene von Heute.](https://netzfrauen.org/2021/09/23/plastic-29/)
+* [`dsa`, drei Buchstaben, die in der Windowswelt für "Active directory console" stehen.](https://www.shellhacks.com/start-active-directory-users-and-computers/)
+* [Grommunio ist eine deutsche Exchange Alternative, voll mit freier Software.](https://opensource.com/article/21/9/open-source-groupware-grommunio)
+* [>>Freiheit ist heute immer nur Ich Ich Ich. Ich will die Vorteile mitnehmen! Auf den Nachteilen lass ich lieber die Allgemeinheit sitzen.<<](https://blog.fefe.de/?ts=9fb3da23)
