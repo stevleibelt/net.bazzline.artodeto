@@ -1,1 +1,6 @@
 * [Ab PHP 8.1 gibt es nur noch `\PgSql\Connection`, `\PgSql\Result` und `\PgSql\Lob`.](https://php.watch/versions/8.1/PgSQL-resource)
+* [Nein? Doch! Oh? Artenvielfalt ist der Puffer der das Ökosystem stabil hält.](https://www.sonnenseite.com/de/umwelt/artenvielfalt-ist-der-motor-der-oekosysteme/)
+* [Eine Beraterfirme macht eine Forschung und kommt zu dem Punkt, dass man Beraterfirmen braucht.](https://www.borncity.com/blog/2021/09/26/die-wahren-kosten-von-cybersicherheitsvorfllen/)
+* [Element kriegt 30 Millionen USD Risikokapital.](https://matrix.org/blog/2021/07/27/element-raises-30-m-to-boost-matrix)
+* [Die IT will mit Absicht unsichere Dinge verkaufen.](https://edwardsnowden.substack.com/p/ns-oh-god-how-is-this-legal)
+* [Nein? Doch! Oh? Genesene sind länger immun als geimpfte.](https://blog.fefe.de/?ts=9faebe92)
