@@ -4,3 +4,6 @@
 * [Element kriegt 30 Millionen USD Risikokapital.](https://matrix.org/blog/2021/07/27/element-raises-30-m-to-boost-matrix)
 * [Die IT will mit Absicht unsichere Dinge verkaufen.](https://edwardsnowden.substack.com/p/ns-oh-god-how-is-this-legal)
 * [Nein? Doch! Oh? Genesene sind länger immun als geimpfte.](https://blog.fefe.de/?ts=9faebe92)
+* [Wget2 wurde in der Version 2.0 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=GNU-Wget2-2.0-Released)
+* [LinageOS ist kaputt.](https://www.kuketz-blog.de/lineageos-webview-bug-ungewollte-verbindungen-zu-content-autofill-googleapis-com/)
+* [`SplFixedArray` verhält sich ab PHP 8.2 anders, wenn man `json_encode` nutzt.](https://php.watch/versions/8.1/SplFixedArray-JsonSerializable-json_encode)
