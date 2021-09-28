@@ -7,3 +7,11 @@
 * [Wget2 wurde in der Version 2.0 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=GNU-Wget2-2.0-Released)
 * [LinageOS ist kaputt.](https://www.kuketz-blog.de/lineageos-webview-bug-ungewollte-verbindungen-zu-content-autofill-googleapis-com/)
 * [`SplFixedArray` verhält sich ab PHP 8.2 anders, wenn man `json_encode` nutzt.](https://php.watch/versions/8.1/SplFixedArray-JsonSerializable-json_encode)
+* [Cloudsoftware klaut, Office 365 und anderer Schmutz ist primär dafür da um den Überwachungsfetisch der Vorgesetzen bedienen zu können.](https://netzpolitik.org/2021/microsoft-365-so-ueberwachen-chefs-eure-produktivitaet-am-arbeitsplatz/) - Ach und Microsoft erhebt für sich selbst gleich mal "anonyme" Daten mit. Hey, eure Firma erwirtschaftet nicht genug? Dann landet ihr mit eurem Telefonsupport in Hinterindien, schade, schade.
+* [Der Kohlepreis ist so hoch, dass ganze Fabriken in China stillgelegt werden.](https://blog.fefe.de/?ts=9fac19d1) - Fabriken die für Apple, Tesla etc. produzieren
+* [In Bitterfeld ist das Trinkwasser noch immer verseucht.](https://blog.fefe.de/?ts=9fac0907)
+* [Wirtschafts- und Politikbildung? Eigentlich nicht und schon gar nicht tiefgreifend.](https://blog.fefe.de/?ts=9fac0767)
+* [Herzlichen Glückwunsch Karlsruhe.](https://netzpolitik.org/2021/70-geburtstag-karlsruhe-wirds-richten/) - Bitte schiebd die Entscheidung wegen der Masernimpfpflicht nicht weiter auf, wie auch die Nicht-Beachtung des Grundgesetzes seit der politischen Corona-Problematik
+* [Hier wird euch gezeigt, wie ihr BitLocker Recovery-Keys im AD speichern könnt.](http://woshub.com/store-bitlocker-recovery-keys-active-directory/)
+* [Denk fester! Nachdem die ganzen Überwachungskameras nicht geholfen haben, muss einfach mehr Technik rein. London kriegt jetzt nach aggressive Gesichtserkennungssoftware.](https://netzpolitik.org/2021/biometrie-london-setzt-drastische-gesichtserkennungstechnologie-ein/)
+* [Das DSGVO Plugin von legalweb.io wurde gehackt.](https://www.borncity.com/blog/2021/09/27/wordpress-dsgvo-plugin-von-legalweb-io-gehackt/)
