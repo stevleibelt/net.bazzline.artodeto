@@ -15,3 +15,8 @@
 * [Hier wird euch gezeigt, wie ihr BitLocker Recovery-Keys im AD speichern könnt.](http://woshub.com/store-bitlocker-recovery-keys-active-directory/)
 * [Denk fester! Nachdem die ganzen Überwachungskameras nicht geholfen haben, muss einfach mehr Technik rein. London kriegt jetzt nach aggressive Gesichtserkennungssoftware.](https://netzpolitik.org/2021/biometrie-london-setzt-drastische-gesichtserkennungstechnologie-ein/)
 * [Das DSGVO Plugin von legalweb.io wurde gehackt.](https://www.borncity.com/blog/2021/09/27/wordpress-dsgvo-plugin-von-legalweb-io-gehackt/)
+* [Zwei Tage nach der Bundestagswahl darf die Staatsanwaltschaft Köln erst in Hamburg und bei Olaf Scholz Wohnräume wegen Cum Ex durchsuchen.](https://blog.fefe.de/?ts=9fade335) - Olaf Scholz wird nicht direkt genannt, der ist jetzt "ehemaliger Innensenator der Hansestadt Hamburg". Denn in Hamburg, da hält man bei Finanzverbrechen dicht!
+* [Nein? Doch! Oh? Wegen der Epedemie, wisst schon, die uns alle schon in vier Wellen ausgerottet hat, müssen demnächst alle Reisenden in den Schengen-Raum in einer Datenbank platz nehmen.](https://netzpolitik.org/2021/neue-verpflichtung-reiseanbieter-muessen-neue-eu-datenbank-abfragen/)
+* [mdr.de - Wieder Suche nach Silber am Rande des Erzgebirges](https://www.mdr.de/nachrichten/sachsen/chemnitz/freiberg/silbersuche-freiberg-erzgebirge-triebischtal-100.html)
+* [Wie geht die freie Welt mit Julian Assange um? Hier könnt ihr etwas darüber lesen.](https://netzpolitik.org/2021/julian-assange-die-rache-der-cia/) - Man merkt schon, die USA steht total auf freie Meinungsäußerung, ES MUSS NUR DIE RICHTIGE MEINUNG SEIN!!!
+* [HCL Traveler wurde in der Version 12.0 FP2 veröffentlicht.](https://n-komm.de/hcl-traveler-12-0-fix-pack-2/)
