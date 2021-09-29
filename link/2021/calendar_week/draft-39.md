@@ -20,3 +20,12 @@
 * [mdr.de - Wieder Suche nach Silber am Rande des Erzgebirges](https://www.mdr.de/nachrichten/sachsen/chemnitz/freiberg/silbersuche-freiberg-erzgebirge-triebischtal-100.html)
 * [Wie geht die freie Welt mit Julian Assange um? Hier könnt ihr etwas darüber lesen.](https://netzpolitik.org/2021/julian-assange-die-rache-der-cia/) - Man merkt schon, die USA steht total auf freie Meinungsäußerung, ES MUSS NUR DIE RICHTIGE MEINUNG SEIN!!!
 * [HCL Traveler wurde in der Version 12.0 FP2 veröffentlicht.](https://n-komm.de/hcl-traveler-12-0-fix-pack-2/)
+* [Indigene Kinder in Kanada, Australien etc.? Die sind in der westlichen Gesellschaft noch weniger wert als Nigger.](https://netzfrauen.org/2021/09/28/canada-6/)
+* [Zwei Fliegen mit einer Klappe, die Springer Hetzpresse findet es nur schlimm, wenn man beklaut wird, selber klauen ist OK und warum ist noch einmal nicht alles, von den öffentlich Rechtlichen, direkt gemeinfrei?](https://netzpolitik.org/2021/neues-aus-dem-fernsehrat-79-nicht-nur-wahlberichterstattung-frei-lizenziert-fuer-alle/)
+* [Angst und Trauma? Mach mal weniger Hackfressenbuch und Instafuck.](https://netzpolitik.org/2021/fallstudie-wie-facebook-trauma-und-angst-verstaerkt/)
+* [I wähl die vier!](https://www.der-postillon.com/2021/09/alternative-koalitionen.html)
+* [Hier gibt es ein Skript zur GPO-Analyse.](https://www.gruppenrichtlinien.de/artikel/wenige-richtlinien-sind-schneller-als-viele)
+* [German Exit](https://blog.fefe.de/?ts=9fad4820)
+* [Thunderbird wurde in der Version 91.1.2 veröffentlicht.](https://www.borncity.com/blog/2021/09/28/thunderbird-91-1-2/)
+* [Hier werdet ihr in Foreman und Katello eingeführt.](https://opensource.com/article/21/9/centos-stream-foreman)
+* [Auch schöne Idee, mit Ansible deployment gleich mal den Müll aufräumen.](https://opensource.com/article/21/9/keep-folders-tidy-ansible)
