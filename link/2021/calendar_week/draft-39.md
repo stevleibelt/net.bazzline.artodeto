@@ -29,3 +29,14 @@
 * [Thunderbird wurde in der Version 91.1.2 veröffentlicht.](https://www.borncity.com/blog/2021/09/28/thunderbird-91-1-2/)
 * [Hier werdet ihr in Foreman und Katello eingeführt.](https://opensource.com/article/21/9/centos-stream-foreman)
 * [Auch schöne Idee, mit Ansible deployment gleich mal den Müll aufräumen.](https://opensource.com/article/21/9/keep-folders-tidy-ansible)
+* [Auch in Deutschland funktioniert frei Meinungsäußerung nur, WENN ES DIE RICHTIGE IST!!! Der Dichröhrenkanal von RT Deutsch wurde gesperrt.](https://blog.fefe.de/?ts=9faa8645)
+* [Danke CDU/CSU/SPD/FDP/Die Grünen, selbst die Notrufnummern 110 und 112 habt ihr kaputt gespart.](https://blog.fefe.de/?ts=9faa8f04) - Das, meine lieben Wählerinnen und Wähler, ist die Wahrheit hinter eurem gewählten "weiter so".
+* [Realitätsabgleich "Qualitätsjournalismus" und was uns bisher immer als solches verkauft wurde.](https://netzpolitik.org/2021/google-news-showcase-das-geld-nehmen-sie-trotzdem/)
+* [Keine Inhalte und keine Umsetzung, dafür zielgerichtet Werbung, dafür steht die FDP.](https://netzpolitik.org/2021/bundestagswahl-warum-die-fdp-bei-erstwaehlerinnen-punktete/) - Etwas, was euch die FDP nie erzählen wird, Werbung lügt!
+* [Nein? Doch! Oh? Instagram für Kinder führt](https://netzpolitik.org/2021/psychische-belastung-instagram-kids-liegt-vorerst-auf-eis/)
+* [Wisst ihr was man mit Kindern aus Minderheiten macht? Prostituierte ohne Rechte.](https://netzfrauen.org/2021/09/29/nepal-4/)
+* [Der integrierte Spellcheck von roundcube lebt jetzt doch weiter.](https://roundcube.net/news/2021/09/28/spell-checking-service-back-online)
+* [Das LetsEncrypt Root Zertifikat verliert am 30.09.2021 seine Gültigkeit.](https://www.borncity.com/blog/2021/09/30/30-sept-2021-knallt-es-bei-lets-encrypt-zertifikaten/)
+* [Es gibt vier PowerShell-Profile.](https://devblogs.microsoft.com/powershell-community/how-to-make-use-of-powershell-profile-files/)
+* [Mit Crescendo gibt es jetzt ein PowerShell Framework zum schnelle Entwickeln von Skripten.](https://devblogs.microsoft.com/powershell-community/my-crescendo-journey/)
+* [Tjo, wir waren mal führend beim Ausbau von erneuerbaren Energien, dann kamen die Geldgeschenke an die Politik von E.ON/RWE/EnBW etc.](https://www.sonnenseite.com/de/wirtschaft/einbruch-bei-neu-installierten-windenergieanlagen-bis-zu-82/)
