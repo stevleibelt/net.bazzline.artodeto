@@ -40,3 +40,4 @@
 * [Es gibt vier PowerShell-Profile.](https://devblogs.microsoft.com/powershell-community/how-to-make-use-of-powershell-profile-files/)
 * [Mit Crescendo gibt es jetzt ein PowerShell Framework zum schnelle Entwickeln von Skripten.](https://devblogs.microsoft.com/powershell-community/my-crescendo-journey/)
 * [Tjo, wir waren mal führend beim Ausbau von erneuerbaren Energien, dann kamen die Geldgeschenke an die Politik von E.ON/RWE/EnBW etc.](https://www.sonnenseite.com/de/wirtschaft/einbruch-bei-neu-installierten-windenergieanlagen-bis-zu-82/)
+* [Der Congress ist dahin.](https://netzpolitik.org/2021/corona-ccc-kongress-in-leipzig-faellt-zum-zweiten-mal-aus/)
