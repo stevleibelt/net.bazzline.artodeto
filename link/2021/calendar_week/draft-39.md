@@ -49,3 +49,6 @@
 * [Da werden indigene Völker mit "genmanipuliertes Saatgut oder sterbt!" angeboten und die machen stattdessen biodynamische Landwirtschaft und deren Produkte gehen steil](https://netzfrauen.org/2021/10/02/india-25/)
 * [Oh Man, KI um den kompilierten Quelltext schneller zu machen und das von Hackfressenbuch, No-Go's überall.](https://www.phoronix.com/scan.php?page=news_item&px=Facebook-Compiler-Gym)
 * [Jconsole ist auch nice.](https://opensource.com/article/21/10/monitor-java-linux-jconsole)
+* [Sehr ehrlich zu dir selbst und tue Gutes.](https://www.youtube.com/watch?v=9ZwxLSGmH1s) - Dann ist die Reaktion der Anderen nahezu ekal.
+* [SaaS ist so neunziger, Raas ist der neue König.](https://www.borncity.com/blog/2021/10/03/neue-ransomware-as-a-service-raas-gruppe-vereinfacht-cyber-erpressung/)
+* [>>Die Hauptaussage des Buches lautet, dass freier Wettbewerb Profite senkt. Daher sollten Firmengründer:innen so oft wie möglich nach Monopolen streben. [...]<<](https://netzpolitik.org/2021/peter-thiel-ein-idol-fuers-monopol/) - Der freie Markt regelt und Sozialismus bringt den Menschn um seine Freiheit, nur Kapitalismus ist gut!
