@@ -1,2 +1,11 @@
 * [mdr.de: Morddrohung gegen Freiberger Linken-Politikerin](https://www.mdr.de/nachrichten/sachsen/chemnitz/freiberg/morddrohung-linken-politikerin-100.html)
 * [Kali Linux wurde in der Version 2021.3 veröffentlicht.](https://scheible.it/kali-linux-2021-3-ist-da/)
+* [Automatisierung? Klar, aber nur für den Ideal-Standardmenschen aus der BWL-er Glockenkurve.](https://netzpolitik.org/2021/autonomes-fahren-schau-mir-in-die-augen-kleinwagen/)
+* [Hier wird euch der Einstieg in Vagrant mit libvirt ermöglicht.](https://opensource.com/article/21/10/vagrant-libvirt)
+* [Henning Uhle fragt sich, warum sich die Blogger so selten gegenseitig unterstützen.](https://www.henning-uhle.eu/informatik/wordpress-und-bloggen/blogger-support-ist-es-denn-so-schwer)
+* [ID Wallet zeigt das Problem, auch in den Behörden interfragt niemand oder denkt nacht.](https://netzpolitik.org/2021/interview-zu-id-wallet-konzeptionell-kaputt-und-ein-riesiger-rueckschritt/) - Es wird gegenüber dem Vorgesetzten geduckt und ja gesagt, da sonst der eigene Aufstieg gefährdet ist.
+* [Hackfressenbuch ist soweit weg von der sozialen Ethik, dass sogar Wirtschaftsleute mit einem MBA aus Harvard sagen "boy, das ist mir zu unethisch".](https://blog.fefe.de/?ts=9fa400f8)
+* [Auch in Australien gibt es, mit Adfinis, ein IT-Unternehmen, welches Nextcloud für alle anbietet.](https://nextcloud.com/blog/adfinis-is-bringing-nextcloud-to-australia/)
+* [Was MagicEarth da genau übermittelt ist leider unklar.](https://www.kuketz-blog.de/magic-earth-android-datensendeverhalten-groesstenteils-eine-blackbox/)
+* [Lumina Desktop wurde in der Version 1.6.1 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=Lumina-Desktop-1.6.1)
+* [Seit 2017 wertet Google Patientendaten illegal aus und NIEMAND unternimmt etwas dagegen.](https://netzpolitik.org/2021/deepmind-britischer-patientendaten-skandal-landet-vor-gericht/)
