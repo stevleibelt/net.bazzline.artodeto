@@ -20,3 +20,7 @@
 * [Python wurde in der Version 3.10 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=Python-3.10-Released)
 * [Wie zu erwarten war, der DB Navigator bläst eure Daten erst einmal in alle Himmelsrichtungen.](https://www.kuketz-blog.de/db-navigator-ein-fall-fuer-die-datenschutz-aufsichtsbehoerde/)
 * [Wenn keiner hinschaut, der Amazonas wird gerodet und mit Quecksilber vergiftet.](https://netzfrauen.org/2021/10/05/amazon-5/)
+* [KonicaMinolta ist kaputt, deren Toner gehen gerade aus.](https://blog.fefe.de/?ts=9fa30cf6)
+* [Stressfrei und schnelles Bezahlen? Nicht mehr mit PayPal.](https://blog.fefe.de/?ts=9fa3065a)
++ [Ihr seid ein Information für die CIA? Dann herzlich willkommen am Arsch.](https://blog.fefe.de/?ts=9fa37ea0)
+* [Apache ist kaputt.](https://blog.fefe.de/?ts=9fa3afa9)
