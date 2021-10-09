@@ -47,3 +47,5 @@
 * [Kanal9TV: Terra Mineralia Freiberg](https://www.youtube.com/watch?v=J0RLzBKtkuM)
 * [Venedig möcht wie London werden und verfolgt einfach jede Bewegung von Jedem.](https://netzpolitik.org/2021/ueberwachung-in-venedig-smart-city-auf-dem-wasser/)
 * [WMI ist nur langsam, wenn es schlecht programmiert ist.](https://www.gruppenrichtlinien.de/artikel/wmi-ist-kein-performance-killer)
+* [Die Coc Media Group ist kaputt.](https://www.bleepingcomputer.com/news/security/cox-media-group-confirms-ransomware-attack-that-took-down-broadcasts/)
+* [Freiberg und Stollberg testen ihre Bürger auch nach dem 11.10.2021 kostenfrei weiter.](https://www.mdr.de/nachrichten/sachsen/chemnitz/freiberg/corona-tests-kostenfrei-freiberg-stollberg-100.html)
