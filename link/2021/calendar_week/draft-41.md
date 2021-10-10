@@ -1,0 +1,3 @@
+* [postmarkOS wurde in der Version v21.06 Service Pack 3 veröffentlicht.](https://postmarketos.org/blog/2021/10/10/v21.06.3-release/)
+* [Das Gas für Deutschland kommt zu großen Teilen nicht aus Russland, denkt einmal darüber nach, wenn die Hetzpresse wieder etwas anderes behauptet.](https://www.sonnenseite.com/de/energie/energiepreise-mehr-vorsorge-haette-geholfen/)
+* [NGOs und UN-Organisationen sind so gierig wie Hackfressenbuch und "Ich hab recht", sie sammeln und sammeln und sammeln Daten von Bedürftigen.](https://netzpolitik.org/2021/datenschutz-und-biometrie-von-internationalen-hilfsorganisationen-durchleuchtet/)
