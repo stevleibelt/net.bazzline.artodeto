@@ -1,3 +1,11 @@
 * [postmarkOS wurde in der Version v21.06 Service Pack 3 veröffentlicht.](https://postmarketos.org/blog/2021/10/10/v21.06.3-release/)
 * [Das Gas für Deutschland kommt zu großen Teilen nicht aus Russland, denkt einmal darüber nach, wenn die Hetzpresse wieder etwas anderes behauptet.](https://www.sonnenseite.com/de/energie/energiepreise-mehr-vorsorge-haette-geholfen/)
 * [NGOs und UN-Organisationen sind so gierig wie Hackfressenbuch und "Ich hab recht", sie sammeln und sammeln und sammeln Daten von Bedürftigen.](https://netzpolitik.org/2021/datenschutz-und-biometrie-von-internationalen-hilfsorganisationen-durchleuchtet/)
+* [Wenn Großkonzerne nach einer "Offensive für Klimaneutralität" schreien, sind dir zwei Sachen klar.](https://blog.fefe.de/?ts=9f9ac5b4) - Ersten, der Steuerzahler soll für privat geschaffenen Probleme lösen und sogar Großkonzerne sehen ein, dass die Politik hier ein großes Problem "vergessen" haben (was sie ja für die Großkonzerne tun sollten).
+* [Das privatwirtschaftliche Unternehmen TÜV Süd hat eine goldene Kuh gefunden und melkt den Solarausbau für Anlagen ab 135 KW.](https://blog.fefe.de/?ts=9f9ac471)
+* [Die AusweisApp2 scheint benutzbar zu sein. Aktuelles Schmierphone voraus gesetzt.](https://www.kuketz-blog.de/ausweisapp2-unaufaelliges-datensendeverhalten-und-cert-pinning-als-zusaetzlicher-schutz/)
+* [Durch Vertrage und fehlenden Nachfolgern zwingt Microsoft die Nutzer von allen Produkten ab 2025 in die Klaut.](https://www.borncity.com/blog/2021/10/11/osb-alliance-warnt-die-microsoft-cloud-gefhrdet-unsere-digitale-souvernitt/)
+* [Windows 11 hat bisher acht ernst zunehmende Probleme.](https://www.bleepingcomputer.com/news/microsoft/windows-11-incompatible-with-apps-using-non-ascii-registry-keys/) - Die Banane ist grün und reift beim Kunden.
+* [E-Mobilität? Das ist der "neue" Markt, an dem jeder Millionär werden will.](https://www.sonnenseite.com/de/mobilitaet/e-mobilitaet-ein-fall-von-marktversagen/) - Oder anders gesagt, liebe FDP Wähler, das ist euer gewünschter, freier Markt.
+* [Die Phoronix Test Suite wurde in der Version 10.6.1 veröffentlicht.](https://github.com/phoronix-test-suite/phoronix-test-suite/releases/tag/v10.6.1)
+* [Flutter, ein weiteres Framework aus dem Hause "Ich hab recht" das nach der Methode "friss oder stirb" agiert.](https://www.onli-blogging.de/2076/Ein-Jahr-mit-Flutter.html)
