@@ -9,3 +9,13 @@
 * [E-Mobilität? Das ist der "neue" Markt, an dem jeder Millionär werden will.](https://www.sonnenseite.com/de/mobilitaet/e-mobilitaet-ein-fall-von-marktversagen/) - Oder anders gesagt, liebe FDP Wähler, das ist euer gewünschter, freier Markt.
 * [Die Phoronix Test Suite wurde in der Version 10.6.1 veröffentlicht.](https://github.com/phoronix-test-suite/phoronix-test-suite/releases/tag/v10.6.1)
 * [Flutter, ein weiteres Framework aus dem Hause "Ich hab recht" das nach der Methode "friss oder stirb" agiert.](https://www.onli-blogging.de/2076/Ein-Jahr-mit-Flutter.html)
+* [Das EuGH hat beschlossen, dass man Software decompilieren darf um Fehler zu beseitigen.](https://blog.fefe.de/?ts=9f9ae09b)
+* [Lieber Jörg Schilling, thanks for all the fish.](https://blog.fefe.de/?ts=9f9add44)
+* [crDroid für Xiaomi POCO X3 wurde in der Version 7.11 veröffentlicht.](https://crdroid.net/surya#crDroid-v7/changelog)
+* [Lieferengpässe überall, das ist der freie Markt, den ihr FDP Wähler wollt.](https://blog.fefe.de/?ts=9f9ba564) - Hier stoßen sich Monopole gegenseitig gesund und vergolden sich die goldenen Eier
+* [Dank ProxySQL 2.3.0 könnt ihr einen Node sanft offline nehmen.](https://www.percona.com/blog/proxysql-2-3-0-enhanced-support-for-mysql-group-replication/) - In aller Kürze, die restlichen Aufgaben werden noch abgearbeitet und dann ist "Schicht im Schacht"
+* [HCL Notes wurde in der Version 11.0.1 FP 4 veröffentlicht.](https://n-komm.de/hcl-notes-und-domino-11-0-1-fp4-veroeffentlicht/)
+* [mdr.de: Schmökern in der Stadtbibliothek Freiberg](https://www.mdr.de/nachrichten/sachsen/chemnitz/freiberg/urlaub-ferien-ausflug-bibliothek-kinder-100.html)
+* [mdr.de: Einsam auf zwei Rädern - Radtour an der Freiberger Mulde](https://www.mdr.de/nachrichten/sachsen/chemnitz/freiberg/ferien-urlaub-ausflug-radtour-freiberger-mulde-100.html)
+* [NewPipe wurde in der Version 0.21.11 veröffentlicht.](https://newpipe.net/blog/pinned/release/newpipe-0.21.11-released/)
+* [Lutris wurde in der Version 0.5.9 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=Lutris-0.5.9-Released) - Jetzt wird sogar der Epic Games Store unterstützt
