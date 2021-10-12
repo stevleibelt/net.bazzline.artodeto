@@ -23,3 +23,4 @@
 * [Hier wird euch gezeigt, wie ihr euren Printserver auf Windows Server 2019 oder 2022 migriert.](https://4sysops.com/archives/migrate-print-servers-to-windows-server-2019-2022/)
 * [Die App E-Rezept von Gematik ist so schlecht wie gedacht, Daten gehen irgendwie irgendwo hin und das sagt auch deren Datenschutzerklärung aus.](https://www.kuketz-blog.de/e-rezept-app-gematik-safetynet-checks-und-tracking-via-google-firebase-analytics/)
 * [Ada unter linux kriegt man mit `gnat`.](https://opensource.com/article/21/10/learn-ada-2021)
+* [Popcorn Desktop wurde in der Version v0.4.6 veröffentlicht.](https://github.com/popcorn-official/popcorn-desktop/releases/tag/v0.4.6)
