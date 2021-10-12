@@ -19,3 +19,7 @@
 * [mdr.de: Einsam auf zwei Rädern - Radtour an der Freiberger Mulde](https://www.mdr.de/nachrichten/sachsen/chemnitz/freiberg/ferien-urlaub-ausflug-radtour-freiberger-mulde-100.html)
 * [NewPipe wurde in der Version 0.21.11 veröffentlicht.](https://newpipe.net/blog/pinned/release/newpipe-0.21.11-released/)
 * [Lutris wurde in der Version 0.5.9 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=Lutris-0.5.9-Released) - Jetzt wird sogar der Epic Games Store unterstützt
+* [Hackfressenbuch ist sich bewusst, dass es die Menschheit kaputt macht.](https://netzpolitik.org/2021/psychische-gesundheit-von-jugendlichen-facebook-verspricht-besserung/)
+* [Hier wird euch gezeigt, wie ihr euren Printserver auf Windows Server 2019 oder 2022 migriert.](https://4sysops.com/archives/migrate-print-servers-to-windows-server-2019-2022/)
+* [Die App E-Rezept von Gematik ist so schlecht wie gedacht, Daten gehen irgendwie irgendwo hin und das sagt auch deren Datenschutzerklärung aus.](https://www.kuketz-blog.de/e-rezept-app-gematik-safetynet-checks-und-tracking-via-google-firebase-analytics/)
+* [Ada unter linux kriegt man mit `gnat`.](https://opensource.com/article/21/10/learn-ada-2021)
