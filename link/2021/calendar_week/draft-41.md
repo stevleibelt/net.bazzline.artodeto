@@ -24,3 +24,7 @@
 * [Die App E-Rezept von Gematik ist so schlecht wie gedacht, Daten gehen irgendwie irgendwo hin und das sagt auch deren Datenschutzerklärung aus.](https://www.kuketz-blog.de/e-rezept-app-gematik-safetynet-checks-und-tracking-via-google-firebase-analytics/)
 * [Ada unter linux kriegt man mit `gnat`.](https://opensource.com/article/21/10/learn-ada-2021)
 * [Popcorn Desktop wurde in der Version v0.4.6 veröffentlicht.](https://github.com/popcorn-official/popcorn-desktop/releases/tag/v0.4.6)
+* [Da FDP, euer freier Markt, Gas-Verkäufer wie E.ON nehmen keinen Neukunden mehr an.](https://blog.fefe.de/?ts=9f9839cc)
+* [DragonFlyBSD wurde in der Version 6.0.1 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=DragonFlyBSD-6.0.1-Released)
+* [OHV ist mal wieder kaputt.](https://www.borncity.com/blog/2021/10/13/strung-beim-cloud-anbieter-ohv-am-13-10-2021/)
+* [Schwester Megan Rice ist tot.](https://netzfrauen.org/2021/10/13/megan-rice/)
