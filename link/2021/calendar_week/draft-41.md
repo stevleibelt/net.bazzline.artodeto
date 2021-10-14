@@ -28,3 +28,10 @@
 * [DragonFlyBSD wurde in der Version 6.0.1 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=DragonFlyBSD-6.0.1-Released)
 * [OHV ist mal wieder kaputt.](https://www.borncity.com/blog/2021/10/13/strung-beim-cloud-anbieter-ohv-am-13-10-2021/)
 * [Schwester Megan Rice ist tot.](https://netzfrauen.org/2021/10/13/megan-rice/)
+* [Nein? Doch! Oh? Amazon hat jetzt offiziell Produkte Raubkopiert und ihre Monopolstellung ausgenutzt um ihre Produkte zu erst in den Suchergebnissen zu platzieren.](https://blog.fefe.de/?ts=9f9937b7) - Ein klarer Fall von "in der Bude willst du nicht arbeiten"
+* [Die CDU Politik wirkt, dank Studiengebühren und Hackerverbot wurde Deutschland IT-Sicherheitstechnisch zurück in die Steinzeit gealtmeiert.](https://blog.fefe.de/?ts=9f993a35)
+* [Mit Windows 11 will Microsoft eben jeden in die Klaut und Teams pressen, ein weiterer Schritt, WSL2 gibt es jetzt nur noch über den Microsoft Store.](https://www.borncity.com/blog/2021/10/12/windows-11-wsl-wandert-in-den-microsoft-store/)
+* [TrueNas bringt jetzt Nextcloud von sich aus mit.](https://nextcloud.com/blog/nextcloud-now-officially-supported-on-truenas/)
+* [NewPipe wurde in der Version 0.21.12 veröffentlicht.](https://newpipe.net/blog/pinned/release/newpipe-0.21.12-released/)
+* [Hier werden euch fünf Markdown Texteditoren vorgestellt.](https://opensource.com/article/21/10/markdown-editors)
+* [Türkische Drohnen töten mit deutschen Raketen und Sensoren.](https://netzpolitik.org/2021/raketen-und-sensoren-deutsche-technik-fuer-den-tuerkischen-drohnenkrieg/)
