@@ -41,3 +41,10 @@
 * [Sehr schön, Datenschutz hilft Kuketz hat Post von Gematik bekommen.](https://www.kuketz-blog.de/reaktion-der-gematik-auf-e-rezept-app-pruefung/)
 * [Ubuntu wurde in der Version 21.10 veröffentlicht.](https://lwn.net/Articles/872970)
 * [Devuan wurde in der Version 4.0 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=Devuan-4.0-Released)
+* [Windows 2012 R2 und ESXI 7.0 machen Probleme.](https://blog.fefe.de/?ts=9f97627d)
+* [Wow, wirkliche Spezalisten treffen sich und schreiben ein Paper um Apple zu überzeugen, dass es mist ist wie sie ihre Kunden ausspionieren.](https://blog.fefe.de/?ts=9f946d16)
+* [Kanal9TV: Haus Smaragd in den Mineralienhöfen eröffnet](https://www.youtube.com/watch?v=5h9JtTrn01M)
+* [Die Schweriner Verwaltung wurde durch Ransomware lahm gelegt.](https://www.borncity.com/blog/2021/10/16/verwaltung-von-schwerin-durch-ransomware-lahmgelegt-15-10-2021/) - So traurig es ist, zu wenig Gelder fließen in die IT-Abteilungen die zu viel machen sollen. Gleichzeitig werden zu wenig Menschen geschult und desto mehr Macht jemand hat, desto weniger hält er sich an Regeln oder nutzt gar die neusten Softwareversionen
+* [Windows 10 Update KB5006670 macht das Drucken im Netzwerk erneut kaputt.](https://www.bleepingcomputer.com/news/microsoft/new-windows-10-kb5006670-update-breaks-network-printing/)
+* [Die kleineren Bürder von ALSA sind SALSA und tinyALSA.](https://www.phoronix.com/scan.php?page=news_item&px=SALSA-Linux-Audio-2021)
+* [Ihr spielt RPG? Hier gibt es drei Möglichkeiten wie ihr eure Charaktere verwaltet.](https://opensource.com/article/21/10/manage-rpg-character-sheets)
