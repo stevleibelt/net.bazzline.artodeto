@@ -48,3 +48,7 @@
 * [Windows 10 Update KB5006670 macht das Drucken im Netzwerk erneut kaputt.](https://www.bleepingcomputer.com/news/microsoft/new-windows-10-kb5006670-update-breaks-network-printing/)
 * [Die kleineren Bürder von ALSA sind SALSA und tinyALSA.](https://www.phoronix.com/scan.php?page=news_item&px=SALSA-Linux-Audio-2021)
 * [Ihr spielt RPG? Hier gibt es drei Möglichkeiten wie ihr eure Charaktere verwaltet.](https://opensource.com/article/21/10/manage-rpg-character-sheets)
+* [Es gibt jetzt ein PinePhonePro zum vorbestellen.](https://www.pine64.org/2021/10/15/october-update-introducing-the-pinephone-pro/)
+* [RedHat geht weg von docker hub und hin zu quay.io.](https://blog.nashcom.de/nashcomblog.nsf/dx/domino-docker-community-image-is-switching-to-centos-stream-8.htm)
+* [Eure Blockpartei wie sie lebt, da werden noch einmal 200 lupenreine Demokraten Beamtenposten in Ministerien geschaffen.](https://blog.fefe.de/?ts=9f92954f)
+* [Die Magnesiumlobby zieht auch an den Preisen.](https://blog.fefe.de/?ts=9f95a810) - Ach und die BWL-er gierirgen Firmen, die Magnesium brauchen, schreien zu erst um Staatshilfen. Ist halt einfacher als eigene Fehler einzugestehen
