@@ -11,3 +11,13 @@
 * [Funktionalität schimpft sich in Windows 11 jetzt "God mode".](https://www.bleepingcomputer.com/news/microsoft/how-to-unlock-windows-11s-god-mode-to-access-advanced-settings/)
 * [Videobeschleunigung für Firefox unter Linux macht auch Ende 2021 noch kein Spaß.](https://utcc.utoronto.ca/~cks/space/blog/web/Firefox93MyVideoAcceleration)
 * [Noyb hat ein Verfahren gegen den Adressverkäufer Axciom und die Credit-Referenz-Agentur CRIF Bürgel eingeleitet.](https://noyb.eu/en/illegal-credit-scores-noyb-amplify-pressure)
+* [Kapitalismus im Endstadium, jetzt zeigt auch der Papiermarkt wie eure FDP-ler spekulieren um noch reicher zu werden.](https://blog.fefe.de/?ts=9f9398cc)
+* [Ihr kauft Vogelfutter? Dann bereitet euch auf einen Besuch von der Polizei vor.](https://blog.fefe.de/?ts=9f90516e) - In germany, we are spelling Verhältnismäßigkeit differently
+* [Apple baut "Trackingschutz" vor den Marktmitbewerbern ein und - oh Staun - verbucht seit dem Rekordzuwächse bei der eigenen Datenverkaufsplattform.] (https://blog.fefe.de/?ts=9f904f3b)
+* [Die CDU Regierung scheidet dahin, also tut Jens Spahn auf einmal so, als wäre er ein Guter und erklärt die politische Coronaproblematik für beendet.](https://blog.fefe.de/?ts=9f931eb1) - Freut euch nicht, die anstehende Blockpartei aus SPD/FDP und Grünen wollen an der politisch erzeugten Krise auch noch mit verdienen.
+* [Obwohl das öffentlich, rechtlich nicht die Eier hatte, das gesammelte Material zu Herrn Julian Reichelt zu veröffentlichen, wurde er jetzt doch gegangen.](https://blog.fefe.de/?ts=9f937f0f)
+* [Jetzt wo wir Recycling brauchen, schauen wir als Gesellschaft auf die freie Wirtschaft und - oh nein - deren Recycling ist Greenwashing in BWL-er Reinkultur.](https://blog.fefe.de/?ts=9f937c23)
+* [Die unsichtbare Hand des freien Marktes regiert in den USA hart durch, dort werden die Zeitungsverlage gekauft und alles, was sozial kritisch ist, rausoptimiert.](https://blog.fefe.de/?ts=9f936eaf)
+* [Weltraumforschung war immer nur Atomschlagsforschung.](https://blog.fefe.de/?ts=9f936679)
+* [Nach Magnesium wird uns eine Zinnknappheit treffen und die stört nahezu alles was mit der Glasproduktion zu tun hat.](https://blog.fefe.de/?ts=9f935b31)
+* [Im großen Britanien wird jetzt Gesichtserkennung in den Schulen ausgerollt, für, kommt ihr nie drauf, schnellere Bezahlung beim Essen.](https://blog.fefe.de/?ts=9f935818) - Das hat bestimmt eine Tonne Koks verbraucht, bis die Marktfremden auf die Idee gekommen sind
