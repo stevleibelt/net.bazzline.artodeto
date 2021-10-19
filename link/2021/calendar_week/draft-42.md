@@ -21,3 +21,12 @@
 * [Weltraumforschung war immer nur Atomschlagsforschung.](https://blog.fefe.de/?ts=9f936679)
 * [Nach Magnesium wird uns eine Zinnknappheit treffen und die stört nahezu alles was mit der Glasproduktion zu tun hat.](https://blog.fefe.de/?ts=9f935b31)
 * [Im großen Britanien wird jetzt Gesichtserkennung in den Schulen ausgerollt, für, kommt ihr nie drauf, schnellere Bezahlung beim Essen.](https://blog.fefe.de/?ts=9f935818) - Das hat bestimmt eine Tonne Koks verbraucht, bis die Marktfremden auf die Idee gekommen sind
+* [Hey ihr da, die nicht DIE LINKE wählen, hier ist eure Welt. Cum-Ex Reloaded, damit werden Verluste bei der Aktienspekulation negativ versteuert.](https://blog.fefe.de/?ts=9f90676e) - Kurzum, man "vertippt" sich und sozialisiert die Verluste. Da juckt einem schon wieder der Flammenwerfer.
+* [Springer konnte sich den Kauf von Policio nur durch Geldwäsche "leisten".](https://blog.fefe.de/?ts=9f905a73)
+* [Haltet durch liebe Schüler, ab dem 08.11 fällt in Sachsen die Maskenpflicht für Schüler.](https://www.bildung.sachsen.de/blog/index.php/2021/10/18/weiter-hohe-schutzmassnahmen-an-schulen-aber-keine-maskenpflicht-im-unterricht/)
+* [Wie zu erwarten war, ist die `Post & DHL`-App alles andere als datenschutzfreundlich.](https://www.kuketz-blog.de/post-dhl-app-datenuebermittlung-an-tracking-anbieter-noch-vor-zustimmung-einwilligung/)
+* [Nein? Doch! Oh? Nun schaut mal, nur die nicht erneuerbaren Energien lassen den Strompreis so ansteigen.](https://www.sonnenseite.com/de/energie/erneuerbare-senken-strompreis/) - Da hat uns die CDU und der Altmeier richtig was gutes hinterlassen. Gern würde ich das Herrn Altmeier mal ins Gesicht sagen, so im Privaten.
+* [PowerShell Providers scheinen so eine Art Fassade oder Adapter zu sein.](https://arcanecode.com/2021/10/18/fun-with-powershell-providers/)
+* [Windows Defender ist kaputt.](https://www.borncity.com/blog/2021/10/19/windows-11-defender-bypass-mit-ausbruch-aus-der-sandbox/)
+* [Roundcube wurde in der Version 1.5.0 veröffentlicht.](https://roundcube.net/news/2021/10/18/roundcube-1.5.0-released)
+* [VKD3D-Proton wurde in der Version 2.5 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=VKD3D-Proton-2.5)
