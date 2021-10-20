@@ -30,3 +30,10 @@
 * [Windows Defender ist kaputt.](https://www.borncity.com/blog/2021/10/19/windows-11-defender-bypass-mit-ausbruch-aus-der-sandbox/)
 * [Roundcube wurde in der Version 1.5.0 veröffentlicht.](https://roundcube.net/news/2021/10/18/roundcube-1.5.0-released)
 * [VKD3D-Proton wurde in der Version 2.5 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=VKD3D-Proton-2.5)
+* [Wie war die Zeit vor dem Smartphone, man war deutlich weniger alarmiert.](https://mattruby.substack.com/p/the-most-unbelievable-things-about)
+* [Die App `UniNow` ist nicht schlecht, aber hat noch deutlich Luft nach oben.](https://www.kuketz-blog.de/uninow-app-rechtsprobleme-beim-corona-tracing/)
+* [Da stimmen über eine Million Berliner für die Enteignung einer Arschlochfirma, betrieben von Marktfremden, machen aber gleichzeitig den Fehler und wählen die SPD und die Grünen.](https://tuxproject.de/blog/2021/10/liegengebliebenes-vom-20-oktober-2021/) - Wer hat uns verraten? Sozialdemokraten!
+* [Argentinien zeigt uns Europäern was passieren wird, die haben eine Datenbank mit allen Passdaten ihrer Bürger ins Internet gestellt.](https://www.borncity.com/blog/2021/10/20/datenbank-mit-allen-passdaten-aller-argentinier-gehackt/) - 45 Millionen Datensätze oder mehr.
+* [Softmaker FreeOffice 2021 als Alternative zu Microsoft Office.](https://www.borncity.com/blog/2021/10/19/softmaker-freeoffice-2021-verfgbar/)
+* [Microsoft Teams ist in Europa kaputt.](https://www.borncity.com/blog/2021/10/19/microsoft-teams-in-europa-gestrt-19-10-2021/)
+* [Mit `capa` könnt ihr `elf` Dateien untersuchen.](https://opensource.com/article/21/10/linux-elf-capa)
