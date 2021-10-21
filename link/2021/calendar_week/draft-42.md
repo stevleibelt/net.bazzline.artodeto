@@ -37,3 +37,12 @@
 * [Softmaker FreeOffice 2021 als Alternative zu Microsoft Office.](https://www.borncity.com/blog/2021/10/19/softmaker-freeoffice-2021-verfgbar/)
 * [Microsoft Teams ist in Europa kaputt.](https://www.borncity.com/blog/2021/10/19/microsoft-teams-in-europa-gestrt-19-10-2021/)
 * [Mit `capa` könnt ihr `elf` Dateien untersuchen.](https://opensource.com/article/21/10/linux-elf-capa)
+* [Mit `nbtstat.exe -c` prüft ihr, ob euer PC noch irgendwas mit `NetBIOS` macht. Der verlinkte Artikel zeigt euch, wie ihr `NetBIOS` deaktiviert.](https://www.windowspro.de/brandon-lee/netbios-windows-netzwerken-deaktivieren)
+* [VirtualBox wurde in der Version 6.1.28 veröffentlicht.](https://www.borncity.com/blog/2021/10/21/virtualbox-6-1-28-freigegeben/)
+* [Firewall nennt man unter Kubernetes NetworkPolicy.](https://opensource.com/article/21/10/kubernetes-networkpolicy) - Und kommt als separates Plugin. Schade!
+* [Daniel Nashed schreibt wieder darüber wie das "Leben" seines Dominos auf einem ZFS Storage so ist.](http://blog.nashcom.de/nashcomblog.nsf/dx/domino-backup-using-a-zfs-target-in-production.htm) - Was mir gefällt, er betreibt dies in einer produktiven Umgebung.
+* [`wget <url> --output-document - | head -n4`](https://opensource.com/article/21/10/linux-wget-command)
+* [GIMP wurde in der Version 2.99.8 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=GIMP-2.99.8-Released)
+* [Eclipse OpenJ9 wurde in der Version 0.29 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=Eclipse-OpenJ9-v0.29)
+* [Mit `curl_setopt($ch, CURLOPT_ENCODING, '');` ermöglicht ihr den Webserver, als Gegenstelle, die Daten komprimiert zu senden.](https://php.watch/articles/curl-php-accept-encoding-compression)
+* [Elektroschrott macht am Ende seines Lebens noch mehr Probleme. Alles was blinkt, vibiert etc. ist Elektroschrott. Gewerbliche Sammler entsorgen den Elektroschrott meist nicht fachgerecht.](https://www.sonnenseite.com/de/umwelt/wohin-mit-dem-elektroschrott-2/)
