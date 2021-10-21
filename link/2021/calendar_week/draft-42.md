@@ -46,3 +46,5 @@
 * [Eclipse OpenJ9 wurde in der Version 0.29 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=Eclipse-OpenJ9-v0.29)
 * [Mit `curl_setopt($ch, CURLOPT_ENCODING, '');` ermöglicht ihr den Webserver, als Gegenstelle, die Daten komprimiert zu senden.](https://php.watch/articles/curl-php-accept-encoding-compression)
 * [Elektroschrott macht am Ende seines Lebens noch mehr Probleme. Alles was blinkt, vibiert etc. ist Elektroschrott. Gewerbliche Sammler entsorgen den Elektroschrott meist nicht fachgerecht.](https://www.sonnenseite.com/de/umwelt/wohin-mit-dem-elektroschrott-2/)
+* [TukTuk zeigt wohin die automatisierte Reise geht, alles was sich nicht geschlechts- und ethnienübergreifend verkaufen lässt, ist verboten.](https://blog.fefe.de/?ts=9f8e8449)
+* [Das E-Rezept ist kaputt, macht aber nicht, auch kaputt kommt es zum 01.01.2022.](https://blog.fefe.de/?ts=9f912c36)
