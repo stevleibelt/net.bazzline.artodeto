@@ -46,3 +46,7 @@
 * [Eclipse OpenJ9 wurde in der Version 0.29 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=Eclipse-OpenJ9-v0.29)
 * [Mit `curl_setopt($ch, CURLOPT_ENCODING, '');` ermöglicht ihr den Webserver, als Gegenstelle, die Daten komprimiert zu senden.](https://php.watch/articles/curl-php-accept-encoding-compression)
 * [Elektroschrott macht am Ende seines Lebens noch mehr Probleme. Alles was blinkt, vibiert etc. ist Elektroschrott. Gewerbliche Sammler entsorgen den Elektroschrott meist nicht fachgerecht.](https://www.sonnenseite.com/de/umwelt/wohin-mit-dem-elektroschrott-2/)
+* [Willkommen im Colosseum, bei Sony könnt ihr demnächst bezahlen um andere Mitspieler aus dem Spiel zu entfernen.](https://blog.fefe.de/?ts=9f8ff268)
+* [Wow, Flixbus kauft Greyhound aus den USA.](https://blog.fefe.de/?ts=9f8f280b)
+* [Wegen den ganzen kaputten Microsoft (und anderen) Softwareprodukten ruft das BIS Cyberalarmstufe Rot aus.](https://blog.fefe.de/?ts=9f8fa5ed) - Kann ich verstehen, ist aber das Resultat von mehr als 20 Jahren kaputt gesparter Infrastruktur und Personalstruktur
+* [Microsoft signiert Rootkits.](https://blog.fefe.de/?ts=9f8f9fbd) - Die wissen auch nicht was sie da so treiben.
