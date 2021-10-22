@@ -52,3 +52,8 @@
 * [Wow, Flixbus kauft Greyhound aus den USA.](https://blog.fefe.de/?ts=9f8f280b)
 * [Wegen den ganzen kaputten Microsoft (und anderen) Softwareprodukten ruft das BIS Cyberalarmstufe Rot aus.](https://blog.fefe.de/?ts=9f8fa5ed) - Kann ich verstehen, ist aber das Resultat von mehr als 20 Jahren kaputt gesparter Infrastruktur und Personalstruktur
 * [Microsoft signiert Rootkits.](https://blog.fefe.de/?ts=9f8f9fbd) - Die wissen auch nicht was sie da so treiben.
+* [Noch eine Sache zum Thema Cybersicherheit, im Vergleich zum verkackten Umweltschutz, ist Cybersicherheit realistisch und kurzfristig machbar.](https://netzpolitik.org/2021/lagebericht-zur-it-sicherheit-ueberschwemmung-waldbrand-und-cyberangriff/)
+* [Die Deutsche Bahn reagiert auf Kuketz Kritik mit ... mit eigentlich keiner Aussage.](https://www.kuketz-blog.de/reaktion-der-deutschen-bahn-auf-kritisches-android-review-zur-db-navigator-app/)
+* [Nein? Doch! Oh? Bewertungen von Geschäften und Dienstleistungen bei Google sind wahrscheinlich gefälscht.](https://netzpolitik.org/2021/verbraucherschutz-recherche-deckt-netzwerke-von-falschen-google-bewertungen-auf/)
+* [Uberspace erklärt euch einmal das Problem mit vertrauenswürdigen Zertifizierungsstellen.](https://blog.uberspace.de/multiple-ca-listen-mehr-chaos-als-gedacht/)
+* [Windows 10 21H2 kommt im November.](https://www.bleepingcomputer.com/news/microsoft/microsoft-is-releasing-windows-10-21h2-in-november/)
