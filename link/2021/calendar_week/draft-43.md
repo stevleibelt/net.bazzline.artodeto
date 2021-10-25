@@ -1,3 +1,5 @@
 * [Die NATO betreibt wieder "Operation kalter Krieg". Statt mit unseren Nachbarn aus Russland zu reden, schreiben wir über die NATO gemeine Briefe das wir Atomwaffen super finden.](https://tuxproject.de/blog/2021/10/si-vis-pacem-para-bellum-18/)
 * [Nein? Doch! Oh? Jetzt ziehen alle Firmen, zwangsweise, in die Cloud und jetzt geht die Cloud offiziell kaputt.](https://www.borncity.com/blog/2021/10/24/angriffe-auf-die-software-lieferketten-in-der-cloud-verschrfen-bedrohungslage-fr-unternehmen/)
 * [Eure SMART-Datenbank müsst ihr auch ab und an mal aktualisieren.](https://utcc.utoronto.ca/~cks/space/blog/linux/SMARTUpdateDriveDatabase)
+* [Da berichtet jemand über den Fall, dass jemand durch Pegasus gehackt wird und wird direkt selbst durch Pegasus gehackt.](https://blog.fefe.de/?ts=9f8868a1)
+* [Meson wurde in der Version v.0.60 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=Meson-0.60-Build-System)
