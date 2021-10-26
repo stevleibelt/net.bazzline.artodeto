@@ -3,3 +3,6 @@
 * [Eure SMART-Datenbank müsst ihr auch ab und an mal aktualisieren.](https://utcc.utoronto.ca/~cks/space/blog/linux/SMARTUpdateDriveDatabase)
 * [Da berichtet jemand über den Fall, dass jemand durch Pegasus gehackt wird und wird direkt selbst durch Pegasus gehackt.](https://blog.fefe.de/?ts=9f8868a1)
 * [Meson wurde in der Version v.0.60 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=Meson-0.60-Build-System)
+* [Alte Containerschiffe werden aus Profitgier nicht still gelegt und so passiert, was passieren muss, immer mehr Containerbrände.](https://netzfrauen.org/2021/10/25/ocean-6/)
+* [Nein? Doch! Oh? Europa baut massiv und steuerfinanziert die massenhafte Überwachung durch Biometrie aus.](https://www.patrick-breyer.de/neue-studie-zeigt-alarmierende-ausweitung-der-biometrischen-massenueberwachung-in-europa/)
+* [Es geht los, die Hetzpresse wird angeschmissen, Fridays for Futures werden jetzt mit dem Attribut "Nazis" versehen.](https://blog.fefe.de/?ts=9f86c31b)
