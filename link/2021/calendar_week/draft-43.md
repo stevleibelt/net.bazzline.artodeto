@@ -6,3 +6,10 @@
 * [Alte Containerschiffe werden aus Profitgier nicht still gelegt und so passiert, was passieren muss, immer mehr Containerbrände.](https://netzfrauen.org/2021/10/25/ocean-6/)
 * [Nein? Doch! Oh? Europa baut massiv und steuerfinanziert die massenhafte Überwachung durch Biometrie aus.](https://www.patrick-breyer.de/neue-studie-zeigt-alarmierende-ausweitung-der-biometrischen-massenueberwachung-in-europa/)
 * [Es geht los, die Hetzpresse wird angeschmissen, Fridays for Futures werden jetzt mit dem Attribut "Nazis" versehen.](https://blog.fefe.de/?ts=9f86c31b)
+* [Wie wichtig ist den Banken ihre Infrastruktur? So wichtig, dass man mit Technik aus dem Jahre 1960 betreibt.](https://blog.fefe.de/?ts=9f898898)
+* [Elternführerschein, probeweise zu erst für Politiker?](https://blog.fefe.de/?ts=9f87a39f) - Damit diese ein Hauch von Gewissen kriegen?
+* [Polen, Niederlande und wohl auch Italien haben die Daten des digitalen Impfpasses der Öffentlichkeit frei zugänglich gemacht.](https://blog.fefe.de/?ts=9f87a1ed)
+* [Braucht keiner, interessiert Microsoft aber nicht. Die wollen all eure Daten erfassen.](https://www.bleepingcomputer.com/news/microsoft/microsoft-is-force-installing-pc-health-check-in-windows-10/)
+* [23 Firmen haben sich zu einer digitalen Allianz zum Schutz privater Daten zusammen geschlossen.](https://nextcloud.com/blog/european-technology-companies-launch-the-new-coalition-for-competitive-digital-market/)
+* [Hier wird euch gezeigt, wie ihr mit dem PowerShell Secret Module Passwörter und Ähnliches geheim haltet.](https://devblogs.microsoft.com/powershell-community/how-to-use-the-secret-modules/)
+* [Nein? Doch! Oh? Hackfressenbuch und "Ich hab recht" haben sich abgesprochen um den Werbemarkt unter sich auf zuteilen.](https://netzpolitik.org/2021/werbemarkt-wie-google-und-facebook-sich-die-konkurrenz-vom-leib-halten/)
