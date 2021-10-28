@@ -13,3 +13,11 @@
 * [23 Firmen haben sich zu einer digitalen Allianz zum Schutz privater Daten zusammen geschlossen.](https://nextcloud.com/blog/european-technology-companies-launch-the-new-coalition-for-competitive-digital-market/)
 * [Hier wird euch gezeigt, wie ihr mit dem PowerShell Secret Module Passwörter und Ähnliches geheim haltet.](https://devblogs.microsoft.com/powershell-community/how-to-use-the-secret-modules/)
 * [Nein? Doch! Oh? Hackfressenbuch und "Ich hab recht" haben sich abgesprochen um den Werbemarkt unter sich auf zuteilen.](https://netzpolitik.org/2021/werbemarkt-wie-google-und-facebook-sich-die-konkurrenz-vom-leib-halten/)
+* [xorg-server wurde in der Version 21.1.0 veröffentlicht.](https://lwn.net/Articles/874152/rss)
+* [Microsoft Update führt jetzt auch zu "No bootable device".](https://www.borncity.com/blog/2021/10/27/notebooks-acer-lenovo-hp-verursachen-pltzlich-no-bootable-device-fehler-okt-2021/) - Immerhin mal kein Druckerproblem!
+* [Von Brasilien aus, soll die Welt vergiftet werden.](https://netzfrauen.org/2021/10/27/pesticides-5/)
+* [`s/dockerdesktop/rancherdesktop`](https://blog.nashcom.de/nashcomblog.nsf/dx/a-new-start-is-born-rancher-desktop.htm)
+* [Protonmail hat es schriftlich und vor Gericht, Protonmail muss an der Vorratsdatenspeicherung mitmachen.](https://netzpolitik.org/2021/rechtsstreit-protonmail-muss-sich-nicht-an-vorratsdatenspeicherung-beteiligen/)
+* [Nein? Doch! Oh? Europa braucht nicht mehr Flughafen, die Schieneninfrastruktur reicht vollkommen.](https://www.sonnenseite.com/de/mobilitaet/ein-drittel-europaeischer-kurzstreckenfluege-laesst-sich-durch-zugfahrten-unter-sechs-stunden-ersetzen/)
+* [Nein? Doch! Oh? Pepsi, CocaCola, Unilever, Nestle, diese Konzerne sind die größten Plastikverschmutzer der Welt.](https://www.sonnenseite.com/de/umwelt/die-groessten-plastikverschmutzer-der-welt-coca-cola-pepsi-unilever-und-nestle/)
+* [So, so, zwei Prozent Elon Musks Vermögen reicht um den Welthunger zu besiegen.](https://blog.fefe.de/?ts=9f844dab) - Für den Fall, dass euch die CDU/SPD/FDP noch etwas von Steuererleichterungen gegenüber den Reichen und Marktfreien erzählt
