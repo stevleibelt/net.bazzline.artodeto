@@ -21,3 +21,10 @@
 * [Nein? Doch! Oh? Europa braucht nicht mehr Flughafen, die Schieneninfrastruktur reicht vollkommen.](https://www.sonnenseite.com/de/mobilitaet/ein-drittel-europaeischer-kurzstreckenfluege-laesst-sich-durch-zugfahrten-unter-sechs-stunden-ersetzen/)
 * [Nein? Doch! Oh? Pepsi, CocaCola, Unilever, Nestle, diese Konzerne sind die größten Plastikverschmutzer der Welt.](https://www.sonnenseite.com/de/umwelt/die-groessten-plastikverschmutzer-der-welt-coca-cola-pepsi-unilever-und-nestle/)
 * [So, so, zwei Prozent Elon Musks Vermögen reicht um den Welthunger zu besiegen.](https://blog.fefe.de/?ts=9f844dab) - Für den Fall, dass euch die CDU/SPD/FDP noch etwas von Steuererleichterungen gegenüber den Reichen und Marktfreien erzählt
+* [Panagenda hat für euren HCL Notes Client ein kostenfreien "Timezone Helper" geschrieben.](https://www.panagenda.com/blog/timezone-helper-for-hcl-notes-meeting-scheduling/)
+* [Das WordPress PlugIn OptinMonster ist kaputt.](https://www.bleepingcomputer.com/news/security/wordpress-plugin-bug-impacts-1m-sites-allows-malicious-redirects/)
+* [Hier wird euch erklärt, wie ihr eure Templates im Zabbix aktualisiert.](https://blog.zabbix.com/keeping-your-zabbix-templates-up-to-date/16412/)
+* [`strftime`, `gmstrftime`](https://php.watch/versions/8.1/strftime-gmstrftime-deprecated) und [`strptime`](https://php.watch/versions/8.1/strptime-deprecation) sind ab PHP 8.1 markiert als `deprecated`
+* [Wären wir durch CDU/CSU/SPD/FDP nicht verraten wurden, dann würden die Strompreise 2021 schon sinken statt steigen.](https://www.sonnenseite.com/de/energie/strom-waere-heute-schon-preiswerter-bei-einer-vollversorgung-mit-100-erneuerbaren-energien/)
+* [Windows ist, dank WPBT kaputt, also jede Version.](https://www.borncity.com/blog/2021/10/30/windows-wpbt-schwachstelle-ermglicht-rootkit-installation/)
+* [Microsoft Windows KB5006674 und KB5006670 machen die Drucker kaputt.](https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-kb5006674-kb5006670-updates-break-printing/)
