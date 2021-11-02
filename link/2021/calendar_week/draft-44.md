@@ -2,3 +2,6 @@
 * [Ab Dezember 2021 gibt es endlich keine automatische Verlängerung der Mobilfunkverträge um weitere zwei Jahre, dann kann man jeden Monat kündigen.](https://blog.fefe.de/?ts=9f817d17)
 * [Windows 11 ist in Sachen "TMP Pfad zumüllen" gleich dem Windows 10.](https://www.borncity.com/blog/2021/11/01/auch-windows-11-flutet-ordner-mit-leerem-tmp-verzeichnismll/)
 * [Nextclouds "Peer to Peer Backup" ist jetzt in der Beta angelangt.](https://nextcloud.com/blog/beta-of-peer-to-peer-nextcloud-backup-app-now-available-for-testing/)
+* [BitDefender ist kaputt.](https://blog.fefe.de/?ts=9f7ed4f1)
+* [Auf Schmutzwasserpumpen wartet man heute gern mal vier Monate, blöd wenn deswegen die Kanalisation einer Stadt nicht mehr funktioniert.](https://blog.fefe.de/?ts=9f8128a3)
+* [Die Bundeswehr, in Person Herr Pfeffer, sagt ja zu Killerdrohnen. Die Begründung? Wer nein zu Killerdrohnen sagt, sagt auch nein zur Bundeswehr!](https://blog.fefe.de/?ts=9f7fcd05)
