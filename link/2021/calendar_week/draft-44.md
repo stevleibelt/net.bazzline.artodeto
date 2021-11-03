@@ -14,3 +14,6 @@
 * [Vulkan wurde in der Version 1.2.197 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=Vulkan-1.2.197-Released)
 * [VMWare ESXI 7.0 und Windows 2012 R2 funktionieren nicht mehr zusammen.](https://www.borncity.com/blog/2021/11/02/vmware-esxi-7-0-windows-server-2012-r2-zeigt-non-accessible-boot-device/)
 * [Rust wurde in der Version 1.56.1 veröffentlicht.](https://blog.rust-lang.org/2021/11/01/Rust-1.56.1.html)
+* [PHPStan wurde in der Version 1.0 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=PHPStan-1.0-Released)
+* [Das Versammlungsrecht in NRW soll ja faktisch abgeschafft werden, auch die dritte Großdemonstration dagegen zeigt, wie viele Menschen mit der Politik gegen das Volk nicht einverstanden sind.](https://netzpolitik.org/2021/versammlungsgesetz-nrw-tausende-protestieren-in-koeln-gegen-einschraenkungen-des-demonstrationsrechts/)
+* [`podman play` ist ein `docker compose` mit Kubernetes Unterstützung und mehr.](https://podman.io/blogs/2021/10/28/build-kubernetes-pods-with-podman-play-kube.html)
