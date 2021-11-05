@@ -23,3 +23,8 @@
 * [mdr.de: Freiberger engagieren sich für Flutopfer](https://www.mdr.de/nachrichten/sachsen/chemnitz/freiberg/benefizkonzert-flutopfer-freiberg-100.html)
 * [Durch die, teiweilse, staatseigenen Betriebe werden demnächst erneut 2,4 Milliarden Euro Steuergelder privatisiert.](https://www.sonnenseite.com/de/wirtschaft/schiedsverfahren-endgueltig-beigelegt-akw-betreiber-werden-entschaedigt/)
 * [Klarna funktioniert nur gut mit Maschinen, weniger mit Menschen.](https://www.borncity.com/blog/2021/11/04/klarna-vorsicht-bei-online-kufen-rckbuchung-bei-abweichendem-verwendungszweck/)
+* [`ksmbd` scheint, wie zu erwartend, ein richtiges Brett in Sachen Performance zu sein.](https://lwn.net/Articles/875132)
+* [Was ist so schlimm an Chatkontrolle? Jede Nachricht wird automatisiert durchsucht und irgendwie sowie irgendwo kategorisiert.](https://netzpolitik.org/2021/eu-kommission-warum-die-chatkontrolle-so-gefaehrlich-ist/) - Absolute Überwachung und der Schritt in Richtung Gedankenpolizei
+* [`ansible-playbook playbook.yml -i inventory.ini -e '@password.yml' --vault-password-file=vault.txt`](https://www.shellhacks.com/ansible-sudo-a-password-is-required/)
+* [Die Polizei in Hamburg nimmt eure Fingerabdrücke jetzt mit einem Smartphone auf.](https://netzpolitik.org/2021/mobipol-polizei-hamburg-scannt-fingerabdruecke-jetzt-auch-per-handy/)
+* [Ihr wollt das Ziel von einem SymLink aktualisieren? `ln -fns <source> <target>`](https://opensource.com/article/21/11/update-linux-file-system-link)
