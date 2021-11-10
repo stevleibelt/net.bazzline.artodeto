@@ -31,3 +31,17 @@
 * [Der Tor Browser wurde in der Version 11 veröffentlicht.](https://www.bleepingcomputer.com/news/software/tor-browser-11-removes-v2-onion-url-support-adds-new-ui/)
 * [Die, von Steuergelder finanzierte und datenschutzfreundliche, Corona-Warn-App kann jetzt die QR-Codes von Luca nutzen.](https://netzpolitik.org/2021/digitale-kontaktnachverfolgung-corona-warn-app-kann-qr-codes-von-luca-nutzen/)
 * [Alles in die Cloud, bis es rumpelt, Microsofts zentraler Anmeldedienst "SSO" ist kaputt.](https://www.borncity.com/blog/2021/11/09/sso-bei-microsoft-365-gestrt-9-11-2021/)
+* [Ihr wollt via `Format-Table` in der PowerShell mehr als vier Spalten haben? Nutzt `$Global:FormatEnumerationLimit`.](https://devblogs.microsoft.com/powershell-community/how-to-use-formatenumerationlimit/)
+* [Samba wurde in den Versionen 4.15.2, 4.14.10 und 4.13.14 veröffentlicht.](https://lwn.net/Articles/875565/rss)
+* [Mit `qrcp` könnt ihr schnell und einfach Dateien von und zu eurem Android zu oder von eurem PC schicken.](https://opensource.com/article/21/11/transfer-files-phone-linux)
+* [Xen mit Linux 5.16 lässt die Gäste deutlich schneller hochfahren.](https://www.phoronix.com/scan.php?page=news_item&px=Linux-5.16-Faster-Boot-Xen-PV)
+* [Microsoft Exchange ist mal wieder richtig kaputt.](https://www.bleepingcomputer.com/news/microsoft/microsoft-urges-exchange-admins-to-patch-bug-exploited-in-the-wild/)
+* [Herr Patrick Gruenauer zeigt euch, wie man mit PowerShell RegExp schreibt.](https://sid-500.com/2021/11/09/powershell-and-regex-find-replace-occurrences/)
+* [Was macht Knative Service eigentlich aus? Hier wird es euch erklärt.](https://opensource.com/article/21/11/knative-serving-serverless)
+* [Tja, was nimmt man aus solch einer Umfrage mit. Eigentlich müsste Die LINKE die Bundesregierung alleine stellen.](https://blog.fefe.de/?ts=9f755391)
+* [Die BaFin äußert so harte Worte, wie möglich, gegenüber N26.](https://blog.fefe.de/?ts=9f754d98)
+* [Mit DirectIO könnte OpenZFS noch einmal einen richtigen Geschwindigkeitszuwachs erzielen.](https://www.phoronix.com/scan.php?page=news_item&px=OpenZFS-DirectIO-Performance)
+* [Google, also die Firma hinter "Ich hab recht", manipuliert die Suchergebnise und muss nun 2,4 Milliarden Euro Strafe zahlen.](https://netzpolitik.org/2021/google-shopping-eu-gericht-bestaetigte-milliardenstrafe/) - Das Schlimme ist, die Summe ist für Google ein Tropfen.
+* [Hier wird euch gezeigt, wie ihr unter Windows eine Aktion ausführt, wenn ein Programm gestartet wird.](http://woshub.com/run-script-when-app-opens-closes/)
+* [Citrix ist kaputt.](https://blog.fefe.de/?ts=9f756cc8)
+* [Ubuntu 18.10 mit systemd und netplan scheinen Probleme zu haben. Hier wird euch gezeigt, wie ihr alles mit einem bash-Skript umgehen könnt.](https://utcc.utoronto.ca/~cks/space/blog/linux/SystemdNetworkUpHammer) - Ist aber keine elegante Lösung. Was man mitnehmen muss, `TimeoutStartSec=60s` gehört in jedes systemd Skript.
