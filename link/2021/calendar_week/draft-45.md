@@ -22,3 +22,12 @@
 * [Was passiert, wenn die Medien andauern von Kriminalität berichten? Man denkt, dass die Welt immer krimineller wird. Die Realität sieht anders aus.](https://netzpolitik.org/2021/kriminalitaetswahrnehmung-vollkommen-losgeloest-von-der-realitaet/) - Dies ist auch der Grund, warum Gesetze verschärft werden, sonst würden einige Überwachungsinstanzen arbeitslos werden.
 * [Tekton ist CI und CD in einem.](https://opensource.com/article/21/11/cicd-pipeline-kubernetes-tekton)
 * [HashiCorp hat mit Packer ja wieder etwas geschaffen.](https://www.packer.io/)
+* [Prinzip Hoffnung, die Arztsoftware von Medatixx ist kaputt.](https://blog.fefe.de/?ts=9f745326) - Haufen Kundendaten wurden raus getragen.
+* [Ein Metallprüfer in den USA gab zu, dass er seit Jahrzehnten Testergebnisse zu Stahl fälscht.](https://blog.fefe.de/?ts=9f74bbbf)
+* [NCurses wurde in der Version 6.3 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=Ncurses-6.3)
+* [>>Die schlechte Nachricht vorab: Firefox ist im Auslieferungszustand kein datenschutzfreundlicher Browser. Im Gegensatz zu seinen Konkurrenten wie Google Chrome oder Microsoft Edge lässt er sich aber zu einem datenschutzfreundlicher Browser umwandeln.<<](https://www.kuketz-blog.de/mozilla-firefox-datensendeverhalten-desktop-version-browser-check-teil20/) - Wem kannst du heute noch trauen?
+* [EU, du Feind für deine Bürger, da werden Gesetze erlassen um das Ein- und Ausreisen zu erschweren nur damit man hinterher Überwachungstechnik ausrollen kann um den Status Quo wieder herzustellen.](https://netzpolitik.org/2021/neues-kontrollsystem-frontex-beendet-pilotprojekt-zur-gesichtserkennung-an-eu-aussengrenzen/)
+* [DRM in Spielen? Super Sache, damit könnt ihr, gekaufte Spiele nur so lange nutzen wie der Hersteller bereit ist "Infrastruktur" zu stellen.](https://www.borncity.com/blog/2021/11/09/spiele-gau-abgelaufene-denuvo-domain-blockt-gamer/)
+* [Der Tor Browser wurde in der Version 11 veröffentlicht.](https://www.bleepingcomputer.com/news/software/tor-browser-11-removes-v2-onion-url-support-adds-new-ui/)
+* [Die, von Steuergelder finanzierte und datenschutzfreundliche, Corona-Warn-App kann jetzt die QR-Codes von Luca nutzen.](https://netzpolitik.org/2021/digitale-kontaktnachverfolgung-corona-warn-app-kann-qr-codes-von-luca-nutzen/)
+* [Alles in die Cloud, bis es rumpelt, Microsofts zentraler Anmeldedienst "SSO" ist kaputt.](https://www.borncity.com/blog/2021/11/09/sso-bei-microsoft-365-gestrt-9-11-2021/)
