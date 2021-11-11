@@ -59,3 +59,8 @@
 * [Chrome von Ich hab recht will scheinbar `Rechtsklick` -> `Quelltext anzeigen` entfernen.](https://blog.fefe.de/?ts=9f72315c)
 * [APE Aruba ist kaputt.](https://www.bleepingcomputer.com/news/security/hpe-says-hackers-breached-aruba-central-using-stolen-access-key/)
 * [Coreboot wurde in der Version 4.15 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=Coreboot-4.15)
+* [PowerShell wurde in der Version 7.2 veröffentlicht.](https://www.windowspro.de/news/powershell-72-automatische-updates-psreadline-21-drei-jahre-support/04909.html)
+* [CovPass ist noch eine App, die vom Bund der Steuerzahler bezahlt und "völlig überraschend" um ein vielfaches teurer wird.](https://www.borncity.com/blog/2021/11/11/autsch-der-covpass-ansatz-zum-digitalen-covid-19-impfnachweis-wird-fnfmal-teurer-als-geplant/)
+* [Btrfs plane einen On-Disk Format Änderung.](https://www.phoronix.com/scan.php?page=news_item&px=Btrfs-Improving-Painful-Parts)
+* [Siemens Nucleos RTOS ist kaputt.](https://www.borncity.com/blog/2021/11/11/kritische-schwachstellen-in-siemens-nucleos-rtos/) - Das Ding wird in Medizingeräten oder der Industriesteuerung eingesetzt.
+* [Schokolade oder Wald an der Elfenbeinküste, die Menschen der ersten Welt müssen sich entscheiden.](https://netzfrauen.org/2021/11/11/deforestation-3/)
