@@ -45,3 +45,17 @@
 * [Hier wird euch gezeigt, wie ihr unter Windows eine Aktion ausführt, wenn ein Programm gestartet wird.](http://woshub.com/run-script-when-app-opens-closes/)
 * [Citrix ist kaputt.](https://blog.fefe.de/?ts=9f756cc8)
 * [Ubuntu 18.10 mit systemd und netplan scheinen Probleme zu haben. Hier wird euch gezeigt, wie ihr alles mit einem bash-Skript umgehen könnt.](https://utcc.utoronto.ca/~cks/space/blog/linux/SystemdNetworkUpHammer) - Ist aber keine elegante Lösung. Was man mitnehmen muss, `TimeoutStartSec=60s` gehört in jedes systemd Skript.
+* [Kennen Sie Unicod? Ja? Aber sehen Sie Unicode auch?](https://www.bleepingcomputer.com/news/security/invisible-characters-could-be-hiding-backdoors-in-your-javascript-code/) - Deswegen, alles parsen und lieber Dinge entfernen, wenn man Nutzereingaben verarbeitet. Nutzer sind in diesem Kontext auch Maschinen.
+* [noyb hat eine Datenschutzbeschwerde gegen Grindr eingereicht.](https://noyb.eu/en/want-your-grindr-data-show-your-id-and-take-selfie)
+* [Sailfish OS wurde in der Version 4.3 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=Sailfish-OS-4.3-Released)
+* [Ihr habt Nudefix, Instainsta und Zwitscher auf eurem Android installiert? Nun, dann seid ihr ab jetzt besonders und werden von Crackern angegriffen.](https://www.bleepingcomputer.com/news/security/new-android-malware-targets-netflix-instagram-and-twitter-users/)
+* [Die OpenZFS Wünsche für den Meilenstein 3.0 machen Lust auf mehr.](https://www.phoronix.com/scan.php?page=news_item&px=OpenZFS-3.0-Plus-Windows-Work)
+* [Das Wordpress Plugin Reset PRO ist kaputt.](https://www.bleepingcomputer.com/news/security/ironic-twist-wp-reset-pro-bug-lets-hackers-wipe-wordpress-sites/)
+* [AMD CPUs sind kaputt.](https://blog.fefe.de/?ts=9f73d1ba)
+* [WordPress wurde in der Version 5.8.2 veröffentlicht.](https://wordpress.org/news/2021/11/wordpress-5-8-2-security-and-maintenance-release/)
+* [Ein schöner Gruß aus der Zukunft, wir machen unsere Bilder schlechter, damit diese nicht durch Algorithmen als "böse" eingestuft werden.](https://www.bleepingcomputer.com/news/technology/researchers-show-that-apple-s-csam-scanning-can-be-fooled-easily/)
+* [Booking.com hatte 2016 einen Datenausbruch, aber hat niemanden informiert. Gunrd? War gesetzlich damals nicht nötig.](https://blog.fefe.de/?ts=9f723e8e)
+* [Palo Alto VPN ist kaputt.](https://blog.fefe.de/?ts=9f72346e)
+* [Chrome von Ich hab recht will scheinbar `Rechtsklick` -> `Quelltext anzeigen` entfernen.](https://blog.fefe.de/?ts=9f72315c)
+* [APE Aruba ist kaputt.](https://www.bleepingcomputer.com/news/security/hpe-says-hackers-breached-aruba-central-using-stolen-access-key/)
+* [Coreboot wurde in der Version 4.15 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=Coreboot-4.15)
