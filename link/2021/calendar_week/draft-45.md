@@ -64,3 +64,15 @@
 * [Btrfs plane einen On-Disk Format Änderung.](https://www.phoronix.com/scan.php?page=news_item&px=Btrfs-Improving-Painful-Parts)
 * [Siemens Nucleos RTOS ist kaputt.](https://www.borncity.com/blog/2021/11/11/kritische-schwachstellen-in-siemens-nucleos-rtos/) - Das Ding wird in Medizingeräten oder der Industriesteuerung eingesetzt.
 * [Schokolade oder Wald an der Elfenbeinküste, die Menschen der ersten Welt müssen sich entscheiden.](https://netzfrauen.org/2021/11/11/deforestation-3/)
+* [Anhand von der Dependency Injection Bewegung zeit Matthias Noback auf, wie viel Zeit man vergeutet, indem man seine Meinung als "die einzig wahre" ansieht.](https://matthiasnoback.nl/2021/11/the-dependency-injection-paradigm/) - Wir müssen wieder Mut haben, andere Meinungen zu tolerieren.
+* [`Get-PhysicalDisk | Get-StorageReliabilityCounter | Select-Object -Property DeviceID, Wear, ReadErrorsTotal, ReadErrorsCorrected, WriteErrorsTotal, WriteErrorsUncorrected, Temperature, TemperatureMax | Format-Table`](http://woshub.com/check-hard-drive-health-smart-windows/)
+* [Ach Uberspace, ihr macht immer so vieles so verdammt richtig. Danke auch mit dieser Aktion.](https://blog.uberspace.de/ein-bekenntnis-zur-freien-preiswahl-und-ein-aber/) - Und an alle kommerziellen Betreiber, 15 bis 30 Euro sollten es sein. Ich hab genug Menschen betreut und deren Verträge und Leistungen gesehen. Geht zu Uberspace und zahlt fair. Als Gegenleistung müsst ihr euch eigentlich um nichts anstrengendes kümmern.
+* [Kanal9TV: Fördergerüst auf dem Gelände der Reiche Zeche in Freiberg](https://www.youtube.com/watch?v=U7oNXGJchJs)
+* [Ihr becommt ein `Duplicate Entry` wenn ihr auf euer MySQL ein `Alter Table` macht? Etwaig versucht da Software geerade auf eine Zeile zu schreiben.](https://jfg-mysql.blogspot.com/2021/11/duplicate-entry-in-alter-table-and-in-optimize-table.html)
+* [Microsoft nutzt sein Monopol weiter aus, Links werden unter Windows 10 und 11 nur noch mit dem Edge geöffnet, statt mit dem eingestellten Standardbrowser.](https://www.borncity.com/blog/2021/11/12/windows-11-microsoft-erzwingt-edge-browser-in-protokollen/)
+* [`net use \\servername\druckername /persistent:yes`](https://www.borncity.com/blog/2021/11/12/windows-printnightmare-druckprobleme-server-verliert-einstellungen-fehler-beim-drucken-11-nov-2021/)
+* [Printnightmare, oder wie man erkennt, dass Microsoft keine Lust hat Probleme zu lösen.](https://www.borncity.com/blog/2021/11/12/windows-printnightmare-druckprobleme-server-verliert-einstellungen-fehler-beim-drucken-11-nov-2021/)
+* [PipeWire wurde in der Version 0.3.40 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=PipeWire-0.3.40-Released)
+* [Cookie- und Consent-Banner sind kaputt.](https://www.kuketz-blog.de/webseiten-was-tun-gegen-cookie-bzw-consent-banner/)
+* [Nextcloud wurde in den Versionen 22.2.1, 21.0.6 und 20.0.14 veröffentlicht.](https://nextcloud.com/blog/keep-your-data-safe-update-to-22-2-1-21-0-6-and-20-0-14-as-soon-as-possible-and-23rc1-is-here-help-test/)
+* [OPNsense wurde in der Version 21.7.5 veröffentlicht.](https://opnsense.org/opnsense-21-7-5-released/)
