@@ -76,3 +76,5 @@
 * [Cookie- und Consent-Banner sind kaputt.](https://www.kuketz-blog.de/webseiten-was-tun-gegen-cookie-bzw-consent-banner/)
 * [Nextcloud wurde in den Versionen 22.2.1, 21.0.6 und 20.0.14 veröffentlicht.](https://nextcloud.com/blog/keep-your-data-safe-update-to-22-2-1-21-0-6-and-20-0-14-as-soon-as-possible-and-23rc1-is-here-help-test/)
 * [OPNsense wurde in der Version 21.7.5 veröffentlicht.](https://opnsense.org/opnsense-21-7-5-released/)
+* [Ach deswegen gibt es keine Anforderungsanalyse, geschweige denn ein Pflichtenheft, wenn die Bundesregierung Aufträge an ihre Kumpels vergibt.](https://blog.fefe.de/?ts=9f703885) - Dann kann es hinten raus ewig viel teurer werden. Eine Gelddruckmaschine!
+* [Johnson & Johnson ist pleite, aber nur der für Klagen ausgegründete Teil.](https://blog.fefe.de/?ts=9f706614) - Stellt euch vor, jemand würde das machen und seine Atomsparte aus den gleichen Gründen ausgründen. Gut, dass darauf noch niemand gekommen ist. Wer kennt nicht, Firmen wie [PreussenElektra](https://en.wikipedia.org/wiki/PreussenElektra_(nuclear_energy_company)), die es ja schon lange "vorm Kriesch" gab.
