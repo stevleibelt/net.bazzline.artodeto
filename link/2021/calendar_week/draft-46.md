@@ -1,0 +1,2 @@
+* [Microsoft und das Attribut nachhaltig, nichts als Werbung und Werbung lügt.](https://www.borncity.com/blog/2021/11/14/microsoft-die-nachhaltigkeit-und-windows-11-als-umwweltkatastrophe/)
+* [Fenster 11? Das ist das Betriebssystem weswegen mehr als 50 Prozent der Ziel-PCs ausgetauscht werden sollen.](https://www.borncity.com/blog/2021/11/14/microsoft-die-nachhaltigkeit-und-windows-11-als-umweltkatastrophe-teil-2/) - Warum? Tja, das kann Microsoft nichts so recht sagen.
