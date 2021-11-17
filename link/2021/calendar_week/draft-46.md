@@ -22,3 +22,16 @@
 * [Arsen ist überall, auch im Trinkwasser.](https://netzfrauen.org/2021/11/15/water-4-2/) - Und Arsen bringt Krebs.
 * [Nein? Doch! Oh? Der Browser von >>wir haben recht<< macht was er will.](https://www.kuketz-blog.de/google-chrome-datensendeverhalten-desktop-version-browser-check-teil21/)
 * [Mit `Lunr.js` könnt ihr Suche in Browser einbauen.](https://opensource.com/article/21/11/client-side-javascript-search-lunrjs)
+* [Microsoft wird immer dreister mit Windows 11. Nur Edge ihr Nutten!](https://blog.fefe.de/?ts=9f6bd7be)
+* [NPM ist so kaputt, das jeder Benutzer bei github.com irgendein NPM Paket mit einer wilden Versionsnummer erstellen kann.](https://blog.fefe.de/?ts=9f6d176a) - Das Problem besteht wohl seit anbegin der NPM-Zeit
+* [Die Spardabank darf weiterhin keine Negativzinsen verlangen.](https://blog.fefe.de/?ts=9f6d7727)
+* [Wie viel Gewinn muss Vodafone machen, wenn es andauernd Strafen wegen Datenschutzverstößen gibt?](https://netzpolitik.org/2021/datenschutzverstoesse-in-europa-vodafone-kassiert-strafen-am-laufenden-band/)
+* [Da hat Smudo wohl zu wenig Schmiergelder fließen lassen, die, auch, von Steuergelder bezahlte Corona-Warn-App kann bald das gleiche und mehr, als die von Steuergelder bezahlte aber private App Luca.](https://netzpolitik.org/2021/infektionsschutzgesetz-corona-warn-app-koennte-luca-bald-obsolet-machen/)
+* [Hört leider keiner, aber nahezu alles an kritischer Infrastruktur im digitalen Raum läuft nur wegen freier Software.](https://netzpolitik.org/2021/offene-digitale-basistechnologien-millionenprogramm-zur-unterstuetzung-von-open-source-gefordert/) - Software, die meist von privaten Personen gepflegt wird, während Konzerne Milliarden mit deren Nutzung privatisieren.
+* [Telefonieren aus einem Gefängnis in den USA? Jedes Wort wird vom PC mitgehört und bewertet.](https://netzpolitik.org/2021/gefaengniskommunikation-in-den-usa-wenn-die-software-mithoert/)
+* [Windows 10 wurde in der Version 21H2 veröffentlicht.](https://www.windowspro.de/news/windows-10-21h2-ist-verfuegbar-aus-fuer-sac-neues-release-2022-support-bis-2025/04916.html)
+* [Windows 11 ist kaputt, wenn der Soundtreiber von Intel kommt.](https://www.bleepingcomputer.com/news/microsoft/windows-11-issue-with-intel-audio-drivers-triggers-blue-screens/) - Klar, so Randgruppentechnik wird selten zur Erstveröffentlichung unterstützt.
+* [Vulkan wurde in der Version 1.2.199 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=Vulkan-1.2.199)
+* [Sanktionen gegen Staatstrojanerfirmen wie NSU oder Candiru? Nicht von unserer Blockpartei!](https://netzpolitik.org/2021/nso-und-candiru-bundesregierung-will-keine-sanktionen-gegen-staatstrojaner-firmen/)
+* [Wie geht es den Wäldern in Deutschland? So wie den nicht marktfernen Schichten, beschissen.](https://www.sonnenseite.com/de/umwelt/waelder-in-deutschland-in-ernstem-zustand/)
+* [Netzpolitik.org braucht noch 400.000 Euro spenden.](https://netzpolitik.org/2021/1millionfordigitalrights-mach-mit-uns-den-unterschied/) - Bitte macht mit!
