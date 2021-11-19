@@ -40,3 +40,10 @@
 * [PHP RegExp bekommt, ab Version 8.2, endlich `/n`.](https://php.watch/versions/8.2/preg-n-no-capture-modifier)
 * [Nein? Doch! Oh? Stellt sich heraus, dass der Atomstrom aus Frankreich doch nicht so günstig ist.](https://www.sonnenseite.com/de/energie/das-maerchen-vom-billigen-franzoesischen-atomstrom/) - Natürlich sind die Gründe bekannt, Gewinne wurden privatisiert, während es an Instandhaltungsinvestition mangelt und da niemand jemals über die "Kleinigkeiten" wie Rückbau oder Endlagerung einen Taschenrechner geschwungen hat.
 * [Meine Deutung aus dem Text von FeFe, wir müssen uns als Gesellschaft dringend die Frage stellen, ob Krankenhäuser weiterhin privatisiert werden sollen und ob wir dringend den Personalschlüssel nach oben setzen sollten - im Kindergarten und der Schule im übrigen auch sehr angebracht.](https://blog.fefe.de/?ts=9f689ba9)
+* [Noch ein Beispiel warum profitorientierte Krankenhäuser nicht funktionieren können.](https://blog.fefe.de/?ts=9f69479a)
+* [Realitätsabgleich: Das passiert, wenn Polizisten sozial isoliert sind.](https://blog.fefe.de/?ts=9f6958a0) - Und das geht schneller als gedacht, öffentlicher Druck, medial verkauftes Schubladendenken und Schichten, die kein Verhältnis zum Nachbarn ermöglichen.
+* [Sechs Eurofighter (ohne Wartung, nur Anschaffung) oder JEDER Pflegekraft einfach 1000 Euro mehr pro Monat.](https://blog.fefe.de/?ts=9f696a7b) - Was ist wichtiger für die Bevölkerung?
+* [Mit `set_fact` setzt ihr in Ansible Variablen.](https://www.shellhacks.com/ansible-set-variable-in-task/)
+* [Wie vergleicht ihr Versionen in Ansible? So `when: current_version is version(latest_version, '>')`.](https://www.shellhacks.com/ansible-compare-version-numbers-examples/)
+* [Thunderbird wurde in der Version 91.3.2 veröffentlicht.](https://www.borncity.com/blog/2021/11/19/thunderbird-91-3-2/)
+* [Nextcloud Files für Android wurde in der Version 3.18 veröffentlicht.](https://nextcloud.com/blog/nextcloud-files-for-android-3-18-is-here-bringing-calendar-backup-unified-search-sharing-improvements-and-over-190-fixes-to-the-users/)
