@@ -47,3 +47,12 @@
 * [Wie vergleicht ihr Versionen in Ansible? So `when: current_version is version(latest_version, '>')`.](https://www.shellhacks.com/ansible-compare-version-numbers-examples/)
 * [Thunderbird wurde in der Version 91.3.2 veröffentlicht.](https://www.borncity.com/blog/2021/11/19/thunderbird-91-3-2/)
 * [Nextcloud Files für Android wurde in der Version 3.18 veröffentlicht.](https://nextcloud.com/blog/nextcloud-files-for-android-3-18-is-here-bringing-calendar-backup-unified-search-sharing-improvements-and-over-190-fixes-to-the-users/)
+* [Cloud? Ist ne super Sache, da donnert es in der Cloud und schön gehen eure Autos nicht mehr.](https://blog.fefe.de/?ts=9f67fd0c)
+* [Gut, dass es freie Software gibt, dank GParted kann man für Windows auch mal die Partition vergrößern.](https://www.windowspro.de/wolfgang-sommergut/windows-recovery-partition-wiederherstellungspartition-gparted-verschieben)
+* [FWUPD wurde in der Version 1.7.2 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=FWUPD-1.7.2-Released)
+* [Ihr wollt Modell und Typ unter Windows herausfinden? `wmic csproduct` hilft.](https://www.shellhacks.com/how-to-find-laptops-model-serial-number-cmd/)
+* [Microsoft will noch im November ein weiteres Mal probieren "PrintNightmare" zu lösen.](https://www.borncity.com/blog/2021/11/19/fix-fr-druckfehler-in-windows-10-kommt-weitere-windows-druckprobleme-nov-2021/) - Prost Mahlzeit.
+* [Kanal9TV: Bäckerei Illgen - Jobfinder](https://www.youtube.com/watch?v=p-dZ7_qPG9A)
+* [Kanal9TV: Gottfried Silbermann Museum Frauenstein](https://www.youtube.com/watch?v=fEe2qJzYThE)
+* [Lieferdienste und Großstädte, dies ist der gesellschaftliche Schnittpunkt zwischen prikäre Arbeitsplätze und Dekadenz.](https://netzpolitik.org/2021/lieferdienst-gorillas-profit-auf-dem-ruecken-der-fahrerinnen/)
+* [Die EU sagt, erneut, Nein zur anstandslosen Vorratsdatenspeicherung.](https://www.patrick-breyer.de/absage-an-vorratsdatenspeicherung-eugh-generalanwalt-legt-schlussantraege-zur-verdachtslosen-vorratsdatenspeicherung-in-deutschland-vor/) - Maö schauen, wann die Bumsregierung das erneut vergessen hat.
