@@ -56,3 +56,6 @@
 * [Kanal9TV: Gottfried Silbermann Museum Frauenstein](https://www.youtube.com/watch?v=fEe2qJzYThE)
 * [Lieferdienste und Großstädte, dies ist der gesellschaftliche Schnittpunkt zwischen prikäre Arbeitsplätze und Dekadenz.](https://netzpolitik.org/2021/lieferdienst-gorillas-profit-auf-dem-ruecken-der-fahrerinnen/)
 * [Die EU sagt, erneut, Nein zur anstandslosen Vorratsdatenspeicherung.](https://www.patrick-breyer.de/absage-an-vorratsdatenspeicherung-eugh-generalanwalt-legt-schlussantraege-zur-verdachtslosen-vorratsdatenspeicherung-in-deutschland-vor/) - Maö schauen, wann die Bumsregierung das erneut vergessen hat.
+* [Box86 wurde in der Version 0.2.4 und Box84 wurde in der Version 0.1.6 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=Box86-0.2.4-Box64-0.1.6)
+* [Microsoft Exchange ist kaputt, weil vieles andere von Microsoft kaputt ist.](https://www.bleepingcomputer.com/news/security/microsoft-exchange-servers-hacked-in-internal-reply-chain-attacks/)
+* [Hier gibt es sieben Kommandos, unter Linux, die euch den Umgang mit Medien vereinfachen.](https://opensource.com/article/21/11/linux-commands-convert-files)
