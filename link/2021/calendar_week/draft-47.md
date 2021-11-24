@@ -20,3 +20,13 @@
 * [Arcan wurde in der Version 0.6.1 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=Arcan-0.6.1-Released)
 * [Wie auch bei Hackfressenbuch und der Dichröhre nutzt Mamazon "KI" um Käuferinteresse zu wecken.](https://netzpolitik.org/2021/desinformation-im-netz-die-virenschleuder-amazon/)
 * [Wow, auch die Politiker für Berlin zeigt wie Berlin regiert. Da entscheidet das Volk und die Politiker so "moment, der Bruder meiner Schwester hat nichts zu tun, Expertengremium". Dann beraten die bis 2023 und dann steht nichts fest.](https://blog.fefe.de/?ts=9f63c281) - ABM auf Kosten der Steuerzahler.
+* [Axel Voss pullt ein "wir werden alle Sterben", wenn die EU nicht endlich auf KI setzt und DRINGENST diesen lästigen Hang zu Gesetzen, Datenschutz und Menschenrechten sein lässt.](https://blog.fefe.de/?ts=9f63fb88)
+* [Danke FeFe, du schreibst mir aus der Seele, Warum wurde Chiptan abgeschafft? Warum nicht IPSec/OpenVPN/Wireguard und gut ist? Warum andauern Exe-n installieren statt Mozilla Firefox ordentlich unterstützen?](https://blog.fefe.de/?ts=9f63f710)
+* [Warum ist die Linuxbüchse jetzt noch einmal herunter gefahren? Old Farmer Joe wusste es noch.](https://utcc.utoronto.ca/~cks/space/blog/linux/SystemdTransactionSourceWish)
+* [Open-Xchange, Kopano, Grommunio ... warum nutzt ihr noch Microsoft Exchange?](https://opensource.com/article/21/11/open-source-alternatives-microsoft-exchange)
+* [Nein? Doch! Oh? Die E-Roller-Anbieter Lime, Bolt, Tier und Voi verkaufen eure persönlichen Daten an Dritte.](https://netzpolitik.org/2021/datenschutzverstoesse-e-roller-apps-sollen-persoenliche-daten-an-dritte-weitergeben/)
+* [Die EU will politische Werbung transparent und offen machen.](https://netzpolitik.org/2021/neue-eu-regeln-politische-werbung-soll-transparenter-werden/) - Mal schauen wann die Koksnasen der "Werbetreibenden"-Vereinigung da rechtliche Schlupflöcher findet
+* [Wenn ihr `script my_file.log` vor dem Ausführen eines Kommandos startet, wird die ganze Ausgabe in die Datei `my_file.log` geschrieben.](https://www.shellhacks.com/save-all-the-terminal-output-to-a-file-linux/)
+* [Firefox wurde in der Version 94.0.2 veröffentlicht.](https://www.borncity.com/blog/2021/11/23/firefox-94-0-2-freigegeben/)
+* [KB5007253 soll, laut Microsoft, alle Druckerprobleme lösen.](https://www.borncity.com/blog/2021/11/23/windows-10-updates-22-november-2021/) - Doof nur, dass Microsoft dies schon häufiger geschrieben hat.
+* [VirtualBox wurde in der Version 6.1.30 veröffentlicht.](https://www.borncity.com/blog/2021/11/24/virtualbox-6-1-30-freigegeben/)
