@@ -30,3 +30,4 @@
 * [Firefox wurde in der Version 94.0.2 veröffentlicht.](https://www.borncity.com/blog/2021/11/23/firefox-94-0-2-freigegeben/)
 * [KB5007253 soll, laut Microsoft, alle Druckerprobleme lösen.](https://www.borncity.com/blog/2021/11/23/windows-10-updates-22-november-2021/) - Doof nur, dass Microsoft dies schon häufiger geschrieben hat.
 * [VirtualBox wurde in der Version 6.1.30 veröffentlicht.](https://www.borncity.com/blog/2021/11/24/virtualbox-6-1-30-freigegeben/)
+* [fragdenstaat.de hat den Koalitionsvertrag der Blockpartei mit dem Anstrich `2021 bis 2025` veröffentlicht.](https://fragdenstaat.de/dokumente/142083-koalitionsvertrag-2021-2025/) - Mehr Wirtschaftsförderung und weniger langfristige Planung lese ich da nur raus. Bald bekommen die Konzerne noch Geld, wenn sie Strom verbrauchen und unsere Umwelt verpesten, ich sags euch.
