@@ -36,3 +36,6 @@
 * [Nutzt `frauenhaus-suche.de`, wenn ihr freie Plätze in Frauenhäuser benötigt.](https://netzpolitik.org/2021/haeusliche-gewalt-suchmaschine-fuer-freie-plaetze-in-frauenhaeusern-gestartet/)
 * [Alpine Linux wurde in der Version 3.15 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=Alpine-Linux-3.15)
 * [Dank der Monokultur in Schmierphones können mehr als ein Drittel der Androids jetzt abgehört werden ... oder, MediaTek ist kaputt.](https://www.borncity.com/blog/2021/11/24/schwachstelle-in-mediatek-chips-von-android-smartphones/)
+* [Wenn es mal etwas bunter und schöner sein soll, Bpytop, statt htop. Ein `sudo pacman -S lm_sensors && sudo sensors-detect` macht noch mehr Spaß.](https://linuxundich.de/gnu-linux/bpytop-als-alternative-zu-top-htop-und-co/)
+* [>>Nein, Leute, Social Media ist nicht wichtig. Das habe ich gemerkt, nachdem ich mich von Instagram zurückgezogen hatte.<<](https://www.henning-uhle.eu/informatik/social-media-hat-mich-genug-genervt)
+* [>>Ich hab recht<< kriegt Angst vor >>alles außer Tiernahrung<<, auf Android 12 geht irgendwie der Amazon Appstore nicht mehr.](https://blog.fefe.de/?ts=9f58f19a)
