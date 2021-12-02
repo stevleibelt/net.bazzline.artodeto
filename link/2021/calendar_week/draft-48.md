@@ -57,3 +57,13 @@
 * [Tesseract wurde in der Version 5.0 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=Tesseract-5.0-Released)
 * [Lol, was? Krankenkasse wollen 20 Prozent mehr, damit die Pflegeanbieter weiterhin Gewinn machen?](https://blog.fefe.de/?ts=9f59a0b1) - Ich verstehe noch immer nicht, warum es mehr als eine Krankenkasse gibt und warum soziale Bereiche privatisiert werden müssen.
 * [Microsoft Edge wird jetzt endlich wieder Bloatware.](https://www.borncity.com/blog/2021/12/01/rger-um-edge-und-das-buy-now-pay-later-bloatware-feature/)
+* [Nein? Doch! Oh? Wegen dem Prinzip "Jeder stirbt nur an und nicht mit Corona" und dem mehr an Bürokratie, haben die Krankenhäuser schlichtweg keine Zeit mehr Bürokratie zu machen.](https://blog.fefe.de/?ts=9f59117d) - Kurzum, endlich ist es offiziell, die Statistiken der Krankenhäuser werden gefälscht. Wäre es nicht so, hätten die Massenmedien sagen müssen "kein Datenbestand vorhanden".
+* [Mozilla Firefox Implementierung von TLS ist kaputt.](https://blog.fefe.de/?ts=9f593877)
+* [Stefan Spahn ist alles egal, Wiederwahl oder Bürgerschutz? Der Politiker entscheidet sich für Wiederwahl.](https://blog.fefe.de/?ts=9f593d95)
+* [PowerShell und Daten? `(Get-Date -Hour 4 -Minute 0 -Second 0).AddMonths(-7)`](https://matthewjdegarmo.com/powershell/2021/12/01/playing-with-dates-in-powershell.html)
+* [Großartig, die Impfplicht wurde ausgeschlossen, aber auf unsere Politiker ist wie immer kein Verlass, sie nennen es einfach anders und zwar Vakzinationsobligation.](https://www.der-postillon.com/2021/12/vakzinationsobligation.html) - Ist wie "HomeOffice" fordern, während "Telearbeit" umgesetzt wird.
+* [Der Bundesrechnungshof meckert das BMI endlich einmal an, weil das De-Mail-Projekt so verkackt wurde.](https://netzpolitik.org/2021/das-bmi-ist-gescheitert-bundesrechnungshof-ruegt-innenministerium-fuer-de-mail/)
+* [Wasmer wurde in der Version 2.1 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=Wasmer-2.1-Released)
+* [Digital First, Bedenken Second, in Stuttgart wirst du aus dem öffentlichen Personennahverkehr geschmissen, wenn du deinen Impfnachweis nicht digital dabei hast.](https://tuxproject.de/blog/2021/12/__trashed-3/)
+* [Seit Jahrzehnten wird unser Boden vergiftet, jetzt wird leisen gebeten, dass die Industrie doch eventuell nachhaltig mit der Chemie umgehen könnte - wenn es passen würde.](https://www.sonnenseite.com/de/umwelt/chemikalien-umwelt-und-gesundheit-besser-schuetzen/)
+* [Noch ein Grund, warum man mit `zfs send` keine richtigen Backups machen sollte.](https://utcc.utoronto.ca/~cks/space/blog/solaris/ZFSDamageIsForever)
