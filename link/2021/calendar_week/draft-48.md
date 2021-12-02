@@ -67,3 +67,7 @@
 * [Digital First, Bedenken Second, in Stuttgart wirst du aus dem öffentlichen Personennahverkehr geschmissen, wenn du deinen Impfnachweis nicht digital dabei hast.](https://tuxproject.de/blog/2021/12/__trashed-3/)
 * [Seit Jahrzehnten wird unser Boden vergiftet, jetzt wird leisen gebeten, dass die Industrie doch eventuell nachhaltig mit der Chemie umgehen könnte - wenn es passen würde.](https://www.sonnenseite.com/de/umwelt/chemikalien-umwelt-und-gesundheit-besser-schuetzen/)
 * [Noch ein Grund, warum man mit `zfs send` keine richtigen Backups machen sollte.](https://utcc.utoronto.ca/~cks/space/blog/solaris/ZFSDamageIsForever)
+* [So wilde kann es mit dem Coronavirus nicht sein. Erst wenn die USA, Deutschland und die Schweiz "nein" zum Patentschutz für den Covid-Impfstoff sind, dann wird es wirklich ernst.](https://blog.fefe.de/?ts=9f5675bd)
+* [Was wäre Deutschland nur ohne Firmen wie SAP? Würden dann Großprojekte einfach wie geplant fertig werden?](https://blog.fefe.de/?ts=9f5674c3)
+* [Qt Creator wurde in der Version 6 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=Qt-Creator-6.0)
+* [Nein? Doch! Oh? Verbraucher dürfen Konzerne direkt verklagen.](https://netzpolitik.org/2021/eu-generalanwalt-verbandsklagen-gegen-facebook-sind-zulaessig/)
