@@ -71,3 +71,6 @@
 * [Was wäre Deutschland nur ohne Firmen wie SAP? Würden dann Großprojekte einfach wie geplant fertig werden?](https://blog.fefe.de/?ts=9f5674c3)
 * [Qt Creator wurde in der Version 6 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=Qt-Creator-6.0)
 * [Nein? Doch! Oh? Verbraucher dürfen Konzerne direkt verklagen.](https://netzpolitik.org/2021/eu-generalanwalt-verbandsklagen-gegen-facebook-sind-zulaessig/)
+* [Hier wird euch gezeigt, wie ihr PHP unter Debian 8.1 installiert.](https://php.watch/articles/install-php81-ubuntu-debian)
+* [Nein? Doch! Oh? Plastik ist so schlimm, wie ich immer gesagt habe. Meine Eltern haben mir Atommühl geschenkt, ich schenke meinen Kindern Plastikmüll.](https://www.sonnenseite.com/de/umwelt/globale-klimabilanz-von-kunststoffen-plastik-ist-dreckiger-als-gedacht/)
+* [Da macht ein Energiekonzern eine Umfrage zur E-Mobilität und, völlig überraschend, wollen 90 Prozent der Befragten sind für einen Unterstützung, sprich subenvtion.](https://www.sonnenseite.com/de/mobilitaet/90-prozent-wuenschen-sich-von-arbeitgebern-engagement-bei-e-mobilitaet/)
