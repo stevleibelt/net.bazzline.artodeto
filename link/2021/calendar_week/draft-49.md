@@ -3,3 +3,4 @@
 * [Realitätsabgleich "wie funktioniert die IT heute?", ganz einfach, über "gutes Vertrauen Implementierungen".](https://utcc.utoronto.ca/~cks/space/blog/tech/StandardsNeedGoodFaith)
 * [Das BSI spricht die Wahrheit, reagiert nicht auf Spam.](https://www.borncity.com/blog/2021/12/05/bsi-empfehlung-reagiert-nicht-auf-spam-mails/)
 * [Ihr wundert euch, warum in eurem sudo die Umgebungsvariablen von root fehlen? Probiert doch mal `sudo -i -u <username> [<command>]`.](https://www.shellhacks.com/sudo-as-another-user/)
+* [Alternativlos wurde in der Version 49 veröffentlicht.](https://blog.fefe.de/?ts=9f53dcc5)
