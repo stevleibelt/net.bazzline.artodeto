@@ -15,3 +15,13 @@
 * [Freiberg für alle schreibt, was viele Freiberger meinen, Freiberg ist deutlich mehr als "Montagsspaziergänger".](https://freibergfueralle.de/offener-brief)
 * [Mit `sigstore` könnt ihr eure Container signieren, verifizieren und damit sichern.](https://opensource.com/article/21/12/sigstore-container-images)
 * [Mit Krita könnt ihr mittlerweile richtig gut Fotos bearbeiten.](https://opensource.com/article/21/12/open-source-photo-editing-krita)
+* [Realitätsabgleich Sachsen, Dresden entscheidet Dinge, aber Infrastruktur ist nicht da und der Aufbau dafür wird auch nicht bezahlt.](https://blog.fefe.de/?ts=9f509cd7)
+* [Die Autoindustrie wird von Nintendo siegen lernen, ihr kriegt dann schon einmal die Einzelteile geliefert und da die vor über 14 Tagen gekauft wurden, ist eine Rückgabe damit ausgeschlossen.](https://blog.fefe.de/?ts=9f50964d) - Verderbliche Ware müsst ihr verstehen.
+* [Denkt bitte daran, der Lauterbach ist ein BWL-er aka "Ökonom". Den geht es nicht darum, dass Menschen gesund werden oder bleiben, dem geht es um maximalen Cashflow!](https://blog.fefe.de/?ts=9f509081)
+* [Ein Windparkbetreiber will in eurer Komune ein Windpark bauen? Rechnet in den nächsten zwanzig Jahren mal nicht mit Steuereinnahmen.](https://blog.fefe.de/?ts=9f533cda)
+* [Realitätsabgleich nachhaltige Mode.](https://netzfrauen.org/2021/12/06/fashion-5/)
+* [Martin Sonneborn hat offengelegt, wer im Europaparlament für Transparenz ist und wer nicht.](https://martinsonneborn.de/vonderleyens-geheime-pfizer-sms/)
+* [Microsoft agiert jetzt wie ein Handyvertragsverkäufer, Neukunden und im besonderen Maße Raubmordnazikomunistenkopierer kriegen bessere Preise, als Bestandskunden.](https://www.bleepingcomputer.com/news/microsoft/microsoft-offers-50-percent-subscription-discounts-to-office-pirates/)
+* [Wenn ihr mal was zum Lesen braucht, `kubectl cluster-info --v=9` erzeugt euch Material.](https://www.shellhacks.com/kubectl-debug-increase-verbosity/)
+* [Weco in Freiberg wird dicht gemacht.](https://www.mdr.de/nachrichten/sachsen/chemnitz/freiberg/corona-hersteller-weco-feuerwerk-schliessung-100.html)
+* [LibreOffice wurde in der Version 7.2.4 veröffentlicht.](https://www.planet3dnow.de/cms/64108-libreoffice-7-2-4-community/)
