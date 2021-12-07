@@ -25,3 +25,12 @@
 * [Wenn ihr mal was zum Lesen braucht, `kubectl cluster-info --v=9` erzeugt euch Material.](https://www.shellhacks.com/kubectl-debug-increase-verbosity/)
 * [Weco in Freiberg wird dicht gemacht.](https://www.mdr.de/nachrichten/sachsen/chemnitz/freiberg/corona-hersteller-weco-feuerwerk-schliessung-100.html)
 * [LibreOffice wurde in der Version 7.2.4 veröffentlicht.](https://www.planet3dnow.de/cms/64108-libreoffice-7-2-4-community/)
+* [ShardingSphere ist eine verteilte Datenbank von Apache.](https://opensource.com/article/21/12/apache-shardingsphere)
+* [Wisst ihr was uns die Medien bald einreden wollen? Deutschland ist zwar seit Jahrzehnten Stromexporteur und erzeugt damit mehr, als es braucht, aber wegen der neuen Regierung wird natürlich der Strom teurer, weil Kraftwerke abgeschaltet werden.](https://www.sonnenseite.com/de/energie/ewi-analyse-das-bedeutet-der-koalitionsvertrag-fuer-den-stromsektor/)
+* [Haha, eine Bewegungsdatenerfassungsanwendung für Android verkauft alle Daten an Dritte. Die Anwendung nennt sich "life360".](https://www.borncity.com/blog/2021/12/07/app-life360-family-suchen-verkaufte-gps-standortdaten-seit-2016/)
+* [Die vorübergehende Impfpflicht für Masern wird bis auf Juli 2022 verlängert.](https://impfentscheidung.online/masern-verlaengerung-uebergangsfrist/)
+* [Die EU und damit natürlich primär auch Deutschland entwickelt eine Polizeidrohne die primär für den bewaffneten Einsatz gedacht ist.](https://netzpolitik.org/2021/mit-deutscher-beteiligung-eu-militaer-entwickelt-neuartige-polizeidrohne/)
+* [`GoIP.de` landet bei Microsoft auf der Blackliste.](https://www.borncity.com/blog/2021/12/07/goip-de-auf-blacklist-gesetzt-kein-mailempfang-mehr-mit-microsoft-konten/)
+* [Oder ist der Grund, warum die Blockpartei keine Impfpflicht will der, als dass deren Industrie einfach nicht liefern kann?](https://blog.fefe.de/?ts=9f519acf) - Wenn selbst, die das total freiwillige Impfangebot annehmen wollen, keine Termine und kein Stoff bekommen?
+* [MySQL-toPostgreSQL wurde in der Version v5.5 veröffentlicht.](https://www.postgresql.org/about/news/mysql-to-postgresql-v55-has-been-released-2369/)
+* [Typisch "Werbetreibende", da kokst einer bei Microsoft eine dumme Idee zusammen und am Ende gibt es nur verlierer, Microsoft Windows ist deswegen direkt noch unsicherer.](https://blog.fefe.de/?ts=9f51b3ca)
