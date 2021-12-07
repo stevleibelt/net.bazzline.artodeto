@@ -34,3 +34,5 @@
 * [Oder ist der Grund, warum die Blockpartei keine Impfpflicht will der, als dass deren Industrie einfach nicht liefern kann?](https://blog.fefe.de/?ts=9f519acf) - Wenn selbst, die das total freiwillige Impfangebot annehmen wollen, keine Termine und kein Stoff bekommen?
 * [MySQL-toPostgreSQL wurde in der Version v5.5 veröffentlicht.](https://www.postgresql.org/about/news/mysql-to-postgresql-v55-has-been-released-2369/)
 * [Typisch "Werbetreibende", da kokst einer bei Microsoft eine dumme Idee zusammen und am Ende gibt es nur verlierer, Microsoft Windows ist deswegen direkt noch unsicherer.](https://blog.fefe.de/?ts=9f51b3ca)
+* [Haha, auch die AWS kann keine hohe Verfügbarkeit.](https://blog.fefe.de/?ts=9f514e87)
+* [Gravatar ist wohl offen wie ein Scheunentor, zumindest gibt es mehr als 114 Millionen Nutzernamen und E-Mail-Adressen von deren Datenlecks.](https://www.borncity.com/blog/2021/12/07/gravatar-ca-114-mio-nutzernamen-und-e-mail-adressen-im-untergrund-verfgbar/)
