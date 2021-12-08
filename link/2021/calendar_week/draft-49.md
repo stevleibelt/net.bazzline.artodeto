@@ -36,3 +36,15 @@
 * [Typisch "Werbetreibende", da kokst einer bei Microsoft eine dumme Idee zusammen und am Ende gibt es nur verlierer, Microsoft Windows ist deswegen direkt noch unsicherer.](https://blog.fefe.de/?ts=9f51b3ca)
 * [Haha, auch die AWS kann keine hohe Verfügbarkeit.](https://blog.fefe.de/?ts=9f514e87)
 * [Gravatar ist wohl offen wie ein Scheunentor, zumindest gibt es mehr als 114 Millionen Nutzernamen und E-Mail-Adressen von deren Datenlecks.](https://www.borncity.com/blog/2021/12/07/gravatar-ca-114-mio-nutzernamen-und-e-mail-adressen-im-untergrund-verfgbar/)
+* [So, so, das freiwillige Impfangebot wird weiter verfreiwilligt. "Impft euch oder wir kündigen euch!" - so auch beim LMU München.](https://blog.fefe.de/?ts=9f4ed501)
+* [Die Verzahnung der Presse und der Politik ist so stark, dass ein ehemaliger Chefredakteur nun Vieze-Regierungssprecher wird.](https://blog.fefe.de/?ts=9f511c9d) - Was hätte sich Goebbels gefreut.
+* [Auf `polizeischuesse.cilip.de` werden die Tode durch den Einsatz von Schuss- und Taserwaffen gezählt.](https://polizeischuesse.cilip.de/) - Danke [netzpolitik.org](https://netzpolitik.org/2021/datenvisualisierung-website-sammelt-toedliche-polizeischuesse/) für den Link auf diese Seite.
+* [SonicWall ist mal wieder kaputt.](https://www.bleepingcomputer.com/news/security/sonicwall-strongly-urges-customers-to-patch-critical-sma-100-bugs/)
+* [Tor wird in Russland blockiert.](https://www.bleepingcomputer.com/news/security/tor-s-main-site-blocked-in-russia-as-censorship-widens/)
+* [Es wird mal wieder an der Deanonymisierung des Internets gearbeitet. Natürlich erst einmal nur in der "Schmuddelecke", versprochen *Zwinkersmiley*.](https://netzpolitik.org/2021/digitale-dienste-gesetz-eu-koennte-anonyme-uploads-auf-pornoseiten-verbieten/)
+* [Wegen der Inflation muss Microsoft leider seine Preise für das Office 365 Abo um 20 Prozent erhöhen.](https://www.borncity.com/blog/2021/12/08/daumenschraube-monats-abo-fr-microsoft-office-365-soll-20-teurer-werden/) - Von alleine kommt die Rendite ja nicht zu einem
+* [Hier betratet ein Rechtsanwalt mal das Thema Impfpflicht vom Standpunkt zwei gleichguter Meinungen.](https://verfassungsblog.de/die-enttabuisierung-des-korpers/) - Jede Meinung für sich ist richtig, wo wollen wir uns als Gesellschaft positionieren?
+* [Microsoft will Notepad in Windows 11 auch noch kaputt machen.](https://www.bleepingcomputer.com/news/microsoft/microsoft-starts-rolling-out-redesigned-notepad-for-windows-11/) - Ich erwarte eine Electron-App, die 512 MB Arbeitsspeicher im "Standby" verbraucht
+* [Thunderbird wurde in der Version 91.4.0 veröffentlicht.](https://www.borncity.com/blog/2021/12/07/thunderbird-91-4-0/)
+* [Scheuerandy war gut für Bayern, so viel Geld kam lange nicht mehr vom Bund nach Bayern.](https://netzpolitik.org/2021/funklochamt-andi-scheuers-letzter-skandal/) - Ihr kennt doch Bayern, dass ist diese Strukturschwache Region an der Ostsee, der man alles an Wirtschaft geklaut hat ... ach ne, warte mal, hä?
+* [Firefox wurde in den Versionen 95.0.0 und 91.4.0 veröffentlicht.](https://www.borncity.com/blog/2021/12/07/firefox-95-91-4-0esr/)
