@@ -48,3 +48,4 @@
 * [Thunderbird wurde in der Version 91.4.0 veröffentlicht.](https://www.borncity.com/blog/2021/12/07/thunderbird-91-4-0/)
 * [Scheuerandy war gut für Bayern, so viel Geld kam lange nicht mehr vom Bund nach Bayern.](https://netzpolitik.org/2021/funklochamt-andi-scheuers-letzter-skandal/) - Ihr kennt doch Bayern, dass ist diese Strukturschwache Region an der Ostsee, der man alles an Wirtschaft geklaut hat ... ach ne, warte mal, hä?
 * [Firefox wurde in den Versionen 95.0.0 und 91.4.0 veröffentlicht.](https://www.borncity.com/blog/2021/12/07/firefox-95-91-4-0esr/)
+* [Nein? Doch! Oh? Vaporizer rauchen ist noch schlimmer.](https://blog.fefe.de/?ts=9f4cf7fe)
