@@ -49,3 +49,18 @@
 * [Scheuerandy war gut für Bayern, so viel Geld kam lange nicht mehr vom Bund nach Bayern.](https://netzpolitik.org/2021/funklochamt-andi-scheuers-letzter-skandal/) - Ihr kennt doch Bayern, dass ist diese Strukturschwache Region an der Ostsee, der man alles an Wirtschaft geklaut hat ... ach ne, warte mal, hä?
 * [Firefox wurde in den Versionen 95.0.0 und 91.4.0 veröffentlicht.](https://www.borncity.com/blog/2021/12/07/firefox-95-91-4-0esr/)
 * [Nein? Doch! Oh? Vaporizer rauchen ist noch schlimmer.](https://blog.fefe.de/?ts=9f4cf7fe)
+* [Die Grünen interessieren sich so sehr für das Klima, dass sie sich im Innenausschuss nicht dafür bewerben, so dass es jetzt DIE LINKE macht.](https://blog.fefe.de/?ts=9f4e13e4) - Das Gute an DIE LINKE ist ja, dass sie wissen, was sie da machen
+* [Hauptsache schnelle Downloads! In den USA stört 5G dann mal die Höhenmesser.](https://blog.fefe.de/?ts=9f4e0d52) - Höhenmesser, das sind die Dinger, die man braucht, sobald das Wetter nicht mehr optimopti ist.
+* [1,6 Millionen Wordpress-Seiten wurden angegriffen. Grund waren wohl vier häufig benutzte, aber mit Fehlern versehene Erweiterungen.](https://www.borncity.com/blog/2021/12/10/schwere-angriffe-auf-16-millionen-wordpress-seiten-9-12-2021/)
+* [In Südaustralien sich Datensätze von 80.000 Mitarbeitern des öffentlichen Dienstes abhanden gekommen.](https://www.bleepingcomputer.com/news/security/data-breach-impacts-80-000-south-australian-govt-employees/)
+* [Log4J ist kaputt.](https://www.bleepingcomputer.com/news/security/new-zero-day-exploit-for-log4j-java-library-is-an-enterprise-nightmare/)
+* [Bei Martin Sonneborn gibt es ein 24 seitiges Faltblatt über Assange herunter zu laden.](https://martinsonneborn.de/assange-broschuere/)
+* [Der digitale Aufbau liegt jetzt in den Händen der "der Markt wird es schon richten"-Partei.](https://netzpolitik.org/2021/zustaendigkeiten-fuer-digitales-scholz-wird-kein-digitalkanzler/) - Erwartet steigende Preise und weniger Leistung
+* [Mit Natron könnt ihr unter Linux Filme schneiden.](https://opensource.com/article/21/12/film-compositing-linux-natron)
+* [Solarmodule sollen in der EU etwaig bald mit 5 Prozent Mehrwertsteuer besteuert werden.](https://www.sonnenseite.com/de/politik/eu-will-solarmodule-fuer-photovoltaik-dachanlagen-von-mehrwertsteuer-befreien/)
+* [Die Cloud ist über USB-over-Ethernet angreifbar.](https://www.borncity.com/blog/2021/12/10/cloud-dienste-ber-usb-over-ethernet-schwachstellen-angreifbar/)
+* [Kali Linux wurde in der Version 2021.4 veröffentlicht.](https://www.bleepingcomputer.com/news/security/kali-linux-20214-released-with-9-new-tools-further-apple-m1-support/)
+* [Wayland wurde in der Version 1.20 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=Wayland-1.20-Released)
+* [Nein? Doch! Oh? Nach Jahren der Ausbeutung will die EU endlich einmal die Scheinselbständigkeit bei Sklavenhändlern wie Uber oder Gorillas prüfen.](https://netzpolitik.org/2021/gig-work-eu-kommission-will-scheinselbststaendigkeit-stoppen/)
+* [Mit dem `certutil.exe` kannst du unter Windows Zertifikate verwalten.](https://www.incredigeek.com/home/import-cert-pem-on-windows/)
+* [Ach 2022, dann soll alles auf E-Rezept laufen. Das Problem ist "nur", bisher hat das noch niemand im realen Leben probiert.](https://netzpolitik.org/2021/digitales-gesundheitssystem-chaos-rund-um-das-e-rezept/)
