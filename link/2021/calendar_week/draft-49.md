@@ -64,3 +64,11 @@
 * [Nein? Doch! Oh? Nach Jahren der Ausbeutung will die EU endlich einmal die Scheinselbständigkeit bei Sklavenhändlern wie Uber oder Gorillas prüfen.](https://netzpolitik.org/2021/gig-work-eu-kommission-will-scheinselbststaendigkeit-stoppen/)
 * [Mit dem `certutil.exe` kannst du unter Windows Zertifikate verwalten.](https://www.incredigeek.com/home/import-cert-pem-on-windows/)
 * [Ach 2022, dann soll alles auf E-Rezept laufen. Das Problem ist "nur", bisher hat das noch niemand im realen Leben probiert.](https://netzpolitik.org/2021/digitales-gesundheitssystem-chaos-rund-um-das-e-rezept/)
+* [Wieder ein Rückschlag gegen Assange.](https://netzpolitik.org/2021/britisches-gericht-auslieferungsverbot-fuer-assange-gekippt/) - Wohl gemerkt, offiziell wird Assange wegen etwas Angeklagt, was eher in Richtung "da behauptet jemand mal was" geht.
+* [Zabbix 6.0 so, HA out of the box!](https://blog.zabbix.com/whats-new-in-zabbix-6-0-lts-by-arturs-lontons-zabbix-summit-online-2021/17761/)
+* [Finfisher meldet Insolvenz an :(.](https://blog.fefe.de/?ts=9f4d42fd)
+* [Breitband in Deutschland? Alles über 56 KBit ist Irre!](https://blog.fefe.de/?ts=9f4da72d)
+* [Kanal9TV: >>Gesundheitsforum "vi naturalis" Freiberg<<](https://www.youtube.com/watch?v=aYpJkFQHjOY)
+* [Nein? Doch! Oh? Wenn ihr euch bei google anmeldet und dann weiter mit diesem Browser surft, trackt google alles und überall mit.](https://www.kuketz-blog.de/cookies-wie-google-seine-nutzer-seitenuebergreifend-erkennt-bzw-trackt/) - Besonders einfach geht dies, weil jeder der Meinung ist seine Nutzer mit kostenfreien "Google Dienstleistungen" wie "CAPTCHA"-Verifizierung nerven zu müssen.
+* [Neusprech für Panzer ist Landfahrzeug.](https://blog.fefe.de/?ts=9f4a262b)
+* [SeaBIOS wurde in der Version 1.15 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=SeaBIOS-1.15-Released)
