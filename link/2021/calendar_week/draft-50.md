@@ -1,1 +1,8 @@
-* [
+* [Sogar die Scheiße wird jetzt knapp.](https://blog.fefe.de/?ts=9f4bdbe1)
+* [Azure ist kaputt.](https://www.borncity.com/blog/2021/12/12/azure-privilege-escalation-durch-missbrauch-der-azure-api-permissions/)
+* [Mit Goxel könnt ihr schöne 3D Voxels bauen.](https://opensource.com/article/21/12/3d-pixel-art-goxel)
+* [NewPipe wurde in der Version 0.21.14 veröffentlicht.](https://newpipe.net/blog/pinned/release/newpipe-0.21.14-released/)
+* [Mit `Logout4Shell` gibt es einen eleganten oder verrückten Weg, um das bestehende `Log4J`-Problem im Betrieb weg zukonfigurieren.](https://github.com/Cybereason/Logout4Shell)
+* [Hirnfick 2.0 vergoldet und die Essens der Cosmopolitan Ausgabe Januar 2022.](https://tuxproject.de/blog/2021/12/medienkritik-in-kuerze-frei-sein-genau-so-zu-sein/)
+* [>> [...] Julian Assanges Leiden im britischen Hochsicherheitstrakt, sein Stress von insgesamt 11 Jahre ohne Privatsphäre unter 24-Stunden-Beobachtung durch geheime Dienste bedrohen inzwischen sein Leben. Das ist politisch gewollt. [...] <<](https://weltnetz.tv/video/2545-julian-assange-mord-auf-raten)
+* [Ein RDP-Server im freien Internet? Nie ohne Schutz gegen Brute-Force-Angriffe.](https://www.windowspro.de/sponsored/specops-software/erfolgreicher-ransomware-angriff-ein-deutsches-unternehmen-gingen)
