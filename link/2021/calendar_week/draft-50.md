@@ -24,3 +24,8 @@
 * [Schrem und Böhmermann wollen Hackfressenbuch und die Parteien verklagen.](https://netzpolitik.org/2021/politisches-microtargeting-schrems-und-boehmermann-wollen-facebook-und-parteien-verklagen/) - Wegen illegaler Werbung.
 * [Kdenlive wurde in der Version 21.12 veröffentlicht.](https://lwn.net/Articles/878696/rss)
 * [Der Europäische Menschenrechtsgerichtshof ist weiterhin unzufrieden den deutschen Gesetzen zum Thema Geheimdienste.](https://netzpolitik.org/2021/massenhafte-kommunikationsueberwachung-geheimdienst-gesetze-muessen-auf-den-pruefstand/)
+* [Mold wurde in der Version 1.0 veröffentlicht.](https://lwn.net/Articles/878759/rss)
+* [AWS ist schon wieder kaputt.](https://www.borncity.com/blog/2021/12/15/aws-schon-wieder-down-15-12-2021/)
+* [Auch in der Natur macht der Mensch die natürlichen "Puffer" kaputt, Ideal-Standard-Pflanzen verdrängen seltene Arten.](https://www.sonnenseite.com/de/wissenschaft/allerweltspflanzen-verdraengen-seltenere-arten/) - Seltene Arten, dies sind meist jene Pflanzen, die besondere Wirkstoffe beinhalten oder das Ökosystem am laufen halten.
+* [Deutschlands "Ökostrom" erzeugt weiterhin so viel, dass "wir" den Strom ins Atom-Ausland verkaufen können.](https://www.sonnenseite.com/de/wirtschaft/unsere-strompreise-steigen-auch-durch-frankreichs-akw-probleme/) - Leider werden damit auch die Bezahler des Ökostroms, nämlich die Steuerzahler bestraft, denn mit steigender Nachfrage steigt auch der Preis im Inland.
+* [PAPPL wurde in der Version 1.1 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=PAPPL-1.1-Released)
