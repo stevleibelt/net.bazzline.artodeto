@@ -35,3 +35,13 @@
 * [Windows auf Lenovobüchsen ist noch kaputararar.](https://www.bleepingcomputer.com/news/security/lenovo-laptops-vulnerable-to-bug-allowing-admin-privileges/)
 * [Microsoft macht sein Microsoft Access selbst kaputt.](https://www.borncity.com/blog/2021/12/17/microsoft-besttigte-probleme-in-allen-access-versionen-nach-dezember-2021-update/)
 * [NCL Notes und HCL Domino wurde in der Version 12.0.1 veröffentlicht.](https://n-komm.de/hcl-notes-und-domino-12-0-1-verfuegbar/)
+* [Unsere "freie Medien" erzählen euch, dass Russland Krieg in der Ukranie führen will, in Wirklichkeit wollen die nur langsam mal die Zusagen der Nato von 1990 umgesetzt sehen.](https://blog.fefe.de/?ts=9f4210e4)
+* [Russland sucht Mitglieder zur Förderung ihrer UN-Resolution gegen Intoleranz, der Bundestag sagt "NEIN".](https://tuxproject.de/blog/2021/12/iwan-des-tages-warten-wir-den-neonazismus-doch-erst-mal-ab/)
+* [`lsb_release -sc` ist in der Ansiblewelt `ansible_distribution_release`](https://www.shellhacks.com/ansible-lsb_release-variable/)
+* [Sophos ist kaputt.](https://www.borncity.com/blog/2021/12/18/sophos-probleme/)
+* [Unigin wurde in der Version 2.15 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=Unigine-2.15)
+* [Log4J wurde in der Version 2.17 veröffentlicht und scheint damit erst einmal sicher zu sein.](https://www.bleepingcomputer.com/news/security/upgraded-to-log4j-216-surprise-theres-a-217-fixing-dos/)
+* [Tetris gibt es auch für Mainframes.](https://opensource.com/article/21/12/mainframe-tetris) - Falls ihr mal warten müsst während Software gebaut wird.
+* [Sehr schön, der Verwaltungsgerichtshof in Baden-Württemberg setzt die 2G-Regel an Hochschulen außer Kraft.](https://impfentscheidung.online/vgh-bawu-setzt-2g-an-hochschulen-ausser-vollzug/)
+* [Die SPD-Regierung verrät weiter ihr Volk, eine Anpassung der Hartz-IV Regelsätze an die extrem angestiegene Inflation, wird abgelehnt.](https://tuxproject.de/blog/2021/12/linksundrechtsrutsch-berliner-reise-nach-jerusalem/) - Das S steht nicht mehr für Sozial, sondern für Scheiße.
+* [Realitätsabgleich Log4j Stand in Deutschland.](https://www.borncity.com/blog/2021/12/17/log4j-news-new-schwachstelle-bundesfinanzhof-webseite-down-viele-firmen-ungepatcht/)
