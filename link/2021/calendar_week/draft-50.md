@@ -45,3 +45,10 @@
 * [Sehr schön, der Verwaltungsgerichtshof in Baden-Württemberg setzt die 2G-Regel an Hochschulen außer Kraft.](https://impfentscheidung.online/vgh-bawu-setzt-2g-an-hochschulen-ausser-vollzug/)
 * [Die SPD-Regierung verrät weiter ihr Volk, eine Anpassung der Hartz-IV Regelsätze an die extrem angestiegene Inflation, wird abgelehnt.](https://tuxproject.de/blog/2021/12/linksundrechtsrutsch-berliner-reise-nach-jerusalem/) - Das S steht nicht mehr für Sozial, sondern für Scheiße.
 * [Realitätsabgleich Log4j Stand in Deutschland.](https://www.borncity.com/blog/2021/12/17/log4j-news-new-schwachstelle-bundesfinanzhof-webseite-down-viele-firmen-ungepatcht/)
+* [Eure Windowsbüchsen bleiben während des Updates beim Punkt "Kopiere Pakete in den Windows Update Cache" stehen? Hier wird euch geholfen.](http://woshub.com/windows-update-stucks-copying-packages-cache/)
+* [Zabbix HA Cluster? Mit Zabbix 6.0 braucht ihr keine zehn Minuten dafür.](https://blog.zabbix.com/build-zabbix-server-ha-cluster-in-10-minutes-by-kaspars-mednis-zabbix-summit-online-2021/18155/)
+* [HSE wurde in der Version 2.1 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=Micron-HSE-2.1)
+* [Oracle will Softwarehersteller von Medizinsoftware kaufen.](https://www.borncity.com/blog/2021/12/17/oracle-verhandelt-angeblich-ber-die-bernahme-des-medizinsoftware-anbieters-cerner/) - Ekelhaft
+* [Western Digitals MyCloude ist kaputt.](https://www.bleepingcomputer.com/news/security/western-digital-warns-customers-to-update-their-my-cloud-devices/)
+* [Hier wird euch gezeigt, wie ihr mit Samba super einfach einen Platz zum Datei-Austauschen aufsetzt.](https://opensource.com/article/21/12/file-sharing-linux-samba)
+* [Dell ist weiterhin kaputt](https://www.borncity.com/blog/2021/12/19/dell-windows-treiber-erlauben-weiterhin-kernelangriffe/)
