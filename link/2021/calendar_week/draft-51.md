@@ -13,3 +13,7 @@
 * [Thunderbird wurde in der Version 91.4.1 veröffentlicht.](https://www.borncity.com/blog/2021/12/20/thunderbird-91-4-1/)
 * [Firefox wurde in der Version 95.0.2 veröffentlicht.](https://www.borncity.com/blog/2021/12/20/firefox-95-0-2-freigegeben/)
 * [Vulkan wurde in der Version 1.2.203 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=Vulkan-1.2.203)
+* [Selbe Sache wie mit dem Hass, man kann ein soziales Problem wie Pornografie nicht mit Technologie lösen.](https://netzpolitik.org/2021/kommentar-niemand-kann-jugendliche-vor-pornos-schuetzen/)
+* [Vor dem Wichsen soll jetzt euer Personalausweis und eurer Gesicht geprüft werden.](https://netzpolitik.org/2021/privatsphaere-jugendschuetzerinnen-wollen-ausweiskontrolle-vor-pornoseiten/)
+* [In Ungarn werden die "Abweichler" in der Politik jetzt auch offiziell mit Pegasus gehackt.](https://netzpolitik.org/2021/staatstrojaner-polnische-oppositionelle-mit-pegasus-gehackt/)
+* [Juchee, das flächendeckende E-Rezept startet doch nicht überall im Januar.](https://netzpolitik.org/2021/gesundheitsdigitalisierung-das-e-rezept-kommt-doch-noch-nicht/)
