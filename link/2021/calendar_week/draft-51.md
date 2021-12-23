@@ -26,3 +26,15 @@
 * [noyb hat eine Beschwerde beim Datenschützler in Luxemburg gegen Amazon und deren E-Recruiting Praktiken eingelegt.](https://noyb.eu/en/complaint-filed-help-my-recruiter-algorithm) - Eine Maschine, die unverifizierte Daten von irgendwo her nimmt und der Meinung ist diese an euer Profil "anzureichern" entscheidet, ob ihr eingestellt werdet.
 * [noyb hat eine Beschwerde beim Datenschützler von Rheinland-Pfalz geegen Airbnb eingereicht - Eine Maschine entscheidet, anhand von irgendwelchen Daten, ob ihr ein guter Anbieter seid, oder nicht.](https://noyb.eu/en/gdpr-complaint-airbnb-hosts-mercy-algorithms)
 * [Auf freie-messenger.de werden euch die Kriterien erklärt, die für ein sicheres und selbstbestimmtes Nutzen von Messengern wichtig sind.](https://www.freie-messenger.de/) - Danke [Kuketz](https://www.kuketz-blog.de/freie-messenger-gedanken-zu-whatsapp-e2ee-und-interoperabilitaet/)!
+* [Bareos wurde in der Version 21 veröffentlicht.](https://www.bareos.com/de/bareos-21-de/)
+* [Staatsgelder sollen, nach Willen der EU, transparenter fließen.](https://netzpolitik.org/2021/media-freedom-act-eu-kommission-will-transparenz-bei-staatsgeld-fuer-medien/) - Erwartet mehr "Berater"-Kosten
+* [Ein Rechenzentrum von Amazons AWS fällt aus und reist große Teile des Internets mit.](https://www.borncity.com/blog/2021/12/22/ist-das-internet-wieder-kaputt-strung-groer-plattformen-22-12-2021/)
+* [Hier wird euch gezeigt, was ihr alles beachten müsst, wenn ihr den RDP-Port eures Windows-Dienstes verändert.](http://woshub.com/change-rdp-port-3389-windows/)
+* [Neue Art von Spam Mail, "Hoecker Sie sind raus!"](https://www.bleepingcomputer.com/news/security/dridex-malware-trolls-employees-with-fake-job-termination-emails/)
+* [WordPress Erweiterung All in One SEO ist kaputt.](https://www.borncity.com/blog/2021/12/22/wordpress-800-000-webseiten-durch-all-in-one-seo-plugin-kompromittierbar/)
+* [mdr.de: Freiberg wehrt sich gegen Imageschaden durch Corona-Gegner](https://www.mdr.de/nachrichten/sachsen/chemnitz/freiberg/corona-imagekampagne-freiberg-gegen-spaziergaenge-100.html)
+* [Manjaro Linux wurde in der Version 21.2 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=Manjaro-21.2-Released)
+* [Anthony Rother schenkt der Welt Dekatron.](https://anthonyrother.bandcamp.com/album/dekatron?from=fanpub_fb)
+* [Zabbix bietet jetzt auch Trainings an.](https://www.zabbix.com/training_courses_extra?language=english&course=advanced%20problem%20and%20anomaly%20detection%20with%20zabbix%2Cadvanced%20zabbix%20data%20pre-processing%2Cadvanced%20zabbix%20security%20administration%2Cautomation%20and%20integration%20with%20zabbix%20api)
+* [SuperTux wurde in der Version 0.6.3 veröffentlicht und läuft jetzt auch im Browser.](https://www.phoronix.com/scan.php?page=news_item&px=SuperTux-0.6.3)
+* [McDonalds rationiert ihre Pommes weil die Kartoffeln angeblich knapp werden.](https://blog.fefe.de/?ts=9f3dd339)
