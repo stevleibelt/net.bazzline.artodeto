@@ -38,3 +38,6 @@
 * [Zabbix bietet jetzt auch Trainings an.](https://www.zabbix.com/training_courses_extra?language=english&course=advanced%20problem%20and%20anomaly%20detection%20with%20zabbix%2Cadvanced%20zabbix%20data%20pre-processing%2Cadvanced%20zabbix%20security%20administration%2Cautomation%20and%20integration%20with%20zabbix%20api)
 * [SuperTux wurde in der Version 0.6.3 veröffentlicht und läuft jetzt auch im Browser.](https://www.phoronix.com/scan.php?page=news_item&px=SuperTux-0.6.3)
 * [McDonalds rationiert ihre Pommes weil die Kartoffeln angeblich knapp werden.](https://blog.fefe.de/?ts=9f3dd339)
+* [Ogre wurde in der Version 2.3 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=Ogre-2.3-Released)
+* [Systemd wurde in der Version 250 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=systemd-250)
+* [Krita wurde in der Version 5.0 veröffentlicht.](https://lwn.net/Articles/879679/rss)
