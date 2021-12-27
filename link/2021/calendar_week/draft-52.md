@@ -1,0 +1,7 @@
+* [Hier wird euch Bareos WebUI erklärt.](https://www.bareos.com/de/webui-module/)
+* [Arch Linux `libxml2: [...] exists in filesystem`? `pacman -Syu --overwrite /usr/lib/python3.10/site-packages/__pycache__/\*`.](https://archlinux.org/news/libxml22912-6-update-may-require-manual-intervention/)
+* [PGSPider wurde in der Version 2.0.0 veröffentlicht.](https://www.postgresql.org/about/news/high-performance-sql-cluster-engine-pgspider-200-released-2384/)
+* [InfluxDB FDW wurde in der Version 1.1.1 veröffentlicht.](https://www.postgresql.org/about/news/influxdb-fdw-111-released-2377/)
+* [Visual Basic, das FORTAN von Microsoft, wird weitere 10 Jahre unterstützt.](https://www.borncity.com/blog/2021/12/27/visual-basic-6-untersttzung-in-windows-nicht-tot-zu-kriegen/)
+* [Microsoft Windows 11 kann bunt nicht so richtig.](https://www.borncity.com/blog/2021/12/26/windows-11-microsoft-besttigt-probleme-mit-farbdarstellung/)
+* [Googles Chrome kommt bald zu Version 100 an, da machen sich einige Webframeworks sorgen, dass sie mit Googles inflationären Umgang mit Versionsnummern nicht gerechnet haben.](https://blog.fefe.de/?ts=9f366cea)
