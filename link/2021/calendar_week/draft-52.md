@@ -5,3 +5,9 @@
 * [Visual Basic, das FORTAN von Microsoft, wird weitere 10 Jahre unterstützt.](https://www.borncity.com/blog/2021/12/27/visual-basic-6-untersttzung-in-windows-nicht-tot-zu-kriegen/)
 * [Microsoft Windows 11 kann bunt nicht so richtig.](https://www.borncity.com/blog/2021/12/26/windows-11-microsoft-besttigt-probleme-mit-farbdarstellung/)
 * [Googles Chrome kommt bald zu Version 100 an, da machen sich einige Webframeworks sorgen, dass sie mit Googles inflationären Umgang mit Versionsnummern nicht gerechnet haben.](https://blog.fefe.de/?ts=9f366cea)
+* [Nachdem Herr Sebastian Kurz Kanzler in Österreich war, arbeitet er jetzt irgendwas bei Palantir.](https://blog.fefe.de/?ts=9f370286)
+* [Darwin regelt! Jetzt auch Dig-it-all.](https://blog.fefe.de/?ts=9f34f23d)
+* [Einlightenment wurde in der Version 0.25 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=Enlightenment-0.25)
+* [Danke an das Kollektiv der Aktiven, die sich gegen die Vorratsdatenspeicherung bemühen!](https://netzpolitik.org/2021/verfassungsbeschwerde-immer-feste-drauf-auf-die-vorratsdatenspeicherung/)
+* [`wget --no-verbose --content-disposition` gefällt mir direkt sehr.](https://www.shellhacks.com/wget-keep-original-filename/)
+* [>>Für die drei Kernkraftwerke Brokdorf (Schleswig-Holstein), Grohnde (Niedersachsen) und Gundremmingen, Block C (Bayern) erlischt die Berechtigung zum Leistungsbetrieb zum 31. Dezember 2021.<<](https://www.sonnenseite.com/de/politik/drei-weitere-atomkraftwerke-gehen-vom-netz/) - Wieder etwas geschafft, wenn uns, als Gesellschaft, der Rückbau und die verstrahlte Erde vor Ort noch viel kosten wird. Denn die Betreiber sind da frein raus und ohne Moral stört es sie auch nicht.
