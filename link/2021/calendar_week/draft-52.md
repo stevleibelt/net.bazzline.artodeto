@@ -22,3 +22,5 @@
 * [Hier wird euch gezeigt, wie ihr einfach das log-forwarding auf einen syslog erstellt.](https://www.incredigeek.com/home/enable-remote-syslog-on-linux-debian-ubuntu-centos-fedora/)
 * [Daniel Nashed zeigt euch, wie ihr ein Zertifikat zum Testen nutzen könnt.](https://blog.nashcom.de/nashcomblog.nsf/dx/introducing-a-lab-ca-for-testing.htm)
 * [Und hier hat Daniel Nashed noch seine "one click" Installation auf Version 12.0.1 veröffentlicht.](https://blog.nashcom.de/nashcomblog.nsf/dx/domino-12.0.1-one-touch-setup-supports-microca-and-import-existing-certs.htm)
+* [Lastpass ist kaputt.](https://blog.fefe.de/?ts=9f331237)
+* [Hier wird wieder gezeigt warum man der Antivirus-Schlangenölindustrie nicht trauen muss.](https://blog.fefe.de/?ts=9f331111)
