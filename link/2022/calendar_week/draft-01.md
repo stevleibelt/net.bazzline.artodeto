@@ -21,3 +21,4 @@
 * [Nein? Doch! Oh? Weniger Puffer in Form von Wäldern erhöht die Viruslast auf alle Lebensformen.](https://netzfrauen.org/2021/12/31/deforestation-4/)
 * [Hier wird euch gezeigt, wie ihr mit Ansibles `slurp` Inhalte von Dateien aus Windows oder Linux Maschinen lest und schreibt.](https://www.shellhacks.com/ansible-cat-file-print-read-file-content/)
 * [Digitales Krankenwesen? Die USA zeigen wie es geht und verlieren 19 Millionen Datensätze ihrer Bürger.](https://www.bleepingcomputer.com/news/security/top-10-healthcare-breaches-in-the-us-exposed-data-of-19-million/)
+* [`DISM /Online /Set-OSUninstallWindow /Value:60`, falls ihr Windows 11 ganze 60 Tage ausprobieren wollt.](https://www.zdnet.com/article/windows-11-give-yourself-more-time-to-roll-back-the-upgrade/)
