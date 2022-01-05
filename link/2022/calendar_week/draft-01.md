@@ -29,3 +29,9 @@
 * [Der Postillon zeigt, was sich die EU da hat einfallen lassen, als sie meinte, dass Atomkraft jetzt nachhaltig ist.](https://www.der-postillon.com/2022/01/atomkraft-nachhaltig.html) - Bitte direkt so umsetzen.
 * [Haha, Microsoft Skype hat jetzt ein erfolgreiches "Wir wollen nicht, dass du diesen Dienst nutzt"-Captcha eingebaut.](https://www.bleepingcomputer.com/news/security/microsoft-skype-challenge-can-you-solve-this-puzzle-10-times/)
 * [Hier wird euch gezeigt, wie ihr eure Zabbix 5.x Version auf die 6.0 LTS Version aktualisiert.](https://blog.zabbix.com/a-guide-to-migrating-to-zabbix-6-0-lts-by-edgars-melveris-zabbix-summit-online-2021/18569/)
+* [NumPy wurde in der Version 1.22.0 veröffentlicht.](https://lwn.net/Articles/880332/rss)
+* [PyPI scheint Probleme mit dem Vertrauen zu haben, der Code, der angeblich in einem Paket sein sollte, ist wohl nicht immer enthalten.](https://zaitcev.livejournal.com/263602.html)
+* [UScellular ist kaputt.](https://www.bleepingcomputer.com/news/security/uscellular-discloses-data-breach-after-billing-system-hack/)
+* [VMWare ist kaputt.](https://www.borncity.com/blog/2022/01/05/vmware-sicherheitswarnung-vor-schwachstelle-cve-2021-22045-in-vmware-workstation-co/)
+* [Googles neuer Versuch der totalen Nutzerüberwachung? Das gleiche alte Lied, HTTP/3 mit WebTransport.](https://www.phoronix.com/scan.php?page=news_item&px=Chrome-97-Released)
+* [RDP unter Windows Server ist bei allen Versionen kaputt.](https://www.borncity.com/blog/2022/01/05/windows-server-notfall-update-fixt-remote-desktop-probleme-4-1-2022/)
