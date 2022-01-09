@@ -51,3 +51,4 @@
 * [VMWare Hoizon ist kaputt.](https://www.borncity.com/blog/2022/01/08/angriffe-auf-vmware-horizon-server-mit-log4j-schwachstelle/)
 * [Linux Mint wurde in der Version 20.3 veröffentlicht.](https://www.planet3dnow.de/cms/64397-linux-mint-20-3-una-als-version-mit-cinnamon-xfce-und-mate-erschienen/)
 * [Gewinne privatisieren, Verluste sozialisieren, heute am Beispiel Strompreise.](https://www.sonnenseite.com/de/wirtschaft/hunderte-stromanbieter-kuendigen-kraeftige-preiserhoehungen-von-durchschnittlich-64-prozent-an/)
+* [Hier wird euch gezeigt, wie ihr Ansible Vault nutzt.](https://www.shellhacks.com/ansible-vault-encrypt-decrypt-string/)
