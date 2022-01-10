@@ -1,1 +1,6 @@
-* [
+* [Wir werden alle sterben, außer wenn Karneval ist, das mag der Todesvirus nicht.](https://tuxproject.de/blog/2022/01/carnival-in-berlin/)
+* [Jitsi kann jetzt Breakout Räume.](https://scheible.it/jitsi-meet_breakout-rooms/)
+* [VeraCrypt wurde in der Version 1.25.7 veröffentlicht.](https://www.borncity.com/blog/2022/01/09/veracrypt-1-25-7-fr-windows-7-8-x-10/)
+* [Windows Terminal ist kaputt.](https://www.borncity.com/blog/2022/01/10/windows-terminal-emulator-titelnderung-fhrt-zu-white-screen-of-death/)
+* [NPM ist kaputt.](https://blog.fefe.de/?ts=9f25564b)
+* [Arbeit heute? Schausteller statt welche, die wirklich etwas machen.](https://blog.fefe.de/?ts=9f242fcf)
