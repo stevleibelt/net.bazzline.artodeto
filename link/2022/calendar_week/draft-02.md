@@ -4,3 +4,12 @@
 * [Windows Terminal ist kaputt.](https://www.borncity.com/blog/2022/01/10/windows-terminal-emulator-titelnderung-fhrt-zu-white-screen-of-death/)
 * [NPM ist kaputt.](https://blog.fefe.de/?ts=9f25564b)
 * [Arbeit heute? Schausteller statt welche, die wirklich etwas machen.](https://blog.fefe.de/?ts=9f242fcf)
+* [Nach Norten nutzt Avira jetzt auch euren PC um, während der Virensuche, Kryptomining zu betreiben.](https://blog.fefe.de/?ts=9f228f65)
+* [Danke CDU/Blockpartei, die Talbrücke Rahmede (auch bekannt als Sauerlandbrücke) ist so marode, dass nicht einmal mehr ein Baufahrzeug darauf fahren darf.](https://blog.fefe.de/?ts=9f228ecc) - Das sind die Resultate der verrotten lassens unserer Infrastruktur.
+* [Die markt- und lebensfreie EU-Innenkommissarin Johansson will weiterhin eine vollständige Bespitzelung aller privaten Daten der EU-Bürger umsetzen.](https://netzpolitik.org/2022/missbrauchsdarstellungen-eu-innenkommissarin-johansson-will-offenbar-an-chatkontrolle-festhalten/)
+* [Hier wird euch der Begriff `functional indexes` in MySQL 8.0 erklärt.](https://www.percona.com/blog/mysql-8-0-functional-indexes/)
+* [Btrfs wird unter Linux 5.17 schneller.](https://www.phoronix.com/scan.php?page=news_item&px=Btrfs-Linux-5.17)
+* [Firefox wurde in der Version 96 veröffentlicht und soll "signifikant" weniger Last erzeugten.](https://www.phoronix.com/scan.php?page=news_item&px=Firefox-96-Released)
+* [DragonFlyBSD wurde in der Version 6.2 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=DragonFlyBSD-6.2)
+* [`shell:startup` oder `shell:common startup`, wenn ihr unter Windows mal Programme in den Autostart packen müsst.](https://www.shellhacks.com/windows-startup-folder-add-program-to-startup/)
+* [Personalisierte und damit nicht weiterverkäufliche Ticketst durch die politisch erzeuge Pandemiehintertür.](https://netzpolitik.org/2022/update-der-corona-warn-app-neue-impfstatus-pruefung-auf-kosten-der-anonymitaet/)
