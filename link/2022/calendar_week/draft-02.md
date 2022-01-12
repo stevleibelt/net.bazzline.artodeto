@@ -13,3 +13,10 @@
 * [DragonFlyBSD wurde in der Version 6.2 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=DragonFlyBSD-6.2)
 * [`shell:startup` oder `shell:common startup`, wenn ihr unter Windows mal Programme in den Autostart packen müsst.](https://www.shellhacks.com/windows-startup-folder-add-program-to-startup/)
 * [Personalisierte und damit nicht weiterverkäufliche Ticketst durch die politisch erzeuge Pandemiehintertür.](https://netzpolitik.org/2022/update-der-corona-warn-app-neue-impfstatus-pruefung-auf-kosten-der-anonymitaet/)
+* [Endlich darf die US-Amerikanische Regulierungsbehörde FTC eine Kartellklage gegen Facebook einreichen.](https://blog.fefe.de/?ts=9f20f8e2)
+* [Vetternwirtschart, Australien hat für 3,5 Milliarden Dollar 120 Panzer von den USA gekauft.](https://blog.fefe.de/?ts=9f237bcc) - Zerfällt der australische Kontinent bald in zwei Staaten, oder befürchtet der Staat Australien eine Austrocknung der Ozeane?
+* [DXVK wurde in der Version 1.9.3 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=DXVK-1.9.3-Released)
+* [Europol so "ja, ja, wir löschen die illegal geklauten Daten ... irgendwann mal ... echt, ECHT!"](https://netzpolitik.org/2022/europol-eu-polizeibehoerde-laesst-offen-ob-sie-illegale-datensammlung-loescht/)
+* [Sogar Born stimmt meiner Meinung zu, Luca-App ist eine "Gewinne privatisieren, (Daten)-Verluste sozialisieren" in Reinkultur.](https://www.borncity.com/blog/2022/01/11/luca-app-irre-teuer-technisch-kaputt-unsicher-und-nutzlos/)
+* [Nein? Doch! Oh? Mikroplastik kann menschliche Zellen schädigen.](https://www.sonnenseite.com/de/wissenschaft/mikroplastik-kann-menschliche-zellen-schaedigen/)
+* [Sicherheitsupdates für Windows Server im Januar 2022? Boot-Schleife.](https://www.borncity.com/blog/2022/01/12/windows-server-januar-2022-sicherheitsupdates-verursachen-boot-schleife/)
