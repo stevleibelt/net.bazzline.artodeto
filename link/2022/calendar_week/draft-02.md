@@ -26,3 +26,5 @@
 * [Gut so, der Bund übernimmt die Lizenzkosten für die Anwendung `Luca` nicht.](https://netzpolitik.org/2022/luca-app-bund-uebernimmt-millionenkosten-der-laender-nicht/) - Ich hoffe, die Führungsetage der 13 Bundesländer merkt sich das.
 * [Microsoft macht seine Windows Server im Monat Januar noch kaputerererererer.](https://www.borncity.com/blog/2022/01/12/windows-server-2012-r2-januar-2022-update-kb5009586-brickt-hyper-v-host/)
 * [Thunderbird wurde in der Version 91.5.0 veröffentlicht.](https://www.borncity.com/blog/2022/01/13/thunderbird-91-5-0/)
+* [Die Bayern haben eine ganz kurze Zündschnur, es gibt die Vermutung, dass du etwas nichts rechtskonformes gemacht hast? Hausdurchsuchung Arschloch!](https://blog.fefe.de/?ts=9f1edafa)
+* [Im Firefox solltet ihr lieber `about:preferences#privacy` unter `Datenerhebung durch Firefox und deren Verwendung` alles ausschalten.](https://blog.fefe.de/?ts=9f2136d6)
