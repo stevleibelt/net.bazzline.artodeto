@@ -20,3 +20,9 @@
 * [Sogar Born stimmt meiner Meinung zu, Luca-App ist eine "Gewinne privatisieren, (Daten)-Verluste sozialisieren" in Reinkultur.](https://www.borncity.com/blog/2022/01/11/luca-app-irre-teuer-technisch-kaputt-unsicher-und-nutzlos/)
 * [Nein? Doch! Oh? Mikroplastik kann menschliche Zellen schädigen.](https://www.sonnenseite.com/de/wissenschaft/mikroplastik-kann-menschliche-zellen-schaedigen/)
 * [Sicherheitsupdates für Windows Server im Januar 2022? Boot-Schleife.](https://www.borncity.com/blog/2022/01/12/windows-server-januar-2022-sicherheitsupdates-verursachen-boot-schleife/)
+* [In Flintenuschi's Welt, gibt es Atomkraftwerke und grüne Wasserstoffwerke.](https://blog.fefe.de/?ts=9f21e087) - Von einer Person mit so wenig Fachwissen will ich nicht regiert werden
+* [Der angebliche Terroranschlag 2017 in Barcelona wurde wohl vom spanischen Geheimdienst herbeigeführt.](https://blog.fefe.de/?ts=9f202d31)
+* [Wenn man einmal das Volk fragt, da kommt nur quatsch raus. Das Volk der EU will weiterhin ein anonymes Internet.](https://netzpolitik.org/2022/eu-umfrage-mehrheit-will-anonyme-internetnutzung-deutschland-kein-vorreiter/) - Flintenuschi wird hier ganz klar erklären, wo das Problem liegt. Nicht in der volksfremden Politik, sondern nur darin, "dass das Volk noch nicht abgeholt/informiert wurde"
+* [Gut so, der Bund übernimmt die Lizenzkosten für die Anwendung `Luca` nicht.](https://netzpolitik.org/2022/luca-app-bund-uebernimmt-millionenkosten-der-laender-nicht/) - Ich hoffe, die Führungsetage der 13 Bundesländer merkt sich das.
+* [Microsoft macht seine Windows Server im Monat Januar noch kaputerererererer.](https://www.borncity.com/blog/2022/01/12/windows-server-2012-r2-januar-2022-update-kb5009586-brickt-hyper-v-host/)
+* [Thunderbird wurde in der Version 91.5.0 veröffentlicht.](https://www.borncity.com/blog/2022/01/13/thunderbird-91-5-0/)
