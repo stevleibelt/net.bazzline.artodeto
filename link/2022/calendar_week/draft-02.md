@@ -28,3 +28,5 @@
 * [Thunderbird wurde in der Version 91.5.0 veröffentlicht.](https://www.borncity.com/blog/2022/01/13/thunderbird-91-5-0/)
 * [Die Bayern haben eine ganz kurze Zündschnur, es gibt die Vermutung, dass du etwas nichts rechtskonformes gemacht hast? Hausdurchsuchung Arschloch!](https://blog.fefe.de/?ts=9f1edafa)
 * [Im Firefox solltet ihr lieber `about:preferences#privacy` unter `Datenerhebung durch Firefox und deren Verwendung` alles ausschalten.](https://blog.fefe.de/?ts=9f2136d6)
+* [Danke Max Schrem, dier österreichische Datenschutzbeauftragte arbeitet jetzt gegen Google Analytics.](https://blog.fefe.de/?ts=9f1ea8df)
+* [In den USA glauben die Menschen jetzt an die Umweltproblematik](https://blog.fefe.de/?ts=9f1e9a22)
