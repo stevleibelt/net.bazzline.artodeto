@@ -30,3 +30,13 @@
 * [Im Firefox solltet ihr lieber `about:preferences#privacy` unter `Datenerhebung durch Firefox und deren Verwendung` alles ausschalten.](https://blog.fefe.de/?ts=9f2136d6)
 * [Danke Max Schrem, dier österreichische Datenschutzbeauftragte arbeitet jetzt gegen Google Analytics.](https://blog.fefe.de/?ts=9f1ea8df)
 * [In den USA glauben die Menschen jetzt an die Umweltproblematik](https://blog.fefe.de/?ts=9f1e9a22)
+* [Microsoft schraubt seine Server weiter kaputt.](https://www.henning-uhle.eu/informatik/windows-server-kaputt-gepatcht-und-nun)
+* [Da baut jemand Methoden ein, die keinen Nutzen haben, später haben die einen Nutzen und dann meckert der Entwickler.](https://stitcher.io/blog/its-your-fault) - Kurzum, baut keinen scheiß in eure Public-Api
+* [libvirt wurde in der Version 8.0 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=libvirt-8.0)
+* [LibreOffice wurde in der VErsion 7.2.5 veröffentlicht.](https://www.planet3dnow.de/cms/64453-libreoffice-7-2-5-community/)
+* [Firefox wurde in der Version 96.0.1 veröffentlicht.](https://www.borncity.com/blog/2022/01/15/firefox-96-0-1-freigegeben/)
+* [FFmpeg wurde in der VErsion 5.0 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=FFmpeg-5.0-Released)
+* [Kleinwaltersdorf, die Gemeinde im Landkreis Mittelsachsen zeigt, wie man zusammen hält. Heute, Weihnsachtswichteln 2021.](https://kleinwaltersdorf.de/index.php/2022/01/14/weihnachtswichteln-2021-in-kleinwaltersdorf/)
+* [temBoard 7.9 für PostgreSQL 14? Jibbet!](https://www.postgresql.org/about/news/temboard-79-for-postgresql-14-2394/)
+* [Kuketz zeigt, dass ARD und ZDF einen Fick auf euren Datenschutz gibt. Was antworten Sie Ihm? "Sehen wir anders!"](https://www.kuketz-blog.de/ttdsg-stellungnahme-der-ard-bezueglich-apps-liegt-vor/)
+* [Rust wurde in der Version 1.58.0 veröffentlicht.](https://lwn.net/Articles/881377)
