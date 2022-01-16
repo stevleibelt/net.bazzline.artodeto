@@ -40,3 +40,11 @@
 * [temBoard 7.9 für PostgreSQL 14? Jibbet!](https://www.postgresql.org/about/news/temboard-79-for-postgresql-14-2394/)
 * [Kuketz zeigt, dass ARD und ZDF einen Fick auf euren Datenschutz gibt. Was antworten Sie Ihm? "Sehen wir anders!"](https://www.kuketz-blog.de/ttdsg-stellungnahme-der-ard-bezueglich-apps-liegt-vor/)
 * [Rust wurde in der Version 1.58.0 veröffentlicht.](https://lwn.net/Articles/881377)
+* [Falls jemand wissen möchtewie die DKIM Spam Attacke so funktioniert.](https://utcc.utoronto.ca/~cks/space/blog/spam/DKIMSpamReplayAttack)
+* [Die Gaspreise explodieren in Deutschland? Nun, das liegt daran, weil die Energiemafia noch mehr Gewinn aus dem Verkauf des russischen Gases erzeugen wollte. Russland kommuniziert ganz offen, dass Sie gern mehr als faire Preise anbieten, wenn die Energiemafia endlich einmal langfristige Verträge unterzeichnen würden.](https://blog.fefe.de/?ts=9f1df30f)
+* [Intel entfernt ihre SGX-Sicherheitsenklave aus ihren Desktop-, Server- und Mobileprozessoren.](https://blog.fefe.de/?ts=9f1ce5fb) - Neben "Coins" ist das auch der Verkaufsgrund aller Cloud-Hoster.
+* [GravityMark wurde in der Version 1.44 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=GravityMark-1.44)
+* [Jack2 wurde in der Version 1.9.20 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=JACK2-1.9.20-Released)
+* [Wisst ihr wo Log4J richtig lange Ärger machen wird? Bei all den Dingern ohne gescheiter Update-Routine, die aber immer Online sind. Autos, Ladestationen, Plasteroutern.](https://www.borncity.com/blog/2022/01/16/log4j-in-embedded-gerten-connected-cars-ladestationen-etc/)
+* [Thema eGK, das Einstecken der Karte führt zum Absturz des Terminals. Elektromagnetische Aufladung, ihr wisst schon.](https://www.borncity.com/blog/2022/01/16/problem-mit-statischer-aufladung-bei-egk-2-1/)
+* [Hackfressenbuchs React geht kaputt und ihr müsst selbst Hand anlegen.](https://www.bleepingcomputer.com/news/security/npm-dependency-is-breaking-some-react-apps-today-heres-the-fix/)
