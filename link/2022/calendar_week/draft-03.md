@@ -1,0 +1,12 @@
+* [Kali Linux wurde in der Versin 2021.4 veröffentlicht.](https://scheible.it/pentest-system-kali-linux-2021-4/)
+* [PostmarkOS wurde in der Version v21.12 veröffentlicht.](https://postmarketos.org/blog/2022/01/17/v21.12.1-release/)
+* [Mumble wurde in der Version 1.4 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=Mumble-1.4)
+* [>>Während der Covid-19-Pandemie konnten die zehn reichsten Milliardäre ihr Gesamtvermögen verdoppeln, auf insgesamt 1,5 Billionen US-Dollar. Gleichzeitig leben über 160 Millionen Menschen zusätzlich in Armut. [...]<<](https://www.sonnenseite.com/de/politik/die-reichsten-verdoppeln-ihr-vermoegen-waehrend-ueber-160-millionen-zusaetzlich-in-armut-leben/)
+* [Wer mutig ist, kann sich mal wieder an Windows Server Patches probieren.](https://www.borncity.com/blog/2022/01/17/microsoft-januar-2022-patchday-revisionen-14-1-2022/)
+* [Die Zwangsgebühren des BBC soll abgeschafft werden.](https://blog.fefe.de/?ts=9f1ab623)
+* [Während WhatsApp aus dem geheiligten Land der USA kommt, kommt Telegram ja aus dem Feindesland und genau deswegen schaut sich jetzt der Verfassungsschutz Telegram ganz genau an.](https://blog.fefe.de/?ts=9f1a78e2)
+* [Kryptomining ist schädlich für den Planeten.](https://blog.fefe.de/?ts=9f1a108f)
+* [GhostBSD wurde in der VErsion 22.01.22 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=GhostBSD-22.01.12)
+* [Zabbix um eure Datenhalde Auto zu monitoren? Klar, wenn der Hersteller mal Zugriff gewähren würde.](https://blog.zabbix.com/zabbix-open-source-monitoring-software-for-automotive-monitoring/18776/)
+* [Microsoft Exchange Online ist auch kaputt.](https://www.borncity.com/blog/2022/01/17/exchange-online-aktuell-gestrt-17-1-2022/) - Sehr gut, ich dachte Microsoft wollte nur die Stand-Alone Exchange kaputt machen, damit alle in deren Azure-Cloud kommen.
+* [Der Wawawawums-Faktor eines Raspberry Pi 4 ist groß genug, als dass er Minishift (Openshift) laufen lassen kann.](https://www.opensourcerers.org/2022/01/17/openshift-on-raspberry-pi-4/)
