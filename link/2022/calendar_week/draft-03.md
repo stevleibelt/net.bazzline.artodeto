@@ -25,3 +25,14 @@
 * [Und in der EU wird das neue, deutsche Wesen natürlich weiter gewirkt. Da werden Chatnachrichten nicht als digitale Dokumente betrachtet, damit man sagen kann "wir haben keine digitalen Dokumente zur Ihrer Anfrage gefunden".](https://netzpolitik.org/2022/eu-informationsfreiheit-bloed-der-lobbyist-der-jetzt-noch-e-mails-schreibt/)
 * [Wirtschaftlich nette Umschreibung für "Wir haben nie einen Euro in das Thema Infrastruktur und Sicherheit investiert"? Hackerangriffe!](https://blog.fefe.de/?ts=9f1819a7)
 * [Die grüne Außenministerin will jetzt unsere Cybergrenzen in der Ukranie verteidigen.](https://blog.fefe.de/?ts=9f181a17)
+* [Corona-Warn-App? Die kostet bei SAP und der Telekom dann mal 130 Millionen Euro.](https://blog.fefe.de/?ts=9f194873)
+* [Die Methanpyrolyse scheint die Brückentechnologie zu sein, bis wir genug Energie, klimaneutral, erzeugen um Elektrolyse betreiben zu können.](https://blog.fefe.de/?ts=9f1945f9)
+* [Noch einmal "Die Grünen, dass ist CDU nur mit anderer Lackierung", deren Art um Deutschlands CO2-Emissionsziele zu erreichen besteht darin, dass das Erdgas, zum erzeugen von Wasserstoff, nicht in Deutschland, sondern in Russland verbrannt wird.](https://blog.fefe.de/?ts=9f183243) - Das ist so, wie wenn Deutschland alle Atomkraftwerke abschaltet, gleichzeitig aber in Polen neue baut.
+* [VirtualBox wurde in der Version 6.1.32 veröffentlicht.](https://www.borncity.com/blog/2022/01/19/virtualbox-6-1-32-freigegeben/)
+* [Hier wird euch gezeigt, wie man eine MySQL (auch in Version 8), in die Knie zwingen kann.](https://jfg-mysql.blogspot.com/2022/01/crashing-mysql-with-malicious-intent-and-determination.html.html)
+* [Wine wurde in der Version 7.0 veröffentlicht.](https://lwn.net/Articles/881680/rss)
+* [Freunde des Lichts, fleischärmer, regional und ökologischer, sonst ist Mutter Erde in Deutschland nicht mehr zu retten.](https://www.sonnenseite.com/de/politik/gruener-ackern/)
+* [>>If, on the other hand, you're an open source user; you or your company should consider supporting the people you depend on. They are doing incredibly important work; most of the time, for free.<<](https://stitcher.io/blog/dealing-with-dependencies)
+* [Wie üblich, stellt sich ein Kiez gegen weltweite Wirtschaftsinteressen, wird der Bezirk zum Gefahrengebiet erklärt.](https://netzpolitik.org/2022/berlin-kreuzberg-spd-will-polizeiwache-in-linkem-szenebezirk-errichten/)
+* [Du weißt, wie groß die soziale Spaltung ist, wenn über 100 Millionäre eine Rechensteuer fordern.](https://www.sonnenseite.com/de/zukunft/ueber-100-millionaere-fordern-vermoegenssteuer-fuer-die-reichsten/) - Lieber etwas Vermögen abgeben als verbrannt werden.
+* [Hier gibt es eine Schnellanleitung zum Thema PowerShell `Enter-PSSession`.](http://woshub.com/enter-pssession-remote-command-shell/)
