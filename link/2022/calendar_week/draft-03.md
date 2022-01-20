@@ -36,3 +36,10 @@
 * [Wie üblich, stellt sich ein Kiez gegen weltweite Wirtschaftsinteressen, wird der Bezirk zum Gefahrengebiet erklärt.](https://netzpolitik.org/2022/berlin-kreuzberg-spd-will-polizeiwache-in-linkem-szenebezirk-errichten/)
 * [Du weißt, wie groß die soziale Spaltung ist, wenn über 100 Millionäre eine Rechensteuer fordern.](https://www.sonnenseite.com/de/zukunft/ueber-100-millionaere-fordern-vermoegenssteuer-fuer-die-reichsten/) - Lieber etwas Vermögen abgeben als verbrannt werden.
 * [Hier gibt es eine Schnellanleitung zum Thema PowerShell `Enter-PSSession`.](http://woshub.com/enter-pssession-remote-command-shell/)
+* [Die EU will jetzt einen eigenen DNS-Resolver bauen.](https://blog.fefe.de/?ts=9f16e92e)
+* [Zentralisierte Datenhaltung? Gute Idee, das Rote Kreuz merkt, was für Wichser da draußen unterwegs sind.](https://www.borncity.com/blog/2022/01/20/cyberangriff-auf-rotes-kreuz-daten-von-515-000-gefhrdeten-personen-gestohlen/)
+* [Microsoft hat seinen IPsec-Stack kaput gepatched.](https://www.borncity.com/blog/2022/01/19/nachlese-fix-fr-windows-ipsec-vpn-verbindungproblem/)
+* [Onlyoffice wurde in der Version 7.0 veröffentlicht.](https://lwn.net/Articles/881812/rss)
+* [Microsoft zieht seine Preis für die Cloud weiter an, ab März kostet ales 10 Prozent mehr.](https://n-komm.de/microsoft-365-preisaenderungen-im-maerz/)
+* [Die Roadmap von genodeos im Jahr 2022 sieht wieder einmal toll aus.](https://www.phoronix.com/scan.php?page=news_item&px=Genode-2022-Plans)
+* [Nein? Doch! Oh? Fast alle Apple Anwendungen, die trackingfrei sein sollen, sammeln dennoch heimlich Daten.](https://netzpolitik.org/2022/apple-datenschutzlabels-grossteil-angeblich-trackingfreier-ios-apps-sammelt-heimlich-daten/)
