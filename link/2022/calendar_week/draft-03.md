@@ -43,3 +43,10 @@
 * [Microsoft zieht seine Preis für die Cloud weiter an, ab März kostet ales 10 Prozent mehr.](https://n-komm.de/microsoft-365-preisaenderungen-im-maerz/)
 * [Die Roadmap von genodeos im Jahr 2022 sieht wieder einmal toll aus.](https://www.phoronix.com/scan.php?page=news_item&px=Genode-2022-Plans)
 * [Nein? Doch! Oh? Fast alle Apple Anwendungen, die trackingfrei sein sollen, sammeln dennoch heimlich Daten.](https://netzpolitik.org/2022/apple-datenschutzlabels-grossteil-angeblich-trackingfreier-ios-apps-sammelt-heimlich-daten/)
+* [Auch "nett" ausgedrückt, Googles Cloud Support ist so schlecht, dass sie von dem Buchhändler (*hust* aws *hust*) platt gemacht wurden.](https://blog.fefe.de/?ts=9f1430a1)
+* [In Berlin geht ein weiteres Heizkraftwerk kaputt.](https://blog.fefe.de/?ts=9f14058c)
+* [Die Cryptorente ist sicher!](https://blog.fefe.de/?ts=9f147bf4)
+* [Kanal9TV: Stadtratssitzung in Freiberg](https://www.youtube.com/watch?v=BT47xt5Tkzk)
+* [McAfee ist auch kaputt.](https://www.borncity.com/blog/2022/01/22/schwachstelle-in-mcafee-agent-ermglicht-codeausfhrung-als-windows-system/)
+* [Über 90 Erweiterungen von WordPress sind kaputt.](https://www.bleepingcomputer.com/news/security/over-90-wordpress-themes-plugins-backdoored-in-supply-chain-attack/)
+* [Agent Orange? Wird nur noch in der "dritten Welt" wie Brasilien genutzt.](https://netzfrauen.org/2022/01/21/amazon-6/) - Ich hoffe, euch schmecken eure Südfrüchte in der Winterzeit
