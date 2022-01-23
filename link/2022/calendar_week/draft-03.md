@@ -50,3 +50,7 @@
 * [McAfee ist auch kaputt.](https://www.borncity.com/blog/2022/01/22/schwachstelle-in-mcafee-agent-ermglicht-codeausfhrung-als-windows-system/)
 * [Über 90 Erweiterungen von WordPress sind kaputt.](https://www.bleepingcomputer.com/news/security/over-90-wordpress-themes-plugins-backdoored-in-supply-chain-attack/)
 * [Agent Orange? Wird nur noch in der "dritten Welt" wie Brasilien genutzt.](https://netzfrauen.org/2022/01/21/amazon-6/) - Ich hoffe, euch schmecken eure Südfrüchte in der Winterzeit
+* [Mold wurde in der Version 1.0.2 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=Mold-1.0.2-Released)
+* [Thalias ist kaputt.](https://www.borncity.com/blog/2022/01/23/buchhandelskette-thalia-erfolgreicher-hack-auf-kundenkonten/)
+* [Dank den Transatlantikern will Deutschland jetzt Flüssiggas aus Katar und später den USA importieren, statt die Gasleistungen aus Russland zu nutzen, die schon da sind und genutzt werden.](https://blog.fefe.de/?ts=9f1394f6) - Wisst schon, das russische Gas ist böse, das US-amerikanische hingegen superdupidoll
+* [Ganz klarer Fall, Leute die nachfolgendes von sich geben, sind nicht mehr bei Trost: >>Wladimir Putin wirklich wolle, sei "Respekt auf Augenhöhe", sagte der Vizeadmiral. "Es ist leicht, ihm den Respekt zu geben, den er will - und den er wahrscheinlich auch verdient."<<](https://blog.fefe.de/?ts=9f1251f4) - Gut, dass solche Kriegsfanatiker nicht mehr am Waffenhebel sitzen!
