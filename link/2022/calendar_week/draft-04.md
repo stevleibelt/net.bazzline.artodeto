@@ -6,3 +6,6 @@
 * [Rust wurde in der Version 1.58.1 veröffentlicht.](https://blog.rust-lang.org/2022/01/20/Rust-1.58.1.html)
 * [openSUSE baut seine Installer in eine "hexagonale" Plattform um. Über den `D-Bus` wird eine einheitliche API erstellt und daran wird die `Web UI`, die `CLI` und die `Qt App` als "Frontend" gepackt.](https://www.phoronix.com/scan.php?page=news_item&px=openSUSE-D-Installer) - Schöne Idee, USB Stick rein und Webbrowser auf, schon geht das Installieren los
 * [Salamitaktik "Transparenzgesetz" in Sachsen, damit niemand hinter die Machenschaften der Treuhand kommt, wir Transparenz, auch nach acht Jahren leere Versprechungen von CDU und SPD, klein geschrieben.](https://netzpolitik.org/2022/saechsisches-transparenzgesetz-mittelmass-statt-transparenzvorreiter/)
+* [Lexmark ist kaputt.](https://www.borncity.com/blog/2022/01/24/kritische-schwachstelle-cve-2021-44738-in-lexmark-druckern-jan-2022/)
+* [Bareos unterstützt MySQL ab Version 21 nicht mehr. In Version 20 gibt es das Migrationswerkzeug `bareos-dbcopy`.](https://www.bareos.com/de/end-of-life-fuer-mysql/) - Bareos nutzt ab jetzt nur noch `PostgreSQL`.
+* [Julian Assange darf seine Fall dem obersten Gerichtshof des Vereinigten Königreichs in Großbritanien vorlegen.](https://netzpolitik.org/2022/grossbritannien-die-auslieferung-von-assange-kann-vor-das-hoechste-britische-gericht/)
