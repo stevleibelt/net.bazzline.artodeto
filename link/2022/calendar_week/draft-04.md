@@ -9,3 +9,18 @@
 * [Lexmark ist kaputt.](https://www.borncity.com/blog/2022/01/24/kritische-schwachstelle-cve-2021-44738-in-lexmark-druckern-jan-2022/)
 * [Bareos unterstützt MySQL ab Version 21 nicht mehr. In Version 20 gibt es das Migrationswerkzeug `bareos-dbcopy`.](https://www.bareos.com/de/end-of-life-fuer-mysql/) - Bareos nutzt ab jetzt nur noch `PostgreSQL`.
 * [Julian Assange darf seine Fall dem obersten Gerichtshof des Vereinigten Königreichs in Großbritanien vorlegen.](https://netzpolitik.org/2022/grossbritannien-die-auslieferung-von-assange-kann-vor-das-hoechste-britische-gericht/)
+* [Microsoft zeigt, mit `answers.microsoft.com` wohin die KI-Reise als "Dienstleistung" geht. Auf eine gut ausgearbeitet Frage mit Details erhält man erst einmal ein bla-bla und dann doch keine Antwort.](https://www.borncity.com/blog/2022/01/25/wo-gibt-es-support-fr-microsoft-produkte-der-niedergang-von-microsoft-answers/) - Da es sich um ein selbst verstärkendes System handelt, wird irgendeine unpassende Antwort dann noch als "die passende Antwort" markiert.
+* [Realitätsabgleich "Erdgas als Brückentechnologie", dies wird, auch von der grünen CDU, seit 30 Jahren gesungen.](https://www.sonnenseite.com/de/energie/erdgas-die-unendlich-lange-bruecke-in-das-solarzeitalter/) - Wow, seit 30 Jahren wird also nichts, von Seiten der Bundesregierung, unternommen, damit diese Brückentechnologie endlich abgeschafft werden kann
+* [Git wurde in der Version 2.35 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=Git-2.35-Released)
+* [Mit DNS4EU sagt die EU erneut "Ja, zum Zensurstaat".](https://netzpolitik.org/2022/dns4eu-eu-will-eigenen-dns-server-mit-filterlisten-und-netzsperren/)
+* [DXVK wurde in der Version 1.9.4 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=DXVK-1.9.4-Released)
+* [Ersatzfreiheitsstrafe ist neusprech für ohne Anhörung ins Gefängnis.](https://verfassungsblog.de/ohne-anhorung-ins-gefangnis/)
+* [Gute Frage, wie leben wir eigentlich in einem Gebiet/Planeten, den wir mit chemischen Kram wie Roundup verseucht haben?](https://netzfrauen.org/2022/01/24/earth-6/)
+* [OPNsense wurde in der Version 21.7.7 veröffentlicht.](https://opnsense.org/opnsense-21-7-7-released/)
+* [OPNSense Business Edition wurde in der Version 21.10.2 veröffentlicht.](https://opnsense.org/opnsense-business-edition-21-10-2-released/)
+* [`Get-AppxPackage windows.immersivecontrolpanel | Reset-AppxPackage`, falls eure Einstellungs-Anwendung unter Windows 10 nicht mehr starten will.](http://woshub.com/settings-app-wont-open-crashes-windows/) - Kannst du dir nicht ausdenken, die Einstellungsanwendung startet nicht mehr.
+* [Nein? Doch! Oh? Die Kreislaufwirtschaft reduziert den CO2 Ausstoß.](https://www.sonnenseite.com/de/umwelt/studie-belegt-klimaschutzeffekte-durch-kreislaufwirtschaft/)
+* [>>[...] Ohne Abschied kann es nichts Neues geben. [...] Wenn du dich aus Netzwerken verabschiedest, passiert nichts Schlimmes, das Leben geht weiter. [...]<<](https://www.kuketz-blog.de/gutes-leben-mit-dem-netzwerkeffekt/)
+* [Das ganze geistige Volumen von Oli "Lasst Leute in Hamburg sterben" Schulz spiegelte sich gestern in einem Satz wieder >>Kurs halten<<.](https://blog.fefe.de/?ts=9f11ebef)
+* [Googles "KI" löscht jetzt mal pro forma eure eigenen Daten auf eurem Google Drive.](https://blog.fefe.de/?ts=9f11d96d)
+* [Es gibt keine Knappheit am Grafikkartenmarkt. Wenn nVidia 50 Prozent mehr verdient, als im Quartal davor, dann ist das einfach ein Oligopol zwischen Herstellern, Händlern und Verkäufern und die Preise wurden so beschlossen.](https://blog.fefe.de/?ts=9f11d1f4)
