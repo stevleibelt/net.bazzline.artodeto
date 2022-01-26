@@ -31,3 +31,4 @@
 * [QNAP ist wieder kaputt.](https://www.bleepingcomputer.com/news/security/new-deadbolt-ransomware-targets-qnap-devices-asks-50-btc-for-master-key/) - Leute, hängt die Dinger einfach nicht direkt ins Internet.
 * [Rqlite wurde in der Version 7.0 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=Rqlite-7.0-Released)
 * [WordPress wurde in der Version 5.9 veröffentlicht.](https://www.borncity.com/blog/2022/01/26/wordpress-5-9-verfgbar/)
+* [Magisk wurde in der Version v24.0 veröffentlicht.](https://github.com/topjohnwu/Magisk/releases/tag/v24.0)
