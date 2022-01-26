@@ -24,3 +24,10 @@
 * [Das ganze geistige Volumen von Oli "Lasst Leute in Hamburg sterben" Schulz spiegelte sich gestern in einem Satz wieder >>Kurs halten<<.](https://blog.fefe.de/?ts=9f11ebef)
 * [Googles "KI" löscht jetzt mal pro forma eure eigenen Daten auf eurem Google Drive.](https://blog.fefe.de/?ts=9f11d96d)
 * [Es gibt keine Knappheit am Grafikkartenmarkt. Wenn nVidia 50 Prozent mehr verdient, als im Quartal davor, dann ist das einfach ein Oligopol zwischen Herstellern, Händlern und Verkäufern und die Preise wurden so beschlossen.](https://blog.fefe.de/?ts=9f11d1f4)
+* [Vulkan wurde in der Version 1.3 veröffentlicht.](https://www.phoronix.com/scan.php?page=article&item=vulkan-13-2022&num=1)
+* [Google nennt FLoC jetzt in Topics um.](https://netzpolitik.org/2022/online-werbung-google-gibt-seine-plaene-fuer-cookie-ersatz-floc-auf/)
+* [Linux ist kaputt, dadurch kann man aus einen kubernetes Container ausbrechen.](https://www.bleepingcomputer.com/news/security/linux-kernel-bug-can-let-hackers-escape-kubernetes-containers/) - [Hier](https://www.bleepingcomputer.com/news/security/linux-system-service-bug-gives-root-on-all-major-distros-exploit-released/) steht noch etwas mehr
+* [VMware patched gegen Log4j.](https://www.bleepingcomputer.com/news/security/vmware-patch-horizon-servers-against-ongoing-log4j-attacks/)
+* [QNAP ist wieder kaputt.](https://www.bleepingcomputer.com/news/security/new-deadbolt-ransomware-targets-qnap-devices-asks-50-btc-for-master-key/) - Leute, hängt die Dinger einfach nicht direkt ins Internet.
+* [Rqlite wurde in der Version 7.0 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=Rqlite-7.0-Released)
+* [WordPress wurde in der Version 5.9 veröffentlicht.](https://www.borncity.com/blog/2022/01/26/wordpress-5-9-verfgbar/)
