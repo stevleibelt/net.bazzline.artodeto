@@ -32,3 +32,7 @@
 * [Rqlite wurde in der Version 7.0 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=Rqlite-7.0-Released)
 * [WordPress wurde in der Version 5.9 veröffentlicht.](https://www.borncity.com/blog/2022/01/26/wordpress-5-9-verfgbar/)
 * [Magisk wurde in der Version v24.0 veröffentlicht.](https://github.com/topjohnwu/Magisk/releases/tag/v24.0)
+* [Archinstall wurde in der Version 2.3.1 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=Arch-Linux-Archinstall-2.3.1)
+* [OPNsense wurde in der Version 22.1 veröffentlicht.](https://opnsense.org/opnsense-22-1-released/)
+* [FiFa so, lasst Weltmeisterschaft in Afrika machen, dann können wir die Billiglöhner beim Bau der Stadien umbringen und ihr müsst sie nicht aufs Mittelmeer zum absaufen schleppen.](https://blog.fefe.de/?ts=9f0fbf5c)
+* [Schönes Beispiel warum ihr nur minimal versichert sein solltet, die Versicherungen reden sich gerade raus, dass sie doch nicht Zahlen müssen, wenn man wegen SARS schließen musste.](https://blog.fefe.de/?ts=9f0fac44)
