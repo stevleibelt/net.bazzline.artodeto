@@ -36,3 +36,16 @@
 * [OPNsense wurde in der Version 22.1 veröffentlicht.](https://opnsense.org/opnsense-22-1-released/)
 * [FiFa so, lasst Weltmeisterschaft in Afrika machen, dann können wir die Billiglöhner beim Bau der Stadien umbringen und ihr müsst sie nicht aufs Mittelmeer zum absaufen schleppen.](https://blog.fefe.de/?ts=9f0fbf5c)
 * [Schönes Beispiel warum ihr nur minimal versichert sein solltet, die Versicherungen reden sich gerade raus, dass sie doch nicht Zahlen müssen, wenn man wegen SARS schließen musste.](https://blog.fefe.de/?ts=9f0fac44)
+* [Chipmangel? Die Umsatzzahlen von AMD, Intel und nVidia sagen etwas anderes.](https://www.3dcenter.org/news/die-intel-geschaeftsergebnisse-im-vierten-quartal-sowie-gesamtjahr-2021)
+* [PipeWire wurde in der Version 0.3.44 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=PipeWire-0.3.44-Released)
+* [So wie du deine Tiere behandelst, so behandelst du dich selbst bald. Tod durch Plastikmüll im Magen.](https://netzfrauen.org/2022/01/27/plastic-31/)
+* [Die USA zeigen, dass sie weiterhin die Besatzungsmacht von Deutschland sind. Die USA bestimmt, ob die Nord Stream 2 Pipeline in Betrieb geht, oder nicht.](https://blog.fefe.de/?ts=9f0df39b) - Elende Cowboys
+* [Wir haben keine Inflation, Stuttgart 21 merkt die explodierenden Preise auch, statt 4,5 Milliarden Euro, sind die jetzt bei vorraussichtlich 9 Milliarden Euro.](https://blog.fefe.de/?ts=9f0df20e) - Einigen wir uns auf 20 Milliarden Euro.
+* [Uff, solche Sachen will man, an einem Freitag, gar nicht erst lesen. `iconv` und `glibc` vertrauen pro Forma jeder `.so`-Datei und arbeiten intern mit Blacklisten?](https://blog.fefe.de/?ts=9f0c6e9e)
+* [Das Verwaltungsgericht in Wiesbaden sagt, so deutlich es darf, dass der gezwungene Fingerabdruck im Personalausweis der Besatzungszone Deutschland gegen die EU-Grundrechtcharta ist.](https://tuxproject.de/blog/2022/01/hoffnung-dexit-10-unrechtsstaat-per-fingerabdruck/)
+* [Thunderbird wurde in der Version 91.5.1 veröffentlicht.](https://www.borncity.com/blog/2022/01/28/thunderbird-91-5-1/)
+* [Firefox wurde in der Version 96.0.3 und 91.5.1 esr veröffentlicht.](https://www.borncity.com/blog/2022/01/28/firefox-96-0-3-und-91-5-1-esr-verfgbar/)
+* [GNU poke wurde in der Version 2.0 veröffentlicht.](https://lwn.net/Articles/882965)
+* [Open 3D Game Engine wurde in der Version 2111.2 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=Open-3D-O3DE-2111.2)
+* [Tactical RMM ist ein freies Monitoring und Management Werkzeug für Windows.](https://4sysops.com/archives/tactical-rmm-open-source-remote-monitoring-and-management-for-windows/)
+* [rqlite wurde in der Version v7.0.1 veröffentlicht.](https://github.com/rqlite/rqlite/releases/tag/v7.0.1)
