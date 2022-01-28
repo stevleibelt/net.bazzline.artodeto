@@ -49,3 +49,4 @@
 * [Open 3D Game Engine wurde in der Version 2111.2 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=Open-3D-O3DE-2111.2)
 * [Tactical RMM ist ein freies Monitoring und Management Werkzeug für Windows.](https://4sysops.com/archives/tactical-rmm-open-source-remote-monitoring-and-management-for-windows/)
 * [rqlite wurde in der Version v7.0.1 veröffentlicht.](https://github.com/rqlite/rqlite/releases/tag/v7.0.1)
+* [Nein? Doch! Oh? Elektroautos gehen genau so häufig kaputt, wie Verbrenner.](https://www.sonnenseite.com/de/mobilitaet/so-schneiden-e-autos-bei-der-ersten-hauptuntersuchung-ab/) - Laut TÜV liegen die Teslas qualitätsmäßig im Bereich Dacia
