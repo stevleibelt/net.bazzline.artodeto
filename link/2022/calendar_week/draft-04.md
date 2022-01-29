@@ -54,3 +54,11 @@
 * [Wer tötet das Denken im Land der Denker? Die Blockpartei!](https://blog.fefe.de/?ts=9f0a7557)
 * [Brücken brechen ein, Feuerwehren, Kindertagesstätten, Schulen, die Polizei und Krankenhäuser stellen wegen Personal- und Ausrüstungsmangel den Betrieb ein und was macht der BND? Die Fordern Milliarden Euro damit sie sich eigene Sataliten bauen können.](https://blog.fefe.de/?ts=9f0aaa2b)
 * [Passend dazu auch, während in Deutschland noch in das Arsch der Besatzungsmacht geschaut wird, bricht dort, während einer Besprechung über die kaputte Infrastruktur, eine wichtige Brücke ein.](https://blog.fefe.de/?ts=9f0a8d47)
+* [Das Verfassungsgericht geht gegen Peng vor, Peng fragt an, was die so über Peng wissen, das Verfassungsgericht entgegnet mit "geht euch nichts an".](https://netzpolitik.org/2022/peng-keine-auskunft-unter-diesem-verein/) - Hier wird ganz klar, nach alter deutscher Art, auf Augenhöhe verhandelt.
+* [OAuth in Aktion, dank OAuth werden immer mehr Chef-Benutzerkonten aufgemacht.](https://www.bleepingcomputer.com/news/security/hackers-are-taking-over-ceo-accounts-with-rogue-oauth-apps/)
+* [Nein? Doch! Oh? Vom digitalen Staat profiert am meisten die Wirtschaft.](https://netzpolitik.org/2022/staatliche-vorzeigeprojekte-wer-profitiert-von-digitaler-souveraenitaet/)
+* [Eclipse OpenJ9 wurde in der Version 0.30 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=Eclipse-OpenJ9-0.30)
+* [iLO bei HP ist kaputt.](https://www.borncity.com/blog/2022/01/29/ber-20-000-hpe-proliant-server-mit-veraltetem-ilo-per-internet-erreichbar/) - Was erwartet HP auch, wenn man Hardware mit aktivierten iLO ausliefert, welches der Kunde aber nur gegen Bezahlung nutzen kann?
+* [Preisabsprachen? Nachdem die Energiekonzerne ihre nicht regenerativen Kraftwerke ausgeliedert und die Strompreise manipuliert haben, machen sie jetzt mit ihren regenerativen Kraftwerken gewinnen in Milliardenhöhe.](https://www.sonnenseite.com/de/wirtschaft/diw-rekordpreise-an-der-stromboerse-bringen-photovoltaik-und-windkraft-betreibern-mehrerloese-in-milliardenhoehe/)
+* [Tabletop hab es schon 1812 in Preußen!](https://www.onli-blogging.de/2125/Linksammlung-042022.html)
+* [Mit XSuspender kann man automatisch nicht genutzte Anwendungen "schlafen legen".](https://kernc.github.io/xsuspender/)
