@@ -50,3 +50,7 @@
 * [Tactical RMM ist ein freies Monitoring und Management Werkzeug für Windows.](https://4sysops.com/archives/tactical-rmm-open-source-remote-monitoring-and-management-for-windows/)
 * [rqlite wurde in der Version v7.0.1 veröffentlicht.](https://github.com/rqlite/rqlite/releases/tag/v7.0.1)
 * [Nein? Doch! Oh? Elektroautos gehen genau so häufig kaputt, wie Verbrenner.](https://www.sonnenseite.com/de/mobilitaet/so-schneiden-e-autos-bei-der-ersten-hauptuntersuchung-ab/) - Laut TÜV liegen die Teslas qualitätsmäßig im Bereich Dacia
+* [DeadBolt erzeugt bei QNAP so viel Schmerz, dass sie zeigen wer hier her über das Gerät ist. QNAP installiert die neuste Firmware, ob ihr wollt oder nicht.](https://www.borncity.com/blog/2022/01/28/qnap-probt-zwangsupdate-nach-3-600-deadbolt-ransomware-infektionen/)
+* [Wer tötet das Denken im Land der Denker? Die Blockpartei!](https://blog.fefe.de/?ts=9f0a7557)
+* [Brücken brechen ein, Feuerwehren, Kindertagesstätten, Schulen, die Polizei und Krankenhäuser stellen wegen Personal- und Ausrüstungsmangel den Betrieb ein und was macht der BND? Die Fordern Milliarden Euro damit sie sich eigene Sataliten bauen können.](https://blog.fefe.de/?ts=9f0aaa2b)
+* [Passend dazu auch, während in Deutschland noch in das Arsch der Besatzungsmacht geschaut wird, bricht dort, während einer Besprechung über die kaputte Infrastruktur, eine wichtige Brücke ein.](https://blog.fefe.de/?ts=9f0a8d47)
