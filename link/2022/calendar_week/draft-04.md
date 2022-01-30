@@ -62,3 +62,11 @@
 * [Preisabsprachen? Nachdem die Energiekonzerne ihre nicht regenerativen Kraftwerke ausgeliedert und die Strompreise manipuliert haben, machen sie jetzt mit ihren regenerativen Kraftwerken gewinnen in Milliardenhöhe.](https://www.sonnenseite.com/de/wirtschaft/diw-rekordpreise-an-der-stromboerse-bringen-photovoltaik-und-windkraft-betreibern-mehrerloese-in-milliardenhoehe/)
 * [Tabletop hab es schon 1812 in Preußen!](https://www.onli-blogging.de/2125/Linksammlung-042022.html)
 * [Mit XSuspender kann man automatisch nicht genutzte Anwendungen "schlafen legen".](https://kernc.github.io/xsuspender/)
+* [GNU Coreutils werden jetzt in RUST neu geschrieben.](https://www.phoronix.com/scan.php?page=news_item&px=Rust-Coreutils-Jan-2022) - Immerhin codepflege und man denkt mal darüber nach, was da gemacht wurde.
+* [Norwegen und Finnland bekommen ihre, vom Erdöl, befeuerte Erwärmung zu spühren.](https://netzfrauen.org/2022/01/29/norway-5/) - Und mit dem guten Wetter, kommen die Flüchtlinge.
+* [Hier wird euch gezeigt, wie ihr eure Wordpress REST-Schnittstelle absichern könnt.](https://www.shellhacks.com/wordpress-disable-rest-api-restrict-access/)
+* [Die Deutsche Bank hat so viel verdient, wie seit zehn Jahren nicht mehr.](https://blog.fefe.de/?ts=9f0b9a7a)
+* [Der CEO kann das Elend nicht mehr sehen und hat sein Gehalt (nennt es wie ihr wollt) verdoppelt.](https://blog.fefe.de/?ts=9f0b9828) - ER ARBEITET NÄMLICH JETZT 128 STUNDEN PRO TAG!
+* [Das Mailzertifikat der Telekom ist am 30.01.2022 abgelaufen.](https://www.borncity.com/blog/2022/01/30/mail-probleme-telekom-zertifikat-zum-30-1-2022-abgelaufen/)
+* [16 Kerne und haufenweise Ram und doch ist alles träge, 60 Jahre Softwareentwicklung FTW!](https://www.borncity.com/blog/2022/01/30/60-jahre-software-entwicklung-ein-alptraum-der-mit-grottiger-qualitt-und-im-chaos-endet/)
+* [Ab PHP 8.2 sind einige `mbstring` Erweiterungen als `deprecated` markiert. Nutzt dafür die Funktionen aus dem `core`.](https://php.watch/versions/8.2/mbstring-qprint-base64-uuencode-html-entities-deprecated)
