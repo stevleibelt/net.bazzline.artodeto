@@ -1,0 +1,1 @@
+* [Die NATO, erst einen auf dicke Hose machen und dann kneifen, wenn es den Anschein hat eng werden zu können.](https://blog.fefe.de/?ts=9f085f1e) - Das bringt unserer Welt nichts, wenn diese Pokerspieler regieren.
