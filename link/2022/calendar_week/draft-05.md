@@ -20,3 +20,4 @@
 * [Das Vodafone Kabelnetz ist kaputt.](https://www.borncity.com/blog/2022/01/31/strung-im-vodafone-kabelnetz-31-1-2022/)
 * [VMWare ESXi ist kaputt - Errno 28](http://woshub.com/vmware-esxi-no-space-left-device/)
 * [Nitrux wurde in der Version 2.0.0 veröffentlicht.](https://lwn.net/Articles/883323/rss)
+* [Oh nein, die Coronazahlen sinken aber es ist noch so viel Impfstoff und menschenverachtende Gesetze auf Lager. was machen wir nur? Wir zählen jetzt einfach alles mehrfach!](https://blog.fefe.de/?ts=9f063d8b)
