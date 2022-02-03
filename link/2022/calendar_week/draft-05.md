@@ -49,3 +49,4 @@
 * [Archlinux hat jetzt sein debuginfod fertig gestellt.](https://archlinux.org/news/debug-packages-and-debuginfod/)
 * [Dem SMART PowerOne Wert kann man nicht trauen.](https://utcc.utoronto.ca/~cks/space/blog/tech/SMARTWeirdPowerOnHours) - Spontan tippe ich hier auf einen Pufferüberlauf. Das gerade Intel Hardware nicht so richtig kann, oder gern mal Lügt, ist ja bekannt.
 * [Oh die "Armen", wegen Apples ausgerollter Privatsphäre, weint Hackfressenbuch schon heute, dass es ihnen rund 10 Milliarden USD Umsatz kosten wird.](https://blog.fefe.de/?ts=9f05476f) - Tjow, falsches Geschäftsmodel ihr Wichser.
+* [TrueNas Core wurde in der Version 12.0u8 veröffentlicht.](https://www.truenas.com/docs/releasenotes/core/12.0u8/)
