@@ -48,3 +48,4 @@
 * [System76 hat einen CPU-Scheduler in RUST geschrieben.](https://www.phoronix.com/scan.php?page=news_item&px=System76-Scheduler-1.0)
 * [Archlinux hat jetzt sein debuginfod fertig gestellt.](https://archlinux.org/news/debug-packages-and-debuginfod/)
 * [Dem SMART PowerOne Wert kann man nicht trauen.](https://utcc.utoronto.ca/~cks/space/blog/tech/SMARTWeirdPowerOnHours) - Spontan tippe ich hier auf einen Pufferüberlauf. Das gerade Intel Hardware nicht so richtig kann, oder gern mal Lügt, ist ja bekannt.
+* [Oh die "Armen", wegen Apples ausgerollter Privatsphäre, weint Hackfressenbuch schon heute, dass es ihnen rund 10 Milliarden USD Umsatz kosten wird.](https://blog.fefe.de/?ts=9f05476f) - Tjow, falsches Geschäftsmodel ihr Wichser.
