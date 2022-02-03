@@ -38,3 +38,13 @@
 * [Eigentlich ist eine CSV-Datei ja eine reine Textdatei. Nicht so für Microsoft Excel, das kann man mit einer CSV auch programmieren.](https://www.borncity.com/blog/2022/02/02/schdliche-csv-dateien-knnen-bazarbackdoor-installieren/)
 * [HCL Verse wurde in der Version 2.2.0a veröffentlicht.](https://n-komm.de/hcl-verse-on-premises-2-2-0a-fix-release/)
 * [Gut so, die Zwangsabgabe des Fingerabdrucks im Personalausweis wird jetzt vor dem EuGH geklärt.](https://netzpolitik.org/2022/personalausweis-zwangsweise-abgabe-der-fingerabdruecke-kommt-vor-den-eugh/) - Gern auch mit Entlassungen oder Strafzahlungen gegenüber den Entscheidern, wenn das EuGH anerkennt, dass das großer Mist ist.
+* [Manche Menschen sind eben gleicher, Jeff Bezos zum Beispiel. Wenn der Arsch kommt, macht Rotterdam gern mal eine Brücke kaputt, damit die Yacht des Mister Minderwertigkeitskomplex auch in den Hafen kommt.](https://blog.fefe.de/?ts=9f0437f8)
+* [Das Das Transparency & Consent Framework (TCF) ist illegal!](https://blog.fefe.de/?ts=9f043127)
+* [Wow, RT Deutsch ist jetzt verboten.](https://blog.fefe.de/?ts=9f04304d)
+* [Versteht der US-Amerikaner und der Transatlantiker gerade nicht, wenn man Russland bezahlt, liefern die auch etwas und zwar Gas.](https://blog.fefe.de/?ts=9f05b319) - Auf so eine verrückte Idee würder US-Amerikaner nie kommen, eine Zusage erfüllen.
+* [Hier wird euch erklärt, warum UBER und seine verachtende Idee so unsozial ist und doch von den Superreichen immer wieder Geld zu verbrennen bekommt.](https://theweek.com/articles/675434/how-uber-could-become-nightmarish-monopoly) - Es geht darum feste Preise und eine Preistransparenz abzuschaffen und den Kunden maximal zu schröpfen.
+* [LibreOffice wurde in der Version 7.3 veröffentlicht.](https://lwn.net/Articles/883542/rss)
+* [Intel erziehlt im Schnitt sechsmal so viel Umsatz pro Jahr wie AMD und nVidia zusammen!](https://www.3dcenter.org/news/die-amd-geschaeftsergebnisse-im-vierten-quartal-sowie-gesamtjahr-2021)
+* [System76 hat einen CPU-Scheduler in RUST geschrieben.](https://www.phoronix.com/scan.php?page=news_item&px=System76-Scheduler-1.0)
+* [Archlinux hat jetzt sein debuginfod fertig gestellt.](https://archlinux.org/news/debug-packages-and-debuginfod/)
+* [Dem SMART PowerOne Wert kann man nicht trauen.](https://utcc.utoronto.ca/~cks/space/blog/tech/SMARTWeirdPowerOnHours) - Spontan tippe ich hier auf einen Pufferüberlauf. Das gerade Intel Hardware nicht so richtig kann, oder gern mal Lügt, ist ja bekannt.
