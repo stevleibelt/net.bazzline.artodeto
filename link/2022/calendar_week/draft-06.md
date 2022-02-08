@@ -7,3 +7,10 @@
 * [Nein? Doch! Oh? COBOL wird noch sehr häufig genutzt.](https://www.borncity.com/blog/2022/02/06/cobol-markt-dreimal-grer-als-erwartet/) - Da weiß die rechte Hand des freien Marktes mal wieder nicht, was die linke Hand so tut.
 * [Olympia? Das ist auch jedes Mal eine Probe wie der aktuelle Stand der Massenüberwachung so ist.](https://rdl.de/beitrag/olympia-sport-als-t-r-ffner-f-r-die-biometrische-massen-berwachung)
 * [Ihr kennt euch mit GCC oder Glibc aus? Arch Linux braucht genau an dieser Stelle eure Hilfe.](https://www.phoronix.com/scan.php?page=news_item&px=Arch-Toolchain-Falling-Behind)
+* [rqlite wurde in der Version v7.3.1 veröffentlicht.](https://github.com/rqlite/rqlite/releases/tag/v7.3.1)
+* [Die Rüstungsindustrie will, dass sie als nachhaltiges Investment zertifiziert werden.](https://blog.fefe.de/?ts=9cfc4b64)
+* [Hier wird euch gezeigt, wie ihr ein Domain Profil in ein lokales Profil umwandelt.](https://www.shellhacks.com/windows-migrate-domain-user-profile-to-local/)
+* [Die Gesellschaft für Freiheitsrechte klagt gegen das Finanzamt Ludiwgsburg.](https://freiheitsrechte.org/pm-demoz-klage/) - Grund ist, dass dem sozio-kulturellen Zentrum DemoZ nicht als gemeinnützig eingestuft wird.
+* [Qubes OS wurde in der Version 4.1.0 veröffentlicht.](https://lwn.net/Articles/884036/rss)
+* [Fwupd wurde in der Version 1.7.5 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=fwupd-1.7.5)
+* [Hackfressenbuchs Aktien im freien Fall.](https://www.henning-uhle.eu/informatik/meta-aus-fuer-facebook-instagram-und-whatsapp?pk_campaign=feed&pk_kwd=meta-aus-fuer-facebook-instagram-und-whatsapp) - Keine Sorge, es wird etwas schlimmeres nachwachsen.
