@@ -14,3 +14,10 @@
 * [Qubes OS wurde in der Version 4.1.0 veröffentlicht.](https://lwn.net/Articles/884036/rss)
 * [Fwupd wurde in der Version 1.7.5 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=fwupd-1.7.5)
 * [Hackfressenbuchs Aktien im freien Fall.](https://www.henning-uhle.eu/informatik/meta-aus-fuer-facebook-instagram-und-whatsapp?pk_campaign=feed&pk_kwd=meta-aus-fuer-facebook-instagram-und-whatsapp) - Keine Sorge, es wird etwas schlimmeres nachwachsen.
+* [Am 13.05.2022 kommt das neue Moderat Album >>More D4ta<< heraus.](https://www.monkeytownrecords.com/moderat-announce-more-d4ta/)
+* [Wow, wieder etwas gelernt. Statt `*.png` geht auch `png$` und das ist auch noch exakter.](https://opensource.com/article/22/2/metacharacters-linux)
+* [Wow, Chris Siebenmann schreibt wie viele Daten seine Arbeitsmaschinen so pro Stunde auf der Festplatte rumdrehen.](https://utcc.utoronto.ca/~cks/space/blog/linux/SSDSomeWriteVolumes)
+* [Intel hat sein Microcode in der Version 20220207 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=Intel-Microcode-20220207)
+* [KDE Plasma wurde in der Version 5.24 veröffentlicht.](https://lwn.net/Articles/884121/rss)
+* [Hier wird euch gezeigt, wie ihr mit CentOS 8 einen virtuellen Router baut.](https://www.underkube.com/posts/2022-02-08-centos-as-router/) - Schön für mich, ich beschäftige mich gerade mit nmcli und freue mich, dass sich das Lernen schon gelohnt hat
+* [Firefox wurde in der Version 97 und 91.6 veröffentlicht.](https://www.borncity.com/blog/2022/02/09/firefox-97-und-91-6-esr/)
