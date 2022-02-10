@@ -21,3 +21,6 @@
 * [KDE Plasma wurde in der Version 5.24 veröffentlicht.](https://lwn.net/Articles/884121/rss)
 * [Hier wird euch gezeigt, wie ihr mit CentOS 8 einen virtuellen Router baut.](https://www.underkube.com/posts/2022-02-08-centos-as-router/) - Schön für mich, ich beschäftige mich gerade mit nmcli und freue mich, dass sich das Lernen schon gelohnt hat
 * [Firefox wurde in der Version 97 und 91.6 veröffentlicht.](https://www.borncity.com/blog/2022/02/09/firefox-97-und-91-6-esr/)
+* [Frankreichs Atommeiler sind so marode, dass denen ihre Rohre weggammeln.](https://blog.fefe.de/?ts=9cfbcc57)
+* [Keylogger sind in der Schweiz jetzt legal. Damit kann man in der Schweiz nicht mehr arbeiten, wenn man "etwas mit IT" macht.](https://blog.fefe.de/?ts=9cfa294b)
+* [Habt ihr von den Warburg Mitarbeiter gehört, der jetzt verurteilt wurde? Ich lese das Urteil wie folgt "zahle einmal den Mittagstisch und du musst nicht ins Gefängnis".](https://blog.fefe.de/?ts=9cfa83bf) - Die ganze Betrügerei am Staat und an den Steuergeldern der Bürger hat sich für alle gelohnt und niemand musste leiden, außer die berühmten 99 Prozent der Bevölkerung.
