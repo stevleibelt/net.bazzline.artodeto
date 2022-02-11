@@ -24,3 +24,10 @@
 * [Frankreichs Atommeiler sind so marode, dass denen ihre Rohre weggammeln.](https://blog.fefe.de/?ts=9cfbcc57)
 * [Keylogger sind in der Schweiz jetzt legal. Damit kann man in der Schweiz nicht mehr arbeiten, wenn man "etwas mit IT" macht.](https://blog.fefe.de/?ts=9cfa294b)
 * [Habt ihr von den Warburg Mitarbeiter gehört, der jetzt verurteilt wurde? Ich lese das Urteil wie folgt "zahle einmal den Mittagstisch und du musst nicht ins Gefängnis".](https://blog.fefe.de/?ts=9cfa83bf) - Die ganze Betrügerei am Staat und an den Steuergeldern der Bürger hat sich für alle gelohnt und niemand musste leiden, außer die berühmten 99 Prozent der Bevölkerung.
+* [QNAP's QTS wurde in der Version QTS 5.0.0.1932 build 20220129 veröffentlicht.](https://www.borncity.com/blog/2022/02/11/qnap-update-qts-5-0-0-1932-build-20220129-schliet-samba-schwachstelle-cve-2021-44142/)
+* [Wegen gammeliger Infrastruktur ist Vodafone Portugal offline, komplett!](https://www.borncity.com/blog/2022/02/10/cyberangriff-auf-vodafone-portugal-schiet-alle-dienste-ins-aus/)
+* [Wunderbar, die DSVGO schützt und wirkt, die Übermittlung der Daten in die USA nach google analytics ist illegal.](https://noyb.eu/en/update-cnil-decides-eu-us-data-transfer-google-analytics-illegal)
+* [Falls ihr mal wissen wollt, wie alt eurer Linux so ist, `stat -c %w /`](https://www.putorius.net/how-to-find-date-and-time-linux-os-was-installed.html)
+* [Die WordPress Erweiterung `PHP Everywhere` macht eure WordPress-Installation kaputt.](https://www.bleepingcomputer.com/news/security/php-everywhere-rce-flaws-threaten-thousands-of-wordpress-sites/)
+* [GNU Binutils wurde in der Version 2.38 veröffentlicht.](https://lwn.net/Articles/884264/rss)
+* [Thunderbird wurde in der Version 91.6.0 veröffentlicht.](https://www.borncity.com/blog/2022/02/09/thunderbird-91-6-0/)
