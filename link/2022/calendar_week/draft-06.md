@@ -31,3 +31,8 @@
 * [Die WordPress Erweiterung `PHP Everywhere` macht eure WordPress-Installation kaputt.](https://www.bleepingcomputer.com/news/security/php-everywhere-rce-flaws-threaten-thousands-of-wordpress-sites/)
 * [GNU Binutils wurde in der Version 2.38 veröffentlicht.](https://lwn.net/Articles/884264/rss)
 * [Thunderbird wurde in der Version 91.6.0 veröffentlicht.](https://www.borncity.com/blog/2022/02/09/thunderbird-91-6-0/)
+* [Privatwirtschaft für kritische Infrastruktur, immer ein Erfolgsmodel! Heute, viele Behörden in den USA haben ihre Identitätsprüfung an EINEN Dienstleister IN DER CLOUD ausgelagert. Was ist passiert? Der Datenreichtum wurde kopiert.](https://blog.fefe.de/?ts=9cf818e7)
+* [Die Cowboys wieder, die haben demokratisch erwirtschaftete 7 Milliarden USD aus Afghanistan eingefroren und schenken dieses Geld jetzt den USA.](https://blog.fefe.de/?ts=9cf817f1)
+* [Was kostet das Rückbauen eines Atomkraftwerkes? Weiterhin unklar, aber alleine um die Sicherheit des Gebietes während der Rückbauphase zu gewährleisten, werden den Bürgern in Broßbritanien rund 3 Milliarden Pfund PRO JAHR für kritische Infrastruktur wie Krankenhäuser oder Kindergärten fehlen.](https://blog.fefe.de/?ts=9cf876a7)
+* [Wine wurde in der Version 7.2 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=Wine-7.2-Released)
+* [PostmarkOS wurde in der Version v21.12 Service Pack 2 veröffentlicht.](https://postmarketos.org/blog/2022/02/11/v21.12.2-release/)
