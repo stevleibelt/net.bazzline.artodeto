@@ -36,3 +36,7 @@
 * [Was kostet das Rückbauen eines Atomkraftwerkes? Weiterhin unklar, aber alleine um die Sicherheit des Gebietes während der Rückbauphase zu gewährleisten, werden den Bürgern in Broßbritanien rund 3 Milliarden Pfund PRO JAHR für kritische Infrastruktur wie Krankenhäuser oder Kindergärten fehlen.](https://blog.fefe.de/?ts=9cf876a7)
 * [Wine wurde in der Version 7.2 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=Wine-7.2-Released)
 * [PostmarkOS wurde in der Version v21.12 Service Pack 2 veröffentlicht.](https://postmarketos.org/blog/2022/02/11/v21.12.2-release/)
+* [Das US-Amerikanische Prinzip schlägt wieder zu, "Es ist egal ob du die Wahrheit sagst, hauptsache ihr schreit laut und aus vielen Hälsen".](https://blog.fefe.de/?ts=9cf7810d)
+* [Perfect365, die Anwendung ist schlimmer in Sachen Datenschutzverstöße als Hackfressenbuch oder Ich hab recht.](https://netzpolitik.org/2022/perfect365-datenhoelle-beauty-app/)
+* [Gnome Shell wurde in der Version 42 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=GNOME-Shell-42-New-OSD)
+* [Herr Born schreibt einmal den Status Quo zum Thema Log4J nieder.](https://www.borncity.com/blog/2022/02/13/log4shell-eine-bestandsaufnahme/)
