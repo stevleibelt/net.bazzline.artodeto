@@ -1,1 +1,2 @@
-* [
+* [Habt ihr auch das Gefühl, als dass eure Daten bei privaten Firmen und beim Staat nicht sicher sind? Der CCC hat da mal nachgeschaut. Es ist so schlimm, wie es euch jeder Entwickler seit 1970 erzählt.](https://www.ccc.de/de/updates/2022/web-patrouille-ccc) - Sicherheit? Ja, das machen wir Morgen.
+* [Ihr wisst über eure Geldbewegungen bescheid? Das CIA auch, über alle.](https://netzpolitik.org/2022/massenueberwachung-cia-analysiert-systematisch-internationale-finanzdaten/)
