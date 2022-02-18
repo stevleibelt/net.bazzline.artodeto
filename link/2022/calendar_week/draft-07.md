@@ -3,3 +3,6 @@
 * [`echo "EDITOR    = vim" >> ~/.bash_rc`](https://opensource.com/article/22/2/configure-vim-default-editor)
 * [Hier wird euch die Architektur von Kubernetes erklärt.](https://opensource.com/article/22/2/kubernetes-architecture)
 * [Hier wird euch Overloading in der PowerShell erklärt.](https://arcanecode.com/2022/02/14/fun-with-powershell-classes-overloading/)
+* [Wusste ich auch nicht, laut FeFe kann ein Land nicht in die Nato eintreten, wenn es sich gerade in einem aktivem Konflikt befindet.](https://blog.fefe.de/?ts=9cf06789)
+* [Hier fasst FeFe einmal zusammen wie sich die US-Amerikanischen Geheimdienste vorführen lassen, die Erinnerungen an die Masenvernichtungswaffen kommen unweigerlich hoch.](https://blog.fefe.de/?ts=9cf0b791)
+* [IoT, fehlende Updates und Funktionen wegen abgeschaltetem Updateserver? Jetzt auch beim Augenimplantat.](https://blog.fefe.de/?ts=9cf219ac)
