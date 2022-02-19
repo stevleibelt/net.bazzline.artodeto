@@ -9,3 +9,13 @@
 * [Schaut bitte ganz genau hin, was euch die westlichen Medien über Angriffe von Russland auf die Ukranie berichten.](https://blog.fefe.de/?ts=9cf17333) - Die Russen wissen was es bedeutet die eigene Bevölkerung für einen Krieg zu opfern, inklusive erkauftem Leid.
 * [Was? Die Versprechungen der USA gelten nicht einmal bis sie den Raum verlassen haben?](https://blog.fefe.de/?ts=9cf17b9c) - Was Captian America wohl dazu sagen würde?
 * [Der Verfassungsblog macht sich Gedanken über das Thema Sperrzeit bei nicht COVID-19-Geimpften.](https://verfassungsblog.de/impfpflicht-arbeitslosengeld-i-und-sperrzeit/)
+* [Firefox wurde in der Version 97.0.1 veröffentlicht.](https://www.borncity.com/blog/2022/02/18/firefox-97-0-1-freigegeben/)
+* [Online-Konto-Zwang im Microsoft Neusprech heißt jetzt >>Innovation<<".](https://www.borncity.com/blog/2022/02/18/windows-11-internetverbindung-und-microsoft-konto-wird-beim-setup-pflicht/)
+* [Wisst ihr noch was euch die Grünen vor der Wahl ins gesicht SPD-ed haben? Die Bürgerinnen und Bürger werden mit einer Umweltprämie vor den CO2-Preisexplosionen geschützt.](https://www.sonnenseite.com/de/politik/130-euro-klimageld-fuer-alle/) - Die Preisexplosionen ist da, von der Umweltprämie will keiner mehr was wissen.
+* [Die USA konkretisiert Russlands angebliche Pläne zur Invasion der Ukraine, also nicht wie gesagt gestern, aber bestimmt bald irgendwann!](https://blog.fefe.de/?ts=9ceeb0a7)
+* [PipeWire wurde in der Version 0.3.46 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=PipeWire-0.3.46-Released)
+* [Libinput wurde in der Version 1.20 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=Libinput-1.20)
+* [Platzt da ihr Ureinwohner, wir wollen Jagen!](https://netzfrauen.org/2022/02/19/africa-25/)
+* [Endlich, ab PHP 8.2 sind dynamische Properties endlich deprecated.](https://php.watch/versions/8.2/dynamic-properties-deprecated)
+* [Nachdem Europa sich die Mühe gemacht hat die Hacker aus den Ländern zu Jagen und nachdem Konzerne Jahrzehntelang auf Sicherheit scheißen konnten, mecken jetzt die europäischen Konzerne darüber, als dass Sie leider häufiger angegeriffen werden.](https://www.borncity.com/blog/2022/02/19/ransomware-trifft-europas-industrielle-steuersysteme-und-betriebstechnik-so-hufig-wie-it-systeme/) - Kurzum, die Konzerne wollen Steuergelder.
+* [Myanmar will den führenden Telekommunikationsanbieter verstaatlichen.](https://netzpolitik.org/2022/myanmar-verkauf-von-mobilfunkanbieter-koennte-millionen-menschen-in-gefahr-bringen/)
