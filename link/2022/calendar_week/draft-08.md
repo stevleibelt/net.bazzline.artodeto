@@ -19,3 +19,8 @@
 * [Danke kuketz für deine Arbeit, die heise-App ist auch nicht TTDSG-konform.](https://www.kuketz-blog.de/heise-app-verstoesst-gegen-das-ttdsg/)
 * [mdr.de >>Alternative für Blutzucker-Messung: Neuartiger Sensor an TU Freiberg entwickelt<<](https://www.mdr.de/wissen/diabetes-blutzucker-messung-sensor-tu-freiberg-100.html)
 * [Hier gibt es einen Vorgeschmack in welche Richtung alle westlichen "Leitmedien" stoßen werden, wenn in der westlichen Welt etwas kaputt gehen wird ... Cyberangriff! AUS RUSSLAND!](https://www.borncity.com/blog/2022/02/22/cyberkrieg-bedeutet-kontrollverlust/)
+* [Podman wurde in der Version 4.0.0 veröffentlicht.](https://podman.io/releases/2022/02/22/podman-release-v4.0.0.html)
+* [mdr.de >>Flugtaxis in Sachsen - Freiberger untersuchen Machbarkeit und Nutzen<<](https://www.mdr.de/nachrichten/sachsen/chemnitz/freiberg/forschung-zu-flugtaxen-in-sachsen-100.html)
+* [OpenSSH wurde in der Version 8.9 veröffentlicht.](https://lwn.net/Articles/885886/)
+* [Wow, sudo im Jahr 2022 hat richtig starke Funktionen.](https://opensource.com/article/22/2/new-sudo-features-2022) - Logging, in JSON auf einen anderen logserver, seksi!
+* [SQLite wurde in der Version 3.38 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=SQLite-3.38-Released) - Deutliche Verbesserungen bei JSON und auf der Kommandozeile
