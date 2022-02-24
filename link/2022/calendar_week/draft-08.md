@@ -24,3 +24,10 @@
 * [OpenSSH wurde in der Version 8.9 veröffentlicht.](https://lwn.net/Articles/885886/)
 * [Wow, sudo im Jahr 2022 hat richtig starke Funktionen.](https://opensource.com/article/22/2/new-sudo-features-2022) - Logging, in JSON auf einen anderen logserver, seksi!
 * [SQLite wurde in der Version 3.38 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=SQLite-3.38-Released) - Deutliche Verbesserungen bei JSON und auf der Kommandozeile
+* [Der HeroicGamesLauncher wurde in der Version 2.2.0 veröffentlicht.](https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher/releases/tag/v2.2.0) - GOG funktioniert jetzt!
+* [Nein? Doch! Oh? Die ganzen Aufkleber von jetzt auf gleich, die dem Endverbraucher einreden wollen, dass auf einmal alles öko und gut hergestellt ist, ist nur greenwashing?](https://verfassungsblog.de/greenwashing-global-commodity-chains/)
+* [Rust wurde in der Version 1.59.0 veröffentlicht.](https://lwn.net/Articles/886056/)
+* [NetworkManager wurde in der Version 1.36 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=NetworkManager-1.36)
+* [Mir wurde in der Version 2.7 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=Mir-2.7-Released)
+* [Oh wie freu ich mich einen HA-Zabbix-Cluster zu bauen, seht nur wie einfach es gehen soll.](https://blog.zabbix.com/handy-tips-24-preventing-downtimes-with-the-zabbix-ha-cluster/19712/)
+* [Simple-Scan oder Skanlite](https://opensource.com/article/22/2/scan-documents-skanlite-linux-kde)
