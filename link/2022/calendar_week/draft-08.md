@@ -43,3 +43,4 @@
 * [Wenn Thyssenkrupp und E.ON auf dem Zug der "grünen Energie" aufspringen, dann nur weil die Beölkerung den Abbau deren alter Industrie bezahlen und den Aufbau der neuen Industrie subventionieren soll.](https://www.sonnenseite.com/de/wirtschaft/gruene-zukunft-fuer-die-industrie/)
 * [Nach dem SophieScript gibt es jetzt die SophieApp.](https://www.windowspro.de/tool/sophiapp-einstellungen-windows-10-gui-tool-optimieren)
 * [WINE wurde in der Version 7.3 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=Wine-7.3-Released)
+* [100 Milliarden Euro werden demnächst der Bevölkerung geklaut um unsere Grenzen in der Ukranie (das liegt zwischen Sachsen und Bayern, wisst ihr ja) zu verteidigen.](https://blog.fefe.de/?ts=9ce59eca)
