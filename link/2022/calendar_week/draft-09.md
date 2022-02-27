@@ -1,0 +1,6 @@
+* [Am 21.05.2022 findet der Welterbe-Lauf / Musik für all in Freiberg statt - Anmeldung läuft.](https://freibergfueralle.de/anmeldung-welterbe-lauf-musik-fuer-alle)
+* [Hier wird euch gezeigt, wie ihr mit Reverse Proxy Grapher eine grafische Darstellung der aktuellen Datenflüsse im Netzwerk aufzeigt.](https://scheible.it/kali-linux-tool_reverse-proxy-grapher/)
+* [Coreboot wurde in der Version 4.16 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=Coreboot-4.16)
+* [Wisst ihr wer die DR Kongo so schön ausbeutet? Die Gates-Foundation.](https://netzfrauen.org/2022/02/27/congo-6/)
+* [Microsoft beschneidet bereits ausgelieferte und bezahlte Produkte weiter, entfernt also Funktionalitäten ... heute, die automatische Speicherung von Dokumenten in Office.](https://www.borncity.com/blog/2022/02/27/microsoft-office-2021-365-autosave-nur-noch-in-der-cloud/)
+* [NewPipe wurde in der Version 0.22.1 veröffentlicht.](https://newpipe.net/blog/pinned/release/newpipe-0.22.1/)
