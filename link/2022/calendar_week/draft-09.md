@@ -31,3 +31,13 @@
 * [Microsoft ist kaputt, nur falls ihr euch nicht mehr in eure Microsoft-Dienste einwählen könnt.](https://www.borncity.com/blog/2022/03/01/strung-bei-microsoft-01-03-2022/)
 * [Weltnetz.tv fast einmal die Verfehlungen der NATO zusammen, die dazu geführt haben, dass Russland "Seine Linie" fährt.](https://weltnetz.tv/story/2590-zusammenfassung-und-hintergruende-zur-situation-der-ukraine) - >>Deutschland: Raus aus der NATO! NATO: Raus aus Deutschland!<<
 * [Microsoft's Domain Controller ist auch kaputt.](https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-domain-controller-restarts-caused-by-lsass-crashes/)
+* [Was ist wichtig für eine gute Allgemeinbildung? Das man auch "die Meinung der Anderen" lesen oder hören kann.](https://blog.fefe.de/?ts=9ce13657)
+* [>>Die Medien sind nicht im Geschäft, euch unabhängig zu informieren. Die Medien sind im Geschäft, euch langfristig zu binden, euch wiederkommen zu lassen. Wer euch das sagt, was ihr hören wolltet, lässt euch wiederkommen.<<](https://blog.fefe.de/?ts=9ce14f0e)
+* [Wow, ein ganzer Satz frische Gedanken, der Abgesandte von Kenya teilt frische Impulse wie man mit dem Festlegen von Grenzen umgehen könnte.](https://blog.fefe.de/?ts=9ce191de) - Etwas mehr als zwei Minuten die mich zum Nachdenken bringen.
+* [Die Gesellschaft für Freiheitsrecht hat eine Klage eingereicht. Es geht darum, dass uberspace Software angeboten hat und diese Software den Konzernen Sony Music, Universal Music und Warner Music nicht passt.](https://freiheitsrechte.org/pm-uberspace-youtube-dl/)
+* [Herzmuskelentzündung? mRNA erhöht die Chance dafür.](https://impfentscheidung.online/myokarditis-als-akutes-risikosignal-von-covid-19-impfungen/)
+* [Panagenda hat ein Eclips-Plugin veröffentlicht, mit dem ihr "Dokument Properties" in HCL Notes Datenbanken bearbeiten könnt.](https://blog.nashcom.de/nashcomblog.nsf/dx/advanced-document-properties-including-edit.htm)
+* [Doodle ist kaputt.](https://www.borncity.com/blog/2022/03/03/doodle-seit-dem-3-mrz-2022-offline/)
+* [Rocket.chat geht jetzt auch super in der Nextcloud.](https://nextcloud.com/blog/rocket-chat-nextcloud-integration/)
+* [Carbonio könnt eine Alternative zur Teamarbeit sein.](https://opensource.com/article/22/3/open-source-collaboration-carbonio)
+* [Bezüglich der politischen Ukranieproblematik fasst der Postillon alles wichtige zusammen. >>Wer wird gewinnen? Die Waffenindustrie.<<.](https://www.der-postillon.com/2022/03/ratgeber-ukraine.html)
