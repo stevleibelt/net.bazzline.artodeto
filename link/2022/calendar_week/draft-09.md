@@ -41,3 +41,18 @@
 * [Rocket.chat geht jetzt auch super in der Nextcloud.](https://nextcloud.com/blog/rocket-chat-nextcloud-integration/)
 * [Carbonio könnt eine Alternative zur Teamarbeit sein.](https://opensource.com/article/22/3/open-source-collaboration-carbonio)
 * [Bezüglich der politischen Ukranieproblematik fasst der Postillon alles wichtige zusammen. >>Wer wird gewinnen? Die Waffenindustrie.<<.](https://www.der-postillon.com/2022/03/ratgeber-ukraine.html)
+* [HarfBuzz wurde in der Version 4.0 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=HarfBuzz-4.0)
+* [HTTP in Python? Probiert doch einmal das Paket `httpx`.](https://opensource.com/article/22/3/python-httpx)
+* [>>Kernenergie ist Kriegsenergie, Herr Söder!<<](https://www.sonnenseite.com/de/politik/kernenergie-ist-kriegsenergie-herr-soeder/)
+* [Huch, schon wieder ein Übersetzungsfehler. Dieses mal bei Putins angeblicher Atombombendrohung.](https://blog.fefe.de/?ts=9cdf5284) - Und solche Punkte machen es halt echt heikel. Bevor ich als Journalist etwas über "der Irre will Atombomben schmeißen" schreibe, lasses ich das doch mehrmals gegenprüfen. Das Putin geschickt mit der Sprache ist, ist doch bekannt.
+* [Get WSUS Content .NET Version wurde in der Version 2.9.1 veröffentlicht.](https://www.borncity.com/blog/2022/03/04/get-wsus-content-net-version-2-9-1-ist-da/)
+* [Ein Tempolimit würde unser Land auch weniger Abhängig von importierten Rohstoffen machen. Das passen den großen Nationen wie den USA, Groß Britanien und Russland nicht, würde uns als Land aber viel passen.](https://www.sonnenseite.com/de/mobilitaet/tempolimit-fuer-klimaschutz-und-weniger-oel-aus-russland/)
+* [Noch ein Punkt gegen Atomkraftwerke, die sind eine echte Gefahr im Kriegsfall.](https://www.sonnenseite.com/de/energie/atomare-bedrohung-kernkraftwerke-im-kriegsgebiet/)
+* [Ab 08.03.2022 werden Corel UPP Nutzer auf das CorelDRAW-Abo zwangsumgestellt.](https://www.borncity.com/blog/2022/03/04/corel-stoppt-upp-automatische-umstellung-auf-coreldraw-abo/) - Ach und es ist bereits eine "Preisanpassung" für 2023 von 350 Prozent geplant
+* [Für mich eins der besten Werbeworte der letzten Jahre, die meine Grundthese "Werbung lügt und betrügt" wunderbar untermauert, "serverless computing" - ihr braucht nur anderer Leuten Server dafür.](https://4sysops.com/archives/what-is-serverless-computing-an-introduction-to-aws-lambda/) - Kurzum, euch wird hier eine weitere Abhängigkeit an Dritte verkauft.
+* [Es sieht so aus, als würde Ext3 unter Linux 5.18 noch schneller werden.](https://www.phoronix.com/scan.php?page=news_item&px=EXT4-Fast-Commits-Faster)
+* [Die 20. Gulaschprogrammiernacht findet am 19.05. bis 22.05.2022 in HfG und ZKM, Lorenzstr. 15, 76135 Karlsruhe, Baden, Baden-Württemberg statt.](https://events.ccc.de/2022/03/03/20-gulaschprogrammiernacht/)
+* [Wow, Putin hatte im Juli 2021 beim europäischen Gerichtshof für Menschenrechte eine offizielle Beschwerde wegen der Unterdrückung der Bevölkerung eingereicht.](https://blog.fefe.de/?ts=9cdf315a)
+* [Und so beginnt es, mit der Moralkeule wird ab jetzt `xhamster.com` gesperrt.](https://tuxproject.de/blog/2022/03/freiheit-fuer-die-wichser/) - Damit ist Internetzensurg in Europa Realität. Ich empfehle euch ebenfalls das [Privacy Handbuch](https://www.privacy-handbuch.de/handbuch_93d.htm).
+* [Ihr müsst den schweren Weg eines Schwangerschaftsabbruchs gehen? Hier gibt es Kliniken dafür.](https://netzpolitik.org/2022/schwangerschaftsabbrueche-welche-kliniken-in-deutschland-noch-abbrueche-durchfuehren/)
+* [Gut zu Wissen, was Europa nicht schafft, schafft Russland. Die können eigene x86 Prozessoren bauen.](https://en.wikipedia.org/wiki/Elbrus_2000)
