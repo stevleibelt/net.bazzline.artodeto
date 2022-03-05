@@ -56,3 +56,11 @@
 * [Und so beginnt es, mit der Moralkeule wird ab jetzt `xhamster.com` gesperrt.](https://tuxproject.de/blog/2022/03/freiheit-fuer-die-wichser/) - Damit ist Internetzensurg in Europa Realität. Ich empfehle euch ebenfalls das [Privacy Handbuch](https://www.privacy-handbuch.de/handbuch_93d.htm).
 * [Ihr müsst den schweren Weg eines Schwangerschaftsabbruchs gehen? Hier gibt es Kliniken dafür.](https://netzpolitik.org/2022/schwangerschaftsabbrueche-welche-kliniken-in-deutschland-noch-abbrueche-durchfuehren/)
 * [Gut zu Wissen, was Europa nicht schafft, schafft Russland. Die können eigene x86 Prozessoren bauen.](https://en.wikipedia.org/wiki/Elbrus_2000)
+* [DXVK wurde in der Version 1.10 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=DXVK-1.10-Released)
+* [Die magische Hand des freien Marktes zeigt ihre Freiheit, US amerikanische Unternehmen verkaufen nichts mehr nach Russland.](https://www.borncity.com/blog/2022/03/04/microsoft-stoppt-verkufe-in-russland/)
+* [VKD3D-Proton wurde in der Version 2.6 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=VKD3D-Proton-2.6)
+* [Nein? Doch! Oh? Microsoft interessiert sich über alle Wege für eure Kreditkartendaten.](https://www.borncity.com/blog/2022/03/04/windows-11-schielt-microsoft-auf-kreditkartendaten/) - Wie bei Google, nur für eure Sicherheit.
+* [Apache NetBeans wurde in der Version 13 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=Apache-NetBeans-13)
+* [Europa zensiert? DAS IST GUT! Russland zensiert? DAS IST SCHLECHT!](https://tuxproject.de/blog/2022/03/gute-sperren-schlechte-sperren/)
+* [Firefox wurde in den Versionen 97.0.2 und 91.6.1 veröffentlicht.](https://www.borncity.com/blog/2022/03/05/firefox-97-0-2-und-91-6-1-esr-kritische-sicherheitsupdates/)
+* [HCL Domino wurde in der Version 12.0.1 IF2 veröffentlicht.](https://blog.nashcom.de/nashcomblog.nsf/dx/domino-12.0.1-if2-is-available-with-important-daos-fixes.htm)
