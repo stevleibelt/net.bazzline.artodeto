@@ -64,3 +64,11 @@
 * [Europa zensiert? DAS IST GUT! Russland zensiert? DAS IST SCHLECHT!](https://tuxproject.de/blog/2022/03/gute-sperren-schlechte-sperren/)
 * [Firefox wurde in den Versionen 97.0.2 und 91.6.1 veröffentlicht.](https://www.borncity.com/blog/2022/03/05/firefox-97-0-2-und-91-6-1-esr-kritische-sicherheitsupdates/)
 * [HCL Domino wurde in der Version 12.0.1 IF2 veröffentlicht.](https://blog.nashcom.de/nashcomblog.nsf/dx/domino-12.0.1-if2-is-available-with-important-daos-fixes.htm)
+* [LibreOffice wurde in der Version 7.3.1 veröffentlicht.](https://www.planet3dnow.de/cms/64672-libreoffice-7-3-1-community/)
+* [Ab PHP 8.2 gibt es die Kernfunktion `memory_reset_peak_usage`.](https://php.watch/versions/8.2/memory_reset_peak_usage)
+* [Das BSI hat einen Maßnahmenkatalog bezüglich des Themas Ransomware veröffentlicht.](https://www.borncity.com/blog/2022/03/06/bsi-manahmenkatalog-ransomware-verfgbar/)
+* [Netter Gedankengang, dynamische Webseiten kann man als komprimierte statische Webseiten ansehen.](https://utcc.utoronto.ca/~cks/space/blog/web/DynamicPagesAreCompression) - Diese Sichtweise ist hilfreich, wenn es darum geht welche Daten man über einen statischen Webserver ausliefern kann und will.
+* [Nachdem die westliche Konzerne 50 Jahre Plastik in die Umwelt verklappt hat, fängt man jetzt damit an, dass Problem auf Kosten der Bevölkerung zu lösen.](https://www.sonnenseite.com/de/umwelt/weltplastikvertrag-auf-dem-weg/) - Macht euch keine großen Hoffnungen, man beginnt mit den Gesprächen. Ich Tippe auf die Lösung aus Futurama (siehe [A Big Piece Of Garbage](https://en.wikipedia.org/wiki/A_Big_Piece_of_Garbage)).
+* [So wie FeFe habe ich den arte Beitrag zur politischen Ukranieproblematik auch empfunden. Arte, die letzte Bastion des neutralen Journalismusses (teilweise).](https://blog.fefe.de/?ts=9cdd1754) - Den Abstieg vom Spiegel durfte ich ja mit erleben.
+* [Wenn bootloader Distributionen bekommen ... Nun Ja, Tow-Boot ist so eine.](https://www.phoronix.com/scan.php?page=news_item&px=Tow-Boot-2021.10-004)
+* [digiKam wurde in der Version 7.6 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=digiKam-7.6-Released)
