@@ -4,3 +4,8 @@
 * [Eventuell ist die EGroupware eine Alternative zu Microsoft 365 und Google Workspace für euch?](https://opensource.com/article/22/3/open-source-egroupware)
 * [>>Michail Gorbatschow meint: Sieger ist nicht, wer Schlachten in einem Krieg gewinnt, sondern wer Frieden stiftet.<<](https://www.sonnenseite.com/de/franz-alt/kommentare-interviews/michail-gorbatschow-nie-wieder-krieg/)
 * [Mit 112 Kernen könnt ihr Firefox Nightly in unter fünf Minuten bauen.](https://utcc.utoronto.ca/~cks/space/blog/linux/BigServerFastFirefoxBuild)
+* [Hier wird einmal die Weitsichtigkeit der Politik gezeigt, Atomkraftwerke sind, dank den Grünen, ja jetzt quasi erneuerbare Energien. Gas ist böse, da das aus Russland kommt. Also setzen wir auf Atomkraft, doof, dass Uran primär für uns auch aus Russland kommt.](https://blog.fefe.de/?ts=9cdbb19e)
+* [Oh, die CDU und die FDP haben sich ein Schlupfloch bei der Schuldenbremse eingebaut, nennt den Kredit "Sondervermögen" und schon ist alles ok.](https://blog.fefe.de/?ts=9cdbaa9d)
+* [Die CDU will 10 Milliarden Euro für ein Raketenabwehrsystem in Berlin ausgeben.](https://blog.fefe.de/?ts=9cdbf754) - Wartet nur ab was Dresden und München sich bald hinbauen lassen. Da wird es Nacht in Berlin, wenn die Siloklappen in Dresden oder München aufgehen!
+* [Thunderbird wurde in der Version 91.6.2 veröffentlicht.](https://www.borncity.com/blog/2022/03/07/thunderbird-version-91-6-2/)
+* [Kuketz zeigt euch, wie man Spiderfoot nutzt.](https://www.kuketz-blog.de/spiderfoot-osint-tool-open-source-intelligence-zur-analyse-und-aufklaerung/)
