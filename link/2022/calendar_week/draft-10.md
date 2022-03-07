@@ -1,1 +1,6 @@
 * [Archlinuxarm unterstützt seit dem 06.01.2022 keinen RaspberryPi Model 1 mehr.](https://archlinuxarm.org/forum/viewtopic.php?f=7&t=15783&hilit=build+os)
+* [Firefox wurde in den Versionen 97.0.2 und 91.6.1 veröffentlicht.](https://www.bleepingcomputer.com/news/security/mozilla-firefox-9702-fixes-two-actively-exploited-zero-day-bugs/)
+* [Wie viele zugelassene Umweltchemikalien gibt es aktuell eigentlich? Rund 350000!](https://www.sonnenseite.com/de/umwelt/zahl-der-umweltchemikalien-wird-unbeherrschbar/) - Tendenz steigend. Das hier keiner mehr gegenseitige Reaktionen testen, geschweige denn langfristig voraussagen kann, dürfte klar sein. Kurzum, wenn es so weiter geht, hat die Menschheit auch diesen Kampf verloren.
+* [Eventuell ist die EGroupware eine Alternative zu Microsoft 365 und Google Workspace für euch?](https://opensource.com/article/22/3/open-source-egroupware)
+* [>>Michail Gorbatschow meint: Sieger ist nicht, wer Schlachten in einem Krieg gewinnt, sondern wer Frieden stiftet.<<](https://www.sonnenseite.com/de/franz-alt/kommentare-interviews/michail-gorbatschow-nie-wieder-krieg/)
+* [Mit 112 Kernen könnt ihr Firefox Nightly in unter fünf Minuten bauen.](https://utcc.utoronto.ca/~cks/space/blog/linux/BigServerFastFirefoxBuild)
