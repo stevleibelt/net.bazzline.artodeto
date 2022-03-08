@@ -17,3 +17,5 @@
 * [Der US Senator Bernie Sanders zeigt, dass es "dort drüben" auch vernünftige Menschen gibt.](https://weltnetz.tv/video/2598-us-senator-bernie-sanders-fordert-die-neutralitaet-der-ukraine) - Der Ukraine muss eine Nuetralität gewährt werden. Man muss auf Russland zugehen und man darf die Schrecken, die die NATO gebracht hat (Afganistan, Irak, Libyen etc.) nicht verharmlosen.
 * [BoringTun wurde in der Version v0.4 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=BoringTun-0.4-Released)
 * [Magisk wurde in der Version v24.2 veröffentlicht.](https://github.com/topjohnwu/Magisk/releases/tag/v24.2)
+* [TU-Bergakademie: >>Neuorganisiertes Uni-Netzwerk "Junior Forscher in Mittelsachsen" eröffnet Büro in Freiberg<<](https://tu-freiberg.de/presse/neuorganisiertes-uni-netzwerk-junior-forscher-in-mittelsachsen-eroeffnet-buero-in-freiberg)
+* [Am 18.06.2022 gibt es eine JunioUni an der TU-Freiberg.](https://tu-freiberg.de/junioruni)
