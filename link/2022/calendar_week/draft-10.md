@@ -16,3 +16,4 @@
 * [Der Sozialatlas wurde in der Version 2022 veröffentlicht.](https://www.sonnenseite.com/de/tipps/sozialatlas-zeigt-herausforderungen-fuer-den-sozialen-zusammenhalt/)
 * [Der US Senator Bernie Sanders zeigt, dass es "dort drüben" auch vernünftige Menschen gibt.](https://weltnetz.tv/video/2598-us-senator-bernie-sanders-fordert-die-neutralitaet-der-ukraine) - Der Ukraine muss eine Nuetralität gewährt werden. Man muss auf Russland zugehen und man darf die Schrecken, die die NATO gebracht hat (Afganistan, Irak, Libyen etc.) nicht verharmlosen.
 * [BoringTun wurde in der Version v0.4 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=BoringTun-0.4-Released)
+* [Magisk wurde in der Version v24.2 veröffentlicht.](https://github.com/topjohnwu/Magisk/releases/tag/v24.2)
