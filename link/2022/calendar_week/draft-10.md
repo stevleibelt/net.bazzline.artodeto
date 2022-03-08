@@ -9,3 +9,10 @@
 * [Die CDU will 10 Milliarden Euro für ein Raketenabwehrsystem in Berlin ausgeben.](https://blog.fefe.de/?ts=9cdbf754) - Wartet nur ab was Dresden und München sich bald hinbauen lassen. Da wird es Nacht in Berlin, wenn die Siloklappen in Dresden oder München aufgehen!
 * [Thunderbird wurde in der Version 91.6.2 veröffentlicht.](https://www.borncity.com/blog/2022/03/07/thunderbird-version-91-6-2/)
 * [Kuketz zeigt euch, wie man Spiderfoot nutzt.](https://www.kuketz-blog.de/spiderfoot-osint-tool-open-source-intelligence-zur-analyse-und-aufklaerung/)
+* [Was könnte man aktuell tun um das Ausbauen von erneuerbaren Energien für den Bürger endlich einmal wieder attraktiv zu machen? Hier könnt Ihr ein paar Anreize lesen.](https://www.sonnenseite.com/de/politik/es-braucht-ein-erneuerbare-energien-notgesetz-een-zur-bekaempfung-der-energiekrise/)
+* [Linux ist ab Kernel 5.8 kaputt.](https://www.borncity.com/blog/2022/03/08/dirty-pipe-linux-schwachstelle-ermglicht-root-zugriff/) - Das Problem wurde in Version 5.16.11, 5.15.25 und 5.10.102 gelöst.
+* [>>Die Menschheit hat die Tragfähigkeit der Erde schon vor mindestens zwei Jahrzehnten überschritten.<<](https://www.sonnenseite.com/de/zukunft/club-of-rome-es-gibt-sie-die-grenzen-des-wachstums/)
+* [Hier gibt es eine Liste von Debian Kernels die sicher gegenüber Dirty Pipe sind.](https://security-tracker.debian.org/tracker/CVE-2022-0847)
+* [Der Sozialatlas wurde in der Version 2022 veröffentlicht.](https://www.sonnenseite.com/de/tipps/sozialatlas-zeigt-herausforderungen-fuer-den-sozialen-zusammenhalt/)
+* [Der US Senator Bernie Sanders zeigt, dass es "dort drüben" auch vernünftige Menschen gibt.](https://weltnetz.tv/video/2598-us-senator-bernie-sanders-fordert-die-neutralitaet-der-ukraine) - Der Ukraine muss eine Nuetralität gewährt werden. Man muss auf Russland zugehen und man darf die Schrecken, die die NATO gebracht hat (Afganistan, Irak, Libyen etc.) nicht verharmlosen.
+* [BoringTun wurde in der Version v0.4 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=BoringTun-0.4-Released)
