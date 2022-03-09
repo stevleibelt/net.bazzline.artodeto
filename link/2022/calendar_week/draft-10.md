@@ -24,3 +24,8 @@
 * [DENT wurde in der Version 2.0 veröffentlicht.](https://lwn.net/Articles/887213/)
 * [Hier wird euch noch einmal die tolle SophiaApp vorgestellt, mit dem ihr das Übel von Windows etwas beschränken könnt.](https://4sysops.com/archives/sophiapp-tweak-windows-10-settings-with-a-gui/)
 * [Mit `homectl` könnt ihr `systemd-home` nutzen.](https://opensource.com/article/22/3/manage-users-home-directory-systemd-homed) - Eigentlich eine spannende Sache, aber scheinbar geht es nicht mit Benutzern, die sich via ssh anmelden.
+* [Wir als EU könnten einfach einen Schritt auf Russland zugehen und Gespräche führen, oder wir fangen mit der Kriegstreiberei an und fordern `Frieren für den Frieden`.](https://blog.fefe.de/?ts=9cd65876) - Und seid euch sicher, von den ein Prozent friert NIE jemand.
+* [Das Pentagon hat wohl doch Biolabore zum Herstellen von biologischen Massenvernichtungswaffen finanziert.](https://blog.fefe.de/?ts=9cd65613)
+* [>>Wir brauchen ... nicht Rettungskräfte, nicht Notunterkünfte, keinen Wiederaufbauplan. Nein. Wir brauchen ein Wording, dass wir nicht Schuld waren!<<](https://blog.fefe.de/?ts=9cd649f1)
+* [Russland wird attraktiver, Coca Cola, McDonalds, Starbucks, Rechnungsprüfer (Steuertrickers) und Beratungsfirmen (zur Erschaffung moderner Sklavenhaltung) ziehen sich aus Russland zurück.](https://blog.fefe.de/?ts=9cd93319)
+* [>>Geophysikerin der TU Freiberg erhält Günter-Bock Preis der Deutschen Geophysikalischen Gesellschaft<<](https://tu-freiberg.de/presse/geophysikerin-der-tu-freiberg-erhaelt-guenter-bock-preis-der-deutschen-geophysikalischen-gese)
