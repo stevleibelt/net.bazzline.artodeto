@@ -19,3 +19,8 @@
 * [Magisk wurde in der Version v24.2 veröffentlicht.](https://github.com/topjohnwu/Magisk/releases/tag/v24.2)
 * [TU-Bergakademie: >>Neuorganisiertes Uni-Netzwerk "Junior Forscher in Mittelsachsen" eröffnet Büro in Freiberg<<](https://tu-freiberg.de/presse/neuorganisiertes-uni-netzwerk-junior-forscher-in-mittelsachsen-eroeffnet-buero-in-freiberg)
 * [Am 18.06.2022 gibt es eine JunioUni an der TU-Freiberg.](https://tu-freiberg.de/junioruni)
+* [Firefox wurde in der Version 98 veröffentlicht.](https://lwn.net/Articles/887162/)
+* [Vulkan wurde in der Version 1.3.207 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=Vulkan-1.3.207-Released)
+* [DENT wurde in der Version 2.0 veröffentlicht.](https://lwn.net/Articles/887213/)
+* [Hier wird euch noch einmal die tolle SophiaApp vorgestellt, mit dem ihr das Übel von Windows etwas beschränken könnt.](https://4sysops.com/archives/sophiapp-tweak-windows-10-settings-with-a-gui/)
+* [Mit `homectl` könnt ihr `systemd-home` nutzen.](https://opensource.com/article/22/3/manage-users-home-directory-systemd-homed) - Eigentlich eine spannende Sache, aber scheinbar geht es nicht mit Benutzern, die sich via ssh anmelden.
