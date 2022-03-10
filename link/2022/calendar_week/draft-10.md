@@ -29,3 +29,14 @@
 * [>>Wir brauchen ... nicht Rettungskräfte, nicht Notunterkünfte, keinen Wiederaufbauplan. Nein. Wir brauchen ein Wording, dass wir nicht Schuld waren!<<](https://blog.fefe.de/?ts=9cd649f1)
 * [Russland wird attraktiver, Coca Cola, McDonalds, Starbucks, Rechnungsprüfer (Steuertrickers) und Beratungsfirmen (zur Erschaffung moderner Sklavenhaltung) ziehen sich aus Russland zurück.](https://blog.fefe.de/?ts=9cd93319)
 * [>>Geophysikerin der TU Freiberg erhält Günter-Bock Preis der Deutschen Geophysikalischen Gesellschaft<<](https://tu-freiberg.de/presse/geophysikerin-der-tu-freiberg-erhaelt-guenter-bock-preis-der-deutschen-geophysikalischen-gese)
+* [Mesa wurde in der Version 22.0 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=Mesa-22.0-Released)
+* [Thunderbird wurde in der Version 91.7.0 veröffentlicht.](https://www.borncity.com/blog/2022/03/09/thunderbird-version-91-7-0/)
+* Wenn ich Sachen wie [hier](https://verfassungsblog.de/ausgesetzte-wehrpflicht/) lese frag ich mich, ob die USA den politischen Ukrainekonflikt nicht auch nur deswegen proviziert hat, damit Europa - mit transatlantischer Hilfe natürlich - aus den 30 Jahren der Abrüstung und Befriedung zurück in die bevorzugte Cowboywelt von Aufrüstung und Krieg geholt werden kann.
+* [Blender wurde in der Version 3.1 veröffentlicht.](https://lwn.net/Articles/887359/)
+* [Mit den Protestcamps de Klimabewegung wird gezeigt, wie schwer es für das Volk ist dauerhaft seinen Unmut gegenüber die politischen Marktfremden asdrücken zu können.](https://freiheitsrechte.org/klimacamps/)
+* [Zur Europawahl soll es jetzt auch eine Sperrklausel für kleine Parteien geben.](https://www.patrick-breyer.de/affront-gegen-bundesverfassungsgericht-sperrklausel-zur-europawahl-soll-ueber-bruessel-durchgedrueckt-werden/) - United States of Europa, wir kommen!
+* [Ich hoffe das stimmt so: >>Kostenfreie und firmenunabhängige Infos rund um Solarbatterien finden Verbraucher unter www.die-sonne-speichern.de.<<](https://www.sonnenseite.com/de/wirtschaft/energiekrise-laesst-solarspeicher-boomen/)
+* [Liebe "Jugend" um die "Fridays for Future"-Bewegung, macht was drauß, bleibt standhaft. Diese Bewegung wird das sein, was historisch Bedeutung hat.](https://freiheitsrechte.org/klimacamps-interview-luca-salis/)
+* [Bayern kauft Stasitechnik von Palantir.](https://netzpolitik.org/2022/umstrittener-ueberwachungskonzern-bayerns-polizei-setzt-bald-software-von-palantir-ein/)
+* [Durch das kaputte Klima sterben uns jedes Jahr mehr Bäume.](https://www.sonnenseite.com/de/umwelt/waldverluste-beispiellos/)
+* [Hier werden euch einige gute Module zu Drupal vorgestellt.](https://opensource.com/article/22/3/drupal-advanced-blogging-platform)
