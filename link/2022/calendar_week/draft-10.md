@@ -40,3 +40,9 @@
 * [Bayern kauft Stasitechnik von Palantir.](https://netzpolitik.org/2022/umstrittener-ueberwachungskonzern-bayerns-polizei-setzt-bald-software-von-palantir-ein/)
 * [Durch das kaputte Klima sterben uns jedes Jahr mehr Bäume.](https://www.sonnenseite.com/de/umwelt/waldverluste-beispiellos/)
 * [Hier werden euch einige gute Module zu Drupal vorgestellt.](https://opensource.com/article/22/3/drupal-advanced-blogging-platform)
+* [Völlig verpasst, TruNAS SCALE wurde in der Version 22.02.0 veröffentlicht.](https://www.truenas.com/community/threads/truenas-scale-22-02-0-angelfish-release.99233/) - Stark! Damit betreibt iX System jetzt zwei NAS-Lösungen die ZFS können und wirklich toll sind.
+* [>>11 Jahre Fukushima – 36 Jahre Tschernobyl<<](https://www.sonnenseite.com/de/politik/11-jahre-fukushima-36-jahre-tschernobyl/)
+* [WordPress wurde in der Version 5.9.2 veröffentlicht.](https://wordpress.org/news/2022/03/wordpress-5-9-2-security-maintenance-release/)
+* [OpenZFS wurde in der Version 2.1.3 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=OpenZFS-2.1.3)
+* [Im OpenWRT Wiki gibt es jetzt einen Eintrag zum Thema `WireGuard Road-Warrior`-Konfiguration.](https://openwrt.org/docs/guide-user/services/vpn/wireguard/road-warrior)
+* [Katholische und evangelische Kirsche sagt ja zu Kreuzzügen: >>Waffenlieferungen für die Ukraine "grundsätzlich legitim"<<.](https://blog.fefe.de/?ts=9cd49a21)
