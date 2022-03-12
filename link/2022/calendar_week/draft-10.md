@@ -46,3 +46,7 @@
 * [OpenZFS wurde in der Version 2.1.3 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=OpenZFS-2.1.3)
 * [Im OpenWRT Wiki gibt es jetzt einen Eintrag zum Thema `WireGuard Road-Warrior`-Konfiguration.](https://openwrt.org/docs/guide-user/services/vpn/wireguard/road-warrior)
 * [Katholische und evangelische Kirsche sagt ja zu Kreuzzügen: >>Waffenlieferungen für die Ukraine "grundsätzlich legitim"<<.](https://blog.fefe.de/?ts=9cd49a21)
+* [13.03.2022: Demos im ganzen Land mit dem Thema >Stoppt  den Krieg!<<](https://www.sonnenseite.com/de/politik/grossdemos-fuer-den-frieden-2/)
+* [Ubisoft wurde gehackt.](https://www.borncity.com/blog/2022/03/12/ubisoft-durch-lapsus-cyber-gang-gehackt-mrz-2022/)
+* [Wine wurde in der Version 7.4 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=Wine-7.4-Released)
+* [Ihr seid bei der Telekom und habt eine FRITZBox? Aktualisiert schnell auf Version 7.29, sonst könnt ihr wohl ab dem 15.03.2022 nicht mehr telefonieren.](https://www.borncity.com/blog/2022/03/12/achtung-telekom-kunden-fritzboxen-bentigen-ab-15-3-2022-fritzos-7-29-zum-telefonieren/)
