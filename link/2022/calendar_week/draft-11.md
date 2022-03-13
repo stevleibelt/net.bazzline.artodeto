@@ -1,0 +1,2 @@
+* [Am 13.03.2022 haben wohl über 125.000 Menschen für den Frieden demonstriert.](https://www.sonnenseite.com/de/politik/125-000-menschen-demonstrieren-fuer-den-frieden/) - Schade, dass die Leitmedien hier davon berichten, dass nur Putin eine politische Anapssung vornehmen soll. Von dem Kriegsbund NATO lese ich keinen Hinweis auf deren Teilschuld.
+* [Shenzehn ist kaputt.](https://blog.fefe.de/?ts=9cd0c840) - Und dankt der globalisierten Marktwirtschaft der Marktfreien, bedeutet das ein großes Ruckeln in der Herstellungskette für ALLES, was mit Computern zu tun hat.
