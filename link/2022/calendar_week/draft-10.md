@@ -50,3 +50,10 @@
 * [Ubisoft wurde gehackt.](https://www.borncity.com/blog/2022/03/12/ubisoft-durch-lapsus-cyber-gang-gehackt-mrz-2022/)
 * [Wine wurde in der Version 7.4 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=Wine-7.4-Released)
 * [Ihr seid bei der Telekom und habt eine FRITZBox? Aktualisiert schnell auf Version 7.29, sonst könnt ihr wohl ab dem 15.03.2022 nicht mehr telefonieren.](https://www.borncity.com/blog/2022/03/12/achtung-telekom-kunden-fritzboxen-bentigen-ab-15-3-2022-fritzos-7-29-zum-telefonieren/)
+* [Doom-Metal Album mit einem Lied und einer Spielzeit von über 70 Minuten? Klar sollte man sich wegen diesen Attributen >>Bell Witch<< mit >>Mirror Reaper<< anhören.](https://tuxproject.de/blog/2022/03/kurzkritik-bell-witch-mirror-reaper/)
+* [Interessanter Gedankengang, sollte ein Zpool Statistik für alles führen?](https://utcc.utoronto.ca/~cks/space/blog/solaris/ZFSPoolErrorCountHistory)
+* Zabbix 6.0.1 LTS ist endlich unter Arch Linux verfügbar!
+* [Wow, es hat mehr als fucking zehn Jahre gedauert, bis das EU-Parlament endlich entschieden hat, dass fest verbaute Akkus schlecht für alle, außer den Konzernen, ist.](https://www.borncity.com/blog/2022/03/13/endlich-eu-parlament-beschliet-verbot-fest-verbauter-akkus/) - Gut, was werden die Konzerne jetzt machen? Für jedes Produkt ein Spezialakku entwickeln, der nur für ein halbes Jahr produziert wird. Denn nichts ist wichtiger als die Rendite, hört ihr? NICHTS, NICHT EINMAL SO EINE NUTZLOSE ERDE!
+* [mdr.de >>Kein Straßenbau: Frust in Deutschneudorf<<](https://www.mdr.de/nachrichten/sachsen/chemnitz/freiberg/aerger-kein-strassenbau-deutschneudorf-100.html)
+* [PostgreSQL wird bald Zstd für sich benutzen.](https://www.phoronix.com/scan.php?page=news_item&px=PostgreSQL-More-Zstd)
+* [Der Frühling scheint 17 Tage früher zu beginnen, als es noch vor 25 Jahren der Fall gewesen ist.](https://www.sonnenseite.com/de/umwelt/frueher-fruehling/)
