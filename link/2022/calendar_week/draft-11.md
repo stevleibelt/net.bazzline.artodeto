@@ -4,3 +4,14 @@
 * [Schaut an, da ist die FDP an der Macht und der freie Markt macht was er will und optimiert die Spritpreise zur Gewinnmaximierung nach oben.](https://blog.fefe.de/?ts=9cd1de1c) - Und was macht die FDP? Die will Rabatte für Pendler statt das Problem zu lösen.
 * [Indien und Russland setzten mal eben ein Zahlungssystem auf, das nicht an den USD gekoppelt ist.](https://blog.fefe.de/?ts=9cd1dd6e) - Wenn das mehrere machen, ist die Leitwährung USD dahin und dann haben die USA sowie die Welt an sich ein großes Problem. USA, ihr wisst schon, das Land mit dem größten Militär und den meisten Atombomben.
 * [*Hmm*, da wird uns Steuergelder das Geld für wichtige Infrastruktur gestohlen weil wir einen Eurofighter finanzieren und dann kauft die Bumswehr lieber vom Ami Flugzeuge die nur funktionieren, wenn die USA es möchte?](https://blog.fefe.de/?ts=9cd1d555)
+* [Kuketz zeigt euch wie ihr mit NetGuard und Whitelisting arbeitet, erstellt und eigene Blockinglisten erstellt.](https://www.kuketz-blog.de/netguard-datenverkehr-von-android-apps-filtern-privatsphaere-schuetzen/)
+* [Rosneft schenkt 20 Terabyte Daten der Allgemeinheit.](https://www.borncity.com/blog/2022/03/14/anonymous-hackt-rosneft-deutschland-20-terabyte-daten-abgezogen/)
+* [>>Der Algorithmus interessiert sich nicht für die Zwangsräumungen, die er auslöst<< - oder, KI neu interpretiert als Kollektive Inteligenz.](https://netzpolitik.org/2022/kuenstliche-intelligenz-glu%cc%88cksmaschinen-bauen/)
+* [Sehr gut! Nun fragen Amazons Arbeiter mal nach, was für Daten über sie erhoben und wie diese Daten ausgewertet werden.](https://noyb.eu/en/amazon-workers-demand-data-transparency)
+* [2022? Also gibt es hier 22 Projekte für euren Raspberry Pi.](https://opensource.com/article/22/3/raspberry-pi-projects-2022)
+* [FDP's "Spritspritze" in einem Satz erklärt >>Reiche Menschen mit dicken Autos, die viel Sprit verbrauchen, würden davon besonders profitieren<<](https://www.sonnenseite.com/de/mobilitaet/kritik-an-plaenen-des-finanzministers/)
+* [Microsoft Windows zeigt wie wichtig ihr dem Konzern seid, ihr bekommt jetzt bald Werbung im Dateimanager :-D.](https://www.bleepingcomputer.com/news/microsoft/microsoft-is-testing-ads-in-the-windows-11-file-explorer/)
+* [PowerShell verhält sich ungewohnt, `$?` gibt nur `$true` oder `$false` zurück. Ihr müsst `$LASTEXITCODE` nutzen um das gewohnte verhalten unter PowerShell zu haben.](https://www.windowspro.de/script/externe-programme-powershell-ausfuehren-exit-code-abfragen)
+* [Veeam Backup ist kaputt.](https://www.borncity.com/blog/2022/03/14/kritische-schwachstellen-in-veeam-backup-replication/)
+* [DENSO ist kaputt.](https://www.bleepingcomputer.com/news/security/automotive-giant-denso-hit-by-new-pandora-ransomware-gang/)
+* [mdr.de: >>Wie sich der Ukraine-Krieg auf eine Gießerei in Lößnitz auswirkt<<](https://www.mdr.de/video/mdr-videos/a/video-605224.html)
