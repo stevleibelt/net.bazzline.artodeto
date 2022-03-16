@@ -15,3 +15,9 @@
 * [Veeam Backup ist kaputt.](https://www.borncity.com/blog/2022/03/14/kritische-schwachstellen-in-veeam-backup-replication/)
 * [DENSO ist kaputt.](https://www.bleepingcomputer.com/news/security/automotive-giant-denso-hit-by-new-pandora-ransomware-gang/)
 * [mdr.de: >>Wie sich der Ukraine-Krieg auf eine Gießerei in Lößnitz auswirkt<<](https://www.mdr.de/video/mdr-videos/a/video-605224.html)
+* [Auch Foltern muss gelernt sein! Gut das die USA in genügend Ländern die Demokratie bringen.](https://blog.fefe.de/?ts=9ccf795a) - Durch das Wegbomben der Zivilisation finden sich genügend "Freiwillige" die sich für einen Hungerlohn foltern lassen. Learning by doing!
+* [Go wurde in der Version 1.18 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=Go-1.18-Released)
+* [OpenSSL und LibreSSL sind kaputt.](https://lwn.net/Articles/887970/)
+* [Pfennige für so ein Unternehmen, die laschie irische Datenschutzbehörde verhängt 17 Millionen Euro Bußgeld gegen Meta.](https://www.borncity.com/blog/2022/03/16/irische-datenschtzer-verhngen-17-millionen-euro-bugeld-gegen-meta/)
+* [Danke Timo Leukefeld, in Aschersleben wird ein Plattenbau zu einem energieatuarken Wohnkomplex mit Pauschalmiete umgerüstet.](https://www.sonnenseite.com/de/wirtschaft/vom-plattenbau-zum-energieautarken-mehrfamilienhaus-mit-pauschalmiete/)
+* [Hier könnt ihr, mit einer Lesezeit von weniger als fünf Minuten, einmal einen Mittelweg bezüglich "Magie im Quelltext" lesen.](https://matthiasnoback.nl/2022/03/too-much-magic/)
