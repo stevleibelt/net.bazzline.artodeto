@@ -31,3 +31,5 @@
 * [Sehr schön, es gibt endlich einen Koalitionstracker um zu visualisieren wie viel die aktuelle Bundesregierung bisher so umgesetzt hat.](https://netzpolitik.org/2022/fragdenstaat-koalitionstracker-kontrolliert-versprechen-der-bundesregierung/)
 * [Java-GUI-Anwendungen? Java Swing ist 2006 gebohren wurden, es gibt mittlerweile einfache Wege den optischen Zeitgeist hinter zu gehen.](https://opensource.com/article/22/3/beautify-java-applications) - Ich muss zugeben, mir gefällt das Standard Thema von Swing auch nicht und hat es noch nie.
 * [AMD investiert in AlmaLinux](https://www.phoronix.com/scan.php?page=news_item&px=AMD-Joins-AlmaLinux)
+* [Wie könnte die EU sich selbst ernähren? Einfach 10 Prozent weniger Tiere herstellen.](https://www.sonnenseite.com/de/umwelt/zehn-prozent-weniger-eu-tierhaltung-kann-fehlende-weizenimporte-aus-ukraine-grossteils-ersetzen/)
+* [Hat schon jemand mal nushell probiert?](https://www.nushell.sh/)
