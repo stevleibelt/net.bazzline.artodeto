@@ -1,2 +1,5 @@
 * [Die deutschen Rüstungsexporte steigen seit zehn Jahren.](https://verfassungsblog.de/deutsche-rustungsexporte-als-teil-einer-koharenten-ausen-und-sicherheitsstrategie/)
 * [Linux wurde in der Version 5.17 veröffentlicht.](https://lwn.net/Articles/887679/)
+* [TornadoVM wurde in der Version 0.13 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=TornadoVM-0.13)
+* [OpenShift und wie es euch hilft eine grundlegende Sicherheitsrichtlinie zu fahren.](https://www.opensourcerers.org/2022/03/21/security-aspects-with-openshift-an-overview/)
+* [Schaut einmal welche Ressourcen wir verbrennen um Werbung auszuspielen.](https://www.kuketz-blog.de/online-werbung-real-time-bidding-und-iab-standards-teil1/)
