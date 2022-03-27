@@ -48,3 +48,10 @@
 * [Gut das mal geprüft hat, fast 100.000 COVID19 Tode wurden in den USA gezählt - passiert halt.](https://blog.fefe.de/?ts=9cc1876b)
 * [Windows Server 2019 macht DNS wieder mal kaputt.](https://www.borncity.com/blog/2022/03/26/windows-server-2019-update-kb5009616-verursacht-dns-probleme/)
 * [Wine wurde in der Version 7.5 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=Wine-7.5-Released)
+* [FinFisher stellt ihren Betrieb ein. Dank der Gesellschaft für Freiheitsrechte.](https://freiheitsrechte.org/pm-finfisher-insolvenz/)
+* [Hier wird euch erklärt, was es für Webhooks in Zabbix gibt.](https://blog.zabbix.com/webhooks-in-zabbix/19935/#How_does_a_webhook_work)
+* [PimEyes geht, Public Mirror kommt - gleiche Firmenbetreiber, gleiche Technik, anderer Name.](https://netzpolitik.org/2022/gesichtserkennung-pimeyes-gruender-mit-neuer-gesichtersuche-zurueck-in-der-eu/)
+* [Es ist so schlimm, was sich google erlaubt (apple auch). Wann ihr mit wem wie telefoniert und noch mehr.](https://www.kuketz-blog.de/welche-daten-sendet-die-telefon-und-sms-app-auf-android-an-google/)
+* [Debian wurde in der Version 11.3 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=Debian-11.3-Released)
+* [In NRW ist man ja schon weiter, dort kann einen die Polizei ohne Gründe wegsperren.](https://blog.fefe.de/?ts=9cbee748) - Verkauft wurde es wie üblich "nur gegen Terroristen", heraus gekommen ist "auch gegen Regimgegner wie Klimademonstranten".
+* [WirePlumber wurde in der Version 0.4.9 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=WirePlumber-0.4.9)
