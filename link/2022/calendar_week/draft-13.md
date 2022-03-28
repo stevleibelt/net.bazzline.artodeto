@@ -1,1 +1,6 @@
 * [Spraykatz kann unter Windows Anmeldedaten sammeln.](https://scheible.it/kali-linux-tool_spraykatz/)
+* [archinstall wurde in der Version v2.3.3 veröffentlicht.](https://github.com/archlinux/archinstall/releases/tag/v2.3.3)
+* [ramsey/uuid wurde in der Version 4.3.1 veröffentlicht.](https://github.com/ramsey/uuid/releases/tag/4.3.1)
+* [Was ist das Ergebnis einer Studie, wenn diese in Deutschland ausgeführt wird (Land der Autobauer) und die Frage beantwortet werden soll, ob wir das KFZ ablösen können?](https://www.sonnenseite.com/de/mobilitaet/mehr-als-40-prozent-weniger-emissionen-durch-elektrische-leichtfahrzeuge/) - Die Antwort bedeutet nicht "weniger Pendlerjobs" oder "mehr ÖPNV", nein, die Antwort lautet natürlich "Man braucht neben dem Auto noch ein Auto" und damit es schnucklig klingt, nennt man diese Autos "Microautos". Diese fahren nur 125 km/h, sind also ausreichend schnell.
+* [E-Auto's sind nicht zwingend CO2-neutral.](https://www.sonnenseite.com/de/mobilitaet/gesetzgebung-mit-fehlwirkung-das-e-auto-ein-wahres-emissionswunder/) - Nicht falsch verstehen, die Richtung ist gut, aber der Weg ist noch lang.
+* [TU Bergakademie Freiberg: Ab 04.04.2022 fängt die neue Unisport-Saison an. Meldet euch an!](https://tu-freiberg.de/presse/neue-unisport-kurse-starten-am-4-april)
