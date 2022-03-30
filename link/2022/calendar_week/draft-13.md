@@ -18,3 +18,16 @@
 * [Realitätsabgleich "Datenschutz brauch ich nicht, ich hab kein Schmierphone". #Ehrenmann Japan regelt!](https://www.kuketz-blog.de/leserbrief-zu-den-quarantaene-bzw-ueberwachungsmassnahmen-in-japan/)
 * [Was es nicht alles gibt. Die Briten hatten auf einer Insel den Milzbranderreger getestet. Die ganze Insel ging vor die Hunde und jetzt fackelt dort alles ab und pumpt die Erreger in die Luft.](https://blog.fefe.de/?ts=9cbc215c)
 * [Nein? Doch! Oh? Da fällt dem Westen gerade auf, dass die magische Hand des freien Marktes an jeden verkauft, auch an die "Bösen".](https://blog.fefe.de/?ts=9cbcd4df) - Also wirklich, Unterdrückung und Folter ist ok, aber nur wenn wir es machen!
+* [Vulkan wurde in der Version 1.3.210 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=Vulkan-1.3.210-Released)
+* [Sailfish OS wurde in der Version 4.4 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=Sailfish-OS-4.4)
+* [Sehr gut, EuGH urteilt dann einmal, jeder, der Google Analytics nutzt, macht sich strafbar gegenüber dem GDPR.](https://nextcloud.com/blog/google-analytics-4/)
+* [Ihr plant eure Mariadb/mysql auf `utf8mb4` umzustellen? Geht, aber schaut euch eure Tabellen vorher mal an.](https://www.percona.com/blog/migrating-to-utf8mb4-things-to-consider/)
+* [Mesa wurde in der Version 22.0.1 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=Mesa-22.0.1-Released)
+* [Nein? Doch! Oh? Mikroplastik ist jetzt offiziell im menschlichem Körper gefunden.](https://www.sonnenseite.com/de/umwelt/mikroplastik-im-menschlichen-blutkreislauf-gefunden/)
+* [Sahara-Sand mindert die Ausbeute der Photovoltaik-Anlage nicht so stark wie einem das Gefühl vermuten lässt.](https://www.sonnenseite.com/de/umwelt/sahara-sand-mindert-ertraege-von-photovoltaik-anlagen-nur-kurzzeitig-leicht/)
+* [Mit OnlyOffice könnt ihr ab Version 7.0 interaktive PDF-Formulare erstellen.](https://www.windowspro.de/andrej-radonic/onlyoffice-70-interaktive-formulare-erstellen-web-als-pdf-publizieren)
+* [Neue Namen sind ja auch wichtig, damit zeigt man, dass man etwas bewegt! Deswegen wurde das `Bundesministerium für Verkehr und Infrastruktur` jetzt in `Bundesministerium für Verkehr und Digitales` umgenannt.](https://blog.fefe.de/?ts=9cba8381) - Autobahn und 5G meine Freunde, Strom, sauberes Trinkwasser, Abwasser, Eisenbahn ist alles nicht mehr wichtig!
+* [zlib ist kaputt.](https://blog.fefe.de/?ts=9cbaf8bd)
+* [Jens Spahn ist jetzt Energieexperte in der CDU.](https://blog.fefe.de/?ts=9cbdb66b)
+* [Probleme von Berlinern, da hat ein Bär ein Z auf dem Bauch und der muss jetzt weg.](https://blog.fefe.de/?ts=9cbda7d9)
+* [Der Raubzug geht weiter, die Energieunternehmen hinterziehen dieses Jahr mindest 200 Milliarden Euro Gewinn.](https://blog.fefe.de/?ts=9cbde9c6) - Häschtäg `Windfall-Profits`
