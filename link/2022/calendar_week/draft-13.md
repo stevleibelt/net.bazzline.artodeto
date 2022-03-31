@@ -31,3 +31,11 @@
 * [Jens Spahn ist jetzt Energieexperte in der CDU.](https://blog.fefe.de/?ts=9cbdb66b)
 * [Probleme von Berlinern, da hat ein Bär ein Z auf dem Bauch und der muss jetzt weg.](https://blog.fefe.de/?ts=9cbda7d9)
 * [Der Raubzug geht weiter, die Energieunternehmen hinterziehen dieses Jahr mindest 200 Milliarden Euro Gewinn.](https://blog.fefe.de/?ts=9cbde9c6) - Häschtäg `Windfall-Profits`
+* [Harfbuss wurde in der Version 4.2.0 veröffentlicht.](https://github.com/harfbuzz/harfbuzz/releases/tag/4.2.0)
+* [Der aktuelle Kernel vom Arch-Linux (5.16.*) verträgt sich nicht mit dem neusten zfs (2.1.4). Aus diesem Grund gibt es noch keine Aktualisierung in archzfs.](https://github.com/archzfs/archzfs/issues/443#issuecomment-1082351733)
+* [Wie kann man mit einem Computer, der nicht mit dem Internet verbunden ist, im Internet surfen? ReCoBS ist das Modewort dafür. VNC/RemoteDesktop vom eigenen Netz auf eine Maschine die mit dem Internet verbunden ist, ist die Idee dahinter.](https://4sysops.com/archives/safe-browsing-with-a-recobs-server/)
+* [Guter Einwand, es wird aktuell geschaut, dass eine Maschne so schnell wie möglich hoch fährt. Aber an die Zeit des Runterfahrens denkt kaum einer.](https://utcc.utoronto.ca/~cks/space/blog/linux/ShutdownDelayProblem) - Eine Datenbank muss lange zum runterfahren brauchen, aber sonst fallen mir kaum Dienste ein, bei denen es wirklich wichtig ist.
+* [Ein Wunsch von den marktfreien und kriegstreibenden Unmenschen? Die bestehende Hungernot nach Europa zu tragen.](https://www.sonnenseite.com/de/zukunft/krieg-es-droht-eine-weltweite-nahrungsmittelkrise/)
+* [Wieder weilt eine Menschenrechtsverteidigerin nicht mehr unter uns.](https://netzfrauen.org/2022/03/30/wayuu/)
+* [Schön wie Politiker die Verwaltung mit "wir sind uns schon einig" unter Druck zu setzen versucht.](https://netzpolitik.org/2022/transatlantisches-daten-dilemma-das-privacy-shield-2-0-ist-zum-scheitern-verurteilt/) - Gut, dass eine Verwaltung an Gesetze gebunden ist. Heite am Falle vom transatlantischen Abkommen von Europa mit den USA bezüglich dem Verschenken von europäischen Daten.
+* [Für VS Code gibt es die MySQL Shell :-).](https://www.percona.com/blog/mysql-shell-for-vs-code-your-new-gui/)
