@@ -39,3 +39,13 @@
 * [Wieder weilt eine Menschenrechtsverteidigerin nicht mehr unter uns.](https://netzfrauen.org/2022/03/30/wayuu/)
 * [Schön wie Politiker die Verwaltung mit "wir sind uns schon einig" unter Druck zu setzen versucht.](https://netzpolitik.org/2022/transatlantisches-daten-dilemma-das-privacy-shield-2-0-ist-zum-scheitern-verurteilt/) - Gut, dass eine Verwaltung an Gesetze gebunden ist. Heite am Falle vom transatlantischen Abkommen von Europa mit den USA bezüglich dem Verschenken von europäischen Daten.
 * [Für VS Code gibt es die MySQL Shell :-).](https://www.percona.com/blog/mysql-shell-for-vs-code-your-new-gui/)
+* [Eine Milliarde Euro hat Frankreich letztes Jahr für private Beraterfirmen ausgegeben.](https://blog.fefe.de/?ts=9cbb2e7d)
+* [Das haben Nestle, Pepsi, Coca Cola und Co zu verantworten. In den USA wird Wasser jetzt mit Schusswaffen verteidigt.](https://blog.fefe.de/?ts=9cbb2ec6)
+* [Eine ARD-Dokumentation stellt folgende These auf und untermauert sie mit Argumenten. Jeglicher Krieg wurde und wird von Rohstoffspekulanten ausgelöst um die Preise für lebenswichtige Dinge nach oben schnellen zu lassen.](https://blog.fefe.de/?ts=9cba114d)
+* [Zehn Jahre Inflation von 7,5 PRozent? Euer Geld ist noch rund 48 Prozent davon Wert.](https://blog.fefe.de/?ts=9cb9e550)
+* [Geht Solar überhaupt? Ja! Und das schon seit fast 30 Jahren.](https://www.sonnenseite.com/de/franz-alt/kommentare-interviews/solare-zukunft-gegen-fossile-vergangenheit/)
+* [Alle großen Banken haben auch im Jahr 2021 weiterhin die fossile Industrie mit Milliarden Euro gefördert.](https://www.sonnenseite.com/de/wirtschaft/die-groessten-banken-der-welt-steckten-auch-2021-milliarden-in-die-fossile-industrie/)
+* [Die TU Freiberg und die TU Chemnitz foschen weiter an der optimierten Brennstoffzelle.](https://tu-freiberg.de/presse/wasserstoff-mobilitaet-neues-forschungsprojekt-optimiert-brennstoffzelle)
+* [Hey, was machen diese "Günstiger Tanken" Anwendungen auf dem Schmierphone eigentlich? Primär Daten von euch sammeln und verkaufen.](https://www.kuketz-blog.de/tank-apps-anstatt-ersparnis-hauptsaechlich-tracking-werbung-und-datenschutzverletzungen/)
+* [3CX ist kaputt.](https://www.borncity.com/blog/2022/03/31/31-000-3cx-telefonanlagen-in-deutschland-per-internet-erreichbar/)
+* [openSUSE Tumbleweed kommt mit dem ersten web-based Installer.](https://www.phoronix.com/scan.php?page=news_item&px=openSUSE-D-Installer-Public)
