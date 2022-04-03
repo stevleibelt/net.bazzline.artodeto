@@ -49,3 +49,8 @@
 * [Hey, was machen diese "Günstiger Tanken" Anwendungen auf dem Schmierphone eigentlich? Primär Daten von euch sammeln und verkaufen.](https://www.kuketz-blog.de/tank-apps-anstatt-ersparnis-hauptsaechlich-tracking-werbung-und-datenschutzverletzungen/)
 * [3CX ist kaputt.](https://www.borncity.com/blog/2022/03/31/31-000-3cx-telefonanlagen-in-deutschland-per-internet-erreichbar/)
 * [openSUSE Tumbleweed kommt mit dem ersten web-based Installer.](https://www.phoronix.com/scan.php?page=news_item&px=openSUSE-D-Installer-Public)
+* [PHP Symfony wurde in der Version 6.0.7. veröffentlicht.](https://symfony.com/blog/symfony-6-0-7-released)
+* [Intels Arc kann AV1.](https://www.phoronix.com/scan.php?page=news_item&px=Intel-Media-SDK-22.3.1) - Aber scheinbar nur mit gefrickel
+* [Lutris wurde in der Version 0.5.10 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=Lutris-0.5.10-Released)
+* [Aus der Kategorie "Sobald der Updater läuft" ... es hagelt Softwarefehler, so auch bei der niederländischen Bahn.](https://blog.fefe.de/?ts=9cb75c44) - Da konnten dann alle Züge erst ab 17 Uhr wieder fahren.
+* [AB HEUTE NACHT FÜNF UHR WIRD ZURÜCKGEHACKT!!!](https://blog.fefe.de/?ts=9cb7ad54)
