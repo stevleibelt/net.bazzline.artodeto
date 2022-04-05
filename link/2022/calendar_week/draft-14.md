@@ -7,3 +7,11 @@
 * [Falls ihr auch mit snmpwalk arbeitet.](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/SnmpwalkNotes) - Hier steht dann doch alles Wichtige drinne.
 * [Zu wenig, eine Firma, die Milliarden Euro Gewinn macht, muss eine Millionenstrafe für illegale Aktivitäten zahlen.](https://netzpolitik.org/2022/biometrische-ueberwachung-ohne-rechtsgrundlage-clearview-ai-soll-millionenstrafe-in-italien-zahlen/) - Und durch die Nachricht kriegt diese Firma noch kostenfreie Werbung
 * [Claws Mail wurde in der Version 4.1.0 veröffentlicht.](https://lwn.net/Articles/890213/)
+* [In New York/USA gibt es die erste Gewerkschaft bei amazon.](https://netzpolitik.org/2022/gewerkschafter-chris-smalls-david-gegen-goliamazon/)
+* [An der TU Freiberg wird das Sommersemester 2022 endlich wieder im Präsenzunterricht umgesetzt.](https://tu-freiberg.de/presse/sommersemester-wieder-weitgehend-in-praesenz-und-mit-zusaetzlichen-corona-schutzmassnahmen)
+* [Remote code execution dank Spring4shell. Ihr müsst nur aktualisieren und alles ist wieder gut.](https://n-komm.de/infos-zu-spring4shell/)
+* [Ihr wollt via GPO ein logon-skript (`.bat` oder `.ps1`) ausführen? Hier gibt es ein Beispiel für euch.](http://woshub.com/run-gpo-logon-script-once/)
+* [Nein? Doch! Oh? Weil die Polizisten in den USA mit dem Schlagstock reagieren, wenn man sich über seine Reche erkundigt, gibt es jetzt falsche Polizisten die sich so die Zugangsdaten zu Hackfressenbuch und Apfel beschaffen.](https://netzpolitik.org/2022/sicherheitsluecke-falsche-polizisten-holen-sich-nutzerdaten-bei-apple-und-facebook-in-den-usa/)
+* [Hier wird euch `git rebase` erklärt.](https://opensource.com/article/22/4/manage-git-commits-rebase-i-command)
+* [Mit `ExtPassword` kann man Passwörter aus Windows offline auslesen.](https://www.windowspro.de/tool/kennwoerter-aus-windows-offline-auslesen-kostenlosen-extpassword) - Deswegen verschlüsselt man seine Festplatte.
+* [Ein Schritt weiter in die Welt, in der alle EU-Bürger als Terroristen angesehen werden. Die anstandslose Vorratsdatenspeicherung an Flughäfen und Bahnhöfen wurde vom EU-Gericht beschlossen.](https://netzpolitik.org/2022/ohne-konkreten-verdacht-eu-gericht-erlaubt-vorratsdatenspeicherung-an-flughaefen-und-bahnhoefen/)
