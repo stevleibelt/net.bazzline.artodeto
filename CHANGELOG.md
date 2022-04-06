@@ -11,6 +11,7 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 
 * [squash](https://opensource.com/article/22/4/manage-git-commits-rebase-i-command) commits
     * one per week for weeks older than 3 months
+    * also check [git amend](https://opensource.com/article/22/4/git-tips)
 * bin/calendar_week
     * check if latest draft file is current or last week
     * if latest draft is current week
