@@ -15,3 +15,7 @@
 * [Hier wird euch `git rebase` erklärt.](https://opensource.com/article/22/4/manage-git-commits-rebase-i-command)
 * [Mit `ExtPassword` kann man Passwörter aus Windows offline auslesen.](https://www.windowspro.de/tool/kennwoerter-aus-windows-offline-auslesen-kostenlosen-extpassword) - Deswegen verschlüsselt man seine Festplatte.
 * [Ein Schritt weiter in die Welt, in der alle EU-Bürger als Terroristen angesehen werden. Die anstandslose Vorratsdatenspeicherung an Flughäfen und Bahnhöfen wurde vom EU-Gericht beschlossen.](https://netzpolitik.org/2022/ohne-konkreten-verdacht-eu-gericht-erlaubt-vorratsdatenspeicherung-an-flughaefen-und-bahnhoefen/)
+* [Fwupd wurde in der Version 1.7.7 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=Fwupd-1.7.7)
+* [Unreal Engine wurde in der Version 5 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=Unreal-Engine-5-Released)
+* [Firefox wurde in der Version 99.0 und 91.8 ESR veröffentlicht.](https://www.borncity.com/blog/2022/04/05/firefox-99-0-und-91-8-0esr-freigegeben-2/)
+* [LXD wurde in der Version 5.0 LTS veröffentlicht.](https://lwn.net/Articles/890259/)
