@@ -25,3 +25,9 @@
 * [Ihr überlegt euch ob ihr euch in RUST einarbeitet? Hier gibt es eine Roadmap für das Jahr 2024.](https://blog.rust-lang.org/inside-rust/2022/04/04/lang-roadmap-2024.html) - Bleibt also, die Sprache :-)
 * [Wie baut man eigentlich Pakete für Arch Linux? Hier wird es euch erklärt.](https://sleepmap.de/2022/packaging-for-arch-linux/)
 * [VMware ist kaputt.](https://www.bleepingcomputer.com/news/security/vmware-warns-of-critical-vulnerabilities-in-multiple-products/)
+* [Die EU-Abgeordneten fordern dringend das Recht auf Reparatur ein.](https://netzpolitik.org/2022/recht-auf-reparatur-eu-abgeordnete-fordern-besseren-zugang-zu-ersatzteilen/)
+* [Der Verfassungsblog macht sich rechtliche Gedanken zum Akt der Vertreuhändung von Gazprom Germania.](https://verfassungsblog.de/eine-treue-hand-fur-schwere-zeiten/)
+* [Konzerne haben kein Herz, deswegen konnten die Ölkonzerne in der kurzen Zeit des politischen Konfliktes in der Ukranie drei Milliarden Euro zusätzlichen Gewinn einfahren.](https://www.sonnenseite.com/de/wirtschaft/oelkonzerne-schlagen-aus-hohen-spritpreisen-seit-kriegsbeginn-drei-milliarden-euro-zusaetzlichen-profit/) - Und das ist der Teil vom Gewinn, den sie nicht mehr über steuerliche Tricks verstecken können.
+* [Haha, die Industrie baut so kaputte Verpackungen, dass die Entsorgung der Gemeinschaft teuer zu stehen kommt.](https://www.sonnenseite.com/de/umwelt/muelltrennung-ist-fuer-verbraucherinnen-und-verbraucher-zu-kompliziert-geworden/)
+* [PAlo Alto Netzworks ist kaputt.](https://www.bleepingcomputer.com/news/security/palo-alto-networks-firewalls-vpns-vulnerable-to-openssl-bug/)
+* [Intel, die Firma die von sich selbst behauptet die schlausten in Sachen Prozessortechnik zu sein, haben mit den Augen geklaut und patentieren nun eine von AMD 2016 erfundene Technik.](https://blog.fefe.de/?ts=9cb010ae) - Und das Patentgericht gibt dem auch noch recht.
