@@ -19,3 +19,9 @@
 * [Unreal Engine wurde in der Version 5 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=Unreal-Engine-5-Released)
 * [Firefox wurde in der Version 99.0 und 91.8 ESR veröffentlicht.](https://www.borncity.com/blog/2022/04/05/firefox-99-0-und-91-8-0esr-freigegeben-2/)
 * [LXD wurde in der Version 5.0 LTS veröffentlicht.](https://lwn.net/Articles/890259/)
+* [Die EU-Abgeordneten fordern dringend das Recht auf Reparatur ein.](https://netzpolitik.org/2022/recht-auf-reparatur-eu-abgeordnete-fordern-besseren-zugang-zu-ersatzteilen/)
+* [Der Verfassungsblog macht sich rechtliche Gedanken zum Akt der Vertreuhändung von Gazprom Germania.](https://verfassungsblog.de/eine-treue-hand-fur-schwere-zeiten/)
+* [Konzerne haben kein Herz, deswegen konnten die Ölkonzerne in der kurzen Zeit des politischen Konfliktes in der Ukranie drei Milliarden Euro zusätzlichen Gewinn einfahren.](https://www.sonnenseite.com/de/wirtschaft/oelkonzerne-schlagen-aus-hohen-spritpreisen-seit-kriegsbeginn-drei-milliarden-euro-zusaetzlichen-profit/) - Und das ist der Teil vom Gewinn, den sie nicht mehr über steuerliche Tricks verstecken können.
+* [Haha, die Industrie baut so kaputte Verpackungen, dass die Entsorgung der Gemeinschaft teuer zu stehen kommt.](https://www.sonnenseite.com/de/umwelt/muelltrennung-ist-fuer-verbraucherinnen-und-verbraucher-zu-kompliziert-geworden/)
+* [PAlo Alto Netzworks ist kaputt.](https://www.bleepingcomputer.com/news/security/palo-alto-networks-firewalls-vpns-vulnerable-to-openssl-bug/)
+* [Intel, die Firma die von sich selbst behauptet die schlausten in Sachen Prozessortechnik zu sein, haben mit den Augen geklaut und patentieren nun eine von AMD 2016 erfundene Technik.](https://blog.fefe.de/?ts=9cb010ae) - Und das Patentgericht gibt dem auch noch recht.
