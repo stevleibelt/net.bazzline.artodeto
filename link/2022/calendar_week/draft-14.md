@@ -19,3 +19,9 @@
 * [Unreal Engine wurde in der Version 5 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=Unreal-Engine-5-Released)
 * [Firefox wurde in der Version 99.0 und 91.8 ESR veröffentlicht.](https://www.borncity.com/blog/2022/04/05/firefox-99-0-und-91-8-0esr-freigegeben-2/)
 * [LXD wurde in der Version 5.0 LTS veröffentlicht.](https://lwn.net/Articles/890259/)
+* [Realitätsabgleich "Wie sicher lebt man in Deutschland?". Antwort: Sehr sicher!](https://netzpolitik.org/2022/polizeiliche-kriminalstatistik-deutschland-schon-wieder-sicherer-und-viele-denken-das-gegenteil/)
+* [mdr.de: >>Domkantor von Freiberg wird neuer Sächsischer Kultursenats-Präsident<<](https://www.mdr.de/kultur/sachsen-kultursenat-praesident-koch-100.html) - Herzlichen Glückwunsch und Glück Auf!
+* [WordPress wurde in der Version 5.9.3 veröffentlicht.](https://www.borncity.com/blog/2022/04/06/wordpress-5-9-3-freigegeben/)
+* [Ihr überlegt euch ob ihr euch in RUST einarbeitet? Hier gibt es eine Roadmap für das Jahr 2024.](https://blog.rust-lang.org/inside-rust/2022/04/04/lang-roadmap-2024.html) - Bleibt also, die Sprache :-)
+* [Wie baut man eigentlich Pakete für Arch Linux? Hier wird es euch erklärt.](https://sleepmap.de/2022/packaging-for-arch-linux/)
+* [VMware ist kaputt.](https://www.bleepingcomputer.com/news/security/vmware-warns-of-critical-vulnerabilities-in-multiple-products/)
