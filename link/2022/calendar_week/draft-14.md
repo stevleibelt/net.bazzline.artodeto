@@ -31,3 +31,10 @@
 * [Haha, die Industrie baut so kaputte Verpackungen, dass die Entsorgung der Gemeinschaft teuer zu stehen kommt.](https://www.sonnenseite.com/de/umwelt/muelltrennung-ist-fuer-verbraucherinnen-und-verbraucher-zu-kompliziert-geworden/)
 * [PAlo Alto Netzworks ist kaputt.](https://www.bleepingcomputer.com/news/security/palo-alto-networks-firewalls-vpns-vulnerable-to-openssl-bug/)
 * [Intel, die Firma die von sich selbst behauptet die schlausten in Sachen Prozessortechnik zu sein, haben mit den Augen geklaut und patentieren nun eine von AMD 2016 erfundene Technik.](https://blog.fefe.de/?ts=9cb010ae) - Und das Patentgericht gibt dem auch noch recht.
+* [Altassian Cloud ist kaputt.](https://blog.fefe.de/?ts=9cb19463)
+* [Da wollten die mit ihrer Salamietaktik die ganze Zeit hin. In NRW bestimmt jetzt eine KI was freie Meinung im Netz ist und was nicht.](https://blog.fefe.de/?ts=9cb13c72)
+* [Die ehemaligen Einwanderer und aktuellen Plünderer von Kanada überlegen jetzt, dass neue Einwanderer keine Häuser mehr in Kanada kaufen dürfen.](https://blog.fefe.de/?ts=9cb13d4e)
+* [OpenSSH wurde in der Version 9.0 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=OpenSSH-9.0-Released)
+* [Innerhalb eines Git-Repositories zum Root kommen? `git rev-parse --show-toplevel` regelt.](https://opensource.com/article/22/4/git-repo-rev-parse)
+* [Rust wurde in der Version 1.60.0 veröffentlicht.](https://lwn.net/Articles/890634/)
+* [Das Plastik der Menschen hat die Arktis erreicht.](https://www.sonnenseite.com/de/wissenschaft/die-globale-plastikflut-erreicht-die-arktis/)
