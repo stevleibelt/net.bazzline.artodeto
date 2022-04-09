@@ -38,3 +38,9 @@
 * [Innerhalb eines Git-Repositories zum Root kommen? `git rev-parse --show-toplevel` regelt.](https://opensource.com/article/22/4/git-repo-rev-parse)
 * [Rust wurde in der Version 1.60.0 veröffentlicht.](https://lwn.net/Articles/890634/)
 * [Das Plastik der Menschen hat die Arktis erreicht.](https://www.sonnenseite.com/de/wissenschaft/die-globale-plastikflut-erreicht-die-arktis/)
+* [Hanfprotein als natürlicher Proteinliferant welcher ein Abfallstoff der Hanfölherstellung ist.](https://www.careelite.de/hanfprotein/)
+* [Kanal9TV: >>6. Osterbrunnenfest in Oederan<<](https://www.youtube.com/watch?v=wpKkDxzcyHs)
+* [Kanal9TV: >>Stadtführung Freiberg<<](https://www.youtube.com/watch?v=9WzIJDKcFVc)
+* [Windows 10 20H2 ist im Mai End of Life.](https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-10-20h2-reaches-end-of-service-next-month/)
+* [Nachdem die letzten Microsoft Patches alle nur Probleme gemacht haben, bietet Microsoft diese Qualität nun als "Autopatch"-Funktionalität gegen Aufpreis an.](https://www.borncity.com/blog/2022/04/09/autopatch-fr-windows-10-11-enterprise-e3-e5-ab-juli-2022/) - Ihr bezahlt dann Geld, damit ihr euch eher als der Rest der Welt mit kaputten Patches rumschlagen müsst.
+* [Wine wurde in der Version 7.6 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=Wine-7.6-Released)
