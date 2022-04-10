@@ -44,3 +44,7 @@
 * [Windows 10 20H2 ist im Mai End of Life.](https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-10-20h2-reaches-end-of-service-next-month/)
 * [Nachdem die letzten Microsoft Patches alle nur Probleme gemacht haben, bietet Microsoft diese Qualität nun als "Autopatch"-Funktionalität gegen Aufpreis an.](https://www.borncity.com/blog/2022/04/09/autopatch-fr-windows-10-11-enterprise-e3-e5-ab-juli-2022/) - Ihr bezahlt dann Geld, damit ihr euch eher als der Rest der Welt mit kaputten Patches rumschlagen müsst.
 * [Wine wurde in der Version 7.6 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=Wine-7.6-Released)
+* [>>Fast in jedem Smartphone steckt "Made in Freiberg"<<](https://www.freiberg.de/stadt-und-buerger/aktuelles/neuigkeiten/fast-in-jedem-smartphone-steckt-made-in-freiberg)
+* [DisplayLink USB Treiber wurde in der Version 5.5 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=DisplayLink-Linux-Driver-5.5)
+* [`resolvectl flush-caches`](https://www.putorius.net/how-to-flush-local-dns-cache-on-linux.html)
+* [Drucker per Gruppenrichtlinie verteilen? Herr Heitbrink hat da eine andere Idee.](https://www.gruppenrichtlinien.de/artikel/drucker-verteilen-besser-wird-es-nicht)
