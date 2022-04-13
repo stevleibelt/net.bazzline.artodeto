@@ -13,3 +13,14 @@
 * [DisplayLink ist auch unter Windows kaputt](https://answers.microsoft.com/en-us/windows/forum/all/windows-driver-foundation-user-mode-driver/b2ddbc5f-2a07-41ac-931a-a2eb90174b22) - Stichwort "High cpu load windows driver foundation usermode driverframework hostprocess"
 * [Der Freistaat Sachsen hat alle Schulferien bis ins Jahr 2030 festgelegt.](https://www.schule.sachsen.de/schuljahrestermine-4793.html)
 * [Qt wurde in der Version 6.3 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=Qt-6.3-Released)
+* [Das in Freiberg entwickelte Lastenrad kann jetzt genutzt werden.](https://tu-freiberg.de/presse/steigtum-startet-reallabor) - Ein Schritt näher zur Produktionsreife - SteigtUM
+* [`screen -S <PID>.<current session name> -X sessionname <new session name>`, falls ihr mal eine screen Sitzung umbenennen müsst.](https://www.shellhacks.com/screen-rename-session/)
+* [`about:config` -> `image.avif.enable:true`, falls ihr euch wundert, dass euer Firefox das Bildformat nicht öffnet.](https://ptrace.fefe.de/cybervolvic.avif) - Ich dachte ja, dass dies Firefox seit Ewigkeiten nativ kann, aber falsch gedacht, wenn man mit der ESR-Version schippert :-).
+* [Der Direktor des Instituts für Bohrtechnik und Fluidbergbau von der TU Bergakademie Freiberg, Herr Mohammed Amro, kann sich hier ganz kurz über das Thema Fracking kund tun.](https://www.mdr.de/wissen/erdgas-fracking-potenzial-in-deutschland-100.html)
+* [Git war kaputt.](https://lwn.net/Articles/891112/)
+* [Was kann passieren, wenn man unter Debain mit der falschen `source.list` arbeitet? Viel!](https://utcc.utoronto.ca/~cks/space/blog/linux/AptSourcesManglingEffects) - Eine Kurze Prüfung ala `if cat source.list | grep -q bullseye` bevor die ganzen Automatisierungsskripte loslaufen und schon ist das Problem behoben.
+* [nushell wurde in der Version 0.61.0 veröffentlicht.](https://github.com/nushell/nushell/releases/tag/0.61.0)
+* [Total Registry wurde in der Version v0.95 veröffentlicht.](https://github.com/zodiacon/TotalRegistry/releases/tag/v0.95)
+* [firefly-iii wurde in der Version 5.7.2 veröffentlicht.](https://github.com/firefly-iii/firefly-iii/releases/tag/5.7.2)
+* [HeidiSQL wurde in der Version 12.0 veröffentlicht.](https://github.com/HeidiSQL/HeidiSQL/releases/tag/12.0)
+* [tacticalrmm wurde in der Version v.0.12.4 veröffentlicht.](https://github.com/amidaware/tacticalrmm/releases/tag/v0.12.4)
