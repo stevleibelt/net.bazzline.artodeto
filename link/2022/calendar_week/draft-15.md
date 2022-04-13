@@ -24,3 +24,4 @@
 * [firefly-iii wurde in der Version 5.7.2 veröffentlicht.](https://github.com/firefly-iii/firefly-iii/releases/tag/5.7.2)
 * [HeidiSQL wurde in der Version 12.0 veröffentlicht.](https://github.com/HeidiSQL/HeidiSQL/releases/tag/12.0)
 * [tacticalrmm wurde in der Version v.0.12.4 veröffentlicht.](https://github.com/amidaware/tacticalrmm/releases/tag/v0.12.4)
+* [Die 17. FrOSCon findet vom 20.08.2022 bis 21.08.2022 in Sankt Augustin statt.](https://www.froscon.de/)
