@@ -25,3 +25,20 @@
 * [HeidiSQL wurde in der Version 12.0 veröffentlicht.](https://github.com/HeidiSQL/HeidiSQL/releases/tag/12.0)
 * [tacticalrmm wurde in der Version v.0.12.4 veröffentlicht.](https://github.com/amidaware/tacticalrmm/releases/tag/v0.12.4)
 * [Die 17. FrOSCon findet vom 20.08.2022 bis 21.08.2022 in Sankt Augustin statt.](https://www.froscon.de/)
+* [EndeavourOS gibt es jetzt auch für ARM :-).](https://arm.endeavouros.com/)
+* [Weniger als zehn Prozent der deutschen Fließgewässer sind in einem guten Zustand.](https://www.sonnenseite.com/de/umwelt/wie-gesund-sind-unsere-baeche/)
+* [Ihr wollt, oder müsst, in der Cloud entwickeln? Hier gibt es fünf freie Werkzeuge, die ihr nutzen könnt.](https://opensource.com/article/22/4/open-source-tools-developing-cloud)
+* [Selbst das DIW hält den Bau eines Flüssiggasterminals vor Wilhelmshaven für Geldverschwendung.](https://www.sonnenseite.com/de/politik/schneller-verzicht-auf-russisches-gas-moeglich/) - Es würden große Mengen an Gelder verschwendet um eine nicht zukunftsfähige Lösung zu schaffen. Lieber die bestehende Infrastruktur nutzen bis Deutschland das Erdgas-Zeitalter überwunden hat.
+* [Firefox wurde in der Version 99.0.1 veröffentlicht.](https://www.borncity.com/blog/2022/04/13/firefox-99-0-1-freigegeben/)
+* [Microsoft Windows ist kaputt.](https://blog.fefe.de/?ts=9ca8494f) - Deren NFS-Server im übrigen auch.
+* [LLVM wurde in der Version 14.0.1 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=LLVM-14.0.1-Released)
+* [Gewinne privatisieren, Verluste Sozialisieren. Die FDP schenkt den Ölmultis mit ihrem >>Tankrabatt<< 3 Milliarden Euro deutsches Steuergeld.](https://www.sonnenseite.com/de/mobilitaet/tankrabatt-kostet-mehr-als-drei-milliarden-euro/) - Öffentlicher Nah- und Fernverkehr? Staatliche Schulen? All das interessiert einen FDP-Marktfreien nicht, er will nur gemütlich mit 350 über die deutsche Autobahn ballern.
+* [SUSE wird jetzt zur Adaptable Linux Plattform.](https://www.phoronix.com/scan.php?page=news_item&px=SUSE-Adaptable-Linux-Platform)
+* [Frau Vollmer beschäftigt sich auf dem Verfassungsblog mit dem Thema Gasembargo und dessen Folgen.](https://verfassungsblog.de/whatever-it-takes-2/)
+* [Remote-Desktop-Gateway weiterhin unter Windows Server 2022 kaputt.](https://www.borncity.com/blog/2022/04/14/windows-server-2022-update-kb5012604-verursacht-probleme-mit-remote-desktop-gateway/)
+* [Was macht den Lebensraum der Tiere kaputt? Straßen, Zäune, Gebäude und Licht.](https://www.sonnenseite.com/de/wissenschaft/schutz-der-biodiversitaet-dunkle-infrastruktur-schaffen/) - Das Gemeine am Licht ist, dass die Lichtverschmutzung so ewig weit strahlt.
+* [`-?` unter Unix? Ja, geht aber historisch gesehen eher blöd. Nutzt halt `-h` und lebt damit.](https://utcc.utoronto.ca/~cks/space/blog/unix/GetoptQuestionOptionForHelp)
+* [Apache Struts RCE kann noch kaputt sein, bitte patchen.](https://www.bleepingcomputer.com/news/security/critical-apache-struts-rce-vulnerability-wasnt-fully-fixed-patch-now/)
+* [Die Deutsche Bahn stellt klar, dass sie kein Stück am Datenschutz interessiert ist.](https://www.kuketz-blog.de/presserueckmeldung-der-deutschen-bahn-db-navigator-eingegangen/)
+* [Lando wurde in der Version v3.63 veröffentlicht.](https://github.com/lando/lando/releases/tag/v3.6.3)
+* [laminas-mvc-skeleton wurde in der Version 1.4.0 veröffentlicht.](https://github.com/laminas/laminas-mvc-skeleton/releases/tag/1.4.0)
