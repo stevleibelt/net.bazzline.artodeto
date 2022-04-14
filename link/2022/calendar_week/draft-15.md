@@ -42,3 +42,7 @@
 * [Die Deutsche Bahn stellt klar, dass sie kein Stück am Datenschutz interessiert ist.](https://www.kuketz-blog.de/presserueckmeldung-der-deutschen-bahn-db-navigator-eingegangen/)
 * [Lando wurde in der Version v3.63 veröffentlicht.](https://github.com/lando/lando/releases/tag/v3.6.3)
 * [laminas-mvc-skeleton wurde in der Version 1.4.0 veröffentlicht.](https://github.com/laminas/laminas-mvc-skeleton/releases/tag/1.4.0)
+* [Ihr seid Klimaschützer? Lieber nicht in Augsburg, dort werden Klimaschützer wie Staatsfeinde behandelt. Eine falsche Äußerung und zack, gibt es eine Hausdurchsuchung.](https://blog.fefe.de/?ts=9ca9d029)
+* [Cloud-Hypervisor wurde in der Version v23.0 veröffentlicht.](https://github.com/cloud-hypervisor/cloud-hypervisor/releases/tag/v23.0)
+* [Die Luca-App war für den Steuerzahler nur eins, teuer.](https://www.borncity.com/blog/2022/04/14/bye-bye-luca-app-spielt-fr-die-covid-19-nachverfolgung-keine-rolle-mehr/) - Was dreist ist, die Macher löschen die gesammelten Daten nicht, sondern wollen damit weitere Gewinne maximieren.
+* [Der FeFe wieder, zeigt er uns den politischen Ukraniekonflikt als doch nicht so einfach erklärbar auf.](https://blog.fefe.de/?ts=9ca9cea7)
