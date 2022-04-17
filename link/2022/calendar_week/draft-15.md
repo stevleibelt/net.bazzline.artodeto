@@ -46,3 +46,5 @@
 * [Cloud-Hypervisor wurde in der Version v23.0 veröffentlicht.](https://github.com/cloud-hypervisor/cloud-hypervisor/releases/tag/v23.0)
 * [Die Luca-App war für den Steuerzahler nur eins, teuer.](https://www.borncity.com/blog/2022/04/14/bye-bye-luca-app-spielt-fr-die-covid-19-nachverfolgung-keine-rolle-mehr/) - Was dreist ist, die Macher löschen die gesammelten Daten nicht, sondern wollen damit weitere Gewinne maximieren.
 * [Der FeFe wieder, zeigt er uns den politischen Ukraniekonflikt als doch nicht so einfach erklärbar auf.](https://blog.fefe.de/?ts=9ca9cea7)
+* [GNU coreutils wurde in der Version 9.1 veröffentlicht.](https://lwn.net/Articles/891574/)
+* [LXQt wurde in der Version 1.1 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=LXQt-1.1-Released)
