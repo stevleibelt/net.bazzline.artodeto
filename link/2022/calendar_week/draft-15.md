@@ -48,3 +48,8 @@
 * [Der FeFe wieder, zeigt er uns den politischen Ukraniekonflikt als doch nicht so einfach erklärbar auf.](https://blog.fefe.de/?ts=9ca9cea7)
 * [GNU coreutils wurde in der Version 9.1 veröffentlicht.](https://lwn.net/Articles/891574/)
 * [LXQt wurde in der Version 1.1 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=LXQt-1.1-Released)
+* [Nein? Doch! Oh? Deutschland wurde 2021 dreckiger was die Umweltverschmutzung angeht.](https://www.sonnenseite.com/de/politik/bilanz-des-expertenrats-fuer-klimafragen-deutschland-wurde-2021-co%e2%82%82-schmutziger/)
+* [Hetzner verliert eure Daten? Kein Problem, 20 Euro Gutschein für den eigenen Webshop und vergessen ist die Geschichte.](https://www.bleepingcomputer.com/news/security/hetzner-lost-customer-data-and-gave-20-as-compensation/)
+* [Demokratie? Ach scheiß drauf. Ich kauf mir Twitter.](https://netzpolitik.org/2022/elon-musk-will-twitter-kaufen-die-machtkonzentration-ist-gefaehrlich/)
+* [Wie Cryptomining, nur anders. Da wird jetzt ein x86-64 Emulator für RISC-Prozessoren geschrieben.](https://www.phoronix.com/scan.php?page=news_item&px=Box86-0.2.6-Box64-0.1.8) - Hoffentlich unterstützen die auch PS/2!
+* [Ostafrika? Dort kommen doch die schönen Blumen her! Ja, denn Menschen schaffen es nicht mehr, die verhungern vor Ort für unsere Blumen.](https://netzfrauen.org/2022/04/15/africa-27/)
