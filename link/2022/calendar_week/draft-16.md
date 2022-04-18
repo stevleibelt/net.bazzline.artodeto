@@ -1,0 +1,6 @@
+* [PostmarkOS wurde in der Version v21.12 Service Pack 4 veröffentlicht.](https://postmarketos.org/blog/2022/04/18/v21.12.4-release/)
+* [OpenWRT wurde in der Version 21.02.3 veröffentlicht.](https://openwrt.org/releases/21.02.3?rev=1650218589&do=diff)
+* [OpenWRT wurde in der Version 19.07.10 veröffentlicht.](https://openwrt.org/releases/19.07.10?rev=1650218555&do=diff)
+* [ClamAV? Hier wird es euch erklärt.](https://www.putorius.net/install-configure-and-scan-for-viruses-on-linux-with-clamav.html)
+* [Ein Landwirt in Kalifornien hat derweil eine biodynamische Antwort zur Landwirtschaft gefunden.](https://netzfrauen.org/2022/04/17/climatechange-19/)
+* [Tdarr scheint das zu sein, was ich mit meinem distributed_media_converter umsetzen wollte.](https://tdarr.io/)
