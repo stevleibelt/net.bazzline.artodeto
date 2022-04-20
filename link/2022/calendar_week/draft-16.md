@@ -18,3 +18,8 @@
 * [Mit Zabbix könnt ihr auch eure Docker Container überwachen.](https://blog.zabbix.com/docker-container-monitoring-with-zabbix/20175/)
 * [7-Zip ist bis zur Version 21.07 kaputt.](https://www.borncity.com/blog/2022/04/19/7-zip-schwachstelle-cve-2022-29072-ermglicht-systemprivilegien/)
 * [Debian zeigt ein echtes Problem bei der heutigen Hardware auf. Ohne ungepflegte binärtreiber aka Firmware, ist fast jede Hardware reiner Schrott.](https://www.phoronix.com/scan.php?page=news_item&px=Debian-Considering-Firmware) - Das ist auch der Grund, warum Debian oder BSD "augenscheinlich" so schlecht auf neuer Hardware laufen.
+* [Ryan Olson hat für vscode das Zenburn-Farbschema portiert. Danke!](https://github.com/ryanolsonx/vscode-zenburn-theme)
+* [Das RageCage Bierkampf-Turnier der TUBAF geht in die 2022-er Runde.](https://linktr.ee/bk_ragecage)
+* [Den BigBrotherAwards fehlen noch 30.000 Euro.](https://aktion.digitalcourage.de/spenden-bba)
+* [ECDSA ist in Java 15, 16, 17 und 18 kaputt.](https://neilmadden.blog/2022/04/19/psychic-signatures-in-java/)
+* [Mit der Polizei reden wenn sie euch beschuldigt etwas getan zu haben? Nie eine gute Idee.](https://blog.fefe.de/?ts=9ca07dfa)
