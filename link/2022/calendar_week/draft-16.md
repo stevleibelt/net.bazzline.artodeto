@@ -23,3 +23,9 @@
 * [Den BigBrotherAwards fehlen noch 30.000 Euro.](https://aktion.digitalcourage.de/spenden-bba)
 * [ECDSA ist in Java 15, 16, 17 und 18 kaputt.](https://neilmadden.blog/2022/04/19/psychic-signatures-in-java/)
 * [Mit der Polizei reden wenn sie euch beschuldigt etwas getan zu haben? Nie eine gute Idee.](https://blog.fefe.de/?ts=9ca07dfa)
+* [Nein? Doch! Oh? Man kann Backdoors in Machine Lerning Models einbauen die keiner mehr findet.](https://blog.fefe.de/?ts=9ca10a7a)
+* [Crypto-Wallet in der Cloud? JAWOHL!!!](https://blog.fefe.de/?ts=9ca122cd)
+* [MySQL ist elf Mal ganz kaputt.](https://blog.fefe.de/?ts=9ca11b59)
+* [mdr.de: Fünf Kandidaten für die kommende Oberbürgermeisterwahl in Freiberg.](https://www.mdr.de/nachrichten/sachsen/chemnitz/freiberg/wahl-oberbuergermeister-freiberg-kandidaten-100.html)
+* [Nein? Doch! Oh? Die neuen Anreize der Gigabitstrategie zeigt die Zügelosigkeit des freien Marktes, Gewinne werden privatisiert und Verluste sozialisiert.](https://netzpolitik.org/2022/foerderung-des-breitbandausbau-kommunen-fuerchten-rosinenpicken-der-netzbetreiber/) - Sollen doch die ewig klammen Stadtwerke später ihre Kilobitstrategie auf dem Land ausrollen!
+* [QEMU wurde in der Version 7.0 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=QEMU-7.0-Released)
