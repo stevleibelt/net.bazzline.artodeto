@@ -10,3 +10,11 @@
 * [Gerade heute erst gefunden, zfsbootmenu.](https://zfsbootmenu.org/) - Native Verschlüsseung unter Arch Linux mit ZFS inklusive `/boot`
 * [git wurde in der Version 2.36.0 veröffentlicht.](https://lwn.net/Articles/891733/)
 * [Was ist in so einer Android Anwendung drinne und warum ist die so fett?](https://www.kuketz-blog.de/android-apps-auf-dem-seziertisch-was-ist-drin/) - Im Regelfall ist google- oder hackfressenbuch-tracking drinne. Kuketz zeigt euch auch gleich, wie man Android Anwendungen überprüfen kann.
+* [dot-matrix wurde in der Version 3.2.0 veröffentlicht.](https://github.com/lainsce/dot-matrix/releases/tag/3.2.0)
+* [Lando wurde in der Version v3.6.4 veröffentlicht.](https://github.com/lando/lando/releases/tag/v3.6.4)
+* [Jodel geht immer!](https://tuxproject.de/blog/2022/04/berlin-2022/) - Eselsalptraum.de also, so, so, jodelhiho
+* [Bayer macht die Geldbörse auf und schon ist Glyphosat wieder nicht mehr ein so schlimmes Umweltgift.](https://netzfrauen.org/2022/04/19/dairy-6/)
+* [Hier wird euch gezeigt, wie ihr SMB unter Windows härten könnt.](https://4sysops.com/archives/the-smb-protocol-all-you-need-to-know/)
+* [Mit Zabbix könnt ihr auch eure Docker Container überwachen.](https://blog.zabbix.com/docker-container-monitoring-with-zabbix/20175/)
+* [7-Zip ist bis zur Version 21.07 kaputt.](https://www.borncity.com/blog/2022/04/19/7-zip-schwachstelle-cve-2022-29072-ermglicht-systemprivilegien/)
+* [Debian zeigt ein echtes Problem bei der heutigen Hardware auf. Ohne ungepflegte binärtreiber aka Firmware, ist fast jede Hardware reiner Schrott.](https://www.phoronix.com/scan.php?page=news_item&px=Debian-Considering-Firmware) - Das ist auch der Grund, warum Debian oder BSD "augenscheinlich" so schlecht auf neuer Hardware laufen.
