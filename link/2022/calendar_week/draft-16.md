@@ -29,3 +29,13 @@
 * [mdr.de: Fünf Kandidaten für die kommende Oberbürgermeisterwahl in Freiberg.](https://www.mdr.de/nachrichten/sachsen/chemnitz/freiberg/wahl-oberbuergermeister-freiberg-kandidaten-100.html)
 * [Nein? Doch! Oh? Die neuen Anreize der Gigabitstrategie zeigt die Zügelosigkeit des freien Marktes, Gewinne werden privatisiert und Verluste sozialisiert.](https://netzpolitik.org/2022/foerderung-des-breitbandausbau-kommunen-fuerchten-rosinenpicken-der-netzbetreiber/) - Sollen doch die ewig klammen Stadtwerke später ihre Kilobitstrategie auf dem Land ausrollen!
 * [QEMU wurde in der Version 7.0 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=QEMU-7.0-Released)
+* [gitea wurde in der Version v1.16.6 veröffentlicht.](https://github.com/go-gitea/gitea/releases/tag/v1.16.6)
+* [VirtualBox wurde in der Version 6.1.34 veröffentlicht.](https://www.borncity.com/blog/2022/04/21/virtualbox-6-1-34-freigegeben/)
+* [Am 24.04.2022 feiert der Rothschönberger Stolln seine 145 Jahresfeier.](https://www.klosterbezirk-altzella.com/2022/04/13/145-jahre-rothschoenberger-stolln/)
+* [OpenWrt 19.07 ist out of support.](https://openwrt.org/releases/19.07/start)
+* [VLC wurde in der Version 3.0.17.4 veröffentlicht.](https://www.borncity.com/blog/2022/04/20/vlc-3-0-17-4-freigegeben/)
+* [Linux wurde in der Version 5.15.35 veröffentlicht.](https://www.phoronix.com/scan.php?page=article&item=linux-51535-adl&num=1)
+* [Thunderbird wurde in der Version 91.8.1 veröffentlicht.](https://www.borncity.com/blog/2022/04/20/thunderbird-version-91-8-1/)
+* [SNMP unter Windows installieren? Hier wird euch geholfen.](http://woshub.com/install-configure-snmp-service-windows/)
+* [Hier erfahrt ihr alles Wichtige über den NetworkManager.](https://opensource.com/article/22/4/networkmanager-linux)
+* [Linux und Virtualisierung? `virt-manager` scheint einenm da viel Last zu nehmen.](https://utcc.utoronto.ca/~cks/space/blog/linux/VirtManagerMySetupSoFar)
