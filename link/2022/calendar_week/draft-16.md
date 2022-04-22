@@ -5,7 +5,7 @@
 * [Ein Landwirt in Kalifornien hat derweil eine biodynamische Antwort zur Landwirtschaft gefunden.](https://netzfrauen.org/2022/04/17/climatechange-19/)
 * [Tdarr scheint das zu sein, was ich mit meinem distributed_media_converter umsetzen wollte.](https://tdarr.io/)
 * [Falls ihr wissen wollt welchen Sinn eine europaweite eID auf Blockchainbasis in Europa hat.](https://blog.fefe.de/?ts=9ca31a23)
-* [Radicale wurde in der Version v3.1.6 veröffentlicht.](https://github.com/Kozea/Radicale/releases/tag/v3.1.6)
+* [Radicale wurde in der Version v3.1.7 veröffentlicht.](https://github.com/Kozea/Radicale/releases/tag/v3.1.7)
 * [Jitsi-Meet wurde in der Version 2.0.7210 veröffentlicht.](https://github.com/jitsi/jitsi-meet/releases/tag/stable/jitsi-meet_7210)
 * [Gerade heute erst gefunden, zfsbootmenu.](https://zfsbootmenu.org/) - Native Verschlüsseung unter Arch Linux mit ZFS inklusive `/boot`
 * [git wurde in der Version 2.36.0 veröffentlicht.](https://lwn.net/Articles/891733/)
@@ -39,3 +39,18 @@
 * [SNMP unter Windows installieren? Hier wird euch geholfen.](http://woshub.com/install-configure-snmp-service-windows/)
 * [Hier erfahrt ihr alles Wichtige über den NetworkManager.](https://opensource.com/article/22/4/networkmanager-linux)
 * [Linux und Virtualisierung? `virt-manager` scheint einenm da viel Last zu nehmen.](https://utcc.utoronto.ca/~cks/space/blog/linux/VirtManagerMySetupSoFar)
+* [PHP infection wurde in der Version 0.26.7 veröffentlicht.](https://github.com/infection/infection/releases/tag/0.26.7)
+* [Keycloak wurde in der Version 18.0.0 veröffentlicht.](https://github.com/keycloak/keycloak/releases/tag/18.0.0)
+* [Nextcloud wurde in der Version 23.0.4 und 22.2.7 veröffentlicht.](https://nextcloud.com/blog/nextcloud-23-0-4-and-22-2-7-are-out-plus-test-releases/)
+* [Gefickt eingeschädelt, die USA hat es geschafft, dass Russland jetzt als "Schurkenstaat" gesehen wird, Europa sich von Russland weiter distanziert und sich damit so stark schwächt, dass die leere Hülle der US-Amerikanischen Wirtschaft wieder anfängt zu leben.](https://weltnetz.tv/story/2637-der-dollar-schluckt-den-euro)
+* [Am 27.04.2022 gibt es einen Lifestream zum Thema >>Zeitkapsel 01 - 12inchKid<<.](https://www.rave-strikes-back.de/?p=10869)
+* [Proton wurde in der Version 7.0-2 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=Proton-7.0-2-Released)
+* [Die >>wie aktualisiere ich mein OpenWrt<<-Anleitung wurde um ein >>post-upgrade<<-Eintrag erweitert.](https://openwrt.org/docs/guide-quick-start/sysupgrade.luci)
+* [OpenBSD wurde in der Version 7.1 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=OpenBSD-7.1-Released)
+* [Da ist PowerShell halt schon echt nett, PowerShell kann super mit Microsoft Excel-Dateien auf der Kommandozeile.](https://4sysops.com/archives/export-and-import-to-and-from-excel-with-the-powershell-module-importexcel/)
+* [GCC wurde in der Version 11.3 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=GCC-11.3-Released)
+* [Die EU arbeitet ernsthaft daran Bitcoin zu verbieten.](https://netzpolitik.org/2022/interne-dokumente-eu-tueftelt-an-bitcoin-verbot/) - Auch der Handel mit Bitcoin soll verboten werden. Grund, Bitcoin verbraucht zu viel Strom und hat nicht die nennenswerte Menge an EU-Bürgern geschafft, um als schützenswert zu gelten
+* [lando wurde in der Version v3.6.5 veröffentlicht.](https://github.com/lando/lando/releases/tag/v3.6.5)
+* [workerman wurde in der Version 4.0.34 veröffentlicht.](https://github.com/walkor/workerman/releases/tag/4.0.34)
+* [Matthias Noback beschäftigt sich hier mit einem spannenden Thema >>DDD entities and ORM entities<<.](https://matthiasnoback.nl/2022/04/ddd-entities-and-orm-entities/)
+* [Google möchte ab dem 11.05.2022 keine Anwendungen mehr in den AppStore aufnehmen, die heimlich Telefonate raus schmeißen.](https://blog.fefe.de/?ts=9c9f8e49) - Bestehende Anwendungen? Bestandsschutz! Google Anwendungen? Hier kann >>Ich hab recht<< trennen!
