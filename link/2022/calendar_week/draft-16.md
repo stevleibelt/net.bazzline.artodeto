@@ -54,3 +54,5 @@
 * [workerman wurde in der Version 4.0.34 veröffentlicht.](https://github.com/walkor/workerman/releases/tag/4.0.34)
 * [Matthias Noback beschäftigt sich hier mit einem spannenden Thema >>DDD entities and ORM entities<<.](https://matthiasnoback.nl/2022/04/ddd-entities-and-orm-entities/)
 * [Google möchte ab dem 11.05.2022 keine Anwendungen mehr in den AppStore aufnehmen, die heimlich Telefonate raus schmeißen.](https://blog.fefe.de/?ts=9c9f8e49) - Bestehende Anwendungen? Bestandsschutz! Google Anwendungen? Hier kann >>Ich hab recht<< trennen!
+* [An dem Beispiel kann jeder sehen, dass google auch nur ein drecks Konzern ohne Herz ist. Nach 150 Millionen Euro Strafe hat es Google am letzten Tag geschafft, gerade so mal ein fast Minimum an DSVFO-Konformität hinzukriegen.](https://netzpolitik.org/2022/alle-cookies-ablehnen-danke-fuer-das-absolute-minimum-google/)
+* [Nils Melzer schaut scih einmal das Thema Polizeigewalt in Deutschland an. Erschreckend ist das erste Ergebnis. Es wird nichts aufgezeichnet, damit niemand hinschauen oder gar handeln muss.](https://blog.fefe.de/?ts=9c9ca5d7)
