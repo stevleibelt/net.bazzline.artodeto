@@ -61,3 +61,4 @@
 * [Kanal9TV: Freiberg - SteigtUM](https://www.youtube.com/watch?v=QuA7vijj8qA)
 * [Mit >>Rusticl<< kommt Rust jetzt auch in OpenCL.](https://www.phoronix.com/scan.php?page=news_item&px=Mesa-OpenCL-3.0-CTS-Passes)
 * [Auf Netzpolitik.org wird über das Modewort Web3 und Blockchain geredet.](https://netzpolitik.org/2022/npp-252-zu-web3-zurueck-in-die-zukunft/)
+* [Nein? Doch! Oh? Über Metadaten kann man genaue Profile des Nutzers erstellen.](https://blog.fefe.de/?ts=9c9b9b6c) - Zum Beispiel ob der Nutzer beim CIA arbeitet.
