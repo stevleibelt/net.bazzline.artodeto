@@ -8,3 +8,6 @@
 * [tacticalrmm wurde in der Version v0.13.3 veröffentlicht.](https://github.com/amidaware/tacticalrmm/releases/tag/v0.13.3)
 * [harfbuzz wurde in der Version 4.2.1 veröffentlicht.](https://github.com/harfbuzz/harfbuzz/releases/tag/4.2.1)
 * [waffenexporte.org - eine Wunderbare Seite über die deutsche Rüstungsindustrie.](https://www.waffenexporte.org/category/empfaengerlaender/)
+* [WolfireGames hat die Engine hinter Overgrowth unter der Apache 2 Lizenz veröffentlicht.](https://github.com/WolfireGames/overgrowth)
+* [Der Verfassungsblog zeigt mit der Möglichkeit der Marktzugangsbeschränkung eine wirksame Regulierung für die Wohnungsproblematiken auf.](https://verfassungsblog.de/wohnungsmarkt-ohne-borsendruck/) - Schade nur, dass jeder Politiker an der Überhitzung der Wohnungsmärkte in Metropolen mitverdient.
+* [Hier werdet ihr in das Thema systemd-unit hardening eingeführt.](https://www.opensourcerers.org/2022/04/25/optimizing-a-systemd-service-for-security/)
