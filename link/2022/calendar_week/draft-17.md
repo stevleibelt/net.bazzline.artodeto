@@ -4,3 +4,7 @@
 * [Realitätsabgleich BAföG nach 50 Jahren.](https://bafoeg50.de/) - Die Versprechungen waren super, doch mit den Jahren wurde die Umsetzung immer schlampiger und schlechter.
 * [Wo haben Shell-Skripte ihre Grenzen? Es fängt an, wenn sie nicht skalieren können, weil die Programmaufrufe immer mehr werden.](https://utcc.utoronto.ca/~cks/space/blog/programming/ShellScriptsAndSpeed)
 * [Microsoft beerdigt NetBIOS und LLMNR.](https://www.borncity.com/blog/2022/04/25/microsoft-lsst-netbios-namensauflsung-und-llmnr-zuknftig-auslaufen/)
+* [archzfs iso wurde in der Version 2022-04-23T21:41:40 veröffentlicht.](https://archzfs.leibelt.de/)
+* [tacticalrmm wurde in der Version v0.13.3 veröffentlicht.](https://github.com/amidaware/tacticalrmm/releases/tag/v0.13.3)
+* [harfbuzz wurde in der Version 4.2.1 veröffentlicht.](https://github.com/harfbuzz/harfbuzz/releases/tag/4.2.1)
+* [waffenexporte.org - eine Wunderbare Seite über die deutsche Rüstungsindustrie.](https://www.waffenexporte.org/category/empfaengerlaender/)
