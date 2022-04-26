@@ -21,3 +21,6 @@
 * [Der Tankrabat von der FDP verstößt dann mal gegen Artikel 20a des Grundgesetzes.](https://verfassungsblog.de/der-tankrabatt-verstost-gegen-art-20a-gg/) - Der Verfassungsblog begründet das auch wunderbar
 * [Die größten Fehler die man agil machen kann?](https://opensource.com/article/22/4/5-agile-mistakes) - Der größte Fehler für mich ist noch immer "Anforderungen zu schreiben, kostet zu viel Zeit". Das ist für mich bis heute eine Art sich vor der Anstrengung und Verantwortung zu drücken
 * [VirusTotal ist kaputt.](https://blog.fefe.de/?ts=9c9905c3)
+* [LinageOS wurde in der Version 19 veröffentlicht.](https://lwn.net/Articles/892644/)
+* [GraalVM CE wurde in der Version 22.1 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=GraalVM-22.1-Released)
+* [Wie wenig sich Shell um Deepwater Horizon kümmert kann man hier nachlesen.](https://netzfrauen.org/2022/04/26/galapagos-3/) - Vorstelle ich als private Person würde Jahrelang die Umwelt kaputt machen, da würde mir der Staat aber Demokratie beibringen du!
