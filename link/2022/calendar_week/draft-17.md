@@ -42,3 +42,6 @@
 * [Zwischen 20 und 50 Prozent wächst der Umsatz bei Microsoft wie auch Google.](https://www.borncity.com/blog/2022/04/27/microsoft-google-quartalsumstze-1-q-2022-kohle-ohne-ende/) - Wir reden hier von einem Wachstum **pro Quartal** und von irgendwas um die 50 bis 70 Milliarden USD Umsatz inklusive rund 20 Millarden Gewinn. Was sagt der marktfreie Aktienmarkt? Die strafen die Aktien ab, weil sie mehr erwartet haben. Solche Zahlen sind der Grund, warum es eine solche Inflation gibt!
 * [LLVM wurde in der Version 14.0.2 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=LLVM-14.0.2-Released)
 * [`systemd-sysext` und was damit gemacht werden soll? Hier wird es euch erklärt.](https://0pointer.net/blog/testing-my-system-code-in-usr-without-modifying-usr.html)
+* [Am 30.04.2022, von 10:00 bis 14:00 gibt es in der Neunen Mensa in Freiberg einen Kindersachen-Flohmarkt.](https://www.freiberg.de/leben-und-freizeit/ausgehen-und-freizeit/veranstaltungen/details/kindersachenflohmarkt)
+* [Am 30.04.2022, ab 16:00 Uhr gibt es auf dem Schloßplatz das Maifeuer.](https://www.freiberg.de/leben-und-freizeit/ausgehen-und-freizeit/veranstaltungen/details/maifeuer-auf-dem-schlossplatz)
+* [Mit `routing.openstreetmaps.org` gibt es einen offiziellen Routenplaner.](https://routing.openstreetmap.de)
