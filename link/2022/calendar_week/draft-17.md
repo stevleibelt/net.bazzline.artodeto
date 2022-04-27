@@ -24,3 +24,16 @@
 * [LinageOS wurde in der Version 19 veröffentlicht.](https://lwn.net/Articles/892644/)
 * [GraalVM CE wurde in der Version 22.1 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=GraalVM-22.1-Released)
 * [Wie wenig sich Shell um Deepwater Horizon kümmert kann man hier nachlesen.](https://netzfrauen.org/2022/04/26/galapagos-3/) - Vorstelle ich als private Person würde Jahrelang die Umwelt kaputt machen, da würde mir der Staat aber Demokratie beibringen du!
+* [Der Klangkreis Thüringen ist wieder zurück mit einer wunderbaren Webseite.](https://kkth.de/)
+* [OPNsense wurde in der Version 22.1.5 veröffentlicht.](https://opnsense.org/opnsense-22-1-5-released/)
+* [Ubuntu 22.04 startet langsam wenn ihr Netzwerkkarten habt, die ihr nicht nutzt oder die nicht mit DHCP laufen.](https://utcc.utoronto.ca/~cks/space/blog/linux/Ubuntu2204SlowServerBoot) - Ich frag mich bei solchen Fehlermeldungen wirklich in welchem Umfeld Ubunto so getestet wird. Genau das passt nicht zu meinem Alltag wie ich Server konfiguriere
+* [Ihr nutzt Windows 11? Dann funktioniert Starmoney, WISO Mein Geld und WISO Konto nicht.](https://www.borncity.com/blog/2022/04/27/windows-11-starmoney-wiso-mein-geld-und-wiso-konto-online-funktionieren-nicht/)
+* [OPNsense wurde in der Version 22.1.6 veröffentlicht.](https://opnsense.org/opnsense-22-1-6-released/)
+* [OPNsense Business Edition wurde in der Verison 22.4 veröffentlicht.](https://opnsense.org/opnsense-business-edition-22-4-released/)
+* [Frauenhofer ISE hat eine Solarzellenproduktionsanlage gebaut, die 15.000 Solarwafer pro Stunde produziert.](https://www.sonnenseite.com/de/wissenschaft/neuentwickelte-on-the-fly-laseranlage-prozessiert-grosse-wafer-in-hochgeschwindigkeit/) - Der Industriestandard liegt im Moment bei 7.000 Solarwafer pro Stunde.
+* [Die US-Amerikanische Lebensweise bedroht seit Jahrzehnten unseren Orbit.](https://www.sonnenseite.com/de/umwelt/der-himmel-benoetigt-schutz-genau-wie-die-erde/) - "Schmeißen wir weg und kaufen es neu" und schwuppst, ist unser Orbit so verschmutzt, dass wir keine Raketen mehr starten können
+* [Geografisch gezielte Vorratsdatenspeicherung ist ein neuer Versuch der anstandslosen und massenhaften Überwachung der Bürger.](https://www.patrick-breyer.de/online-karte-was-geografisch-gezielte-vorratsdatenspeicherung-fuer-deutschland-bedeuten-wuerde/) - Das besondere an diesem Versuch ist, dass sich die Marktfreien und Politiker aus der Vorratsdatenspeicherung rausnehmen lassen können, ganz legal!
+* [Linux ist wegen Nimbuspwn kaputt.](https://www.bleepingcomputer.com/news/security/new-nimbuspwn-linux-vulnerability-gives-hackers-root-privileges/)
+* [Nein? Doch! Oh? Auch das aktuelle Entlastungspaket der Bundesregierung entlastet die oberen Einkommen stärker während die mittleren und unteren Einkommen kaum entlastet werden.](https://www.sonnenseite.com/de/energie/hohe-energiepreise-arme-haushalte-trotz-entlastungspaketen-am-staerksten-belastet/) - Mir das meiste!
+* [Warum wird Russland so provoziert und permanent als Bösewicht hingestellt?](https://blog.fefe.de/?ts=9c963485) - Will die gelangweilte Medienwelt unbedingt einen dritten Weltkrieg? Braucht die überreizte Finanzbranche einen dritten Weltkrieg?
+* [2 Billionen USD pro Jahr, könnte man für die Rettung der Menschheit ausgeben, ODER FÜR WAFFEN EINSEINSELF!](https://blog.fefe.de/?ts=9c96dc74)
