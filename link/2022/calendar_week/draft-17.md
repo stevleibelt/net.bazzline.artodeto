@@ -45,3 +45,12 @@
 * [Am 30.04.2022, von 10:00 bis 14:00 gibt es in der Neunen Mensa in Freiberg einen Kindersachen-Flohmarkt.](https://www.freiberg.de/leben-und-freizeit/ausgehen-und-freizeit/veranstaltungen/details/kindersachenflohmarkt)
 * [Am 30.04.2022, ab 16:00 Uhr gibt es auf dem Schloßplatz das Maifeuer.](https://www.freiberg.de/leben-und-freizeit/ausgehen-und-freizeit/veranstaltungen/details/maifeuer-auf-dem-schlossplatz)
 * [Mit `routing.openstreetmaps.org` gibt es einen offiziellen Routenplaner.](https://routing.openstreetmap.de)
+* [Yoco Project wurde in der Version 4.0 veröffentlicht.](https://lwn.net/Articles/892825/)
+* [mdr.de: Landratswahlen-Check: Mittelsachsen.](https://www.mdr.de/video/mdr-videos/d/video-617524.html)
+* [Welche Datenbanken sind häufig gehackt worden? Redis, MongoDB und Elastic.](https://www.bleepingcomputer.com/news/security/redis-mongodb-and-elastic-2022-s-top-exposed-databases/) - Man kommt an den drei Datenbanken aber auch schwer vorbei.
+* [Fwupd wird, dank der Linux Foundation, immer einfacher für OEM's.](https://www.phoronix.com/scan.php?page=news_item&px=Fwupd-Friendly-Firmware)
+* [Realitätsabgleich gesunder Boden, 40 Prozent ist schon krank.](https://www.sonnenseite.com/de/umwelt/menschheit-verliert-den-boden-unter-den-fuessen/)
+* [Ihr macht BI und bringt eure PostgreSQL/MariaDB an die Kotzgrenze? Etwaig ist Apache Druid etwas für euch.](https://opensource.com/article/22/4/apache-druid-open-source-analytics)
+* [Karl-Ludwig Kley, ein Herr der zu den marktfreien Persone gehört fordert jetzt auf, dass Konzerne wie E.on und Lufthansa doch bitte Vorrang vor Privathaushalten haben sollen.](https://blog.fefe.de/) - Du willst nicht frieren? DANN BEWEG DEINEN ARSCH IN DIE FABRIK DU SKLAVE!
+* [Haha, woher kommt das ganze alternative Öl wenn keiner mehr in Russland kauft? Na von Russland!](https://blog.fefe.de/?ts=9c948bda) - Wir machen jetzt mit Öl den gleichen Quatsch wie wir es mit den Tomaten aus China machen. Wir transportieren die Ware quer über den Planeten um ihn dann "umzulabeln".
+* [In welcher Realität der Innenminister Herrmann von Bayern lebt, könnt ihr hier nachlesen.](https://blog.fefe.de/?ts=9c94872e)
