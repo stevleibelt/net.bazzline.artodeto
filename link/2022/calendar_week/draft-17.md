@@ -72,9 +72,16 @@
 * [Wow, Hackfressenbuch will in Indien die komplette Lebensmittelversorgung kontrollieren.](https://netzpolitik.org/2022/reihe-zu-digitalem-kolonialismus-wie-meta-den-indischen-agrarsektor-dominieren-will/) - Stichwort "Datenkolonisierung". Hackfressenbuch sagt euch wann und wie ihr eure Felder zu bestellen habt, der Verkäufer des Saatgutes und der Käufer eurer Waren wissen die Zeitpunkte auch und da alle eure finanzielle Situation kennen, maximieren sie ihre Preise bis zu eurer Schmerzgrenze. Wer legt diese Schmerzgrenze fest? Ein BWL-er der mittlerweile marktfrei ist.
 * [Gantry5 wurde in der Version 5.5.13 veröffentlicht.](https://github.com/gantry/gantry5/releases/tag/5.5.13)
 * [CodeLite wurde in der Version 16.0.0 veröffentlicht.](https://github.com/eranif/codelite/releases/tag/16.0.0)
-* [archinstall wurde in der Version v2.4.1 veröffentlicht.](https://github.com/archlinux/archinstall/releases/tag/v2.4.1)
+* [archinstall wurde in der Version v2.4.2 veröffentlicht.](https://github.com/archlinux/archinstall/releases/tag/v2.4.2)
 * [Workerman wurde in der Version v4.0.35 veröffentlicht.](https://github.com/walkor/workerman/releases/tag/v4.0.35)
 * [Nextcloud wurde in der Version v22.2.7 veröffentlicht.](https://github.com/nextcloud/server/releases/tag/v22.2.7)
 * [Nextcloud wurde in der Version v23.0.4 veröffentlicht.](https://github.com/nextcloud/server/releases/tag/v23.0.4)
 * [Wow, bei der Onleihe sind ALLE Audio- und Videodateien kaputt.](https://blog.fefe.de/?ts=9c95c246)
 * [Uff, FeFe zeichnet hier ein dunkles Bild über die politische Ukraineproblematik.](https://blog.fefe.de/?ts=9c9462fe) - Und wie ich den atlantischen Busenfreund und deren Doppelmoral so einschätze, wird etwas Wahres dabei sein.
+* [SIXT ist kaputt.](https://blog.fefe.de/?ts=9c956f00)
+* [Zoom ist kaputt.](https://blog.fefe.de/?ts=9c955f18)
+* [So wie einst BP behauptet hat, dass sie nicht zwanghaft die Welt auf Rohöl getrimmt hat, will Vodafone jetzt so tun, als hätten sie nie alle Welt in die Cloud und zum Datenhorden getrimmt.](https://blog.fefe.de/?ts=9c9557b3)
+* [Ok, die DEA hat den Premierminister der British Virgin Islands in Miami wegen Drogenschmuggeln verhaftet.](https://blog.fefe.de/?ts=9c95555e) - BAD BOYS, BAD BOYS, WATCHAGANNA DO?
+* [Schaut mal, in Malta sieht man was passiert, wenn die gesammelten Daten von Bürgern in die Welt getragen wird.](https://noyb.eu/en/political-data-breach-malta-c-planet-refuses-right-access-and-information)
+* [Redox wurde in der Version 0.7 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=Redox-OS-0.7.0)
+* [Alex Bunardzic erklärt euch, in aller Kürze, wie man Programme für Maschinen schreibt.](https://opensource.com/article/22/4/systems-programming)
