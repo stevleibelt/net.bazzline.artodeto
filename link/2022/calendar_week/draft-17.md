@@ -61,3 +61,4 @@
 * [Schwitzen und Frieren für die Gewinne der Konzerne. In Italien darf man im Sommer nur noch bis 27 Grad Celsius kühlen und im Winter nur noch bis 19 Grad heizen.](https://blog.fefe.de/?ts=9c94a33c)
 * [Wow, Grundrechte neu interpretiert. Wenn die Polizei deine Daten in der Cloud haben will, ist dies keine Beschlagnahmung da du weiter damit arbeiten kannst (du merkst es nicht einmal), es ist nur eine Kopie.](https://blog.fefe.de/?ts=9c949b75) - Ich sehe endlose rsync-Prozesse zu Polizeirechnern entstehen
 * [Der EuGH erlaubt Verbandsklagen gegen Hackfressenbuch.](https://netzpolitik.org/2022/dsgvo-eu-gericht-erlaubt-verbandsklagen-gegen-facebook/)
+* [Sculpt OS wurde in der Version 22.04 veröffentlicht.](https://genode.org/news/sculpt-os-release-22.04)
