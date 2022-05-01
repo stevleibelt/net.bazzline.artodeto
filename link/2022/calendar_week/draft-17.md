@@ -96,3 +96,6 @@
 * [Kanal9TV: 145 Jahre Rothschönberger Stolln](145 Jahre Rothschönberger Stolln)
 * [Interne Dokumente zeigen wohl, dass Hackfressenbuch auch keine Ahnung hat welche Daten wohin exportiert werden.](https://netzpolitik.org/2022/internes-dokument-facebook-hat-keine-kontrolle-ueber-seine-daten/)
 * [Hier wird euch gezeigt, wie ihr GIT LFS einrichtet.](https://kopfkrieg.org/2022/04/26/git-lfs/)
+* [archzfs iso wurde in der Version 2022-04-30T21:12:20 veröffentlicht.](https://archzfs.leibelt.de/)
+* [Als Mensch der mit dem Gedanken erzogen wurde, freut es mich, dass die Technische Universität Karlsruhe Beton als Wärmespeicher erforscht.](https://www.sonnenseite.com/de/zukunft/sonnenwaerme-in-der-wand-speichern/)
+* [OpenOffice wird 20 Jahre alt.](https://www.borncity.com/blog/2022/05/01/1-mai-20-jahre-openoffice-org/)
