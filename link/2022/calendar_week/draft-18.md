@@ -29,3 +29,7 @@
 * [Apropors Daten der Krankenkassenversicherten, warum müssen die noch einmal ins freie Internet?](https://freiheitsrechte.org/gesundheitsdaten/)
 * [Die EU will Kettenkrediten dann mal die Kündigungsfrist nehmen.](https://blog.fefe.de/?ts=9c8e1e54)
 * [Wow, die USA will die Abtreibung wieder illegal machen.](https://blog.fefe.de/?ts=9c8e1760)
+* [PHP Carbon wurde in der Version 2.58.0 veröffentlicht.](https://github.com/briannesbitt/Carbon/releases/tag/2.58.0)
+* [Metabase wurde in der Version v0.43.0 veröffentlicht.](https://github.com/metabase/metabase/releases/tag/v0.43.0)
+* [Firefly-III wurde in der Version 5.7.4 veröffentlicht.](https://github.com/firefly-iii/firefly-iii/releases/tag/5.7.4)
+* [PHPStan wurde in der Version 1.6.4 veröffentlicht.](https://github.com/phpstan/phpstan/releases/tag/1.6.4)
