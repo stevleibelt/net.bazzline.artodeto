@@ -16,3 +16,16 @@
 * [Hier gibt es einen schönen Realitätsabgleich zum Thema politischer Ukrainekonflikt von Oskar Lafontaine.](https://blog.fefe.de/?ts=9c917033) - Europa muss einfach mit Moskau reden, sonst wird es richtig dünne für uns
 * [Realitätsabgleich Luftabwehr in Deutschland.](https://blog.fefe.de/?ts=9c915bef)
 * [Wie geht es Griechenland nach der ganzen Zwangsprivatisierung des Silberbestecks? Genau so gut wie den Kumunen in Deutschland nach der Zwangsenteignung durch den Bund. Die Schulden liegen bei schlanken 206 Prozent der Wirtschaftsleistung.](https://blog.fefe.de/?ts=9c915af1) - Ist aber alles entspannt, noch bis 2070 haben die Griechen Zeit ihre Schulden bei der EZB zu tilgen
+* [Nein? Doch! Oh? IP-Kameras werden gehackt und dann zum ausspionieren innerhalb der Firma genutzt.](https://www.bleepingcomputer.com/news/security/cyberspies-use-ip-cameras-to-deploy-backdoors-steal-exchange-emails/)
+* [Fwupd wurde in der Version 1.8.0 veröffentlicht.](https://lwn.net/Articles/893452/)
+* [Wenn eure System von Menschen abhängig sind, habt ihr ein Problem.](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/MonitoringTooHard) - Hier im Kontext von TLS-Zertifikate
+* [Da haben wir nun eine grüne Regierung, Bundesländer wie Baden-Württemberg beschließen die Solarpflicht für Neubauten aber Zuschüsse gibt es nur für Atomkraftwerke.](https://www.sonnenseite.com/de/energie/solarpflicht-fuer-neue-wohngebaeude-in-baden-wuerttemberg-am-in-kraft-getreten/)
+* [Realitätsabgleich Hunger in der Welt.](https://www.sonnenseite.com/de/politik/un-organisationen-legen-hungerzahlen-vor/)
+* [Dezentrale Stromerzeugung? Von dem Volk gewollt, von den Konzernen blockiert, also blockiert auch die Bundesregierung.](https://www.sonnenseite.com/de/wirtschaft/green-planet-energy-forderungen-zur-staerkung-von-mieterstrom/)
+* [Realitätsabgleich Pressefreiheit, auch die erste Welt ist eher Mittelmaß.](https://netzpolitik.org/2022/rangliste-der-pressefreiheit-journalistinnen-und-quellen-zu-wenig-geschuetzt/) - Und wenn man an Assange denkt, weiß man, dass Mittelmaß noch geschönigt ist
+* [Firefox wurde in der Version 100 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=Firefox-100-Released)
+* [Aruba und Avaya sind kaputt.](https://www.bleepingcomputer.com/news/security/aruba-and-avaya-network-switches-are-vulnerable-to-rce-attacks/)
+* [Die Gesellschaft für Freiheitsrechte klagt gegen die Sammlung der Gesundheitsdaten aller 73 Millionen Krankenkassenversicherten.](https://freiheitsrechte.org/pm-gesundheitsdaten/)
+* [Apropors Daten der Krankenkassenversicherten, warum müssen die noch einmal ins freie Internet?](https://freiheitsrechte.org/gesundheitsdaten/)
+* [Die EU will Kettenkrediten dann mal die Kündigungsfrist nehmen.](https://blog.fefe.de/?ts=9c8e1e54)
+* [Wow, die USA will die Abtreibung wieder illegal machen.](https://blog.fefe.de/?ts=9c8e1760)
