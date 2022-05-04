@@ -48,3 +48,7 @@
 * [Nextcloud Hub wurde in der Version 24 veröffentlicht.](https://nextcloud.com/blog/nextcloud-hub-24-is-here/)
 * [Realitätsabgleich Krebs auf den Feldern, die Macht sitzt in den Konzernetagen.](https://netzfrauen.org/2022/05/04/earth-7/) - Biodynamische Landwirtschaft? DAMIT KANN BAYER NICHT GENUG GELD FÜR DIE AKTIONÄRE ERWIRTSCHAFTEN!!!
 * [Transparenz? Ja nur für Bürger! Das Bundesfinanzministerium mag das nicht! Wäre ja noch schöner, wenn man als Bürger sieht, wie da Steuergelder veruntreut werden, nicht wahr Scheuer-Andi?](https://freiheitsrechte.org/ifg-beirat-bmf/)
+* [Sanktionen mit Augenmaß, ein Rechenzentrum in Finnland läuft unter Diesel weswegen die Fernwärme wegfällt, weil die Firma irgendwann mal aus Russland kam.](https://blog.fefe.de/?ts=9c8ca304) - Eigentlich läuft es CO2 neutral mit Windenergie
+* [Thunderbird wurde in der Version 91.9.0 veröffentlicht.](https://www.borncity.com/blog/2022/05/04/thunderbird-version-91-9-0/)
+* [Nextcloud Files for desktop wurde in der Version 3.5 und Nextcloud Files for Android wurde in der Version 3.2 veröffentlicht.](https://nextcloud.com/blog/major-improvements-for-nextcloud-clients-nextcloud-files-3-5-for-desktop-and-3-20-for-android/)
+* [Die Macher hinter der Luca-App haben die Bestandsdaten teilweise gelöscht.](https://www.borncity.com/blog/2022/05/04/macher-der-luca-app-lschen-die-bisherigen-daten-neuer-dienst-gestartet/) - Warum nicht auf alle Servern und Backups gelöscht wurde?
