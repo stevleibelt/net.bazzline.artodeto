@@ -33,3 +33,18 @@
 * [Metabase wurde in der Version v0.43.0 veröffentlicht.](https://github.com/metabase/metabase/releases/tag/v0.43.0)
 * [Firefly-III wurde in der Version 5.7.4 veröffentlicht.](https://github.com/firefly-iii/firefly-iii/releases/tag/5.7.4)
 * [PHPStan wurde in der Version 1.6.4 veröffentlicht.](https://github.com/phpstan/phpstan/releases/tag/1.6.4)
+* [Für's Protokoll, die Staatsanwaltschaft hat Ermittlungen gegen Andi Scheuer eingeleitet.](https://blog.fefe.de/?ts=9c8ffc80) - Wird eh nichts passieren dürfen
+* [SMART-Werte für NVMe-Laufwerke? Das kann zu keinen oder gegebenenfalls falsche Werte führen.](https://utcc.utoronto.ca/~cks/space/blog/tech/NVMeAndSMART)
+* [Solarplatten entsorgen? Das geht nur bei zertifizierten Unternehmen.](https://www.sonnenseite.com/de/wirtschaft/beginn-eines-entsorgungsproblems-alter-pv-module/)
+* [Firefox wurde in der Version 100.01 und ESR 91.9 veröffentlicht.](https://www.borncity.com/blog/2022/05/04/firefox-100-01-und-91-9esr-freigegeben/)
+* [Lobbyarbeit in der EU, die Netzbetreiber (Konzerne) möchten IT-Konzerne zur Kasse bitte, da sie ja das Netzt benutzen.](https://netzpolitik.org/2022/eu-digitalkommissarin-vestager-neuer-angriff-auf-die-netzneutralitaet/) - Kurzum, ihr als Kunden bezahlt den Netzausbau und wenn ihr dann noch eine Dienstleistung bezahlt, sollt ihr noch einmal bezahlen. Den Aktionären der Netzbetreiber ist das so wichtig, dass sie massive Lobbyarbeit in der EU machen. Der Endanwender verliert doppelt, er bezahlt "an beiden Enden" und die Netzneutralität verliert er auch noch.
+* [Die Pole schmelzen und was machen die Energiekonzerne ohne Herz? Sie fangen an an den Polen nach Rohstoffen zu bohren.](https://netzfrauen.org/2022/05/03/arctic/) - Weiter, weiter ins Verderben!
+* [#ISSO, The Kids want Techno](https://www.rave-strikes-back.de/?p=11014)
+* [SystemTap wurde in der Version 4.7 veröffentlicht.](https://lwn.net/Articles/893682/)
+* [Wo werden eure Corona-Daten eigentlich gespeichert? #Wolltihrgarnichtwissen](https://netzpolitik.org/2022/datenschuetzer-schlagen-alarm-an-diesen-orten-liegen-deine-corona-daten/) - Denn wie immer gilt, einmal gesammelte Daten bleiben und werden nicht gelöscht
+* [Die TU Bergakademie Freiberg bekommt sehr gute Noten von ihren Studierenden.](https://tu-freiberg.de/presse/studierende-bewerten-ihr-studium-top-noten-fuer-maschinenbau-und-werkstoffwissenschaften)
+* [Die Politik verkackt die Energiepolitik seit 20 Jahren und der Bürger soll dieses Problem durch massiven Einsatz privater finanzieller Mittel lösen.](https://www.sonnenseite.com/de/wirtschaft/energy-sharing-eine-potenzialanalyse/) - Bezahlen darf der Bürger, entscheiden aber nicht. Modewort ist "Energy-Sharing"
+* [Ihr wollt euch bei der Einspeisevergütung anmelden? Wartet lieber bis 2023.](https://www.sonnenseite.com/de/energie/81948/)
+* [Nextcloud Hub wurde in der Version 24 veröffentlicht.](https://nextcloud.com/blog/nextcloud-hub-24-is-here/)
+* [Realitätsabgleich Krebs auf den Feldern, die Macht sitzt in den Konzernetagen.](https://netzfrauen.org/2022/05/04/earth-7/) - Biodynamische Landwirtschaft? DAMIT KANN BAYER NICHT GENUG GELD FÜR DIE AKTIONÄRE ERWIRTSCHAFTEN!!!
+* [Transparenz? Ja nur für Bürger! Das Bundesfinanzministerium mag das nicht! Wäre ja noch schöner, wenn man als Bürger sieht, wie da Steuergelder veruntreut werden, nicht wahr Scheuer-Andi?](https://freiheitsrechte.org/ifg-beirat-bmf/)
