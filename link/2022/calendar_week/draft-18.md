@@ -52,3 +52,4 @@
 * [Thunderbird wurde in der Version 91.9.0 veröffentlicht.](https://www.borncity.com/blog/2022/05/04/thunderbird-version-91-9-0/)
 * [Nextcloud Files for desktop wurde in der Version 3.5 und Nextcloud Files for Android wurde in der Version 3.2 veröffentlicht.](https://nextcloud.com/blog/major-improvements-for-nextcloud-clients-nextcloud-files-3-5-for-desktop-and-3-20-for-android/)
 * [Die Macher hinter der Luca-App haben die Bestandsdaten teilweise gelöscht.](https://www.borncity.com/blog/2022/05/04/macher-der-luca-app-lschen-die-bisherigen-daten-neuer-dienst-gestartet/) - Warum nicht auf alle Servern und Backups gelöscht wurde?
+* [Oskar Lafontaine schreibt einmal den Grund für die politische Ukraineproblematik](https://www.nachdenkseiten.de/wp-content/uploads/2022/04/WEW_17_022_SCHOLZ.pdf) - Kernthese, die USA hat Angst vor einem Russland mit angeschlossener Ukraine und einem Deutschland, welches mit Russland friedlich zusammenarbeitet
