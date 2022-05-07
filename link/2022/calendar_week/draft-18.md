@@ -64,3 +64,11 @@
 * [Nahezu 43 Millionen Menschen arbeiten in Europa in einer Scheinselbständigkeit. Was wollen die Konzerne dagegen machen? NICHTS!](https://netzpolitik.org/2022/scheinselbststaendigkeit-lobby-kaempft-gegen-eu-plattformrichtlinie/) - Da fragt man sich immer, wie kurzfristig Konzerne denken. Irgendwer muss ja deren angebotene Dienstleistung bezahlen können, ihre "Angestellten" können sich das nicht leisten
 * [Firefly-III wurde in der Version 5.7.5 veröffentlicht.](https://github.com/firefly-iii/firefly-iii/releases/tag/5.7.5)
 * [phpstan wurde in der Version 1.6.7 veröffentlicht.](https://github.com/phpstan/phpstan/releases/tag/1.6.7)
+* [Kanal9TV: Maifeuer in Freiberg](https://www.youtube.com/watch?v=2hZSMn7MJl8)
+* [XBOX ist kaputt.](https://www.borncity.com/blog/2022/05/07/xbox-ist-weltweit-aktuell-ausgefallen-6-7-5-2022/)
+* [Wine wurde in der Version 7.8 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=Wine-7.8-Released)
+* [GCC wurde in der Version 12.1 veröffentlicht.](https://lwn.net/Articles/894149/)
+* [PostgreSQL JDBC wurde in der Version 42.3.5 veröffentlicht.](https://www.postgresql.org/about/news/postgresql-jdbc-4235-released-2447/)
+* [OpenCL wurde in der Version 3.0.11 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=OpenCL-3.0.11-Released)
+* [TU Bergakademie Freiberg: Die industrielle Energiewende in Deutschland mitgestalten – gemeinsam, nachhaltig und klimaneutral!](https://tu-freiberg.de/presse/die-industrielle-energiewende-in-deutschland-mitgestalten-gemeinsam-nachhaltig-und-klimaneutr)
+* [TU Bergakademie Freiberg: Aufholen nach Corona: Schülerlabor reist mit Experimente-Koffer an Gymnasien und Berufsschulen](https://tu-freiberg.de/presse/aufholen-nach-corona-schuelerlabor-experimente-koffer)
