@@ -72,3 +72,21 @@
 * [OpenCL wurde in der Version 3.0.11 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=OpenCL-3.0.11-Released)
 * [TU Bergakademie Freiberg: Die industrielle Energiewende in Deutschland mitgestalten – gemeinsam, nachhaltig und klimaneutral!](https://tu-freiberg.de/presse/die-industrielle-energiewende-in-deutschland-mitgestalten-gemeinsam-nachhaltig-und-klimaneutr)
 * [TU Bergakademie Freiberg: Aufholen nach Corona: Schülerlabor reist mit Experimente-Koffer an Gymnasien und Berufsschulen](https://tu-freiberg.de/presse/aufholen-nach-corona-schuelerlabor-experimente-koffer)
+* [LibreOffice Community wurde in der Version 7.3.3 veröffentlicht.](https://tu-freiberg.de/presse/aufholen-nach-corona-schuelerlabor-experimente-koffer)
+* [In der EU sind alle gleich, nur die Politiker sind gleicher. Die brauchen nämlich kein Fingerabdruck in ihren Ausweis abgeben, wegen ... na du weißt schon, schau mal da hinten!](https://www.patrick-breyer.de/europaeisches-parlament-lehnt-plan-ab-fingerabdruecke-aller-abgeordneten-fuer-ein-biometrisches-anwesenheitsregister-zu-erfassen/)
+* [Die Alpen haben dann einfach mal fünf Vegetationszonen in einem.](https://www.sonnenseite.com/de/tipps/die-alpen-und-wie-sie-unser-wetter-beeinflussen/)
+* [>>Wenn bis 2050 nur ein Fünftel des pro-Kopf Rindfleischkonsums durch Fleischalternativen aus mikrobiellem Protein ersetzt wird, könnte das die Entwaldung der Welt halbieren.<<](https://www.sonnenseite.com/de/umwelt/drei-untersuchungen-zum-fleischkonsum/)
+* [Es gibt Hoffnung, mit 20 Jahren harter Arbeit haben 25 Dörfer in Mexiko 20,000 Ha Wald zurückgebracht.](https://www.sonnenseite.com/de/umwelt/wie-25-mexikanische-doerfer-20%ca%bc000-hektaren-wueste-begruenten/)
+* [>>Von dieser Koexistenz sollte erzählt und an ihr sollte die [sächsische] Verfassung gemessen werden, und Cathleen Bochmann-Kist und Jessy James LaFleur und viele andere haben da Dinge zu erzählen, die zu hören sich lohnt. Auch und gerade in Berlin.<<](https://verfassungsblog.de/sachsen/)
+* [Noch ein Nutznieser mit vollen Taschen und den Lippen an den Ohren der Politik, Braunkohlebetreiber in Deutschland. Für die ist die politische Ukraineproblematik ein wahre Seegen.](https://www.sonnenseite.com/de/wirtschaft/gericht-entscheidet-pro-braunkohletagebau-ukraine-krieg-verhindert-bagger-stopp/)
+* [Ihr wollt was buntes für die Cron? Probiert einmal die `crontab-ui`.](https://opensource.com/article/22/5/cron-crontab-ui)
+* [Die westliche Überwachungsmafia stellt die zu unterdrückenden Personen ein, damit sie sich selbst unterdrücken.](https://netzpolitik.org/2022/reihe-zum-digitalen-kolonialismus-globale-arbeitsketten-der-westlichen-ki/) - Digitaler Kolonismus!
+* [BahnBonus-App? Japs, Kuketz hat nachgeschaut und es ist so schlimm wie man es sich denken kann.](https://www.kuketz-blog.de/bahnbonus-app-der-datenschutzalbtraum-will-nicht-enden/)
+* [Avast und AVG sind seit zehn Jahren kaputt.](https://www.borncity.com/blog/2022/05/05/10-jahre-alte-schwachstellen-in-avast-und-avg-gefhrden-millionen-nutzer/)
+* [Borns-IT Blog wird heute 15 Jahre alt. Danke für deine Mühe!](https://www.borncity.com/blog/2022/05/07/15-jahre-borns-it-und-windows-blog-aus-dem-maschinenraum/)
+* [PostgreSQL Workloads analysieren? `pg_stat_monitor` sieht total spannend aus.](https://www.percona.com/blog/understand-your-postgresql-workloads-better-with-pg_stat_monitor/)
+* [Schöne Sache, gern in ganz Deutschland. 365 Euro Ticket für ganz Deutschland.](https://www.sonnenseite.com/de/mobilitaet/deutsche-umwelthilfe-fordert-365-euro-klimaticket-in-koeln-und-bundesweit/) - Mein Wunsch wäre es, dass der ÖPNV umsonst für alle Bundesbürger wäre und gut ist.
+* [>>[...] Probleme und Streitfragen lassen sich am besten im Dialog lösen. Echter Frieden entsteht durch gegenseitiges Verständnis und Respekt für das Wohlergehen des anderen. [...]<<](https://www.sonnenseite.com/de/franz-alt/kommentare-interviews/frieden-schaffen-aber-wie/)
+* [VSCodium wurde in der Version 1.67.0 veröffentlicht.](https://github.com/VSCodium/vscodium/releases/tag/1.67.0)
+* [Wie die SPD es immer wieder schafft, noch tiefer umzufallen.](https://blog.fefe.de/?ts=9c88eed9) - Heute, Osteuropa ja, aber bitte nicht Russland!
+* [Kurzer Vergleich von Nixxons Strategie und Putins westlichem Weltbild jetzt.](https://blog.fefe.de/?ts=9c88eb58)
