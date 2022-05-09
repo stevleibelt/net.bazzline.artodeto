@@ -2,3 +2,8 @@
 * [Danke FeFe, das hab ich mich auch schon gefragt. Warum werden die westlichen Konzernchefs nicht als das bezeichnet was sie sind, Oligarchen.](https://blog.fefe.de/?ts=9c896e14)
 * [Am 21.05.2022 gibt es in Freiberg zwei schöne Veranstaltungen.](https://freibergfueralle.de/fotowettbewerb-fuer-alle)
 * [Wie ist der Muttertag für Syrien? Schlecht, fast 13 Millionen Syrer brauchen dringend Hilfe.](https://netzfrauen.org/2022/05/08/syria-2/)
+* [TrendMicro war ja nur angeblich kaputt. Macht euch keinen Kopf, ändert einfach etwas in eurer Registry und dann ist bestimmt alles wieder ganz.](https://www.borncity.com/blog/2022/05/09/trend-micro-sicherheitslsungen-registry-nderungen-nach-fehlalarm-3-mai-2022-zurcknehmen/)
+* [Wird der politische Ukrainekonflikt auch von den Ölkonzernen gefördert damit es endlich mit diesem Bio-Sprit-Gefühlsdusel aufgehört wird?](https://www.sonnenseite.com/de/mobilitaet/biosprit-umstritten/)
+* [Am 14.05.2022 gibt es von 10:00 bis 15:00 den CampusTag an der TU Bergakademie Freiberg.](https://tu-freiberg.de/presse/studieninfos-fuer-schuelerinnen-und-schueler-aus-erster-hand-campustag-am-14-mai)
+* [Nein? Doch! Oh? Der Walt ist ein Schutzraum für Insekten bei Wärme?](https://www.sonnenseite.com/de/umwelt/der-wald-als-schutzraum-fuer-insekten-in-waermeren-klimazonen/) - Dachte immer der Wald ist nur da, damit man Baumhütten und Schaukeln aufbauen kann.
+* [Danke für die Antwort, mit `nc <host> ssh` kann man via Skript prüfen, ob ssh auf dem Host läuft und erreichbar ist. Praktsch, wenn man rsync über ssh machen will.](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/CheckRsyncMasterIsUp)
