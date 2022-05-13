@@ -70,3 +70,8 @@
 * [Ihr nutzt ArchLinux, könnte es sein, dass ihr pipewire-media-sessions wieder installieren müsst.](https://archlinux.org/news/undone-replacement-of-pipewire-media-session-with-wireplumber/)
 * [Wie viel Steuergelder hinterziehen die großen Technologiekonzerne nur in Südamerika?](https://netzpolitik.org/2022/reihe-ueber-digitalen-kolonialismus-westliche-tech-konzerne-sparen-milliarden-im-globalen-sueden/) - So viel, dass pro Jahr über 500.000 Krankenpfleger in 20 Ländern beschäftigen kann.
 * [Hier gibt es einen Einstieg für Bareos.](https://opensource.com/article/22/5/bareos-open-source-client-server-backup-solution)
+* [Die TU Wien hat einen chemischen Speicher für Wärme entwickelt und patentiert.](https://www.sonnenseite.com/de/wissenschaft/tu-wien-entwickelt-chemischen-waermespeicher/) - Die Idee dahinter ist, dass vorhandene Wärme genutzt wird um eine chemische Reaktion auszuführen. Diese Reaktion lässt man im Winter "rückwärts" ablaufen.
+* [Im Jahr 2022 ist SHA512 schneller als SHA256.](https://blog.nashcom.de/nashcomblog.nsf/dx/sha512-is-faster-then-sha256.htm)
+* [Zonealarm und Zyxel sind kaputt.](https://blog.fefe.de/?ts=9c80dbe8)
+* [Nein? Doch! Oh? Die meisten Tatverdächtigen bei Kinderpornographie sind dann doch Minderjährige](https://netzpolitik.org/2022/strafrecht-die-meisten-tatverdaechtigen-bei-kinderpornografie-sind-minderjaehrig/) - Warum? Weil Minderjährige nicht über das technische Wissen oder das Geld zur Absicherung verfügen **und** weil es, dank Schmierphone, nun einmal heute normal ist, dass sich Teenager gegenseitig Nacktfotos schicken
+* [NetworkManager wurde in der Version 1.38 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=NetworkManager-1.38-Released)
