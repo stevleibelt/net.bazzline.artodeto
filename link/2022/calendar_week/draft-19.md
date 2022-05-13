@@ -65,3 +65,8 @@
 * [AlmaLinux wurde in der Version 8.6 veröffentlicht.](https://lwn.net/Articles/895080/)
 * [Open 3D Engine wurde in der Version 22.05 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=O3DE-22.04-Open-3D-Engine)
 * [Zensus 2022? Das statistische Bundesamt hostet bei Cloudflare.](https://www.kuketz-blog.de/zensus-2022-statistisches-bundesamt-hostet-bei-cloudflare/)
+* [Lange haben wir "Softwaremensche" davor gewarnt, gut, dass es jetzt auch Staaten trifft. Wegen DRM kann Russland die gekaufte CAD Software nicht mehr benutzen.](https://blog.fefe.de/?ts=9c83a661)
+* [OnlyFans und andere führen Sperrlisten zur automatisierten Zensur ein.](https://netzpolitik.org/2022/menstruation-verboten-onlyfans-zensiert-mindestens-149-woerter/) - Ihr wisst schon, Zensur ist S\*\*\*\*\*e
+* [Ihr nutzt ArchLinux, könnte es sein, dass ihr pipewire-media-sessions wieder installieren müsst.](https://archlinux.org/news/undone-replacement-of-pipewire-media-session-with-wireplumber/)
+* [Wie viel Steuergelder hinterziehen die großen Technologiekonzerne nur in Südamerika?](https://netzpolitik.org/2022/reihe-ueber-digitalen-kolonialismus-westliche-tech-konzerne-sparen-milliarden-im-globalen-sueden/) - So viel, dass pro Jahr über 500.000 Krankenpfleger in 20 Ländern beschäftigen kann.
+* [Hier gibt es einen Einstieg für Bareos.](https://opensource.com/article/22/5/bareos-open-source-client-server-backup-solution)
