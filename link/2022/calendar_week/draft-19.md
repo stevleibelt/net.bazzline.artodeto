@@ -75,3 +75,6 @@
 * [Zonealarm und Zyxel sind kaputt.](https://blog.fefe.de/?ts=9c80dbe8)
 * [Nein? Doch! Oh? Die meisten Tatverdächtigen bei Kinderpornographie sind dann doch Minderjährige](https://netzpolitik.org/2022/strafrecht-die-meisten-tatverdaechtigen-bei-kinderpornografie-sind-minderjaehrig/) - Warum? Weil Minderjährige nicht über das technische Wissen oder das Geld zur Absicherung verfügen **und** weil es, dank Schmierphone, nun einmal heute normal ist, dass sich Teenager gegenseitig Nacktfotos schicken
 * [NetworkManager wurde in der Version 1.38 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=NetworkManager-1.38-Released)
+* [Um die Probleme mit der anstandslosen Bürgerüberwacheung und der politischen Klimaproblematik zu überdecken, diskutiert die CDU und die AFD jetzt lieber über das Werbeverbot zur Abtreibung.](https://blog.fefe.de/?ts=9c806bf2)
+* [China will nichts mehr mit Mac und Windows zu tun haben.](https://www.borncity.com/blog/2022/05/14/china-steigt-bei-behrden-und-staatsbetrieben-aus-mac-windows-und-auslndischen-pcs-aus/)
+* [OpenJPEG wurde in der Version 2.5 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=OpenJPEG-2.5-Brings-HTJ2K)
