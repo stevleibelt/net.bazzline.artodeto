@@ -78,3 +78,6 @@
 * [Um die Probleme mit der anstandslosen Bürgerüberwacheung und der politischen Klimaproblematik zu überdecken, diskutiert die CDU und die AFD jetzt lieber über das Werbeverbot zur Abtreibung.](https://blog.fefe.de/?ts=9c806bf2)
 * [China will nichts mehr mit Mac und Windows zu tun haben.](https://www.borncity.com/blog/2022/05/14/china-steigt-bei-behrden-und-staatsbetrieben-aus-mac-windows-und-auslndischen-pcs-aus/)
 * [OpenJPEG wurde in der Version 2.5 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=OpenJPEG-2.5-Brings-HTJ2K)
+* [pgAdmin wurde in der Version 4 v6.9 veröffentlicht.](https://www.postgresql.org/about/news/pgadmin-4-v69-released-2450/)
+* [Realitätsabgleich wie sicher und gut getestet sind Kosmetik- und Freizeitartikel?](https://www.henning-uhle.eu/allgemein/hautprobleme-wie-ich-fast-bekloppt-wurde) - Genau, überhaupt nicht. Es wird nur getestet, ob ihr in fünf Sekunden Krebs bekommt, mehr nicht.
+* [Dumpfheit, für die breite Masse.](https://blog.fefe.de/?ts=9c81667a) - Gebildete Menschen kriegen einfach weniger oder keine Kinder wodurch die Anzahl an Kindern aus bildungsfernen Schichten immer mehr zunimmt.
