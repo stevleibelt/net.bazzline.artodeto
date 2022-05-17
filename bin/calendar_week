@@ -122,84 +122,92 @@ function updating_soft_link
     echo "   done."
 }
 
-#begin of dependencies
-CURRENT_CALENDAR_WEEK=$(date +%V)
-CURRENT_WORKING_DIRECTORY=$(pwd)
-CURRENT_YEAR=$(date +%Y)
-FILE_NAME_OF_THE_CURRENT_SOFT_LINK="current_calendar_week"
-ABSOLUTE_PATH_OF_THIS_SCRIPT=$(cd $(dirname "$0"); pwd)
+function _main ()
+{
+    #begin of dependencies
+    CURRENT_CALENDAR_WEEK=$(date +%V)
+    CURRENT_WORKING_DIRECTORY=$(pwd)
+    CURRENT_YEAR=$(date +%Y)
+    FILE_NAME_OF_THE_CURRENT_SOFT_LINK="current_calendar_week"
+    ABSOLUTE_PATH_OF_THIS_SCRIPT=$(cd $(dirname "$0"); pwd)
 
-#check if current calendar week starts with 0
-if [[ ${CURRENT_CALENDAR_WEEK:0:1} -eq 0 ]];
-then
-    NEXT_CALENDAR_WEEK=$(calc ${CURRENT_CALENDAR_WEEK:1:1}+1)
-else
-    NEXT_CALENDAR_WEEK=$(calc ${CURRENT_CALENDAR_WEEK}+1)
-fi
+    #check if current calendar week starts with 0
+    if [[ ${CURRENT_CALENDAR_WEEK:0:1} -eq 0 ]];
+    then
+        NEXT_CALENDAR_WEEK=$(calc ${CURRENT_CALENDAR_WEEK:1:1}+1)
+    else
+        NEXT_CALENDAR_WEEK=$(calc ${CURRENT_CALENDAR_WEEK}+1)
+    fi
 
-ABSOLUTE_PATH_OF_THE_ROOT="${ABSOLUTE_PATH_OF_THIS_SCRIPT}/.."
+    ABSOLUTE_PATH_OF_THE_ROOT="${ABSOLUTE_PATH_OF_THIS_SCRIPT}/.."
 
-NEXT_CALENDAR_WEEK=$( add_zero_if_number_is_less_then_ten ${NEXT_CALENDAR_WEEK})
-RELATIVE_PATH_TO_THE_CALENDAR_WEEK="link/${CURRENT_YEAR}/calendar_week"
+    NEXT_CALENDAR_WEEK=$( add_zero_if_number_is_less_then_ten ${NEXT_CALENDAR_WEEK})
+    RELATIVE_PATH_TO_THE_CALENDAR_WEEK="link/${CURRENT_YEAR}/calendar_week"
 
-FILE_NAME_OF_THE_CURRENT_CALENDAR_WEEK_DRAFT=draft-${CURRENT_CALENDAR_WEEK}.md
-FILE_NAME_OF_THE_CURRENT_CALENDAR_WEEK=${CURRENT_CALENDAR_WEEK}.md
-FILE_NAME_OF_THE_NEXT_CALENDAR_WEEK=draft-${NEXT_CALENDAR_WEEK}.md
-FILE_PATH_OF_THE_DEBUG_LOG="${ABSOLUTE_PATH_OF_THE_ROOT}/debug.log"
-ABSOLUTE_PATH_TO_THE_CURRENT_CALENDAR_WEEK_YEAR="${ABSOLUTE_PATH_OF_THE_ROOT}/${RELATIVE_PATH_TO_THE_CALENDAR_WEEK}"
-#end of dependencies
+    FILE_NAME_OF_THE_CURRENT_CALENDAR_WEEK_DRAFT=draft-${CURRENT_CALENDAR_WEEK}.md
+    FILE_NAME_OF_THE_CURRENT_CALENDAR_WEEK=${CURRENT_CALENDAR_WEEK}.md
+    FILE_NAME_OF_THE_NEXT_CALENDAR_WEEK=draft-${NEXT_CALENDAR_WEEK}.md
+    FILE_PATH_OF_THE_DEBUG_LOG="${ABSOLUTE_PATH_OF_THE_ROOT}/debug.log"
+    ABSOLUTE_PATH_TO_THE_CURRENT_CALENDAR_WEEK_YEAR="${ABSOLUTE_PATH_OF_THE_ROOT}/${RELATIVE_PATH_TO_THE_CALENDAR_WEEK}"
+    #end of dependencies
 
-#begin of business logic
+    #begin of business logic
 
-# @todo
-#   - instead of expecting current calendar week, just use the softlink to determine the current draft
-#   - put all into a main function to not polute the global name space
-cd "${ABSOLUTE_PATH_OF_THE_ROOT}"
+    # @todo
+    #   - instead of expecting current calendar week, just use the softlink to determine the current draft
+    #   - put all into a main function to not polute the global name space
+    cd "${ABSOLUTE_PATH_OF_THE_ROOT}"
 
-echo ":: Start of run" > ${FILE_PATH_OF_THE_DEBUG_LOG}
-echo ":: Dumping properties." >> ${FILE_PATH_OF_THE_DEBUG_LOG}
-echo "  CURRENT_WORKING_DIRECTORY: ${CURRENT_WORKING_DIRECTORY}" >> ${FILE_PATH_OF_THE_DEBUG_LOG}
-echo "  CURRENT_YEAR: ${CURRENT_YEAR}" >> ${FILE_PATH_OF_THE_DEBUG_LOG}
-echo "  FILE_NAME_OF_THE_CURRENT_SOFT_LINK: ${FILE_NAME_OF_THE_CURRENT_SOFT_LINK}" >> ${FILE_PATH_OF_THE_DEBUG_LOG}
-echo "  ABSOLUTE_PATH_OF_THIS_SCRIPT: ${ABSOLUTE_PATH_OF_THIS_SCRIPT}" >> ${FILE_PATH_OF_THE_DEBUG_LOG}
-echo "  ABSOLUTE_PATH_OF_THE_ROOT: ${ABSOLUTE_PATH_OF_THE_ROOT}" >> ${FILE_PATH_OF_THE_DEBUG_LOG}
-echo "  CURRENT_CALENDAR_WEEK: ${CURRENT_CALENDAR_WEEK}" >> ${FILE_PATH_OF_THE_DEBUG_LOG}
-echo "  NEXT_CALENDAR_WEEK: ${NEXT_CALENDAR_WEEK}" >> ${FILE_PATH_OF_THE_DEBUG_LOG}
-echo "  RELATIVE_PATH_TO_THE_CALENDAR_WEEK: ${RELATIVE_PATH_TO_THE_CALENDAR_WEEK}" >> ${FILE_PATH_OF_THE_DEBUG_LOG}
-echo "  FILE_NAME_OF_THE_CURRENT_CALENDAR_WEEK_DRAFT: ${FILE_NAME_OF_THE_CURRENT_CALENDAR_WEEK_DRAFT}" >> ${FILE_PATH_OF_THE_DEBUG_LOG}
-echo "  FILE_NAME_OF_THE_CURRENT_CALENDAR_WEEK: ${FILE_NAME_OF_THE_CURRENT_CALENDAR_WEEK}" >> ${FILE_PATH_OF_THE_DEBUG_LOG}
-echo "  FILE_NAME_OF_THE_NEXT_CALENDAR_WEEK: ${FILE_NAME_OF_THE_NEXT_CALENDAR_WEEK}" >> ${FILE_PATH_OF_THE_DEBUG_LOG}
-echo "  FILE_PATH_OF_THE_DEBUG_LOG: ${FILE_PATH_OF_THE_DEBUG_LOG}" >> ${FILE_PATH_OF_THE_DEBUG_LOG}
-echo "  ABSOLUTE_PATH_TO_THE_CURRENT_CALENDAR_WEEK_YEAR: ${ABSOLUTE_PATH_TO_THE_CURRENT_CALENDAR_WEEK_YEAR}" >> ${FILE_PATH_OF_THE_DEBUG_LOG}
+    echo ":: Start of run" > ${FILE_PATH_OF_THE_DEBUG_LOG}
+    echo ":: Dumping properties." >> ${FILE_PATH_OF_THE_DEBUG_LOG}
+    echo "  CURRENT_WORKING_DIRECTORY: ${CURRENT_WORKING_DIRECTORY}" >> ${FILE_PATH_OF_THE_DEBUG_LOG}
+    echo "  CURRENT_YEAR: ${CURRENT_YEAR}" >> ${FILE_PATH_OF_THE_DEBUG_LOG}
+    echo "  FILE_NAME_OF_THE_CURRENT_SOFT_LINK: ${FILE_NAME_OF_THE_CURRENT_SOFT_LINK}" >> ${FILE_PATH_OF_THE_DEBUG_LOG}
+    echo "  ABSOLUTE_PATH_OF_THIS_SCRIPT: ${ABSOLUTE_PATH_OF_THIS_SCRIPT}" >> ${FILE_PATH_OF_THE_DEBUG_LOG}
+    echo "  ABSOLUTE_PATH_OF_THE_ROOT: ${ABSOLUTE_PATH_OF_THE_ROOT}" >> ${FILE_PATH_OF_THE_DEBUG_LOG}
+    echo "  CURRENT_CALENDAR_WEEK: ${CURRENT_CALENDAR_WEEK}" >> ${FILE_PATH_OF_THE_DEBUG_LOG}
+    echo "  NEXT_CALENDAR_WEEK: ${NEXT_CALENDAR_WEEK}" >> ${FILE_PATH_OF_THE_DEBUG_LOG}
+    echo "  RELATIVE_PATH_TO_THE_CALENDAR_WEEK: ${RELATIVE_PATH_TO_THE_CALENDAR_WEEK}" >> ${FILE_PATH_OF_THE_DEBUG_LOG}
+    echo "  FILE_NAME_OF_THE_CURRENT_CALENDAR_WEEK_DRAFT: ${FILE_NAME_OF_THE_CURRENT_CALENDAR_WEEK_DRAFT}" >> ${FILE_PATH_OF_THE_DEBUG_LOG}
+    echo "  FILE_NAME_OF_THE_CURRENT_CALENDAR_WEEK: ${FILE_NAME_OF_THE_CURRENT_CALENDAR_WEEK}" >> ${FILE_PATH_OF_THE_DEBUG_LOG}
+    echo "  FILE_NAME_OF_THE_NEXT_CALENDAR_WEEK: ${FILE_NAME_OF_THE_NEXT_CALENDAR_WEEK}" >> ${FILE_PATH_OF_THE_DEBUG_LOG}
+    echo "  FILE_PATH_OF_THE_DEBUG_LOG: ${FILE_PATH_OF_THE_DEBUG_LOG}" >> ${FILE_PATH_OF_THE_DEBUG_LOG}
+    echo "  ABSOLUTE_PATH_TO_THE_CURRENT_CALENDAR_WEEK_YEAR: ${ABSOLUTE_PATH_TO_THE_CURRENT_CALENDAR_WEEK_YEAR}" >> ${FILE_PATH_OF_THE_DEBUG_LOG}
 
-echo ":: Start of >>release_current_calendar_week<<" >> ${FILE_PATH_OF_THE_DEBUG_LOG}
-release_current_calendar_week "${ABSOLUTE_PATH_TO_THE_CURRENT_CALENDAR_WEEK_YEAR}" "${FILE_NAME_OF_THE_CURRENT_CALENDAR_WEEK_DRAFT}" "${FILE_NAME_OF_THE_CURRENT_CALENDAR_WEEK}"
+    echo ":: Start of >>release_current_calendar_week<<" >> ${FILE_PATH_OF_THE_DEBUG_LOG}
+    release_current_calendar_week "${ABSOLUTE_PATH_TO_THE_CURRENT_CALENDAR_WEEK_YEAR}" "${FILE_NAME_OF_THE_CURRENT_CALENDAR_WEEK_DRAFT}" "${FILE_NAME_OF_THE_CURRENT_CALENDAR_WEEK}"
 
-cd "${ABSOLUTE_PATH_TO_THE_CURRENT_CALENDAR_WEEK_YEAR}"
+    cd "${ABSOLUTE_PATH_TO_THE_CURRENT_CALENDAR_WEEK_YEAR}"
 
-echo ":: Start of >>create_next_calendar_week<<" >> ${FILE_PATH_OF_THE_DEBUG_LOG}
-create_next_calendar_week "${FILE_NAME_OF_THE_NEXT_CALENDAR_WEEK}"
+    echo ":: Start of >>create_next_calendar_week<<" >> ${FILE_PATH_OF_THE_DEBUG_LOG}
+    create_next_calendar_week "${FILE_NAME_OF_THE_NEXT_CALENDAR_WEEK}"
 
-cd "${ABSOLUTE_PATH_OF_THE_ROOT}"
+    cd "${ABSOLUTE_PATH_OF_THE_ROOT}"
 
-echo ":: Start of >>updating_soft_link<<" >> ${FILE_PATH_OF_THE_DEBUG_LOG}
-updating_soft_link "${FILE_NAME_OF_THE_CURRENT_SOFT_LINK}" "${RELATIVE_PATH_TO_THE_CALENDAR_WEEK}/${FILE_NAME_OF_THE_NEXT_CALENDAR_WEEK}"
+    echo ":: Start of >>updating_soft_link<<" >> ${FILE_PATH_OF_THE_DEBUG_LOG}
+    updating_soft_link "${FILE_NAME_OF_THE_CURRENT_SOFT_LINK}" "${RELATIVE_PATH_TO_THE_CALENDAR_WEEK}/${FILE_NAME_OF_THE_NEXT_CALENDAR_WEEK}"
 
-echo ":: Finished of run" >> ${FILE_PATH_OF_THE_DEBUG_LOG}
+    echo ":: Starting >>git gc --aggressive<<" >> ${FILE_PATH_OF_THE_DEBUG_LOG}
+    $(git gc --aggressive)
 
-cd "${CURRENT_WORKING_DIRECTORY}"
-#end of business logic
+    echo ":: Finished of run" >> ${FILE_PATH_OF_THE_DEBUG_LOG}
 
-#for later if we want to do more
-#while true;
-#do
-#    echo ":: What do you want to do?"
-#    echo "   [0] release current calendar week"
-#    echo ""
-#
-#    read USER_INPUT
-#    case ${USER_INPUT} in
-#        0)  release_current_calendar_week 
-#            break;;
-#    esac
-#done
+    cd "${CURRENT_WORKING_DIRECTORY}"
+    #end of business logic
+
+    #for later if we want to do more
+    #while true;
+    #do
+    #    echo ":: What do you want to do?"
+    #    echo "   [0] release current calendar week"
+    #    echo ""
+    #
+    #    read USER_INPUT
+    #    case ${USER_INPUT} in
+    #        0)  release_current_calendar_week 
+    #            break;;
+    #    esac
+    #done
+}
+
+_main

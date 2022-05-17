@@ -28,4 +28,9 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 
 ### Added
 
+* Added execution of >>git gc --aggressive<< when [calendar_week](bin/calendar_week) is executed
+
 ### Changed
+
+* Moved core logic in [calendar_week](bin/calendar_week) into function `_main`
+
