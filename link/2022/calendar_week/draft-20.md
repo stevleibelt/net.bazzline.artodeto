@@ -27,3 +27,10 @@
 * [Statt dass das statistische Bundesamt einen deutsches CDN nutzt, passt es nur seine Datenschutzerklärung an und nutzt weiter Cloudflare ans Anbieter vom transatlantischen Besetzer.](https://www.kuketz-blog.de/zensus-2022-wie-das-statistische-bundesamt-vertrauen-verspielt/)
 * [Nein? Doch! Oh? Werbefirmen lesen und kopieren auch Daten aus Webformularen.](https://blog.fefe.de/?ts=9c7d4bcf) - Hätte uns nur früher jemand gewarnt, dass es eine dumme Idee ist ungeprüft Quelltext von anderen Leuten Computern auf die eigene Webseite zu packen.
 * [mdr.de: Laienschauspieler zeigen Stück über Leben von ungewöhnlicher Botanikerin](https://www.mdr.de/nachrichten/sachsen/chemnitz/freiberg/buergerbuehne-siebenlehn-theater-amalie-dietrich-100.html)
+* [Tesla Model 3 und Y sind kaputt.](https://www.bleepingcomputer.com/news/security/hackers-can-steal-your-tesla-model-3-y-using-new-bluetooth-attack/)
+* [PHP smarty wurde in der Version v4.1.1 veröffentlicht.](https://github.com/smarty-php/smarty/releases/tag/v4.1.1)
+* [jisti-admin wurde in der Version 0.72.10 veröffentlicht.](https://github.com/H2-invent/jitsi-admin/releases/tag/0.72.10)
+* [Nein? Doch! Oh? Die Apfel Ih-Phones kann man auch ausgeschaltet orten und jetzt sind alle überrascht, dass man dieses System kompromitiert.](https://www.borncity.com/blog/2022/05/18/forscher-malware-kann-auf-ausgeschalteten-iphones-laufen/)
+* [Microsoft Windows Server 20H2 ist am 09.08.2022 "out of service".](https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-server-20h2-reaches-end-of-service-in-august/)
+* [Vulkan wurde in der Version 1.3.124 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=Vulkan-1.3.214)
+* [Älterer Server? Dann betreibt mal schön eine virtuelle Maschine mit stark veralteter Software (auf einem anderen Server) um euch über den Java-Only KVM over IP einzuwählen.](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/SerialConsolesUnappealing)
