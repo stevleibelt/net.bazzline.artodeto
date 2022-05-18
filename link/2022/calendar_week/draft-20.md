@@ -34,3 +34,5 @@
 * [Microsoft Windows Server 20H2 ist am 09.08.2022 "out of service".](https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-server-20h2-reaches-end-of-service-in-august/)
 * [Vulkan wurde in der Version 1.3.124 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=Vulkan-1.3.214)
 * [Älterer Server? Dann betreibt mal schön eine virtuelle Maschine mit stark veralteter Software (auf einem anderen Server) um euch über den Java-Only KVM over IP einzuwählen.](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/SerialConsolesUnappealing)
+* [Um meinen Platz in der Liste der Suchergebnisse zu finden. Drehstuhlschnittstelle ist das manuelle Datenübermittel von einem Datensystem in ein anderes Datensystem.](https://blog.fefe.de/?ts=9c7a6032)
+* [Der Grundrechte-Report 2022 sieht so dunkel aus, wie ich es vermutet habe.](https://freiheitsrechte.org/grundrechte-report-2022/)
