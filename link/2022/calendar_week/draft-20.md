@@ -36,3 +36,15 @@
 * [Älterer Server? Dann betreibt mal schön eine virtuelle Maschine mit stark veralteter Software (auf einem anderen Server) um euch über den Java-Only KVM over IP einzuwählen.](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/SerialConsolesUnappealing)
 * [Um meinen Platz in der Liste der Suchergebnisse zu finden. Drehstuhlschnittstelle ist das manuelle Datenübermittel von einem Datensystem in ein anderes Datensystem.](https://blog.fefe.de/?ts=9c7a6032)
 * [Der Grundrechte-Report 2022 sieht so dunkel aus, wie ich es vermutet habe.](https://freiheitsrechte.org/grundrechte-report-2022/)
+* [VSCodium wurde in der Version 1.67.2 veröffentlicht.](https://github.com/VSCodium/vscodium/releases/tag/1.67.2)
+* [phpqa wurde in der Version 1.70.1 veröffentlicht.](https://github.com/jakzal/phpqa/releases/tag/v1.70.1)
+* [Realitätsabgleich Krieg ist wenn die Menschen sterben und nicht wenn sich jemand disst.](https://blog.fefe.de/?ts=9c7bb05b) - NIE WIEDER KRIEG!
+* [Gitblab teilt ihr Wissen, reagieren eure Skript eigentlich ordentlich auf `SIGTERM` und `SIGKILL`?](https://blog.fefe.de/?ts=9c7bcc7e)
+* [Was ist der Vorteil von veganen oder vegetarischen Produkten? Die Rohstoffe werden direkt verarbeitet statt den Umweg über die Tiere zu gehen.](https://www.careelite.de/veganer-fleischersatz-ungesund/) - Tiere sind mehr als nur lebendes Essen.
+* [Wow, gut erkannt. Mit der Chatkontrolle kommt die Alterskontrolle und die eindeutige Identifikation und damit Datengenerierung zu einer Person.](https://netzpolitik.org/2022/grooming-mit-der-chatkontrolle-droht-die-alterskontrolle/) - Und am Ende ist es nur eine fucking Datenbank welche Daten an euer Profil akkumuliert. Einmal ein Fehler in der Datenbank und schon bist du der Verbrecher und nicht die Person mit der ID eine Zahl neben dir.
+* [Nein? Doch! Oh? Erst versagen die Politiker und lassen die Solarindustrie nach China abwandern und jetzt merkt man, dass man so in Europa keine Energiewende hinbekommt.](https://www.sonnenseite.com/de/wirtschaft/europas-solarbranche-abhaengig-von-chinas-sonne/) - Globale Märkte bringen eben NIE dem lokalen Markt etwas, nur Konzernen.
+* [openSUSE Leap Micro wurde in der Version 5.2 veröffentlicht.](https://lwn.net/Articles/895668/)
+* [VirtualBox ist kaputt.](https://www.phoronix.com/scan.php?page=news_item&px=VirtualBox-Leaky-Host-To-Guest)
+* [Deprecation Notice sind der richtige Weg mit Änderungen an der Software umzugehen.](https://stitcher.io/blog/dealing-with-deprecations) - Die wichtigen Faktoren wie man dies umsetzt werden im Artikel genannt. Alternativen anbieten, Zeit geben (nicht wie bei google) und offen sein.
+* [Medial werden wir durch die politische Ukraineproblematik abgelenkt. Die politische Klimaproblematik müssen wir dringender angehen.](https://www.sonnenseite.com/de/zukunft/wieviel-zeit-bleibt-uns-noch-und-was-sollten-wir-mit-dieser-anfangen/) - Ein globales Problem lösen, was kann mehr zum Frieden und zur Völkerverständigung beitragen?
+* [Die Jupiter Erweiterung in WordPress ist kaputt.](https://www.bleepingcomputer.com/news/security/critical-jupiter-wordpress-plugin-flaws-let-hackers-take-over-sites/)
