@@ -64,3 +64,4 @@
 * [Rust wurde in der Version 1.61.0 veröffentlicht.](https://blog.rust-lang.org/2022/05/19/Rust-1.61.0.html)
 * [Nein? Doch! Oh? Die Welt ist vernetzt, jeder schnüffelt irgendwas von irgendwem aus und dann wundert man sich, dass Menschen, die für die freie Meinungsäußerung kämpfen unterdrückt werden?](https://netzpolitik.org/2022/digitale-unterdrueckung-diktaturen-verfolgen-aktivisten-auf-der-ganzen-welt/) - Tja liebe westliche Wertengemeinschaft, was macht ihr denn mit Assange?
 * [Noch ein Grund mehr Chatbots zu vermeiden, darüber werden mittlerweile Pfischingattacken gefahren.](https://www.bleepingcomputer.com/news/security/phishing-websites-now-use-chatbots-to-steal-your-credentials/)
+* [Haha, total an mir vorbei gegangen, tldr.sh.](https://tldr.sh/) - Großer Nachteil zu den manpages, man braucht Internet dafür.
