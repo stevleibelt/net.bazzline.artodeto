@@ -68,3 +68,8 @@
 * [Der Bund fördert freie Software mit rund 51 Millionen Euro in den nächsten Jahren.](https://www.borncity.com/blog/2022/05/20/haushaltsbeschluss-des-bundestags-einigung-sich-auf-ca-51-millionen-fr-open-source-und-digitaler-souvernitt/) - Schauen wir einmal, wie viele wirkliche IT-Stellen am Ende dabei raus kommen
 * [Nein? Doch! Oh? Apple und andere konnte nicht innerhalb von Wochen auf eine fair-trade Beschaffung für ihre Geräte wechseln?](https://netzpolitik.org/2022/reihe-ueber-digitalen-kolonialismus-der-blutige-fussabdruck-unserer-digitalen-geraete/)
 * [Die Kinderschutz-Organisationen in Deutschland sehen sich auch ausgenutzt und teilen die Sorgen, dass der Kinderschutz missbraucht wird um die anstandslose Bürgerüberwachung zu implementieren.](https://netzpolitik.org/2022/massenueberwachung-das-sagen-kinderschutz-organisationen-zur-chatkontrolle/)
+* [Die Silicon Valley Blase platzt.](https://blog.fefe.de/?ts=9c766460)
+* [Nextcloud, Collabora, BigBlueButton und Moddle, warum nutzt das nicht jede Schule?](https://www.kuketz-blog.de/bildungswesen-mit-welchen-alternativen-kann-die-abkehr-von-microsoft-gelingen/) - Ach, weil Microsoft Politikern Gelder in den Arsch schiebt? Ja, dann.
+* [`ufw <rule info here> comment 'This is a comment'`](https://www.putorius.net/how-to-add-comments-to-ufw-rules.html)
+* [Firefox wurde in den Versionen 100.0.2 und 91.9.1-esr veröffentlicht.](https://www.borncity.com/blog/2022/05/20/firefox-100-0-2-und-91-9-1esr-freigegeben/)
+* [Thunderbird wurde in der Version 91.9.1 veröffentlicht.](https://www.borncity.com/blog/2022/05/21/thunderbird-91-9-1/)
