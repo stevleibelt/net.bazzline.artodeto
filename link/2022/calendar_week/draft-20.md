@@ -73,3 +73,10 @@
 * [`ufw <rule info here> comment 'This is a comment'`](https://www.putorius.net/how-to-add-comments-to-ufw-rules.html)
 * [Firefox wurde in den Versionen 100.0.2 und 91.9.1-esr veröffentlicht.](https://www.borncity.com/blog/2022/05/20/firefox-100-0-2-und-91-9-1esr-freigegeben/)
 * [Thunderbird wurde in der Version 91.9.1 veröffentlicht.](https://www.borncity.com/blog/2022/05/21/thunderbird-91-9-1/)
+* [Auch im Jahr 2022 gibt es einen weltweiten Marsch gegen Bayer/Monsanto.](https://netzfrauen.org/2022/05/21/bayer-19/) - Ach ihr lest davon nichts in den ach so freien Nachrichten? Komisch, oder?
+* [PostgreSQL Anonymizer wurde in der Version 1.0 veröffentlicht.](https://www.postgresql.org/about/news/postgresql-anonymizer-10-privacy-by-design-for-postgres-2452/)
+* [HarfBuzz wurde in der Version 4.3 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=HarfBuzz-4.3)
+* [Microsoft Teams und Windows 11 sind kaputt, Ubuntu auch.](https://www.borncity.com/blog/2022/05/21/pwn2own-windows-11-teams-ubuntu-alles-gehackt/)
+* [Systemd wurde in der Version 251 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=systemd-251)
+* [McKinsey bringt entweder den Weltfrieden oder führt die USA zur einzigen Supermacht.](https://blog.fefe.de/?ts=9c74d281)
+* [Nachdem die Welt so langsam merkt, wie sehr die Welt kaputt geht, durch die Rostoffgewinnung, hat die Industrie schon eine Idee. Sie gehen unter das Wasser, da sieht keiner die unglaubliche Zerstörung **und** man kann immer sagen >>wie waren es nicht<<.](https://netzfrauen.org/2022/05/22/deep-sea-mining/)
