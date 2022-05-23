@@ -3,3 +3,8 @@
 * [Linux wurde in der Version 5.18 veröffentlicht.](https://lwn.net/Articles/895969/)
 * [FreeFileSync wurde in der Version 11.21 veröffentlicht.](https://github.com/hkneptune/FreeFileSync/releases/tag/v11.21)
 * [>>Rüstungs-, Lebensmittel-, Energie-, Chemie- und Autokonzerne streichen derzeit astronomische Profite ein. Wetten auf steigende Weizenpreise sind seit der Coronakrise ein lukratives Geschäft für Börsenzocker. Warum billige russische Energie kaufen? Lieber beschert unsere Regierung den Aktionären des schmutzigen Fracking-Öls aus USA traumhafte Renditen. Warum Spekulationen auf Lebensmittel verbieten? Lieber lässt uns unsere Regierung hungern für den Krieg in der Ukraine. Warum auf Verhandlungen mit Russland setzen? Lieber verschafft unsere Regierung den Rüstungskonzernen Aufträge in Milliardenhöhe. Denn: Aller Reichtum der Erde kann ihren Durst nicht stillen!<<](https://weltnetz.tv/video/2665-aller-reichtum-der-erde-kann-ihren-durst-nicht-stillen)
+* [phpstan wurde in der Version 1.7.0 veröffentlicht.](https://github.com/phpstan/phpstan/releases/tag/1.7.0)
+* [PHP rector wurde in der Version 0.13 veröffentlicht.](https://github.com/rectorphp/rector/releases/tag/0.13.0)
+* [pgmetrics wurde in der Version 1.13 veröffentlicht.](https://www.postgresql.org/about/news/pgmetrics-113-released-2455/)
+* [Prof. Dr. Carsten Drebnstedt, dem Arzt den die Rohstoffe vertrauen :-).](https://www.mdr.de/wissen/mitteldeutschlands-kluegste-carsten-drebenstedt100.html) - Nur bei uns, in Freiberg an der TU Bergakademie.
+* [Warum werden eigentlich nicht die superreichen Gewinner der politischen Corona- und Ukrainekriesen besteuert?](https://weltnetz.tv/video/2666-superreiche-zur-kasse-fuer-die-kosten-der-krise-krisengewinner-und-vermoegende-hoeher)
