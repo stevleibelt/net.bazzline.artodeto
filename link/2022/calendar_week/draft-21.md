@@ -17,3 +17,9 @@
 * [Mehr als 16 Jahre war die CDU dagegen, jetzt gehen sie als Rattenfänger durch das Land und empfinden 12 Euro Mindestlohn als zu wenig.](https://blog.fefe.de/?ts=9c756e84) - Als das vor Jahren und damit vor viel weniger Inflation die Linke gefordert hat, war es die CDU, die die Linke als weltfremde Spinner bezeichnet hat.
 * [Will ein Staat die Inflation eigentlich stoppen? Nicht so wirklich, dies ist sein Mittel den Schuldenberg zu verringern.](https://blog.fefe.de/?ts=9c75baec) - Am Ende darf man hier nicht vergessen, dass wir mit FIAT-Geld arbeiten und dass es immer auch immer den Gläubiger geben muss.
 * [Wisst ihr welche Köpfe wir dringend an den leitenden Positionen der Geldströme brauchen? Köpfe, die locker flockig sagen "ist doch scheiß egal wenn Miami wegen der politischen Klimaproblematik bald unter dem Meeresspiegel liegt, bei Amsterdam klappt das doch auch. DAS PACKEN DIE DORT SCHON!"](https://blog.fefe.de/?ts=9c75a52f)
+* [Mir wurde in der Version 2.8.0 veröffentlicht.](https://github.com/MirServer/mir/releases/tag/v2.8.0)
+* [Mit EO wurde wieder ein Film in Cannes gezeigt, der die Abartigkeit der Industire aufzeigt.](https://netzfrauen.org/2022/05/24/donkey/)
+* [ARTE hat wieder mal eine unglaublich gute Dokumentation herausgebracht. >>Werden wir mehr Drogen nehmen?<<.](https://www.youtube.com/watch?v=hqkIJPS8jbI)
+* [Über schwarze Löcher hat Arte ja auch eine Dokumentation gemacht.](https://www.youtube.com/watch?v=mgXv3aE5eQc) - Wenn man einmal mit Arte anfängt :-D.
+* [Generationswechsel auch bei den Gewerkschaften. In Slowenien gibt es eine Gewerkschaft, die sich primär um die desaströsen Umständ der jungen Generation kümmert.](https://netzpolitik.org/2022/plattformarbeit-fuer-mehr-als-nur-eine-richtlinie-kaempfen/)
+* [Nein? Doch! Oh? Gesundes Essen schmeckt.](https://www.bildung.sachsen.de/blog/index.php/2022/05/24/du-bist-was-du-isst/)
