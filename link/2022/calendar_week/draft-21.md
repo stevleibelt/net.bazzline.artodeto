@@ -23,3 +23,11 @@
 * [Über schwarze Löcher hat Arte ja auch eine Dokumentation gemacht.](https://www.youtube.com/watch?v=mgXv3aE5eQc) - Wenn man einmal mit Arte anfängt :-D.
 * [Generationswechsel auch bei den Gewerkschaften. In Slowenien gibt es eine Gewerkschaft, die sich primär um die desaströsen Umständ der jungen Generation kümmert.](https://netzpolitik.org/2022/plattformarbeit-fuer-mehr-als-nur-eine-richtlinie-kaempfen/)
 * [Nein? Doch! Oh? Gesundes Essen schmeckt.](https://www.bildung.sachsen.de/blog/index.php/2022/05/24/du-bist-was-du-isst/)
+* [Diese ganzen links-rechts-queer-Bewegung zeigt erneut, wie gut die Massen zu steuern sind.](https://blog.fefe.de/?ts=9c73f3db) - "Gebt der Jugend nur ein Ziel und sie werden ungebremmst darauf los rennen."
+* [Ungarn zeigt wohin es geht. Erst politisch einen Krieg anzetteln und dann Notstandsgesetze erlassen.](https://blog.fefe.de/?ts=9c73f096) - Schade, schade, kann man leider nichts dagegen machen.
+* [NGinx wurde in der Version 1.22 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=Nginx-1.22-Released)
+* [Vulkan wurde in der Version 1.3.215 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=Vulkan-1.3.215-Released)
+* [WordPress wurde in der Version 6.0 veröffentlicht.](https://wordpress.org/news/2022/05/arturo/)
+* [Das GDPR/DSGVO wird heute vier Jahre alt.](https://noyb.eu/de/statement-zum-4-jahrestag-der-dsgvo) - Danke noyb, dass ihr für mich kämpft.
+* [nushell wurde in der Version 0.63.0 veröffentlicht.](https://github.com/nushell/nushell/releases/tag/0.63.0)
+* [system76-scheduler wurde in der Version 1.2.1 veröffentlicht.](https://github.com/pop-os/system76-scheduler/releases/tag/1.2.1)
