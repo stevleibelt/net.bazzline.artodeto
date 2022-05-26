@@ -31,3 +31,12 @@
 * [Das GDPR/DSGVO wird heute vier Jahre alt.](https://noyb.eu/de/statement-zum-4-jahrestag-der-dsgvo) - Danke noyb, dass ihr für mich kämpft.
 * [nushell wurde in der Version 0.63.0 veröffentlicht.](https://github.com/nushell/nushell/releases/tag/0.63.0)
 * [system76-scheduler wurde in der Version 1.2.1 veröffentlicht.](https://github.com/pop-os/system76-scheduler/releases/tag/1.2.1)
+* [Alle kaputten Bezahlterminals sind kaputt, weil deren ganzes Sicherheitskonzept von Wegelagern überlaufen ist.](https://blog.fefe.de/?ts=9c7172b5)
+* [Kapitalismus am Endstadium, ihr mietet ein Hotelzimmer, könnt aber nicht kommen und müsst euch auf einmal um einen Nachnutzer eurer Mietzusage kümmern.](https://blog.fefe.de/?ts=9c71feee) - Das finanzielle Risiko landet damit beim Kunden.
+* [Zoom ist kaputt.](https://blog.fefe.de/?ts=9c70832e) - Und gibt sich Mühe Cisco zu überholen.
+* [Feuer tötet in den USA jetzt mehr Kinder als Autos.](https://blog.fefe.de/?ts=9c70fcb5)
+* [Realitätsabgleich Atomenergie ist super.](https://blog.fefe.de/?ts=9c70c7fe) - Lasst das nur nicht die Grünen hören.
++ [AlmaLinux wurde in der Version 9.0 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=AlmaLinux-9.0-Released)
+* [CUPS wurde in der Version 2.4.2 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=CUPS-2.4.2-Print-Server)
+* [So ist es, Shell Skripte sollten primär lesbar sein. Wenn es um hohe Leistung geht, gibt es andere Sprachen.](https://utcc.utoronto.ca/~cks/space/blog/programming/ShellScriptsBeClearFirst)
+* [F-Droid beliefert die Welt von einem veralteten Debian aus, räumt damit auf und macht weiter.](https://lwn.net/Articles/896240/)
