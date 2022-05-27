@@ -31,7 +31,7 @@
 * [Das GDPR/DSGVO wird heute vier Jahre alt.](https://noyb.eu/de/statement-zum-4-jahrestag-der-dsgvo) - Danke noyb, dass ihr für mich kämpft.
 * [nushell wurde in der Version 0.63.0 veröffentlicht.](https://github.com/nushell/nushell/releases/tag/0.63.0)
 * [system76-scheduler wurde in der Version 1.2.1 veröffentlicht.](https://github.com/pop-os/system76-scheduler/releases/tag/1.2.1)
-* [Alle kaputten Bezahlterminals sind kaputt, weil deren ganzes Sicherheitskonzept von Wegelagern überlaufen ist.](https://blog.fefe.de/?ts=9c7172b5)
+* [Alle kaputten Bezahlterminals (Verifone) sind kaputt, weil deren ganzes Sicherheitskonzept von Wegelagern überlaufen ist.](https://blog.fefe.de/?ts=9c7172b5)
 * [Kapitalismus am Endstadium, ihr mietet ein Hotelzimmer, könnt aber nicht kommen und müsst euch auf einmal um einen Nachnutzer eurer Mietzusage kümmern.](https://blog.fefe.de/?ts=9c71feee) - Das finanzielle Risiko landet damit beim Kunden.
 * [Zoom ist kaputt.](https://blog.fefe.de/?ts=9c70832e) - Und gibt sich Mühe Cisco zu überholen.
 * [Feuer tötet in den USA jetzt mehr Kinder als Autos.](https://blog.fefe.de/?ts=9c70fcb5)
@@ -40,3 +40,15 @@
 * [CUPS wurde in der Version 2.4.2 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=CUPS-2.4.2-Print-Server)
 * [So ist es, Shell Skripte sollten primär lesbar sein. Wenn es um hohe Leistung geht, gibt es andere Sprachen.](https://utcc.utoronto.ca/~cks/space/blog/programming/ShellScriptsBeClearFirst)
 * [F-Droid beliefert die Welt von einem veralteten Debian aus, räumt damit auf und macht weiter.](https://lwn.net/Articles/896240/)
+* [Realitätsabgleich Leihmütter.](https://netzfrauen.org/2022/05/25/surrogacy/)
+* [Stratis wurde in der Version 3.1 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=Stratis-3.1-Released)
+* [Kuketz schreibt einmal ein Konzept nieder wie Datenschutz im Bildungswesen JETZT umgesetzt werden kann.](https://www.kuketz-blog.de/bildungswesen-datenschutzkonforme-loesungen-sind-die-zukunft-nicht-microsoft/)
+* [Dokumentiert euer Projekt doch mal mit Doxygen.](https://opensource.com/article/22/5/document-source-code-doxygen-linux)
+* [Schiphol ist kaputt.](https://blog.fefe.de/?ts=9c6e5143)
+* [PHP Symfony wurde in der Version 6.1 veröffentlicht.](https://symfony.com/blog/symfony-6-1-0-released)
+* [Die TU Bergakademie Freiberg forscht weiter daran aus alle Abfallstoffen Materialen zu extrahieren.](https://tu-freiberg.de/presse/freiberger-forschende-extrahieren-aus-abfallstoffen-materialien-fuer-die-zukunft)
+* [Damit ist es offiziell, jeder VMWare-Kunde sollte jetzt zu proxmoxve wechseln.](https://www.borncity.com/blog/2022/05/27/broadcom-kauft-den-anbieter-vmware-fr-61-milliarden-us-dollar/)
+* [Janne Pikkarainen zeigt was alles mit Zabbix geht, Monitoring zu Hause :-D.](https://blog.zabbix.com/whats-up-home-zabbix-the-weatherman/20897/)
+* [SteamOS wurde in der Version 3.2 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=SteamOS-3.2-Released)
+* [Das Bergmanns-Denkmal in Freiberg ist fertig und läutet damit die erste Station des Freiberger Erlebnispfades ein.](https://www.mdr.de/video/mdr-videos/a/video-625570.html)
+* [Fwupd wurde in der Version 1.8.1 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=Fwupd-1.8.1-Released)
