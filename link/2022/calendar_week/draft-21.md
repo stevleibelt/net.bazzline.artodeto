@@ -52,3 +52,9 @@
 * [SteamOS wurde in der Version 3.2 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=SteamOS-3.2-Released)
 * [Das Bergmanns-Denkmal in Freiberg ist fertig und läutet damit die erste Station des Freiberger Erlebnispfades ein.](https://www.mdr.de/video/mdr-videos/a/video-625570.html)
 * [Fwupd wurde in der Version 1.8.1 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=Fwupd-1.8.1-Released)
+* [rqlite wurde in der Version 7.5.0 veröffentlicht.](https://github.com/rqlite/rqlite/releases/tag/v7.5.0)
+* [pappl wurde in der Version 1.2.1 veröffentlicht.](https://github.com/michaelrsweet/pappl/releases/tag/v1.2.1)
+* [phpstan wurde in der Version 1.7.2 veröffentlicht.](https://github.com/phpstan/phpstan/releases/tag/1.7.2)
+* [Senmotic, die Barfuß-Manufaktur aus dem Erzgebirge, hat einen wunderbaren Pantoffel.](https://senmotic-shoes.eu/pantoffeln-gruen/)
+* [Open Space, die Barfuß-Sandale von Senmotic für den Barfußträger von heute.](https://senmotic-shoes.eu/product/open-space-1-black-camel/) - Eine Sandale für die Barfußmenschen? Und dann aus noch aus dem Erzgebirge? Senmotic liefert!
+
