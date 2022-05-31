@@ -1,0 +1,5 @@
+* [Rector wurde in der Version 0.13.3 veröffentlicht.](https://github.com/rectorphp/rector/releases/tag/0.13.3)
+* [Firefly-III wurde in der Version 5.7.9 veröffentlicht.](https://github.com/firefly-iii/firefly-iii/releases/tag/5.7.9)
+* [Jellyfin Gelli wurde in der Version 1.3.3 veröffentlicht.](https://github.com/dkanada/gelli/releases/tag/v1.3.3)
+* [phpstan wurde in der Version 1.7.6 veröffentlicht.](https://github.com/phpstan/phpstan/releases/tag/1.7.6)
+* [Archinstall wurde in der Version v2.5.0 veröffentlicht.](https://github.com/archlinux/archinstall/releases/tag/v2.5.0)
