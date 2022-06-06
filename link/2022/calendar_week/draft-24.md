@@ -1,0 +1,15 @@
+* [Hier wird euch gezeigt wie ihr PWA via Drupal umsetzt.](https://opensource.com/article/22/6/drupal-pwa)
+* [Realitätsabgleich globale Erwärmung.](https://netzfrauen.org/2022/06/05/norway-6/) - Mit Beispielen die zeigt, dass die globale Erwärmung jetzt statt findet.
+* [Herzlichen Glückwunsch Phoronix.](https://www.phoronix.com/scan.php?page=news_item&px=Phoronix-18)
+* [Zusammenfassung des Verifon H5000 Problems gibt es hier.](https://www.borncity.com/blog/2022/06/05/probleme-mit-verifone-h5000-kartenlesegerten-der-status-zum-5-juni-2022/) - Damit ist das eingetreten was ich gepredigt habe, digitales Geld macht nur so lange Spaß wie die komplexe und fragile Infrastruktur funktioniert.
+* [Man könnte die soziale Ungerechtigkeit und die verwahrloste Moral an den US-amerikanischen Schulen angehen ... oder man baut eine Taser-Drohne!](https://netzpolitik.org/2022/gegen-schulmassaker-axon-will-taserdrohne-entwickeln/)
+* [Die subventionierte Fleisch- und Milchindustrie erzeugt kranke Bauern, kranke Tiere, kranke Böden und am Ende dadurch auch kranke Kunden.](https://netzfrauen.org/2022/06/03/agriculture-2/)
+* [Microsoft Outlook und Microsoft Office sind kaputt.](https://tu-freiberg.de/urz/kritische-schwachstelle-schadcode-per-microsoft-office-eingeschleust)
+* [Nein? Doch! Oh? Lootboxing ist gegen jede Moral und Ethik.](https://netzpolitik.org/2022/lootboxen-kritik-an-manipulativen-techniken-der-gaming-industrie/)
+* [Realitätsabgleich Wegwerfgeesellschaft.](https://www.careelite.de/wegwerfgesellschaft/)
+* [Coreboot wurde in der Version 4.17 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=Coreboot-4.17)
+* [Es gibt Verfassungbeschwerden gegen die einrichtungsverbotene Impfpflicht.](https://impfentscheidung.online/einrichtungsbezogene-covid-19-impfpflicht/)
+* [Nein? Doch! Oh? Wachstum ohne Grenzen und mit dem Gedanken der Rivalität der Völker funktioniert nicht, wenn wir alle nur eine Erde haben.](https://www.sonnenseite.com/de/politik/ernst-ulrich-von-weizsaecker-gnadenlose-rivalitaet-der-voelker-ist-grundfalsch/)
+* [Thunderbird wurde in der Version 91.10.0 veröffentlicht.](https://www.borncity.com/blog/2022/06/01/thunderbird-91-10-0-sicherheitsupdate/)
+* [Firefox wurde in den Versionen 101.0 und 91.10esr veröffentlicht.](https://www.borncity.com/blog/2022/06/01/firefox-101-0-und-91-10esr-freigegeben/)
+* [OPNsense wurde in der Version 22.1.8 veröffentlicht.](https://opnsense.org/opnsense-22-1-8-released/)
