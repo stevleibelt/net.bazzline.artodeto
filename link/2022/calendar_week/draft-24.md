@@ -13,3 +13,10 @@
 * [Thunderbird wurde in der Version 91.10.0 veröffentlicht.](https://www.borncity.com/blog/2022/06/01/thunderbird-91-10-0-sicherheitsupdate/)
 * [Firefox wurde in den Versionen 101.0 und 91.10esr veröffentlicht.](https://www.borncity.com/blog/2022/06/01/firefox-101-0-und-91-10esr-freigegeben/)
 * [OPNsense wurde in der Version 22.1.8 veröffentlicht.](https://opnsense.org/opnsense-22-1-8-released/)
+* [Tails wurde in der Version 5.1 veröffentlicht.](https://lwn.net/Articles/897180/)
+* [Nein? Doch! Oh? Bei einer schöngerechneten Inflation von sieben Prozent sind die Ökonomen verdutzt, dass fünf Prozent weniger eingekauft wird.](https://blog.fefe.de/?ts=9c6642ab)
+* [Die grüne CDU ist jetzt für mehr Atombomben auf deutschen Boden.](https://blog.fefe.de/?ts=9c66545e)
+* [Confluence ist kaputt.](https://blog.fefe.de/?ts=9c6714af)
+* [Novartis ist kaputt.](https://blog.fefe.de/?ts=9c62115c) - Eins der reichsten Konzerne und doch wird überall gespart, für die Aktionäre, wisst ihr schon.
+* [Hier wird das H5000-Problem noch einmal zusammengefasst.](https://blog.fefe.de/?ts=9c63ddc0) - Turbokapitalismus im Endstadium.
+* [Schöne Idee, Ticketinfrastruktur für alles abbauen, was keine Schnellzüge sind.](https://blog.fefe.de/?ts=9c60b7ba)
