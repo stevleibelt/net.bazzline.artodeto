@@ -20,3 +20,8 @@
 * [Novartis ist kaputt.](https://blog.fefe.de/?ts=9c62115c) - Eins der reichsten Konzerne und doch wird überall gespart, für die Aktionäre, wisst ihr schon.
 * [Hier wird das H5000-Problem noch einmal zusammengefasst.](https://blog.fefe.de/?ts=9c63ddc0) - Turbokapitalismus im Endstadium.
 * [Schöne Idee, Ticketinfrastruktur für alles abbauen, was keine Schnellzüge sind.](https://blog.fefe.de/?ts=9c60b7ba)
+* [Pickle wurde in der Version 0.7.10 veröffentlicht.](https://github.com/FriendsOfPHP/pickle/releases/tag/v0.7.10)
+* [PHPstan wurde in der Version 1.7.11 veröffentlicht.](https://github.com/phpstan/phpstan/releases/tag/1.7.11)
+* [PHPqa wurde in der Version 1.72.2 veröffentlicht.](https://github.com/jakzal/phpqa/releases/tag/v1.72.2)
+* [unmanic wurde in der Version v0.2.3 veröffentlicht.](https://github.com/Unmanic/unmanic/releases/tag/0.2.3)
+* [rector wurde in der Version 0.13.4 veröffentlicht.](https://github.com/rectorphp/rector/releases/tag/0.13.4)
