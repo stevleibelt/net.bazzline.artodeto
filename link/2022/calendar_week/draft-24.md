@@ -25,3 +25,14 @@
 * [PHPqa wurde in der Version 1.72.2 veröffentlicht.](https://github.com/jakzal/phpqa/releases/tag/v1.72.2)
 * [unmanic wurde in der Version v0.2.3 veröffentlicht.](https://github.com/Unmanic/unmanic/releases/tag/0.2.3)
 * [rector wurde in der Version 0.13.4 veröffentlicht.](https://github.com/rectorphp/rector/releases/tag/0.13.4)
+* [Magisk wurde in der Version v25.0 veröffentlicht.](https://github.com/topjohnwu/Magisk/releases/tag/v25.0)
+* [Nach 15 Jahren wird nun hoffentlich alles einheitlich, wenn es um das Thema Ladegerät geht.](https://netzpolitik.org/2022/usb-c-fuer-alles-eu-schafft-lade-standard-fuer-handys-tablets-und-laptops/) - Zumindest in der EU.
+* [Hier teilt Brent seine Einstellungen für eine minimalistische PhpStorm-Umgebung.](https://stitcher.io/blog/clean-and-minimalistic-phpstorm)
+* [Telegramm wird bald Geld kosten und scheint es auf eine geschickte Art zu erreichen.](https://www.bleepingcomputer.com/news/technology/telegram-to-soon-launch-its-premium-plan-at-499-per-month/)
+* [Die EU lernt nicht aus anderen "failed states", die EU will Photovoltaik, stampft aber immer mehr lokale Produktionsketten ein.](https://www.sonnenseite.com/de/wirtschaft/solarglas-ist-der-naechste-produktionsengpass/)
+* [Miss Kittin & The Hacker bringen ihr neues Album Third heraus.](https://www.rave-strikes-back.de/?p=11057)
+* [mdr.de: Kann Geothermie Kraftwerke ersetzen?](https://www.mdr.de/nachrichten/deutschland/wirtschaft/geothermie-energie-erdwaerme-100.html) - Dank der TU Bergakademie Freiberg wird viel Wissen beündelt um diese Frage beantworten zu können.
+* [OPNsense Business Edition wurde in der Version 22.4.1 veröffentlicht.](https://opnsense.org/opnsense-business-edition-22-4-1-released/)
+* [Atomkraftwerke in Frankreich müssen gedrosselt werden, da dank der politischen Klimaproblematik die Dürre immer mehr zunimmt.](https://www.sonnenseite.com/de/energie/franzoesisches-atomkraftwerk-wegen-trockenheit-gedrosselt/)
+* [PCAPdroid wurde in der Version v1.5.1 veröffentlicht.](https://github.com/emanuele-f/PCAPdroid/releases/tag/v1.5.1)
+* [Lighttpd wurde in der Version 1.4.65 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=lighttpd-1.4.65)
