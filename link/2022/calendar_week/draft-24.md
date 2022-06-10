@@ -64,3 +64,4 @@
 * [Podman gibt es jetzt auch für Windows.](https://podman.io/2022/06/08/podman-on-windows.html)
 * [PipeWire wurde in der Version 0.3.52 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=PipeWire-0.3.52-Released)
 * [Spanien führt jetzt Bußgelder gegen Restaurants und Supermärkte ein, die Lebensmittel verschwenden.](https://netzfrauen.org/2022/06/09/foodwaste-7/) - Wer soll das kontrollieren? Kann man den BWL-er nicht einfach eine freundlichkeit ins Gesicht drücken? Gesunder Menschenverstand sollte keine Gesetze benötigen
+* [Nein? Doch! Oh? Zucker und isolierte Fette wirken wie Drogen.](https://www.youtube.com/watch?v=nh76-p3tdUk) - Das ist die Aussage einer Arte-Dokumentation. Das menschliches Fett Entzündungen im Körper erzeugen und dass Ratten lieber Zucker als Kokain nehmen wird in meinem Kopf nachhallen.
