@@ -48,3 +48,19 @@
 * [OpenSUSE Leap wurde in der Version 15.4 veröffentlicht.](https://lwn.net/Articles/897298/)
 * [Blender wurde in der Version 3.2 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=Blender-3.2-Released)
 * [Das Innenministerium will eine bessere Stasi als Norwegen oder Belgien aufbauen.](https://netzpolitik.org/2022/vorratsdaten-und-entschluesselung-rat-fuer-justiz-und-inneres-will-mehr-ueberwachung/)
+* [Dolibarr wurde in der Version 15.0.2 veröffentlicht.](https://github.com/Dolibarr/dolibarr/releases/tag/15.0.2)
+* [Zettlr wurde in der Version v2.3.0 veröffentlicht.](https://github.com/Zettlr/Zettlr/releases/tag/v2.3.0)
+* [Der ZDF hat eine spannende Dokumentation erstellt, die scheinbar total kontrovers diskutiert wird. Ich hab diese Dokumentation gesehen und find sie absolut sehenswert. >>Der Fall TELLKAMP - Streit um die Meinungsfreiheit - Dokumentarfilm von Andreas Gräfenstein<<.](https://www.youtube.com/watch?v=2q3DFiM-Ec0)
+* [NTop ist Htop für Windows.](https://github.com/gsass1/NTop)
+* [Die FDP will die AKWs jetzt länger laufen lassen.](https://blog.fefe.de/?ts=9c5f26ee) - Das passt den Betreibern nicht, da sie die Schadensersatzforderung schon als Gewinne eingerechnet haben. Zudem müssten die AKWs wohl neu zertifiziert werden, was teuer für ein Objekt wird, welches auf Verschleiß gefahren wird.
+* [Wer profitiert vom Welthunger?](https://netzfrauen.org/2022/06/09/foodcrisis/) - Die Netzfrauen zeigen es euch.
+* [Das Bundesverfassungsgericht verschiebt Deutschland einmal mehr in Richtung der USA.](https://verfassungsblog.de/das-bundesverfassungsgericht-zementiert-die-beitragsrechtliche-erdrosselung-von-familien/) - Kinder werden immer mehr zum finanziellen Nachteil und damit zum "Lifestyleprodukt" abgestempelt, jetzt auch vor dem Gesetz!
+* [vscodium, die freie Alternative zum Spionagewerkzeug MS Code, wurde in der Version 1.68.0 veröffentlicht.](https://github.com/VSCodium/vscodium/releases/tag/1.68.0)
+* [Rector wurde in der Version 0.13.5 veröffentlicht.](https://github.com/rectorphp/rector/releases/tag/0.13.5)
+* [phpstan wurde in der Version 1.7.12 veröffentlicht.](https://github.com/phpstan/phpstan/releases/tag/1.7.12)
+* [Sogar die Bundesbank schätzt so einen Ausfall wie beim Verifon H5000 als bedenklich ein.](https://blog.fefe.de/?ts=9c5cf7eb) - Nicht das die Bürger noch aufwachen und merken was das für eine scheiß Idee ist, FIAT-Geld über kaputte Infrastruktur zu digitalisieren die in privater Hand ist
+* [Das haut mich gerade um, weil ich die bisherigen Nachrichten wohl immer falsch gelesen habe. Ein Forscher-Team fängt JETZT damit an Batterien mehrfach zu recyclen.](https://www.sonnenseite.com/de/wissenschaft/forscher-team-will-batterien-erstmals-mehrfach-recyceln/) - Ich bin immer davon ausgegangen, dass man dies schon so macht. Scheinbar kann eine Batterien bisher immer nur maximal einmal aufbereitet werden
+* [Nein? Doch! Oh? Auch im Staatshaushalt wird alles von der IT nach der Anschaffung nicht mehr betreut. Deswegen wurden so viele Überwachungskameras gehakt und die Videos verkauft.](https://www.borncity.com/blog/2022/06/10/zugriffe-auf-ffentliche-private-berwachungskameras-verkauftet-italienische-hacker-gruppen-aufgeflogen/) - Wobei haken hier im Sinne von "seit Jahren unbetreute Softwarefehler ausnutzen" zu verstehen ist
+* [Podman gibt es jetzt auch für Windows.](https://podman.io/2022/06/08/podman-on-windows.html)
+* [PipeWire wurde in der Version 0.3.52 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=PipeWire-0.3.52-Released)
+* [Spanien führt jetzt Bußgelder gegen Restaurants und Supermärkte ein, die Lebensmittel verschwenden.](https://netzfrauen.org/2022/06/09/foodwaste-7/) - Wer soll das kontrollieren? Kann man den BWL-er nicht einfach eine freundlichkeit ins Gesicht drücken? Gesunder Menschenverstand sollte keine Gesetze benötigen
