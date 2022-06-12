@@ -72,3 +72,16 @@
 * [Ihr braucht ein kleines Elektromobil um auf Arbeit zu kommen? Der Carver S+ sieht total lustig aus.](https://blog.koehntopp.info/2022/06/08/carver-s.html)
 * [Das Ende vom Lied, statt Lastschrift direkt zu nutzen haben die Banken alles so beschissen gemacht, dass man jetzt PayPal nutzt.](https://blog.fefe.de/?ts=9c5dda6c) - PayPal macht am Ende auch nur Lastschrift, **aber** liest noch mit wer was an wem wofür bezahlt.
 * [Wichtige und marktkritische Vertreter zum Thema Umwelt- und Datenschutz haben sich zusammen getan und die Konferenz Bits und Bäume ins Leben gerufen.](https://www.ccc.de/de/updates/2022/bitsundbaeume2) - Bis zum 21.06.2022 können noch Beiträge eingereicht werden. Statt findet die Konferenz vom 30.09.2022 bis 02.10.2022.
+* [Tesla bescheißt halt auch bis zum abwinken.](https://blog.fefe.de/?ts=9c5b0a26) - Glaubt nur ganz dolle daran, dass deren Karren besser sind als die der anderen
+* [Haha, Microsoft Outlook nutzt google push auf dem Android Telefon.](https://www.kuketz-blog.de/outlook-versendet-microsoft-e-mail-inhalte-via-google-push-notifications/)
+* [Lol, sogar Körperfettwaagen werden neuerdings gehakt.](https://www.borncity.com/blog/2022/06/11/massenhafte-kontenbernahme-bei-smarten-yunmai-waagen-mglich/)
+* [Libinput wurde in der Version 1.21 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=libinput-1.21)
+* [Mit 74,1 Prozent ist Sven Krüger von 2022 bis 2029 neuer und alter Oberbürgermeister von der großen Kreistadt Freiberg.](https://www.mdr.de/nachrichten/sachsen/politik/kommunalwahlen/buergermeisterwahl/freiberg-ergebnis-100.html)
+* [DragonFlyBSD wurde in der Version 6.2.2 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=DragonFlyBSD-6.2.2)
+* [Der freie Markt regelt? Natürlich macht er das nicht! Am Beispiel von alten Mienen in der Slowakai könnt ihr auch das sehen.](https://netzfrauen.org/2022/06/11/slovakia/)
+* [Composer 2.4 kommt mit `composer bump`.](https://php.watch/articles/composer-bump)
+* [HeroicGamesLauncher wurde in der Version v2.3.8 veröffentlicht.](https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher/releases/tag/v2.3.8)
+* [jftui wurde in der Version 0.5.2 veröffentlicht.](https://github.com/Aanok/jftui/releases/tag/v0.5.2)
+* [workman wurde in der Version v4.0.38 veröffentlicht.](https://github.com/walkor/workerman/releases/tag/v4.0.38)
+* [Jellyfin wurde in der Version 10.8.0 veröffentlicht.](https://github.com/jellyfin/jellyfin/releases/tag/v10.8.0)
+* [pickle wurde in der Version 0.7.11 veröffentlicht.](https://github.com/FriendsOfPHP/pickle/releases/tag/v0.7.11)
