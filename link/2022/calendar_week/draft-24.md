@@ -20,3 +20,13 @@
 * [Als eine der Ressourcenuniversitäten in Deutschland leistet die TU Bergakademie Freiberg ihren Beitrag zum Thema Nachhaltigkeit.](https://tu-freiberg.de/presse/nacht-der-wissenschaft-und-wirtschaft-zeigt-freiberger-beitrag-zu-weltweiter-nachhaltigkeit) - Um die Jugend zu dem Thema zu sensibilisieren und zu begeistern, gibt es deswegen in der langen Nacht der Wissenschaft eine eigene Station
 * [Nein? Doch! Oh? Saubere Luft erhöht die Ernteerträge.](https://www.sonnenseite.com/de/wissenschaft/studie-weniger-luftverschmutzung-fuehrt-zu-hoeheren-ernteertraegen-fuehrt/)
 * [FreCAD wurde in der Version 0.20 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=FreeCAD-0.20-Released)
+* [phpstan wurde in der Version 1.7.14 veröffentlicht.](https://github.com/phpstan/phpstan/releases/tag/1.7.14)
+* [grav wurde in der Version 1.7.34 veröffentlicht.](https://github.com/getgrav/grav/releases/tag/1.7.34)
+* [Nushell wurde in der Version 0.64.0 veröffentlicht.](https://github.com/nushell/nushell/releases/tag/0.64.0)
+* [Proton wurde in der Version 7.0-3 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=Proton-7.0-3-Released)
+* [Realitätsabgleich Abholzung im Amazonas.](https://netzfrauen.org/2022/06/14/brazil-11/) - Genozid Freunde der Sonne, genau das ist es.
+* [KDE Plasma wurde in der Version 5.25.0 veröffentlicht](https://lwn.net/Articles/897848/)
+* [Die Bundesregierung hat Gazprom Germania enteignet.](https://blog.fefe.de/?ts=9c56667e) - Um die Zahlungsunfähigkeit zu verhindern, muss die Staatsbank KfW Kredite bereitstellen, die erst einmal nie zurück gezahlt werden müssen. Hier fließen also wieder öffentliche Steuergelder auf private Konten
+* [Klarer Fall von "Da wurden nicht alle Politiker richtig geschmiert, ähh abgeholt" - Die EU stimmt gegen die Versteuerung von Erdgas- und Atomenergie im Sinne von nachhaltigen Investitionen.](https://www.sonnenseite.com/de/politik/eu-ausschuesse-lehnen-taxonomie-ab/) - Die deutschen Politiker können die anderen Politiker gar nicht verstehen. Klar, die deutschen Politiker werden auch seit Jahrzehnten geschmiert
+* [Wärmepumpen im Grubenwasser? Laut Berechnungen der TU-Bergakademie Freiberg ist das durchaus sinnvoll.](https://tu-freiberg.de/presse/grubenwassernutzung-mit-waermepumpe-studie-bestaetigt-potenzial-fuer-kommunale-versorgung)
+* [Hier wird euch gezeigt, wie ihr die Benutzung von LibreOffice mit Tastenkürzel deutlich beschleunigen könnt.](https://opensource.com/article/22/6/libreoffice-keyboard-shortcuts)
