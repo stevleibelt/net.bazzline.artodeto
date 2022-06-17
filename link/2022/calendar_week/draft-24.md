@@ -44,7 +44,7 @@
 * [So fühlt sich das also an, wenn Industriezweige erfunden werden, weil die Geldgeber absolut keine Ahnung haben, wovon sie reden.](https://blog.fefe.de/?ts=9c55dd7c)
 * [WordPress ninja-forms ist kaputt.](https://www.bleepingcomputer.com/news/security/730k-wordpress-sites-force-updated-to-patch-critical-plugin-bug/)
 * [Eine Dokumentation über den Weltenzerstörer Blackrock von Arte? Schauenswert!](https://www.youtube.com/watch?v=C-MzdyL1_6w)
-* [SDL wurde in der VErsion 2.23.1 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=SDL-2.23.1-Released)
+* [SDL wurde in der Version 2.23.1 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=SDL-2.23.1-Released)
 * [Die Logs von Travis-CI sind kaputt.](https://www.borncity.com/blog/2022/06/17/potenziell-mehr-als-770-millionen-logs-der-travis-ci-api-kompromittiert/) - Hätte nur jemand gesagt, dass man nichts sensitives Logged
 * [Mesa wurde in der Version 22.1.2 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=Mesa-22.1.2-Released)
 * [PostgreSQL wurde in der Version 14.4 veröffentlicht.](https://www.postgresql.org/about/news/postgresql-144-released-2470/)
@@ -53,3 +53,5 @@
 * [Fwupd wurde in der Version 1.7.8 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=Fwupd-1.7.8-Released)
 * [Nein? Doch! Oh? Auch 2022 liefern die Netzbetreiber nicht die im Vertrag zugesicherte Bandbreite.](https://netzpolitik.org/2022/breitbandmessung-netzbetreiber-liefern-weiter-nicht-die-versprochene-internetgeschwindigkeit/) - Wie das wohl wäre, wenn es mehr ISP's in öffentlichen Händen gäbe?
 * [Patrick Breyer listet einmal auf, warum eine anstandslose Massenüberwachung der Bürger keinen Einfluss auf die Kriminalitätsbekämpfung hat.](https://www.patrick-breyer.de/warum-flaechendeckende-vorratsdatenspeicherung-keinen-einfluss-auf-die-kriminalitaetsbekaempfung-hat/)
+* [Der 17.06.2022 ist ein trauriger Tag, an dem Tag wurden die Pressefreiheit, die Menschenrechte und die Rechtsstaatlichkeit der westlichen Welt entgültig für beendet erklärt.](https://netzpolitik.org/2022/auslieferung-von-julian-assange-angriff-auf-die-pressefreiheit-von-uns-allen/)
+* [Webdesign in vier Minuten erklärt.](https://jgthms.com/web-design-in-4-minutes/)
