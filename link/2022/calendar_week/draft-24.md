@@ -55,3 +55,6 @@
 * [Patrick Breyer listet einmal auf, warum eine anstandslose Massenüberwachung der Bürger keinen Einfluss auf die Kriminalitätsbekämpfung hat.](https://www.patrick-breyer.de/warum-flaechendeckende-vorratsdatenspeicherung-keinen-einfluss-auf-die-kriminalitaetsbekaempfung-hat/)
 * [Der 17.06.2022 ist ein trauriger Tag, an dem Tag wurden die Pressefreiheit, die Menschenrechte und die Rechtsstaatlichkeit der westlichen Welt entgültig für beendet erklärt.](https://netzpolitik.org/2022/auslieferung-von-julian-assange-angriff-auf-die-pressefreiheit-von-uns-allen/)
 * [Webdesign in vier Minuten erklärt.](https://jgthms.com/web-design-in-4-minutes/)
+* [Auf welcher Grundlage werden in der Politik Entscheidungen getroffen? "Na, das machen die doch nicht"](https://blog.fefe.de/?ts=9c535c46)
+* [2050? Da gibt es nur noch wenig Menschen und wenig Erde.](https://netzfrauen.org/2022/06/18/climate-8/)
+* [Manjaro wurde in der Version 21.3 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=Manjaro-21.3-Released)
