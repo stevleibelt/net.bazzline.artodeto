@@ -1,0 +1,2 @@
+* [Nein? Doch! Oh? Das Javascript in euren Chrome Erweiterungen können euch eineindeutig identifiziertbar machen.](https://www.bleepingcomputer.com/news/security/google-chrome-extensions-can-be-fingerprinted-to-track-you-online/)
+* [Noch einmal das Nein, Doch, Oh Spiel und schon wieder Chrome Erweiterungen, jetzt filtern die auch noch eine Suchergebnisse.](https://www.bleepingcomputer.com/news/technology/chrome-browser-extension-lets-you-remove-specific-sites-from-search-results/)
