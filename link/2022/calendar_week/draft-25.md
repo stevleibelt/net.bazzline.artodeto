@@ -8,3 +8,8 @@
 * [Die Nacht der Wissenschaft und Wirtschaft in Freiberg war ein voller Erfolg.](https://tu-freiberg.de/presse/schaufenster-fuer-nachhaltigkeit-tausende-bei-nacht-der-wissenschaft-und-wirtschaft-in-freibe)
 * [Zstd unter Arch Linux ist sehr langsam, aber, der Techniker ist informiert.](https://www.phoronix.com/scan.php?page=news_item&px=Arch-Linux-Bizarre-Zstd)
 * [Mold wurde in der Version 1.3 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=Mold-1.3-Released)
+* [Kuketz pürft die Anwedungen von Post und DHL, vom Standpunkt des Datenschutzes ist es weiterhin ein Armutszeugis.](https://www.kuketz-blog.de/post-dhl-datenschutz-unbekannt-verzogen-app-check-teil2/)
+* [Das Stadt- und Bergbaumuseum in Freiberg hat eine neue Webseite.](https://www.museum-freiberg.de/)
+* [Das X Window System wurde gestern 38 Jahre.](https://www.phoronix.com/scan.php?page=news_item&px=X-Windows-System-38)
+* [phpqa wurde in der Version 1.72.3 veröffentlicht.](https://github.com/jakzal/phpqa/releases/tag/v1.72.3)
+* [phpstan wurde in der Version 1.7.15 veröffentlicht.](https://github.com/phpstan/phpstan/releases/tag/1.7.15)
