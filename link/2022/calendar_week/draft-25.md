@@ -1,2 +1,10 @@
 * [Nein? Doch! Oh? Das Javascript in euren Chrome Erweiterungen können euch eineindeutig identifiziertbar machen.](https://www.bleepingcomputer.com/news/security/google-chrome-extensions-can-be-fingerprinted-to-track-you-online/)
 * [Noch einmal das Nein, Doch, Oh Spiel und schon wieder Chrome Erweiterungen, jetzt filtern die auch noch eine Suchergebnisse.](https://www.bleepingcomputer.com/news/technology/chrome-browser-extension-lets-you-remove-specific-sites-from-search-results/)
+* [opentrack wurde in der Version 2022.3.0 veröffentlicht.](https://github.com/opentrack/opentrack/releases/tag/opentrack-2022.3.0)
+* [Magisk wurde in der Version v25.1 veröffentlicht.](https://github.com/topjohnwu/Magisk/releases/tag/v25.1)
+* [FairMail wurde in der Version 1.1924 veröffentlicht.](https://github.com/M66B/FairEmail/releases/tag/1.1924)
+* [Wenn die Infrastruktur ungeplante Dinge abhält - Ein TGV fährt auf den Straßenbahnschienen in Brno (Tschechien).](https://blog.fefe.de/?ts=9c53371c)
+* [Hessen könnte OpenTalk, BigBlueButton, Jitsi, oder, oder, oder nutzen, oder man mietet proprietäre Software, mietet noch einen extra Dienstleister der in der EU sitzt und noch einen extra Dienstleister der irgendwie sicherstellt, dass keine Daten in die USA fließen.](https://www.borncity.com/blog/2022/06/20/zoom-an-hessischen-hochschulen-fr-lehrveranstaltungen-zulssig/) - Für denen hessischen Datenschutzbeauftragten hat sich dieser Bocksprung hoffentlich gelohnt, für die hessische Bevölkerung wird das nur ein weiteres Millionengrab sein
+* [Die Nacht der Wissenschaft und Wirtschaft in Freiberg war ein voller Erfolg.](https://tu-freiberg.de/presse/schaufenster-fuer-nachhaltigkeit-tausende-bei-nacht-der-wissenschaft-und-wirtschaft-in-freibe)
+* [Zstd unter Arch Linux ist sehr langsam, aber, der Techniker ist informiert.](https://www.phoronix.com/scan.php?page=news_item&px=Arch-Linux-Bizarre-Zstd)
+* [Mold wurde in der Version 1.3 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=Mold-1.3-Released)
