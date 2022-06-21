@@ -13,3 +13,10 @@
 * [Das X Window System wurde gestern 38 Jahre.](https://www.phoronix.com/scan.php?page=news_item&px=X-Windows-System-38)
 * [phpqa wurde in der Version 1.72.3 veröffentlicht.](https://github.com/jakzal/phpqa/releases/tag/v1.72.3)
 * [phpstan wurde in der Version 1.7.15 veröffentlicht.](https://github.com/phpstan/phpstan/releases/tag/1.7.15)
+* [Der sächsische Datenschutzbeauftragte hat mit saechsdsb.de eine eigene Webseite.](https://www.saechsdsb.de)
+* [Großbritanien muss ihre Bahn zurückkaufen.](https://blog.fefe.de/?ts=9c4fac7f) - Das muss die magische Hand des freien Marktes sein, die dort die Infrastruktur runtergewirtschaftet hat. Kurzum, alle Gewinne wurden privatisiert, jetzt darf der Bürger die Wartung bezahlen
+* [Nextcloud wurde in den Versionen 24.0.2, 23.0.6 und 22.2.9 veröffentlicht.](https://nextcloud.com/blog/maintenance-releases-24-0-1-23-0-5-and-22-2-8-are-out-update-2/)
+* [Anstandslose Massenüberwachung aus der Luft? Denkt genau daran, wenn ihr demnächst Zeppeline sehen ... wenn ihr denn welche seht.](https://netzpolitik.org/2022/videoueberwachung-aus-der-stratosphaere-neues-zeitalter-fuer-ueberwachungsballons/)
+* [Der EuGH reduziert die anstandslose Massenüberwachung aller Fluggäste ein wenig, lässt das Problem aber bestehen.](https://netzpolitik.org/2022/fluggastdatenregister-eugh-urteil-beschraenkt-massenueberwachung-bei-flugreisen/)
+* [HDDs wurden in den letzten Jahren schneller und niemand merkt es.](https://utcc.utoronto.ca/~cks/space/blog/tech/HDDsNowSomewhatBetter)
+* [Mal wieder eine tolle Dokumentation von Arte. O-Ton, 16 Prozent der angebauten Pflanzen werden in Deutschland zum direkten Verzehr genutzt.](https://www.youtube.com/watch?v=tXfFh1lpKQI) - Nichts mit Nahrungsmittelkriese!
