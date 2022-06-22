@@ -20,3 +20,8 @@
 * [Der EuGH reduziert die anstandslose Massenüberwachung aller Fluggäste ein wenig, lässt das Problem aber bestehen.](https://netzpolitik.org/2022/fluggastdatenregister-eugh-urteil-beschraenkt-massenueberwachung-bei-flugreisen/)
 * [HDDs wurden in den letzten Jahren schneller und niemand merkt es.](https://utcc.utoronto.ca/~cks/space/blog/tech/HDDsNowSomewhatBetter)
 * [Mal wieder eine tolle Dokumentation von Arte. O-Ton, 16 Prozent der angebauten Pflanzen werden in Deutschland zum direkten Verzehr genutzt.](https://www.youtube.com/watch?v=tXfFh1lpKQI) - Nichts mit Nahrungsmittelkriese!
+* [Wow, Rust könnte wohl mit Linux 5.20 in den Kernel wandern.](https://www.phoronix.com/scan.php?page=news_item&px=Rust-For-Linux-5.20-Possible) - "In den Kernel wandern" meint hier, dass Rust-Code im Kernel genutzt wird
+* [HCL Domino wird ab dem 01.06.2024 in den Versionen 9 und 10 nicht mehr unterstützt.](https://n-komm.de/end-of-support-fuer-domino-versionen-9-und-10-angekuendigt/)
+* [Hier wird euch gezeigt, wie ihr Windows Terminal ohne Windows Store installiert bekommt.](https://www.windowspro.de/tipp/windows-terminal-ohne-store-windows-server-installieren)
+* [Realitätsabgleich "Haben wir Platz für Windkraftanlage und zerstört es die Natur?"](https://www.sonnenseite.com/de/tipps/wo-sollen-bloss-all-die-windraeder-hin/) - Nein, nein und noch einmal nein. Besonders wenn wir Braunkohletagebau und Atomkraftwerk dagegen stellen. Und als zahl, Deutschland braucht rund 50.000 Windkraftanlagen, dann sind wir mit der Energiewende durch
+* [Percona bietet den MySQL-Administratoren eine schöne Serie um den Wechsel auf PostgreSQL zu vereinfachen.](https://www.percona.com/blog/postgresql-for-mysql-dbas-episodes-3-and-4/)
