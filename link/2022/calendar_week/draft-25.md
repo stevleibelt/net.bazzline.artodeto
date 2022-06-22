@@ -25,3 +25,8 @@
 * [Hier wird euch gezeigt, wie ihr Windows Terminal ohne Windows Store installiert bekommt.](https://www.windowspro.de/tipp/windows-terminal-ohne-store-windows-server-installieren)
 * [Realitätsabgleich "Haben wir Platz für Windkraftanlage und zerstört es die Natur?"](https://www.sonnenseite.com/de/tipps/wo-sollen-bloss-all-die-windraeder-hin/) - Nein, nein und noch einmal nein. Besonders wenn wir Braunkohletagebau und Atomkraftwerk dagegen stellen. Und als zahl, Deutschland braucht rund 50.000 Windkraftanlagen, dann sind wir mit der Energiewende durch
 * [Percona bietet den MySQL-Administratoren eine schöne Serie um den Wechsel auf PostgreSQL zu vereinfachen.](https://www.percona.com/blog/postgresql-for-mysql-dbas-episodes-3-and-4/)
+* [TrueNAS Scale wurde in der Version 22.02.2 veröffentlicht.](https://github.com/truenas/documentation/releases/tag/TS22.02.2)
+* [Joomla! wurde in der Version 3.10.10 veröffentlicht.](https://github.com/joomla/joomla-cms/releases/tag/3.10.10)
+* [Joomla! wurde in der Version 4.1.5 veröffentlicht.](https://github.com/joomla/joomla-cms/releases/tag/4.1.5)
+* [Nein? Doch! Oh? Die USA und die EU erfassen biometrische Daten aller reisenden Personen und wollen dies ab 2027 verpflichtend und permanent austauschen.](https://netzpolitik.org/2022/partnerschaft-fuer-grenzsicherheit-eu-staaten-erwaegen-historisch-einmaliges-biometrie-abkommen-mit-den-usa/) - Kurzum, eine Datenbank entsteht mit allen Bewegungsdaten von Personen zum globalen Abgleich
+* [Hier wird euch `rustup` erklärt.](https://opensource.com/article/22/6/rust-toolchain-rustup)
