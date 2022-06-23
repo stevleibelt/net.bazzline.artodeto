@@ -30,3 +30,10 @@
 * [Joomla! wurde in der Version 4.1.5 veröffentlicht.](https://github.com/joomla/joomla-cms/releases/tag/4.1.5)
 * [Nein? Doch! Oh? Die USA und die EU erfassen biometrische Daten aller reisenden Personen und wollen dies ab 2027 verpflichtend und permanent austauschen.](https://netzpolitik.org/2022/partnerschaft-fuer-grenzsicherheit-eu-staaten-erwaegen-historisch-einmaliges-biometrie-abkommen-mit-den-usa/) - Kurzum, eine Datenbank entsteht mit allen Bewegungsdaten von Personen zum globalen Abgleich
 * [Hier wird euch `rustup` erklärt.](https://opensource.com/article/22/6/rust-toolchain-rustup)
+* [Hier habt nur `nmtui` und `nmcli`, müsst euch aber an einem `eduroam` verbinden? Hier wird euch geholfen.](https://github.com/stevleibelt/General_Howtos/tree/master/network/networkmanager)
+* [GMail nutzt seine Marktmacht aus um seine Vorstellung von sicherer E-Mail-Kommunikation durchzudrücken.](https://utcc.utoronto.ca/~cks/space/blog/spam/DKIMSigningMostlyMandatory?showcomments#comments)
+* [Endlich, endlich, endlich ist OpenZFS in der Version 2.1.5 veröffentlicht worden.](https://www.phoronix.com/scan.php?page=news_item&px=OpenZFS-2.1.5-Released) - Damit ist OpenZFS auch kompatible zum Kernel 5.18. Danke!
+* [VKD3D wurde in der Version 1.4 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=VKD3D-1.4-Released)
+* [PornHub ist wohl am Ende.](https://netzpolitik.org/2022/mindgeek-pornhub-chefs-schmeissen-hin/)
+* [FailEmail wurde in der Version 1.1925 veröffentlicht.](https://github.com/M66B/FairEmail/releases/tag/1.1925)
+* [Flameshot wurde in der Version v12.0.0 veröffentlicht.](https://github.com/flameshot-org/flameshot/releases/tag/v12.0.0)
