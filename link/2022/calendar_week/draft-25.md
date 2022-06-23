@@ -37,3 +37,5 @@
 * [PornHub ist wohl am Ende.](https://netzpolitik.org/2022/mindgeek-pornhub-chefs-schmeissen-hin/)
 * [FailEmail wurde in der Version 1.1925 veröffentlicht.](https://github.com/M66B/FairEmail/releases/tag/1.1925)
 * [Flameshot wurde in der Version v12.0.0 veröffentlicht.](https://github.com/flameshot-org/flameshot/releases/tag/v12.0.0)
+* [AltSnap wurde in der Version 1.53 veröffentlicht.](https://github.com/RamonUnch/AltSnap/releases/tag/1.53)
+* [Barman wurde in der Version 3.0.0 veröffentlicht.](https://github.com/EnterpriseDB/barman/releases/tag/release/3.0.0)
