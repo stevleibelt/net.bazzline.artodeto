@@ -39,3 +39,6 @@
 * [Flameshot wurde in der Version v12.0.0 veröffentlicht.](https://github.com/flameshot-org/flameshot/releases/tag/v12.0.0)
 * [AltSnap wurde in der Version 1.53 veröffentlicht.](https://github.com/RamonUnch/AltSnap/releases/tag/1.53)
 * [Barman wurde in der Version 3.0.0 veröffentlicht.](https://github.com/EnterpriseDB/barman/releases/tag/release/3.0.0)
+* [Selenium wurde in der Version 4.3.0 veröffentlicht.](https://github.com/SeleniumHQ/selenium/releases/tag/selenium-4.3.0)
+* [FreeFileSync wurde in der Version 11.22 veröffentlicht.](https://github.com/hkneptune/FreeFileSync/releases/tag/v11.22)
+* [PCAPdroid wurde in der Version v1.5.2 veröffentlicht.](https://github.com/emanuele-f/PCAPdroid/releases/tag/v1.5.2)
