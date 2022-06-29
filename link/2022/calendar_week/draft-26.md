@@ -21,3 +21,11 @@
 * [HCL Domino wurde in der Version 10.0.1 FP8 veröffentlicht.](https://n-komm.de/hcl-domino-10-0-1-fp8-veroeffentlicht/)
 * [Die EU fordert, dass sich Solaranlagen bereits nach 10 Jahren rechnen.](https://www.sonnenseite.com/de/wirtschaft/steigende-kosten-fuer-solarkredite-ausgleichen/) - Würde in Deutschland nur eine Partei reagieren, die sich den Schutz der Natur auf die Fahne geschrieben hat, müsste diese Forderung doch super schnell umsetzbar sein, oder?
 * [Schönes Beispiel von FeFe, mit unserer Software muss man nicht leben, mit dem Wetter schon.](https://blog.fefe.de/?ts=9c471cc3) - Statt zu verbieten, dass man mit Softwarefehlern Geld verdienen kann, sollte man lieber ein Gesetz verankern, welches sichere Software garantiert. Das Konzept ging bei den Autos auch erschreckend gut auf.
+* [Inzest und Kindesmissbrauch? Die aufgedeckten Zahlen in Frankfreich sind erschreckend.](https://www.youtube.com/watch?v=72KGIVbkXE8)
+* [Kubernetes ist kaputt.](https://www.bleepingcomputer.com/news/security/over-900-000-kubernetes-instances-found-exposed-online/)
+* [GCC wurde in der Version 10.4 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=GCC-10.4-Released)
+* [Damit es noch einmal jeder gelesen hat, ab dem 01.09.1939, *ähh*, 2022 WIRD ZURÜCK GECYBERT!](https://www.heise.de/news/Zero-Trust-Bund-will-bei-IT-Sicherheit-niemandem-mehr-vertrauen-7156348.html)
+* [Thunderbird wurde in der Version 102 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=Thunderbird-102-Released)
+* [VIM wurde in der Version 9.0 veröffentlicht.](https://lwn.net/Articles/899302/)
+* [Realitätsabgleich Europol, es werden zu viele Daten unter zu wenig Aufsicht erhoben.](https://netzpolitik.org/2022/europol-in-der-kritik-zuviel-daten-zu-wenig-aufsicht/)
+* [Frank hat mit seinem "Blackhole 6000" einen Nerv bei mir getroffen. Ob man das auch zum "kostenfreien Schuppenheizen" im Winter nutzen kann?](https://frank.geekheim.de/?p=2520)
