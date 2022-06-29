@@ -29,3 +29,8 @@
 * [VIM wurde in der Version 9.0 veröffentlicht.](https://lwn.net/Articles/899302/)
 * [Realitätsabgleich Europol, es werden zu viele Daten unter zu wenig Aufsicht erhoben.](https://netzpolitik.org/2022/europol-in-der-kritik-zuviel-daten-zu-wenig-aufsicht/)
 * [Frank hat mit seinem "Blackhole 6000" einen Nerv bei mir getroffen. Ob man das auch zum "kostenfreien Schuppenheizen" im Winter nutzen kann?](https://frank.geekheim.de/?p=2520)
+* [mucommander wurde in der Version 1.0.1-1 veröffentlicht.](https://github.com/mucommander/mucommander/releases/tag/1.0.1-1)
+* [harfbuzz wurde in der Version 4.4.1 veröffentlicht.](https://github.com/harfbuzz/harfbuzz/releases/tag/4.4.1)
+* [ZFSBootMenu wurde in der Version v2.0.0 veröffentlicht.](https://github.com/zbm-dev/zfsbootmenu/releases/tag/v2.0.0)
+* [Metabase wurde in der Version v0.43.4 veröffentlicht.](https://github.com/metabase/metabase/releases/tag/v0.43.4)
+* [Metabase Enterprise Edition wurde in der Version v1.43.4 veröffentlicht.](https://github.com/metabase/metabase/releases/tag/v1.43.4)
