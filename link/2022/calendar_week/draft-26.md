@@ -51,3 +51,12 @@
 * [Aus `login.sophos.com` wurde `central.sophos.com`, doof nur, dass es keine Weiterleitung gibt.](https://www.borncity.com/blog/2022/06/30/achtung-sophos-central-hat-login-geaendert-juni-2022/) - Stattdessen, Achtung festhalten, kriegt ihr eine Exception präsentiert
 * [Schon wieder Notfall-Fonds, dieses mal für Unternehmen die ihre Bauinfrastruktur auf Verschleiß gefahren haben.](https://www.sonnenseite.com/de/energie/erdgaskrise-durch-ukraine-krieg-countdown-fuer-ein-gasspar-programm/) - Es geht um Energiesparen, Bürger werden zur Kasse gebeten (Frieren für den Frieden) und Unternehmen werden subentioniert
 * [Die Postbank will unbedingt alle Daten ihrer Kunden, deswegen wird das sichere chipTAN eingestellt und dafür gibt es dann eine App, oder SealOne.](https://www.kuketz-blog.de/statt-sicherem-chiptan-postbank-setzt-auf-app-und-oder-sealone/)
+* [Schöne Sache, das 9 Euro-Ticket hilft, dass Leute mehr Fahrrad fahren.](https://blog.fefe.de/?ts=9c4325e4) - Denn durch die mentale Stütze "Ich werde nach Hause gefahren", traut man sich auch mal ein paar Kilometer mehr zu und kommt so aus seinem Dunstkreis raus
+* [Wayland wurde in der Version 1.21 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=Wayland-1.21-Released)
+* [Es ist wohl wirklich Zeit "tschüss" von Github zu sagen.](https://lwn.net/Articles/899530/)
+* [Rust wurde in der Version 1.62.0 veröffentlicht.](https://lwn.net/Articles/899521/)
+* [Der fünfte Teil der Percona-Serie "PostgreSQL für MySQL DB-Admins" wurde veröffentlicht.](https://www.percona.com/blog/postgresql-sequences-episode-5-of-postgresql-for-mysql-dbas/)
+* [Das Essen aus der Maschine wird immer ekliger.](https://netzfrauen.org/2022/06/30/food-11/) - Und das alles nur wegen der Lüge, dass wir die Welt nicht satt bekommen. Wir bekommen die Welt satt, durch faire Verteilung, durch weniger Fleischverzehr und dadurh weniger Nutzen der Anbauflächen um Monokulturen für die Tiermast zu verschwenden
+* [Berechtigte Frage, bei der unmenschlichen "Sicherheitskontrolle" steht Personal da, sonst ist gähnende leere auf dem Flughafen.](https://tuxproject.de/blog/2022/06/kurz-gefragt-zum-flugchaos/)
+* [Harte Gedanken zum Thema "Hat sich die Demokratie mit den Austausch von Politiker durch Lobbyarbeiter selbst abgeschafft?"](https://verfassungsblog.de/duldung-akzeptanz/)
+* [H&M, Zara und wie diese ganze Weltenvernichter für Kinderarbeitsplätze sich auch nennen, dank deren Raubbau geht die Erde, für uns Menschen, noch schneller kaputt.](https://netzfrauen.org/2022/06/30/fashion-8/)
