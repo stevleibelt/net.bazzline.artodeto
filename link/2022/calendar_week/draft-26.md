@@ -60,3 +60,4 @@
 * [Berechtigte Frage, bei der unmenschlichen "Sicherheitskontrolle" steht Personal da, sonst ist gähnende leere auf dem Flughafen.](https://tuxproject.de/blog/2022/06/kurz-gefragt-zum-flugchaos/)
 * [Harte Gedanken zum Thema "Hat sich die Demokratie mit den Austausch von Politiker durch Lobbyarbeiter selbst abgeschafft?"](https://verfassungsblog.de/duldung-akzeptanz/)
 * [H&M, Zara und wie diese ganze Weltenvernichter für Kinderarbeitsplätze sich auch nennen, dank deren Raubbau geht die Erde, für uns Menschen, noch schneller kaputt.](https://netzfrauen.org/2022/06/30/fashion-8/)
+* [archzfs iso wurde in der Version 20220630T23:45:43 veröffentlicht.](https://archzfs.leibelt.de/)
