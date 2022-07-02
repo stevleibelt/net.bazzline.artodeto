@@ -61,3 +61,14 @@
 * [Harte Gedanken zum Thema "Hat sich die Demokratie mit den Austausch von Politiker durch Lobbyarbeiter selbst abgeschafft?"](https://verfassungsblog.de/duldung-akzeptanz/)
 * [H&M, Zara und wie diese ganze Weltenvernichter für Kinderarbeitsplätze sich auch nennen, dank deren Raubbau geht die Erde, für uns Menschen, noch schneller kaputt.](https://netzfrauen.org/2022/06/30/fashion-8/)
 * [archzfs iso wurde in der Version 20220630T23:45:43 veröffentlicht.](https://archzfs.leibelt.de/)
+* [Die Nato und damit die USA nutzen jetzt die Gelder der Zwangsmitglieder um noch mehr für das Militär zu forschen. Nennt sich jetzt DIANA.](https://blog.fefe.de/?ts=9c41840c) - Natürlich haben die USA Exklusivrechte auf das geschaffene Wissen
+* [Die USA macht sich immer mehr kaputt.](https://blog.fefe.de/?ts=9c403708] - Für mich überraschend, dass sie noch immer tiefer sinken können
+* [Griechenland muss sich zwangsweise 20 F-35 und ein paar Kriegsschiffe kaufen.](https://blog.fefe.de/?ts=9c402048) - Die magische Hand des freien Marktes, Blackrock, ihr wisst schon
+* [Wie gut und nützlich waren die politischen Coronamaßnahmen? Na, das will die Regierung jetzt nicht so genau wissen.](https://blog.fefe.de/?ts=9c401ba2) - Wow, also kein Wunsch zum lernen
+* [Arte hat wieder eine Dokumentation, Geschäftsbanken plündern unser Geldsystem und gehörten an die kurze Leine.](https://www.youtube.com/watch?v=NMUFAzV6C5M) - Deswegen darf euch, wenn ihr einen Investmentbanker trefft, ruhig mal die Hans ausrutschen
+* [Gute Idee von Fedora, Fedora spaltet Firmware-Blobs in Gerätekategorien auf.](https://www.phoronix.com/scan.php?page=news_item&px=Fedora-37-Firmware-Growth)
+* [Wisst ihr noch? Jede Zensur wurde euch als "Kampf gegen den Terrorismus" verkauft. Nun, 2022 ist Vandalismus jetzt auch schon Terrorismus.](https://netzpolitik.org/2022/aktivismus-gegen-abtreibungsverbote-meta-stuft-janes-revenge-als-terrororganisation-ein/) - Versteht mich nicht falsch, Vandalismus ist nicht gut, aber eben kein Terrorismus.
+* [Ja, da geht es hin. Die USA wird alle Daten von jeder Person nutzen um heraus zufinden ob man heimlich eine Abtreibung hat durchführen lassen.](https://netzpolitik.org/2022/kw-26-die-woche-nach-dem-vernichtenden-angriff-auf-reproduktive-rechte/) - Ihr wisst schon, wegen dem Kampf gegen den Terror und so
+* [Schön diese Globalisierung, da keiner mehr weiß wo etwas hergestellt wird, kann man immer die Preise nach oben schrauben.](https://blog.fefe.de/?ts=9c3ee56d) - Als nächstes wird Plastik durch das Dorf getrieben
+* [Darktable wurde in der Version 4.0.0 veröffentlicht.](https://lwn.net/Articles/899805/)
+* [Xonotic wurde in der Version 0.8.5 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=Xonotic-0.8.5-Released)
