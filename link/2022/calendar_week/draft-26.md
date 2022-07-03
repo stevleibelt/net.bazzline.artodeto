@@ -72,3 +72,10 @@
 * [Schön diese Globalisierung, da keiner mehr weiß wo etwas hergestellt wird, kann man immer die Preise nach oben schrauben.](https://blog.fefe.de/?ts=9c3ee56d) - Als nächstes wird Plastik durch das Dorf getrieben
 * [Darktable wurde in der Version 4.0.0 veröffentlicht.](https://lwn.net/Articles/899805/)
 * [Xonotic wurde in der Version 0.8.5 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=Xonotic-0.8.5-Released)
+* [Firewalld wurde in der Version 1.2 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=Firewalld-1.2-Released)
+* [11 Millionen Tonnen Lebensmittel werden in Deutschland pro Jahr weggeworfen.](https://www.sonnenseite.com/de/umwelt/in-deutschland-entstehen-jaehrlich-11-millionen-tonnen-lebensmittelabfaelle/)
+* [Wine wurde in der Version 7.12 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=Wine-7.12-Released)
+* [phpqa wurde in der Version 1.74.0 veröffentlicht.](https://github.com/jakzal/phpqa/releases/tag/v1.74.0)
+* [Flameshot wurde in der Version v12.1.0 veröffentlicht.](https://github.com/flameshot-org/flameshot/releases/tag/v12.1.0?notification_referrer_id=NT_kwDOACLmdLIzOTI4MDQ5OTMyOjIyODcyMjA&notifications_query=is%3Aunread)
+* [PHP Alice wurde in der Version v3.11.0 veröffentlicht.](https://github.com/nelmio/alice/releases/tag/v3.11.0?notification_referrer_id=NT_kwDOACLmdLIzOTI3MzQ2NTQ1OjIyODcyMjA&notifications_query=is%3Aunread)
+* [Sound Open Firmware wurde in der Version 2.2 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=Sound-Open-Firmware-2.2)
