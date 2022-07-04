@@ -1,3 +1,10 @@
 * [Covid-19 Impfung für Kinder ab 5 Jahren? Die wirtschaftsnahe und menschenferne StiKo empfiehlt dies, obwohl die Impfung zu keiner Infektionsverhindern, keinen Eigenschutz und keinen Fremdschutz führt.](https://impfentscheidung.online/kinder-ab-5-jahren-gegen-corona-impfen-fragwuerdige-begruendungen-der-stiko/) - Aber ihr müsst verstehen, die Pharmaunternehmen hatten echt harte Jahre hinter sich!
 * [Hier gibt es mal etwas um aus dem eigenen Viereck heraus zudenken. Dataisystem vs. generelle Baumstrukturen.](https://utcc.utoronto.ca/~cks/space/blog/tech/FilesystemsVsGeneralTrees)
 * [Da merkt man wohl, dass man alt wird. Starshop Troopers ist von 1997.](https://blog.fefe.de/?ts=9c3cd60f) - Und gleichzeitig muss man, als alter Mann, lernen, dass auch die Jugend von Heute Satiere konsumieren kann, die man selbst nicht versteht. Für mich war die Satiere in Starship Troopers so offensichtlich
+* [PSR7-Sessions wurde in der Version 8.5.0 veröffentlicht.](https://github.com/psr7-sessions/storageless/releases/tag/8.5.0)
+* [Sophia Script for Windows wurde in der Version 6.1.0 veröffentlicht.](https://github.com/farag2/Sophia-Script-for-Windows/releases/tag/6.1.0)
+* [Vom 01.10.2022 bis 04.10.2022 finden in Berlin die Nextcloud-Konferenztage statt.](https://nextcloud.com/blog/youre-invited-nextcloud-conference-on-october-1-2-in-berlin/)
+* [Django wurde in den Versionen 4.0.6 und 3.2.14 veröffentlicht.](https://www.bleepingcomputer.com/news/security/django-fixes-sql-injection-vulnerability-in-new-releases/)
+* [Aber das tut man doch nicht! Stimmt, aber Andere könnten es etwaig tun. Nutzt PHPStan um Dinge wie `$foo->__construct('bar');` zu vermeiden.](https://matthiasnoback.nl/2022/07/effective-immutability-with-phpstan/)
+* [Wie sehr kann man den Konzernpolitikern trauen? Siehe EU-Impfstoffkauf!](https://netzpolitik.org/2022/informationsfreiheitsbeauftragte-regierungs-chats-muessen-zu-den-akten/)
+* [Hier zeigt euch noch jemand, wie gut der Ranger-Dateimanager mittlerweile geworden ist.](https://opensource.com/article/22/7/manage-files-linux-terminal-ranger)
