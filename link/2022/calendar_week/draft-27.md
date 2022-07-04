@@ -1,1 +1,3 @@
-* [
+* [Covid-19 Impfung für Kinder ab 5 Jahren? Die wirtschaftsnahe und menschenferne StiKo empfiehlt dies, obwohl die Impfung zu keiner Infektionsverhindern, keinen Eigenschutz und keinen Fremdschutz führt.](https://impfentscheidung.online/kinder-ab-5-jahren-gegen-corona-impfen-fragwuerdige-begruendungen-der-stiko/) - Aber ihr müsst verstehen, die Pharmaunternehmen hatten echt harte Jahre hinter sich!
+* [Hier gibt es mal etwas um aus dem eigenen Viereck heraus zudenken. Dataisystem vs. generelle Baumstrukturen.](https://utcc.utoronto.ca/~cks/space/blog/tech/FilesystemsVsGeneralTrees)
+* [Da merkt man wohl, dass man alt wird. Starshop Troopers ist von 1997.](https://blog.fefe.de/?ts=9c3cd60f) - Und gleichzeitig muss man, als alter Mann, lernen, dass auch die Jugend von Heute Satiere konsumieren kann, die man selbst nicht versteht. Für mich war die Satiere in Starship Troopers so offensichtlich
