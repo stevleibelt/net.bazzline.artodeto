@@ -8,3 +8,10 @@
 * [Aber das tut man doch nicht! Stimmt, aber Andere könnten es etwaig tun. Nutzt PHPStan um Dinge wie `$foo->__construct('bar');` zu vermeiden.](https://matthiasnoback.nl/2022/07/effective-immutability-with-phpstan/)
 * [Wie sehr kann man den Konzernpolitikern trauen? Siehe EU-Impfstoffkauf!](https://netzpolitik.org/2022/informationsfreiheitsbeauftragte-regierungs-chats-muessen-zu-den-akten/)
 * [Hier zeigt euch noch jemand, wie gut der Ranger-Dateimanager mittlerweile geworden ist.](https://opensource.com/article/22/7/manage-files-linux-terminal-ranger)
+* [Das Modewort >>Gig Economy<< ist neudeutsch für die Einführung des unversicherten Tagelöhners.](https://netzpolitik.org/2022/plattformarbeit-wie-ungleichheiten-in-die-digitale-arbeitswelt-mitziehen/) - Ach und Algorithmen benachteiligen bewusst gewissen Personenkreis
+* [Der sächsiche Datenschutzbeauftragte schreibt über die Grundsteuerreform 2022.](https://www.saechsdsb.de/113-allgemein/678-grundsteuerreform-2022-zustaendigkeit-des-bfdi)
+* [Nein? Doch! Oh? Damit hätte ja niemand rechnen können. Ein Cracker verkauft 1 Milliarde Daten von chinesischen Bewohnern.](https://www.borncity.com/blog/2022/07/05/hacker-verkauft-1-milliarde-daten-der-bewohner-shanghais-fr-10-bitcoins/) - Jeder erhobener Datensatz ist eben einer zu viel
+* [Behavior driven development, das gab es schon bei Unix. Schaut euch mal `/bin/true` an und überlegt euch, warum das funktioniert.](https://utcc.utoronto.ca/~cks/space/blog/unix/EmptyFileWhyTrue)
+* [Durch den Raubbau an Mutter Natur entsteht Sauerstoffmangel. Dadurch entstehen immer mehr Algenblüten und dies reduziert die Menge an frei verfügbarem Süßwasser.](https://www.sonnenseite.com/de/umwelt/das-wasser-verschwindet/)
+* [Mit vpn-speed.de könnt ihr eure VPN-Geschwindigkeit vergleichen.](https://goneuland.de/neues-projekt-vpn-speed-de/)
+* [Debian 9 LTS hat am 01.07.2022 das Ende seiner Pflege erreicht.](https://lwn.net/Articles/899962/)
