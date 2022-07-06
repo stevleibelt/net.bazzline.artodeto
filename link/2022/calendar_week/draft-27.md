@@ -22,3 +22,13 @@
 * [Etwaig hilft das Klimageld uns normalen Menschen.](https://www.sonnenseite.com/de/wirtschaft/studie-des-verbraucher-rats-klimageld-kann-soziale-haerten-abfedern/) - Schöner wäre es, wenn der Staat einfach überall Photovoltaik und Bürgerkraftwerke fördern würde, aber das passt der Konzernetage ja nicht
 * [Privacyidea wurde in der Version v3.7.2 veröffentlicht.](https://github.com/privacyidea/privacyidea/releases/tag/v3.7.2)
 * [Ihr nutzt git und wollt euch mal die git History pro Verzeichnisebene anschauen? Probiert es doch einmal mit tig.](https://opensource.com/article/22/7/visualize-git-workflow-tig)
+* [Wenn wir jetzt grünes Licht zu Fracking geben, Oli, wann können wir denn damit rechnen? Ach erst in 10 Jahren, na gut, 10 Winter frieren für den Frieden!](https://www.sonnenseite.com/de/umwelt/gesundheitsschaeden-durch-klimawandel/) - Alles verarsche, in 10 Jahren sitzt Scholz schon bei den US-Amerikanern im Spielraum
+* [Sophia Script for Windows wurde in der Version 6.1.1 veröffentlicht.](https://github.com/farag2/Sophia-Script-for-Windows/releases/tag/6.1.1)
+* [Nushell wurde in der Version 0.65.0 veröffentlicht.](https://github.com/nushell/nushell/releases/tag/0.65.0)
+* [phpqa wurde in der Version v1.17.0 veröffentlicht.](https://github.com/jakzal/phpqa/releases/tag/v1.75.0)
+* [Stickstoffdünger? Läuft nicht bei uns!](https://netzfrauen.org/2022/07/05/nitrogen-2-2/)
+* [Zabbix wurde in der Version 6.2 veröffentlicht.](https://blog.zabbix.com/zabbix-6-2-is-out-now/21602/) - Dank euch!
+* [Auf der Tschaikowskistraße 57a in 09599 Freiberg (im "Bunten Haus") wurde eine Beratungsstelle für Opfer häuslicher Gewalt eröffnetn.](https://www.mdr.de/nachrichten/sachsen/chemnitz/freiberg/beratung-haeusliche-gewalt-mittelsachsen-100.html)
+* [NewPipe wurde in der Version 0.23.1 veröffentlicht.](https://newpipe.net/blog/pinned/release/newpipe-0.23.1/)
+* [OpenSSL 3.0.4 ist kaputt.](https://www.borncity.com/blog/2022/07/06/openssl-3-0-4-schwachstelle-cve-2022-2274-heap-speicherbeschdigung-mit-rsa-private-key-operation/)
+* [Dirk Neubauer ist der neue Landrat im Landkreis Mittelsachsen.](https://www.mdr.de/nachrichten/sachsen/chemnitz/freiberg/interview-dirk-neubauer-landrat-mittelsachsen-100.html)
