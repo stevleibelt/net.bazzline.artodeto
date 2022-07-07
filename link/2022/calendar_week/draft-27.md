@@ -32,3 +32,16 @@
 * [NewPipe wurde in der Version 0.23.1 veröffentlicht.](https://newpipe.net/blog/pinned/release/newpipe-0.23.1/)
 * [OpenSSL 3.0.4 ist kaputt.](https://www.borncity.com/blog/2022/07/06/openssl-3-0-4-schwachstelle-cve-2022-2274-heap-speicherbeschdigung-mit-rsa-private-key-operation/)
 * [Dirk Neubauer ist der neue Landrat im Landkreis Mittelsachsen.](https://www.mdr.de/nachrichten/sachsen/chemnitz/freiberg/interview-dirk-neubauer-landrat-mittelsachsen-100.html)
+* [Die selbsternante Weltpolizei regelt. Eine niederländische Firma darf ihre Produkte nicht mehr nach China verkaufen, so die USA.](https://blog.fefe.de/?ts=9c3ba5a3)
+* [Slint wurde in der Version 0.2.5 veröffentlicht.](https://github.com/slint-ui/slint/releases/tag/v0.2.5)
+* [Wie sollte man mit Benutzerdaten in moderenen Anwendungen umgehen? Ein entsprechendens Model pro Nutzungsart und primär nur Modelle die keine Schreibmethoden implementiert haben.](https://matthiasnoback.nl/2022/07/decoupling-your-security-user-from-your-user-model/)
+* [Realitätsabgleich Politiker bei der Frage "Wie häufig nutzen Sie das Internet"?](https://blog.fefe.de/?ts=9c3b3543) - "In den letzten drei Monaten" ist das kleinst mögliche Intervall
+* [Ach, die FDP und ihre komische Art der Finanzpolitik. Die Gewinne der Konzerne werden mit Milliarden an Steuergeldern erhöht und dafür werden soziale Leistungen in Millionenhöhe gestrichen.](https://blog.fefe.de/?ts=9c3b3381)
+* [Satisfy wurde in der Version 3.4.1 veröffentlicht.](https://github.com/ludofleury/satisfy/releases/tag/3.4.1)
+* [K-9 Mail wurde in der Version v6.101 veröffentlicht.](https://github.com/thundernest/k-9/releases/tag/6.101)
+* [Die großen Parteien aus Deutschland haben Angst vor mehr Demokratie und wollen deswegen eine Sperrklausel für kleine Parteien einführen.](https://www.patrick-breyer.de/piratenpartei-jetzt-unterschreiben-fuer-stopp-der-unfairen-und-undemokratischen-sperrklausel/) - Die CDU möchte das und macht es über das Organ der EU um am Ende behaupten zu können "Kommt von Oben, wir wollen das auch nicht". Bitte unterschreibt, dass ihr das nicht wollt!
+* [Das Bundeskartellamt stuft Amazon endlich in die Kategorie "marktübergreifende Dominanz" ein.](https://netzpolitik.org/2022/wettbewerb-bundeskartellamt-verschaerft-gangart-gegen-amazon/) - Erst durch die Einstufung darf es mehr untersichen.
+* [Wie lebt es sich so in Afrika als Frau? Den Realitätsabgleich gibt es bei den netzfrauen.](https://netzfrauen.org/2022/07/06/nigeria-5/) - Was habt ihr erwartet? Sozialsysteme und Demokratie wird von der ersten Welt massiv verhindert damit die erste Welt billig an Ressourcen kommt. Christliche Nächstenliebe FTW!
+* [Firefox wurde in der Version 102.0.1 veröffentlicht.](https://www.borncity.com/blog/2022/07/07/firefox-102-0-1-freigegeben/)
+* [pgAdmin wurde in der Version 4 v6.11 veröffentlicht.](https://www.postgresql.org/about/news/pgadmin-4-v611-released-2480/)
+* [Wie wenig Wissen ich doch habe, der Linux-Kernel bietet eine netconsole an.](https://utcc.utoronto.ca/~cks/space/blog/linux/NetconsoleMixedViews)
