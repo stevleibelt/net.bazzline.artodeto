@@ -55,3 +55,5 @@
 * [Tacticalrmm wurde in der Version v0.14.0 veröffentlicht.](https://github.com/amidaware/tacticalrmm/releases/tag/v0.14.0)
 * [Cloud Hypervisor wurde in der Version v25.0 veröffentlicht.](https://github.com/cloud-hypervisor/cloud-hypervisor/releases/tag/v25.0)
 * [Truenas Scale Dokumentation wurde in der Version 22.02.2.1 veröffentlicht.](https://github.com/truenas/documentation/releases/tag/TS22.02.2.1)
+* [Vonovia dreht in den Nachtstunden die Heizung auf 17 Grad herunter.](https://blog.fefe.de/?ts=9c387466) - Da bin ich ja mal gespannt wie sich das auf den Schimmel in schlecht gedämmten Altbauten auswirkt. Beim Altbau mit schlecht umgesetzter Krebsdämmung an der Außenwand kann man gegen den entstehenden Schimmel ja meist nur "gegen anheizen"
+* [Ich hoffe die Superreichen schauen genau auf Sri Lanka und überlegen ob sie dies in Europa auch so haben wollen.](https://blog.fefe.de/?ts=9c387244) - Nicht das mal ein paar Züge voller hungriger Menschen nach Hamburg rollen
