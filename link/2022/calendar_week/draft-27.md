@@ -57,3 +57,8 @@
 * [Truenas Scale Dokumentation wurde in der Version 22.02.2.1 veröffentlicht.](https://github.com/truenas/documentation/releases/tag/TS22.02.2.1)
 * [Vonovia dreht in den Nachtstunden die Heizung auf 17 Grad herunter.](https://blog.fefe.de/?ts=9c387466) - Da bin ich ja mal gespannt wie sich das auf den Schimmel in schlecht gedämmten Altbauten auswirkt. Beim Altbau mit schlecht umgesetzter Krebsdämmung an der Außenwand kann man gegen den entstehenden Schimmel ja meist nur "gegen anheizen"
 * [Ich hoffe die Superreichen schauen genau auf Sri Lanka und überlegen ob sie dies in Europa auch so haben wollen.](https://blog.fefe.de/?ts=9c387244) - Nicht das mal ein paar Züge voller hungriger Menschen nach Hamburg rollen
+* [Lenovo verkauft mittlerweile Laptops die nur noch Windows starten wollen.](https://mjg59.dreamwidth.org/59931.html)
+* [Bis 2030 will die Bundesregierung etwa 80 Prozent des Stroms aus erneuerbaren Energien erzeugen.](https://www.sonnenseite.com/de/politik/mit-neuen-gesetzlichen-grundlagen-die-energiewende-beschleunigen/)
+* [K-9 Mail wurde in der Version v6.200 veröffentlicht.](https://github.com/thundernest/k-9/releases/tag/6.200)
+* [Realitätsabgleich Massentierhaltung.](https://netzfrauen.org/2022/07/08/agriculture-industry-2/) - Mit Kritikern zu dem Thema wird ähnlich umgegangen wie mit Julian Assange
+* [Stratis 3.2 wird es ermöglichen, Pools zu starten und zu stoppen.](https://www.phoronix.com/scan.php?page=news_item&px=Stratis-3.2-Released)
