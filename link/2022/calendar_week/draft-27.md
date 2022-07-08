@@ -45,3 +45,13 @@
 * [Firefox wurde in der Version 102.0.1 veröffentlicht.](https://www.borncity.com/blog/2022/07/07/firefox-102-0-1-freigegeben/)
 * [pgAdmin wurde in der Version 4 v6.11 veröffentlicht.](https://www.postgresql.org/about/news/pgadmin-4-v611-released-2480/)
 * [Wie wenig Wissen ich doch habe, der Linux-Kernel bietet eine netconsole an.](https://utcc.utoronto.ca/~cks/space/blog/linux/NetconsoleMixedViews)
+* [Nach 10 Jahren klagen überlegt die irische Datenschutzbehörde Hackfressenbuch zu verbieten, dass sie europäische Nutzerdaten in die USA verschicken.](https://blog.fefe.de/?ts=9c39c707)
+* [Die neuen E-Auto-Akkus im Labor kommen mit bis zu minus 40 Grad Celsius zurecht.](https://www.sonnenseite.com/de/energie/neue-akkus-sind-hitze-und-kaelteunempfindlich/)
+* [Nein? Doch! Oh? Eine Online-IDE erhöht den Angrifsvektor auf das geschäftsinterne Datennetz.](https://www.bleepingcomputer.com/news/security/online-programming-ides-can-be-used-to-launch-remote-cyberattacks/) - Konnte ja keiner ahnen das es gefährlich ist, wenn der Webbrowser Schreib-, Lese- und Ausführrechte auf so viele Bereiche im Dateisystem hat. Ganz zu schweige von der tollen Idee, dass die Browser-IDE alle geheimen Passwörter und Schlüssel lesen darf
+* [PostgreSQL, Replication und Konflikte? Percona führt euch ein.](https://www.percona.com/blog/postgresql-replication-and-conflicts/)
+* [wxWidgets wurde in der Version 3.2 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=wxWidgets-3.2-Released)
+* [FairEmail wurde in der Version 1.1932 veröffentlicht.](https://github.com/M66B/FairEmail/releases/tag/1.1932)
+* [vscodium wurde in der Version 1.69.0 veröffentlicht.](https://github.com/VSCodium/vscodium/releases/tag/1.69.0)
+* [Tacticalrmm wurde in der Version v0.14.0 veröffentlicht.](https://github.com/amidaware/tacticalrmm/releases/tag/v0.14.0)
+* [Cloud Hypervisor wurde in der Version v25.0 veröffentlicht.](https://github.com/cloud-hypervisor/cloud-hypervisor/releases/tag/v25.0)
+* [Truenas Scale Dokumentation wurde in der Version 22.02.2.1 veröffentlicht.](https://github.com/truenas/documentation/releases/tag/TS22.02.2.1)
