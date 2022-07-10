@@ -62,3 +62,9 @@
 * [K-9 Mail wurde in der Version v6.200 veröffentlicht.](https://github.com/thundernest/k-9/releases/tag/6.200)
 * [Realitätsabgleich Massentierhaltung.](https://netzfrauen.org/2022/07/08/agriculture-industry-2/) - Mit Kritikern zu dem Thema wird ähnlich umgegangen wie mit Julian Assange
 * [Stratis 3.2 wird es ermöglichen, Pools zu starten und zu stoppen.](https://www.phoronix.com/scan.php?page=news_item&px=Stratis-3.2-Released)
+* [Tacticalrmm wurde in der Version v0.14.2 veröffentlicht.](https://github.com/amidaware/tacticalrmm/releases/tag/v0.14.2)
+* [Kanal9TV: Interview mit dem künftigen Landrat Dirk Neubauer](https://www.youtube.com/watch?v=swOPHG00GTs)
+* [CloudNativePG wurde in der Version 1.16.0 und 1.15.2 veröffentlicht.](https://www.postgresql.org/about/news/cloudnativepg-1160-and-1152-released-2482/)
+* [Das Atoll Kiribati-This geht unter.](https://netzfrauen.org/2022/07/10/kiribati-2/)
+* [Haha, die Datendealer der Neuen Sozialen Marktwirtschaft (Neoliberaler Turbokapitalismus) ärgert sich, dass die Digitalisierung in den öffentlichen Behörden nicht schnell genug voran geht.](https://www.borncity.com/blog/2022/07/10/insm-beklagt-stillstand-bei-der-verwaltungsdigitalisierung/) - Die NSMW findet es doof, dass bei den Bürgerdaten immer lieber zu Gunsten der Sicherheit entschieden wird. Gleichzeitig findet sie, dass der Staat eh zu fett ist und dass die Digitalisierung noch Queereinsteiger und AB-mler machen können.
+* [Debian wurde in der Version 11.4 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=Debian-11.4-Released)
