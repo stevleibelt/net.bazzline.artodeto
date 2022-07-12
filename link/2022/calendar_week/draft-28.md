@@ -9,3 +9,11 @@
 * [Bill Gates Spielplatz ist Afrika, dort wird Gentechnik im breiten Maße an der Bevölkerung getestet.](https://www.youtube.com/watch?v=9Sl0As0EAxU) - Der Vergleich im Video ist großartig, Bill-Gates hat das finanzielle Schwergewicht eines Staatenverbundes wie die EU
 * [Born macht einen kurzen Realitätsabgleich zum Thema Grundsteuererklärung.](https://www.borncity.com/blog/2022/07/11/neue-grundsteuererklrung-und-das-elster-chaos/)
 * [Schau an, es gibt sogar ein Bundestagsgutachten welches vor der teilweisen Abschaffung des Bargeldes warnt.](https://www.borncity.com/blog/2022/07/11/bundestag-gutachter-warnung-vor-welt-ohne-bargeld/)
+* [Reale Kosten für die sofortige Bestandsaufnahme aller Internetseiten, der Bingbot (als Vertreter seiner Zunft), schaut mehr als tausend Mal pro Tag bei manchen Seiten vorbei.](https://utcc.utoronto.ca/~cks/space/blog/web/BingbotFrontPageBlock) - Das muss man sich mal überlegen, da geht der Bingbot davon aus, dass jede Minute eine Änderung auf der Webseite passiert. Was das, real gesprochen, an Strom und Rechentechnik verbraucht, irre
+* [Rust wurde in der Version 1.25.0 veröffentlicht.](https://blog.rust-lang.org/2022/07/11/Rustup-1.25.0.html)
+* [Vom 16.09.2022 bis 18.09.2022 findet im CCC-Erfa und Hackspace Bamberg die intergalaktische Erfahrungsreise statt.](https://events.ccc.de/2022/07/11/erste-intergalaktische-erfahrungsreise/)
+* [Damit EU Bürger weiterhin visafrei in die USA einreisen dürfen, wollen die EU vollen Zugriff auf alle Bürgerdaten der EU und seinen Staaten.](https://netzpolitik.org/2022/direktzugriff-auf-biometriedaten-fuenf-staaten-geben-forderung-der-us-regierung-nach-eu-abgeordnete-sprechen-von-erpressung/) - Ich als Abgeordneter würde dann nur "Nein, Danke" sagen und die eigenen Bürger über diese Erpressung informieren
+* [Calibre wurde in der Version 6.0 veröffentlicht.](https://lwn.net/Articles/900674/)
+* [Fwupd wurde in der Version 1.8.2 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=Fwupd-1.8.2-Released)
+* [Was erzeugt die, von der westlich und christlichen Welt erzeugten Dürre in Afrika? Reines Leid!](https://netzfrauen.org/2022/07/11/africa-28/)
+* [PRemoteM wurde in der Version 0.7.0 veröffentlicht.](https://github.com/1Remote/PRemoteM/releases/tag/0.7.0)
