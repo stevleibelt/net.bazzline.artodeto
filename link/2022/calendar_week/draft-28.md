@@ -17,3 +17,10 @@
 * [Fwupd wurde in der Version 1.8.2 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=Fwupd-1.8.2-Released)
 * [Was erzeugt die, von der westlich und christlichen Welt erzeugten Dürre in Afrika? Reines Leid!](https://netzfrauen.org/2022/07/11/africa-28/)
 * [PRemoteM wurde in der Version 0.7.0 veröffentlicht.](https://github.com/1Remote/PRemoteM/releases/tag/0.7.0)
+* [Thunderbird wurde in der Version 102.0.2 veröffentlicht.](https://www.borncity.com/blog/2022/07/12/thunderbird-102-0-2/)
+* [Lokale Biomethananlagen in Bürgerhand? Politisch nicht gewollt, aber mit gewissen Potential.](https://www.sonnenseite.com/de/energie/biomethan-potenziale-dauerhaft-und-zukunftsgerichtet-nutzen/) - Schade, dass immer nur an "prozentualer Anteil an Gas aus Russland" geschrieben wird. Mir ist egal wo das Gas herkommt, **nur** erneuerbare Energien könnten Deutschland energetisch autarker machen
+* [Der 27.08.2022 wird vom Chaos Computer Club als Tag des offenen Hackerspaces aufgerufen.](https://www.ccc.de/de/updates/2022/offenehackerspaces)
+* [Ihr wolltet euch schon immer einmal ganz grob mit OpenWrt auf? Opensource.com hilft euch beim Einstieg.](https://opensource.com/article/22/7/openwrt-open-source-firmware)
+* [Dank Arte gibt es in diesem Video ein Realitätsabgleich zum Thema Nervengifte auf die ganze Tier- und Pflanzenwelt.](https://www.youtube.com/watch?v=IQDhdiXBWmE) - Tier- und Pflanzenwelt? Das Ökosystem! Und wurden die Nervengifte dahingehend geprüft wie sich dieser Inhaltsstoff auf die Entwicklung der Kinder auswirkt? Wurde es? Hallo? Wurde doch, oder? Ach? Ach was!
+* [Das sächsiche Ministerium für Kultur meint, dass es für den Zeitraum 2022/2023 keine Einschränkungen beim Kita- und Schulbetrieb geben wird.](https://www.bildung.sachsen.de/blog/index.php/2022/07/12/herbstplan-keine-einschraenkungen-von-schul-und-kitabetrieb-vorgesehen/)
+* [Vodafone ist kaputt.](https://www.borncity.com/blog/2022/07/12/vodafone-lte-strung-12-juli-2022/)
