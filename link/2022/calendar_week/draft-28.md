@@ -21,6 +21,16 @@
 * [Lokale Biomethananlagen in Bürgerhand? Politisch nicht gewollt, aber mit gewissen Potential.](https://www.sonnenseite.com/de/energie/biomethan-potenziale-dauerhaft-und-zukunftsgerichtet-nutzen/) - Schade, dass immer nur an "prozentualer Anteil an Gas aus Russland" geschrieben wird. Mir ist egal wo das Gas herkommt, **nur** erneuerbare Energien könnten Deutschland energetisch autarker machen
 * [Der 27.08.2022 wird vom Chaos Computer Club als Tag des offenen Hackerspaces aufgerufen.](https://www.ccc.de/de/updates/2022/offenehackerspaces)
 * [Ihr wolltet euch schon immer einmal ganz grob mit OpenWrt auf? Opensource.com hilft euch beim Einstieg.](https://opensource.com/article/22/7/openwrt-open-source-firmware)
-* [Dank Arte gibt es in diesem Video ein Realitätsabgleich zum Thema Nervengifte auf die ganze Tier- und Pflanzenwelt.](https://www.youtube.com/watch?v=IQDhdiXBWmE) - Tier- und Pflanzenwelt? Das Ökosystem! Und wurden die Nervengifte dahingehend geprüft wie sich dieser Inhaltsstoff auf die Entwicklung der Kinder auswirkt? Wurde es? Hallo? Wurde doch, oder? Ach? Ach was!
+* [Dank Arte gibt es in diesem Video ein Realitätsabgleich zum Thema Nervengifte auf die ganze Tier- und Pflanzenwelt.](https://www.youtube.com/watch?v=IQDhdiXBWmE) - Tier- und Pflanzenwelt? Das Ökosystem! Und wurden die Nervengifte dahingehend geprüft wie sich dieser Inhaltsstoff auf die Entwicklung der Kinder auswirkt? Wurde es? Hallo? Wurde doch, oder? Ach? Ach was! Ziemlich spannend, das Problem lässt sich mit der Abkehr der industriellen Landwirtschaft und Hinkehr zur biodynamischen Landwirtschaft lösen
 * [Das sächsiche Ministerium für Kultur meint, dass es für den Zeitraum 2022/2023 keine Einschränkungen beim Kita- und Schulbetrieb geben wird.](https://www.bildung.sachsen.de/blog/index.php/2022/07/12/herbstplan-keine-einschraenkungen-von-schul-und-kitabetrieb-vorgesehen/)
 * [Vodafone ist kaputt.](https://www.borncity.com/blog/2022/07/12/vodafone-lte-strung-12-juli-2022/)
+* [phpstan wurde in der Version 1.8.1 veröffentlicht.](https://github.com/phpstan/phpstan/releases/tag/1.8.1)
+* [tig wurde in der Version 2.5.6 veröffentlicht.](https://github.com/jonas/tig/releases/tag/tig-2.5.6)
+* [vscodium wurde in der Vrsion 1.69.1 veröffentlicht.](https://github.com/VSCodium/vscodium/releases/tag/1.69.1)
+* [Auf 3dcenter.org kann man schön sehen, wie gering der Unterschied der reine Rechenleistung zwischen Zen und Zen 3 liegt.](https://www.3dcenter.org/news/news-des-12-juli-2022) - Die Intel-Prozessoren sind auch mit dabei
+* [Ab 2023 müssen gewerbliche und industrielle Dachflächen mit Solaranlagen ausgerüstet werden.](https://www.sonnenseite.com/de/politik/bayerns-kabinett-beschliesst-solarpflicht-fuer-gewerbe-und-industrie-ab-2023/)
+* [Netzneutralität? Die wird von den Lobbyisten des EU-Parlaments abgeschafft ... ähhm, ausgehölt.](https://www.patrick-breyer.de/eu-abgeordnete-kritisieren-die-plaene-der-kommission-zur-abschaffung-der-netzneutralitaet/)
+* [Was passiert eigentlich im Gremium zur Untersuchung des Pegasus-Abhörskandals? Dank den Aktenkoffern voller Geld sehr wenig.](https://netzpolitik.org/2022/staatstrojaner-pegasus-sie-werden-in-anzuegen-kommen/)
+* [Wordpress wurde in der Version 6.0.1 veröffentlicht.](https://wordpress.org/news/2022/07/wordpress-6-0-1-maintenance-release/)
+* [Rust wurde in der Version 1.25.1 veröffentlicht.](https://blog.rust-lang.org/2022/07/12/Rustup-1.25.1.html)
+* [XWayland wurde in der Version 22.1.3 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=XWayland-22.1.3-Released)
