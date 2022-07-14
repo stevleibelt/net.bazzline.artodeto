@@ -34,3 +34,11 @@
 * [Wordpress wurde in der Version 6.0.1 veröffentlicht.](https://wordpress.org/news/2022/07/wordpress-6-0-1-maintenance-release/)
 * [Rust wurde in der Version 1.25.1 veröffentlicht.](https://blog.rust-lang.org/2022/07/12/Rustup-1.25.1.html)
 * [XWayland wurde in der Version 22.1.3 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=XWayland-22.1.3-Released)
+* [skopeo wurde in der Version v1.9.0 veröffentlicht.](https://github.com/containers/skopeo/releases/tag/v1.9.0)
+* [Chris Siebenmann schreibt etwas zur Geschichte von `#!`](https://utcc.utoronto.ca/~cks/space/blog/unix/ExecAndShebangHistory)
+* [CP/M ist jetzt freie Software](https://www.borncity.com/blog/2022/07/14/cp-m-ist-nun-open-source-juli-2022/)
+* [Der Sächsische Datenschutzbeauftragte wird mit Arbeit überlastet und darf jetzt auch noch die Rolle des Transparenzbeauftragten ausfüllen.](https://www.saechsdsb.de/liste-pressemitteilungen/679-saechsische-datenschutzbeauftragte-wird-auch-transparenzbeauftragte) - Wird Zeit für ein eigenes Ministerium!:-)
+* [Noch eine Klatsche für Clearview, dank dem GDPR kriegt die Firma weitere 20 Millionen Euro Strafe](https://noyb.eu/en/second-eu-20-mio-fine-clearview-ai) - 200 Millionen und fünf Jahre Berufsverbot für die Leiter würden mir mehr gefallen
+* [DXVK wurde in der Version 1.10.2 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=DXVK-1.10.2-Released)
+* [Nadagascar druckt dann mal Schulen :-)](https://netzfrauen.org/2022/07/13/africa-29/)
+* [Die Forschenden der TU Bergakademie Freiberg haben ein umweltverträgliches Verfahren zum Abbau von so genannten Hochtechnologieelementen entwickelt.](https://tu-freiberg.de/presse/hochtechnologiemetalle-umweltvertraeglich-abbauen-membran-verfahren-zum-patent-angemeldet)
