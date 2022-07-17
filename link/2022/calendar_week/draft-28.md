@@ -54,3 +54,4 @@
 * [Hier wird sich einmal mit den realen Zahlen von sexuellem Missbrauch beschäftigt.](https://netzpolitik.org/2022/ncmec-zahlen-erklaert-das-raunen-vom-millionenfachen-missbrauch/) - Wir können sexuellen Missbrauch nicht durch Zensur bekämpfen. Zensur kommt in diesem Falle einem Wegschauen gleich
 * [Wie weit im Voraus denken Politiker? Soweit, wie ihnen die Quartalslobbywichser in das Ohr flüstern.](https://www.sonnenseite.com/de/politik/die-ampel-zerfaellt-beim-klimaschutz/)
 * [Danke Kuketz, laut DSVGO muss man beim Arzt keine Einwilligung geben und wird trotzdem behandelt.](https://www.kuketz-blog.de/muss-ein-patient-eine-einwilligungserklaerung-beim-arzt-abgeben/)
+* [PostmarkOS wurde in der Version v22.06.01 Service Pack 1 veröffentlicht.](https://postmarketos.org/blog/2022/07/17/v22.06.1-release/)
