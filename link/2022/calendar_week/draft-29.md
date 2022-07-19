@@ -13,3 +13,19 @@
 * [Wys sind so die typischen Unix Timestamp-Formate innerhalb der Freien Software? Chris Siebenmann hat da eine Liste gemacht.](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/LogTimestampFormats) - Man sieht schön, dass Timestamp, Microtimestamp und Datetime ungebrechtigterweise gleich verstanden werden
 * [Im Zuge der Kreislaufwirtschaft wird Wasserstoff zunehmend interessanter.](https://www.sonnenseite.com/de/wissenschaft/material-fuer-wasserstoffspeicher-aus-industrieabfaellen/)
 * [Wieder etwas gelernt, `ls /sys/devices/system/cpu/vulnerabilities/*`](https://www.phoronix.com/scan.php?page=article&item=retbleed-benchmark&num=1) - Retbleed ist wie Spectre und kostet richtig Leistung
+* [Achso, mit dem Ablenkungsmanöver "wir machen es wegem dem Gas" soll die EU in Kriege verwickelt werde.](https://blog.fefe.de/?ts=9c2b8011)
+* [Mit dem elektrischen Schmelzverfahren könnte man Solarstrom nutzen um Glas für die Solarproduktion zu nutzen.](https://www.sonnenseite.com/de/wirtschaft/solarglasproduktion-ohne-gas-mit-100-gruenem-strom/)
+* [Workerman wurde in der Version v4.0.41 veröffentlicht.](https://github.com/walkor/workerman/releases/tag/v4.0.41)
+* [HeroicGamesLauncher wurde in der Version 2.3.10 veröffentlicht.](https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher/releases/tag/v2.3.10)
+* [vscodium wurde in der Version 1.69.2 veröffentlicht.](https://github.com/VSCodium/vscodium/releases/tag/1.69.2)
+* [Sehr schön! Hier wird euch gezeigt, wie ihr mit npm und react eine Anwendung baut.](https://opensource.com/article/22/7/code-first-react-app) - Dank npm habt ihr ja nodejs wodurch ihr mit einem proxy.js gleich einen API-Endpunkt simulieren könnt
+* [Und falls ihr verstehen wollt wie proxy.js funktioniert, dieser Sachverhalt wird euch hier erklärt.](https://opensource.com/article/22/7/javascript-api-express)
+* [Wenn ihr nftables nutzt, werdet ihr nftwatch lieben.](https://opensource.com/article/22/7/nftwatch-linux-firewall)
+* [Dank mermaid machen Diagramme in markdown spaß](https://mermaid-js.github.io/mermaid)
+* [Das SFPD möchte dann man Batman spielen und in Echtzeit Zugriff auf alle privaten Kameras haben.](https://netzpolitik.org/2022/videoueberwachung-polizei-von-san-francisco-will-echtzeit-zugriff-auf-private-kameras/)
+* [Nextcloud wurde in den Versionen 24.0.3, 23.0.7 und 22.2.10 veröffentlicht.](https://nextcloud.com/blog/maintenance-releases-24-0-3-23-0-7-and-22-2-10-are-out-update/)
+* [Apropos Kameras, amazon verschenkt Aufnahmen von seinen Ring-Kameras an alle, auch ohne richterlichen Beschluss](https://netzpolitik.org/2022/ueberwachungskameras-von-ring-amazon-gibt-aufnahmen-ohne-richterlichen-beschluss-an-polizei/)
+* [Outlook.com ist kaputt](https://www.borncity.com/blog/2022/07/18/outlook-com-hat-probleme-18-juli-2022/)
+* [Die SPD mahnt den letzten Rest der Mittelschicht sich **nicht** um die Unterschicht zu bemühen.](https://tuxproject.de/blog/2022/07/armsein-ist-rechtsradikal/) - Jeder, der sich mit der Unterschicht zusammentut, ist automatisch ein Rechtsradikaler
+* [Postgresql und autovacuum](https://www.percona.com/blog/postgresql-for-mysql-dbas-episode-7-vacuuming-tables/)
+* [Ihr wollt euren DHCP-Server konfigurieren? Hier gibt es Gedankenfutter zu dem Thema](https://opensource.com/article/22/7/configure-dhcp-server)
