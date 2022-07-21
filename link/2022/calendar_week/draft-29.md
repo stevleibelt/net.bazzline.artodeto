@@ -40,3 +40,8 @@
 * [Rust wurde in der Version 1.62.1 veröffentlicht.](https://blog.rust-lang.org/2022/07/19/Rust-1.62.1.html)
 * [Tom Lord ist gestorben.](https://lwn.net/Articles/901807/)
 * [Endlich, Tesla wird wegen seinem "Wächter-Modus" verklagt.](https://netzpolitik.org/2022/datenschutz-verbraucherschuetzerinnen-klagen-gegen-teslas-waechter-funktion/)
+* [Confluence ist kaputt, kaputt im Sinne von da gibt es eine Backdoor.](https://blog.fefe.de/?ts=9c26a48a)
+* [FairMail wurde in der Version 1.1937 veröffentlicht.](https://github.com/M66B/FairEmail/releases/tag/1.1937)
+* [Jitsi-Admin wurde in der Version 0.73.1 veröffentlicht.](https://github.com/H2-invent/jitsi-admin/releases/tag/0.73.1)
+* [Magisk wurde in der Version v25.2 veröffentlicht.](https://github.com/topjohnwu/Magisk/releases/tag/v25.2)
+* [Die Telekom verschickt E-Mails mit der Bitte eure E-Mail-Adresse zu verifizieren.](https://www.borncity.com/blog/2022/07/21/telekom-besttigungsmail-wenn-es-wie-phishing-ausschaut/) - Das ist in Zeiten von Spam leider blöd
