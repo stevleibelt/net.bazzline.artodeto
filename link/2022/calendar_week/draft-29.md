@@ -42,6 +42,21 @@
 * [Endlich, Tesla wird wegen seinem "Wächter-Modus" verklagt.](https://netzpolitik.org/2022/datenschutz-verbraucherschuetzerinnen-klagen-gegen-teslas-waechter-funktion/)
 * [Confluence ist kaputt, kaputt im Sinne von da gibt es eine Backdoor.](https://blog.fefe.de/?ts=9c26a48a)
 * [FairMail wurde in der Version 1.1937 veröffentlicht.](https://github.com/M66B/FairEmail/releases/tag/1.1937)
-* [Jitsi-Admin wurde in der Version 0.73.1 veröffentlicht.](https://github.com/H2-invent/jitsi-admin/releases/tag/0.73.1)
+* [Jitsi-Admin wurde in der Version 0.73.2 veröffentlicht.](https://github.com/H2-invent/jitsi-admin/releases/tag/0.73.2)
 * [Magisk wurde in der Version v25.2 veröffentlicht.](https://github.com/topjohnwu/Magisk/releases/tag/v25.2)
 * [Die Telekom verschickt E-Mails mit der Bitte eure E-Mail-Adresse zu verifizieren.](https://www.borncity.com/blog/2022/07/21/telekom-besttigungsmail-wenn-es-wie-phishing-ausschaut/) - Das ist in Zeiten von Spam leider blöd
+* [LetEncrypt, die Organisation die https für die Masse verfügbar macht, benötigt etwas Geld.](https://letsencrypt.org/donate/)
+* [Microsoft Azure ist kaputt.](https://www.borncity.com/blog/2022/07/21/microsoft-cloud-kurzzeitig-gestrt-21-7-2022/)
+* [Wieder etwas gelernt, mit `fmt` kann man Texte schnell und grundsolide formatieren!](https://opensource.com/article/22/7/fmt-trivial-text-formatter)
+* [Arbeit, Lohn und Profit - schöne Dokumentation bei arte](https://www.youtube.com/watch?v=Bl7GTGIkfuc) - Es wirft am Ende die zentrale Frage auf, ob und wie wir als Gesellschaft in Europa mit der Arbeit und dem Thema Weisungsgebundenheit. Sind "Konkurenz", "Profit" und "Rentabilität" wirklich Attribute, nachdem wir als Gesellschaft streben?
+* [So, So, der Chef der Kryptoanalyse-Abteilung ist dafür, dass die Chatkontrolle eingeführt wird.](https://blog.fefe.de/?ts=9c27ebc9) - Ist das Brechen der freien Verschlüsselung wohl doch noch nicht trivial genug
+* [Mit diesem Standpunkt hatt Herr Crhistian Rieck etwas Respekt bei mir erarbeitet - Kritische Infrastruktur gehört in Staatshand](https://youtu.be/CD9PJll_zHQ?t=1206)
+* [Muss man sich mal vorstellen wie viel die Free Software Foundation mit weniger als 90.000 Euro so schafft.](https://www.fsf.org/blogs/community/we-far-surpassed-our-goal-and-its-all-thanks-to-you)
+* [Wow, Prometheus baut seine Daten so auf, dass man rsync nutzen kann.](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/PrometheusMovingTSDBWithRsync)
+* [Wenn es so ist, dann werden 25 Prozent der Akkus in acht Jahren aus Deutschland kommen.](https://www.sonnenseite.com/de/wissenschaft/deutschland-wird-ein-viertel-der-europaeischen-batteriezellproduktion-abdecken/) - Hoffentlich wird politisch nicht das gleiche wie mit der Photovoltaik gemacht
+* [Strato, Vodafone und Microsoft, alle kaputt.](https://www.borncity.com/blog/2022/07/21/strungen-bei-strato-vodafone-microsoft-21-juli-2022/)
+* [GameMode wurde in der Version 1.7 veröffentlicht.](https://www.phoronix.com/scan.php?page=news_item&px=Feral-GameMode-1.7)
+* [Jitsi-Admin wurde in der Version 0.73.4 veröffentlicht.](https://github.com/H2-invent/jitsi-admin/releases/tag/0.73.4)
+* [http-message wurde in der Version 1.0.10 veröffentlicht.](https://github.com/httpsoft/http-message/releases/tag/1.0.10)
+* [firefly-iii wurde in der Version 5.7.10 veröffentlicht.](https://github.com/firefly-iii/firefly-iii/releases/tag/5.7.10)
+* [Könnte Carbon für C++ sein, was Kotlin für Java ist?](https://github.com/carbon-language/carbon-lang)
