@@ -16,3 +16,8 @@
 * [FFmpeg wurde in der Version 5.1 veröffentlicht.](https://www.phoronix.com/news/FFmpeg-5.1-Released)
 * [Apache OpenOffice wurde in der Version 4.1.13 veröffentlicht.](https://www.phoronix.com/news/Apache-OpenOffice-4.1.13)
 * [Realitätsabgleich Ressourcenverbrauch, ab dem 28.07.2022 sind wir für dieses Jahr rechnerisch fertig mit dem Ressourcenverbrauch für 2022.](https://www.sonnenseite.com/de/zukunft/erdueberlastungstag-am-28-juli-menschheit-verbraucht-175-erden/)
+* [Windows 11 ist offiziell kaputt.](https://www.borncity.com/blog/2022/07/26/windows-11-microsoft-besttigt-startmen-problem-und-fixt-per-kir-juli-2022/)
+* [Macht aber nix, Windows 10 ist auch offiziell kaputt.](https://www.borncity.com/blog/2022/07/26/windows-10-20h1-21h2-microsoft-besttigt-usb-druckerprobleme/)
+* [Schaut mal, da macht die Industrie die Natur kaputt und will für deren Anpassung jetzt natürlich Steuergelder haben.](https://www.sonnenseite.com/de/umwelt/ebbe-im-rhein/)
+* [Skopo wurde in der Version v1.9.1 veröffentlicht.](https://github.com/containers/skopeo/releases/tag/v1.9.1)
+* [Strawberry wurde in der Version 1.0.7 veröffentlicht.](https://github.com/strawberrymusicplayer/strawberry/releases/tag/1.0.7)
