@@ -46,3 +46,11 @@
 * [Sollte ich mein Spam-Verzeichnis anschauen? Ja und Kuketz zeigt euch warum.](https://www.kuketz-blog.de/spam-statt-muelleimer-oefter-als-man-denkt-landen-vertrauliche-e-mails-bei-den-mitarbeitern-von-e-mail-anbietern/)
 * [Wie wichtig ist Privatssphäre? Sie rettet Leben!](https://tuxproject.de/blog/2022/07/datenschutz-kann-leben-retten-denn-koerper-sind-privatsache/#comment-84726)
 * [Klimawandel und Erderwärmung? Freut euch auf Viren die mehrere hundert Jahre alt sind.](https://netzfrauen.org/2022/07/26/climate-10/)
+* [Nativier wurde in der Version v49.0.0 veröffentlicht.](https://github.com/nativefier/nativefier/releases/tag/v49.0.0)
+* [Dolibarr wurde in der Version 15.0.3 veröffentlicht.](https://github.com/Dolibarr/dolibarr/releases/tag/15.0.3)
+* [Die vom E.ON-Konzern angekoppelte GmbH Uniper, die gerade Gas verkauft, will Staatsschutz haben.](https://blog.fefe.de/?ts=9c1d1dd2) - Wie schlimm müssen die Bücher von Uniper gefälscht worden sein, dass man in Zeiten des Gasnotstandes so viel Verlust macht, dass man mit Gasverkäufen nicht genug Gewinn macht?
+* [Passend dazu, die großen Energiekonzerne machen Milliardengewinne in Zeiten der "Kriese".](https://netzfrauen.org/2022/07/30/energy-companies/) - So viel zum Thema "der Markt regelt das". Das sind alles die Firmen, die die Benzinpreise erhöhen während der Staat seine Steuern darauf senkt.
+* [Regelt der Konzerngemachte Klimawandel die Landflucht?](https://www.youtube.com/watch?v=H9XD_i8sAc4)
+* [Wine wurde in der Version 7.14 veröffentlicht.](https://www.phoronix.com/news/Wine-7.14-Released)
+* [Hihi, die EU-Datenschützer schauen sich mal das Zensurpaket aka Chatkontrolle an.](https://netzpolitik.org/2022/ernste-bedenken-eu-datenschutzbehoerden-nehmen-chatkontrolle-komplett-auseinander/)
+* [Thunderbird wurde in der Version 102.1 veröffentlicht.](https://www.borncity.com/blog/2022/07/29/thunderbird-102-1-0/)
