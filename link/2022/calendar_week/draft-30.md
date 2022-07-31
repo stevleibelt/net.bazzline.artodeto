@@ -54,3 +54,6 @@
 * [Wine wurde in der Version 7.14 veröffentlicht.](https://www.phoronix.com/news/Wine-7.14-Released)
 * [Hihi, die EU-Datenschützer schauen sich mal das Zensurpaket aka Chatkontrolle an.](https://netzpolitik.org/2022/ernste-bedenken-eu-datenschutzbehoerden-nehmen-chatkontrolle-komplett-auseinander/)
 * [Thunderbird wurde in der Version 102.1 veröffentlicht.](https://www.borncity.com/blog/2022/07/29/thunderbird-102-1-0/)
+* [Photovoltaik lohnt sich ab 01.07.2023 etwas mehr in Deutschland.](https://www.sonnenseite.com/de/wirtschaft/hoehere-foerderung-fuer-photovoltaik-anlagen-greift-ab-inbetriebnahmedatum-30-juli/)
+* [Mit rustlings Rust lernen.](https://opensource.com/article/22/7/learn-rust-rustlings)
+* [Bash und Stack Trace dump mit Trap bei einem Fehler ausgeben.](https://opensource.com/article/22/7/print-stack-trace-bash-scripts)
