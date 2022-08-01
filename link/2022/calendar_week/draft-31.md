@@ -1,0 +1,11 @@
+* [Wunderschön, dank der konzerngetriebenen Klimaerwärmung sterben uns gerade die Seevögel weg - mitten in der Brutzeit.](https://blog.fefe.de/?ts=9c183300)
+* [Seit einigen Jahren zählen Geldautomaten auch als kritische Infrastruktur die vom Staat betrieben werden sollten.](https://blog.fefe.de/?ts=9c1800a3) - Nun hat das Problem wohl auch Berlin erwischt
+* [Söder ist für Fracking, aber nicht im heiligen Bayern!](https://blog.fefe.de/?ts=9c1b1755)
+* [Linux Kernel wurde in der Version 5.19 veröffentlicht.](https://lwn.net/Articles/903023/)
+* [Arte stellt erneut eine mutige Frage, Krank durch Plastik?](https://www.youtube.com/watch?v=okBOsEh-vMA)
+* [Microsoft 365 ist kaputt.](https://www.borncity.com/blog/2022/07/31/microsoft-365-dienste-gestrt-29-juli-2022/)
+* [Nach nur drei Monaten sind die Kartenterminals Verifon H5000 fast wieder normal nutzbar.](https://www.borncity.com/blog/2022/07/31/ausfall-der-verifon-h5000-kartenterminals-wohl-weitgehend-behoben-juli-2022/) - Drei Monate! Wenn das kein Vertrauensbeweis in die private Bankeninfrastruktur ist!
+* [Gitea wurde in der Version v1.17.0 veröffentlicht.](https://github.com/go-gitea/gitea/releases/tag/v1.17.0)
+* [Linux Mint wurde in der Version 21 veröffentlicht.](https://lwn.net/Articles/903031/)
+* [Open Money, Open Code! Netzpolitik fragt zu recht, warum nicht auch bei öffentlichen Gutachten?](https://netzpolitik.org/2022/oeffentliches-geld-oeffentliches-gut-oeffentliche-gutachten/)
+* [Harfbuzz wurde in der Version 5.1.0 veröffentlicht.](https://github.com/harfbuzz/harfbuzz/releases/tag/5.1.0)
