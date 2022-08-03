@@ -26,3 +26,16 @@
 * [Hier werden euch 10 essbare Unkräuter gezeigt.](https://www.kostbarenatur.net/vermeintliche-unkraeuter-lecker-gesund-und-nuetzlich/)
 * [Hier werden euch Kräuter zur Behandlung von Sonnenbrand gezeigt.](https://www.kostbarenatur.net/sonnenbrand-diese-wildkraeuter-helfen/)
 * [Hier werden euch 4 Kräuter gegen Frauenleiden gezeigt.](https://www.kostbarenatur.net/die-wichtigsten-heilkraeuter-fuer-frauen-und-ihre-anwendungen/)
+* [skopeo wurde in der Version 1.9.2 veröffentlicht.](https://github.com/containers/skopeo/releases/tag/v1.9.2)
+* [phpqa wurde in der Version 1.77.0 veröffentlicht](https://github.com/jakzal/phpqa/releases/tag/v1.77.0)
+* [Die US-amerikanisch getriebenen "freien Medien" in Deutschland fragen so, wie groß darf das Framing von China und Russland sein, liebe USA? Die USA nur so JA!](https://blog.fefe.de/?ts=9c175f08)
+* [DXVK wurde in der Version 1.10.3 veröffentlicht.](https://www.phoronix.com/news/DXVK-1.10.3-Released)
+* [GNU C Lib wurde in der Version 2.36 veröffentlicht.](https://lwn.net/Articles/903556/)
+* [Go wurde in der Version 1.19 veröffentlicht.](https://lwn.net/Articles/903585/)
+* [Covid-19 Impfaufklärung in zwei Sätzen: >>Sie erhielten also einerseits keine Informationen, um eine Impfentscheidung fundiert abwägen zu können. Stattdessen, sollten Sie sich erklären, warum Sie eine Impfung ablehnen?<<](https://impfentscheidung.online/fragwuerdige-informationen-in-impfzentren/)
+* [OpenWrt wurde in der Version 22.03 veröffentlicht.](https://openwrt.org/releases/22.03/start)
+* [SteamOS wurde in der Version 3.3 veröffentlicht.](https://www.phoronix.com/news/Steam-OS-3.3-Steam-Deck)
+* [Chalotte eingedrückt? Mit dem Staubsauger kriegt man einen Tieftöner wieder hin.](https://www.youtube.com/watch?v=b-8VaYroxsk) - Bei Hochtöner und Mitteltöner bleibt eine Tonveränderung bestehen.
+* [Unterseevulkanausbruch in Tonga? Ist auch an mir vorbei gegangen.](https://netzfrauen.org/2022/08/02/tonga-2/)
+* [Der Klimawandel belastet die natürlichen Puffer, durch die gestiegene Temperatur wird das Wasser von Seen mehr verdunstet.](https://www.sonnenseite.com/de/umwelt/wo-ist-nur-das-wasser-hin/)
+* [Wie sollte man die Netzwerkkonfiguration aufbauen? Zentral auf ein paar Maschinen und den Rest per DHCP.](https://opensource.com/article/22/8/network-configuration-files) - Der Vorteil? Das Wissen/die Konfiguration liegt auf wenigen Maschinen und per MAC und DHCP kann man die Clients in das richtige Netz schmeißen
