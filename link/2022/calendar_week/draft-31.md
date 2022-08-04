@@ -39,3 +39,10 @@
 * [Unterseevulkanausbruch in Tonga? Ist auch an mir vorbei gegangen.](https://netzfrauen.org/2022/08/02/tonga-2/)
 * [Der Klimawandel belastet die natürlichen Puffer, durch die gestiegene Temperatur wird das Wasser von Seen mehr verdunstet.](https://www.sonnenseite.com/de/umwelt/wo-ist-nur-das-wasser-hin/)
 * [Wie sollte man die Netzwerkkonfiguration aufbauen? Zentral auf ein paar Maschinen und den Rest per DHCP.](https://opensource.com/article/22/8/network-configuration-files) - Der Vorteil? Das Wissen/die Konfiguration liegt auf wenigen Maschinen und per MAC und DHCP kann man die Clients in das richtige Netz schmeißen
+* [Einfache Lösungen? Also das was Unix seit Jahrzehnten sagt, tu eine Sache nicht so schlecht.](https://matthiasnoback.nl/2022/08/what-is-a-simple-solution/)
+* [Die Polizei in Österreich zeigt ganz deutlich, dass man deren Arbeit lieber nicht schlecht redet.](https://blog.fefe.de/?ts=9c14775d) - Polizeigewalt und Amtsmißbrauch, das brauchst du dringend in Zeiten, in denen das Vertrauen zwischen Staat und Bürger marode ist
+* [Windows 10 ist kaputt.](https://www.borncity.com/blog/2022/08/04/windows-10-update-kb5014666-beschdigt-eingabeanzeige-und-sprachleiste/)
+* [Sehr schön, wenn auch nur symbolisch, so muss sich die VISA als Teil der Finanzpolitik vor Gericht verantworten, da sie mit ihren Geldern Leid erschaffen haben.](https://netzpolitik.org/2022/profite-mit-sexueller-gewalt-visa-landet-mit-pornhub-vor-gericht/)
+* [Hier wird euch gezeigt, wie ihr mit Ansible ein "If/Else" einbaut.](https://www.shellhacks.com/ansible-skip-parameter-if-variable-not-defined/)
+* [Nein? Doch! Oh? Bäume bilden ein elementaren Schutzschild gegen die Klimawandelfolgen.](https://www.sonnenseite.com/de/umwelt/baeume-sind-ein-schutzschild-gegen-klimawandelfolgen-in-der-stadt/)
+* [Rector wurde in der Version 0.13.10 veröffentlicht.](https://github.com/rectorphp/rector/releases/tag/0.13.10)
