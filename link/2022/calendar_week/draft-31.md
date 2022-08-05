@@ -46,3 +46,19 @@
 * [Hier wird euch gezeigt, wie ihr mit Ansible ein "If/Else" einbaut.](https://www.shellhacks.com/ansible-skip-parameter-if-variable-not-defined/)
 * [Nein? Doch! Oh? Bäume bilden ein elementaren Schutzschild gegen die Klimawandelfolgen.](https://www.sonnenseite.com/de/umwelt/baeume-sind-ein-schutzschild-gegen-klimawandelfolgen-in-der-stadt/)
 * [Rector wurde in der Version 0.13.10 veröffentlicht.](https://github.com/rectorphp/rector/releases/tag/0.13.10)
+* [Deswegen will Elon Musk Twitter haben, er will das WeChat der westlichen Welt erschaffen.](https://www.youtube.com/watch?v=53DV_zmFkFA)
+* [Nextcloud wächst weiter.](https://nextcloud.com/blog/nextcloud-keeps-growth-up-with-75-more-revenue-and-10x-userbase/)
+* [K-9 wurde in der Version 6.300 veröffentlicht.](https://github.com/thundernest/k-9/releases/tag/6.300)
+* [Metabase wurde in der Version 0.44 veröffentlicht.](https://github.com/metabase/metabase/releases/tag/v0.44.0)
+* [PCAPdroid wurde in der Version 1.5.4 veröffentlicht.](https://github.com/emanuele-f/PCAPdroid/releases/tag/v1.5.4)
+* [Grav wurde in der Version 1.7.35 veröffentlicht.](https://github.com/getgrav/grav/releases/tag/1.7.35)
+* [VSCodium wurde in der Version 1.70.0 veröffentlicht.](https://github.com/VSCodium/vscodium/releases/tag/1.70.0)
+* [Das wir uns Gedanken darüber machen müssen, wie wir als Volk unser Volkseigentum Wald erhalten indem wir die Erhaltung belohnen ... das hat für mich alles den Geschmack von "Kapitalismus im Endstadium"](https://www.sonnenseite.com/de/umwelt/waldschutz-finanziell-belohnen/)
+* [Martin Sonneborns "Bericht aus Brüssel" wurde in der Folge 2 veröffentlicht.](https://www.youtube.com/watch?v=nAP8woDhKKk)
+* [winget wurde in der VErsion 1.3 veröffentlicht.](https://www.windowspro.de/news/winget-13-support-fuer-portable-apps-logging-levels-url-fuer-return-codes/05139.html)
+* [GitLab geht ganz offen damit um, dass sie veraltete Projekte wohl löschen müssen, um ihre kostenfreie Dienstleistung nicht abstellen zu müssen.](https://lwn.net/Articles/903858/) - Ich finde es richtig und, mal ehrlich, GitLab zeigt euch ja wie ihr eure Repository am Leben halten könnt. Noch besser? Einfach mal für die Dienstleistung von GitLab zahlen
+* [Fukishima? Das ist die Ecke wo atomar verstrahltes Wasser täglich weiter in den Ozean fließt. AKW, wisst ihr schon, das kapitalistische Paradebeispiel für "Gewinne privatizieren, Verluste sozialisieren".](https://netzfrauen.org/2022/08/04/japan-6/)
+* [DIHK ist kaputt.](https://www.bleepingcomputer.com/news/security/german-chambers-of-industry-and-commerce-hit-by-massive-cyberattack/)
+* [Pest oder Cholara? Laut ARD-Umfrage (nicht repräsentativ) dann lieber Pest.](https://blog.fefe.de/?ts=9c153d1d) - Es ging eigentlich um die Frage "AKW oder Fracking"?
+* [Berlin als Paradebeispiel der Politik. Von den 500.000 Millionen Euro pro Jahr fallen nur 35.000 Euro auf die Kampfmittelbeseitigung an.](https://blog.fefe.de/?ts=9c151a0b)
+* [Wenn der Bayrische Rundfunk etwas kritisches über die Bayrische Politik sendet, ist das Thema am Arsch.](https://blog.fefe.de/?ts=9c150495) - Heute "Energiepolitik"
