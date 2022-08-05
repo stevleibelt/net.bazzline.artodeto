@@ -62,3 +62,6 @@
 * [Pest oder Cholara? Laut ARD-Umfrage (nicht repräsentativ) dann lieber Pest.](https://blog.fefe.de/?ts=9c153d1d) - Es ging eigentlich um die Frage "AKW oder Fracking"?
 * [Berlin als Paradebeispiel der Politik. Von den 500.000 Millionen Euro pro Jahr fallen nur 35.000 Euro auf die Kampfmittelbeseitigung an.](https://blog.fefe.de/?ts=9c151a0b)
 * [Wenn der Bayrische Rundfunk etwas kritisches über die Bayrische Politik sendet, ist das Thema am Arsch.](https://blog.fefe.de/?ts=9c150495) - Heute "Energiepolitik"
+* [DrayTek Vigor ist kaputt.](https://www.borncity.com/blog/2022/08/05/kritische-rce-schwachstelle-cve-2022-32548-in-draytek-vigor-routern/)
+* [dbus broker wurde in der Version 32 veröffentlicht.](https://github.com/bus1/dbus-broker/releases/tag/v32)
+* [Hier wird euch erklärt, warum ownCloud das Decomposed FS erfunden hat.](https://opensource.com/article/22/8/scalable-storage-masses-ownclouds-ocis)
