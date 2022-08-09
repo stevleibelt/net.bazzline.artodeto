@@ -10,3 +10,18 @@
 * [Wie gut werden Impfungen auf ihre Spätfolgen geprüft? Gar nicht, statt den versprochenen 24 Monaten wurde nicht einmal sechs Monate eingehalten.](https://impfentscheidung.online/covid-19-impfstoff-zulassungsstudie-wertlos-gemacht/)
 * [Realitätsabgleich "wie gefährlich sind Masern in Deutschland"?](https://impfentscheidung.online/masern-2021/) - Wow, 10 Masernfälle in Deutschland für das Jahr 2021
 * [`id`, `ls`, `chown` und `chmod` aber nur mit Zahlen? Hier wird es euch gezeigt.](https://opensource.com/article/22/8/fix-file-permission-errors-linux)
+* [ldapbrowse wurde in der Version 0.8 veröffentlicht.](https://github.com/david0/ldapbrowse/releases/tag/v0.8)
+* [Crypto in Go ist kaputt.](https://blog.fefe.de/?ts=9c0f4765) - Go, das ist die Sprache von der Firma die angeblich alles besser kann
+* [Hihi, erhält seine gebührende Anerkennung. Die Grünen wollen das 9 Euroticket dauerhaft einsetzen und dies über die Beschneidung des Dienstwagenprivilegs finanzieren.](https://blog.fefe.de/?ts=9c0f8eea) - Meinen Seegen habt ihr.
+* [Windows schredert eure Daten wenn ihr neue CPU's habt.](https://www.borncity.com/blog/2022/08/09/windows-systeme-mit-neuesten-cpus-fr-datenbeschdigung-anfllig/)
+* [noyb geht weiter gegen diesen Cookiewahn vor.](https://noyb.eu/en/226-complaints-lodged-against-deceptive-cookie-banners)
+* [Ab PHP 8.2 braucht ihr dann `#[AllowDynamicProperties]`, wenn ihr weiter dynamische Attribute in euren Klassen haben müsst.](https://stitcher.io/blog/deprecated-dynamic-properties-in-php-82)
+* [Vom 20.08.2022 bis 21.08.2022 findet die FrOSCon statt, Bareos ist auch mit dabei.](https://www.bareos.com/de/froscon-2022/)
+* [Realitätsabgleich "Spitzenpolitiker" und deren Denkweise wie man aus der Atomstromhölle enkommt.](https://www.sonnenseite.com/de/politik/politiker-die-nicht-lernen-wollen/) - JA!
+* [Wie soll das Datenzenter der Zukunft aussehen und was soll es können?](https://www.opensourcerers.org/2022/08/08/the-datacenter-of-the-future/) - Die Antwort lautet JA!
+* [Hier wird euch aufgezeigt, warum eine Stromcloud steuerlich und rechnerisch richtig bescheiden ist.](https://www.youtube.com/watch?v=nY1sV0dgmwE)
+* [Arte liefert und liefert und liefert, in Andalusien versuchen 200 Landwirte etwas gegen die Verwüstung (im wahrsten Sinne des Wortes) ihres Landes zu unternehmen.](https://www.youtube.com/watch?v=xLhBg065O0s)
+* [Thunderbird wurde in der Version 102.1.2 veröffentlicht.](https://www.borncity.com/blog/2022/08/09/thunderbird-102-1-2-mit-bugfix/)
+* [Windows 10 und 11 machen jetzt auch eure XPS-Dokumente kaputt.](https://www.borncity.com/blog/2022/08/09/windows-10-11-xps-dokumente-lassen-sich-nach-update-nicht-mehr-ffnen/)
+* [Wenn das Bundeskriminalamt Zahlen falsch und medial auswertet fragt man sich, warum es dieses Amt noch gibt.](https://netzpolitik.org/2022/sexualisierte-gewalt-gegen-kinder-bka-verbreitet-irrefuehrende-pressemitteilung/)
+* [Bareos wurde in den Versionen 21.1.4, 20.0.7 und 19.2.13 veröffentlicht.](https://www.bareos.com/de/bareos-21-1-4-de/)
