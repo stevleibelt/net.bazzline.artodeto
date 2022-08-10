@@ -25,3 +25,13 @@
 * [Windows 10 und 11 machen jetzt auch eure XPS-Dokumente kaputt.](https://www.borncity.com/blog/2022/08/09/windows-10-11-xps-dokumente-lassen-sich-nach-update-nicht-mehr-ffnen/)
 * [Wenn das Bundeskriminalamt Zahlen falsch und medial auswertet fragt man sich, warum es dieses Amt noch gibt.](https://netzpolitik.org/2022/sexualisierte-gewalt-gegen-kinder-bka-verbreitet-irrefuehrende-pressemitteilung/)
 * [Bareos wurde in den Versionen 21.1.4, 20.0.7 und 19.2.13 veröffentlicht.](https://www.bareos.com/de/bareos-21-1-4-de/)
+* [K9 Mail wurde in der Version v6.301 veröffentlicht.](https://github.com/thundernest/k-9/releases/tag/6.301)
+* [Selenium wurde in der Version 4.4.0 veröffentlicht.](https://github.com/SeleniumHQ/selenium/releases/tag/selenium-4.4.0)
+* [FairMail wurde in der Version 1.1947 veröffentlicht.](https://github.com/M66B/FairEmail/releases/tag/1.1947)
+* [Truenas Scale wurde in der Version 22.02.2.3 veröffentlicht.](https://github.com/truenas/documentation/releases/tag/TS22.02.2.3)
+* [Jigsaw wurde in der Version 1.3.42 veröffentlicht.](https://github.com/tighten/jigsaw/releases/tag/v1.3.42)
+* [Warum gibt es Waldbrände? Primär wegen Zigaretten.](https://www.sonnenseite.com/de/umwelt/waldbraende-in-europa/) - Warum gibt es keine Zwangsabgabe für 10 qm Aufforstung pro Zigarettenschachtel?
+* [PyPI ist kaputt, zehn Pakete stehlen eure Anmeldedaten.](https://www.bleepingcomputer.com/news/security/10-malicious-pypi-packages-found-stealing-developers-credentials/) - Alles ohne Clickbait hier, es sind folgende Pakete. `Ascii2text`, `Pyg-utls`, `pymocks`, `pyprotp2`, `test-async`, `free-net-vpn`, `free-net-vpn2`, `zlibsrc`, `browserdiv` und `winrpcexploit`
+* [Jeder fünfte Kinderarzt ist gegen die Masernimpfpflicht.](https://impfentscheidung.online/kinderaerztet-gegen-masernimpfpflicht/) - Man darf hier nicht vergessen welchen Druck die Pharmaindustrie gegen "Abweichler" innerhalb der Ärzteschaft aufbaut. Da sind 20 Prozent schon fast wie 80 Prozent zu deuten.
+* [Vom 16.09.2022 bis zum 18.09.2022 findet der Altweibersommer 2022 in Kleinwaltersdorf statt.](https://kleinwaltersdorf.de/index.php/2022/08/09/altweibersommer-2022/)
+* [Der WDR schmettert euch den Realitätsabgleich zum Thema Recycling ins Gesicht.](https://www.youtube.com/watch?v=umAUm5eF5wc) - Plastik ist nicht recyclebar wie Papier.
