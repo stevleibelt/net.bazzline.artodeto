@@ -53,3 +53,14 @@
 * [Zurück in die Vergangenheit! Porno-Darsteller sind jetzt Terroristen.](https://blog.fefe.de/?ts=9c0d3d33)
 * [Firefox wurde in der Version 103.0.2 veröffentlicht.](https://www.borncity.com/blog/2022/08/11/firefox-103-0-2-freigegeben/)
 * [Warum werden Solarenergie und Windenergie so viele Steine in den Weg gelegt? Weil man damit lokale Bürgerkraftwerke bauen kann.](https://opensource.com/open-organization/22/8/solar-power-vs-traditional-power) - Und autarke Zellenstrukturen mag die ach so freie Marktwirtschaft überhaupt nicht
+* [github.com nutzt sein Hausrecht und informiert die Nutzer darüber, dass sie Trackingcookies einbauen werden.](https://www.bleepingcomputer.com/news/security/githubs-new-privacy-policy-sparks-backlash-over-tracking-cookies/)
+* [In 50 Ländern wird der Staatstrojaner Pegasus aller 40 Minuten eingesetzt.](https://netzpolitik.org/2022/untersuchungsausschuss-staatstrojaner-pegasus-wird-alle-40-minuten-eingesetzt/) - Ausgewählte Terroristen werden hier bekämpft, ganz klar!
+* [X.Org Protocols wurde in der Version 2022.2 veröffentlicht.](https://www.phoronix.com/news/xorgproto-2022.2)
+* [MySQL 8 hat jetzt `Window` Funktionen](https://www.percona.com/blog/window-functions-in-mysql-8-0/)
+* [HeroicGamesLauncher wurde in der Version 2.4.0 veröffentlicht.](https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher/releases/tag/v2.4.0)
+* [Nein? Doch! Oh? Ändert sich das Klima, ändern sich die Umgebungsvariablen für uns Menschen und damit kommen wir ja gar nicht klar.](https://www.sonnenseite.com/de/umwelt/krankheitsbeschleuniger-klimawandel)
+* [Unschöner Einzelfall, eine seit 1989 in Deutschland lebende Frau lebt und arbeitet in Deutschland, wird aber auch 2022 nicht eingebürgert - wegen dem Kosovokonflikt.](https://www.mdr.de/video/mdr-videos/a/video-646202.html) - Sehr schöner Ausspruch, "SOGAR BAYERN!" Alleine dadurch ist sie mir sympatisch.
+* [Rust wurde in der Version 1.63.0 veröffentlicht.](https://blog.rust-lang.org/2022/08/11/Rust-1.63.0.html)
+* [Im Zuge der Trockenheit und der hohen Waldbrandgefahr zementiert die Große Kreis, Universitäts-, Silberstadt und mitgkied der Montanregion Erzgebirge Freiberg einen "No Brainer", das abfackeln von Feuerwerkskörpern.](https://www.mdr.de/nachrichten/sachsen/chemnitz/freiberg/feuerwerk-verbot-trockenheit-hitze-brand-gefahr-100.html)
+* [ABUS HomeTec ist kaputt.](https://www.borncity.com/blog/2022/08/11/bsi-warnung-vor-abus-hometec-pro-cfa-3000-trschloss/)
+* [Danke Netzpolitik! Aus Wohnungslose sollten Smartphones nutzen können.](https://netzpolitik.org/2022/internet-fuer-wohnungslose-wackeliger-empfang-auf-der-strasse/) - Stellt euch selbst einmal vor wie ihr ohne Bankkonto und Smartphone in der Welt überleben könntent. Schwer, oder?
