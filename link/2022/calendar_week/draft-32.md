@@ -64,3 +64,8 @@
 * [Im Zuge der Trockenheit und der hohen Waldbrandgefahr zementiert die Große Kreis, Universitäts-, Silberstadt und mitgkied der Montanregion Erzgebirge Freiberg einen "No Brainer", das abfackeln von Feuerwerkskörpern.](https://www.mdr.de/nachrichten/sachsen/chemnitz/freiberg/feuerwerk-verbot-trockenheit-hitze-brand-gefahr-100.html)
 * [ABUS HomeTec ist kaputt.](https://www.borncity.com/blog/2022/08/11/bsi-warnung-vor-abus-hometec-pro-cfa-3000-trschloss/)
 * [Danke Netzpolitik! Aus Wohnungslose sollten Smartphones nutzen können.](https://netzpolitik.org/2022/internet-fuer-wohnungslose-wackeliger-empfang-auf-der-strasse/) - Stellt euch selbst einmal vor wie ihr ohne Bankkonto und Smartphone in der Welt überleben könntent. Schwer, oder?
+* [Das ImI-Fest findet auf der Zugspitze 1-2 in Brand-Erbisdorf vom 19.08.2022 bis 20.08.2022 statt.](https://www.facebook.com/ImI-eV-Brand-Erbisdorf-120319958071794/)
+* [Versagen des freien Martkes im Bereich kritischer Infrastruktur. Ihr denkt an Krankenhäuser und an Wasserversorgung? Richtig gedacht, aber heute geht es im die AKW's.](https://www.sonnenseite.com/de/energie/wassermangel-in-akws/)
+* [Wegen der Hitze sterben die Fische, hier ein Beispiel von der Oder.](https://www.sonnenseite.com/de/umwelt/massives-fisch-sterben-in-der-oder/)
+* [Nextcloud wurde in der Version 23.0.8 veröffentlicht.](https://github.com/nextcloud/server/releases/tag/v23.0.8)
+* [Nextcloud wurde in der Version 24.0.4 veröffentlicht.](https://github.com/nextcloud/server/releases/tag/v24.0.4)
