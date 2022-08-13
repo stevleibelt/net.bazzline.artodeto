@@ -69,3 +69,6 @@
 * [Wegen der Hitze sterben die Fische, hier ein Beispiel von der Oder.](https://www.sonnenseite.com/de/umwelt/massives-fisch-sterben-in-der-oder/)
 * [Nextcloud wurde in der Version 23.0.8 veröffentlicht.](https://github.com/nextcloud/server/releases/tag/v23.0.8)
 * [Nextcloud wurde in der Version 24.0.4 veröffentlicht.](https://github.com/nextcloud/server/releases/tag/v24.0.4)
+* [VirtIO wird in Linux 6 besser.](https://www.phoronix.com/news/Linux-6.0-VirtIO)
+* [Hier wird euch erklärt, wie >>Paper Please<< vom PC auf ein Smartphone portiert wurde.](https://dukope.com/devlogs/papers-please/mobile/)
+* [Palo Alto ist mal wieder kaputt.](https://www.bleepingcomputer.com/news/security/palo-alto-networks-new-pan-os-ddos-flaw-exploited-in-attacks/)
