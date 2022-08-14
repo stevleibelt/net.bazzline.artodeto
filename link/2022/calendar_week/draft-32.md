@@ -72,3 +72,10 @@
 * [VirtIO wird in Linux 6 besser.](https://www.phoronix.com/news/Linux-6.0-VirtIO)
 * [Hier wird euch erklärt, wie >>Paper Please<< vom PC auf ein Smartphone portiert wurde.](https://dukope.com/devlogs/papers-please/mobile/)
 * [Palo Alto ist mal wieder kaputt.](https://www.bleepingcomputer.com/news/security/palo-alto-networks-new-pan-os-ddos-flaw-exploited-in-attacks/)
+* [HeidiSQL wurde in der Version 12.1 veröffentlicht.](https://github.com/HeidiSQL/HeidiSQL/releases/tag/12.1)
+* [TrueCommand wurde in der Version 2.2.1 veröffentlicht.](https://github.com/truenas/documentation/releases/tag/TC2.2.1)
+* [Jellifin wurde in der Version 10.8.4 veröffentlicht.](https://github.com/jellyfin/jellyfin/releases/tag/v10.8.4)
+* [Liebe aus der Luft! Irgendwie sind die deutschen Gasspeicher auf einmal fast voll.](https://blog.fefe.de/?ts=9c06db9d)
+* [Realitätsabgleich "Sicherheit des Coronaimpfstoffes"](https://impfentscheidung.online/sicherheit-corona-impfstoffe-ausreichend-ueberwacht/)
+* [Massenproduktion von Nahrungsmittel? Massiver Einsatz von Chemie.](https://netzfrauen.org/2022/08/14/food-12/) - Und nur deswegen wird diese Art der Industrie aufrecht erhalten, die Chemieindustrie braucht Absatzmärkte
+* [Nein? Doch! Oh? Datensammlung bei Tesla-Fahrzeugen.](https://www.borncity.com/blog/2022/08/14/datensammlung-bei-tesla-fahrzeugen-eine-bestandsaufnahme/)
