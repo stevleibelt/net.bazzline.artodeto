@@ -15,3 +15,8 @@
 * [Android wurde in der Version 13 veröffentlicht.](https://lwn.net/Articles/904771/) - Wie immer und um einen Kommentar zu folgen, "adopt or die". Vor Google war es eine Unart, wie kleine Kinder andauernd die API zu wechseln. Früher hat man nachgedacht.
 * [OpenProject und Nextcloud arbeiten zusammen.](https://nextcloud.com/blog/openproject-and-nextcloud-integrate-project-management-and-file-management/) - Was ist Nextcloud bitte für ein geiles Stück Software?
 * [Kuketz empfiehlt die OSINT-Tools.](https://www.kuketz-blog.de/empfehlungsecke-osint-tools/)
+* [Kapitalismus in aller Kürze, der für New York wichtigste Stadtteil bezüglich der Nahrungsversorgung ist der Stadtteil mit der ärmsten Bevölkerung.](https://youtu.be/TK45uLGEmss?t=5223)
+* [Realitätsabgleich Klimawandel an den Böden vom Freistaat Sachsen](https://www.mdr.de/wissen/bodenfeuchte-trockenheit-duerre-mitteldeutschland-in-zahlen-100.html) - Nur falls die Porsche fahrenden Regierungsschnösel den konzengetriebenen Klimawandel noch immer leugnen
+* [Nein? Doch! Oh? Regionale und autarke Versorgungsnetze funktionieren besser und günster als deutschlandweite Netze in Konzernhänden?](https://www.mdr.de/wissen/energiekosten-sparen-haus-wohnung-miete-100.html)
+* [Die Telekom ist in den USA kaputt.](https://netzpolitik.org/2022/fast-50-millionen-us-konten-betroffen-telekom-gruppe-verschweigt-informationen-ueber-gehackte-personendaten/)
+* [Wie der Postillon einfach mal alles wichtige zur Gasumlage zusammenfasst.](https://www.der-postillon.com/2022/08/ratgaber-gasumlage.html) - Gewinne privatisieren, Verluste sozialisieren
