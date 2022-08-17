@@ -20,3 +20,14 @@
 * [Nein? Doch! Oh? Regionale und autarke Versorgungsnetze funktionieren besser und günster als deutschlandweite Netze in Konzernhänden?](https://www.mdr.de/wissen/energiekosten-sparen-haus-wohnung-miete-100.html)
 * [Die Telekom ist in den USA kaputt.](https://netzpolitik.org/2022/fast-50-millionen-us-konten-betroffen-telekom-gruppe-verschweigt-informationen-ueber-gehackte-personendaten/)
 * [Wie der Postillon einfach mal alles wichtige zur Gasumlage zusammenfasst.](https://www.der-postillon.com/2022/08/ratgaber-gasumlage.html) - Gewinne privatisieren, Verluste sozialisieren
+* [SteamOs 3 auf euren PC installieren? Holoiso ftw!](https://github.com/theVakhovskeIsTaken/holoiso)
+* [Proton wurd in der Version 7.0-4 veröffentlicht.](https://www.phoronix.com/news/Proton-7.0-4-Released)
+* [Der Kohleausstieg muss bis 2030 geplant sein.](https://www.sonnenseite.com/de/politik/regierung-muss-jetzt-die-weichen-fuer-den-kohleausstieg-2030-stellen/) - Ich hab keine Hoffnung, dass unsere aktuelle und zukünftige Bundesregierung überhaupt fähig ist einen solchen Kohleausstieg als Plan zu erstellen
+* [Vscodium wurde in der Version 1.70.1.22229 veröffentlicht.](https://github.com/VSCodium/vscodium/releases/tag/1.70.1.22229)
+* [Nushell wurde in der Version 0.67.0 veröffentlicht.](https://github.com/nushell/nushell/releases/tag/0.67.0)
+* [FairMail wurde in der Version 1.1953 veröffentlicht.](https://github.com/M66B/FairEmail/releases/tag/1.1953)
+* [Metabase wurde in der Version 0.44.1 veröffentlicht.](https://github.com/metabase/metabase/releases/tag/v0.44.1)
+* [amphp/http-server wurde in der Version 2.1.7 veröffentlicht.](https://github.com/amphp/http-server/releases/tag/v2.1.7)
+* [phpqa wurde in der Version 1.77.2 veröffentlicht.](https://github.com/jakzal/phpqa/releases/tag/v1.77.2)
+* [Joomla wurde in der Version 4.2.0 veröffentlicht.](https://github.com/joomla/joomla-cms/releases/tag/4.2.0)
+* [Joomla wurde in der Version 3.10.11 veröffentlicht.](https://github.com/joomla/joomla-cms/releases/tag/3.10.11)
