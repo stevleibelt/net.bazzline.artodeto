@@ -54,3 +54,16 @@
 * [Metabase wurde in der Version v0.43.5 veröffentlicht.](https://github.com/metabase/metabase/releases/tag/v0.43.5)
 * [Cloud-Hypervisor wurde in der Version v26.0 veröffentlicht.](https://github.com/cloud-hypervisor/cloud-hypervisor/releases/tag/v26.0)
 * [crc wurde in der Version 2.7.1-4.11.0 veröffentlicht.](https://github.com/code-ready/crc/releases/tag/v2.7.1)
+* [Ob dies der Grund gegen Nord Stream 2 ist? Bei Nord Stream 2 können die Gewinne nicht so leicht zu verschleiern](https://blog.fefe.de/?ts=9c03d163) - Ach und Nord Stream 1 liefert den vertraglich geregelten Grundbedarf, nur das Gas, was Uniper etc. zum spekulieren (Übergewinn) nutzt, wird aktuell nicht geliefert!
+* [Krita wurde in der Version 5.1 veröffentlicht.](https://www.phoronix.com/news/Krita-5.1-Released)
+* [Ich kann den Wünschen von sticher.io bezüglich PHP unterschreiben.](https://stitcher.io/blog/php-reimagined-part-2) - Aber wichtig ist es nicht, eher so ein "ach, wäre nett"
+* [Verfassungsbeschwerden der Eltern bezüglich des Masernimpfzwangs? Die Pharmakonzerne sind stärker!](https://impfentscheidung.online/masernschutzgesetz-verfassungsbeschwerden-erfolglos/)
+* [>>Bereits im zweiten Quartal habe sich der Stromexport aus Deutschland nach Frankreich gegenüber dem Vorjahr fast versechsfacht. Beim Export in die Schweiz betrug der Anstieg sogar mehr als das Sechsfache.<<](https://blog.fefe.de/?ts=9c00e78c) - Da entzündet sich die Brandfackel von ganz alleine
+* [Und es geht weiter, die Bundesregierung möchte den Staat Pleite gehen lassen. Anders kann ich die aktuellen Gesetze und Ideen nicht verstehen.](https://blog.fefe.de/?ts=9c00eb55) - Da wird eine steuerfreie Gasumlage erfunden, damit die Verbraucher 1:1 die Gewinne der Gasverkaufsunternehmen bezahlen. Gleichzeitig wird dem Staat der Geldstrom beschnitten, weil die Steuern gesenkt werden. Das ist wie beim Tankrabatt, WIR ALS VOLK BEZAHLEN DEN RAUBBAU AN UNS SELBST!
+* [PRemoteM wurde in der Version 0.7.1.5 veröffentlicht.](https://github.com/1Remote/PRemoteM/releases/tag/0.7.1.5)
+* [Julia wurde in der Version 1.8 veröffentlicht.](https://lwn.net/Articles/905071/)
+* [LibreOffice wurde in der Version 7.4 veröffentlicht.](https://www.bleepingcomputer.com/news/software/libreoffice-74-released-with-ms-office-compatibility-improvements/)
+* [Podman wurde in der Version v4.2.0 veröffentlicht.](https://podman.io/releases/2022/08/17/podman-release-v4.2.0.html) - Und es gibt Podman Desktop
+* [gitea wurde in der Version 1.17.1 veröffentlicht.](https://github.com/go-gitea/gitea/releases/tag/v1.17.1) - Ist wichtig, hat eine Sicherheitslücke geschlossen
+* [KDE Gear wurde in der Version 22.08 veröffentlicht.](https://www.phoronix.com/news/KDE-Gear-22.08-Released)
+* [Nicht nur Plastik überall, auch Chemie ist überall.](https://www.sonnenseite.com/de/umwelt/pfas-es-regnet-ewige-chemikalien/) - Danke ihr verfickten Ölkonzerne, geht sterben!
