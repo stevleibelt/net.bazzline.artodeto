@@ -1,1 +1,6 @@
-* []
+* [Wie viel mist musst du im RBB gemacht haben, dass du fristlos gekündigt wirst? JA!](https://blog.fefe.de/?ts=9dfd749f)
+* [Habeck so >>Unternehmen müssen [in der Kriese] auch weiterhin gewinn machen dürfen<<<.](https://blog.fefe.de/?ts=9dfd6f43)
+* [Nein? Doch! Oh? Emoji's gehören nicht in den Arbeitsalltag.](https://www.borncity.com/blog/2022/08/21/missverstndnisse-vorprogrammiert-emoji-nutzung-im-arbeitsalltag/)
+* [RKI, wie sehr wollt ihr versagen? Das RKI so "JAAA"](https://impfentscheidung.online/guertelrose-impfstoff-irrefuehrung-durch-das-rki/)
+* [Realitätsabgleich Ananas.](https://netzfrauen.org/2022/08/20/costarica-2/)
+* [Bundesverfassungsricht so, Fickt euch Kinder- und Elternrechte!](https://impfentscheidung.online/bundesverfassungsgericht-missachtet-kinder-und-elternrechte/)
