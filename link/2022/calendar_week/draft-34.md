@@ -14,4 +14,17 @@
 * [DavX5 wurde in der Version 4.2.3-ose veröffentlicht.](https://github.com/bitfireAT/davx5-ose/releases/tag/v4.2.3-ose)
 * [tacticalrmm wurde in der Version 0.14.7 veröffentlicht.](https://github.com/amidaware/tacticalrmm/releases/tag/v0.14.7)
 * [Fluentd wurde in der Version 1.15.2 veröffentlicht.](https://github.com/fluent/fluentd/releases/tag/v1.15.2)
-* [Mumble wurde in der VErsion 1.4.274 veröffentlicht.](https://github.com/mumble-voip/mumble/releases/tag/v1.4.274)
+* [Mumble wurde in der Version 1.4.274 veröffentlicht.](https://github.com/mumble-voip/mumble/releases/tag/v1.4.274)
+* [Firefox wurde in der Version 104 veröffentlicht.](https://www.phoronix.com/news/Firefox-104-Released)
+* [Sound Open Firmware wurde in der Version 2.2.1 veröffentlicht.](https://www.phoronix.com/news/Sound-Open-Firmware-2.2.1)
+* [Menstruations- und Schwangerschaftsanwendungen auf Smartphones? Reine Datenkraken!](https://netzpolitik.org/2022/datenschutz-viele-menstruations-und-schwangerschaftsapps-erfassen-sensible-daten/)
+* [Webmin wurde in der Version 2.0 veröffentlicht.](https://www.phoronix.com/news/Webmin-2.0-Released)
+* [Oracle wird weltweit wegen Nutzerüberwachung verklagt](https://www.borncity.com/blog/2022/08/24/klage-gegen-oracle-wegen-weltweiter-nutzerberwachung/)
+* [Firefox wurde in den Versionen 104, 102.2 esr und 91.13 esr veröffentlicht.](https://www.borncity.com/blog/2022/08/24/firefox-104-102-2-esr-und-91-13-esr-freigegeben/)
+* [Thunderbird wurde in der Version 102.2.0 veröffentlicht.](https://www.borncity.com/blog/2022/08/24/thunderbird-102-2-0-freigegeben-viele-bugfixes-aber-probleme/)
+* [Arte gibt wieder alles, heute zeigt es was Instagram macht.](https://www.youtube.com/watch?v=KS95I5LmvCw) - Deinstallieren und mehr leben!
+* [Die FDP zeigt was sie mit euren Bürgerdaten vor hat, VERKAUFEN VERKAUFEN VERKAUFEN!](https://netzpolitik.org/2022/digitalstrategie-werte-schoepfen-zweipunktnull/)
+* [Geteilte Last? Richtig verteilen ist hier der Schlüssel - Uncle Bob erklärt euch Fixed Partitions.](https://martinfowler.com/articles/patterns-of-distributed-systems/fixed-partitions.html)
+* [Hier werden sieben Mythen von sudo geklärt.](https://opensource.com/article/22/8/debunk-sudo-myths)
+* [Die Neoliberalen ärgern sich an Finnland und veranstalten jetzt eine Hexenjagt.](https://blog.fefe.de/?ts=9dfb3353)
+* [Realitätsabgleich "Bei großen IT-Firmen ist die Sicherheit bestimmt super"](https://blog.fefe.de/?ts=9dfbc7b4) - Bullshit, und das könnt ihr auch auf die Sicherheit eurer Produkte in anderen Bereichen übertragen. Alles nur Minimalstandard!
