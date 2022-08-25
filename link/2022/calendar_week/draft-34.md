@@ -28,3 +28,15 @@
 * [Hier werden sieben Mythen von sudo geklärt.](https://opensource.com/article/22/8/debunk-sudo-myths)
 * [Die Neoliberalen ärgern sich an Finnland und veranstalten jetzt eine Hexenjagt.](https://blog.fefe.de/?ts=9dfb3353)
 * [Realitätsabgleich "Bei großen IT-Firmen ist die Sicherheit bestimmt super"](https://blog.fefe.de/?ts=9dfbc7b4) - Bullshit, und das könnt ihr auch auf die Sicherheit eurer Produkte in anderen Bereichen übertragen. Alles nur Minimalstandard!
+* [KI! Jetzt klingen Inder nicht mehr nach Inder.](https://blog.fefe.de/?ts=9df98182) - Wann fangen wir, als Gesellschaft, einmal darüber nachzudenken ob die 40 Stundenwoche noch nötig ist?
+* [Noch einmal KI, Meta's Chatbot weiß wer hier ein Terrorist ist.](https://blog.fefe.de/?ts=9df981d9)
+* [Wir müssen gemeinsam sparen, also das wir was nicht als Konzern oder "die ein Prozent" bezeichnet werden können.](https://blog.fefe.de/?ts=9df8579d)
+* [Nein? Doch! Oh? Sogar der Staat spart mit dem neun-Euro Ticket richtig Geld.](https://blog.fefe.de/?ts=9df8a1e9) - Leider ist es halt das nutzlose Fußvolk und für die hat Herr Lindner nun wirklich nichts übrig
+* [Compiz wurde in der Version 0.9.14.2 veröffentlicht.](https://www.phoronix.com/news/Compiz-0.9.14.2-Released)
+* [HikVision Überwachungskamera? Ja die sind offen wir ein Scheunentor.](https://www.borncity.com/blog/2022/08/25/ber-80-000-hikvision-berwachungskameras-online-bernehmbar/)
+* [ssh mit 2FA? Hier wird es euch gezeigt, leider mit Software von "Wir haben recht"](https://4sysops.com/archives/enable-two-factor-authentication-for-ssh-in-linux/)
+* [Haha, Realitätsabgleich "KI gegen Terroristen und Kinderschänder"](https://netzpolitik.org/2022/falscher-verdacht-gegen-vater-ein-fall-aus-den-usa-zeigt-die-gefahr-der-geplanten-chatkontrolle/) - Hier sollte ein Vater ein Bild von seinem Sohn für den Online-Arzt machen und schwupps, war er ein Pedobär
+* [Was passiert eigentlich, wenn ihr bei Google "Nein" zu deren Cookies sagt?](https://www.kuketz-blog.de/e-rezept-website-trackt-mit-google-analytics-widerspruch-wirkungslos/) - Wie zu erwarten war, für Konzerne gelten keine Gesetze
+* [Wie sieht es mit den Gletschern in der Schweiz aus? Scheiße! Die hälfte der Gletscher ist schon weg.](https://www.sonnenseite.com/de/umwelt/haelfte-der-schweizer-gletscher-schon-weg/)
+* [davx5-ose wurde in der Version 4.2.3.1 veröffentlicht.](https://github.com/bitfireAT/davx5-ose/releases/tag/v4.2.3.1-ose)
+* [BetterReflection wurde in der Version 5.8.0 veröffentlicht.](https://github.com/Roave/BetterReflection/releases/tag/5.8.0)
