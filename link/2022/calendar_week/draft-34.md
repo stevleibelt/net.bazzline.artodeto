@@ -52,3 +52,10 @@
 * [Lutris wurde in der Version 0.5.11 veröffentlicht.](https://www.phoronix.com/news/Lutris-0.5.11-Released)
 * [Nextcloud Office? Hier wird es euch gezeigt.](https://nextcloud.com/blog/european-governments-work-with-nextcloud-to-build-digitally-sovereign-office/)
 * [Wasserknappheit überall, was machen die Konzerne die mit Schwumsenwasser Milliarden Gewinne machen? Denen ist es egal, die zapfen einfach noch mehr Wasser ab.](https://netzfrauen.org/2022/08/25/water-11/)
+* [Damit die USA unnötig ihre Umwelt mit Fracking kaputt macht, wurde ja der ganze Russlandkonflikt erfunden. Nun nehmen die Abnehmerländer ihre verpflichtete Menge an Erdgas nicht ab. Was muss Russland jetzt machen? Erdgas abbrennen lassen.](https://blog.fefe.de/?ts=9df7bbe8) - Das behaltet ihr bitte im Hinterkopf, wenn ihr für den Klimawandel der Grünen friert und hungert
+* [Kerberos-telnetd ist kaputt.](https://blog.fefe.de/?ts=9df7b9bd)
+* [Nein? Doch! Oh? Das weiße Haus so - Forschung, die mit öffentlichen Geldern betrieben wird, muss kostenfrei zugänglich sein.](https://blog.fefe.de/?ts=9df7baca) - Der Kommunismuss bricht aus!
+* [2022 und gegenseitiges Bespitzeln, moralisch absolut inaktzeptabel aber alles legal.](https://blog.fefe.de/?ts=9df79800) - Die gleiche Masche wie beim Plündern des Volkseigentums, alles legal
+* [Huawai rechnet mit einer Dekade der Rezession.](https://blog.fefe.de/?ts=9df79721) - Zudem wollen sie von "wir dienen der Menschheit" zu "lets make money" wechseln, also das was Google auch schon immer macht
+* [BetterReflection wurde in der Version 5.9.0 veröffentlicht.](https://github.com/Roave/BetterReflection/releases/tag/5.9.0)
+* [Nahezu das ganze Volk möchte einen günstigen öffentlichn Personenverkehr.](https://www.sonnenseite.com/de/mobilitaet/keine-angst-vor-dem-neun-euro-ticket/)
