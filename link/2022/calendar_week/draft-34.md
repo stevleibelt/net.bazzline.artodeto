@@ -59,3 +59,11 @@
 * [Huawai rechnet mit einer Dekade der Rezession.](https://blog.fefe.de/?ts=9df79721) - Zudem wollen sie von "wir dienen der Menschheit" zu "lets make money" wechseln, also das was Google auch schon immer macht
 * [BetterReflection wurde in der Version 5.9.0 veröffentlicht.](https://github.com/Roave/BetterReflection/releases/tag/5.9.0)
 * [Nahezu das ganze Volk möchte einen günstigen öffentlichn Personenverkehr.](https://www.sonnenseite.com/de/mobilitaet/keine-angst-vor-dem-neun-euro-ticket/)
+* [NetworkManager wurde in der Version 1.40 veröffentlicht.](https://www.phoronix.com/news/NetworkManager-1.40)
+* [Bargeldloses Zahlen in der Realität - Mecklenburg-Vorpommern ist kaputt.](https://www.borncity.com/blog/2022/08/26/mecklenburg-vorpommern-nur-barzahlung-in-landeseinrichtungen-nach-virus-auf-kartenleser/)
+* [Sebastian Meineck zieht auf netzpolitik.org sein Fazit zum Thema >>Text-zu-Bild-Generierung<<.](https://netzpolitik.org/2022/text-zu-bild-generierung-der-anfang-von-etwas-grossem/)
+* [Gelli wurde in der Version 1.3.4 veröffentlicht.](https://github.com/dkanada/gelli/releases/tag/v1.3.4)
+* [phootwork/collection wurde in der Version 3.2.1 veröffentlicht.](https://github.com/phootwork/collection/releases/tag/v3.2.1)
+* [China leidet unter einer Hitzewelle - so die Medien](https://blog.fefe.de/?ts=9df5e8ef)
+* [Gimp wurde in der Version 2.99.12 veröffentlicht.](https://www.phoronix.com/news/GIMP-2.99.12-Released)
+* [Verkehrswende? Ne, lieber Steuergelder in die absolut notwendig und soventionsbedürftige Automobilindustrie pumpen.](https://www.sonnenseite.com/de/franz-alt/kommentare-interviews/wo-bleibt-die-verkehrswende/)
