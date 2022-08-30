@@ -1,0 +1,21 @@
+* [Wine wurde in der Version 7.16 veröffentlicht.](https://www.phoronix.com/news/Wine-7.16-Releasd)
+* [Nativefier wurde in der Version 49.0.1](https://github.com/nativefier/nativefier/releases/tag/v49.0.1)
+* [phpqa wurde in der Version 1.77.4 veröffentlicht.](https://github.com/jakzal/phpqa/releases/tag/v1.77.4)
+* [php Carbon wurde in der Version 2.62.0 veröffentlicht.](https://github.com/briannesbitt/Carbon/releases/tag/2.62.0)
+* [ADACLScanner wurde in der Version 7.1 veröffentlicht.](https://github.com/canix1/ADACLScanner/releases/tag/7.1)
+* [php sequence wurde in der Version 10.1.0 veröffentlicht.](https://github.com/xp-forge/sequence/releases/tag/v10.1.0)
+* [Hanf? Auf einmal kann damit Geld gemacht werden und schon wechselt die mediale Betrachtungweise.](https://netzfrauen.org/2022/08/28/hemp-3/)
+* [php 8.2, Traits dürfen jetzt `const` haben.](https://php.watch/versions/8.2/constants-in-traits)
+* [Stell dir vor, es gibt eine Ausschreibung für Gaslieferung und niemand bewirbt sich, weil alle bei "den Russen" kaufen?](https://blog.fefe.de/?ts=9df5466f) - Wie groß muss der Hammer sein, bis Politiker merken, dass man Freundschaft mit den Nachbarn suchen sollte, statt mit "dem Cowboy von weit, weit weg"?
+* [fwupd wurde in der Version 1.8.4 veröffentlicht.](https://github.com/fwupd/fwupd/releases/tag/1.8.4)
+* [Strawberry wurde in der Version 1.0.8 veröffentlicht.](https://github.com/strawberrymusicplayer/strawberry/releases/tag/1.0.8)
+* [PHP GeneratedHydrator wurde in der Version 4.4.0 veröffentlicht.](https://github.com/Ocramius/GeneratedHydrator/releases/tag/4.4.0)
+* [PSR7-Session sotrageless wurde in der Version 8.6.0 veröffentlicht.](https://github.com/psr7-sessions/storageless/releases/tag/8.6.0)
+* [Arte hat erneut eine tolle Dokumentation veröffentlicht, heute zum Thema Verkehrswende in Großstädten.](https://www.youtube.com/watch?v=V7pGFGwIIoI)
+* [Was Telegram mit seiner Befragung wohl vor hat?](https://netzpolitik.org/2022/telegram-fragt-nutzerinnen-wieviel-ueberwachung-solls-denn-sein/)
+* [Abhängigkeit in der Cloud? SUPER SACHE! Was macht ihr, wenn der Anbieter dann mal die Lizenzierung ändert?](https://www.borncity.com/blog/2022/08/30/microsoft-ndert-cloud-lizenzierung-in-der-eu-zum-1-oktober-2022/) - Das schöne an der Cloud ist ja, dass euch der Anbieter im Regefall "voll an den Eiern" hat
+* [`I don't care about cookies` macht genau das, was es soll.](https://www.kuketz-blog.de/i-dont-care-about-cookies-auf-wiedersehen-cookie-banner-firefox-add-ons-teil4/)
+* [Mit Gnome Connections gibt es ein wunderbare Werkzeug, um den Bildschirm zu teilen.](https://opensource.com/article/22/8/share-screens-linux-gnome-connections)
+* [PHP 8.2 bekommt ein paar neue Random-Number-Generatoren.](https://php.watch/versions/8.2/ext-random)
+* [UEFI wurde in der Version 2.10 und ACPI in der Version 6.5 veröffentlicht.](https://www.phoronix.com/news/UEFI-2.10-ACPI-6.5-Released)
+* [Was waren das noch für Zeiten, als die Telekom selber Technik entwickelt hat, statt sie nur zu verkaufen.](https://www.kuketz-blog.de/telekom-cloudpbx-2-0-fragwuerdige-auftragsverarbeiter-und-datenschutzhinweise/) - Die Telekom CloudPBX ist am Ende nur Cisco in Magentafarben.
