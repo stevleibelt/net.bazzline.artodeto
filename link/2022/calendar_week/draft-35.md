@@ -19,3 +19,22 @@
 * [PHP 8.2 bekommt ein paar neue Random-Number-Generatoren.](https://php.watch/versions/8.2/ext-random)
 * [UEFI wurde in der Version 2.10 und ACPI in der Version 6.5 veröffentlicht.](https://www.phoronix.com/news/UEFI-2.10-ACPI-6.5-Released)
 * [Was waren das noch für Zeiten, als die Telekom selber Technik entwickelt hat, statt sie nur zu verkaufen.](https://www.kuketz-blog.de/telekom-cloudpbx-2-0-fragwuerdige-auftragsverarbeiter-und-datenschutzhinweise/) - Die Telekom CloudPBX ist am Ende nur Cisco in Magentafarben.
+* [Das 9-Euro-Ticket spart in drei Monaten soviel CO2 ein wie ein Tempolimit von 130.](https://blog.fefe.de/?ts=9df3edd0) - FeFe fragt zu recht, warum machen wir nicht beides DAUERHAFT? Was wir da an "Renaturierungskosten" sparen
+* [Cloudflare ist in Österreich kaputt.](https://blog.fefe.de/?ts=9df3d6cc)
+* [Warum funktioniert der Strommarkt nicht? Weil es kein Markt für den Kunden sondern für den Anbieter ist.](https://blog.fefe.de/?ts=9df22bea) - Der Markt belohnt sich selbst, wenn man Umweltverschmutzer hoch fährt und an lässt. Es werden die bestraft, die regenerative Energie produtieren
+* [Realitätsabgleich Uniper](https://blog.fefe.de/?ts=9df22849) - Nur falls euer Klappmesser noch nicht in Angriffstimmung ist.
+* [Joomla wurde in der Version 4.2.1 veröffentlicht.](https://github.com/joomla/joomla-cms/releases/tag/4.2.1)
+* [Fünf Google Chrome Erweiterungen sind kaputt.](https://www.bleepingcomputer.com/news/security/chrome-extensions-with-14-million-installs-steal-browsing-data/)
+* [Christian Ströbele und Michail Gorbatschow sind gestorben.](https://blog.fefe.de/?ts=9df1dd56) - Beide haben die Welt der Politik glaubhaft und sicher gemacht. [Hier hat Arte ein Video zu Michail Gorbatschow](https://www.youtube.com/watch?v=lpIUHQojWRE) veröffentlicht.
+* [Schöne Demokratie haben sie da, die Absprachen zwischen Lindner und Porsche sind geheim und gleichzeitig irrelevant.](https://netzpolitik.org/2022/geheime-sms-christian-lindners-porscheproblem/)
+* [Die Firefox-Erweiterung >>Video DownloadHelper<< scheint sauber zu sein.](https://www.kuketz-blog.de/video-downloadhelper-downloads-von-medien-firefox-add-ons-teil5/)
+* [Firefox wurde in der Version 104.0.1 veröffentlicht.](https://www.borncity.com/blog/2022/08/31/firefox-101-0-1-freigegeben-2/)
+* [WordPress wurde in der Version 6.0.2 veröffentlicht.](https://wordpress.org/news/2022/08/wordpress-6-0-2-security-and-maintenance-release/)
+* [Arch Linux Nutzer aufgepasst, nutzt ihr Grub, so müst ihr etwas machen.](https://archlinux.org/news/grub-bootloader-upgrade-and-configuration-incompatibilities/)
+* [QEMU wurde in der Version 7.1 veröffentlicht.](https://www.phoronix.com/news/QEMU-7.1-Released)
+* [Am 02.10.2022 findet eine RAVE strikes back PArty in Jena statt.](https://www.rave-strikes-back.de/?p=11202)
+* [Genode OS Framework wurde in der Version 22.08 veröffentlicht.](https://www.phoronix.com/news/Genode-OS-22.08)
+* [Wenn euch eine schnelle Übersicht reicht, `git -full-history --simplify-merges`](https://lwn.net/Articles/906604/)
+* [Metabase wurde in der Version 0.44.2 veröffentlicht.](https://github.com/metabase/metabase/releases/tag/v0.44.2)
+* [cryptomator wurde in der Version 1.6.14 veröffentlicht.](https://github.com/cryptomator/cryptomator/releases/tag/1.6.14)
+* [HeroicGamesLauncher wurde in der Version 2.4.1 veröffentlicht.](https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher/releases/tag/v2.4.1)
