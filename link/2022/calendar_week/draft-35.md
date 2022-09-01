@@ -38,3 +38,8 @@
 * [Metabase wurde in der Version 0.44.2 veröffentlicht.](https://github.com/metabase/metabase/releases/tag/v0.44.2)
 * [cryptomator wurde in der Version 1.6.14 veröffentlicht.](https://github.com/cryptomator/cryptomator/releases/tag/1.6.14)
 * [HeroicGamesLauncher wurde in der Version 2.4.1 veröffentlicht.](https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher/releases/tag/v2.4.1)
+* [In PHP 8.2 wurde ein Fehler im `ksort` behoben, hinter diesem Link ist das erklärende Beispiel.](https://php.watch/versions/8.2/ksort-SORT_REGULAR-order-changes)
+* [Realitätsabgleich >>Digitalstrategie<< der aktuellen Regierung - keine Ahnung und keine Vision.](https://netzpolitik.org/2022/reaktionen-das-sagt-die-zivilgesellschaft-zur-digitalstrategie/) - Ich glaube, die Lobbyberater der Politiker lesen auch nur Computerbild
+* [Hier wird euch gezeigt, wie ihr mit Python einen "headless Firefox" zum laufen bringt.](https://www.shellhacks.com/run-selenium-headless-chrome-firefox-python/)
+* [Salamitaktik auch in der EU, Staatstrojaner werden nicht verboten, die Bevölkerung wurde nur nicht richtig >>abgeholt<<.](https://netzpolitik.org/2022/pegasus-ausschuss-die-staatstrojaner-branche-zu-mehr-transparenz-zwingen/)
+* [Moosync wurde in der Version 5.0.0 veröffentlicht.](https://github.com/Moosync/Moosync/releases/tag/v5.0.0)
