@@ -43,3 +43,13 @@
 * [Hier wird euch gezeigt, wie ihr mit Python einen "headless Firefox" zum laufen bringt.](https://www.shellhacks.com/run-selenium-headless-chrome-firefox-python/)
 * [Salamitaktik auch in der EU, Staatstrojaner werden nicht verboten, die Bevölkerung wurde nur nicht richtig >>abgeholt<<.](https://netzpolitik.org/2022/pegasus-ausschuss-die-staatstrojaner-branche-zu-mehr-transparenz-zwingen/)
 * [Moosync wurde in der Version 5.0.0 veröffentlicht.](https://github.com/Moosync/Moosync/releases/tag/v5.0.0)
+* [Wie viel Wissen haben die lobby-fachberater der Bundesregierung? Keine, mehr als 100.000 Transaktionen geht nicht pro Tag.](https://blog.fefe.de/?ts=9dee6dd8) - Jeder Bundesbürger ist damit aller 800 Tage einmal dran mit einer Überweisung.
+* [Imaginäres Geld über alles, die Ölfirmen in Texas schieben die Regierung von Texas vor, dass diese mal Großbanken und Fonds bestrafen, die ihr Geld für die Klimarettung einsetzen statt für die Klimazerstörung.](https://blog.fefe.de/?ts=9dee677a)
+* [Ein kleiner Schritt in Richung "haben wir früher in der DDR auch so gemacht".](https://netzpolitik.org/2022/nachhaltigkeit-eu-plant-schulnoten-fuer-handys/) - In der DDR wurden Produkte auf "hält für zwei Leben" ausgelegt. Zudem konnte alles günstig repariert werden. Das hatte natürlich Nachteile aber mit Blick auf die heutige Ressourcenverschwendung sollten wir uns auf einige Dinge zurück besinnen.
+* [Foxit PhantomPDF und PDF-Editor sind kaputt.](https://www.borncity.com/blog/2022/09/01/schwachstelle-im-foxit-pdf-reader/)
+* [Thunderbird wurde in der Version 102.2.1 veröffentlicht.](https://www.borncity.com/blog/2022/09/01/thunderbird-102-2-1-freigegeben/)
+* [EDEKA legt sich mit Coca-Cola an.](https://netzfrauen.org/2022/09/01/edeka-3/) - Danke und richtig
+* [Schafft Vertrauen! RKI löscht heimlisch zentrale Aussagen die den mRNA-Impfstoff als supersicher anpreisen.](https://impfentscheidung.online/mrna-aktivitat-covid-19-impfstoffe-rki-loescht-stillschweigend/)
+* [php carbon wurde in der Version 2.26.1 veröffentlicht.](https://github.com/briannesbitt/Carbon/releases/tag/2.62.1)
+* [psr7-sessions/storageless wurde in der Version 8.7.0 veröffentlicht.](https://github.com/psr7-sessions/storageless/releases/tag/8.7.0)
+* [phpstan wurde in der Version 1.8.3 veröffentlicht.](https://github.com/phpstan/phpstan/releases/tag/1.8.3)
