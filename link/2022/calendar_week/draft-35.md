@@ -53,3 +53,7 @@
 * [php carbon wurde in der Version 2.26.1 veröffentlicht.](https://github.com/briannesbitt/Carbon/releases/tag/2.62.1)
 * [psr7-sessions/storageless wurde in der Version 8.7.0 veröffentlicht.](https://github.com/psr7-sessions/storageless/releases/tag/8.7.0)
 * [phpstan wurde in der Version 1.8.3 veröffentlicht.](https://github.com/phpstan/phpstan/releases/tag/1.8.3)
+* [Ach schau, nun gibt es doch Patente auf den Covid-Impfstoff.](https://blog.fefe.de/?ts=9ded7004)
+* [Tolles Sicherungsnetz habt ihr da, eure Notstromgeneratoren starten nur, wenn das Mobilfunknetz vorhanden ist.](https://blog.fefe.de/?ts=9ded89e9) - Was kann da noch schief gehen, ich lach mich weg.
+* [Wollt ihr mal sehen wie so ein Kabelbrand in einem Umspannwerk ausschaut?](https://blog.fefe.de/?ts=9dede731)
+* [Während die Bürger schon Kredite für den Strom aufnehmen müssen, fängt die Industrie an ihre "Muskeln" zu zeigen.](https://blog.fefe.de/?ts=9dec6c45) - Die ersten Hochöfen werden in Deutschland abgeschaltet. Dankt den Politikern die ihren Kopf im Arsch der US-Amerikaner haben, die bauen Deutschland zu einem Land der Bauern um.
