@@ -57,3 +57,4 @@
 * [Tolles Sicherungsnetz habt ihr da, eure Notstromgeneratoren starten nur, wenn das Mobilfunknetz vorhanden ist.](https://blog.fefe.de/?ts=9ded89e9) - Was kann da noch schief gehen, ich lach mich weg.
 * [Wollt ihr mal sehen wie so ein Kabelbrand in einem Umspannwerk ausschaut?](https://blog.fefe.de/?ts=9dede731)
 * [Während die Bürger schon Kredite für den Strom aufnehmen müssen, fängt die Industrie an ihre "Muskeln" zu zeigen.](https://blog.fefe.de/?ts=9dec6c45) - Die ersten Hochöfen werden in Deutschland abgeschaltet. Dankt den Politikern die ihren Kopf im Arsch der US-Amerikaner haben, die bauen Deutschland zu einem Land der Bauern um.
+* [Berechtigte Frage der Superreichen, wie kriege ich hin, dass meine Angestellten nicht meutern.](https://blog.fefe.de/?ts=9dea588e)
