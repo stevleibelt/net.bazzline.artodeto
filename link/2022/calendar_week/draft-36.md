@@ -7,3 +7,5 @@
 * [Joomla-CMS wurde in der Version 4.2.2 veröffentlicht.](https://github.com/joomla/joomla-cms/releases/tag/4.2.2)
 * [phpseclib wurde in der Version 3.0.15 veröffentlicht.](https://github.com/phpseclib/phpseclib/releases/tag/3.0.15)
 * [phpseclib wurde in der Version 2.0.38 veröffentlicht.](https://github.com/phpseclib/phpseclib/releases/tag/2.0.38)
+* [Lieferando so "Betriebsrat? Gerne, hier ist ihre Kündigung"](https://netzpolitik.org/2022/berlin-lieferando-will-betriebsraete-kuendigen/) - Und liest man sich den Artikel durch, kommt einen das Gefühl von "war alles so geplant" hoch
+* [Hier wird euch ein Beispiel für das Thema "mit rsyslogd, syslogs nach Grafana Loki schicken" gezeigt](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/PromtailRsyslogForwarderSetup)
