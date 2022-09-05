@@ -9,3 +9,7 @@
 * [phpseclib wurde in der Version 2.0.38 veröffentlicht.](https://github.com/phpseclib/phpseclib/releases/tag/2.0.38)
 * [Lieferando so "Betriebsrat? Gerne, hier ist ihre Kündigung"](https://netzpolitik.org/2022/berlin-lieferando-will-betriebsraete-kuendigen/) - Und liest man sich den Artikel durch, kommt einen das Gefühl von "war alles so geplant" hoch
 * [Hier wird euch ein Beispiel für das Thema "mit rsyslogd, syslogs nach Grafana Loki schicken" gezeigt](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/PromtailRsyslogForwarderSetup)
+* [Toilettenpapierhersteller Hakle hat ein Insolvenzverfahren beantragt.](https://blog.fefe.de/?ts=9de88b6e)
+* [Blackrock Merz empfindet das Entlastungspaket als zu gering.](https://blog.fefe.de/?ts=9deb7462) - Klar, er will, dass seine Firmen, die Schuld an dem Schlamassel sind, massiv mit Volkseigentum subventioniert werden
+* [Mit PHP AST könnt ihr PHPStan oder Rector verstehen.](https://matthiasnoback.nl/2022/09/a-step-debugger-for-the-php-ast/)
+* [Solidarische Landwirtschaft? Geht auch in Freiberg! 24.09.2022, von 10:00 bis 18:00 in Lichtenberg.](http://freibergeragenda21.de/solawi/)
