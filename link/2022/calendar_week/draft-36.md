@@ -18,3 +18,4 @@
 * [gantry5 wurde in der Version 5.5.15 veröffentlicht.](https://github.com/gantry/gantry5/releases/tag/5.5.15)
 * [K-9 Mail wurde in der Version v6.302 veröffentlicht.](https://github.com/thundernest/k-9/releases/tag/6.302)
 * [Dunkeldeutschland wird es wohl dieses Jahr für 99 Prozent der Deutschen geben, Hakeck spricht der Energieversorgung sein vollstes Vertrauen aus.](https://blog.fefe.de/?ts=9de897cb)
+* [Die OPEC reduziert ihre Ölfördermenge.](https://blog.fefe.de/?ts=9de8398f) - Damit ist die Katze aus dem Sack, die Ölkonzerne, die Zwischenhändler und damit die Börse sowie Aktienhändler spekulieren sich hier gerade eine goldene Nase und begehen Raubbau an der Gesellschaft. Nur für den Fall, dass ihr nicht wisst wohin ihr mit euren Fackeln und Mistgabel gehen sollt
