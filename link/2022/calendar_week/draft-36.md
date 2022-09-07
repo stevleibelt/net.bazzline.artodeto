@@ -19,3 +19,20 @@
 * [K-9 Mail wurde in der Version v6.302 veröffentlicht.](https://github.com/thundernest/k-9/releases/tag/6.302)
 * [Dunkeldeutschland wird es wohl dieses Jahr für 99 Prozent der Deutschen geben, Hakeck spricht der Energieversorgung sein vollstes Vertrauen aus.](https://blog.fefe.de/?ts=9de897cb)
 * [Die OPEC reduziert ihre Ölfördermenge.](https://blog.fefe.de/?ts=9de8398f) - Damit ist die Katze aus dem Sack, die Ölkonzerne, die Zwischenhändler und damit die Börse sowie Aktienhändler spekulieren sich hier gerade eine goldene Nase und begehen Raubbau an der Gesellschaft. Nur für den Fall, dass ihr nicht wisst wohin ihr mit euren Fackeln und Mistgabel gehen sollt
+* [OpenWrt wurde in der Version 22.03.0 veröffentlicht.](https://lwn.net/Articles/907238/)
+* [arch-linux-live-cd-zfs-setup wurde in der Version 1.2.0 veröffentlicht.](https://github.com/stevleibelt/arch-linux-live-cd-zfs-setup/releases/tag/1.2.0)
+* [arch-linux-configuration wurde in der Version 1.0.0 veröffentlicht.](https://github.com/stevleibelt/arch-linux-configuration/releases/tag/1.0.0)
+* [gitea wurde in der Version 1.17.2 veröffentlicht.](https://github.com/go-gitea/gitea/releases/tag/v1.17.2)
+* [Netzpolitik.org nutzt das Thema Pornographie um aufzuzeigen warum und wie heutige, öffentliche Debatten ungeschickt ausgetragen werden.](https://netzpolitik.org/2022/kommentar-gebt-den-porn-frei/)
+* [Die Hotels der Kette InterContinental sind kaputt.](https://www.bleepingcomputer.com/news/security/intercontinental-hotels-group-cyberattack-disrupts-booking-systems/)
+* [Onkel Bob erklärt euch warum es manchmal gut ist, mehrere HTTP-Anfragen in einer zu Bündeln.](https://martinfowler.com/articles/patterns-of-distributed-systems/request-batch.html)
+* [Mozilla Firefox wurde in der Version 104.2 veröffentlicht.](https://www.borncity.com/blog/2022/09/06/firefox-104-0-1-freigegeben/)
+* [Liebe Eltern, lasst eure Kinder alleine und ohne Überwachung zur Schule laufen, sie können das!](https://netzpolitik.org/2022/smartwatches-fuer-schulkinder-quietschbunte-handschelle/) - Nutzt es als Chance um euch mit eurem inneren Urvertrauen zu verbinden, es wird euer Leben bereichern.
+* [>>[...] Atomkraftwerke in Frankreich stehen still, billiges russisches Gas steht nicht mehr zur Verfügung und weil die Klimakrise die Flüsse austrocknet, geht den Kohlekraftwerken am Rhein der Brennstoff aus. Dieses System sollten wir nicht weiter verlängern, sondern schnellstmöglich überwinden<<](https://www.sonnenseite.com/de/politik/germanwatch-fordert-sofortprogramm-zur-beschleunigung-der-energiewende/)
+* [Lasst euch von den AKW-Stresstests nichts einreden, hier werden marode und gefährliche Kraftwerke künstlich gesund geredet.](https://www.sonnenseite.com/de/politik/stresstest-akw-reservebetrieb-ist-unnoetig-und-ignoriert-sicherheitsrisiken/)
+* [Sachsen hat immer mehr Probleme mit seinen Monokulturen in den Wäldern, immer mehr brend ab und dann fordern da einige, die wenigen Naturschutzgebiete für den Tourismus zu industrialisieren?](https://sachsen.nabu.de/news/2022/32200.html)
+* [Ihr fliegt mit dem Flugzeug? Herzlich Willkommen im Netz der Überwacher!](https://netzpolitik.org/2022/anlasslose-fluggastueberwachung-62-millionen-menschen-unter-generalverdacht/)
+* [LLVM wurde in der Version 15.0 veröffentlicht.](https://www.phoronix.com/news/LLVM-15.0-Released)
+* [Gawk wurde in der Version 5.2.0 veröffentlicht.](https://lwn.net/Articles/907278/)
+* [Nein? Doch! Oh? IPv6 Adressen können eindeutig sein und zum Tracking genutzt werden.](https://www.patrick-breyer.de/ip-vorratsspeicherung-ist-keine-option-ipv6-adressen-koennen-eindeutige-und-dauerhafte-tracking-identifikatoren-sein-wie-eine-neue-studie-zeigt/) - Da fragt man sich wieder, wie weit die Entscheider von Ihrem Arbeitsumfeld entfernt sind
+* [nushell wurde in der Version 0.68.0 veröffentlicht.](https://github.com/nushell/nushell/releases/tag/0.68.0)
