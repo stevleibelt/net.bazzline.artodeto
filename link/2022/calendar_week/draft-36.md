@@ -36,3 +36,8 @@
 * [Gawk wurde in der Version 5.2.0 veröffentlicht.](https://lwn.net/Articles/907278/)
 * [Nein? Doch! Oh? IPv6 Adressen können eindeutig sein und zum Tracking genutzt werden.](https://www.patrick-breyer.de/ip-vorratsspeicherung-ist-keine-option-ipv6-adressen-koennen-eindeutige-und-dauerhafte-tracking-identifikatoren-sein-wie-eine-neue-studie-zeigt/) - Da fragt man sich wieder, wie weit die Entscheider von Ihrem Arbeitsumfeld entfernt sind
 * [nushell wurde in der Version 0.68.0 veröffentlicht.](https://github.com/nushell/nushell/releases/tag/0.68.0)
+* [Ihr wollt euch anschauen was es zum Thema Wind alles so gibt? Windy.com](https://www.windy.com/)
+* [Herr Dr. Christian Rieck erklärt ab Minute 17 was hinter >>das Volkseigentum wird und wurde geplündert<< verbirgt.](https://www.youtube.com/watch?v=Z1-vEziy1ok) - In den "fetten Jahren" des Gewinns, wurde unsere Infrastruktur weiterhin auf Verschleiß gefahren.
+* [Schöne Idee, die man mal durchdenken sollte, wenn EON Uniper gründet um eine Art >>Bad Bank<< zu schaffen, warum koppeln wir dann nicht den regenerativen Strommarkt vom restlichen Strommarkt ab?](https://www.sonnenseite.com/de/wirtschaft/der-boersenstrompreis-geht-durch-decke/) - Damit kann man das Merit-Order-Prinzip ebenfalls abkoppeln und die Spekulaten einbremsen. Warum man mit Strom überhaupt spekulieren darf?
+* [PowerToys wurde in der Version 0.62.0 veröffentlicht.](https://www.borncity.com/blog/2022/09/07/powertoys-0-62-freigegeben/)
+* [Apache NetBeans IDE wurde in der Version 15 veröffentlicht.](https://www.phoronix.com/news/Apache-NetBeans-15)
