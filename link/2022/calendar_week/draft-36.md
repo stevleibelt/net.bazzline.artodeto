@@ -41,3 +41,11 @@
 * [Schöne Idee, die man mal durchdenken sollte, wenn EON Uniper gründet um eine Art >>Bad Bank<< zu schaffen, warum koppeln wir dann nicht den regenerativen Strommarkt vom restlichen Strommarkt ab?](https://www.sonnenseite.com/de/wirtschaft/der-boersenstrompreis-geht-durch-decke/) - Damit kann man das Merit-Order-Prinzip ebenfalls abkoppeln und die Spekulaten einbremsen. Warum man mit Strom überhaupt spekulieren darf?
 * [PowerToys wurde in der Version 0.62.0 veröffentlicht.](https://www.borncity.com/blog/2022/09/07/powertoys-0-62-freigegeben/)
 * [Apache NetBeans IDE wurde in der Version 15 veröffentlicht.](https://www.phoronix.com/news/Apache-NetBeans-15)
+* [Gaby Weber hat einen neuen Film veröffentlicht. Thema ist das Fischsterben an der Oder.](https://www.youtube.com/watch?v=80K2dw40hBg) - Wie zu erwarten war, es war kein Zufall.
+* [Nachdem sich die Welt vernetzt hat und alle ohne Puffer aka Warenlager gelebt haben, rückt die Welt jetzt wieder auseinander.](https://blog.fefe.de/?ts=9de63689) - Genießen wir das Gute daran, das Pentagon stoppt erst einmal die Auslieferung weiterer F-35 Tötungsmaschinen
+* [Firefly-III wurde in der Version 5.7.11 veröffentlicht.](https://github.com/firefly-iii/firefly-iii/releases/tag/5.7.11)
+* [phpstan wurde in der Version 1.8.5 veröffentlicht.](https://github.com/phpstan/phpstan/releases/tag/1.8.5)
+* [mockery wurde in der Version 1.5.1 veröffentlicht.](https://github.com/mockery/mockery/releases/tag/1.5.1)
+* [mockery wurde in der Version 1.3.6 veröffentlicht.](https://github.com/mockery/mockery/releases/tag/1.3.6)
+* [Blender wurde in der Version 3.3 veröffentlicht.](https://www.phoronix.com/news/Blender-3.3-Released)
+* [Cisco-Router sind kaputt und Cisco sagt >>Nö, machen wir nicht ganz, kauft neue<<.](https://www.bleepingcomputer.com/news/security/cisco-won-t-fix-authentication-bypass-zero-day-in-eol-routers/)
