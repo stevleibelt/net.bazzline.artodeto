@@ -62,3 +62,9 @@
 * [grav wurde in der Version 1.7.36 veröffentlicht.](https://github.com/getgrav/grav/releases/tag/1.7.36)
 * [nextcloud server wurde in der Version 23.0.9 veröffentlicht.](https://github.com/nextcloud/server/releases/tag/v23.0.9)
 * [nextcloud server wurde in der Version 24.0.5 veröffentlicht.](https://github.com/nextcloud/server/releases/tag/v24.0.5)
+* [Arte will eure Aufmerksamkeit mit >>AKW als Kriegswaffe<<?](https://www.youtube.com/watch?v=qJLIEl6axE8) - In Wirklichkeit zeigen euch diese wenigen Minuten, dass erneuerbare Energien schon jetzt die zweit wichtigste Energiequelle ist. Zugleich zeigen Sie euch, wie wenig Fuß die AKW's in der Welt gefasst haben
+* [Der Fachwerker kümmert sich in seinem Video um die Frage >>Steigt die Schimmelgefahr, wenn die Raumtemperatur sinkt?<<.](https://www.youtube.com/watch?v=JBYFnkQsqWQ)
+* [Nein? Doch! Oh? Politik basiert auf Bullshit-Vorurteilen.](https://blog.fefe.de/?ts=9de5c19c) - Einzig gute daran, damit können wir getrost die Gremien und Beraterposten abkündigen
+* [Status E-Rezept, kaputt und unsicher](https://www.ccc.de/de/updates/2022/erezept-mangelhaft)
+* [SAXEED wird 15 Jahre alt.](https://tu-freiberg.de/presse/15-jahre-gruendungsnetzwerk-saxeed-an-vier-suedwestsaechsischen-hochschulen)
+* [Kuketz bereitet eine Klage gegen die Deutsche Bahn wegen ihrer Anwendung >>DB Navigator<< vor.](https://www.kuketz-blog.de/db-navigator-erneute-technische-pruefung-und-vorbereitung-der-klage/) - Was macht die Deutsche Bahn? Sie baut mehr tracking in die Anwendung ein
