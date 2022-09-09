@@ -57,3 +57,8 @@
 * [Distrobox wurde in der Version 1.4 veröffentlicht.](https://www.phoronix.com/news/Distrobox-1.4-Released)
 * [Vulkan wurde in der Version 1.3.227 veröffentlicht.](https://www.phoronix.com/news/Vulkan-1.3.227-Released)
 * [Qt wurde in der Version 5.15.6 LTS veröffentlicht.](https://www.phoronix.com/news/Qt-5.15.6-LTS-Open-Source)
+* [nushell wurde in der Version 0.68.1 veröffentlicht.](https://github.com/nushell/nushell/releases/tag/0.68.1)
+* [davx5-ose wurde in der Version 4.2.3.3 veröffentlicht.](https://github.com/bitfireAT/davx5-ose/releases/tag/v4.2.3.3-ose)
+* [grav wurde in der Version 1.7.36 veröffentlicht.](https://github.com/getgrav/grav/releases/tag/1.7.36)
+* [nextcloud server wurde in der Version 23.0.9 veröffentlicht.](https://github.com/nextcloud/server/releases/tag/v23.0.9)
+* [nextcloud server wurde in der Version 24.0.5 veröffentlicht.](https://github.com/nextcloud/server/releases/tag/v24.0.5)
