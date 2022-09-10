@@ -68,3 +68,4 @@
 * [Status E-Rezept, kaputt und unsicher](https://www.ccc.de/de/updates/2022/erezept-mangelhaft)
 * [SAXEED wird 15 Jahre alt.](https://tu-freiberg.de/presse/15-jahre-gruendungsnetzwerk-saxeed-an-vier-suedwestsaechsischen-hochschulen)
 * [Kuketz bereitet eine Klage gegen die Deutsche Bahn wegen ihrer Anwendung >>DB Navigator<< vor.](https://www.kuketz-blog.de/db-navigator-erneute-technische-pruefung-und-vorbereitung-der-klage/) - Was macht die Deutsche Bahn? Sie baut mehr tracking in die Anwendung ein
+* [Nein? Doch! Oh? 18 Staaten haben landesweite Rekorde im Bereich Photovoltaik aufgestellt.](https://www.sonnenseite.com/de/energie/18-eu-staaten-feiern-photovoltaik-rekorde/)
