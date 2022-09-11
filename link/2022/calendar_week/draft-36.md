@@ -69,3 +69,9 @@
 * [SAXEED wird 15 Jahre alt.](https://tu-freiberg.de/presse/15-jahre-gruendungsnetzwerk-saxeed-an-vier-suedwestsaechsischen-hochschulen)
 * [Kuketz bereitet eine Klage gegen die Deutsche Bahn wegen ihrer Anwendung >>DB Navigator<< vor.](https://www.kuketz-blog.de/db-navigator-erneute-technische-pruefung-und-vorbereitung-der-klage/) - Was macht die Deutsche Bahn? Sie baut mehr tracking in die Anwendung ein
 * [Nein? Doch! Oh? 18 Staaten haben landesweite Rekorde im Bereich Photovoltaik aufgestellt.](https://www.sonnenseite.com/de/energie/18-eu-staaten-feiern-photovoltaik-rekorde/)
+* [Wow, die CDU führt eine Frauenquote ein.](https://blog.fefe.de/?ts=9de361f9) - Und bald fordern sie sozialen Wohnungsbau
+* [Debian wurde in der Version 11.5 veröffentlicht.](https://www.phoronix.com/news/Debian-11.5-Released)
+* [Open Shell Menu wurde in der Version 4.4.177 veröffentlicht.](https://github.com/Open-Shell/Open-Shell-Menu/releases/tag/v4.4.177)
+* [HeroicGamesLauncher wurde in der Version 2.4.3 veröffentlicht.](https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher/releases/tag/v2.4.3)
+* [BetterReflection wurde in der Version 5.10.0 veröffentlicht.](https://github.com/Roave/BetterReflection/releases/tag/5.10.0)
+* [Firefly-III wurde in der Version 5.7.12 veröffentlicht.](https://github.com/firefly-iii/firefly-iii/releases/tag/5.7.12)
