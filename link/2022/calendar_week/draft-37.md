@@ -6,3 +6,22 @@
 * [Kuketz setzt sich mit der `zdftivi-app` auseinander.](https://www.kuketz-blog.de/zdftivi-app-consent-banner-und-tracking-bei-zielgruppe-kinder-jugendliche/) - Erschreckend, warum benötigt eine Anwendung aus öffentliche Gelder die für Kinder ist Tracking/Überwachung? Warum ist das Standardverfahren nicht "Nein, danke, ihr dürft nichts über mich analysieren"
 * [Schöner Vergleich von Netzpolitik.org, sie zeigen, wie schlecht Chatkontrolle funktioneren wird indem man auf die Spam-Filter zeigt.](https://netzpolitik.org/2022/chatkontrolle-interne-dokumente-zeigen-wie-gespalten-die-eu-staaten-sind/)
 * [Der Verfassungsblog setzt sich mit dem Thema Übergewinnsteuer auf der rechtlichen Ebene auseinander.](https://verfassungsblog.de/ubergewinnsteuer-durch-die-hintertur/)
+* [Open-Shell-Menu wurde in der Version 4.4.178 veröffentlicht.](https://github.com/Open-Shell/Open-Shell-Menu/releases/tag/v4.4.178)
+* [Wenn die regierende Seite >>Staatstrojaner<< einsetzen kann, ist die Demokratie zerstört.](https://netzpolitik.org/2022/staatstrojaner-untersuchungsausschuss-die-eu-kommission-verschweigt-wie-oft-sie-gehackt-wurde/) - So ist der Stand in Europa
+* [ProofWood zeigt euch, wie man große Elektrokabel sauber verbindet.](https://www.youtube.com/watch?v=vWOcvb4maIE)
+* [Warum erleben wir gerade solch eine Problematik im Energiemarkt?](https://verfassungsblog.de/jetzt-das-strommarktdesign-auf-erneuerbare-ausrichten/) - Weil seit 20 Jahren ein Kohleausstieg, auf dem Papier, beschlossen wurde aber der ach so agile Markt das bis zur Kotzgrenze aussitzt.
+* [Was ist ein Teil der aktuellen Probleme? Der Derivatenmarkt und die völlig kaputten Finanzmärkte.](https://www.youtube.com/watch?v=XwBHt6Ogqa4)
+* [>>Keine Frage, der alte Sack, der hier schreibt, ist fett wie ein Eisbein. Ich habe schon lange Übergewicht. Sicher spielt das eine Rolle bei den Werten. Aber es ist eben auch der Stress, dem wir alle ausgesetzt sind: Corona, Klima, Russland, Energiepreise, Inflation und so weiter und so fort. Bei mir hat sich so eine bescheuerte latente innere Unruhe breit gemacht.<< schreibt der Henning Uhle und beschreibt damit ein Kernziel der aktuellen Mediensteuerung.](https://www.henning-uhle.eu/allgemein/funktionieren-niemand-ist-eine-maschine?pk_campaign=feed&pk_kwd=funktionieren-niemand-ist-eine-maschine)
+* [>>Je mehr Ökostrom dezentral im Inland produziert würde, umso unnotwendiger werden Stromautobahnen aus fernen Ländern.<<](https://www.sonnenseite.com/de/energie/irrationale-energiewelt/) - Weniger Stromautobahnen würde weniger Ressourcen verschwenden, aber darum geht es ja im Kapitialismus nicht
+* [Matthias Noback zeigt euch die kleinen, aber feinen Unterschiede zwischen DTO und Value-Objects auf.](https://matthiasnoback.nl/2022/09/is-it-a-dto-or-a-value-object/)
+* [phpqa wurde in der Version 1.77.6 veröffentlicht.](https://github.com/jakzal/phpqa/releases/tag/v1.77.6)
+* [vscodium wurde in der Version 1.71.1.22256 veröffentlicht.](https://github.com/VSCodium/vscodium/releases/tag/1.71.1.22256)
+* [BetterReflection wurde in der Version 5.11.0 veröffentlicht.](https://github.com/Roave/BetterReflection/releases/tag/5.11.0)
+* [Nein? Doch! Oh? Sportwetten und Glücksspiel machen süchtig.](https://www.youtube.com/watch?v=961ZjIij3UA)
+* [Upsi, das RKI löscht die Risikobewerung im Wochenbericht.](https://impfentscheidung.online/rki-loescht-risikobewertung-im-wochenbericht/) - Was ist denn da los?
+* [Samba wurde in der Version 4.17 veröffentlicht.](https://www.phoronix.com/news/Samba-4.17-Released)
+* [pgBadger wurde in der Version v12.0 veröffentlicht.](https://www.postgresql.org/about/news/pgbadger-v120-released-2509/)
+* [100 Milliarden Euro für die Bundeswehr, warum nicht auch 100 Milliarden Euro für das Klima?](https://www.sonnenseite.com/de/politik/100-milliarden-fuer-klima-und-sicherheit-jetzt/)
+* [OpenShift Local bleibt weiterhin die Software, die man nutzt, wenn man Kubernetes entwickelt.](https://www.opensourcerers.org/2022/09/13/openshift-local-or-single-node-openshift/)
+* [Schön,  wenn andere auf das gleiche Resultat kommen.](https://www.kuketz-blog.de/smarte-und-zentrale-heizungssteuerung-danke-ich-verzichte/) - Zeitgesteuerte Heizungsventile müssen nichts können und brauchen weder WLAN noch Bluetooth
+* [Gut zu lesen, Chris Siebenmann teilt seine Liste von genutzten Firefox-Erweiterungen.](https://utcc.utoronto.ca/~cks/space/blog/web/Firefox104AddonsUnchanged) - Die gleichen Erweiterungen oder Erweiterungen mit der gleichen Idee nutze ich auch.
