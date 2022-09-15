@@ -49,3 +49,5 @@
 * [mumble wurde in der Version 1.4.287 veröffentlicht.](https://github.com/mumble-voip/mumble/releases/tag/v1.4.287)
 * [barman wurde in der Version 3.1.0 veröffentlicht.](https://github.com/EnterpriseDB/barman/releases/tag/release/3.1.0)
 * [Moosync wurde in der Version 5.0.1 veröffentlicht.](https://github.com/Moosync/Moosync/releases/tag/v5.0.1)
+* [>>Es führt kein Weg daran vorbei: Klimaschutz und Klimawandelan-passung müssen in kommunale Pflichtaufgaben überführt werden<<.](https://www.sonnenseite.com/de/politik/kommunen-fordern-verankerung-von-klimaschutz-und-klimaanpassung-als-kommunale-pflichtaufgaben/) - Der Aussage stimme ich zu. Nur wenn es eine Pflichtaufgaben ist, kann der Bund nicht nur Wünsche per Gesetz äußern, sonstn muss dies auch entsprechend finanziell unterstützen.
+* [Hier wird euch gezeigt, wie ihr von Docker-Desktop nach Colima wechselt.](https://opensource.com/article/22/9/docker-desktop-colima) - Und so ganz nebenbei wird das tolle Projekt [ddev](https://github.com/drud/ddev) genannt
