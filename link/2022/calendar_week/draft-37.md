@@ -25,3 +25,27 @@
 * [OpenShift Local bleibt weiterhin die Software, die man nutzt, wenn man Kubernetes entwickelt.](https://www.opensourcerers.org/2022/09/13/openshift-local-or-single-node-openshift/)
 * [Schön,  wenn andere auf das gleiche Resultat kommen.](https://www.kuketz-blog.de/smarte-und-zentrale-heizungssteuerung-danke-ich-verzichte/) - Zeitgesteuerte Heizungsventile müssen nichts können und brauchen weder WLAN noch Bluetooth
 * [Gut zu lesen, Chris Siebenmann teilt seine Liste von genutzten Firefox-Erweiterungen.](https://utcc.utoronto.ca/~cks/space/blog/web/Firefox104AddonsUnchanged) - Die gleichen Erweiterungen oder Erweiterungen mit der gleichen Idee nutze ich auch.
+* [Haha, dank "KI" gibt es bald wieder keine Diversity. Der Film wird gedreht und je nach Region sehen die Personen und auch die Umgebung entsprechend des lokalem Geschmacks unterschiedlich aus.](https://blog.fefe.de/?ts=9dde9e55) - Hat man früher auch schon so gemacht, nur ohne KI und sonstigem Schnickschnack.
+* [DivestOS möchste ein LinageOS mit dem Fokus auf Privatsspähre sein.](https://divestos.org/) - Danke [Onli](https://www.onli-blogging.de/2194/DivestOS-bei-sustaphones.html)
+* [Hier wird euch gezeigt, wie ihr mit Kubernetes shell skripte als jobs ausführt.](https://opensource.com/article/22/9/packaging-job-scripts-kubernetes-operators)
+* [IoT in der Realität? Firewall your firewall!](https://opensource.com/article/22/9/protect-home-network)
+* [Keycloak wurde in der Version 19.0.2 veröffentlicht.](https://github.com/keycloak/keycloak/releases/tag/19.0.2)
+* [Smarty wurde in der Version 3.1.47 veröffentlicht.](https://github.com/smarty-php/smarty/releases/tag/v3.1.47)
+* [Smarty wurde in der Version 4.2.1 veröffentlicht.](https://github.com/smarty-php/smarty/releases/tag/v4.2.1)
+* [Besser kann ich es auch nicht schreiben, >>So what I've come to feel is that our central syslog server is there to be our ultimate source of truth, while Grafana Loki is there to make logs accessible<<](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/GrafanaLokiAndCentralSyslogs)
+* [Verrückt, jetzt sind auch noch die Auen nützlich.](https://www.sonnenseite.com/de/umwelt/auen-verbessern-die-wasserqualitaet-von-fluessen/) - Um FeFe zu zitieren, DIE FINDEN ALLES RAUS, ALLES FINDEN DIE RAUS!
+* [Endeavour OS wurde in der Version 22.9 veröffentlicht.](https://www.phoronix.com/news/Endeavour-OS-22.9-Released)
+* [Lenovo hat für viele Produkte ein UEFI-Bios-Update heraus gebracht.](https://www.bleepingcomputer.com/news/security/new-lenovo-bios-updates-fix-security-bugs-in-hundreds-of-models/) - Würden sie nur alle Geräte via fwupd unterstützen
+* [Arte hat seine Zucker-Dokumentation erneut hochgeladen.](https://www.youtube.com/watch?v=dlLVKct6SkA)
+* [Die Bundesregierung macht den Bau und das Betreiben von PV-Anlagen einfacher.](https://www.sonnenseite.com/de/politik/energiewende-von-unten-steuerliche-entlastung-und-buerokratieabbau-kommen/)
+* [Heute gibt es eine Breitseite Nextcloud: Wir fangen damit an, dass Herr Außendorf bei der Nextcloud Konferenz spricht.](https://nextcloud.com/blog/announcing-maik-ausendorf-as-keynote-speaker-at-nextcloud-conference/)
+* [Zimbra und Nextcloud arbeiten noch mehr zusammen.](https://nextcloud.com/blog/zimbra-and-nextcloud-announce-new-integration-features/)
+* [Nextcloud wurde in den Versionen 24.0.5 und 23.0.9 veröffentlicht.](https://nextcloud.com/blog/maintenance-releases-24-0-5-and-23-0-9-are-out-plus-5th-beta-of-our-upcoming-release/)
+* [Nextcloud und Cisco arbeiten bei Webex zusammen.](https://nextcloud.com/blog/nextcloud-and-cisco-introduce-integration-with-webex/)
+* [Nextcloud Desktop wurde in der Version 3.6.0 veröffentlicht.](https://nextcloud.com/blog/nextcloud-desktop-client-3-6-0-is-here-with-visual-and-user-experience-improvements-for-the-users-2/)
+* [xrdp wurde in der Version 0.9.20 veröffentlicht.](https://github.com/neutrinolabs/xrdp/releases/tag/v0.9.20)
+* [UUID wurde in der Version 4.5.0 veröffentlicht.](https://github.com/ramsey/uuid/releases/tag/4.5.0)
+* [slint wurde in der Version 0.3.0 veröffentlicht.](https://github.com/slint-ui/slint/releases/tag/v0.3.0)
+* [mumble wurde in der Version 1.4.287 veröffentlicht.](https://github.com/mumble-voip/mumble/releases/tag/v1.4.287)
+* [barman wurde in der Version 3.1.0 veröffentlicht.](https://github.com/EnterpriseDB/barman/releases/tag/release/3.1.0)
+* [Moosync wurde in der Version 5.0.1 veröffentlicht.](https://github.com/Moosync/Moosync/releases/tag/v5.0.1)
