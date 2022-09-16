@@ -51,3 +51,19 @@
 * [Moosync wurde in der Version 5.0.1 veröffentlicht.](https://github.com/Moosync/Moosync/releases/tag/v5.0.1)
 * [>>Es führt kein Weg daran vorbei: Klimaschutz und Klimawandelan-passung müssen in kommunale Pflichtaufgaben überführt werden<<.](https://www.sonnenseite.com/de/politik/kommunen-fordern-verankerung-von-klimaschutz-und-klimaanpassung-als-kommunale-pflichtaufgaben/) - Der Aussage stimme ich zu. Nur wenn es eine Pflichtaufgaben ist, kann der Bund nicht nur Wünsche per Gesetz äußern, sonstn muss dies auch entsprechend finanziell unterstützen.
 * [Hier wird euch gezeigt, wie ihr von Docker-Desktop nach Colima wechselt.](https://opensource.com/article/22/9/docker-desktop-colima) - Und so ganz nebenbei wird das tolle Projekt [ddev](https://github.com/drud/ddev) genannt
+* [Am Linux Kernel kann man schön die neusten Probleme und Trends in der IT sehen.](https://www.phoronix.com/news/Nest-Linux-Scheduling-Warm-Core) - Nest ist ein neuer Scheduler der, auf Grund der hybriden Architekturen, versucht Aufgaben auf passenden Kernen zu lassen
+* [Hier wird euch gezeigt, wie man Pfefferminzöl selber macht.](https://www.kostbarenatur.net/pfefferminzoel-selber-machen/)
+* [Cemu wurde in der Version 2.0-2 veröffentlicht.](https://www.phoronix.com/news/Cemu-2.0-2-Released)
+* [Arte und Microplastik, Danke!](https://www.youtube.com/watch?v=2v4cnlSEKkU)
+* [Leute wir müssen mehr miteinander, statt übereinander reden.](https://tuxproject.de/blog/2022/09/liegengebliebenes-vom-15-september-2022/) - Hätten wir, als breite Gemeinschaft, mit der Kriegs- und Nachkriegsgeneration geredet, könnten wir die aktuelle Lage besser einschätzen oder hätten sie gar eher abwenden können
+* [HCL Traveler wurde in der Version 12.0.1.2 veröffentlicht.](https://n-komm.de/hcl-traveler-12-0-1-2-verfuegbar/)
+* [Berechtigte Frage, führt dieser permanente, mediale gemachte Panikdruck zu Long Covid?](https://impfentscheidung.online/panikmache-erzeugt-long-covid/) - Wenn dir jeden Tag nur gesagt wird, wie schlecht alles ist, gibst du dann nicht automatisch auf?
+* [OpenCL wurde in der Version 3.0.12 veröffentlicht.](https://www.phoronix.com/news/OpenCL-3.0.12-Released)
+* [Die Browser-Erweiterung >>I don't care about cookies<< gehört jetzt Avast und sollte damit deinstalliert werden.](https://www.borncity.com/blog/2022/09/16/i-dont-care-about-cookies-an-avast-verkauft/)
+* [HCL Domino wurde in der Version 11.0.1 FP6 und 12.0.1 FP2 veröffentlicht.](https://n-komm.de/hcl-domino-11-0-1-fp6-und-12-0-1-fp2-if-erschienen/)
+* [Vulkan wurde in der Version 1.3.228 veröffentlicht.](https://www.phoronix.com/news/Vulkan-1.3.228-Released)
+* [Cloudflare hat mit Pingora einen eigenen HTTP Proxy gebaut.](https://www.phoronix.com/news/CloudFlare-Pingora-No-Nginx)
+* [DeepFakes werden zu einem sozialen Problem.](https://netzpolitik.org/2022/millionenfach-installierte-apps-porno-deepfakes-per-knopfdruck/) - Dass sich jemand auf das Gesicht einer anderen Person privat einen wixt sehe ich nicht problematisch, wenn Falschinformationen über soziale Netze ohne eigene Kenntnisse beim aktuellen oder potentiellen Arbeitgeber landen, gibt es Problene. Zumal der Arbeitgeber nur der erste Schritt ist. Im Zuge der permanenten Überwachung kann die Krankenkasse auf einmal fragen, wie man angeblich ein gebrochenes Bein hat, wo das Insta-Profil doch zeigt, dass man angeblich auf Malle Eimersaufen macht
+* [ramsey uuid wurde in der Version 4.5.1 veröffentlicht.](https://github.com/ramsey/uuid/releases/tag/4.5.1)
+* [vscodium wurde in der Version 1.71.2.22258 veröffentlicht.](https://github.com/VSCodium/vscodium/releases/tag/1.71.2.22258)
+* [Rello analytics wurde in der Version 4.4.0 veröffentlicht.](https://github.com/Rello/analytics/releases/tag/4.4.0)
