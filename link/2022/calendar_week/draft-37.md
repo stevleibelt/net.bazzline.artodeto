@@ -67,3 +67,9 @@
 * [ramsey uuid wurde in der Version 4.5.1 veröffentlicht.](https://github.com/ramsey/uuid/releases/tag/4.5.1)
 * [vscodium wurde in der Version 1.71.2.22258 veröffentlicht.](https://github.com/VSCodium/vscodium/releases/tag/1.71.2.22258)
 * [Rello analytics wurde in der Version 4.4.0 veröffentlicht.](https://github.com/Rello/analytics/releases/tag/4.4.0)
+* [FeFe verlinkt auf ein paar Details wie es um den Strommarkt innerhalb Europas ausschaut.](https://blog.fefe.de/?ts=9ddbce77)
+* [HArfBuzz wurde in der Version 5.2 veröffentlicht.](https://www.phoronix.com/news/HarfBuzz-5.2-Released)
+* [Hier wird euch das Nötigste über die Technologie OpenRAN erklärt und warum sie uns wohl mit retten wird.](https://opensource.com/article/22/9/open-radio-access-networks)
+* [Gut zu wissen, 2/5 aller durchgeführten Studien, in Deutschland, werden nie veröffentlicht.](https://impfentscheidung.online/05-wissensluecke/) - Bei den Studien kann man das Ergebnis wohl nicht zu den Wünschen der Geldgeber hinbiegen
+* [Die in Schulen genutzte Anwendung >>Untis Mobile<< hat Kuketz einmal genau angeschaut, tja, wie zu erwarten war, ein reines Datenerfassungsmassengrab.](https://www.kuketz-blog.de/untis-mobile-app-ungefragte-uebermittlung-zu-google-crashlytics/)
+* [Mit kmon die Linux Kernel-Module Monitoren.](https://blog.orhun.dev/introducing-kmon/)
