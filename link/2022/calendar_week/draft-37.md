@@ -73,3 +73,9 @@
 * [Gut zu wissen, 2/5 aller durchgeführten Studien, in Deutschland, werden nie veröffentlicht.](https://impfentscheidung.online/05-wissensluecke/) - Bei den Studien kann man das Ergebnis wohl nicht zu den Wünschen der Geldgeber hinbiegen
 * [Die in Schulen genutzte Anwendung >>Untis Mobile<< hat Kuketz einmal genau angeschaut, tja, wie zu erwarten war, ein reines Datenerfassungsmassengrab.](https://www.kuketz-blog.de/untis-mobile-app-ungefragte-uebermittlung-zu-google-crashlytics/)
 * [Mit kmon die Linux Kernel-Module Monitoren.](https://blog.orhun.dev/introducing-kmon/)
+* [Nativefier wurde in der Version 50.0.0 veröffentlicht.](https://github.com/nativefier/nativefier/releases/tag/v50.0.0)
+* [Total Registry wurde in der Version 0.97.1 veröffentlicht.](https://github.com/zodiacon/TotalRegistry/releases/tag/v0.97.1)
+* [harfbuzz wurde in der Version 5.2.0 veröffentlicht.](https://github.com/harfbuzz/harfbuzz/releases/tag/5.2.0)
+* [Distrobox wurde in der Version 1.4.1 veröffentlicht.](https://github.com/89luca89/distrobox/releases/tag/1.4.1)
+* [Wusst ich schon immer, dass das ein Einfallstor ist. Dank der Rechtschreibkorrektur im Webbrowser wissen Google und Microsoft eure Passwörter.](https://www.bleepingcomputer.com/news/security/google-microsoft-can-get-your-passwords-via-web-browsers-spellcheck/) - Ihr solltet um all solche Funktionalitäten einen Bogen machen.
+* [Microsoft Teams so, komm, lass uns den Authentifizierungstoken mal im Klartext speicher.](https://www.borncity.com/blog/2022/09/18/microsoft-teams-speichert-authentifizierungstoken-als-klartext-in-windows-linux-macs/)
