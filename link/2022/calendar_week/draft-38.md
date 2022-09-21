@@ -31,4 +31,10 @@
 * [Seit nun mehr 16 Jahren kämpfen Aktivistein in geschlossener Front gegen die Einführung der totalen Bürgerüberwachung in Deutschland.](https://netzpolitik.org/2022/kampf-gegen-die-vorratsdatenspeicherung-jetzt-erst-recht/) - Anders geschrieben, seit 16 Jahren sagen die Gerichte den Marktfreien, dass ihre Dystropie gegen das Gesetz ist. Das Geld der Marktfreien ist so endlos wie ihre Einstellung zu "ICH HAB RECHT, MENNO!" und so werden es die Marktfreien weiter probieren bis der Kampf generationsübergreifend ist
 * [Hier wird euch gezeigt, wie ihr Events in der PowerShell baut.](https://devblogs.microsoft.com/powershell-community/powershell-registry-monitor/)
 * [OpenJDK Java wurde in der Version 19 veröffentlicht.](https://www.phoronix.com/news/OpenJDK-Java-19-Released)
-* [Arte hat eine Dokumentation über das Thema Asbest veröffentlicht.](https://www.youtube.com/watch?v=GAPXIUiX9n4) - Der Status Quo ist auch richtig scheiße
+* [Arte hat eine Dokumentation über das Thema Asbest veröffentlicht.](https://www.youtube.com/watch?v=GAPXIUiX9n4) - Der Status Quo ist auch richtig scheiße. Asbest zeigt so richtig das Problem der "erst machen, dann denken"-Attitüde.
+* [Tribler wurde in der Version 7.12.1 veröffentlicht.](https://github.com/Tribler/tribler/releases/tag/v7.12.1)
+* [DavX5-ose wurde in der Version 4.2.3.4 veröffentlicht.](https://github.com/bitfireAT/davx5-ose/releases/tag/v4.2.3.4-ose)
+* [Thunderbird wurde in der Version 102.3.0 veröffentlicht.](https://www.borncity.com/blog/2022/09/21/thunderbird-102-3-0-freigegeben/)
+* [Vom 01.10.2022 bis zum 04.10.2022 findet die Nextcloud Konferenz in Berlin statt.](https://nextcloud.com/blog/everything-you-need-to-know-for-the-nextcloud-conference/)
+* [Sound Open Firmware wurde in der Version 2.3 veröffentlicht.](https://www.phoronix.com/news/Sound-Open-Firmware-2.3)
+* [CPython, Pyston, PyPy, RustPython, Stacless Python und Micro Python, alle können euren Python Quelltext zum laufen bringen.](https://opensource.com/article/22/9/python-interpreters-2022)
