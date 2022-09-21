@@ -19,3 +19,16 @@
 * [Siggi Gabriel zeigt offen, dass er für die Konzerne E.ON, Vattenfall, EnBW und RWE arbeitet - er fordert eine Sonnensteuer für selbst erzeugten und selbst genutzten Strom.](https://www.deutschlandfunk.de/energiewende-gabriel-fordert-sonnensteuer-fuer-100.html) - Ihr müsst ja wissen, die Bundesregierung stellt die Infrastruktur Sonne zur Verfügung
 * [Firefox wurde in der Version 105 veröffentlicht.](https://www.phoronix.com/news/Mozilla-Firefox-105.0)
 * [PRemoteM wurde in der Version 0.7.1.6 veröffentlicht.](https://github.com/1Remote/PRemoteM/releases/tag/0.7.1.6)
+* [Das besondere elektronische Anwaltspostfach verkackt weiter.](https://blog.fefe.de/?ts=9dd7b93c) - Die eingesetzte Software funktioniert 2022 nicht mehr. Statt das Problem langfristig zu lösen, wird eine Vertrauensstelle als Mittelsmann eingeführt.
+* [OpenWrt kann jetzt Zerotier](https://openwrt.org/docs/guide-user/services/vpn/zerotier/start)
+* [OpenWrt kann jetzt Tailscale](https://openwrt.org/docs/guide-user/services/vpn/tailscale/start)
+* [Die ganze Welt soll noch mehr den Superreichen gehören.](https://blog.fefe.de/?ts=9dd456b1) - Friedrich Merz propagandiert diese Haltung in Deutschland. Reiche zahlen noch weniger Steuern und geben ihr Geld deswegen angeblich mehr aus. In der Realität schieben die Reichen so viel Geld vor sich her, dass alles auf Verschleiß gefahren werden muss um die imensen, rein virtuellen Zinslasten zu garantieren
+* [Hier wird euch in aller Kürze erklärt, was copy-on-write in ZFS bedeutet.](https://utcc.utoronto.ca/~cks/space/blog/solaris/ZFSZILSafeDirectWrites) - Zeitgleich erklärt es auch, warum man ein ZFS zu maximal 80 Prozent "befüllt"
+* [Mesa wurde in der Version 22.2 veröffentlicht.](https://www.phoronix.com/news/Mesa-22.2-Released)
+* [Firefox wurde in den Versionen 105 und 102.3-esr veröffentlicht.](https://www.borncity.com/blog/2022/09/21/firefox-105-102-3-esr-freigegeben/)
+* [Wasmtime wurde in der Version 1.0 veröffentlicht.](https://www.phoronix.com/news/Wasmtime-1.0-Released)
+* [Martin Sonneborn leyert in 60 Sekunden den Stand der EU herab.](https://martinsonneborn.de/state-of-the-union-2022/)
+* [Seit nun mehr 16 Jahren kämpfen Aktivistein in geschlossener Front gegen die Einführung der totalen Bürgerüberwachung in Deutschland.](https://netzpolitik.org/2022/kampf-gegen-die-vorratsdatenspeicherung-jetzt-erst-recht/) - Anders geschrieben, seit 16 Jahren sagen die Gerichte den Marktfreien, dass ihre Dystropie gegen das Gesetz ist. Das Geld der Marktfreien ist so endlos wie ihre Einstellung zu "ICH HAB RECHT, MENNO!" und so werden es die Marktfreien weiter probieren bis der Kampf generationsübergreifend ist
+* [Hier wird euch gezeigt, wie ihr Events in der PowerShell baut.](https://devblogs.microsoft.com/powershell-community/powershell-registry-monitor/)
+* [OpenJDK Java wurde in der Version 19 veröffentlicht.](https://www.phoronix.com/news/OpenJDK-Java-19-Released)
+* [Arte hat eine Dokumentation über das Thema Asbest veröffentlicht.](https://www.youtube.com/watch?v=GAPXIUiX9n4) - Der Status Quo ist auch richtig scheiße
