@@ -38,3 +38,12 @@
 * [Vom 01.10.2022 bis zum 04.10.2022 findet die Nextcloud Konferenz in Berlin statt.](https://nextcloud.com/blog/everything-you-need-to-know-for-the-nextcloud-conference/)
 * [Sound Open Firmware wurde in der Version 2.3 veröffentlicht.](https://www.phoronix.com/news/Sound-Open-Firmware-2.3)
 * [CPython, Pyston, PyPy, RustPython, Stacless Python und Micro Python, alle können euren Python Quelltext zum laufen bringen.](https://opensource.com/article/22/9/python-interpreters-2022)
+* [Das Arzgebirg hat ein neues Werbevideo raus gebracht.](https://www.youtube.com/watch?v=3dK4SIjLDgs) - Das Erzgebirge, das sind die drei W's, Wende, Weihnachten und weit, weit, weg
+* [pappl wurde in der Version v1.2.2 veröffentlicht.](https://github.com/michaelrsweet/pappl/releases/tag/v1.2.2)
+* [ADACLScanner wurde in der Version 7.3 veröffentlicht.](https://github.com/canix1/ADACLScanner/releases/tag/7.3)
+* [Netzpolitik findet heraus, dass es google scheiß egal ist welche "Nachrichten" sie da so rauspusten.](https://netzpolitik.org/2022/daten-recherche-google-news-verkauft-staatspropaganda-als-vertrauenswuerdig/) - Da fällt mir doch glatt nur ein "Nein? Doch! Oh?" ein
+* [Wäre wirklich schön, wenn wir als Volk die CO2 Ziele als gemeinsames Ziel betrachten würden.](https://www.sonnenseite.com/de/zukunft/wie-deutschland-seine-ziele-beim-klima-und-ressourcenschutz-noch-erreichen-kann/) - Gemeinsam bedeutet, Bürger, Firmen und Politik (über mehr als eine Legislaturperiode hinaus)
+* [GNOME wurde in der Version 43 veröffentlicht.](https://lwn.net/Articles/908928/)
+* [Das ewige Leiden Infrastrukturausbau in Deutschland.](https://netzpolitik.org/2022/gigabitstrategie-ueberbau-statt-open-access/) - In Schweden und anderen Ländern funktioniert der Ausbau über die Kommunen (dort erhalten die Kommunen Gelder vom Staat), in Deutschland gibt es noch ein paar private Versickerungssschichten dazwischn - immerhin soll ja so viel Volksvermögen wie möglich verbrannt werden, traurig
+* [Python ist seit 15 Jahren kaputt.](https://www.bleepingcomputer.com/news/security/unpatched-15-year-old-python-bug-allows-code-execution-in-350k-projects/)
+* [Was können die Behörden und wie viele gesetzliche Freiheiten haben Sie? In Bayern werden fröhlich Handys von Geduldeten geknackt.](https://netzpolitik.org/2022/cellebrite-bayerische-behoerde-knackt-handys-von-geduldeten/)
