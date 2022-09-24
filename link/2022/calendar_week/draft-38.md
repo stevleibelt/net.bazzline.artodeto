@@ -62,4 +62,8 @@
 * [Die Wohnungsgenossenschaft zieht nach und baut in Friedeburg (Freiberg) das Wohnquartier >>Freiberger Garten<<.](https://www.mdr.de/nachrichten/sachsen/chemnitz/freiberg/neubau-wohnungen-wohnungsgenossenschaft-garten-102.html) - [Schettler & Partner](https://schettlerpartner.de/portfolio/projekte/freiberger-garten-2/) sind für die Planung wohl zuständig
 * [Auch Europol ist der Auffassung, dass Sie alles dürfen. Werden Sie erwischt, erpressen sie Politiker damit die Gesetze an die Realität angepasst werden. Der europäische Datenschutzbeauftragte klagt vor dem EuGH gegen diese Einstellung.](https://netzpolitik.org/2022/klage-von-datenschuetzer-europols-riesige-datenberge-landen-vor-eu-gericht/) - Danke für den Einsatz, Herr Wojciech Wiewiórowski!
 * [Workerman wurde in der Version 4.1.2 veröffentlicht.](https://github.com/walkor/workerman/releases/tag/v4.1.2)
+* [Uniper hat Kraftwerke in Russland.](https://blog.fefe.de/?ts=9dd32967)
+* [tacticalrmm wurde in der Version 0.15.0 veröffentlicht.](https://github.com/amidaware/tacticalrmm/releases/tag/v0.15.0)
+* [BigBlueButton wurde in der Version 2.5.6 veröffentlicht.](https://github.com/bigbluebutton/bigbluebutton/releases/tag/v2.5.6)
+* [dolibarr wurde in der Version 16.0.0 veröffentlicht.](https://github.com/Dolibarr/dolibarr/releases/tag/16.0.0)
 
