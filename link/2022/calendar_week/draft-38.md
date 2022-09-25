@@ -66,4 +66,9 @@
 * [tacticalrmm wurde in der Version 0.15.0 veröffentlicht.](https://github.com/amidaware/tacticalrmm/releases/tag/v0.15.0)
 * [BigBlueButton wurde in der Version 2.5.6 veröffentlicht.](https://github.com/bigbluebutton/bigbluebutton/releases/tag/v2.5.6)
 * [dolibarr wurde in der Version 16.0.0 veröffentlicht.](https://github.com/Dolibarr/dolibarr/releases/tag/16.0.0)
+* [pgAdmin4 wurde in der Version 6.14 veröffentlicht.](https://www.postgresql.org/about/news/pgadmin-4-v614-released-2515/)
+* [Wine wurde in der Version 7.18 veröffentlicht.](https://www.phoronix.com/news/Wine-7.18-Released)
+* [Firefox wurde in der Version 105.0.1 veröffentlicht.](https://www.borncity.com/blog/2022/09/24/firefox-105-0-1-freigegeben/)
+* [Arch Linux entfernt python2.](https://archlinux.org/news/removing-python2-from-the-repositories/)
+* [Achtung, jetzt wird ganz offiziell zur Terrorwarnung aufgerufen. Gibt es eine Terrorwarnung, können Grundrechte ausgehebelt werden.](https://blog.fefe.de/?ts=9dcee83a)
 
