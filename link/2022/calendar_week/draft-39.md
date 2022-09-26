@@ -6,4 +6,8 @@
 * [Colima wurde in der Version 0.4.5 veröffentlicht.](https://github.com/abiosoft/colima/releases/tag/v0.4.5)
 * [Jellyfin wurde in der Version 10.8.5 veröffentlicht.](https://github.com/jellyfin/jellyfin/releases/tag/v10.8.5)
 * [PCAPdroid wurde in der Version 1.5.6 veröffentlicht.](https://github.com/emanuele-f/PCAPdroid/releases/tag/v1.5.6)
+* [phpqa wurde in der Version 1.78.0 veröffentlicht.](https://github.com/jakzal/phpqa/releases/tag/v1.78.0)
+* [php workerman wurde in der Version 4.1.3 veröffentlicht.](https://github.com/walkor/workerman/releases/tag/v4.1.3)
+* [SOF wurde in der Version 2.2.2 veröffentlicht.](https://github.com/thesofproject/sof/releases/tag/v2.2.2)
+* [phpstan wurde in der Version 1.8.6 veröffentlicht.](https://github.com/phpstan/phpstan/releases/tag/1.8.6)
 
