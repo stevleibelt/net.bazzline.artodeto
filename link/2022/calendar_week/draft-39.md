@@ -20,4 +20,21 @@
 * [Apropos Massenüberwachung, installiert euch bitte die Erweiterung "Snowflake" um als Kollektiv gegen die Massenüberwachung vorzugehen.](https://netzpolitik.org/2022/zensurumgehung-mit-einem-klick-unzensiertes-netz-und-anonymitaet-spenden/)
 * [Nein? Doch! Oh? Jetzt, wo jeder sieht wie gut Wegelagerei bei Gaspipelines geht, versucht es jeder einmal.](https://blog.fefe.de/?ts=9dcc4e6d)
 * [Hier wird euch auch noch einmal kalte Progression und Gehaltsverhandlungen mit Progression erklärt.](https://www.youtube.com/watch?v=94lWkmKTTOw)
+* [Kuketz stellt euch freie Lemmy als Reddit-Alternative vor.](https://www.kuketz-blog.de/lemmy-diskussionen-ueber-it-sicherheit-und-datenschutz-im-fediverse/) - Bitte daran denken, diese freien Server müssen auch bezahlt werden
+* [In Österreich gibt es jetzt die PV-Box, ein Container mit einer fertig zu nutzenden PV-Anlage.](https://www.sonnenseite.com/de/energie/ein-pv-kraftwerk-aus-dem-container/) - 75 kwP schäfft das Ding theoretisch!
+* [Hier gibt es ein Javascript Glossar.](https://opensource.com/article/22/9/javascript-glossary)
+* [Endlich hat es mal jemand für mich gebaut, changedetection.io überprüft Webseiten und gibt euch Rückmeldung über die Änderungen.](https://opensource.com/article/22/9/changedetection-io-open-source-website-changes)
+* [LXD wurde in der VErsion 5.6 veröffentlicht.](https://lwn.net/Articles/909604/)
+* [Wenn Subventionen zum Dauerläufer werden, ist die Geschäftsidee doch gescheitert, oder?](https://netzfrauen.org/2022/09/27/bigmeat/) - Die Fleischindustrie wird seit Jahrzehnten Subventioniert. Nach so viel Subventionen funktioniert es halt nicht, stellt es ab
+* [Bash wurde in der Version 5.2 veröffentlicht.](https://lwn.net/Articles/909596/)
+* [Die Polizei in San Francisco darf jetzt private Überwachungskameras nutzen.](https://netzpolitik.org/2022/san-francisco-polizei-erhaelt-zugriff-auf-private-ueberwachungskameras/) - Nicht nur nutzen, dank "Alles in der Cloud" kriegen die Zugriff ohne das ihr es wollt
+* [Pyston wurde in der Version 2.3.5 veröffentlicht.](https://www.phoronix.com/news/Pyston-2.3.5-Released)
+* [VKD3D wurde in der Version 1.5 veröffentlicht.](https://www.phoronix.com/news/VKD3D-1.5-Released)
+* [Mold wurde in der Version 1.5 veröffentlicht.](https://www.phoronix.com/news/Mold-1.5-Linker-Released)
+* [Nushell wurde in der Version 0.69.1 veröffentlicht.](https://github.com/nushell/nushell/releases/tag/0.69.1)
+* [Rectorphp wurde in der Version 0.14.4 veröffentlicht.](https://github.com/rectorphp/rector/releases/tag/0.14.4)
+* [Jitsi-meet wurde in der Version 2.0.7839 veröffentlicht.](https://github.com/jitsi/jitsi-meet/releases/tag/stable/jitsi-meet_7830)
+* [Joomla wurde in der Version 4.2.3 veröffentlicht.](https://github.com/joomla/joomla-cms/releases/tag/4.2.3)
+* [TrueNAS Scale wurde in der Version 22.02.4 veröffentlicht.](https://github.com/truenas/documentation/releases/tag/TS22.02.4)
+* [Minigalaxy wurde in der Version 1.2.2 veröffentlicht.](https://github.com/sharkwouter/minigalaxy/releases/tag/1.2.2)
 
