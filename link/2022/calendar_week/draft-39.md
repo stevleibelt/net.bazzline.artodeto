@@ -37,4 +37,20 @@
 * [Joomla wurde in der Version 4.2.3 veröffentlicht.](https://github.com/joomla/joomla-cms/releases/tag/4.2.3)
 * [TrueNAS Scale wurde in der Version 22.02.4 veröffentlicht.](https://github.com/truenas/documentation/releases/tag/TS22.02.4)
 * [Minigalaxy wurde in der Version 1.2.2 veröffentlicht.](https://github.com/sharkwouter/minigalaxy/releases/tag/1.2.2)
+* [Am 03.10.2022 veranstaltet die TU-Freiberg einen Wissenstag für Kinder ab sechs Jahre zum Thema Fossilien.](https://tu-freiberg.de/veranstaltungen/2022-10-03/fossilien-erforschen-beim-tueroeffner-tag-der-sendung-mit-der-maus)
+* [expat ist kaputt und zeigt erneut das Problem auf "Dinge, die im Internet hängen, müssen aktualisierbar sein".](https://blog.fefe.de/?ts=9dcd3dfc)
+* [Hier gibt es eine schöne Zusammenfassung zum Thema "Quelltextanpassungen und warum das ein Entwickler doch nicht so mag"](https://matthiasnoback.nl/2022/09/good-design-means-easy-to-change/) - Im Hintergrund schwingen für mich immer Domain-Grenzen mit.
+* [Schöne, kurze Ansage von Herrn Wolfgang Grupp.](https://www.youtube.com/watch?v=Zse8caxU_gw) - Als Chef immer entscheiden. Gibt es keine eindeutige Grundlage, das Bauchgefühl nutzen.
+* [Dank Hackfressenbuch radiert das Militär in Myanmar wohl ganze Bevölkerungsschichten weg.](https://netzpolitik.org/2022/graeueltaten-gegen-rohingya-amnesty-international-fordert-entschaedigung-von-meta/)
+* [Im Dunstkreis von podman wurde Netavark und Aardvark-dns in der Version 1.2.0 veröffentlicht.](https://utcc.utoronto.ca/~cks/space/blog/linux/LibvirtMySetup2022)
+* [Im Zuge der ganzen Versorgungskettenapokalypse rüttelt es auch an der bisherigen gemachten, kostenfreien Arbeitsleistung von Entwicklern freier Software.](https://blog.hansenpartnership.com/paying-maintainers-isnt-a-magic-bullet/) - Wenn die freien Softwareentwickler wegen politisch und medial gemachten Dauerkrisenmodus keine Zeit oder Geld für die Betreuung freier Software haben, **muss** die Industrie dringend ein paar von den Entwicklern für ihren Dienst an der Gesellschaft bezahlen.
+* [NewPipe wurde in der Version 0.24.0 veröffentlicht.](https://newpipe.net/blog/pinned/release/newpipe-0.24.0/)
+* [Was machen die Bundesländer nur immer für Verträge, da kostet die Bürgerüberwachungssoftware jetzt mehr als das dreifache ... und das ist OK für Nordrhein-Westfalen.](https://netzpolitik.org/2022/nordrhein-westfalen-palantir-software-kostet-fast-drei-mal-mehr-als-geplant/) - Fahre ich durch den Sektor, hat NRW eigentlich andere Geldbedürfnisse.
+* [Warum ist das eigentlich kein Punkt in der grundlegenden Produktanmeldung? Die EU-Kommission fordert klare Haftungsregeln für KI-Systeme.](https://netzpolitik.org/2022/produkthaftung-eu-kommission-will-klare-haftungsregeln-fuer-ki-systeme/) - Ein wenig spät, aber lieber spät als nie. Die Haftungsregeln ist ein völlig unterschätztes Lenkmittel im Kapitalismus. Entstehen, durch die Haftung, zu große Kosten, ist die Idee halt scheiße.
+* [Hier wird euch gezeigt, wie man ein freies Softwareprojekt in Teile und Bedürfnisse aufspalten kann.](https://opensource.com/article/22/9/build-open-source-project)
+* [Ihr wollt eure WSL-Maschine unter Windows umziehen? `wsl --export <string: maschine_name> <string: export_path>.tar`, gefolgt von `wsl --import <string: maschine_name> <string: import_path>.tar`](http://woshub.com/move-wsl-another-drive-windows/)
+* [Mold wurde in der Version 1.5.1 veröffentlicht.](https://github.com/rui314/mold/releases/tag/v1.5.1)
+* [rqlite wurde in der Version 7.7.0 veröffentlicht.](https://github.com/rqlite/rqlite/releases/tag/v7.7.0)
+* [Selenium wurde in der Version 4.5.0 veröffentlicht.](https://github.com/SeleniumHQ/selenium/releases/tag/selenium-4.5.0)
+* [Privacyidea wured in der Version 3.7.3 veröffentlicht.](https://github.com/privacyidea/privacyidea/releases/tag/v3.7.3)
 
