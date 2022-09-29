@@ -53,4 +53,5 @@
 * [rqlite wurde in der Version 7.7.0 veröffentlicht.](https://github.com/rqlite/rqlite/releases/tag/v7.7.0)
 * [Selenium wurde in der Version 4.5.0 veröffentlicht.](https://github.com/SeleniumHQ/selenium/releases/tag/selenium-4.5.0)
 * [Privacyidea wured in der Version 3.7.3 veröffentlicht.](https://github.com/privacyidea/privacyidea/releases/tag/v3.7.3)
+* [archzfs iso wurde in der Version 2022-09-29T21:42:28 veröffentlicht.](https://archzfs.leibelt.de/)
 
