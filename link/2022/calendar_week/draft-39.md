@@ -53,4 +53,13 @@
 * [rqlite wurde in der Version 7.7.0 veröffentlicht.](https://github.com/rqlite/rqlite/releases/tag/v7.7.0)
 * [Selenium wurde in der Version 4.5.0 veröffentlicht.](https://github.com/SeleniumHQ/selenium/releases/tag/selenium-4.5.0)
 * [Privacyidea wured in der Version 3.7.3 veröffentlicht.](https://github.com/privacyidea/privacyidea/releases/tag/v3.7.3)
+* [Hier gibt es ein faszinierend, gutes Erklärvideo zum Thema Zungentrommel/Handpan.](https://www.youtube.com/watch?v=TG_8dXgfCoc)
+* [Arte bietet hier ein tolles Konzert von Avishai Cohen mit Roni Kaspi und Elchin Shirinov an.](https://www.youtube.com/watch?v=yZoyzswfMnY)
+* [Barracuda Networks Spam Filter ist kaputt.](https://www.borncity.com/blog/2022/09/29/barracuda-networks-spam-filter-virenprfung-blockt-mails-29-september-2022/)
+* [Google verkauft gestohlene Nachrichten.](https://netzpolitik.org/2022/leistungsschutzrecht-deutsche-verlage-scheitern-an-google/)
+* [>>Laut Umweltbundesamt könnte ein Tempolimit von 130 km/h 1,9 Mt CO2e, eins von 120 km/h 2,6 Mt CO2e und eines von 100 km/h sogar 5,4 Mt CO2e pro Jahr einsparen.<<](https://www.sonnenseite.com/de/mobilitaet/alle-fuers-tempolimit-start-der-netzwerkkampagne/)
+* [PostgreSQL Anonymizer wurde in der Version 1.1 veröffentlicht.](https://www.postgresql.org/about/news/postgresql-anonymizer-11-privacy-by-default-for-postgres-2253/)
+* [Qt wurde in der Version 6.4 veröffentlicht.](https://www.phoronix.com/news/Qt-6.4-Released)
+* [Vulkan wurde in der Version 1.3.230 veröffentlicht.](https://www.phoronix.com/news/Vulkan-1.3.230-Released)
+* [Der Fachwerker hat ein Video veröffentlicht, bei dem er das Thema der Luftwechselrate erklärt.](https://www.youtube.com/watch?v=DmAXxCb_9rc) - Neue Häuser sind zu dicht, deswegen muss gelüftet werden.
 
