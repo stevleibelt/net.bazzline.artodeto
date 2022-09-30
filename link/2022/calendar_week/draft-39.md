@@ -63,4 +63,23 @@
 * [Vulkan wurde in der Version 1.3.230 veröffentlicht.](https://www.phoronix.com/news/Vulkan-1.3.230-Released)
 * [Der Fachwerker hat ein Video veröffentlicht, bei dem er das Thema der Luftwechselrate erklärt.](https://www.youtube.com/watch?v=DmAXxCb_9rc) - Neue Häuser sind zu dicht, deswegen muss gelüftet werden.
 * [archzfs iso wurde in der Version 2022-09-29T21:42:28 veröffentlicht.](https://archzfs.leibelt.de/)
+* [Gematik, die Firma die euch Datenschutz und IT-Sicherheit bei den ganzen staatlich geführten Digitalisierungsprojekte "verkauft", kündigt bevorzugt Angestellt, die Datenschutz und IT-Sicherheit als wichtig empfinden.](https://blog.fefe.de/?ts=9dc8c8cf)
+* [Wie weit weg sind die Politiker? Die Antwort ist JA!](https://blog.fefe.de/?ts=9dc8c0c5) - Es wird eher kalt als sonst, wodurch eher geheizt wird. Was ist die Antwort der Politiker? Verbraucht weniger Gas, das haben wir so nicht kalkuliert.
+* [cloud hypervisor wurde in der Version 27.0 veröffentlicht.](https://github.com/cloud-hypervisor/cloud-hypervisor/releases/tag/v27.0)
+* [BetterReflection wurde in der Version 5.11.1 veröffentlicht.](https://github.com/Roave/BetterReflection/releases/tag/5.11.1)
+* [metabase wurde in der Version 0.44.4 veröffentlicht.](https://github.com/metabase/metabase/releases/tag/v0.44.4)
+* [phprector wurde in der Version 0.14.5 veröffentlicht.](https://github.com/rectorphp/rector/releases/tag/0.14.5)
+* [Es geht weiter mit dem Raubbau am Volkseigentum. Als Gaspreisbremse verkauft, wird der Gas- und Strompreis jetzt "nach oben offen" deklariert.](https://www.sonnenseite.com/de/politik/gaspreisbremse-kommt/) - Der Steuerzahler zahlt eh alles, nur dass es jetzt einen maximal kommunizierten Preis gibt und die Konzerne einfach an der Preisschraube abdrehen können
+* [Automatisiertes Klimasystem in den Wiener Linen funktioniert nicht, der Betreiber sagt "können wir nichts machen".](https://blog.fefe.de/?ts=9dc80266) - Verstehe ich als Softwareentwickler wieder nicht. Es ist doch Software, da muss man an ein paar Stellschrauben drehen wie "Wenn drinne zu warm, mach es nicht noch wärmer!"
+* [Realitätsabgleich "KI" und "Datamining" wird uns retten.](https://blog.fefe.de/?ts=9dc80293) - Der Computer analysiert alles ohne Zusammenhang und reagiert darauf.
+* [Hier werden die größten und bekannten Unrechtstaten der kriminellen Organisation CIA zusammen geschrieben.](https://edwardsnowden.substack.com/p/americas-open-wound)
+* [system76 führt eine Liste mit Docking-Stationen die unter Linux funktionieren sollen.](https://support.system76.com/articles/docking-station/)
+* [In PHP 8.2 könnt ihr via `error_log_mod=0644` die Rechte der automatisch erstellten Log-Datei festlegen.](https://php.watch/versions/8.2/error_log_mode) - Schön das es dies gibt. `Mode` empfinde ich als unglücklich gewählt. Aber das kann man immer so schnell schreiben.
+* [Laragon könnte ein moderner Ersatz für XAMPP sein.](https://php.watch/articles/laragon-windows-php) - Falls ihr unter Windows entwickeln müsst
+* [Matrix ist kaputt, kann aber ganz gemacht werden.](https://www.bleepingcomputer.com/news/security/matrix-install-security-update-to-fix-end-to-end-encryption-flaws/)
+* [Während Krankenhäuser Insolvenz anmelden, gönnen sich die Topmanager deutscher Börsenunternehmen 24 Prozent mehr Gehalt.](https://tuxproject.de/blog/2022/09/liegengebliebenes-vom-29-september-2022/) - Deutschland in Flammen, brenne, mein Vaterland
+* [Ihr könnt in Kubernetes auch nfs-shares mounten.](https://www.shellhacks.com/mount-nfs-in-kubernetes-pod/)
+* [Thunderbird wurde in der Version 102.3.1 veröffentlicht.](https://www.borncity.com/blog/2022/09/29/thunderbird-102-3-1-freigegeben/)
+* [Eine schwedische Behörde baut etwas auf und nutzt Nextcloud als zentralen Bestandteil.](https://nextcloud.com/blog/swedish-national-board-of-housing-chooses-nextcloud/)
+* [Microsoft Exchange ist kaputt](https://www.borncity.com/blog/2022/09/30/microsofts-empfehlungen-fr-die-exchange-server-0-day-schwachstelle-zdi-can-18333/)
 
