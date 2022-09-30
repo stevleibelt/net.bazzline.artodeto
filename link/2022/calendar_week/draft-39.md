@@ -62,4 +62,5 @@
 * [Qt wurde in der Version 6.4 veröffentlicht.](https://www.phoronix.com/news/Qt-6.4-Released)
 * [Vulkan wurde in der Version 1.3.230 veröffentlicht.](https://www.phoronix.com/news/Vulkan-1.3.230-Released)
 * [Der Fachwerker hat ein Video veröffentlicht, bei dem er das Thema der Luftwechselrate erklärt.](https://www.youtube.com/watch?v=DmAXxCb_9rc) - Neue Häuser sind zu dicht, deswegen muss gelüftet werden.
+* [archzfs iso wurde in der Version 2022-09-29T21:42:28 veröffentlicht.](https://archzfs.leibelt.de/)
 
