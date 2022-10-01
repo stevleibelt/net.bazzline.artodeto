@@ -82,4 +82,8 @@
 * [Thunderbird wurde in der Version 102.3.1 veröffentlicht.](https://www.borncity.com/blog/2022/09/29/thunderbird-102-3-1-freigegeben/)
 * [Eine schwedische Behörde baut etwas auf und nutzt Nextcloud als zentralen Bestandteil.](https://nextcloud.com/blog/swedish-national-board-of-housing-chooses-nextcloud/)
 * [Microsoft Exchange ist kaputt](https://www.borncity.com/blog/2022/09/30/microsofts-empfehlungen-fr-die-exchange-server-0-day-schwachstelle-zdi-can-18333/)
+* [Kuba ist hart vom Hurricane getroffen wurden.](https://blog.fefe.de/?ts=9dc93ff6)
+* [Die Nextcloud Konferenz in Berlin wurde gesteuert.](https://nextcloud.com/blog/nextcloud-ceo-kicks-off-nextcloud-conference-with-keynote-speech/)
+* [Cisco ist kaputt.](https://www.borncity.com/blog/2022/10/01/gravierende-schwachstellen-in-cisco-netzwerk-hardware-sept-2022/)
+* [Kanal9TV: Richtfest am Wasserwerk in Freiberg](https://www.youtube.com/watch?v=UIewOxmadlA)
 
