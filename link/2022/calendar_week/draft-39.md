@@ -86,4 +86,8 @@
 * [Die Nextcloud Konferenz in Berlin wurde gesteuert.](https://nextcloud.com/blog/nextcloud-ceo-kicks-off-nextcloud-conference-with-keynote-speech/)
 * [Cisco ist kaputt.](https://www.borncity.com/blog/2022/10/01/gravierende-schwachstellen-in-cisco-netzwerk-hardware-sept-2022/)
 * [Kanal9TV: Richtfest am Wasserwerk in Freiberg](https://www.youtube.com/watch?v=UIewOxmadlA)
+* [Nein? Doch! Oh? Die Big Boys haben genau so große Pläne und Visionen wie Bernd und Uschi aus Kleinschirma.](https://blog.fefe.de/?ts=9dc7a182)
+* [>>Von den 50 größten europäischen Unternehmen gehören 43 direkt oder indirekt zur alten Ressourcenwirtschaft.<<](https://www.sonnenseite.com/de/franz-alt/kommentare-interviews/endlich-aufwachen/)
+* [Der 6. Sächsische Bergmanns-, Hütten-und Knappentag war ein Erfolg.](https://knappenverein.de/das-war-der-6-sbhkt/)
+* [>>Die Konzerne agieren fast wie informelle Regierungen<<](https://netzpolitik.org/2022/neue-signal-chefin-kuenstliche-intelligenz-ist-vor-allem-ein-marketinghype/)
 
