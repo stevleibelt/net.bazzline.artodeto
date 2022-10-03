@@ -7,4 +7,6 @@
 * [Hoffentlich kein Hammer-Nagel-Syndrom, aber die grundlegende Einstellung von freier Software wird genutzt und in die reale Welt übertragen.](https://www.opensourcerers.org/2022/10/03/opensourceseeds-solving-the-worlds-problems-using-open-approaches/)
 * [Linux wurde in der Version 6.0 veröffentlicht.](https://lwn.net/Articles/910086/)
 * [Ihr wollt eine leeren Branch erzeugen? `git checkout --orphan <string: branch_name> && git rm -rf .`](https://www.shellhacks.com/git-create-empty-branch/)
+* [ADACLScanner wurde in der Version 7.4 veröffentlicht.](https://github.com/canix1/ADACLScanner/releases/tag/7.4)
+* [FairMail wurde in der Version 1.1974 veröffentlicht.](https://github.com/M66B/FairEmail/releases/tag/1.1974)
 
