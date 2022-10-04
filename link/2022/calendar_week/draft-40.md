@@ -15,4 +15,8 @@
 * [Nein? Doch! Oh? Web browser App mode kann zum Phisihing missbraucht werden.](https://www.bleepingcomputer.com/news/security/web-browser-app-mode-can-be-abused-to-make-desktop-phishing-pages/)
 * [Git wurde in der Version 2.38 veröffentlicht.](https://lwn.net/Articles/910213/)
 * [Rust befindet sich ab Version 6.1 im Linux-Kernel.](https://www.phoronix.com/news/Rust-Is-Merged-Linux-6.1)
+* [Martin Sonneborn hat Marco Bülow fast 90 Minuten Zeit gegeben um über den Status Quo der Lobbyisten und der Politik zu sprechen.](https://www.youtube.com/watch?v=KCRD1-8zgHY) - Gasumlage, Banken, marktfreie Gesellschaft, Profitlobbyismus, Zweck der Tafel
+* [Ach Freunde des Lichts, wieso muss die Nato im Juni 2022 eine "Übung" in der Ostsee machen?](https://blog.fefe.de/?ts=9dc521e2)
+* [Hier wird euch gezeigt, wir ihr Prozesse mit Hilfe von Zabbix prüft.](https://blog.zabbix.com/whats-up-home-staring-at-the-video-stream/23882/)
+* [OSI Schichten Model? Das wird euch hier in wenigen Minuten erklärt.](https://opensource.com/article/22/10/osi-model-network-communications)
 
