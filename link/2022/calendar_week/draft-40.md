@@ -9,4 +9,10 @@
 * [Ihr wollt eine leeren Branch erzeugen? `git checkout --orphan <string: branch_name> && git rm -rf .`](https://www.shellhacks.com/git-create-empty-branch/)
 * [ADACLScanner wurde in der Version 7.4 veröffentlicht.](https://github.com/canix1/ADACLScanner/releases/tag/7.4)
 * [FairMail wurde in der Version 1.1974 veröffentlicht.](https://github.com/M66B/FairEmail/releases/tag/1.1974)
+* [Der Free Software Supporter wurde in der Version 174, 10.2022 veröffentlicht.](https://www.fsf.org/free-software-supporter/2022/october)
+* [OpenZFS wurde in der Version 2.1.6 veröffentlicht.](https://github.com/openzfs/zfs/releases/tag/zfs-2.1.6)
+* [IceWM wurde in der Version 3.0 veröffentlicht.](https://www.phoronix.com/news/IceWM-3.0-Released)
+* [Nein? Doch! Oh? Web browser App mode kann zum Phisihing missbraucht werden.](https://www.bleepingcomputer.com/news/security/web-browser-app-mode-can-be-abused-to-make-desktop-phishing-pages/)
+* [Git wurde in der Version 2.38 veröffentlicht.](https://lwn.net/Articles/910213/)
+* [Rust befindet sich ab Version 6.1 im Linux-Kernel.](https://www.phoronix.com/news/Rust-Is-Merged-Linux-6.1)
 
