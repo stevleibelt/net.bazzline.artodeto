@@ -19,4 +19,12 @@
 * [Ach Freunde des Lichts, wieso muss die Nato im Juni 2022 eine "Übung" in der Ostsee machen?](https://blog.fefe.de/?ts=9dc521e2)
 * [Hier wird euch gezeigt, wir ihr Prozesse mit Hilfe von Zabbix prüft.](https://blog.zabbix.com/whats-up-home-staring-at-the-video-stream/23882/)
 * [OSI Schichten Model? Das wird euch hier in wenigen Minuten erklärt.](https://opensource.com/article/22/10/osi-model-network-communications)
+* [OpenSSH wurde in der Version 9.1 veröffentlicht.](https://lwn.net/Articles/910301/)
+* [Wolfstrappkraut kann der Schilddrüse helfen.](https://www.zauber-kraut.de/morbus-basedow-mit-pflanzen-behandeln)
+* [Ihr wollt einen eigenen Laden in einer Innenstadt mit Weltkulturerbe? Die Stadt Freiberg hilft euch bei der Umsetzung und fördert euch!](https://www.mdr.de/video/mdr-videos/a/video-661152.html)
+* [www.chat-kontrolle.eu zeigt euch in aller Kürze, warum Chatkontrolle nichts anderes als anstandslose Massenüberwachung und keine echte Hilfe gegenüber Missbrauchsopfer ist.](https://netzpolitik.org/2022/video-die-gefahren-der-chatkontrolle-einfach-erklaert/) - Auf dem Rücken der gequälten und missbrauchten Seelen soll ein Werkzeug zur Unterdrückung freier Meinung erbaut werden
+* [RapidRows wurde in der Version 1.0 veröffentlicht.](https://www.postgresql.org/about/news/rapidrows-10-released-2520/)
+* [Matthias Noback schreibt mir von der Seele, heute über das Thema "Refactoring".](https://matthiasnoback.nl/2022/10/refactoring-without-tests-should-be-fine/)
+* [BetterReflection wurde in der Version 6.1.0 veröffentlicht.](https://github.com/Roave/BetterReflection/releases/tag/6.1.0)
+* [phpstan wurde in der Version 1.8.7 veröffentlicht.](https://github.com/phpstan/phpstan/releases/tag/1.8.7)
 
