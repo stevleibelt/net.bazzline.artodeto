@@ -27,4 +27,11 @@
 * [Matthias Noback schreibt mir von der Seele, heute über das Thema "Refactoring".](https://matthiasnoback.nl/2022/10/refactoring-without-tests-should-be-fine/)
 * [BetterReflection wurde in der Version 6.1.0 veröffentlicht.](https://github.com/Roave/BetterReflection/releases/tag/6.1.0)
 * [phpstan wurde in der Version 1.8.7 veröffentlicht.](https://github.com/phpstan/phpstan/releases/tag/1.8.7)
+* [Hier gibt es ein schönes Video zu Wireshark 4.0 - von den Entwickler.](https://www.youtube.com/embed/3HdKhen0Gqw)
+* [grav wurde in der Version 1.7.37.1 veröffentlicht.](https://github.com/getgrav/grav/releases/tag/1.7.37.1)
+* [Firefox wurde in der Version 105.0.2 veröffentlicht.](https://www.borncity.com/blog/2022/10/06/firefox-105-0-2-freigegeben/)
+* [Realitätsabgleich Omikron Impfstoff, keine der offiziellen Ankündigungen wurde eingehalten.](https://impfentscheidung.online/omikron-impfstoffe-keine-der-ankuendigungen-wurde-eingehalten/) - Das ist wichtiges Wissen für die anstehende "Impfrunde"
+* [Nach dem großen und anhaltenden Erfolg mit Microsof Exchange, Microsoft SQLServer ist nun auch vollständig kaputt.](https://www.bleepingcomputer.com/news/security/hundreds-of-microsoft-sql-servers-backdoored-with-new-malware/)
+* [Das US-Höchstgericht überprüft in wie weit IT-Dienstleister wie Hackfressenbuch für den Inhalt haftbar gemacht werden können, wenn deren Algorithmen den Inhalt steuern.](https://netzpolitik.org/2022/haftungsfreiheit-us-hoechstgericht-prueft-privilegien-der-tech-konzerne/)
+* [Auf dem Percona-Blog gibt es einen spannenden Eintrag über den Fall, dass ihr eure User-Tabelle eurer MySQL zerschossen habt.](https://www.percona.com/blog/when-manipulating-mysql-user-tables-goes-wrong-troubleshooting-error-1396/) - `DROP USER` habe ich bisher auch noch nicht bewusst genutzt.
 
