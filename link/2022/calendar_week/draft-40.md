@@ -34,4 +34,8 @@
 * [Nach dem großen und anhaltenden Erfolg mit Microsof Exchange, Microsoft SQLServer ist nun auch vollständig kaputt.](https://www.bleepingcomputer.com/news/security/hundreds-of-microsoft-sql-servers-backdoored-with-new-malware/)
 * [Das US-Höchstgericht überprüft in wie weit IT-Dienstleister wie Hackfressenbuch für den Inhalt haftbar gemacht werden können, wenn deren Algorithmen den Inhalt steuern.](https://netzpolitik.org/2022/haftungsfreiheit-us-hoechstgericht-prueft-privilegien-der-tech-konzerne/)
 * [Auf dem Percona-Blog gibt es einen spannenden Eintrag über den Fall, dass ihr eure User-Tabelle eurer MySQL zerschossen habt.](https://www.percona.com/blog/when-manipulating-mysql-user-tables-goes-wrong-troubleshooting-error-1396/) - `DROP USER` habe ich bisher auch noch nicht bewusst genutzt.
+* [Hier wird euch gezeigt, wie ihr in go einen HTTP-Server konfiguriert und das "nachladen des Zertifikats" steuert.](https://opensource.com/article/22/9/dynamically-update-tls-certificates-golang-server-no-downtime) - Entweder überelese ich es oder es ist nicht eindeutig genug geschrieben. Durch das Erzeugen des TLSConfig-Objekts, wird ein "nachladen" der aktuellen Zertifikate angestoßen, wenn man `ListenAndServeTLS` aufruft. Hier wäre mir eine explizitere Funktion ala `ReloadTLS` lieber.
+* [openITCOCKPIT wurde in der Version 4.5.3 veröffentlicht.](https://github.com/it-novum/openITCOCKPIT/releases/tag/openITCOCKPIT-4.5.3)
+* [Nextcloud Server wurde in der Version 23.0.10 veröffentlicht.](https://github.com/nextcloud/server/releases/tag/v23.0.10)
+* [Nextcloud Server wurde in der Version 24.0.6 veröffentlicht.](https://github.com/nextcloud/server/releases/tag/v24.0.6)
 
