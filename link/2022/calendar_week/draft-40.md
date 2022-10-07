@@ -38,4 +38,20 @@
 * [openITCOCKPIT wurde in der Version 4.5.3 veröffentlicht.](https://github.com/it-novum/openITCOCKPIT/releases/tag/openITCOCKPIT-4.5.3)
 * [Nextcloud Server wurde in der Version 23.0.10 veröffentlicht.](https://github.com/nextcloud/server/releases/tag/v23.0.10)
 * [Nextcloud Server wurde in der Version 24.0.6 veröffentlicht.](https://github.com/nextcloud/server/releases/tag/v24.0.6)
+* [keycloak wurde in der Version 19.0.3 veröffentlicht.](https://github.com/keycloak/keycloak/releases/tag/19.0.3)
+* [phpstan wurde in der Version 1.8.8 veröffentlicht.](https://github.com/phpstan/phpstan/releases/tag/1.8.8)
+* [cryptomator wurde in der Version 1.6.15 veröffentlicht.](https://github.com/cryptomator/cryptomator/releases/tag/1.6.15)
+* [jitsi-meet wurde in der Version 2.0.7882 veröffentlicht.](https://github.com/jitsi/jitsi-meet/releases/tag/stable/jitsi-meet_7882)
+* [vscodium wurde in der Version 1.72.0.22279 veröffentlicht.](https://github.com/VSCodium/vscodium/releases/tag/1.72.0.22279)
+* [K-9 Mail wurde in der Version 6.3.08 veröffentlicht.](https://github.com/thundernest/k-9/releases/tag/6.308)
+* [Endlich wird sich mal etwas gekümmert, LLVM will C++ sicherer machen.](https://blog.fefe.de/?ts=9dc06967) - Hier geht es viel um sichere Grundeinstellungen.
+* [Sophos XG Firewall ist kaputt.](https://www.borncity.com/blog/2022/10/07/warnung-schwachstelle-cve-2022-3236-in-sophos-firewall-wird-massiv-angegriffen/)
+* [Windows 11 22H2 ist kaputt.](https://www.bleepingcomputer.com/news/microsoft/windows-11-22h2-breaks-provisioning-with-0x800700b7-errors/)
+* [Die Übergewinne der Energiemafia wird durch Steuer- und Volkschulden erzeugt.](https://www.sachsen-fernsehen.de/energiekrise-sachsen-erleichtert-kommunales-haushaltsrecht-1117519/)
+* [Nein? Doch! Oh? In Sachsen fehlen seit Jahrzehnten Lehrer und jetzt haben die erhausgefunden, dass Lehrer immer Überstunden machen.](https://www.sachsen-fernsehen.de/studie-saechsische-lehrer-arbeiten-zu-viel-1117900/) - Ich hoffe die schauen nicht auch in den Kindergärten nach!
+* [Bundestransparenzgesetz? Hat ja keiner Interesse daran, deswegen schreiben es NGO's halt selbst.](https://netzpolitik.org/2022/informationsfreiheit-ngos-legen-entwurf-fuer-ein-bundestransparenzgesetz-vor/)
+* [Die Verdi für Sachsen, Sachsen-Anhalt und Thüringen ruft zur Demonstraton >>Jetzt reichts! Wir frieren nicht für den Profit<< auf.](https://sat.verdi.de/themen/nachrichten/++co++69790cca-461b-11ed-b42f-001a4a160110) - 15.10.2022 in Leipzig
+* [So, so, damit jeder im Narritiv gefangen ist, dass wir eine Stromknappheit und keine Gewinnmaximierung haben, will man jetzt ein Stromwetterbericht einführen.](https://blog.fefe.de/?ts=9dc1c3a5) - Wenn der so verlässlich ist wie der echte Wetterbericht ...
+* [Cisco ist kaputt.](https://blog.fefe.de/?ts=9dbec7c2)
+* [Linux 6.1 wird LTS werden.](https://www.phoronix.com/news/Linux-6.1-Likely-LTS)
 
