@@ -54,4 +54,20 @@
 * [So, so, damit jeder im Narritiv gefangen ist, dass wir eine Stromknappheit und keine Gewinnmaximierung haben, will man jetzt ein Stromwetterbericht einführen.](https://blog.fefe.de/?ts=9dc1c3a5) - Wenn der so verlässlich ist wie der echte Wetterbericht ...
 * [Cisco ist kaputt.](https://blog.fefe.de/?ts=9dbec7c2)
 * [Linux 6.1 wird LTS werden.](https://www.phoronix.com/news/Linux-6.1-Likely-LTS)
+* [OpenWRT wurde in der VErsion 21.02.4 veröffentlicht.](https://openwrt.org/releases/21.02/notes-21.02.4)
+* [Der 37c3 findet in Hamburg statt.](https://events.ccc.de/2022/06/14/37c3-in-hamburg/) - Wirklich schade, Leipzig hat so viel zu bieten, Hamburg leider auch.
+* [Firefox wurde in der Version 105.0.3 veröffentlicht.](https://www.borncity.com/blog/2022/10/09/firefox-105-0-3-freigegeben/)
+* [Cloudflare Quo Vadis?](https://netzpolitik.org/2022/cloudflare-willkuermacht-wider-willen/)
+* [Thunderbird wurde in der Version 102.3.2 veröffentlicht.](https://www.borncity.com/blog/2022/10/08/thunderbird-102-3-2-verfgbar/)
+* [Fwupd wurde in der Version 1.8.6 veröffentlicht.](https://www.phoronix.com/news/fwupd-1.8.6-Released)
+* [>>Die Stadt Freiberg richtet einen "Nothilfe-Fonds-Energie" für ihre Bürgerinnen und Bürger ein.<<](https://www.mdr.de/nachrichten/sachsen/chemnitz/freiberg/nothilfe-energie-preise-100.html)
+* [Der Grumbacher Gasthof erfindet sich neu.](https://www.mdr.de/video/mdr-videos/a/video-662002.html)
+* [mucommander wurde in der Version 1.1.0 veröffentlicht.](https://github.com/mucommander/mucommander/releases/tag/1.1.0-1)
+* [workerman wurde in der VErsion 4.1.4 veröffentlicht.](https://github.com/walkor/workerman/releases/tag/v4.1.4)
+* [pappl wurde in der Version 1.2.3 veröffentlicht.](https://github.com/michaelrsweet/pappl/releases/tag/v1.2.3)
+* [harfbuzz wurde in der Version 5.3.0 veröffentlicht.](https://github.com/harfbuzz/harfbuzz/releases/tag/5.3.0)
+* [colima wurde in der Version 0.4.6 veröffentlicht.](https://github.com/abiosoft/colima/releases/tag/v0.4.6)
+* [BetterReflection wurde in der Version 6.2.0 veröffentlicht.](https://github.com/Roave/BetterReflection/releases/tag/6.2.0)
+* [Open Shell Menu wurde in der Version 4.4.179 veröffentlicht.](https://github.com/Open-Shell/Open-Shell-Menu/releases/tag/v4.4.179)
+* [PHPMailer wurde in der Version 6.6.5 veröffentlicht.](https://github.com/PHPMailer/PHPMailer/releases/tag/v6.6.5)
 
