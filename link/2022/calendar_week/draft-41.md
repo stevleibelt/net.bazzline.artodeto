@@ -15,4 +15,7 @@
 * [VirtualBox wurde in der Version 7.0 veröffentlicht.](https://www.phoronix.com/news/VirtualBox-7.0-Released)
 * [In Sachsen geht das Volk weiterhin gegen die bevölkungersfremde Energiepolitik der Regierung auf die Straße.](https://www.sachsen-fernsehen.de/tausende-menschen-demonstrieren-in-sachsen-gegen-die-energiepolitik-der-regierung-1120468/)
 * [Frau Ann Schlemmer ist CEO von Percona.](https://www.percona.com/blog/i-am-taking-on-founder-role-ann-schlemmer-takes-over-as-percona-ceo/) - Viel Erfolg!
+* [mezzio wurde in der Version 3.12.0 veröffentlicht.](https://github.com/mezzio/mezzio/releases/tag/3.12.0)
+* [mezzio wurde in der Version 3.13.0 veröffentlicht.](https://github.com/mezzio/mezzio/releases/tag/3.13.0)
+* [Verdi ruft zu Streiks bei Amazon in Leipzig auf.](https://www.sachsen-fernsehen.de/verdi-ruft-zu-streik-bei-amazon-in-leipzig-auf-1120717/)
 
