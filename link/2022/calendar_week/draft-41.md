@@ -9,4 +9,10 @@
 * [Wenn PayPal der Meinung ist, dass ihr irgendetwas gegen PayPal sagt, denkt, furzt oder kackt, ziehen sie euch 2500 Geldeinheiten vom Konto ab.](https://blog.fefe.de/?ts=9dbafa52) - Wegen, weil ist so
 * [Ungoogled Chromium for Windows wurde in der Version 106.0.5249.103-1.1](https://github.com/ungoogled-software/ungoogled-chromium-windows/releases/tag/106.0.5249.103-1.1)
 * [FreeFileSync wurde in der Version 11.26 veröffentlicht.](https://github.com/hkneptune/FreeFileSync/releases/tag/v11.26)
+* [In Pobershau gibt es den tiefer Molchner Stolln.](https://www.erzgebirge-explorer.de/sehenswuerdigkeiten/tiefer-molchner-stolln-in-pobershau.html)
+* [Hier hat die CIA bestimmt geholfen >>Gaspreisbremse bekämpft nicht die Ursachen hoher Preise<<](https://www.sonnenseite.com/de/politik/gaskommission-endbericht-muss-ursachen-fuer-hohe-gaspreise-angehen/)
+* [Martin Sonneborn berichtet am 10.10.2022 über den Status Quo in Brüsseln.](https://www.youtube.com/watch?v=Mpu_oJGalaw) - Martin Sonneborn muss wieder gewählt werden
+* [VirtualBox wurde in der Version 7.0 veröffentlicht.](https://www.phoronix.com/news/VirtualBox-7.0-Released)
+* [In Sachsen geht das Volk weiterhin gegen die bevölkungersfremde Energiepolitik der Regierung auf die Straße.](https://www.sachsen-fernsehen.de/tausende-menschen-demonstrieren-in-sachsen-gegen-die-energiepolitik-der-regierung-1120468/)
+* [Frau Ann Schlemmer ist CEO von Percona.](https://www.percona.com/blog/i-am-taking-on-founder-role-ann-schlemmer-takes-over-as-percona-ceo/) - Viel Erfolg!
 
