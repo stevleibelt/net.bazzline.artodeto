@@ -18,4 +18,9 @@
 * [mezzio wurde in der Version 3.12.0 veröffentlicht.](https://github.com/mezzio/mezzio/releases/tag/3.12.0)
 * [mezzio wurde in der Version 3.13.0 veröffentlicht.](https://github.com/mezzio/mezzio/releases/tag/3.13.0)
 * [Verdi ruft zu Streiks bei Amazon in Leipzig auf.](https://www.sachsen-fernsehen.de/verdi-ruft-zu-streik-bei-amazon-in-leipzig-auf-1120717/)
+* [archinstall wurde in der Version 2.5.2 veröffentlicht.](https://github.com/archlinux/archinstall/releases/tag/v2.5.2)
+* [K9-Mail wurde in der Version 6.309 veröffentlicht.](https://github.com/thundernest/k-9/releases/tag/6.309)
+* [phpqa wurde in der Version 1.78.1 veröffentlicht.](https://github.com/jakzal/phpqa/releases/tag/v1.78.1)
+* [ddev wurde in der Version 1.21.2 veröffentlicht.](https://github.com/drud/ddev/releases/tag/v1.21.2)
+* [vscodium wurde in der Version 1.72.1.22284 veröffentlicht.](https://github.com/VSCodium/vscodium/releases/tag/1.72.1.22284)
 
