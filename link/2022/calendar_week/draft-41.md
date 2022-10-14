@@ -23,4 +23,12 @@
 * [phpqa wurde in der Version 1.78.1 veröffentlicht.](https://github.com/jakzal/phpqa/releases/tag/v1.78.1)
 * [ddev wurde in der Version 1.21.2 veröffentlicht.](https://github.com/drud/ddev/releases/tag/v1.21.2)
 * [vscodium wurde in der Version 1.72.1.22284 veröffentlicht.](https://github.com/VSCodium/vscodium/releases/tag/1.72.1.22284)
+* [Was ist Digitalisierung für die Politik?](https://blog.fefe.de/?ts=9db7597f)
+* [WLan unter Linux ist kaputt.](https://blog.fefe.de/?ts=9db74fa0)
+* [Die Strompreise auf dem Strommarkt sind wieder auf dem Nivau vor der Preisexplosion.](https://blog.fefe.de/?ts=9db7b498) - Ob das jemals beim Endkunden ankommt?
+* [Kritische Infrastruktur mit Software ausstatten, die das Internet zum Lizenzabgleich benötigt?](https://blog.fefe.de/?ts=9db83bae) - Keine Idee ist zum dumm als das man die der Bundeswehr nicht verkaufen könnte.
+* [Nein? Doch! Oh? Behandelt ein Unternehmen seine Mitarbeiter fair, dann sind die Mitarbeiter weniger häufig krank.](https://blog.fefe.de/?ts=9db833ec)
+* [Wow, statt dem Neun Euro Ticket hat die FDP jetzt daraus das 69 Euro Ticket gemacht.](https://blog.fefe.de/?ts=9db85a88)
+* [qlite wurde in der Version 7.7.2 veröffentlicht](https://github.com/rqlite/rqlite/releases/tag/v7.7.2)
+* [phpstan wurde in der Version 1.8.9 veröffentlicht.](https://github.com/phpstan/phpstan/releases/tag/1.8.9)
 
