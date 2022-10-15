@@ -31,4 +31,9 @@
 * [Wow, statt dem Neun Euro Ticket hat die FDP jetzt daraus das 69 Euro Ticket gemacht.](https://blog.fefe.de/?ts=9db85a88)
 * [qlite wurde in der Version 7.7.2 veröffentlicht](https://github.com/rqlite/rqlite/releases/tag/v7.7.2)
 * [phpstan wurde in der Version 1.8.9 veröffentlicht.](https://github.com/phpstan/phpstan/releases/tag/1.8.9)
+* [Open-Shell-Menu wurde in der Version 4.4.180 veröffentlicht.](https://github.com/Open-Shell/Open-Shell-Menu/releases/tag/v4.4.180)
+* [BetterReflection wurde in der Version 6.3.0 veröffentlicht.](https://github.com/Roave/BetterReflection/releases/tag/6.3.0)
+* [LibreOffice wurde in der Version 7.4.2 veröffentlicht.](https://www.planet3dnow.de/cms/66207-libreoffice-7-4-2-community/)
+* [GitTea wurde in der Version 1.17.3 veröffentlicht.](https://github.com/go-gitea/gitea/releases/tag/v1.17.3)
+* [Ardour wurde in der Version 7.0 veröffentlicht.](https://www.phoronix.com/news/Ardour-7.0)
 
