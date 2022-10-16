@@ -36,4 +36,10 @@
 * [LibreOffice wurde in der Version 7.4.2 veröffentlicht.](https://www.planet3dnow.de/cms/66207-libreoffice-7-4-2-community/)
 * [GitTea wurde in der Version 1.17.3 veröffentlicht.](https://github.com/go-gitea/gitea/releases/tag/v1.17.3)
 * [Ardour wurde in der Version 7.0 veröffentlicht.](https://www.phoronix.com/news/Ardour-7.0)
+* [Firefly-Iii wurde in der Version 5.7.13 veröffentlicht.](https://github.com/firefly-iii/firefly-iii/releases/tag/5.7.13)
+* [ArchWSL wurde in der Version 22.10.16.0 veröffentlicht.](https://github.com/yuk7/ArchWSL/releases/tag/22.10.16.0)
+* [Julian Assange erhält den Weizenbaum-Preis.](https://netzpolitik.org/2022/fiff-konferenz-weizenbaum-preis-fuer-julian-assange/)
+* [Google hat das KataOS vorgestellt.](https://www.phoronix.com/news/Google-KataOS)
+* [Swap-Space braucht man in der heutigen Linux Welt selten.](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/OurServerSwapSpaceUsage)
+* [Zimbra ist kaputt.](https://www.bleepingcomputer.com/news/security/almost-900-servers-hacked-using-zimbra-zero-day-flaw/)
 
