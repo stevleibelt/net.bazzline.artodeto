@@ -42,4 +42,6 @@
 * [Google hat das KataOS vorgestellt.](https://www.phoronix.com/news/Google-KataOS)
 * [Swap-Space braucht man in der heutigen Linux Welt selten.](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/OurServerSwapSpaceUsage)
 * [Zimbra ist kaputt.](https://www.bleepingcomputer.com/news/security/almost-900-servers-hacked-using-zimbra-zero-day-flaw/)
+* [>>Wenn also jemand mal gegen China einen Krieg führen würde, wäre es der offensichtliche Schachzug, die Straße von Malakka zu blockieren, und dann wäre China praktisch automatisch besiegt.<<](https://blog.fefe.de/?ts=9db535aa)
+* [Adam Curtis Traumazone ist da.](https://blog.fefe.de/?ts=9db44797)
 
