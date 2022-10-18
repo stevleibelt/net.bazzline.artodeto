@@ -13,4 +13,13 @@
 * [Die Spezifikationen für den DisplayPort in der Version 2.1 wurde veröffentlicht.](https://www.phoronix.com/news/DisplayPort-2.1)
 * [GnuPG wurde in der Version 2.3.8 veröffentlicht.](https://lwn.net/Articles/911467/)
 * [Ein großes Lob von mir und ich hoffe, dass die Beschäftigten nicht im Niedriglohnsektor beschäftigt werden. Die Vogtlandbahn stellt sich gegen den Trend der deutschen Bahn und beschäftigt echte Menschen als Ansprechpartner im Zug.](https://www.sachsen-fernsehen.de/vogtlandbahn-setzt-auf-persoenliche-ansprechpartner-1126324/)
+* [FeFe fast die VPN-Problematik der Gematik zusammen.](https://blog.fefe.de/?ts=9db361a2)
+* [Hier wird euch McChristals Organisations-Diagramm erklärt](https://opensource.com/article/22/10/innovative-open-organization-chart)
+* [Coreboot wurde in der Version 4.18 veröffentlicht.](https://www.phoronix.com/news/Coreboot-4.18-Released)
+* [Der Congress 2022 wurde soeben abgesagt.](https://www.ccc.de/de/updates/2022/no-congress-2022) - Daneben, >>Das Chaos Communication Camp wird vom 15. bis 19. August 2023 in Mildenberg stattfinden.<<
+* [Allianz sagt zwar in der Werbung, dass ihr das Klima wichtig ist, aber in Wirklichkeit wird weiter in fossilen Brennstoffen investiert.](https://www.sonnenseite.com/de/wirtschaft/deutschlands-top-vermoegensverwalter-stecken-trotz-klimaversprechen-13-milliarden-euro-in-den-ausbau-fossiler-brennstoffe/)
+* [Der Freistaat Sachsen hat weiterhin ein Suchtproblem.](https://www.sachsen-fernsehen.de/suchtbericht-dresden-alkohol-bleibt-droge-nummer-1-1127287/) - Kein Wunder, bei den Löhnen
+* [>>Amazon hat auf allen Ebenen eine so hohe Fluktuationsrate an Mitarbeitern, das diese jährlich 8 Milliarden US-Dollar kostet.<<](https://www.borncity.com/blog/2022/10/18/amazons-8-milliarden-dollar-fluktuations-problem/) - Ich will dort auch nicht arbeiten. Man wird scheiße behandelt oder erschafft Systeme, die die Kunden oder die Mitarbeiter scheiße behandeln
+* [Das BKA will es, die EU zahlt es ... dieses mal ein europäisches Polizeiregister.](https://netzpolitik.org/2022/vollendete-tatsachen-bka-setzt-europaeisches-polizeiregister-durch/) - Denn in Europa leben bis zu 750 Millionen potentielle Terroristen!
+* [Der Klimawandel ist am Punkt ohne Wiederkehr angekommen.](https://netzfrauen.org/2022/10/18/climate-13/) - Jane Goodall und Sir David Attenborough kommen bei den Netzfrauen zu Wort
 
