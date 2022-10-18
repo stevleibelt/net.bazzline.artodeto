@@ -4,4 +4,13 @@
 * [Gradle wurde in der Version 6.9.3 veröffentlicht.](https://github.com/gradle/gradle/releases/tag/v6.9.3)
 * [Mikroplastik hat es endlich in die Muttermilch von Menschen geschafft.](https://netzfrauen.org/2022/10/17/plastic-32/) - Toxische Gesamtsituation steht im direkten Zusammenhang mit dem starken Ansteigen von Allergien und weiteren Krankheiten
 * [OpenShift Dev Space ist eine WebIDE inklusive allem, was du zum entwickeln brauchst.](https://www.opensourcerers.org/2022/10/17/develop-the-inner-loop-with-openshift-dev-spaces/)
+* [phpstan wurde in der Version 1.8.10 veröffentlicht.](https://github.com/phpstan/phpstan/releases/tag/1.8.10)
+* [changedetection.io wurde in der Version 0.39.20.4 veröffentlicht.](https://github.com/dgtlmoon/changedetection.io/releases/tag/0.39.20.4)
+* [WordPress wurde in der Version 6.0.3 veröffentlicht.](https://wordpress.org/news/2022/10/wordpress-6-0-3-security-release/)
+* [OpenWrt wurde in der Version 22.03 veröffentlicht.](https://openwrt.org/releases/22.03/start)
+* [Tails wurde in der Version 5.5 veröffentlicht.](https://lwn.net/Articles/911494/)
+* [Open 3D Engine wurde in der Version 22.10 veröffentlicht.](https://www.phoronix.com/news/O3DE-22.10-Released)
+* [Die Spezifikationen für den DisplayPort in der Version 2.1 wurde veröffentlicht.](https://www.phoronix.com/news/DisplayPort-2.1)
+* [GnuPG wurde in der Version 2.3.8 veröffentlicht.](https://lwn.net/Articles/911467/)
+* [Ein großes Lob von mir und ich hoffe, dass die Beschäftigten nicht im Niedriglohnsektor beschäftigt werden. Die Vogtlandbahn stellt sich gegen den Trend der deutschen Bahn und beschäftigt echte Menschen als Ansprechpartner im Zug.](https://www.sachsen-fernsehen.de/vogtlandbahn-setzt-auf-persoenliche-ansprechpartner-1126324/)
 
