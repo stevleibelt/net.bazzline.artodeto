@@ -29,7 +29,7 @@
 * [Wegen fehlenden Schnüffelschnittstellen muss Telegram jetzt 5 Millionen Euro Bußgeld zahlen.](https://netzpolitik.org/2022/bundesamt-fuer-justiz-telegram-soll-5-millionen-euro-bussgeld-bezahlen/)
 * [Git wurde in der Version 2.38.1 veröffentlicht.](https://www.phoronix.com/news/Git-2.38.1-Released)
 * [Auch in der Türkei geht der Staat gegen die freie Meinungsäußerung vor. Dort wird unter dem Deckmantel "Schutz der Bevölkerung gegen Desinformation" Breitbandzensur ausgerollt.](https://netzpolitik.org/2022/pressefreiheit-in-der-tuerkei-wie-erdogan-das-internet-zensieren-will/)
-* [Arte hat ein Video zum Thema Impfen veröffentlicht.](https://www.youtube.com/watch?v=oA_-rkCF0zM)
+* [Arte hat ein Video zum Thema Impfen veröffentlicht.](https://www.youtube.com/watch?v=oA_-rkCF0zM) - Ich hab die Dokumentation jetzt geschaut und finde sie gut. Das Problem ist hier der gierige und ungeregelte freie Markt.
 * [Wie bei uns, Liberteee gibt es nur für die Marktfreien, Frankreich macht weiter mit der illegalen Massenbespitzelung seiner Bürger.](https://www.patrick-breyer.de/frankreich-verlaengert-illegale-vorratsdatenspeicherung-der-gesamten-bevoelkerung/)
 * [Man wird wohl mittlerweile abgemahnt, wenn man Google Fonts einbettet.](https://blog.fefe.de/?ts=9db03cf0)
 * [Es gibt wohl ein Video von der kaputten Nordstream-Pipeline.](https://blog.fefe.de/?ts=9db01a96) - Die erste Vermutung "Das sieht aber gar nicht nach Explosion aus"
@@ -40,4 +40,8 @@
 * [metabase wurde in der Version 0.44.5 veröffentlicht.](https://github.com/metabase/metabase/releases/tag/v0.44.5)
 * [firefly-iii wurde in der Version 5.7.14 veröffentlicht.](https://github.com/firefly-iii/firefly-iii/releases/tag/5.7.14)
 * [TrueCommander wurde in der Version 2.2.2 veröffentlicht.](https://github.com/truenas/documentation/releases/tag/TC2.2.2)
+* [Immer wieder schön wenn eine Empfehlung in einem großem Dankeschön und Freude beim Gegenüber endet. So, erneut, geschehen beim Barfußschuhanbieter aus Sachsen - Senmotic](https://senmotic-shoes.eu/)
+* [Der MDR hat eine sehr interessante Dokumentation zum Thema PostVac-Syndrom veröffentlicht.](https://www.youtube.com/watch?v=gIfRSobbJEw) - Danke MDR investigativ, so habt ihr einen neuen Zuschauer bekommen!
+* [Mold wurde in der Version 1.6.0 veröffentlicht.](https://github.com/rui314/mold/releases/tag/v1.6.0)
+* [Nextcloud wurde in der Version 25.0.0 veröffentlicht.](https://github.com/nextcloud/server/releases/tag/v25.0.0)
 
