@@ -22,4 +22,22 @@
 * [>>Amazon hat auf allen Ebenen eine so hohe Fluktuationsrate an Mitarbeitern, das diese jährlich 8 Milliarden US-Dollar kostet.<<](https://www.borncity.com/blog/2022/10/18/amazons-8-milliarden-dollar-fluktuations-problem/) - Ich will dort auch nicht arbeiten. Man wird scheiße behandelt oder erschafft Systeme, die die Kunden oder die Mitarbeiter scheiße behandeln
 * [Das BKA will es, die EU zahlt es ... dieses mal ein europäisches Polizeiregister.](https://netzpolitik.org/2022/vollendete-tatsachen-bka-setzt-europaeisches-polizeiregister-durch/) - Denn in Europa leben bis zu 750 Millionen potentielle Terroristen!
 * [Der Klimawandel ist am Punkt ohne Wiederkehr angekommen.](https://netzfrauen.org/2022/10/18/climate-13/) - Jane Goodall und Sir David Attenborough kommen bei den Netzfrauen zu Wort
+* [Am Beispiel Apache prefork MPM sieht man, wie lange eigentlich eine neue Technik innerhalb einer Software braucht, bis sie "gut abgehangen" ist.](https://utcc.utoronto.ca/~cks/space/blog/web/ApachePreforkHopefullyNoMore)
+* [Die Spezifikation von USB4.0 - Version 2.0 ist fertig.](https://www.phoronix.com/news/USB4-v2.0-Specification) - 4.0/2.0, warum nicht einfach 4.1, 4.5 oder gleich 5.0?
+* [Am 22.10.2022 könnt ihr in Dresden an einer Demonstration zum Thema >>solidarischer Herbst<< teilnehmen.](https://www.sachsen-fernsehen.de/gewerkschaften-sozial-und-umweltverbaende-rufen-zum-solidarischen-herbst-auf-1128175/https://www.sachsen-fernsehen.de/gewerkschaften-sozial-und-umweltverbaende-rufen-zum-solidarischen-herbst-auf-1128175/)
+* [Auf netzpolitik.org wird das Problem der Gematik und den austauschbaren Plasteroutern gut zusammengefasst.](https://netzpolitik.org/2022/chaos-computer-club-vs-gematik-buerokratie-im-wert-von-300-millionen-euro/) - Der Marktführer will kein Update wegen der Rendite
+* [Wegen fehlenden Schnüffelschnittstellen muss Telegram jetzt 5 Millionen Euro Bußgeld zahlen.](https://netzpolitik.org/2022/bundesamt-fuer-justiz-telegram-soll-5-millionen-euro-bussgeld-bezahlen/)
+* [Git wurde in der Version 2.38.1 veröffentlicht.](https://www.phoronix.com/news/Git-2.38.1-Released)
+* [Auch in der Türkei geht der Staat gegen die freie Meinungsäußerung vor. Dort wird unter dem Deckmantel "Schutz der Bevölkerung gegen Desinformation" Breitbandzensur ausgerollt.](https://netzpolitik.org/2022/pressefreiheit-in-der-tuerkei-wie-erdogan-das-internet-zensieren-will/)
+* [Arte hat ein Video zum Thema Impfen veröffentlicht.](https://www.youtube.com/watch?v=oA_-rkCF0zM)
+* [Wie bei uns, Liberteee gibt es nur für die Marktfreien, Frankreich macht weiter mit der illegalen Massenbespitzelung seiner Bürger.](https://www.patrick-breyer.de/frankreich-verlaengert-illegale-vorratsdatenspeicherung-der-gesamten-bevoelkerung/)
+* [Man wird wohl mittlerweile abgemahnt, wenn man Google Fonts einbettet.](https://blog.fefe.de/?ts=9db03cf0)
+* [Es gibt wohl ein Video von der kaputten Nordstream-Pipeline.](https://blog.fefe.de/?ts=9db01a96) - Die erste Vermutung "Das sieht aber gar nicht nach Explosion aus"
+* [Netter Hack, 20 Länder, die vom Ansteigen des Meeresspiegels durch den Klimawandel direkt betroffen sind, überlegen ihre Schulden nicht zurück zu zahlen.](https://blog.fefe.de/?ts=9db018c4) - Das ist wirklich interessant, dadurch entsteht auf einmal ein Hebel/Druck, dass das Problem Klimawandel angegangen wird
+* [Während Deutschland der Ukraine Waffen schenkt, verleihen die USA die Waffen gegen eine Gebühr.](https://blog.fefe.de/?ts=9db0590d) - Nun kann die Ukraine diese Gebühren nicht bezahlen. Völlig klar, dass Europa jetzt diese Gebühren bezahlen soll. Diese Amerikanskis, Schlitzohren bis zum Umfallen.
+* [ddev wurde in der Version 1.21.3 veröffentlicht.](https://github.com/drud/ddev/releases/tag/v1.21.3)
+* [nushell wurde in der Version 0.70.0 veröffentlicht.](https://github.com/nushell/nushell/releases/tag/0.70.0)
+* [metabase wurde in der Version 0.44.5 veröffentlicht.](https://github.com/metabase/metabase/releases/tag/v0.44.5)
+* [firefly-iii wurde in der Version 5.7.14 veröffentlicht.](https://github.com/firefly-iii/firefly-iii/releases/tag/5.7.14)
+* [TrueCommander wurde in der Version 2.2.2 veröffentlicht.](https://github.com/truenas/documentation/releases/tag/TC2.2.2)
 
