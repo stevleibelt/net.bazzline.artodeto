@@ -44,4 +44,18 @@
 * [Der MDR hat eine sehr interessante Dokumentation zum Thema PostVac-Syndrom veröffentlicht.](https://www.youtube.com/watch?v=gIfRSobbJEw) - Danke MDR investigativ, so habt ihr einen neuen Zuschauer bekommen!
 * [Mold wurde in der Version 1.6.0 veröffentlicht.](https://github.com/rui314/mold/releases/tag/v1.6.0)
 * [Nextcloud wurde in der Version 25.0.0 veröffentlicht.](https://github.com/nextcloud/server/releases/tag/v25.0.0)
+* [Nextcloud hat die Anwendung >>Nextcloud Office<< veröffentlicht.](https://nextcloud.com/blog/nextcloud-office-release-solves-document-compatibility-overhauls-knowledge-management/)
+* [Anträge von der Linken werden pro Forma und immer abgelehnt, auch wenn man inhaltlich dafür ist.](https://tuxproject.de/blog/2022/10/der-antrag-von-links/) - Schöne Demokratie hat der Westen da
+* [Thunderbird wurde in der Version 102.4.0 veröffentlicht.](https://www.borncity.com/blog/2022/10/20/thunderbird-102-4-0-freigegeben/)
+* [Wie kann man eine Firma von der ersten Idee bis zur gewachsenen Größe **und** darüber hinaus führen? Hier wird es euch grob erklärt.](https://martinfowler.com/articles/bottlenecks-of-scaleups/03-product-v-engineering.html#NegotiateABalancedProductInvestmentMix)
+* [Geteiltes Deutschland, auch nach über 30 Jahren noch im Fußball.](https://www.sachsen-fernsehen.de/nordost-clubs-fordern-unterstuetzung-vom-fussball-verband-1128523/)
+* [Firefox wurde in den Versionen 102.4.0 und 106.0 veröffentlicht.](https://www.borncity.com/blog/2022/10/19/firefox-106-0-und-102-4-0-esr-freigegeben/)
+* [Apache Commons Text ist kaputt.](https://www.bleepingcomputer.com/news/security/apache-commons-text-rce-flaw-keep-calm-and-patch-away/)
+* [Am 17.11.2022, von 19 bis 20 Uhr, gibt es eine Onlineveranstaltung für Sachen mit dem Thema "Mehr Mut zur (Daten-)Transparenz?"](https://www.saechsdsb.de/113-allgemein/684-onlineveranstaltung-mehr-mut-zur-transparenz-die-zukunft-der-informationsfreiheit-in-sachsen-und-anderswo)
+* [Die Siltronic in Freiberg erhält von der EIB ein 200 Millionen Euro Darlehn.](https://www.mdr.de/nachrichten/sachsen/chemnitz/freiberg/kredit-investition-microchip-industrie-siltronic-100.html)
+* [tacticalrmm wurde in der Version 0.15.1 veröffentlicht.](https://github.com/amidaware/tacticalrmm/releases/tag/v0.15.1)
+* [harfbuzz wurde in der Version 5.3.1 veröffentlicht.](https://github.com/harfbuzz/harfbuzz/releases/tag/5.3.1)
+* [opentrack wurde in der Version 2022.3.2 veröffentlicht.](https://github.com/opentrack/opentrack/releases/tag/opentrack-2022.3.2)
+* [skopeo wurde in der Version 1.9.3 veröffentlicht.](https://github.com/containers/skopeo/releases/tag/v1.9.3)
+* [ansible_openwrt wurde in der Version 0.3.1 veröffentlicht.](https://github.com/imp1sh/ansible_openwrt/releases/tag/v0.3.1)
 
