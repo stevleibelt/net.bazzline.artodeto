@@ -58,4 +58,14 @@
 * [opentrack wurde in der Version 2022.3.2 veröffentlicht.](https://github.com/opentrack/opentrack/releases/tag/opentrack-2022.3.2)
 * [skopeo wurde in der Version 1.9.3 veröffentlicht.](https://github.com/containers/skopeo/releases/tag/v1.9.3)
 * [ansible_openwrt wurde in der Version 0.3.1 veröffentlicht.](https://github.com/imp1sh/ansible_openwrt/releases/tag/v0.3.1)
+* [rqlite wurde in der Version 7.8.0 veröffentlicht.](https://github.com/rqlite/rqlite/releases/tag/v7.8.0)
+* [portier-broker wurde in der Version 0.7.0 veröffentlicht.](https://github.com/portier/portier-broker/releases/tag/v0.7.0)
+* [barman wurde in der Version 3.2.0 veröffentlicht.](https://github.com/EnterpriseDB/barman/releases/tag/release/3.2.0)
+* [Realitätsabgleich Browserentwicklung](https://utcc.utoronto.ca/~cks/space/blog/web/BrowserProgrammingChallenge) - Ihr braucht dafür nur wenige Minuten zum Lesen
+* [Nein? Doch! Oh? RKI berechnet R-Wert falsch zu hoch](https://impfentscheidung.online/rki-berechnet-r-wert-falsch-zu-hoch/)
+* [Firefox wurde in der Version 106.0.1 veröffentlicht.](https://www.borncity.com/blog/2022/10/20/firefox-106-0-1-freigegeben/)
+* [curl, wireguard, openssh etc werden von Europa über den STF gefördert.](https://netzpolitik.org/2022/sovereign-tech-fund-neuer-foerdertopf-finanziert-sieben-open-source-projekte/)
+* [Ubuntu wurde in der Version 22.10 veröffentlicht.](https://lwn.net/Articles/911899/)
+* [OpenBSD wurde in der Version 7.2 veröffentlicht.](https://www.phoronix.com/news/OpenBSD-7.2-Released)
+* [Aus privaten Gründen, erkenne die vier tierischen Menschentypen](https://www.youtube.com/watch?v=-IOp9qrjLJU) - Wal, Hai, Delphin und Eule
 
