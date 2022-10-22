@@ -68,4 +68,5 @@
 * [Ubuntu wurde in der Version 22.10 veröffentlicht.](https://lwn.net/Articles/911899/)
 * [OpenBSD wurde in der Version 7.2 veröffentlicht.](https://www.phoronix.com/news/OpenBSD-7.2-Released)
 * [Aus privaten Gründen, erkenne die vier tierischen Menschentypen](https://www.youtube.com/watch?v=-IOp9qrjLJU) - Wal, Hai, Delphin und Eule
+* [BigBlueButton wurde in der Version 2.5.8 veröffentlicht.](https://github.com/bigbluebutton/bigbluebutton/releases/tag/v2.5.8)
 
