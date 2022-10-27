@@ -36,4 +36,9 @@
 * [OPNsense wurde in der Version 22.7.6 veröffentlicht.](https://opnsense.org/opnsense-22-7-6-released/)
 * [PHP 8.2 kann jetzt "Read Only"-Classes](https://stitcher.io/blog/readonly-classes-in-php-82) - `readonly class Foo {}`
 * [Schöne Sache, hier lernt ihr PHP 8.2 in acht Codeblöcken kennen.](https://stitcher.io/blog/php-82-in-8-code-blocks)
+* [Deutschlands Armutsquote ist 2021 auf über 16 Prozent gestiegen.](https://tuxproject.de/blog/2022/10/hoffnung-dexit-12-zwei-zahlen/) - Scheint Olaf Schulz nicht zu interessieren, der will 500 Millionen Euro pro Monat, also sechs Milliarden Euro an die Ukraine verschenken.
+* [KI soll jetzt KI machen.](https://blog.fefe.de/?ts=9da4968e)
+* [Sensorik kann man jetzt mit Frequenzen verarschen, die man in Popmusik verstecken kann.](https://blog.fefe.de/?ts=9da700fa)
+* [ToolJet wurde in der Version 1.28.0 veröffentlicht.](https://github.com/ToolJet/ToolJet/releases/tag/v1.28.0)
+* [rqlite wurde in der Version 7.10.0 veröffentlicht.](https://github.com/rqlite/rqlite/releases/tag/v7.10.0)
 
