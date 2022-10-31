@@ -41,4 +41,10 @@
 * [Sensorik kann man jetzt mit Frequenzen verarschen, die man in Popmusik verstecken kann.](https://blog.fefe.de/?ts=9da700fa)
 * [ToolJet wurde in der Version 1.28.0 veröffentlicht.](https://github.com/ToolJet/ToolJet/releases/tag/v1.28.0)
 * [rqlite wurde in der Version 7.10.0 veröffentlicht.](https://github.com/rqlite/rqlite/releases/tag/v7.10.0)
+* [Thunderbird wurde in der Version 102.4.1 veröffentlicht.](https://www.borncity.com/blog/2022/10/27/thunderbird-102-4-1-freigegeben/)
+* [Gentechnik? Die Steckt auch in den Bäumen! Ist dies der Grund, warum die Wälder kaputt gehen?](https://netzfrauen.org/2022/10/27/trees-7/)
+* [VKD3D wurde in der Version 2.7 veröffentlicht.](https://www.phoronix.com/news/VKD3D-Proton-2.7-Released)
+* [RUST Standard? Nein, aber eine Spezifikation wäre schon schön.](https://lwn.net/Articles/912704/)
+* [Laravel plaudert mal was so für PHP 8.0 und 8.1 Funktionen genutzt werden und warum.](https://laravel-news.com/modern-php-features-explained)
+* [Der PowerShell Script Analyzer wurde in der Version 1.21.0 veröffentlicht.](https://www.windowspro.de/script/powershell-script-analyzer-1210-pruefung-code-drei-weiteren-regeln)
 
