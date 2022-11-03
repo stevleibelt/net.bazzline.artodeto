@@ -35,4 +35,17 @@
 * [keycloak wurde in der Version 19.0.1 veröffentlicht.](https://github.com/keycloak/keycloak/releases/tag/19.0.1)
 * [Fluentd wurde in der Version 1.15.3 veröffentlicht.](https://github.com/fluent/fluentd/releases/tag/v1.15.3)
 * [Metabase wurde in der Version 0.44.6 veröffentlicht.](https://github.com/metabase/metabase/releases/tag/v0.44.6)
+* [WordPress wurde in der Version 6.1 veröffentlicht.](https://wordpress.org/news/2022/11/misha/)
+* [OpenSSL wurde in der Version 3.0.7 veröffentlicht.](https://lwn.net/Articles/913370/)
+* [Es gibt wohl mittlerweile gezüchtete Gehirnteile die PONG spielen können.](https://netzfrauen.org/2022/11/02/dishbrain/) - Ich hoffe ja immer, dass die noch kein Schmerz- oder Lustempfinden haben. Eine Sache falsch angeklemmt und du "lebst" mit einem Dauerinput auf den Bereichen ... das kann nicht gut für die Psyche sein
+* [Herzmuskelentzündung nach Covid-19 Impfung? Ist wohl doch nicht so unproblematisch wie versprochen.](https://impfentscheidung.online/auffaelligkeiten-zum-verlauf-einer-myokarditis/)
+* [EU-weite Polizeidatenbank? Die, die sicher sein sollte ... nun die fällt gern mal aus.](https://netzpolitik.org/2022/schengener-informationssystem-groesste-eu-polizeidatenbank-immer-wieder-nicht-erreichbar/) - Das trägt nicht dazu bei, dass man solch große und zentralisierte Datenbanken mehr vertraut
+* [Nein? Doch! Oh? Die Netzsperren werden ausgeweitet.](https://netzpolitik.org/2022/gesetz-zur-chatkontrolle-rat-der-eu-will-netzsperren-ausweiten/)
+* [MySQL kann, ab der Version 8.0.31, INTERSECT und EXCEPT.](https://www.percona.com/blog/set-theory-in-mysql-8-0-union-and-now-intersect-and-except/)
+* [fd wurde in der Version 8.5.1 veröffentlicht.](https://github.com/sharkdp/fd/releases/tag/v8.5.1)
+* [phpstan wurde in der Version 1.9.0 veröffentlicht.](https://github.com/phpstan/phpstan/releases/tag/1.9.0)
+* [phpqa wurde in der Version 1.79.0 veröffentlicht.](https://github.com/jakzal/phpqa/releases/tag/v1.79.0)
+* [vscodium wurde in der Version 1.73.0.22306 veröffentlicht.](https://github.com/VSCodium/vscodium/releases/tag/1.73.0.22306)
+* [sophia script wurde in der Version 02.11.2022 veröffentlicht.](https://github.com/farag2/Sophia-Script-for-Windows/releases/tag/6.2.2)
+* [archzfs iso wurde in der Version 2022-10-31T21:51:39 veröffentlicht.](https://archzfs.leibelt.de)
 
