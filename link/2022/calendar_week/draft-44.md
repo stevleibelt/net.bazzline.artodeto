@@ -63,4 +63,11 @@
 * [Vulkan wurde in der Version 1.3.233 veröffentlicht.](https://www.phoronix.com/news/Vulkan-1.3.233-Released)
 * [Über >>https://www.facebook.com/contacts/removal<< könnt ihr jetzt eure Mobilfunknummer auf Hackfressenbuch löschen.](https://netzpolitik.org/2022/versteckte-option-bei-facebook-nicht-nutzerinnen-koennen-jetzt-ihre-kontaktdaten-loeschen-lassen/)
 * [Mit flet könnt ihr Flutter-Anwendungen in wenigen Minuten bauen.](https://github.com/flet-dev/flet)
+* [Richtige Frage, warum gibt es keine separate Lizenz für die Öffentlich-Rechtlichen.](https://netzpolitik.org/2022/oeffentliches-geld-oeffentliches-gut-es-wird-zeit-fuer-freie-lizenzen-bei-oeffentlich-rechtlichen/)
+* [Das eRezept wurd auf 2025 verschoben.](https://www.borncity.com/blog/2022/11/06/kvb-verschiebt-erezept-einlsung-mit-egk-auf-sommer-2025-verschoben/)
+* [Microsoft wird über GitHub's "Co Pilot" verklagt.](https://www.bleepingcomputer.com/news/security/microsoft-sued-for-open-source-piracy-through-github-copilot/)
+* [Die BWL-er optimieren im Kommunismus wie auch Kapitalismus, in China gibt es Schweinezucht-hochhäuser.](https://netzfrauen.org/2022/11/05/pigs-3/)
+* [LXQt wurde in der Version 1.2 veröffentlicht.](https://www.phoronix.com/news/LXQt-1.2-Released)
+* [Firefox wurde in der Version 106.0.5 veröffentlicht.](https://www.borncity.com/blog/2022/11/05/firefox-106-0-5-freigegeben/)
+* [Thunderbird wurde in der Version 102.4.2 veröffentlicht.](https://www.borncity.com/blog/2022/11/04/thunderbird-102-4-2-freigegeben/)
 
