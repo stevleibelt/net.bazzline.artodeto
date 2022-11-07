@@ -6,4 +6,10 @@
 * [NewPipe wurde in der Version 0.24.1 veröffentlicht.](https://newpipe.net/blog/pinned/release/newpipe-0.24.1/)
 * [Realitätsabgleich "Bergbau im Ausland".](https://netzfrauen.org/2022/11/06/africa-30/) - Und von dort kommen auch eure billigen Südfrüchte
 * [Durch den Zinsdruck eines Milliardärs, erzeugt er so viele Treibhausgase wie eine Million Menschen.](https://www.sonnenseite.com/de/politik/klimakiller-reichtum-ein-milliardaer-verursacht-so-viel-treibhausgase-wie-eine-million-menschen/)
+* [Netzwerkprobleme im Tiroler Tunnel? Da fällt so ein Tunnel schon einmal aus.](https://blog.fefe.de/?ts=9d97cd37)
+* [Keycloak wurde in der Version 20.0.1 veröffentlicht.](https://github.com/keycloak/keycloak/releases/tag/20.0.1)
+* [prooph event-store wurde in der Version 7.8.0 veröffentlicht.](https://github.com/prooph/event-store/releases/tag/v7.8.0)
+* [psr7 storageless wurde in der Version 8.10.0 veröffentlicht.](https://github.com/psr7-sessions/storageless/releases/tag/8.10.0)
+* [ADACLScanner wurde in der Version 7.6 veröffentlicht.](https://github.com/canix1/ADACLScanner/releases/tag/7.6)
+* [Rector wurde in der Version 0.14.7 veröffentlicht.](https://github.com/rectorphp/rector/releases/tag/0.14.7)
 
