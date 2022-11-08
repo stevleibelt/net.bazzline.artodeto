@@ -12,4 +12,10 @@
 * [psr7 storageless wurde in der Version 8.10.0 veröffentlicht.](https://github.com/psr7-sessions/storageless/releases/tag/8.10.0)
 * [ADACLScanner wurde in der Version 7.6 veröffentlicht.](https://github.com/canix1/ADACLScanner/releases/tag/7.6)
 * [Rector wurde in der Version 0.14.7 veröffentlicht.](https://github.com/rectorphp/rector/releases/tag/0.14.7)
+* [Nativefier wurde in der Version 50.0.1 veröffentlicht.](https://github.com/nativefier/nativefier/releases/tag/v50.0.1)
+* [GNU Texinfo wurde in der Version 7.0 veröffentlicht.](https://www.phoronix.com/news/GNU-Texinfo-7.0)
+* [Die macht der Autolobby? Oder warum sind so viele Klimaaktivisten ohne Gerichtsverfahren in Haft?](https://netzpolitik.org/2022/polizeilicher-gewahrsam-klimaaktivisten-ohne-gerichtsverfahren-in-haft/)
+* [Die EU sagt JAAAAAAA zu biometrischen Massenüberwachung im öffentlichen Raum](https://www.patrick-breyer.de/eu-regierungen-wollen-den-weg-fuer-biometrische-massenueberwachung-im-oeffentlichen-raum-freimachen/)
+* [Die Temperaturen steigen in Europa ungewöhnlich schnell und damit schneller als im Rest der Welt](https://netzfrauen.org/2022/11/07/climate-14/)
+* [Die Lern-Anwendung Sofatutor schickt unerlaubt Daten eurer Kinder an TikTok, Facebook, Google etc.](https://www.kuketz-blog.de/sofatutor-uebermittlung-personenbeziehbarer-daten-von-kindern-an-tiktok-facebook-und-co/)
 
