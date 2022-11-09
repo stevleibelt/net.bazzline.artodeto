@@ -18,4 +18,14 @@
 * [Die EU sagt JAAAAAAA zu biometrischen Massenüberwachung im öffentlichen Raum](https://www.patrick-breyer.de/eu-regierungen-wollen-den-weg-fuer-biometrische-massenueberwachung-im-oeffentlichen-raum-freimachen/)
 * [Die Temperaturen steigen in Europa ungewöhnlich schnell und damit schneller als im Rest der Welt](https://netzfrauen.org/2022/11/07/climate-14/)
 * [Die Lern-Anwendung Sofatutor schickt unerlaubt Daten eurer Kinder an TikTok, Facebook, Google etc.](https://www.kuketz-blog.de/sofatutor-uebermittlung-personenbeziehbarer-daten-von-kindern-an-tiktok-facebook-und-co/)
+* [Ihr könnt jetzt mit euer Nextcloud Dateien in Mattermost teilen.](https://nextcloud.com/blog/introducing-the-nextcloud-and-mattermost-integration/)
+* [Valinor wurde in der Version 0.17.0 veröffentlicht.](https://github.com/CuyZ/Valinor/releases/tag/0.17.0)
+* [Betrachte die USA und du wirst sehen was kommen wird. Da kann die gegnerische Partei Wahlbeobachter an die Urne stellen, die vorläufige Stimmzettel ausgibt.](https://blog.fefe.de/?ts=9d9405b0) - Da niemand Interesse hat, diesen Status zu ändern, bleibt es beim Vorläufig aka "Wird nicht gezählt"
+* [Der Energiepreis in der Börse ist wieder normal und doch steigen die Strompreise unnormal? Da Ärgert sich der Dealer von Flüssiggas und lässt seine Tanker auf dem offenen Meer bis die Preise wieder höher sind!](https://blog.fefe.de/?ts=9d94b309) - Das Meer sollte offiziell öffentliches Gut sein. Stellt euch vor, Milchlaster verstopfen die Hauptstraße weil sie auf eine Preissteigerung warten
+* [Klimawandel? Seit acht Jahren wird es immer Wärmer und das ist ein Trend der seit der ganzen Zeit, der Aufzeichnung, anhält.](https://www.sonnenseite.com/de/umwelt/wmo-acht-waermste-jahre-seit-beginn-der-aufzeichnungen/)
+* [>>Wenn beim Strompreis der Deckel erst bei 40 Cent greife, dann bleibe natürlich kein Versorger darunter, da der Staat bezahlt.<<](https://www.sachsen-fernsehen.de/schluss-mit-dem-wilden-westen-auf-dem-energiemarkt-soeren-pellmann-1144363/)
+* [Ihr seid in Sachen im Elternrat und damit ein Elternvertreter? elternmitwirkung-sachsen.de hilft euch mit Formularen, Struktur und Wissen!](https://www.elternmitwirkung-sachsen.de/)
+* [Joomla wurde in der Version 4.2.5 veröffentlicht.](https://github.com/joomla/joomla-cms/releases/tag/4.2.5)
+* [Fluent-Bit wurde in der Version 2.0.4 veröffentlicht.](https://github.com/fluent/fluent-bit/releases/tag/v2.0.4)
+* [Nushell wurde in der Version 0.71.0 veröffentlicht.](https://github.com/nushell/nushell/releases/tag/0.71.0)
 
