@@ -38,4 +38,9 @@
 * [Hier lest ihr, wie die Bewohner der Fidschi-Inseln versuchen ihr Volk umzusiedeln.](https://netzfrauen.org/2022/11/09/fiji/)
 * [Hier gibt es die Projekte der Open Source Security Foundation (OpenSSF)](https://github.com/orgs/ossf/repositories)
 * [valet-sh wurde in der Version 2.8.6 veröffentlicht.](https://github.com/valet-sh/valet-sh/releases/tag/2.8.6)
+* [phpstan wurde in der Version 1.9.2 veröffentlicht.](https://github.com/phpstan/phpstan/releases/tag/1.9.2)
+* [Die Zivilgesellschaft und EU-Abgeordnete fordern ein striktes Verbot der biometrischen Massenüberwachung im KI-Gesetz](https://www.patrick-breyer.de/eu-abgeordnete-und-zivilgesellschaft-fordern-im-ki-gesetz-ein-striktes-verbot-der-biometrischen-massenueberwachung/)
+* [Warum nicht bei uns? Glyphosat und genmanipulierter Mais sind jetzt in Mexiko verboten.](https://netzfrauen.org/2022/11/10/mexico-9/)
+* [Die EU verbietet anonyme Webseiten.](https://www.patrick-breyer.de/cybersicherheit-eu-verbietet-anonyme-websites/)
+* [Der CCC hilft der EU und zeigt auf warum ein Telekommunikationsunternehmen wie die Telekom nicht doppelt für ihre Leitungsnutzung bezahlt werden darf.](https://www.ccc.de/de/updates/2022/wider-die-digitiale-wegelagerei)
 
