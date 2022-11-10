@@ -28,4 +28,14 @@
 * [Joomla wurde in der Version 4.2.5 veröffentlicht.](https://github.com/joomla/joomla-cms/releases/tag/4.2.5)
 * [Fluent-Bit wurde in der Version 2.0.4 veröffentlicht.](https://github.com/fluent/fluent-bit/releases/tag/v2.0.4)
 * [Nushell wurde in der Version 0.71.0 veröffentlicht.](https://github.com/nushell/nushell/releases/tag/0.71.0)
+* [Sehe ich auch so, ein Administrator/Entwickler sollte sich mit einem Tilling-Window-Manager wohl fühlen.](https://opensource.com/article/22/11/linux-awesome-window-manager)
+* [Codium scheint gut genug zu sein, dass man damit Python schreibt.](https://opensource.com/article/22/11/python-vs-code-codium)
+* [Leider fehlt mir hier der Vergleich, Tesla ruft zum 17-ten Mal im Jahr 2022 Autos zurück.](https://blog.fefe.de/?ts=9d956230)
+* [Gut zu wissen, unter Linux wird die Modifikationszeit von Auslagerungsdateien nie geändert.](https://utcc.utoronto.ca/~cks/space/blog/linux/SwapfilesDontUpdateMtime)
+* [LPN wurde in der Version 445 veröffentlicht.](https://logbuch-netzpolitik.de/lnp445-das-goldkettchen-des-internets)
+* [fwupd wurde in der Version 1.8.7 veröffentlicht.](https://www.phoronix.com/news/Fwupd-1.8.7-Released)
+* [Technisch ein spannendes Feld, Rechenzentren sollen bald klimaneutral betrieben werden.](https://netzpolitik.org/2022/energieeffizienzgesetz-wie-rechenzentren-klimaneutral-werden-sollen/) - Hier geht es nur um den Strom, den sie während der Laufzeit benötigen. Außen vor sind die unmengen an Energie, die durch das Erzeugen der Maschinen (inklusive Wegwerfartikel wie Festplatten) benötigt wird
+* [Hier lest ihr, wie die Bewohner der Fidschi-Inseln versuchen ihr Volk umzusiedeln.](https://netzfrauen.org/2022/11/09/fiji/)
+* [Hier gibt es die Projekte der Open Source Security Foundation (OpenSSF)](https://github.com/orgs/ossf/repositories)
+* [valet-sh wurde in der Version 2.8.6 veröffentlicht.](https://github.com/valet-sh/valet-sh/releases/tag/2.8.6)
 
