@@ -43,4 +43,15 @@
 * [Warum nicht bei uns? Glyphosat und genmanipulierter Mais sind jetzt in Mexiko verboten.](https://netzfrauen.org/2022/11/10/mexico-9/)
 * [Die EU verbietet anonyme Webseiten.](https://www.patrick-breyer.de/cybersicherheit-eu-verbietet-anonyme-websites/)
 * [Der CCC hilft der EU und zeigt auf warum ein Telekommunikationsunternehmen wie die Telekom nicht doppelt für ihre Leitungsnutzung bezahlt werden darf.](https://www.ccc.de/de/updates/2022/wider-die-digitiale-wegelagerei)
+* [PipeWire wurde in der Version 0.3.60 veröffentlicht.](https://www.phoronix.com/news/PipeWire-0.3.60-Released)
+* [VSCodium wurde in der Version 1.73.1.22314 veröffentlicht.](https://github.com/VSCodium/vscodium/releases/tag/1.73.1.22314)
+* [Das Problem mit der Reichsprogromnacht bei KFC sollte euch bekannt sein, dass KFC offen schreibt, dass hier eine freidrehende Software Schuld haben soll, macht mich stutzig.](https://blog.fefe.de/?ts=9d9352bc) - Wenn Werbeinhaltserstellung die Aufgabe von voll automatisierten Programmen ist, hat die Werbung jeglichen Anreiz verloren. Oder sagt sich KFC "lieber kaputte Software vorschieben als zugeben zu müssen, dass Fremde in unserem Netzwerk waren"?
+* [Der Trabant feiert am 10.11.2022 seinen 65 jährigen Geburtstag.](https://www.sachsen-fernsehen.de/trabant-feiert-65-jaehriges-jubilaeum-1147684/)
+* [Warum wird bei den Klimakonferenzen das Thema Massentierhaltung nicht auf den Tisch gebracht?](https://netzfrauen.org/2022/11/10/cop27/)
+* [Realitätsabgleich "Warum darf Edward Snowden nicht in Deutschland Asyl suchen?"](https://netzpolitik.org/2022/interview-mit-wolfgang-kaleck-auslieferung-snowdens-waere-nicht-rechtmaessig/)
+* [PostgreSQL wurde in den Versionen 15.1, 14.6, 13.9, 12.13, 11.18 und 10.23 veröffentlicht.](https://www.postgresql.org/about/news/postgresql-151-146-139-1213-1118-and-1023-released-2543/)
+* [DXVK wurde in der Version 2.0 veröffentlicht.](https://www.phoronix.com/news/DXVK-2.0-Released)
+* [Hier findet ihr einen unabhänigen PV-Anlagen-Rechner von Volker Quaschning](https://www.volker-quaschning.de/software/unabhaengig/index.php)
+* [Netzpolitik stellt sich der komplizierten Frage "Was passiert, wenn Geheimdienstmitarbeiter mit gegen den Staat hetzen?"](https://netzpolitik.org/2022/volksverhetzung-durch-verfassungsschutz-wenn-undercover-agentinnen-im-netz-straftaten-begehen/)
+* [Habt ihr schon einmal zram in eurem Linux konfiguriert?](https://opensource.com/article/22/11/zram-swap-linux) - Ich auch nicht, aber ich [werde es mal probieren](https://wiki.archlinux.org/title/Improving_performance)
 
