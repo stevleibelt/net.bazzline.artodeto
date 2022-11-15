@@ -11,4 +11,17 @@
 * [fd wurde in der Version 8.5.3 veröffentlicht.](https://github.com/sharkdp/fd/releases/tag/v8.5.3)
 * [finamp wurde in der Version 0.6.9 veröffentlicht.](https://github.com/jmshrv/finamp/releases/tag/0.6.9)
 * [Realitätsabgleich 2022, verschärfter Hunger auf der Welt, dafür dramatische Gewinne für Spekulaten und marktfreie Personen.](https://www.sonnenseite.com/de/politik/g20-gipfel-auf-bali-dramatischer-hunger-und-satte-gewinne/)
+* [ToolJet wurde in der Version 1.29.0 veröffentlicht.](https://github.com/ToolJet/ToolJet/releases/tag/v1.29.0)
+* [Mit `psinfo` könnt ihr euch in der PowerShell nahezu alle wichtigen Systeminformationen anzeigen lassen.](https://4sysops.com/archives/psinfo-get-disk-space-installed-applications-and-other-information-about-local-and-remote-windows-systems/)
+* [Hier wird euch gezeigt, wie man OpenShift Data Foundation 4.11 in einem VMware-Cluster ohne Internetanbindung installiert.](https://www.opensourcerers.org/2022/11/14/how-to-install-openshift-data-foundation-odf-4-10-in-a-disconnected-or-air-gapped-vmware-cluster/)
+* [alice wurde in der Version 3.12.1 veröffentlicht.](https://github.com/nelmio/alice/releases/tag/3.12.1)
+* [Rector wurde in der Version 0.14.8 veröffentlicht.](https://github.com/rectorphp/rector/releases/tag/0.14.8)
+* [Firefox kopiert non-breaking-spaces jetzt genau als solche und konvertiert diese nicht mehr in reine Leerzeichen.](https://utcc.utoronto.ca/~cks/space/blog/web/FirefoxNonbreakingSpacesCopyIssue)
+* [>>An einem sehr kalten Tag in einer Frostperiode stellt man die Vorlauftemperatur des Heizkessels auf 50 bis 55 Grad ein und dreht dann die Thermostate an den Heizkörpern auf 20 Grad Celsius. Werden alle Räume anschließend ausreichend warm, ist das Haus fit für eine Wärmepumpe.<<](https://www.sonnenseite.com/de/tipps/selbst-herausfinden-ist-das-eigene-haus-fit-fuer-eine-waermepumpe/)
+* [Nein? Doch! Oh? TrustCor als zentrale Zertifikatsbude hat Verbindungen zur US-Regierung.](https://netzpolitik.org/2022/sicherheit-des-internets-zertifizierungsstelle-koennte-hintertuer-fuer-us-geheimdienst-oeffnen/)
+* [Der Bahnknoten Zwickau wird ausgebaut.](https://www.sachsen-fernsehen.de/db-plant-ausbau-des-bahnknotens-zwickau-1145803/)
+* [Sofatutor ist datenschutztechnisch auch durchgefallen. Übermittlung personenbezogener Daten an Hackfressenbuch und TikTok?](https://www.kuketz-blog.de/sofatutor-kurzanalyse-der-datenschutzinformationen/)
+* [Onli zeigt euch ein paar Beispiele auf, wie man in Flutter zwischen Ansichten wechselt/routet.](https://www.onli-blogging.de/2212/Unverstelltes-Routing-in-Flutter-NamedRoutes-mit-Animationen.html)
+* [Hier werden euch schöne Terminal-Tricks zur Navigation gezeigt, `CTRL+A` etc.](https://opensource.com/article/22/11/navigate-linux-terminal-faster)
+* [Realitätsabgleich CO2-Billanz Bahn vs. Auto.](https://blog.fefe.de/?ts=9d8db8c3) - Auto kackt hart ab
 
