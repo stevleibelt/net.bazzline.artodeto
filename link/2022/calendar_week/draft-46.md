@@ -24,4 +24,16 @@
 * [Onli zeigt euch ein paar Beispiele auf, wie man in Flutter zwischen Ansichten wechselt/routet.](https://www.onli-blogging.de/2212/Unverstelltes-Routing-in-Flutter-NamedRoutes-mit-Animationen.html)
 * [Hier werden euch schöne Terminal-Tricks zur Navigation gezeigt, `CTRL+A` etc.](https://opensource.com/article/22/11/navigate-linux-terminal-faster)
 * [Realitätsabgleich CO2-Billanz Bahn vs. Auto.](https://blog.fefe.de/?ts=9d8db8c3) - Auto kackt hart ab
+* [SQLite wurde in der Version 3.40 veröffentlicht.](https://www.phoronix.com/news/SQLite-3.40-Released)
+* [Anbox Cloud wurde in der Version 1.16 veröffentlicht.](https://www.phoronix.com/news/Anbox-Cloud-1.16)
+* [Hier wird euch MERGE von PostgreSQL 15 erklärt](https://www.percona.com/blog/using-merge-to-make-your-postgresql-more-powerful/)
+* [Die Wahl am 19.09.2021 in Berlin ist ungültig.](https://www.die-partei.de/2022/11/16/die-partei-laesst-die-wahlen-in-berlin-wiederholen/)
+* [>>etzt haben die  größten Regenwaldnationen der Welt eine Allianz gebildet, um Druck auf die reichen Länder auszuüben, damit diese den Schutz der Wälder finanzieren.<<](https://netzfrauen.org/2022/11/16/climate-16/)
+* [Oh, da werden Menschen von Raketen getroffen und alles steht Kopf ... kaum wurde geklärt, dass das Raketen aus der Ukraine waren, sind auf einmal die Opfer schuld](https://tuxproject.de/blog/2022/11/iwan-des-tages-gute-raketen-schlechte-raketen/)
+* [Thunderbird wurde in der Version 102.5.0 veröffentlicht.](https://www.borncity.com/blog/2022/11/16/thunderbird-102-5-0-freigegeben/)
+* [Wordpress wurde in der Version 6.1.1 veröffentlicht.](https://wordpress.org/news/2022/11/wordpress-6-1-1-maintenance-release/)
+* [Firefox wurde in den Versionen 107.0 und 102.5 veröffentlicht.](https://www.borncity.com/blog/2022/11/15/firefox-107-0-und-102-5-0-esr-freigegeben/)
+* [So wie dieses Jahr ist die STIKO mit ihren Empfehlungen noch nie getaumelt.](https://impfentscheidung.online/irritierende-stiko-impfempfehlung/)
+* [Fedora wurde in der Version 37 veröffentlicht.](https://lwn.net/Articles/914960/)
+* [Realitätsabgleich Netzneutralität im freien Markt.](https://netzpolitik.org/2022/netzneutralitaet-bedroht-entzauberte-mythen-der-industrie/)
 
