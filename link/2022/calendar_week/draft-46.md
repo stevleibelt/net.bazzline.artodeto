@@ -36,4 +36,13 @@
 * [So wie dieses Jahr ist die STIKO mit ihren Empfehlungen noch nie getaumelt.](https://impfentscheidung.online/irritierende-stiko-impfempfehlung/)
 * [Fedora wurde in der Version 37 veröffentlicht.](https://lwn.net/Articles/914960/)
 * [Realitätsabgleich Netzneutralität im freien Markt.](https://netzpolitik.org/2022/netzneutralitaet-bedroht-entzauberte-mythen-der-industrie/)
+* [Red Hat Enterprise Linux wurde in der Version 9.1 veröffentlicht.](https://www.phoronix.com/news/Red-Hat-Enterprise-Linux-9.1)
+* [AlmaLinux wurde in der Version 9.1 veröffentlicht.](https://almalinux.org/blog/almalinux-91-now-available/)
+* [workerman wurde in der Version 3.5.33 veröffentlicht.](https://github.com/walkor/workerman/releases/tag/v3.5.33)
+* [TrueNas wurde in der Version 13.0 U3.1 veröffentlicht.](https://github.com/truenas/documentation/releases/tag/TN13.0-U3.1)
+* [yay wurde in der Version 11.3.1 veröffentlicht.](https://github.com/Jguer/yay/releases/tag/v11.3.1)
+* [HeidiSQL wurde in der Version 12.2 veröffentlicht.](https://github.com/HeidiSQL/HeidiSQL/releases/tag/12.2)
+* [rqlite wurde in der Version 7.11.0 veröffentlicht.](https://github.com/rqlite/rqlite/releases/tag/v7.11.0)
+* [>>Die Mikrobe ist nichts das Milieu ist alles<<](https://www.youtube.com/watch?v=JTAuxiMgm8U) - Sehr spannend und nun die Frage, wie man das in seinen Alltag unterbringt
+* [Hier werden zehn Kommandozeilenwerkzeuge unter Linux aufgezeigt, die man ersetzen sollte.](https://opensource.com/article/22/11/modern-linux-commands)
 
