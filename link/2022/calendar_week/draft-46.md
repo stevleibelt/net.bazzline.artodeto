@@ -45,4 +45,20 @@
 * [rqlite wurde in der Version 7.11.0 veröffentlicht.](https://github.com/rqlite/rqlite/releases/tag/v7.11.0)
 * [>>Die Mikrobe ist nichts das Milieu ist alles<<](https://www.youtube.com/watch?v=JTAuxiMgm8U) - Sehr spannend und nun die Frage, wie man das in seinen Alltag unterbringt
 * [Hier werden zehn Kommandozeilenwerkzeuge unter Linux aufgezeigt, die man ersetzen sollte.](https://opensource.com/article/22/11/modern-linux-commands)
+* [openSUSE Leap wurde in der Version 5.3 veröffentlicht.](https://www.phoronix.com/news/openSUSE-Leap-Micro-5.3)
+* [box86 wurde in der Version 0.2.8 veröffentlicht.](https://github.com/ptitSeb/box86/releases/tag/v0.2.8)
+* [box64 wurde in der Version 0.2.0 veröffentlicht.](https://github.com/ptitSeb/box64/releases/tag/v0.2.0)
+* [cloud-hypervisor wurde in der Version 28.0 veröffentlicht.](https://github.com/cloud-hypervisor/cloud-hypervisor/releases/tag/v28.0)
+* [In der Realität ist bei einer 1GB Ethernetverbindung bei 119 MB/s Schluss.](https://utcc.utoronto.ca/~cks/space/blog/tech/EthernetHowFastIsIt)
+* [Kerberos unter Windows war kaputt.](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-kerberos-auth-issues-in-emergency-updates/)
+* [Kika-Player für Android? Eher Schnüffelsoftware für eure Kinder.](https://www.kuketz-blog.de/kika-player-tracker-und-analysedienste-in-einer-kinder-app/)
+* [Zu systemd und deren services >>The status=217/USER indicates that the user that is configured to run the service could not be found.<<.](https://www.shellhacks.com/systemd-service-not-starting-status217-user/)
+* [Coca Cola und Nestle sind auch in Indien Schuld für die Absenkung des Grundwassers.](https://netzfrauen.org/2022/11/17/plachimada/) - Dürre, Hunger, Flüchtlinge, Krieg, danke Coca Cola und Nestle, dies ist eure Schuld!
+* [Unter Windows 10 friert der Desktop oder die Taskbar bei euch ein? Microsoft kennt wohl das Problem.](https://www.borncity.com/blog/2022/11/17/windows-10-desktop-und-taskbar-problem-oder-einfrieren-besttigt-und-behoben/)
+* [Bareos wurde in den Versionen 20.0.8 und 21.1.5 veröffentlicht.](https://www.bareos.com/de/bareos-21-1-5-und-20-0-8/)
+* [Die Deutsche Post macht jedes Jahr mehr Gewinn (letztes Jahr 13 Prozent mehr, 1,2 Milliarden Euro Reingewinn), steigert die Portokosten jährlich und will jetzt vom Gesetzgeber noch Entlastungen um den gesetzlich garantierten Leistungsumfang zu reduzieren.](https://blog.fefe.de/?ts=9d88406a)
+* [Die Deutsche Bahn verteuert den Güterverkehr um 45 Prozent.](https://blog.fefe.de/?ts=9d888686)
+* [Mit der RSS-Bridge kann man Webseiten mit RSS ausstatten, die gar kein RSS anbieten.](https://www.deimeke.net/dirk/blog/index.php?/archives/4209-RSS-Bridge.html)
+* [Berlin kriegt ein Volksentscheid über das Thema Klimaziele verpflichtend machen.](https://www.sonnenseite.com/de/politik/klima-erfolg-in-berlin-die-hauptstadt-bekommt-den-volksentscheid/) - Berlin kann es ja, Berlin zahlt ja nix und nimmt nur
+* [Git reflog, git gc, git bisect und git worktree können euch helfen.](https://opensource.com/article/22/11/git-tools)
 
