@@ -61,4 +61,6 @@
 * [Mit der RSS-Bridge kann man Webseiten mit RSS ausstatten, die gar kein RSS anbieten.](https://www.deimeke.net/dirk/blog/index.php?/archives/4209-RSS-Bridge.html)
 * [Berlin kriegt ein Volksentscheid über das Thema Klimaziele verpflichtend machen.](https://www.sonnenseite.com/de/politik/klima-erfolg-in-berlin-die-hauptstadt-bekommt-den-volksentscheid/) - Berlin kann es ja, Berlin zahlt ja nix und nimmt nur
 * [Git reflog, git gc, git bisect und git worktree können euch helfen.](https://opensource.com/article/22/11/git-tools)
+* [analytics wurde in der Version 4.5.1 veröffentlicht.](https://github.com/Rello/analytics/releases/tag/4.5.1)
+* [mold wurde in der Version 1.7.1 veröffentlicht.](https://github.com/rui314/mold/releases/tag/v1.7.1)
 
