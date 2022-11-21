@@ -15,6 +15,7 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
     * `git rebase -i <branch>`
     * Or
     * `git rebase -i --root`
+      * See [this](https://opensource.com/article/22/11/advanced-git-commands) or [that](https://opensource.com/article/22/11/git-tips-technical-writers) `git rebase -i` information
 * bin/calendar_week
     * check if latest draft file is current or last week
     * if latest draft is current week
