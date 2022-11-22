@@ -5,4 +5,13 @@
 * [An den Berichten zum Thema Crypto-Coins kann man die Unabhängigkeit der Medien bewerten.](https://blog.fefe.de/?ts=9d8473cd)
 * [Berlin muss nun Wahlen wiederholen und fährt die Infrastruktur herunter.](https://blog.fefe.de/?ts=9d847945)
 * [`git rebase`? Nur im interaktiven Modus ala `git rebase -i`](https://opensource.com/article/22/11/advanced-git-commands)
+* [FeFe zeigt am Beispiel Legoland in Südkorea die Unfehlbarkeit des freien Marktes und des aktuellen Finanzsystems.](https://blog.fefe.de/?ts=9d85846e)
+* [Ihr braucht nicht eure `/etc/hosts`-Datei verbiegen, `curl --reolve example.org:443:<string: ip_of_the_server> https://www.example.org/` hilft euch!](https://utcc.utoronto.ca/~cks/space/blog/web/CurlTestingAlternateServer)
+* [Realitätsabgleich Genanbau wird die Welt retten - Seitdem die Inder Genscheiß anbauen, sind sie Sklaven die sich selbst vergiften.](https://netzfrauen.org/2022/11/21/india-28/) - Hier gewinnt nur der Konzern, denn ein Konzern, hat kein Herz
+* [Wayland Protocols wurde in der Version 1.30 veröffentlicht.](https://www.phoronix.com/news/Wayland-Tearing-Control-Proto)
+* [pgAdmin 4 wurde in der Version 6.16 veröffentlicht.](https://www.postgresql.org/about/news/pgadmin-4-v616-released-2548/)
+* [Auch Bulgariens Pläne zur massenhaften und anstandslosen Überwachung seiner Bürger verstößt gegen das EU-Recht.](https://netzpolitik.org/2022/eugh-urteil-vorratsdatenspeicherung-auch-in-bulgarien-mit-eu-recht-unvereinbar/)
+* [Hey, die ausgegliederten Staatskonzerne zur Stromerzeugung und Stromverkauf steigern ihre Übergewinne um 200 Prozent? Lasst uns mal eine Werbekampagne für Geothermie (Heizen mit Strom) machen!](https://www.sonnenseite.com/de/wissenschaft/datenkampagne-fuer-die-geothermie-in-deutschland-gestartet/)
+* [Von BackupPC habe ich bisher noch nichts gehört.](https://backuppc.github.io/backuppc/)
+* [jigsaw wurde in der Version 1.6.0 veröffentlicht.](https://github.com/tighten/jigsaw/releases/tag/v1.6.0)
 
