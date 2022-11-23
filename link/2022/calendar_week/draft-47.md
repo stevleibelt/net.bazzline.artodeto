@@ -14,4 +14,16 @@
 * [Hey, die ausgegliederten Staatskonzerne zur Stromerzeugung und Stromverkauf steigern ihre Übergewinne um 200 Prozent? Lasst uns mal eine Werbekampagne für Geothermie (Heizen mit Strom) machen!](https://www.sonnenseite.com/de/wissenschaft/datenkampagne-fuer-die-geothermie-in-deutschland-gestartet/)
 * [Von BackupPC habe ich bisher noch nichts gehört.](https://backuppc.github.io/backuppc/)
 * [jigsaw wurde in der Version 1.6.0 veröffentlicht.](https://github.com/tighten/jigsaw/releases/tag/v1.6.0)
+* [phpqa wurde in der Version 1.79.2 veröffentlicht.](https://github.com/jakzal/phpqa/releases/tag/v1.79.2)
+* [Smarty wurde in der Version 4.3.0 veröffentlicht.](https://github.com/smarty-php/smarty/releases/tag/v4.3.0)
+* [ToolJet wurde in der Version 1.29.1 veröffentlicht.](https://github.com/ToolJet/ToolJet/releases/tag/v1.29.1)
+* [Die Distillery in Leipzig musste umziehen und benötigt nun unsere Spenden für den Einbau einer Lüftungsanlage](https://www.rave-strikes-back.de/?p=11400) - Ich schreib nur zwei Worte, Bass und Keller
+* [Letzt mit Bilder was Glyphosat so für Fehlbildungen schafft, Realitätsabgleich Glyphosat und wir vergiften uns selbst.](https://netzfrauen.org/2022/11/22/argentina-4/) - Hört endlich auf!
+* [Alpine Linux wurde in der Version 3.17 veröffentlicht.](https://www.phoronix.com/news/Alpine-3.17-Released)
+* [Realitätsabgleich Metropolen sind gut bis etwas passiert.](https://netzfrauen.org/2022/11/22/earthquake-2/)
+* [OPNsense wurde in der Version 22.7.8 veröffentlicht.](https://opnsense.org/opnsense-22-7-8-released/)
+* [OPNsense Business Edition wurde in der Version 22.10 veröffentlicht.](https://opnsense.org/opnsense-business-edition-22-10-released/)
+* [Mit Cerberus Testing könnt ihr über eine Gui Tests aufsetzen.](https://opensource.com/article/22/11/cerberus-testing)
+* [Onli schreibt über die freudige Veröffentlichung von Serendipity 2.4.0.](https://www.onli-blogging.de/2214/Serendipity-2.4.0-ist-draussen-das-stabile-Release-fuer-PHP-8.0.html) - Gute Arbeit!
+* [Warum sammeln alle so viele Daten über dich? Weil sie wissen wollen wie viel du wert bist.](https://netzpolitik.org/2022/we-fight-for-your-digital-rights-sie-wollen-wissen-wie-viel-wir-wert-sind/) - Es geht nur um Werbung
 
