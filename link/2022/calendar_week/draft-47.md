@@ -26,4 +26,7 @@
 * [Mit Cerberus Testing könnt ihr über eine Gui Tests aufsetzen.](https://opensource.com/article/22/11/cerberus-testing)
 * [Onli schreibt über die freudige Veröffentlichung von Serendipity 2.4.0.](https://www.onli-blogging.de/2214/Serendipity-2.4.0-ist-draussen-das-stabile-Release-fuer-PHP-8.0.html) - Gute Arbeit!
 * [Warum sammeln alle so viele Daten über dich? Weil sie wissen wollen wie viel du wert bist.](https://netzpolitik.org/2022/we-fight-for-your-digital-rights-sie-wollen-wissen-wie-viel-wir-wert-sind/) - Es geht nur um Werbung
+* [php_send_email_via_command_line wurde in der Version 1.8.1 veröffentlicht.](https://github.com/stevleibelt/php_send_email_via_command_line/releases/tag/1.8.1)
+* [php_component_cli_arguments wurde in der Version 2.1.0 veröffentlicht.](https://github.com/bazzline/php_component_cli_arguments/releases/tag/2.1.0)
+* [php_component_cli_environment wurde in der Version 0.3.0 veröffentlicht.](https://github.com/bazzline/php_component_cli_environment/releases/tag/0.3.0)
 
