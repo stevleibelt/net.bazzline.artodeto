@@ -30,4 +30,14 @@
 * [php_component_cli_arguments wurde in der Version 2.1.0 veröffentlicht.](https://github.com/bazzline/php_component_cli_arguments/releases/tag/2.1.0)
 * [php_component_cli_environment wurde in der Version 0.3.1 veröffentlicht.](https://github.com/bazzline/php_component_cli_environment/releases/tag/0.3.1)
 * [php_component_toolbox wurde in der Version 1.10.0 veröffentlicht.](https://github.com/bazzline/php_component_toolbox/releases/tag/1.10.0)
+* [BetterReflection wurde in der Version 6.4.1 veröffentlicht.](https://github.com/Roave/BetterReflection/releases/tag/6.4.1)
+* [Scheinbar geht der Gesetzesentwurf zur Abschöpfung von Zufallsgewinne nur gegen die regenerativen Energiequellen vor.](https://www.sonnenseite.com/de/energie/bundesregierung-haelt-an-abschoepfung-von-zufallsgewinnen-fest/) - Warum hier die Ölkonzerne als Kriegstreiber nicht einer freundlichen Faust abgeschöpft werden, verstehen Menschen nicht, die keine Bestechungsgelder erhalten
+* [Redox OS wurde in der Version 0.8 veröffentlicht.](https://www.phoronix.com/news/Redox-OS-0.8-Released)
+* [Realitätsabgleich Fettleibigkeit und warum? Weil man mit Zucker so unglaublich viel Profit generieren kann!](https://netzfrauen.org/2022/11/23/sugar-4/)
+* [Die EU startet Pilotprojekte zur Erstellung von Datenbanken für allgemeinfreie Werke.](https://www.patrick-breyer.de/startschuss-fuer-eu-datenbank-allgemeinfreier-werke-und-digitalen-zugang-zu-wissenschaftlichen-werken/)
+* [In Augsburg seht ihr wie der Zustand der Demokratie in Deutschland ist.](https://netzpolitik.org/2022/augsburg-gegen-demonstrationsfreiheit-mit-einer-liberalen-demokratie-nicht-zu-vereinbaren/)
+* [Proton wurde in der Version 7.0-5 veröffentlicht.](https://www.phoronix.com/news/Proton-7.0-5-Released)
+* [Nein? Doch! Oh? Apples Cloud ist doch nicht so anonym](https://blog.fefe.de/?ts=9d80df7c)
+* [Wort des Jahres 2022? Uncloudable](https://blog.fefe.de/?ts=9d80de95)
+* [Katzenfütterungsautomat mit WLAN? Ja scheiße Bernd das ist auch nichts anderes als eine Wanze wie Alexa!](https://blog.fefe.de/?ts=9d80d810)
 
