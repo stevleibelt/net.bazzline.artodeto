@@ -40,4 +40,11 @@
 * [Nein? Doch! Oh? Apples Cloud ist doch nicht so anonym](https://blog.fefe.de/?ts=9d80df7c)
 * [Wort des Jahres 2022? Uncloudable](https://blog.fefe.de/?ts=9d80de95)
 * [Katzenfütterungsautomat mit WLAN? Ja scheiße Bernd das ist auch nichts anderes als eine Wanze wie Alexa!](https://blog.fefe.de/?ts=9d80d810)
+* [Qt Creator wurde in der Version 9 veröffentlicht.](https://www.phoronix.com/news/Qt-Creator-9)
+* [Stratis wurde in der Version 3.4 veröffentlicht.](https://www.phoronix.com/news/Stratis-3.4-Released)
+* [Wie sicher ist WhatsApp? Nun, 500 Millionen Datensätze wurden im Internet angeboten.](https://www.borncity.com/blog/2022/11/25/fast-500-millionen-whatsapp-benutzerdaten-in-untergrundforum-angeboten-nov-2022/)
+* [Das Kakalunka-Maskenpflicht-Theater bleibt vorerst bis Ende Januar in Sachsens ÖPNV Pflicht.](https://www.sachsen-fernsehen.de/maskenpflicht-im-oepnv-sachsen-will-infektionslage-beobachten-1161469/)
+* [Solltet ihr Google-Fonts nutzen, hier wird euch gezeigt, wie ihr die Schriften Datenschutzfreundlich einbindet.](https://www.kuketz-blog.de/dsgvo-abmahnwelle-google-fonts-datenschutzfreundlich-lokal-einbinden/)
+* [Natürlich, WSL unter Windows mit neuen Funktionaläten kriegt man nur über den Windows Store.](https://www.windowspro.de/news/store-wsl-ist-ga-integrierte-version-erhaelt-keine-neuerungen-mehr/05236.html) - Sicherheitstechnisch ja totaler Hirnfick, dass man Entwicklerwerkzeuge nur über Wege bekommt, die das System potentiell kompromitieren und mehr Spionagesoftware auf dem System benötigen
+* [Realitätsabgleich selbst gemachtes Leid, über eine Million Sachsen penden zur Arbeit.](https://www.sachsen-fernsehen.de/ueber-eine-million-sachsen-pendeln-zur-arbeit-1161079/) - Bei rund 4,5 Millionen an maximal vorhandenen Menschen ist das arg viel. Fängt man noch an die Rentner und Jugendliche abzuziehen ... dann passt das zum eigenen sozialen Umfeld, jeder fährt mit dem Auto/der Bahn irgendwo hin um wo anders die Arbeit zu machen, die vor Ort jemand von wo anders macht
 
