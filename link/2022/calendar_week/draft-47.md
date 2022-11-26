@@ -47,4 +47,16 @@
 * [Solltet ihr Google-Fonts nutzen, hier wird euch gezeigt, wie ihr die Schriften Datenschutzfreundlich einbindet.](https://www.kuketz-blog.de/dsgvo-abmahnwelle-google-fonts-datenschutzfreundlich-lokal-einbinden/)
 * [Natürlich, WSL unter Windows mit neuen Funktionaläten kriegt man nur über den Windows Store.](https://www.windowspro.de/news/store-wsl-ist-ga-integrierte-version-erhaelt-keine-neuerungen-mehr/05236.html) - Sicherheitstechnisch ja totaler Hirnfick, dass man Entwicklerwerkzeuge nur über Wege bekommt, die das System potentiell kompromitieren und mehr Spionagesoftware auf dem System benötigen
 * [Realitätsabgleich selbst gemachtes Leid, über eine Million Sachsen penden zur Arbeit.](https://www.sachsen-fernsehen.de/ueber-eine-million-sachsen-pendeln-zur-arbeit-1161079/) - Bei rund 4,5 Millionen an maximal vorhandenen Menschen ist das arg viel. Fängt man noch an die Rentner und Jugendliche abzuziehen ... dann passt das zum eigenen sozialen Umfeld, jeder fährt mit dem Auto/der Bahn irgendwo hin um wo anders die Arbeit zu machen, die vor Ort jemand von wo anders macht
+* [Ubuntu Touch OTA wurde in der Version 24 veröffentlicht.](https://www.phoronix.com/news/Ubuntu-Touch-OTA-24)
+* [Realitätsabgleich IKEA, wie die Deutsche Bahn mit ihrer 100 Prozent Ökostrom-Lüge.](https://netzfrauen.org/2022/11/25/ikea-3/) - Klingt etwas zu gut, ist es einfach nicht wahr. Ach und wie immer, die Ukraine hängt mit drinne
+* [Der Menchenhandel in Europa blüht.](https://netzfrauen.org/2022/11/25/europe-7/)
+* [Hanami wurde in der Version 2.0 veröffentlicht.](https://hanamirb.org/blog/2022/11/22/announcing-hanami-200/) - Danke [Onli](https://www.onli-blogging.de/2215/Linksammlung-472022.html)
+* [Mit OKSolar gibt es eine noch feiner abgestimmte Solarized-Farbpalette](https://meat.io/oksolar) - Danke [Onli](https://www.onli-blogging.de/2215/Linksammlung-472022.html)
+* [>>Die Schlackenmetall GmbH in Muldenhütten<< – neue Publikation erschienen](https://knappenverein.de/die-schlackenmetall-gmbh-in-muldenhuetten-neue-publikation-erschienen/)
+* [LibreOffice wurde in der Version 7.4.3 veröffentlicht.](https://www.planet3dnow.de/cms/67265-libreoffice-7-4-3-community/)
+* [Die Bahnstrecke Dresden-Prag wird den längsten Eisenbahntunnel Deutschlands erhalten.](https://www.sachsen-fernsehen.de/neubaustrecke-dresden-prag-mit-deutschlands-laengstem-eisenbahntunnel-1163302/)
+* [GlückAufTV >>Eröffnung des 31. Freiberger Christmarktes<<](https://www.youtube.com/watch?v=tLE7PE53HaE)
+* [flet wurde in der Version 0.2.0 veröffentlicht.](https://github.com/flet-dev/flet/releases/tag/v0.2.0)
+* [Gradle wurde in der Version 7.6 veröffentlicht.](https://github.com/gradle/gradle/releases/tag/v7.6.0)
+* [Fluent Bit wurde in der Version 2.0.6 veröffentlicht.](https://github.com/fluent/fluent-bit/releases/tag/v2.0.6)
 
