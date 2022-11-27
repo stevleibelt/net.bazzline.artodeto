@@ -59,4 +59,9 @@
 * [flet wurde in der Version 0.2.0 veröffentlicht.](https://github.com/flet-dev/flet/releases/tag/v0.2.0)
 * [Gradle wurde in der Version 7.6 veröffentlicht.](https://github.com/gradle/gradle/releases/tag/v7.6.0)
 * [Fluent Bit wurde in der Version 2.0.6 veröffentlicht.](https://github.com/fluent/fluent-bit/releases/tag/v2.0.6)
+* [Fluent Bit wurde in der Version 1.9.10 veröffentlicht.](https://github.com/fluent/fluent-bit/releases/tag/v1.9.10)
+* [webmin wurde in der Version 2.003 veröffentlicht.](https://github.com/webmin/webmin/releases/tag/2.003)
+* [PHP Carbon wurde in der VErsion 2.64.0 veröffentlicht.](https://github.com/briannesbitt/Carbon/releases/tag/2.64.0)
+* [Headscale wurde in der Version 0.17.0 veröffentlicht.](https://github.com/juanfont/headscale/releases/tag/v0.17.0)
+* [Was haben Plya, Lash Freak, Kiehls, Colgate, Babylips und weitere gemeinsam? Vergewaltigung, Misshandlung und Tod auf deren Palmenölplantagen.](https://netzfrauen.org/2022/11/26/palmoil-14/) - Profit ist alles!
 
