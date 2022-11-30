@@ -15,4 +15,14 @@
 * [Meta/Hackfressenbuch mus 265 Millionen Euro Geldbuße wegen eines Datenschutzvorfalls zahlen.](https://www.borncity.com/blog/2022/11/29/irische-dpc-verhngt-nach-datenschutzvorfall-265-millionen-euro-geldbue-gegen-meta-facebook/)
 * [ClamAV wurde in der Version 1.0 LTS veröffentlicht.](https://www.phoronix.com/news/ClamAV-1.0-LTS)
 * [OpenSC wurde in der Version 0.23.0 veröffentlicht.](https://github.com/OpenSC/OpenSC/releases/tag/0.23.0)
+* [Cryptsetup wurde in der Version 2.6 veröffentlicht.](https://www.phoronix.com/news/Cryptsetup-2.6)
+* [Firefox wurde in der Version 107.0.1 veröffentlicht.](https://www.borncity.com/blog/2022/11/30/firefox-107-0-1-freigegeben/)
+* [Ab dem 01.12.2022 sind Betrugsanrufe mit gefälschter Rufnummer illegal.](https://www.borncity.com/blog/2022/11/30/ab-morgen-1-dez-2022-gilt-der-spoofing-schutz-bei-telefonaten/)
+* [Auch Volkswagen scheint Betriebsräte nicht zu mögen.](https://www.sachsen-fernsehen.de/gericht-erklaert-vw-betriebsratswahl-in-zwickau-fuer-unwirksam-1166551/) - Und das als teilweise verstaatlichtes Unternehmen
+* [Wie funktioniert `pt-archive` eigentlich? Hier wird er euch erklärt.](https://www.percona.com/blog/mysql-data-archival-with-minimal-disruption/)
+* [dolibarr wurde in der Version 16.0.3 veröffentlicht.](https://github.com/Dolibarr/dolibarr/releases/tag/16.0.3)
+* [Jellyfin wurde in der Version 10.8.8 veröffentlicht.](https://github.com/jellyfin/jellyfin/releases/tag/v10.8.8)
+* [nushell wurde in der Version 0.72.0 veröffentlicht.](https://github.com/nushell/nushell/releases/tag/0.72.0)
+* [davx5-ose wurde in der Version 4.2.5 veröffentlicht.](https://github.com/bitfireAT/davx5-ose/releases/tag/v4.2.5-ose)
+* [HeroicGamesLauncher wurde in der Version 2.5.0 veröffentlicht.](https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher/releases/tag/v2.5.0)
 
