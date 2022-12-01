@@ -25,4 +25,22 @@
 * [nushell wurde in der Version 0.72.0 veröffentlicht.](https://github.com/nushell/nushell/releases/tag/0.72.0)
 * [davx5-ose wurde in der Version 4.2.5 veröffentlicht.](https://github.com/bitfireAT/davx5-ose/releases/tag/v4.2.5-ose)
 * [HeroicGamesLauncher wurde in der Version 2.5.0 veröffentlicht.](https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher/releases/tag/v2.5.0)
+* [Realitätsabgleich Gesundheitssystem privatisieren? Schaut mal wie das in Spanien umgesetzt wird.](https://www.youtube.com/watch?v=YCvLk_Gobnk)
+* [Bayern will, völlig freiwillig für den Mitarbeiter, die 10 Stunden Grenzen kippen.](https://blog.fefe.de/?ts=9d79fb0b) - Wegen der Work-Life-Balance und so ... müsst ihr verstehen, ist ja auch Krieg gerade und so
+* [Ping unter FreeBSD ist kaputt.](https://blog.fefe.de/?ts=9d79f754)
+* [Tagunsordnungspunkte die für 99 Prozent der Bevölkerung gut sind, legt man im Berlin prinzipiell in die Nachtruhe.](https://blog.fefe.de/?ts=9d79e807) - Nicht dass da noch eine Mehrheit zu stande kommt deren Abstimmung gezählt werden muss!
+* [Verhandelt Oli hier noch, oder hat Katar bereits ein Blankscheck für seine Dienste angeboten?](https://www.sonnenseite.com/de/politik/auch-fuer-scholz-fracking-ergibt-wenig-sinn/) - Wasserstandsmeldung vom 30.11.2022, noch ist Oli gegen das Fracking in Deutschland
+* [Linux 6.2 bringt wohl ein generisches Subsystem für Beschleuniger mit.](https://www.phoronix.com/news/Linux-6.2-Compute-Next)
+* [openITCOCKPIT wurde in der Version 4.5.4 veröffentlicht.](https://github.com/it-novum/openITCOCKPIT/releases/tag/openITCOCKPIT-4.5.4)
+* [Es gibt die >>Stiftung Wald für Sachsen<<.](https://mehr-wald-fuer-sachsen.de/) - Ziel ist es, dass durch die Stiftung Bäumge gepflanzt und fünf Jahre gepflegt werden. Mit 5 Euro ist man dabei!
+* [Genode wurde in der Version 22.11 veröffentlicht.](https://github.com/genodelabs/genode/releases/tag/22.11)
+* [DBConvert Streams wurde in der Version 0.5.0 veröffentlicht.](https://www.postgresql.org/about/news/dbconvert-streams-v050-released-2552)
+* [Richtige Frage, warum soll die Strompreisbremse von den regenerativen Energieträgern mit bezahlt werden?](https://www.sonnenseite.com/de/politik/strompreisbremse-nicht-aus-solarumsaetzen-finanzieren/)
+* [JT Energy Systems baut in Freiberg den bisher größten Energiespeicher Sachsens.](https://www.mdr.de/video/mdr-videos/a/video-677376.html)
+* [You've gotta fight, for your right, to repair!](https://netzpolitik.org/2022/oekodesign-richtlinie-lebensverlaengernde-massnahmen-fuer-handys-und-tablets/)
+* [PHP 8.0 wird nicht mehr unterstützt.](https://www.percona.com/blog/php-8-0-reaches-end-of-life/)
+* [Staatstrojaner und Überwachung der Bevölkerung? Wenn zwei politische Blöcke schweigen, lässt das in Spanien ganz tief blicken.](https://netzpolitik.org/2022/untersuchungsauschuss-zu-pegasus-skandal-spanien-wird-zum-problemfall-fuer-das-eu-parlament/)
+* [Uberspace sucht einen C/C++/Rust Freelancer.](https://blog.uberspace.de/freelance-job-c-cpp-rust/)
+* [HIS wurde in der Version 2022.12 veröffentlicht.](https://www.his.de/hislive/release-202212)
+* [Hier gibt es kostenfrei ein "Lerne JavaScript 6"-Buch](https://opensource.com/article/22/12/learn-javascript-2023)
 
