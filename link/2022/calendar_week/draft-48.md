@@ -43,4 +43,25 @@
 * [Uberspace sucht einen C/C++/Rust Freelancer.](https://blog.uberspace.de/freelance-job-c-cpp-rust/)
 * [HIS wurde in der Version 2022.12 veröffentlicht.](https://www.his.de/hislive/release-202212)
 * [Hier gibt es kostenfrei ein "Lerne JavaScript 6"-Buch](https://opensource.com/article/22/12/learn-javascript-2023)
+* [Der Weltladen in Freiberg feiert sein 10-jähriges Bestehen.](http://freibergeragenda21.de/baumpflanzung-10-geburtstag-fairkauf-ladencafe-freiberg/) - Herzlichen Glückwunsch, ihr verwirklicher dieses Kleinods in Freiberg!
+* [NixOS wurde in der Version 22.11 veröffentlicht.](https://www.phoronix.com/news/NixOS-22.11-Released)
+* [Ach schau, mit einem Plattform-Signierungs-Schlüssel wird gerade wunderbar MaleWare unter Android signiert.](https://blog.fefe.de/?ts=9d77f2b4) - Durch die valide Signatur denkt dann jedes Stück Software "1a Qualitätssoftware die ich da installiere, die überprüfe ich nicht weiter!"
+* [Wow, "Ich hab recht" hat bekannt gegeben, dass Sie ihr Android jetzt auf RUST bauen wollen.](https://blog.fefe.de/?ts=9d77d8af)
+* [Schönes Beispiel warum die Digitalisierung in Europa so läuft, wie sie läuft.](https://blog.fefe.de/?ts=9d77cbd5) - Da werden Unsummen für Werbung und Vetternwirtschaft ausgegeben, nur dass die wirkliche Arbeit bei einer Halbtagsstelle landet
+* [Wenn auf der Wikipedia schon über die all jährlichen Dark-Pattern-Bettelbanner diskutiert wird, sollte sich die Wikipedia langsam mal fragen ob das so taugt.](https://blog.fefe.de/?ts=9d762f88)
+* [>>Alles Schönwetter-Kapitalismus. Läuft super, solange der Wachstum das Verkacken auffängt.<<](https://blog.fefe.de/?ts=9d76148c)
+* [Gregor Gysi hat dann mal im Amtsgericht Tiergarten einen Klimaaktivisten verteidigt.](https://blog.fefe.de/?ts=9d76003a)
+* [Lastpass ist so sicher, selbst nach einem Einbruch ändern die Admins die Passwörter nicht.](https://blog.fefe.de/?ts=9d76537c)
+* [Nein? Doch! Oh? Alle erhöhen die Gas- und Strompreise weil es durch die Decklung der Preise einen Mitnahmeeffekt gibt.](https://blog.fefe.de/?ts=9d764ca3) - Das können nur die Five Eyes herausgefunden haben, das CIA alleine schafft das nicht mehr!
+* [Redis ist kaputt.](https://www.bleepingcomputer.com/news/security/unpatched-redis-servers-targeted-in-new-redigo-malware-attacks/)
+* [Realitätsabgleich Patente](https://netzfrauen.org/2022/12/01/patent-2/)
+* [Dank einer kaputten Hyndai-App, können Fremde jetzt Autos öffnen und starten.](https://www.bleepingcomputer.com/news/security/hyundai-app-bugs-allowed-hackers-to-remotely-unlock-start-cars/) - Wer haftet denn jetzt dafür?
+* [Nach OKSolar, wurde mir jetzt selenized als Zenburn-Nachfolger empfohlen.](https://github.com/jan-warchol/selenized/)
+* [Portier-Broker wurde in der Version 0.7.1 veröffentlicht.](https://github.com/portier/portier-broker/releases/tag/v0.7.1)
+* [archzfs iso wurde in der Version 2022-12-01T22:22:51 veröffentlicht.](https://archzfs.leibelt.de/)
+* [Thunderbird wurde in der Version 102.5.1 veröffentlicht.](https://www.borncity.com/blog/2022/12/02/thunderbird-102-5-1-freigegeben/)
+* [GeneratedHydrator wurde in der Version 4.5.0 veröffentlicht.](https://github.com/Ocramius/GeneratedHydrator/releases/tag/4.5.0)
+* [Selenium wurde in der Version 4.7.0 veröffentlicht.](https://github.com/SeleniumHQ/selenium/releases/tag/selenium-4.7.0)
+* [OpenZFS wurde in der Version 2.1.7 veröffentlicht.](https://github.com/openzfs/zfs/releases/tag/zfs-2.1.7)
+* [rqlite wurde in der Version 7.12.0 veröffentlicht.](https://github.com/rqlite/rqlite/releases/tag/v7.12.0)
 
