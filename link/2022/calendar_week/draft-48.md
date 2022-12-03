@@ -64,4 +64,18 @@
 * [Selenium wurde in der Version 4.7.0 veröffentlicht.](https://github.com/SeleniumHQ/selenium/releases/tag/selenium-4.7.0)
 * [OpenZFS wurde in der Version 2.1.7 veröffentlicht.](https://github.com/openzfs/zfs/releases/tag/zfs-2.1.7)
 * [rqlite wurde in der Version 7.12.0 veröffentlicht.](https://github.com/rqlite/rqlite/releases/tag/v7.12.0)
+* [Microsofts Asia-Cloud ist kaputt.](https://blog.fefe.de/?ts=9d773298)
+* [Bose ruht sich ein weiteres Jahrzehnt auf ihrer Technik aus den 80-zigern aus, demnächst gibt es die Standardfunktionalitäten nur mit monatlichem Abo.](https://blog.fefe.de/?ts=9d773078)
+* [John Young fragt mal die USA an, warum er, als Bürger der USA und mit genug Geld sich zu verteidigen, nicht auch so illega verfolgt und festgehalten wird, wie Julian Assange.](https://blog.fefe.de/?ts=9d74e840)
+* [Kaputte Intelhardware hat mal wieder Auswirkungen auf die ganze Welt](https://www.phoronix.com/news/Linux-6.0.11-Released)
+* [Nach Kinder nun die Klimakativisten, WEGEN DEN BRAUCHEN WIR DIE ANSTANDSLOSE VORRATSDATENSPEICHERUNG!!!!!!](https://netzpolitik.org/2022/innenministerkonferenz-fuer-die-vorratsdatenspeicherung-gegen-radikale-klima-aktivistinnen/)
+* [Mit Liquidbase könnt ihr Schema-Änderungen eurer MySQL/MariaDB verfolgen und deployen.](https://www.percona.com/blog/using-liquibase-as-a-solution-for-deploying-and-tracking-mysql-schema-changes/)
+* [Zabbix im HA? Geht mit zwei Zeilen in der Konfigurationsdatei :-)](https://blog.zabbix.com/whats-up-home-no-more-blackouts-with-zabbix-ha-cluster/24738/)
+* [pappl wurde in der Version 1.3.0 veröffentlicht.](https://github.com/michaelrsweet/pappl/releases/tag/v1.3.0)
+* [phpqa wurde in der Version 1.79.4 veröffentlicht.](https://github.com/jakzal/phpqa/releases/tag/v1.79.4)
+* [okd wurde in der Version 4.11.0-0 veröffentlicht.](https://github.com/okd-project/okd/releases/tag/4.11.0-0.okd-2022-12-02-145640)
+* [SAP und Telekom? Die wollen auch gern angezündet werden. Zum Betrieb der Corona-WarnApp (Ein paar Server hier und da) sollen die Kosten für 2022 von 50 auf 73 Millionen gestiegen sein.](https://blog.fefe.de/?ts=9d75ae05) - Hackts?
+* [Wird die KI wirklich immer Besser? Nein, wir als Menschen haben das Niveau so sinken lassen, dass die Maschinen genug niedriges Niveau zum "lernen" haben.](https://blog.fefe.de/?ts=9d7440b5)
+* [Die SMS ist am 03.12.2022 30 Jahre alt geworden.](https://www.borncity.com/blog/2022/12/03/3-dezember-30-jahre-sms/)
+* [GlückAufTV: Stollenanschnitt auf dem CHristmarkt in Freiberg](https://www.youtube.com/watch?v=UtPWodf1ycU)
 
