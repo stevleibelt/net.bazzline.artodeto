@@ -78,4 +78,7 @@
 * [Wird die KI wirklich immer Besser? Nein, wir als Menschen haben das Niveau so sinken lassen, dass die Maschinen genug niedriges Niveau zum "lernen" haben.](https://blog.fefe.de/?ts=9d7440b5)
 * [Die SMS ist am 03.12.2022 30 Jahre alt geworden.](https://www.borncity.com/blog/2022/12/03/3-dezember-30-jahre-sms/)
 * [GlückAufTV: Stollenanschnitt auf dem CHristmarkt in Freiberg](https://www.youtube.com/watch?v=UtPWodf1ycU)
+* [Im Zeichen des Ukrainekonflikts sehr spannend, auf einmal fordert die USA Deutschland mit einem Handelskrieg über regenerative Energiequellen heraus.](https://www.sonnenseite.com/de/franz-alt/kommentare-interviews/droht-ein-handelskrieg-wegen-der-oeko-politik-der-usa/) - Dabei sagen uns doch die Leitmedien immer, dass die USA die einzig wahren Freunde sind
+* [>>Die Mehrwertsteuer-Befreiung gilt bereits bei Bestellungen noch in diesem Jahr, sofern die Anlage im nächsten Jahr in Betrieb geht.<<](https://www.sonnenseite.com/de/politik/weniger-steuern-mehr-solarstrom/)
+* [Was ändert sich 2023 bei den erneuerbaren Energien?](https://www.sonnenseite.com/de/tipps/mehr-entlastungen-mehr-solar-foerderung-mehr-umweltschutz/)
 
