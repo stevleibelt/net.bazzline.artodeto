@@ -1,4 +1,11 @@
 * [Sophia Script for Windows wurde in der Version 04.12.2022 veröffentlicht.](https://github.com/farag2/Sophia-Script-for-Windows/releases/tag/6.2.4)
 * [pgAdmin 4 wurde in der Version 6.17 veröffentlicht.](https://www.postgresql.org/about/news/pgadmin-4-v617-released-2553/)
 * [Apache IoTDB wurde in der Version 1.0 veröffentlicht.](https://www.phoronix.com/news/Apache-IoTDB-1.0-Released)
+* [OpenIndiana wurde in der Version 2022.10 veröffentlicht.](https://www.phoronix.com/news/OpenIndiana-Hipster-2022.10)
+* [Rector wurde in der Version 0.15 veröffentlicht.](https://github.com/rectorphp/rector/releases/tag/0.15.0)
+* [tacticalrmm wurde in der Version 0.15.4 veröffentlicht.](https://github.com/amidaware/tacticalrmm/releases/tag/v0.15.4)
+* [RatOS ist ein vorkonfiguriertes Betriebssystem um auf einem Raspberry Pi schnell und einfach Klipper, Mainsail und Moonraker laufen zu haben.](https://github.com/Rat-OS/RatOS)
+* [Samsung kann, wie google, nicht mit digitalen Schlüsseln umgehen.](https://blog.fefe.de/?ts=9d721a02)
+* [Frankreich verbietet Inlandsflüge die mant mit einer 2,5 Stunden Bahnfahrt umsetzen kann.](https://blog.fefe.de/?ts=9d725af7)
+* [Karrieremesse ORTE findet am 12.01.2023 in Freiberg statt.](https://tu-freiberg.de/presse/follow-your-dreams-karrieremesse-orte-am-12-januar-2023)
 
