@@ -8,4 +8,19 @@
 * [Samsung kann, wie google, nicht mit digitalen Schlüsseln umgehen.](https://blog.fefe.de/?ts=9d721a02)
 * [Frankreich verbietet Inlandsflüge die mant mit einer 2,5 Stunden Bahnfahrt umsetzen kann.](https://blog.fefe.de/?ts=9d725af7)
 * [Karrieremesse ORTE findet am 12.01.2023 in Freiberg statt.](https://tu-freiberg.de/presse/follow-your-dreams-karrieremesse-orte-am-12-januar-2023)
+* [Im kaspischen Meer sterben auf einmal die Robben](https://netzfrauen.org/2022/12/05/caspian-sea/) - Ob das an den vielen Bohrinseln liegt?
+* [PHPMailer wurde in der Version 6.7 veröffentlicht.](https://github.com/PHPMailer/PHPMailer/releases/tag/v6.7)
+* [mezzio wurde in der Version 3.14.0 veröffentlicht.](https://github.com/mezzio/mezzio/releases/tag/3.14.0)
+* [Metabase wurde in der Version 0.45.0 veröffentlicht.](https://github.com/metabase/metabase/releases/tag/v0.45.0)
+* [headscale wurde in der Version 0.17.1 veröffentlicht.](https://github.com/juanfont/headscale/releases/tag/v0.17.1)
+* [nushell wurde in der Version 0.72.1 veröffentlicht.](https://github.com/nushell/nushell/releases/tag/0.72.1)
+* [Scheinbar erklärt sich der systemd-oomd nicht, warum er welchen Prozess beendet hat.](https://utcc.utoronto.ca/~cks/space/blog/linux/SystemdOomdNowDisabled) - Das ist in der Tat unpraktisch, wenn man verstehen will warum gerade dieser Prozess mit `kill 9` beendet wurde
+* [Armbian wurde in der Version 22.11 veröffentlicht.](https://www.phoronix.com/news/Armbian-22.11-Released)
+* [Die RUST Umfrage 2022 wurde eröffnet.](https://blog.rust-lang.org/2022/12/05/survey-launch.html)
+* [Die EU will mal wieder eine eineindeutige ID für jeden EU-Bürger.](https://netzpolitik.org/2022/eidas-2-0-europaeische-id-wallet-fuer-das-digitale-panoptikum/) - STASI 8.0
+* [Nancy Faeser, also U-Boot der Industrie, möchte weiterhin eine anstandslose Massenüberwachhung.](https://www.patrick-breyer.de/innenministerkonferenz-fordert-anlasslose-internet-massenueberwachung/)
+* [PoCL wurde in der Version 3.1 veröffentlicht.](https://www.phoronix.com/news/PoCL-3.1-Released)
+* [Heute ist es soweit, Steinmeier besucht die Silberstadt Freiberg.](https://www.mdr.de/nachrichten/sachsen/chemnitz/freiberg/haendler-buerger-meinung-besuch-steinmeier-100.html)
+* [Was für ein Meisterwerk, hier werdet ihr in 10 Minuten, in die Linux ABI eingeführt.](https://opensource.com/article/22/12/linux-abi)
+* [Wir haben das Jahr 2022 und noch immer sind die Kinder des Norten Commanders so unglaublich nützlich. Heute, Worker als CLI-Alternative.](https://opensource.com/article/22/12/linux-file-manager-worker)
 
