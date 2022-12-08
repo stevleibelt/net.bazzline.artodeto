@@ -39,4 +39,21 @@
 * [Wenn ihr wissen wollt was es mit protectthestack.org auf sich hat, netzpolitik.org hilft (mal wieder)!](https://netzpolitik.org/2022/schutz-des-technologie-stacks-infrastrukturunternehmen-sollten-inhalte-nicht-zensieren/)
 * [Hier werden fünf tolle Funktionalitäten von Nextcloud-Talk vorgestellt.](https://nextcloud.com/blog/5-features-in-nextcloud-talk-you-didnt-know-about/)
 * [FreeBSD wurde in der Version 12.4 veröffentlicht.](https://www.phoronix.com/news/FreeBSD-12.4-Released)
+* [Halfbike bietet 20 Prozent Rabatt!](https://halfbikes.com/de/) - Kauft lieber gleich zwei, lohnt sich eh.
+* [Fwupd wurde in der Version 1.8.8 veröffentlicht.](https://github.com/fwupd/fwupd/releases/tag/1.8.8)
+* [Tor Browser wurde in der Version 12.0 veröffentlicht.](https://lwn.net/Articles/917282/)
+* [tacticalrmm wurde in der Version 0.15.5 veröffentlicht.](https://github.com/amidaware/tacticalrmm/releases/tag/v0.15.5)
+* [Jitsi-meet wurde in der Version 2.0.8138 veröffentlicht.](https://github.com/jitsi/jitsi-meet/releases/tag/stable/jitsi-meet_8138)
+* [ToolJet wurde in der Version 1.30.0 veröffentlicht.](https://github.com/ToolJet/ToolJet/releases/tag/v1.30.0)
+* [rqlite wurde in der Version 7.12.1 veröffentlicht.](https://github.com/rqlite/rqlite/releases/tag/v7.12.1)
+* [Giropay schnüffelt jetzt in eurem Einkausverhalten rum wie es Zahlkumpel macht.](https://www.kuketz-blog.de/giropay-entfernung-aus-der-empfehlungsecke/)
+* [Die Datenschützer so "Micosoft 365 ist in seiner jetzigen Form nicht Datenschutzkonfrom", die Rechtsverdreher so "Heuern Sie uns an und wir werden schon Schlupflöcher finden, damit Sie 365 weiterhin illegal nutzen können"](https://www.kuketz-blog.de/nach-dsk-bewertung-zu-ms365-rechtsberater-weiterhin-auf-kundenfang/) - Microsoft könnte seinen Dienst auch schlichtweg Datenschutzkonform machen.
+* [Schön, auch im Kernel werden Probleme mit dem Einsatz von `usleep` gelöst.](https://www.phoronix.com/news/Ryzen-5000-Laptop-Linux-6.1)
+* [Der Europäische Datenschutzausschuss hat entschieden, dass Hackfressenbuch seit 2018 illegal arbeitet.](https://netzpolitik.org/2022/fehlende-rechtsgrundlage-schwerer-schlag-fuer-metas-geschaeft-mit-daten-und-werbung/)
+* [Beim Thema KI sind sich die Blockparteien einig, Grundrechtsschutz ist hinderlich.](https://netzpolitik.org/2022/ai-act-der-europaeischen-union-ampel-verpasst-grundrechteschutz-bei-der-regulierung-kuenstlicher-intelligenz/)
+* [Die deutsche Medienaufsicht will das Internet mit KI prüfen und abmahnen.](https://netzpolitik.org/2022/ki-tool-der-medienaufsicht-wie-die-ueberwachung-in-unseren-alltag-kriecht/)
+* [Die Orientierungshilfe Telemedien wurde in der Version 2021 1.1 veröffentlicht.](https://www.saechsdsb.de/113-allgemein/690-neue-version-der-orientierungshilfe-telemedien-veroeffentlicht)
+* [Bei der Nextcloud gibt es wieder eine Anleitung wie ihr eine einfache Anwendung baut.](https://nextcloud.com/blog/learn-how-to-develop-a-simple-interface-only-app-with-nextcloud/)
+* [Hier gibt es "ein paar" Gründe, warum ihr ddev einsetzen solltet.](https://opensource.com/article/22/12/ddev)
+* [Es gibt einen Dateimanager mit dem Namen nnn.](https://opensource.com/article/22/12/linux-file-manager-nnn)
 
