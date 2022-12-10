@@ -73,4 +73,5 @@
 * [Nextcloud wurde in der Version 23.0.12 veröffentlicht.](https://github.com/nextcloud/server/releases/tag/v23.0.12)
 * [PHPMailer wurde in der Version 6.7.1 veröffentlicht.](https://github.com/PHPMailer/PHPMailer/releases/tag/v6.7.1)
 * [phpqa wurde in der Versin 1.79.5 veröffentlicht.](https://github.com/jakzal/phpqa/releases/tag/v1.79.5)
+* [>>Der Klimawandel wird uns umbringen, wenn wir nicht schnell mehr Daten sammeln!1!!<<](https://blog.fefe.de/?ts=9d6db3c1)
 
