@@ -51,4 +51,9 @@
 * [Der netzpolitik.org fehlen noch immer knapp 300k Euro.](https://netzpolitik.org/2022/notruf-in-letzter-minute-wir-brauchen-dringend-eure-unterstuetzung/) - Also wenn ihr was über habt ...
 * [Ein Freiberger baut eine Miniatur Modelleisenbahn in eurer Brillenetui.](https://www.mdr.de/video/mdr-videos/a/video-683456.html)
 * [Hier werden euch sechs Artikel über kubernetes empfohlen.](https://opensource.com/article/22/12/kubernetes-articles)
+* [Die Medienhunde wollen euch eine neue Krise ans Bein labern, Ibuprofen und Paracetamol sollen jetzt knapp sein.](https://blog.fefe.de/?ts=9d5a1662)
+* [In Europa wird eine Feuerwerksbude nach der Anderen dicht gemacht und in Indien müssen Kinder dafür arbeiten.](https://netzfrauen.org/2022/12/23/feuerwerk-2/)
+* [Rust-GPU wurde in der Version 0.4 veröffentlicht.](https://www.phoronix.com/news/Rust-GPU-0.4)
+* [Fluent Bit wurde in der Version 2.0.8 veröffentlicht.](https://github.com/fluent/fluent-bit/releases/tag/v2.0.8)
+* [Storageless wurde in der Version 8.13.0 veröffentlicht.](https://github.com/psr7-sessions/storageless/releases/tag/8.13.0)
 
