@@ -56,4 +56,6 @@
 * [Rust-GPU wurde in der Version 0.4 veröffentlicht.](https://www.phoronix.com/news/Rust-GPU-0.4)
 * [Fluent Bit wurde in der Version 2.0.8 veröffentlicht.](https://github.com/fluent/fluent-bit/releases/tag/v2.0.8)
 * [Storageless wurde in der Version 8.13.0 veröffentlicht.](https://github.com/psr7-sessions/storageless/releases/tag/8.13.0)
+* [phpseclib wurde in der Version 2.0.41 veröffentlicht.](https://github.com/phpseclib/phpseclib/releases/tag/2.0.41)
+* [portier-broker wurde in der Version 0.7.2 veröffentlicht.](https://github.com/portier/portier-broker/releases/tag/v0.7.2)
 
