@@ -58,4 +58,9 @@
 * [Storageless wurde in der Version 8.13.0 veröffentlicht.](https://github.com/psr7-sessions/storageless/releases/tag/8.13.0)
 * [phpseclib wurde in der Version 2.0.41 veröffentlicht.](https://github.com/phpseclib/phpseclib/releases/tag/2.0.41)
 * [portier-broker wurde in der Version 0.7.2 veröffentlicht.](https://github.com/portier/portier-broker/releases/tag/v0.7.2)
+* [mold wurde in der Version 1.8.0 veröffentlicht.](https://github.com/rui314/mold/releases/tag/v1.8.0)
+* [Das Fabmobil kommt vom 27.12.2022 bis 30.12.2022 nach Freiberg.](https://pi-haus.de/das-fab-mobil-kommt-nach-freiberg/) - Eine Ameldung erfolgt am besten per E-Mail an [jugendarbeit@pi-haus.de](https://www.radioerzgebirge.de/beitrag/freiberg-fabmobil-will-fuer-zukunftstechnik-begeistern-752683/)
+* [Rector wurde in der Version 0.15.2 veröffentlicht.](https://github.com/rectorphp/rector/releases/tag/0.15.2)
+* [Firefly-III wurde in der Version 5.7.16 veröffentlicht.](https://github.com/firefly-iii/firefly-iii/releases/tag/5.7.16)
+* [sway wurde in der Version 1.8 veröffentlicht.](https://github.com/swaywm/sway/releases/tag/1.8)
 
