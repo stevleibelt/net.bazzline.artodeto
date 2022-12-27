@@ -145,6 +145,9 @@ function _main ()
       else
           NEXT_CALENDAR_WEEK=$(calc ${CURRENT_CALENDAR_WEEK}+1)
       fi
+    else
+      #we have to calculate current calendar week based on user input
+      CURRENT_CALENDAR_WEEK=$(calc ${NEXT_CALENDAR_WEEK}-1)
     fi
 
     ABSOLUTE_PATH_OF_THE_ROOT="${ABSOLUTE_PATH_OF_THIS_SCRIPT}/.."
