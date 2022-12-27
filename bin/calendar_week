@@ -7,7 +7,7 @@
 ####
 
 ####
-# @NUMBER: int
+# @param <int: NUMBER>
 ####
 function add_zero_if_number_is_less_then_ten
 {
@@ -22,7 +22,7 @@ function add_zero_if_number_is_less_then_ten
 }
 
 ####
-# @FILE_NAME_OF_THE_NEXT_CALENDAR_WEEK: string
+# @param <string: FILE_NAME_OF_THE_NEXT_CALENDAR_WEEK>
 ####
 function create_next_calendar_week
 {
@@ -47,9 +47,9 @@ function create_next_calendar_week
 }
 
 ####
-# @ABSOLUTE_PATH_TO_THE_CURRENT_CALENDAR_WEEK_YEAR: string
-# @FILE_NAME_OF_THE_CURRENT_CALENDAR_WEEK_DRAFT: string
-# @FILE_NAME_OF_THE_CURRENT_CALENDAR_WEEK: string
+# @param <string: ABSOLUTE_PATH_TO_THE_CURRENT_CALENDAR_WEEK_YEAR>
+# @param <string: FILE_NAME_OF_THE_CURRENT_CALENDAR_WEEK_DRAFT>
+# @param <string: FILE_NAME_OF_THE_CURRENT_CALENDAR_WEEK>
 ####
 function release_current_calendar_week
 {
@@ -88,8 +88,8 @@ function release_current_calendar_week
 }
 
 ####
-# @FILE_NAME_OF_THE_CURRENT_SOFT_LINK: string
-# @RELATIVE_PATH_TO_THE_NEXT_CALENDAR_WEEK: string
+# @param <string: FILE_NAME_OF_THE_CURRENT_SOFT_LINK>
+# @param <string: RELATIVE_PATH_TO_THE_NEXT_CALENDAR_WEEK>
 ####
 function updating_soft_link
 {
@@ -122,21 +122,29 @@ function updating_soft_link
     echo "   done."
 }
 
+####
+# [@param <string: next_calendar_week>] - default is next based on current calender week
+####
 function _main ()
 {
     #begin of dependencies
+    ABSOLUTE_PATH_OF_THIS_SCRIPT=$(cd $(dirname "$0"); pwd)
     CURRENT_CALENDAR_WEEK=$(date +%V)
     CURRENT_WORKING_DIRECTORY=$(pwd)
     CURRENT_YEAR=$(date +%Y)
     FILE_NAME_OF_THE_CURRENT_SOFT_LINK="current_calendar_week"
-    ABSOLUTE_PATH_OF_THIS_SCRIPT=$(cd $(dirname "$0"); pwd)
+    NEXT_CALENDAR_WEEK="${1:-0}"
 
-    #check if current calendar week starts with 0
-    if [[ ${CURRENT_CALENDAR_WEEK:0:1} -eq 0 ]];
+    #calculate next calendar week of non is provided
+    if [[ ${NEXT_CALENDAR_WEEK -eq 0} ]];
     then
-        NEXT_CALENDAR_WEEK=$(calc ${CURRENT_CALENDAR_WEEK:1:1}+1)
-    else
-        NEXT_CALENDAR_WEEK=$(calc ${CURRENT_CALENDAR_WEEK}+1)
+      #check if current calendar week starts with 0
+      if [[ ${CURRENT_CALENDAR_WEEK:0:1} -eq 0 ]];
+      then
+          NEXT_CALENDAR_WEEK=$(calc ${CURRENT_CALENDAR_WEEK:1:1}+1)
+      else
+          NEXT_CALENDAR_WEEK=$(calc ${CURRENT_CALENDAR_WEEK}+1)
+      fi
     fi
 
     ABSOLUTE_PATH_OF_THE_ROOT="${ABSOLUTE_PATH_OF_THIS_SCRIPT}/.."
@@ -210,4 +218,4 @@ function _main ()
     #done
 }
 
-_main
+_main ${@]
