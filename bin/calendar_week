@@ -136,7 +136,7 @@ function _main ()
     NEXT_CALENDAR_WEEK="${1:-0}"
 
     #calculate next calendar week of non is provided
-    if [[ ${NEXT_CALENDAR_WEEK -eq 0} ]];
+    if [[ ${NEXT_CALENDAR_WEEK} -eq 0 ]];
     then
       #check if current calendar week starts with 0
       if [[ ${CURRENT_CALENDAR_WEEK:0:1} -eq 0 ]];
