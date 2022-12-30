@@ -11,4 +11,5 @@
 * [Sicherheit für'n Arsch, der CCC hat ein Biometrie-Gerät des US-Militärs ersteigert und hat dadurch eine Datenbank voller biometrischer Daten aus Afghanistan in der Hand.](https://www.borncity.com/blog/2022/12/28/chaos-computer-club-ersteigert-biometrie-gerte-des-us-militrs-mit-biometrischer-datenbank-aus-afghanistan/)
 * [Hier wird euc noch einmal gezeigt wie man gute git commits schreibt.](https://opensource.com/article/22/12/git-commit-message)
 * [Linux Mint wurde in der Version 21.1 veröffentlicht.](https://www.borncity.com/blog/2022/12/26/linux-mint-21-1/)
+* [firefly-iii wurde in der Version 5.7.17 veröffentlicht.](https://github.com/firefly-iii/firefly-iii/releases/tag/5.7.17)
 
