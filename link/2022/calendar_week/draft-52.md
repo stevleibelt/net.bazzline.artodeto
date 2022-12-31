@@ -12,4 +12,7 @@
 * [Hier wird euc noch einmal gezeigt wie man gute git commits schreibt.](https://opensource.com/article/22/12/git-commit-message)
 * [Linux Mint wurde in der Version 21.1 veröffentlicht.](https://www.borncity.com/blog/2022/12/26/linux-mint-21-1/)
 * [firefly-iii wurde in der Version 5.7.17 veröffentlicht.](https://github.com/firefly-iii/firefly-iii/releases/tag/5.7.17)
+* [Pappl wurde in der Version 1.3.1 veröffentlicht.](https://github.com/michaelrsweet/pappl/releases/tag/v1.3.1)
+* [Strawberry wurde in der Version 1.0.11 veröffentlicht.](https://github.com/strawberrymusicplayer/strawberry/releases/tag/1.0.11)
+* [Freunde des Lichts, netzpolitik fehlen noch 97.115,00 Euro. Bewegt eure Finger und spendet!](https://netzpolitik.org/)
 
