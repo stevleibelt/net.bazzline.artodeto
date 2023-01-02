@@ -1,0 +1,10 @@
+* [phpqa wurde in der Version 1.83.2 veröffentlicht.](https://github.com/jakzal/phpqa/releases/tag/v1.83.2)
+* [Moosync wurde in der Version 7.0.0 veröffentlicht.](https://github.com/Moosync/Moosync/releases/tag/v7.0.0)
+* [ramsey / uuid wurde in der Version 4.7.1 veröffentlicht.](https://github.com/ramsey/uuid/releases/tag/4.7.1)
+* [Wie ist Deutschland so in Sachen Tierindustrie aufgebaut? Die Netzfrauen zeigen es euch.](https://netzfrauen.org/2023/01/02/agriculture-3/)
+* [Gitea wurde in der Version 1.18.0 veröffentlicht.](https://github.com/go-gitea/gitea/releases/tag/v1.18.0)
+* [Kanal 9TV: Alfred Mende - Freiberger Stadtoriginal Kalmus](https://www.youtube.com/watch?v=Sl2cbSt5PWk)
+* [Kanal 9TV: Zeitreise in die Vergangenheit Brand-Erbisdorf](https://www.youtube.com/watch?v=-x4wYJDaWj0)
+* [Kanal 9TV: Zeitreise in die Vergangenheit in Freiberg](https://www.youtube.com/watch?v=eS2N-ykVK3M)
+* [LinageOS wurde in der Version 20.0 veröffentlicht.](https://lineageos.org/Changelog-27/)
+
