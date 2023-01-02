@@ -4,7 +4,7 @@
 * [ToolJet wurde in der Version 1.31.0 veröffentlicht.](https://github.com/ToolJet/ToolJet/releases/tag/v1.31.0)
 * [colima wurde in der Version 0.5.2 veröffentlicht.](https://github.com/abiosoft/colima/releases/tag/v0.5.2)
 * [phpqa wurde in der Version 1.83.1 veröffentlicht.](https://github.com/jakzal/phpqa/releases/tag/v1.83.1)
-* [Was macht die Tabakindustrie da verrücktes? Während bei mir im Freundes- und Bekanntenkreis immer weniger rauchen, rauchen so viele Jugendliche wie noch nie.](https://blog.fefe.de/?ts=9d534d35)
+* [Was macht die Tabakindustrie da verrücktes? Während bei mir im Freundes- und Bekanntenkreis immer weniger rauchen, rauchen so viele Jugendliche wie noch nie.](https://blog.fefe.de/?ts=9d534d35) - [Oder doch nicht](https://blog.fefe.de/?ts=9d51b5d3). Das passiert, wenn man nicht selber rechnet :-D.
 * [Nein? Doch! Oh? Fluggastdaten und die damit verbundene Massenüberwachung ist illegal.](https://netzpolitik.org/2022/urteil-zu-fluggastdaten-massenueberwachung-im-flugzeug-illegal/)
 * [Meson wurde in der Version 1.0 veröffentlicht.](https://www.phoronix.com/news/Meson-1.0-Released)
 * [Manjaro wurde in der Version 22.0 veröffentlicht.](https://www.phoronix.com/news/Manjaro-Linux-22.0)
@@ -15,4 +15,6 @@
 * [Pappl wurde in der Version 1.3.1 veröffentlicht.](https://github.com/michaelrsweet/pappl/releases/tag/v1.3.1)
 * [Strawberry wurde in der Version 1.0.11 veröffentlicht.](https://github.com/strawberrymusicplayer/strawberry/releases/tag/1.0.11)
 * [Freunde des Lichts, netzpolitik fehlen noch 97.115,00 Euro. Bewegt eure Finger und spendet!](https://netzpolitik.org/)
+* [Spiegel online so >>Ein Verzicht auf eine solche Prüfung kommt allerdings bei Texten, die ausschließlich online publiziert werden, häufig vor:<<](https://blog.fefe.de/?ts=9d4ecf9b)
+* [Wenn Konzerne Milliarden- oder Millionenverluste verspekulieren machen die das einfach steuerlich geltend.](https://blog.fefe.de/?ts=9d51d2f7) - Warum darf ich das nicht?
 
