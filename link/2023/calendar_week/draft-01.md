@@ -7,4 +7,10 @@
 * [Kanal 9TV: Zeitreise in die Vergangenheit Brand-Erbisdorf](https://www.youtube.com/watch?v=-x4wYJDaWj0)
 * [Kanal 9TV: Zeitreise in die Vergangenheit in Freiberg](https://www.youtube.com/watch?v=eS2N-ykVK3M)
 * [LinageOS wurde in der Version 20.0 veröffentlicht.](https://lineageos.org/Changelog-27/)
+* [phpstan wurde in der Version 1.9.5 veröffentlicht.](https://github.com/phpstan/phpstan/releases/tag/1.9.5)
+* [grav wurde in der Version 1.7.38 veröffentlicht.](https://github.com/getgrav/grav/releases/tag/1.7.38)
+* [firefly-iii wurde in der Version 5.7.18 veröffentlicht.](https://github.com/firefly-iii/firefly-iii/releases/tag/5.7.18)
+* [Da schau an, die Verteidigungsministerin hat während des Krieges ganz tolle Eindrücke sammeln können.](https://blog.fefe.de/?ts=9d4dfcfe)
+* [Leider typisch, Bundesländer und Firmen nutzen Matrix als Krypto-Messenger, sehen es aber nicht ein auch nur einen Eurocent für den Bestand oder die Weiterentwicklung zu spenden/bezahlen.](https://netzpolitik.org/2023/matrix-open-source-wachstum-in-geldnot/)
+* [Auch Debian entfernt Python 2.7 aus seiner Paketverwaltung.](https://utcc.utoronto.ca/~cks/space/blog/python/DebianNoMorePython2)
 
