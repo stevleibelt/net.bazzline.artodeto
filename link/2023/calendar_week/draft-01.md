@@ -13,4 +13,12 @@
 * [Da schau an, die Verteidigungsministerin hat während des Krieges ganz tolle Eindrücke sammeln können.](https://blog.fefe.de/?ts=9d4dfcfe)
 * [Leider typisch, Bundesländer und Firmen nutzen Matrix als Krypto-Messenger, sehen es aber nicht ein auch nur einen Eurocent für den Bestand oder die Weiterentwicklung zu spenden/bezahlen.](https://netzpolitik.org/2023/matrix-open-source-wachstum-in-geldnot/)
 * [Auch Debian entfernt Python 2.7 aus seiner Paketverwaltung.](https://utcc.utoronto.ca/~cks/space/blog/python/DebianNoMorePython2)
+* [Über 60.000 Exchange-Server sind auf der Welt kaputt.](https://www.bleepingcomputer.com/news/security/over-60-000-exchange-servers-vulnerable-to-proxynotshell-attacks/) - Und wegen Microsofts unglaublich schlechter Update- und Lizenzpolitik wird das auch so bleiben. Verantwortung über eigene Fehler/Sicherheitslücken übernehmen? Das können doch andere! Zumal Microsoft alle in ihr Abo-Model/Cloud-Gefängnis haben möchte.
+* [Noch einmal Microsoft: >>Das bedeutet, dass man ab Oktober 2023 Probleme erwarten kann, wenn Microsoft Office 2016 und Microsoft Office 2019 im Einsatz sind [...]<<.](https://www.borncity.com/blog/2023/01/03/microsoft-office-end-of-live-termine-und-funktionsnderungen-2023/) - Was bietet der Konzern als Alternative an? Ihr Abo-Model/die Cloud.
+* [DragonFlyBSD wurde in der Version 6.4 veröffentlicht.](https://www.phoronix.com/news/DragonFlyBSD-6.4-Released)
+* [BusyBox wurde in der Version 1.36 veröffentlicht.](https://www.phoronix.com/news/BusyBox-1.36-Released)
+* [flet wurde in der Version 0.3.2 veröffentlicht.](https://github.com/flet-dev/flet/releases/tag/v0.3.2)
+* [finamp wurde in der Version 0.6.10 veröffentlicht.](https://github.com/jmshrv/finamp/releases/tag/0.6.10)
+* [phpstan wurde in der Version 1.9.6 veröffentlicht.](https://github.com/phpstan/phpstan/releases/tag/1.9.6)
+* [fwupd wurde in der Version 1.8.9 veröffentlicht.](https://github.com/fwupd/fwupd/releases/tag/1.8.9)
 
