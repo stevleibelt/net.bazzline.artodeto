@@ -21,4 +21,15 @@
 * [finamp wurde in der Version 0.6.10 veröffentlicht.](https://github.com/jmshrv/finamp/releases/tag/0.6.10)
 * [phpstan wurde in der Version 1.9.6 veröffentlicht.](https://github.com/phpstan/phpstan/releases/tag/1.9.6)
 * [fwupd wurde in der Version 1.8.9 veröffentlicht.](https://github.com/fwupd/fwupd/releases/tag/1.8.9)
+* [Exchange Reporter wurde in der Version 3.12 veröffentlicht.](https://www.borncity.com/blog/2023/01/04/exchange-reporter-3-12-freigegeben/)
+* [Der Abstieg der Suchmaschinen schreitet weiter voran. Bing will jetzt ChatGPT nutzen.](https://www.borncity.com/blog/2023/01/04/bericht-microsoft-plant-bing-bis-mrz-2023-mit-chatgpt-suche-zu-erweitern/) - Bullshit in, Bullshit out. Mehr ist es leider nicht.
+* [phpstan wurde in der Version 1.9.7 veröffentlicht.](https://github.com/phpstan/phpstan/releases/tag/1.9.7)
+* [Hier gibt es einen tollen Artikel inklusive freier Software zum Thema "Retro Computing" und "maschinennaher Programmierung".](https://opensource.com/article/23/1/learn-machine-language-retro-computer)
+* [Sehr gut! Es wurde eine Verfassungsbeschwerde gegen die Einschränkung der Versammlungsfreiheit eingereicht.](https://netzpolitik.org/2023/versammlungsgesetz-nrw-verfassungsbeschwerde-gegen-einschraenkung-der-versammlungsfreiheit-eingereicht/)
+* [Ihr wolltet euch schon immer einmal mit dem MySQL Performance Schema beschäftigen? Percona hilft!](https://www.percona.com/blog/deep-dive-into-mysqls-performance-schema/)
+* [Mit pt-duplicate-key-check aus dem Percona Toolkit könnt ihr doppelte Indizes finden ... und noch mehr.](https://www.percona.com/blog/duplicate-redundant-and-invisible-indexes/)
+* [Das Parlament führt Gesichts- und Venenscanner ein.](https://netzpolitik.org/2023/biometrie-parlament-in-oesterreich-fuehrt-gesichts-und-venenscanner-ein/) - Wie überall wird hier eine Einführung im Salamimodel durchgeführt. Die totale Überwachung wird über eine "Fast-Lane" durchgeführt. Also wie beim Flughafen, ihr könnt euch in der langen Schlange anstellen wo es nur wenig Personal gibt welches besonders schroff und genau sein soll, oder "einfach" sich durchleuchten lassen und seine Daten abgeben.
+* [Lighttpd wurde in der Version 1.4.68 veröffentlicht.](https://www.phoronix.com/news/Lighttpd-1.4.68)
+* [Ich hab erst heute tokio von Rust entdeckt. Das sieht ja aus wie die Eierlegendewollmilchsau.](https://github.com/tokio-rs/tokio)
+* [Ich verstehe es nicht ganz, aber finde es toll, dass es in Linux direkt gibt. Hier gibt es einen Beispiel vom Linux audit framework. Grund, der Administrator möchte herausfinden wer noch python 2.7 nutzt.](https://utcc.utoronto.ca/~cks/space/blog/linux/FindingPython2UsesWithAudit)
 
