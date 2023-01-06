@@ -32,4 +32,21 @@
 * [Lighttpd wurde in der Version 1.4.68 veröffentlicht.](https://www.phoronix.com/news/Lighttpd-1.4.68)
 * [Ich hab erst heute tokio von Rust entdeckt. Das sieht ja aus wie die Eierlegendewollmilchsau.](https://github.com/tokio-rs/tokio)
 * [Ich verstehe es nicht ganz, aber finde es toll, dass es in Linux direkt gibt. Hier gibt es einen Beispiel vom Linux audit framework. Grund, der Administrator möchte herausfinden wer noch python 2.7 nutzt.](https://utcc.utoronto.ca/~cks/space/blog/linux/FindingPython2UsesWithAudit)
+* [Schönes video von Herrn Rieck, Spaß gehört auch in die vollständige Betrachtung der Rationalität.](https://www.youtube.com/watch?v=tU_bbXM8uqo) - Sprich, auch Spaß haben wollen ist vernünftig.
+* [Die Anstalt liefert, Realitätsabgleich zum Thema Behindertenwerkstatt.](https://www.youtube.com/watch?v=tN8yuu-mCjE) - Ausbeutung und Abzocke und alles legal ... Stundenlohn von unter 2 Euro, Produktion für die Automobil- und Rüstungsindustrie und das für mehr als 300.000 "arbeitnehmerähnliche Personen".
+* [Der Akku Doktor hat tolle Rechner zu den Themen PVTools, Lithium Battery Lebenszyklus und Luft-Wasser-Wärmepumpe](https://www.akkudoktor.net/)
+* [Realitätsabgleich Youtube-Star. Mit 500 Euro müsst ihr überleben können, wenn ihr rund 80.000 Abonnenten habt.](https://youtu.be/Z7F9GfK-x18?t=855) - Danke "Der Fachwerker" für diese Transparenz.
+* [Bei Arte gibt es 23 Minuten die euch zeigen, warum uns der technische Fortschritt im Alltag stresst.](https://www.youtube.com/watch?v=dkYJ-9uKieE)
+* [tokio wurde in der Version 1.24.0 veröffentlicht.](https://github.com/tokio-rs/tokio/releases/tag/tokio-1.24.0)
+* [yay wurde in der Version 11.3.2 veröffentlicht.](https://github.com/Jguer/yay/releases/tag/v11.3.2)
+* [phpqa wurde in der Version 1.83.3 veröffentlicht.](https://github.com/jakzal/phpqa/releases/tag/v1.83.3)
+* [openITCOCKPIT wurde in der Version 4.5.5 veröffentlicht.](https://github.com/it-novum/openITCOCKPIT/releases/tag/openITCOCKPIT-4.5.5)
+* [ToolJet wurde in der Version 1.31.2 veröffentlicht.](https://github.com/ToolJet/ToolJet/releases/tag/v1.31.2)
+* [psr7 session storageless wurde in der Version 8.14.0 veröffentlicht.](https://github.com/psr7-sessions/storageless/releases/tag/8.14.0)
+* [Firewalld wurde in der Version 1.3 veröffentlicht.](https://www.phoronix.com/news/Firewalld-1.3-Released)
+* [Falls ihr etwas über das Thema "Data Mesh" lesen wollt, Martin Fowler hat da etwas zusammen getragen.](https://martinfowler.com/articles/data-mesh-accelerate-workshop.html)
+* [Hier wird euch noch einmal Vacuuming für PostgreSQL erklärt.](https://www.percona.com/blog/postgresql-vacuuming-to-optimize-database-performance-and-reclaim-space/)
+* [Realitätsabgleich Erdbeeren und Kirschen im Winter](https://netzfrauen.org/2023/01/05/obst-3/)
+* [Die Auswirkungen des Covid-Impfstoffes sind noch gar nicht erkenn und messbar, da drängt die Industrie darauf, dass Säuglinge genbasierte Impfstoffe erhalten ... wegen der Luft und so.](https://impfentscheidung.online/es-ist-ein-versuch-genbasierte-impfstoffe-fuer-saeuglinge/)
+* [Realitätsabgleich Duales Wertstoffsystem und die Antwort auf die Frage "wo geht der ganze Müll eigentlich hin?"](https://netzfrauen.org/2023/01/05/africa-34/)
 
