@@ -49,4 +49,11 @@
 * [Realitätsabgleich Erdbeeren und Kirschen im Winter](https://netzfrauen.org/2023/01/05/obst-3/)
 * [Die Auswirkungen des Covid-Impfstoffes sind noch gar nicht erkenn und messbar, da drängt die Industrie darauf, dass Säuglinge genbasierte Impfstoffe erhalten ... wegen der Luft und so.](https://impfentscheidung.online/es-ist-ein-versuch-genbasierte-impfstoffe-fuer-saeuglinge/)
 * [Realitätsabgleich Duales Wertstoffsystem und die Antwort auf die Frage "wo geht der ganze Müll eigentlich hin?"](https://netzfrauen.org/2023/01/05/africa-34/)
+* [Realitätsabgleich ChatGPT und nicht triviale Probleme.](https://mjg59.dreamwidth.org/64090.html)
+* [>>Aperta-accessum is an open source OA harvester that enables institutional library's stewardship of OA knowledge on a mass scale.<<](https://opensource.com/article/23/1/aperta-accessum-open-access-library)
+* [Lenovo ThinkPad X13 sind kaputt.](https://www.borncity.com/blog/2023/01/07/thinkpad-x13s-bios-update-schliet-schwachstellen/)
+* [Die AFD gibt eine Stimme "im Osten" ab und es ist Media ein Dammbruch. Die AFD gibt "im Westen" eine Stimme ab und nichts passiert.](https://tuxproject.de/blog/2023/01/afgruene/)
+* [OpenZFS wird bald um 22 Prozent schneller (Clickbait-Überschrift ;-))](https://www.phoronix.com/news/OpenZFS-Uncached-Prefetch)
+* [Hier wird euch DocArray, eine freie Software AI Bibliothek, näher gebracht.](https://opensource.com/article/23/1/docarray-open-source-ai)
+* [Firefox wurde in der Version 108.0.2 veröffentlicht.](https://www.borncity.com/blog/2023/01/06/firefox-108-0-2-freigegeben-mozilla-friert-user-agent-string-beim-firefox-110-wegen-ie-11-ein/)
 
