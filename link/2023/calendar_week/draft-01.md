@@ -56,4 +56,11 @@
 * [OpenZFS wird bald um 22 Prozent schneller (Clickbait-Überschrift ;-))](https://www.phoronix.com/news/OpenZFS-Uncached-Prefetch)
 * [Hier wird euch DocArray, eine freie Software AI Bibliothek, näher gebracht.](https://opensource.com/article/23/1/docarray-open-source-ai)
 * [Firefox wurde in der Version 108.0.2 veröffentlicht.](https://www.borncity.com/blog/2023/01/06/firefox-108-0-2-freigegeben-mozilla-friert-user-agent-string-beim-firefox-110-wegen-ie-11-ein/)
+* [Rector wurde in der Version 0.15.3 veröffentlicht.](https://github.com/rectorphp/rector/releases/tag/0.15.3)
+* [Moosync wurde in der Version 7.1.0 veröffentlicht.](https://github.com/Moosync/Moosync/releases/tag/v7.1.0)
+* [sof wurde in der Version 2.2.4 veröffentlicht.](https://github.com/thesofproject/sof/releases/tag/v2.2.4)
+* [rqlite wurde in der Version 7.13.1 veröffentlicht.](https://github.com/rqlite/rqlite/releases/tag/v7.13.1)
+* [Carbon wurde in der Version 2.65.0 veröffentlicht.](https://github.com/briannesbitt/Carbon/releases/tag/2.65.0)
+* [Tokio wurde in der Version 1.24.1 veröffentlicht.](https://github.com/tokio-rs/tokio/releases/tag/tokio-1.24.1)
+* [Mold wurde in der Version 1.9.0 veröffentlicht.](https://github.com/rui314/mold/releases/tag/v1.9.0)
 
