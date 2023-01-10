@@ -6,4 +6,10 @@
 * [Valinor wurde in der Version 1.2.0 veröffentlicht.](https://github.com/CuyZ/Valinor/releases/tag/1.2.0)
 * [phpstan wurde in der Version 1.9.8 veröffentlicht.](https://github.com/phpstan/phpstan/releases/tag/1.9.8)
 * [Realitätsabgleich Fast Fashion](https://netzfrauen.org/2023/01/09/fashion-9/)
+* [BigBlueButton wurde in der Version 2.5.11 veröffentlicht.](https://github.com/bigbluebutton/bigbluebutton/releases/tag/v2.5.11)
+* [Portier-Broker wurde in der Version 0.7.3 veröffentlicht.](https://github.com/portier/portier-broker/releases/tag/v0.7.3)
+* [2023 ist keine zehn Tage alt und von mir aus können wir es direkt wieder abschaffen ... alleine auf EU-Ebene ... >>Neben der Massenüberwachung von Chats und über biometrische Daten laut auch eine lebenslange Kennziffer für alle EU-Einwohner<<](https://www.borncity.com/blog/2023/01/10/digitale-zukunft-was-2023-wichtig-wird-und-scheitert-das-geplante-eu-datenschutzabkommen-mit-den-usa/)
+* [Hier gibt es einen Link, der euch ganz grob in einen ersten Teil der Erklärung "Was ist das X-Window-System" einführt.](https://utcc.utoronto.ca/~cks/space/blog/links/XWindowSystemBasics)
+* [Podman sagt langsam "Bye Bye" zum CNI-Plugin](https://blog.podman.io/2023/01/podman-begins-cni-plugins-deprecation/)
+* [Am 14. Januar 2023 jährt sich Gottfried Silbermanns Geburtstag zum 340-sten Mal.](https://www.mdr.de/sachsenradio/podcast/aufgefallen/podcast-aufgefallen-gottfried-silbermann-albrecht-koch-100.html)
 
