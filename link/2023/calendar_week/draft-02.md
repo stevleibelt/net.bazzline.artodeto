@@ -12,4 +12,15 @@
 * [Hier gibt es einen Link, der euch ganz grob in einen ersten Teil der Erklärung "Was ist das X-Window-System" einführt.](https://utcc.utoronto.ca/~cks/space/blog/links/XWindowSystemBasics)
 * [Podman sagt langsam "Bye Bye" zum CNI-Plugin](https://blog.podman.io/2023/01/podman-begins-cni-plugins-deprecation/)
 * [Am 14. Januar 2023 jährt sich Gottfried Silbermanns Geburtstag zum 340-sten Mal.](https://www.mdr.de/sachsenradio/podcast/aufgefallen/podcast-aufgefallen-gottfried-silbermann-albrecht-koch-100.html)
+* [arch-linux-configuration wurde in der Version 1.1.0 veröffentlicht.](https://github.com/stevleibelt/arch-linux-configuration/releases/tag/1.1.0)
+* [>>Apple soll eine Datenschutzstrafe in Höhe von acht Millionen Euro zahlen, weil es das Verhalten von iPhone-Nutzer:innen im App-Store ohne Einwilligung getrackt hat.<<](https://netzpolitik.org/2023/unerlaubtes-werbe-tracking-apple-kassiert-datenschutz-bussgeld-in-millionenhoehe/)
+* [Hier wird euch gezeigt, wie ihr unter git bash/bash für windows, jq installiert](https://www.shellhacks.com/git-bash-install-jq/)
+* [Nushell wurde in der Version 0.74.0 veröffentlicht.](https://github.com/nushell/nushell/releases/tag/0.74.0)
+* [ToolJet wurde in der Version 2.0.0 veröffentlicht.](https://github.com/ToolJet/ToolJet/releases/tag/v2.0.0)
+* [Ihr wollt den aktuellen Status Quo in Sachen Pressefreiheit und Polizeigewalt sehen? Schaut mal nach Lützerath.](https://netzpolitik.org/2023/klimaproteste-schikanen-und-uebergriffe-gegen-presse-in-luetzerath/)
+* [Rust wurde in der Version 1.66.1 veröffentlicht.](https://blog.rust-lang.org/2023/01/10/Rust-1.66.1.html) - Bitte dringend patchen, das hier ist kritisch
+* [Wie steht es um Fukushima? Japan leitet hoch verstrahltes Wasser in den Ozean.](https://netzfrauen.org/2023/01/10/fukushima-9/) - Sharing is caring, oder?
+* [Microsoft Exchange ist auch mal wieder im Status "am kaputesten", bitte patchen](https://www.borncity.com/blog/2023/01/11/exchange-server-sicherheitsupdates-10-januar-2023-dringend-patchen/)
+* [Hier werdet ihr, ganz kurz, in Java Methoden eingeführt.](https://opensource.com/article/23/1/java-methods)
+* [Und Netzpolitik.org gibt euch eine Prüfliste für das Jahr 2023 bezüglich guter Vorsätze an die Hand.](https://netzpolitik.org/2023/gute-vorsaetze-im-neuen-jahr-keine-ausreden/)
 
