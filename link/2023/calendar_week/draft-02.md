@@ -23,4 +23,12 @@
 * [Microsoft Exchange ist auch mal wieder im Status "am kaputesten", bitte patchen](https://www.borncity.com/blog/2023/01/11/exchange-server-sicherheitsupdates-10-januar-2023-dringend-patchen/)
 * [Hier werdet ihr, ganz kurz, in Java Methoden eingeführt.](https://opensource.com/article/23/1/java-methods)
 * [Und Netzpolitik.org gibt euch eine Prüfliste für das Jahr 2023 bezüglich guter Vorsätze an die Hand.](https://netzpolitik.org/2023/gute-vorsaetze-im-neuen-jahr-keine-ausreden/)
+* [Die deutsche Industrie will jetzt eine eigene Versicherung für "Cyber-Versicherung" aufbauen.](https://blog.fefe.de/?ts=9d40748c) - Meine Vermutung, allein durch die Mitgliederanzahl wird diese GmbH dann systemkritisch und muss mit Steuergelder auf ewig gerettet werden (während die Gewinne privatisiert werden)
+* [Die Geräte von Roomba machen permament Fotos und laden die dann wild ins Internet.](https://blog.fefe.de/?ts=9d40701b) - Menschen auf dem Klo, nackte Kinder die durch die Wohnung huschen, was will man mehr?
+* [Schade für die Steuerzahler in Norwegen, aber ihr kennt es. Es tut auch mal gut, wenn man sieht das die öffentliche Hand in den nordischen Ländern, ebenso Großprojekte verkackt wie in Deutschland.](https://blog.fefe.de/?ts=9d406c5a)
+* [webmin wurde in der Version 2.011 veröffentlicht.](https://github.com/webmin/webmin/releases/tag/2.011)
+* [ramsey uuid wurde in der Version 4.7.2 veröffentlicht.](https://github.com/ramsey/uuid/releases/tag/4.7.2)
+* [openems wurde in der Version 2023.10 veröffentlicht.](https://github.com/OpenEMS/openems/releases/tag/2023.1.0)
+* [phpqa wurde in der Version 1.83.4 veröffentlicht.](https://github.com/jakzal/phpqa/releases/tag/v1.83.4)
+* [phpstan wurde in der Version 1.9.9 veröffentlicht.](https://github.com/phpstan/phpstan/releases/tag/1.9.9)
 
