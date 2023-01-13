@@ -31,4 +31,12 @@
 * [openems wurde in der Version 2023.10 veröffentlicht.](https://github.com/OpenEMS/openems/releases/tag/2023.1.0)
 * [phpqa wurde in der Version 1.83.4 veröffentlicht.](https://github.com/jakzal/phpqa/releases/tag/v1.83.4)
 * [phpstan wurde in der Version 1.9.9 veröffentlicht.](https://github.com/phpstan/phpstan/releases/tag/1.9.9)
+* [workerman wurde in der Version 4.1.6 veröffentlicht.](https://github.com/walkor/workerman/releases/tag/v4.1.6)
+* [restic wurde in der Version 0.15.0 veröffentlicht.](https://github.com/restic/restic/releases/tag/v0.15.0)
+* [ramsey uuid wurde in der Version 4.7.3 veröffentlicht.](https://github.com/ramsey/uuid/releases/tag/4.7.3)
+* [keycloak wurde in der Version 20.0.3 veröffentlicht.](https://github.com/keycloak/keycloak/releases/tag/20.0.3)
+* [phpstan wurde in der Version 1.9.11 veröffentlicht.](https://github.com/phpstan/phpstan/releases/tag/1.9.11)
+* [Patrick Bryer wurde für seine Arbeit im Europaparlament ausgezeichnet.](https://www.patrick-breyer.de/ausgezeichneter-digitalpolitiker-bundesverband-breitbandkommunikation-zeichnet-europaabgeordneten-der-piratenpartei-fuer-seine-digitalpolitische-arbeit-aus/)
+* [Hier könnt ihr nachlesen, wie man einen Zufallszahlengenerator in Rust ohne externe Abhängigkeiten baut](https://blog.orhun.dev/zero-deps-random-in-rust/)
+* [Apropos Rust, Chromium erlaubt jetzt auch, dass ihr Erweiterungen in Rust schreibt](https://lwn.net/Articles/919830/)
 
