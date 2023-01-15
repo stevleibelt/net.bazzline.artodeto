@@ -50,4 +50,5 @@
 * [Am 25.02.2023 ist Fasching in Kleintwaltersdorf](https://kleinwaltersdorf.de/index.php/2023/01/14/nach-fasching-ist-vor-fasching/)
 * [CodeLite wurde in der Version 17.0.0 veröffentlicht.](https://github.com/eranif/codelite/releases/tag/17.0.0)
 * [mezzio wurde in der VErsion 3.15.0 veröffentlicht.](https://github.com/mezzio/mezzio/releases/tag/3.15.0)
+* [GNU Binutils wurde in der Version 2.40 veröffentlicht.](https://www.phoronix.com/news/GNU-Binutils-2.40-Released)
 
