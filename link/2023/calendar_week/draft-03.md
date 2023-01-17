@@ -3,4 +3,11 @@
 * [Das Gesundheitswesen wird zunehmend durch freie Software unterstützt und betrieben.](https://opensource.com/article/23/1/open-source-software-transforming-healthcare) - Danke!
 * [Auch im Januar ist Microsoft Office und Windows kaputt.](https://www.borncity.com/blog/2023/01/16/weiterhin-sql-probleme-durch-office-und-windows-januar-2023-updates/)
 * [Hier wird euch gezeigt, wie ihr MQTT in JMeter einsetzen könnt.](https://opensource.com/article/23/1/mqtt-plug-in-jmeter)
+* [Joplin wurde in der Version 2.10.5 veröffentlicht.](https://github.com/laurent22/joplin/releases/tag/v2.10.5)
+* [PCAPdroid wurde in der Version 1.6.0 veröffentlicht.](https://github.com/emanuele-f/PCAPdroid/releases/tag/v1.6.0)
+* [Warum retten wir die Welt nicht? Weil BWL-er ausgerechnet haben, dass man mit dem Abriss der Erde im Quartal mehr imaginäres Zahlungsmittel erzeugen kann.](https://netzfrauen.org/2023/01/16/davos-3/)
+* [Ihr habt einen Verein und müsst euch um das Thema Datenschutz kümmern? Kuketz hilft euch.](https://www.kuketz-blog.de/ideen-zur-selbsthilfe-datenschutz-im-verein-digitalisierung-im-verein-teil2/) - Und freut sich wir ihr über spenden
+* [Hier wird euch erklärt, was Apache ShardingSphere in Version 5.3.0 so kann.](https://opensource.com/article/23/1/apache-shardingsphere-new-features)
+* [Open Food Network (OFN) oder wie freie Software hilft, dass Lebensmittel nicht verschwendet werden.](https://opensource.com/article/23/1/food-sovereignty-open-source)
+* [Die IIoT-Zwangsgeräte der Firma InHand sind kaputt.](https://www.borncity.com/blog/2023/01/17/schwere-sicherheitslcken-inrouter-firmware-von-inhand-networks-bedroht-roboter-stromzhler-med-gerte-etc/) - Hat nicht lange gedauert, bis uns diese IIoT Welt ohne Updates wegbricht
 
