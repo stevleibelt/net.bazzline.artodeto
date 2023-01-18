@@ -10,4 +10,11 @@
 * [Hier wird euch erklärt, was Apache ShardingSphere in Version 5.3.0 so kann.](https://opensource.com/article/23/1/apache-shardingsphere-new-features)
 * [Open Food Network (OFN) oder wie freie Software hilft, dass Lebensmittel nicht verschwendet werden.](https://opensource.com/article/23/1/food-sovereignty-open-source)
 * [Die IIoT-Zwangsgeräte der Firma InHand sind kaputt.](https://www.borncity.com/blog/2023/01/17/schwere-sicherheitslcken-inrouter-firmware-von-inhand-networks-bedroht-roboter-stromzhler-med-gerte-etc/) - Hat nicht lange gedauert, bis uns diese IIoT Welt ohne Updates wegbricht
+* [Metabase wurde in der Version 0.45.2 veröffentlicht.](https://github.com/metabase/metabase/releases/tag/v0.45.2)
+* [AltSnap wurde in der Version 1.58 veröffentlicht.](https://github.com/RamonUnch/AltSnap/releases/tag/1.58)
+* [openfoodnetwork wurde in der Version 4.2.30 veröffentlicht.](https://github.com/openfoodfoundation/openfoodnetwork/releases/tag/v4.2.30)
+* [nextcloud server wurde in der Version 25.0.3 veröffentlicht.](https://github.com/nextcloud/server/releases/tag/v25.0.3)
+* [nextcloud server wurde in der Version 24.0.9 veröffentlicht.](https://github.com/nextcloud/server/releases/tag/v24.0.9)
+* [phpstan wurde in der Version 1.9.12 veröffentlicht.](https://github.com/phpstan/phpstan/releases/tag/1.9.12)
+* [Das World Economic Forum in Davos ist ein Wirtschaftsmotor für das Escort-Dienstleistungsgewerbe](https://blog.fefe.de/?ts=9d380c1e)
 
