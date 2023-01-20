@@ -28,4 +28,11 @@
 * [Sustaphones macht das Auffinden von reparierbare und von Android-Roms unterstützten Smartphones noh einfacher](https://www.onli-blogging.de/2230/Verbesserungen-fuer-sustaphones-Ankerlinks,-Design,-Romauswahl.html)
 * [gitea wurde in der Version 1.18.1 veröffentlicht.](https://github.com/go-gitea/gitea/releases/tag/v1.18.1)
 * [2023 und Microsoft kann noch immer nicht Kernfunktionalitäten fehlerfrei.](https://www.borncity.com/blog/2023/01/17/ldap-schwachstellen-domain-controller-mit-januar-2023-updates-patchen/)
+* [phpstan wurde in der Version 1.9.14 veröffentlicht.](https://github.com/phpstan/phpstan/releases/tag/1.9.14)
+* [webmin wurde in der Version 2.012 veröffentlicht.](https://github.com/webmin/webmin/releases/tag/2.012)
+* [Nein? Doch! Oh? CO2 Zertifikate helfen null.](https://blog.fefe.de/?ts=9d36b9a3)
+* [Git is kaputt](https://blog.fefe.de/?ts=9d36c7d2)
+* [Pandoc wurde in der Version 3.0 veröffentlicht.](https://lwn.net/Articles/920480/)
+* [Deutschland ist das EU-Land, welches am wenigsten für Bildung ausgibt.](https://netzfrauen.org/2023/01/19/bildung-4/) - Hauptsache wir retten Banken und kaufen Panzer
+* [Windows 11 22H2 ist kaputt.](https://www.borncity.com/blog/2023/01/19/windows-11-22h2-systemwiederherstellung-verursacht-this-app-cant-open-fehler/)
 
