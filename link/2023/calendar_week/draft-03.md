@@ -35,4 +35,13 @@
 * [Pandoc wurde in der Version 3.0 veröffentlicht.](https://lwn.net/Articles/920480/)
 * [Deutschland ist das EU-Land, welches am wenigsten für Bildung ausgibt.](https://netzfrauen.org/2023/01/19/bildung-4/) - Hauptsache wir retten Banken und kaufen Panzer
 * [Windows 11 22H2 ist kaputt.](https://www.borncity.com/blog/2023/01/19/windows-11-22h2-systemwiederherstellung-verursacht-this-app-cant-open-fehler/)
+* [mold wurde in der Version 1.10.0 veröffentlicht.](https://github.com/rui314/mold/releases/tag/v1.10.0)
+* [webmin wurde in der Version 2.013 veröffentlicht.](https://github.com/webmin/webmin/releases/tag/2.013)
+* [gitea wurde in der Version 1.18.2 veröffentlicht.](https://github.com/go-gitea/gitea/releases/tag/v1.18.2)
+* [Amazon schmeißt 18.000 Mitarbeiter raus, Boston Dynamics zeigt Roboter mit Händen.](https://blog.fefe.de/?ts=9d3440c7)
+* [Rector wurde in der Version 0.15.8 veröffentlicht.](https://github.com/rectorphp/rector/releases/tag/0.15.8)
+* [Lando wurde in der Version 3.9.1 veröffentlicht.](https://github.com/lando/lando/releases/tag/v3.9.1)
+* [OpenZFS wurde in der Version 2.1.8 veröffentlicht.](https://github.com/openzfs/zfs/releases/tag/zfs-2.1.8)
+* [Thunderbird wurde in der Version 102.7.0 veröffentlicht.](https://www.borncity.com/blog/2023/01/20/thunderbird-102-7-0-kein-auto-release-wegen-problemen-mit-microsoft-365/) - Diese Version kommt nicht automatisch zu euch, da Microsoft weiterhin sein 365 verkackt.
+* [Realitätsabgleich ChatGPT, dank Netzpolitik.org seht ihr woher die angebliche WunderKI ihr Wissen kriegt.](https://netzpolitik.org/2023/globaler-sueden-prekaere-klickarbeit-hinter-den-kulissen-von-chatgpt/)
 
