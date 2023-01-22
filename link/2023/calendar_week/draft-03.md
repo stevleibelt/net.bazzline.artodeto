@@ -44,4 +44,7 @@
 * [OpenZFS wurde in der Version 2.1.8 veröffentlicht.](https://github.com/openzfs/zfs/releases/tag/zfs-2.1.8)
 * [Thunderbird wurde in der Version 102.7.0 veröffentlicht.](https://www.borncity.com/blog/2023/01/20/thunderbird-102-7-0-kein-auto-release-wegen-problemen-mit-microsoft-365/) - Diese Version kommt nicht automatisch zu euch, da Microsoft weiterhin sein 365 verkackt.
 * [Realitätsabgleich ChatGPT, dank Netzpolitik.org seht ihr woher die angebliche WunderKI ihr Wissen kriegt.](https://netzpolitik.org/2023/globaler-sueden-prekaere-klickarbeit-hinter-den-kulissen-von-chatgpt/)
+* [Kann sich die Natur an Glyphosat anpassen? Ja!](https://netzfrauen.org/2023/01/20/agriculture-4/) - Doof nur, dass wir Menschen mit der angepassten Natur dann nicht so gut können.
+* [Endlich wieder, Glück Auf TV: Neujahrsempfang in Freiberg](https://www.youtube.com/watch?v=rckAOmThnpU)
+* [Hier wird euch gezeigt, wie ihr euren Stadia Controller auf Bluetooth wechselt.](https://stadia.google.com/gg/)
 
