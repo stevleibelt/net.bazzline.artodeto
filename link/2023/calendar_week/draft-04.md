@@ -2,4 +2,11 @@
 * [firefly-iii data importer wurde in der Version 1.0.0 veröffentlicht.](https://github.com/firefly-iii/data-importer/releases/tag/v1.0.0)
 * [Jellyfin wurde in der Version 10.8.9 veröffentlicht.](https://github.com/jellyfin/jellyfin/releases/tag/v10.8.9)
 * [Hier werden euch for-loops in Java gezeigt.](https://opensource.com/article/23/1/java-for-loops)
+* [Hier werden Gründe zur Rückbesinnung auf Tabs genannt.](https://stitcher.io/blog/tabs-are-better)
+* [Selenium wurde in der Version 4.8.0 veröffentlicht.](https://github.com/SeleniumHQ/selenium/releases/tag/selenium-4.8.0)
+* [autorandr wurde in der Version 1.13.2 veröffentlicht.](https://github.com/phillipberndt/autorandr/releases/tag/1.13.2)
+* [fwupd wurde in der Version 1.8.10 veröffentlicht.](https://github.com/fwupd/fwupd/releases/tag/1.8.10)
+* [openITCOCKPIT wurde in der Version 4.6.0 veröffentlicht.](https://github.com/it-novum/openITCOCKPIT/releases/tag/openITCOCKPIT-4.6.0)
+* [WinGet wurde in der Version 1.4 veröffentlicht.](https://www.phoronix.com/news/Microsoft-WinGet-1.4)
+* [gitea wurde in der Version 1.18.3 veröffentlicht.](https://github.com/go-gitea/gitea/releases/tag/v1.18.3)
 
