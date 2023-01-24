@@ -9,4 +9,12 @@
 * [openITCOCKPIT wurde in der Version 4.6.0 veröffentlicht.](https://github.com/it-novum/openITCOCKPIT/releases/tag/openITCOCKPIT-4.6.0)
 * [WinGet wurde in der Version 1.4 veröffentlicht.](https://www.phoronix.com/news/Microsoft-WinGet-1.4)
 * [gitea wurde in der Version 1.18.3 veröffentlicht.](https://github.com/go-gitea/gitea/releases/tag/v1.18.3)
+* [noyb ruft für faire Cookie-Banner auf.](https://noyb.eu/en/data-protection-authorities-support-noybs-call-fair-yesno-cookie-banners)
+* [GStreamer wurde in der Version 1.22 veröffentlicht.](https://www.phoronix.com/news/GStreamer-1.22-Released)
+* [roundcube wurde in der Version 1.6.1 veröffentlicht.](https://roundcube.net/news/2023/01/23/update-1.6.1-released)
+* [cachyos wurde in der Version 6.1.8 veröffentlicht.](https://github.com/CachyOS/linux-cachyos/releases/tag/6.1.8)
+* [lando wurde in der Version 3.10.0 veröffentlicht.](https://github.com/lando/lando/releases/tag/v3.10.0)
+* [sof wurde in der Version 2.4.1 veröffentlicht.](https://github.com/thesofproject/sof/releases/tag/v2.4.1)
+* [autorandr wurde in der Version 1.13.3 veröffentlicht.](https://github.com/phillipberndt/autorandr/releases/tag/1.13.3)
+* [openfoodnetwork wurde in der Version 4.2.31 veröffentlicht.](https://github.com/openfoodfoundation/openfoodnetwork/releases/tag/v4.2.31)
 
