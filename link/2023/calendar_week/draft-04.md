@@ -17,4 +17,12 @@
 * [sof wurde in der Version 2.4.1 veröffentlicht.](https://github.com/thesofproject/sof/releases/tag/v2.4.1)
 * [autorandr wurde in der Version 1.13.3 veröffentlicht.](https://github.com/phillipberndt/autorandr/releases/tag/1.13.3)
 * [openfoodnetwork wurde in der Version 4.2.31 veröffentlicht.](https://github.com/openfoodfoundation/openfoodnetwork/releases/tag/v4.2.31)
+* [WINE wurde in der Version 8.0 veröffentlicht.](https://lwn.net/Articles/921078/)
+* [Schönes Beispiel warum die geschwungenen Klammern auf eine neue Zeile gehören.](https://stitcher.io/blog/why-curly-brackets-go-on-new-lines)
+* [DXVK wurde in der Version 2.1 veröffentlicht.](https://www.phoronix.com/news/DXVK-2.1-Released)
+* [noyb ruft für faire Cookie-Banner auf.](https://noyb.eu/en/data-protection-authorities-support-noybs-call-fair-yesno-cookie-banners)
+* [GStreamer wurde in der Version 1.22 veröffentlicht.](https://www.phoronix.com/news/GStreamer-1.22-Released)
+* [roundcube wurde in der Version 1.6.1 veröffentlicht.](https://roundcube.net/news/2023/01/23/update-1.6.1-released)
+* [firefly-iii data-importer wurde in der Version 1.0.1 veröffentlicht.](https://github.com/firefly-iii/data-importer/releases/tag/v1.0.1)
+* [cloud-hypervisor wurde in der Version 28.2 veröffentlicht.](https://github.com/cloud-hypervisor/cloud-hypervisor/releases/tag/v28.2)
 
