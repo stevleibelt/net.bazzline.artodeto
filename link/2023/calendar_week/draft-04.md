@@ -25,4 +25,8 @@
 * [roundcube wurde in der Version 1.6.1 veröffentlicht.](https://roundcube.net/news/2023/01/23/update-1.6.1-released)
 * [firefly-iii data-importer wurde in der Version 1.0.1 veröffentlicht.](https://github.com/firefly-iii/data-importer/releases/tag/v1.0.1)
 * [cloud-hypervisor wurde in der Version 28.2 veröffentlicht.](https://github.com/cloud-hypervisor/cloud-hypervisor/releases/tag/v28.2)
+* [Stratis storage wurde in der Version 3.5 veröffentlicht.](https://www.phoronix.com/news/Stratis-Storage-3.5)
+* [`sudo pkill X`](https://www.shellhacks.com/restart-x-server-ubuntu-linux/)
+* [firefly-iii data-importer wurde in der Version 1.0.2 veröffentlicht.](https://github.com/firefly-iii/data-importer/releases/tag/v1.0.2)
+* [Barman wurde in der Version 3.4.0 veröffentlicht.](https://github.com/EnterpriseDB/barman/releases/tag/release/3.4.0)
 
