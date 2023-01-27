@@ -29,4 +29,12 @@
 * [`sudo pkill X`](https://www.shellhacks.com/restart-x-server-ubuntu-linux/)
 * [firefly-iii data-importer wurde in der Version 1.0.2 veröffentlicht.](https://github.com/firefly-iii/data-importer/releases/tag/v1.0.2)
 * [Barman wurde in der Version 3.4.0 veröffentlicht.](https://github.com/EnterpriseDB/barman/releases/tag/release/3.4.0)
+* [GTA V ist kaputt.](https://blog.fefe.de/?ts=9d2c4ea3)
+* [Microsoft Teams ist richtig kaputt.](https://blog.fefe.de/?ts=9d2c9881)
+* [Intel und ARM bauen ihre CPU's so kaputt, dass Krypto darauf immer schlechter valide läuft.](https://blog.fefe.de/?ts=9d2c972f)
+* [GoTo ist auch richtig schön kaputt.](https://blog.fefe.de/?ts=9d2c94d3)
+* [In den USA gibt es jetzt Autos die damit werben, dass Fußgänger auch wirklich tödlich verletzt werden, wenn man sie mit so einer Karre anfährt.](https://blog.fefe.de/?ts=9d2c9353)
+* [Afrika, das Land wo die Welt Ressourcen stiehlt und NICHTS zurück gibt ... nun, dort werden jetzt auch Lebensmittel weggeworfen.](https://netzfrauen.org/2023/01/26/45982-2/) - Klar, man könnte sie der hungernden Bevölkerung geben. Aber was hat die hungernde Bevölkerung je für uns getan?
+* [Rust wurde in der Version 1.67.0 veröffentlicht.](https://blog.rust-lang.org/2023/01/26/Rust-1.67.0.html)
+* [OPNsense wurde in der Version 23.1 veröffentlicht.](https://opnsense.org/opnsense-23-1-released/)
 
