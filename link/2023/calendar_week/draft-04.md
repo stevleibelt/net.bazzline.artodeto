@@ -37,4 +37,19 @@
 * [Afrika, das Land wo die Welt Ressourcen stiehlt und NICHTS zurück gibt ... nun, dort werden jetzt auch Lebensmittel weggeworfen.](https://netzfrauen.org/2023/01/26/45982-2/) - Klar, man könnte sie der hungernden Bevölkerung geben. Aber was hat die hungernde Bevölkerung je für uns getan?
 * [Rust wurde in der Version 1.67.0 veröffentlicht.](https://blog.rust-lang.org/2023/01/26/Rust-1.67.0.html)
 * [OPNsense wurde in der Version 23.1 veröffentlicht.](https://opnsense.org/opnsense-23-1-released/)
+* [OpenZFS wurde in der Version 2.1.9 veröffentlicht.](https://github.com/openzfs/zfs/releases/tag/zfs-2.1.9)
+* [skopeo wurde in der Version 1.11.0 veröffentlicht.](https://github.com/containers/skopeo/releases/tag/v1.11.0)
+* [Vulkan wurde in der Version 1.3.240 veröffentlicht.](https://www.phoronix.com/news/Vulkan-1.3.240-Released)
+* [OPNsense wurde in der Version 22.7.11 veröffentlicht.](https://opnsense.org/opnsense-22-7-11-released/)
+* [Menschenhandel? Auch das passiert vermehr im Zeiten der Digitalität.](https://netzfrauen.org/2023/01/26/combodia-2/)
+* [jitsi-admin wurde in der Version 0.74.2 veröffentlicht.](https://github.com/H2-invent/jitsi-admin/releases/tag/0.74.2)
+* [Exchange ist wieder kaputt.](https://www.borncity.com/blog/2023/01/26/exchange-2019-lst-der-januar-2023-cu-wieder-das-index-problem-aus/)
+* [Das ist kundenfreuntlich, Digitec Galaxus veröffentlicht Garantiefall- und Retourquoten.](https://www.galaxus.ch/de/page/gnadenlos-ehrlich-digitec-galaxus-zeigt-neu-die-garantiefall-und-retourenquote-25950)
+* [Nein? Doch! Oh? PayPal wird vom Bundeskartellamt überprüft. Der unglaubliche Verdacht, PayPal hat den Wettbewerb verhindert.](https://www.tagesschau.de/wirtschaft/unternehmen/bundeskartellamt-paypal-verfahren-eingeleitet-101.html)
+* [Was lerne ich aus diesem Artikel? Sichert eure Firefox-Addons und Mozilla, warum ist es so schwer jedes Addon einfach zu sichern?](https://utcc.utoronto.ca/~cks/space/blog/web/FirefoxAddonsBackUpSettings)
+* [Schweden, das U-Boot der USA, stellt sich jetzt innerhalb der EU gegen das Grundrecht der Verschlüsselung.](https://netzpolitik.org/2023/neuer-vorsitz-im-rat-der-eu-schweden-nimmt-anlauf-gegen-sichere-verschluesselung/)
+* [Jetzt Schüler in Deutschland zu sein ist auch richtig scheiße.](https://www.bildung.sachsen.de/blog/index.php/2023/01/27/lehrermangel-bildungsforscher-gehen-an-besitzstaende/) - Keiner investiert in Personal, da die statistischen Modelle sagen, dass in 10 Jahren keine Schüler mehr kommen. Klar, wenn eine Maschine nur noch mit Klebeband hält, erhöhe ich die Belastung ... wird schon passen.
+* [TornadoVM wurde in der Version 0.15 veröffentlicht.](https://www.phoronix.com/news/TornadoVM-0.15-Released)
+* [lando wurde in der Version 3.11.0 veröffentlicht.](https://github.com/lando/lando/releases/tag/v3.11.0)
+* [openITCOCKPIT wurde in der Version 4.6.1 veröffentlicht.](https://github.com/it-novum/openITCOCKPIT/releases/tag/openITCOCKPIT-4.6.1)
 
