@@ -52,4 +52,7 @@
 * [TornadoVM wurde in der Version 0.15 veröffentlicht.](https://www.phoronix.com/news/TornadoVM-0.15-Released)
 * [lando wurde in der Version 3.11.0 veröffentlicht.](https://github.com/lando/lando/releases/tag/v3.11.0)
 * [openITCOCKPIT wurde in der Version 4.6.1 veröffentlicht.](https://github.com/it-novum/openITCOCKPIT/releases/tag/openITCOCKPIT-4.6.1)
+* [>>Es fällt auf, dass immer nur die Leute eine Wehrpflicht befürworten, die altersmäßig nicht in Gefahr sind eingezogen zu werden.<<](https://blog.fefe.de/?ts=9d2a512a)
+* [phpqa wurde in der Version 1.83.6 veröffentlicht.](https://github.com/jakzal/phpqa/releases/tag/v1.83.6)
+* [headscale wurde in der Version 0.19.0 veröffentlicht.](https://github.com/juanfont/headscale/releases/tag/v0.19.0)
 
