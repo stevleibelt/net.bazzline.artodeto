@@ -4,4 +4,11 @@
 * [Bei den Netzfrauen könnt ihr einen guten Status Quo zum Thema "Krieg um das Wasser" lesen.](https://netzfrauen.org/2023/01/28/water-12/)
 * [archzfs iso wurde in der Version 2023-01-18T18:06:37 veröffentlicht.](https://archzfs.leibelt.de/)
 * [arch-linux-live-cd-is-with-zfs wurde in der Version 2.8.1 veröffentlicht.](https://github.com/stevleibelt/arch-linux-live-cd-iso-with-zfs/releases/tag/2.8.1)
+* [Neo-Backup wurde in der Version 8.3.0 veröffentlicht.](https://github.com/NeoApplications/Neo-Backup/releases/tag/8.3.0)
+* [Carbon wurde in der Version 2.66.0 veröffentlicht.](https://github.com/briannesbitt/Carbon/releases/tag/2.66.0)
+* [tokio wurde in der Version 1.25.0 veröffentlicht.](https://github.com/tokio-rs/tokio/releases/tag/tokio-1.25.0)
+* [KeePass ist kaputt.](https://www.borncity.com/blog/2023/01/30/cert-warnung-standard-keepass-setup-ermglicht-passwort-klau-cve-2023-24055/)
+* [Invanquisched wurde in der Version 0.54 veröffentlicht.](https://www.phoronix.com/news/Unvanquished-0.54-Beta)
+* [Microsoft hat wohl seinen TCP Stack in Windows 10 und 11 kaputtoptimiert.](https://www.borncity.com/blog/2023/01/30/microsofts-tcp-murks-in-windows-10-und-11-optimierung-ist-mglich/)
+* [Budgie wurde in der Version 10.7 veröffentlicht.](https://www.phoronix.com/news/Budgie-10.7-Released)
 
