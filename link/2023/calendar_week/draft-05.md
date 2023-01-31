@@ -11,4 +11,10 @@
 * [Invanquisched wurde in der Version 0.54 veröffentlicht.](https://www.phoronix.com/news/Unvanquished-0.54-Beta)
 * [Microsoft hat wohl seinen TCP Stack in Windows 10 und 11 kaputtoptimiert.](https://www.borncity.com/blog/2023/01/30/microsofts-tcp-murks-in-windows-10-und-11-optimierung-ist-mglich/)
 * [Budgie wurde in der Version 10.7 veröffentlicht.](https://www.phoronix.com/news/Budgie-10.7-Released)
+* [restic wurde in der Version 0.15.1 veröffentlicht.](https://github.com/restic/restic/releases/tag/v0.15.1)
+* [Sophia Script for Windows wurde in der Version 30.01.2023 veröffentlicht.](https://github.com/farag2/Sophia-Script-for-Windows/releases/tag/6.3.0)
+* [QNAP QTS 5.0.1 und QuTS hero h5.0.1 sind kaputt.](https://www.borncity.com/blog/2023/01/31/qnap-warnt-vor-schwachstellen-in-qts-5-0-1-und-quts-hero-h5-0-1/)
+* [Was erhält man wenn man kritische Infrastruktur wie Wasserwerke privatisiert? 24 Prozent Wasserverlust durch kaputte Rohre.](http://blog.fefe.de/?ts=9d26a6aa)
+* [penpot wurde in der Version 1.17.0 veröffentlicht.](https://github.com/penpot/penpot/releases/tag/1.17.0)
+* [BIOS ist solider weil es nicht so schlau sein will.](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/BIOSMBRBootingOverUEFI) - UEFI ist quasi das Word unter den Systeme, es denkt, es handelt schlau
 
