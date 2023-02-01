@@ -17,4 +17,9 @@
 * [Was erhält man wenn man kritische Infrastruktur wie Wasserwerke privatisiert? 24 Prozent Wasserverlust durch kaputte Rohre.](http://blog.fefe.de/?ts=9d26a6aa)
 * [penpot wurde in der Version 1.17.0 veröffentlicht.](https://github.com/penpot/penpot/releases/tag/1.17.0)
 * [BIOS ist solider weil es nicht so schlau sein will.](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/BIOSMBRBootingOverUEFI) - UEFI ist quasi das Word unter den Systeme, es denkt, es handelt schlau
+* [Openems wurde in der Version 2023.2.0 veröffentlicht.](https://github.com/OpenEMS/openems/releases/tag/2023.2.0)
+* [Rustup wurde in der Version 1.25.2 veröffentlicht.](https://blog.rust-lang.org/2023/02/01/Rustup-1.25.2.html)
+* [Elementary OS wurde in der Version 7 veröffentlicht.](https://lwn.net/Articles/921854/)
+* [Thunderbird wurde in der Version 102.7.1 veröffentlicht.](https://www.borncity.com/blog/2023/02/01/thunderbird-102-7-1/)
+* [Firefox wurde in der Version 109.0.1](https://www.borncity.com/blog/2023/02/01/firefox-109-0-1-freigegeben/)
 
