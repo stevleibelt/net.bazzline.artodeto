@@ -20,4 +20,9 @@
 * [Nushell wurde in der Version 0.75.0 veröffentlicht.](https://github.com/nushell/nushell/releases/tag/0.75.0)
 * [Joomla wurde in der Version 4.2.7 veröffentlicht.](https://github.com/joomla/joomla-cms/releases/tag/4.2.7)
 * [Jitsi-Admin wurde in der Version 0.74.3 veröffentlicht.](https://github.com/H2-invent/jitsi-admin/releases/tag/0.74.3)
+* [Openems wurde in der Version 2023.2.0 veröffentlicht.](https://github.com/OpenEMS/openems/releases/tag/2023.2.0)
+* [Rustup wurde in der Version 1.25.2 veröffentlicht.](https://blog.rust-lang.org/2023/02/01/Rustup-1.25.2.html)
+* [Elementary OS wurde in der Version 7 veröffentlicht.](https://lwn.net/Articles/921854/)
+* [Thunderbird wurde in der Version 102.7.1 veröffentlicht.](https://www.borncity.com/blog/2023/02/01/thunderbird-102-7-1/)
+* [Firefox wurde in der Version 109.0.1](https://www.borncity.com/blog/2023/02/01/firefox-109-0-1-freigegeben/)
 
