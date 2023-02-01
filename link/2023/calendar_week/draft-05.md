@@ -17,4 +17,7 @@
 * [Was erhält man wenn man kritische Infrastruktur wie Wasserwerke privatisiert? 24 Prozent Wasserverlust durch kaputte Rohre.](http://blog.fefe.de/?ts=9d26a6aa)
 * [penpot wurde in der Version 1.17.0 veröffentlicht.](https://github.com/penpot/penpot/releases/tag/1.17.0)
 * [BIOS ist solider weil es nicht so schlau sein will.](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/BIOSMBRBootingOverUEFI) - UEFI ist quasi das Word unter den Systeme, es denkt, es handelt schlau
+* [Nushell wurde in der Version 0.75.0 veröffentlicht.](https://github.com/nushell/nushell/releases/tag/0.75.0)
+* [Joomla wurde in der Version 4.2.7 veröffentlicht.](https://github.com/joomla/joomla-cms/releases/tag/4.2.7)
+* [Jitsi-Admin wurde in der Version 0.74.3 veröffentlicht.](https://github.com/H2-invent/jitsi-admin/releases/tag/0.74.3)
 
