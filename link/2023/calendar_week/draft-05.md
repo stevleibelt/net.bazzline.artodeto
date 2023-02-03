@@ -41,4 +41,7 @@
 * [ntopng wurde in der Version 5.6 veröffentlicht.](https://github.com/ntop/ntopng/releases/tag/5.6)
 * [ntopng wurde in der Version 5.4 veröffentlicht.](https://github.com/ntop/ntopng/releases/tag/5.4)
 * [satisfy wurde in der Version 3.5.1 veröffentlicht.](https://github.com/ludofleury/satisfy/releases/tag/3.5.1)
+* [vscodium wurde in der Version 1.75.0.23033 veröffentlicht.](https://github.com/VSCodium/vscodium/releases/tag/1.75.0.23033)
+* [Biontech sucht dringend einen breiteren Markt, dank finanzieller Unterstützung empfehlen nun weitere "unabhänige Impfkommissionen" schon das Spritzen bei der U4 Untersuchung von Kindern.](https://impfentscheidung.online/demnaechst-schon-zur-u4-beim-kinderarzt-covid-19-impfungen-ab-zwei-monaten/)
+* [Wine wurde in der Version 8.1 veröffentlicht](https://www.phoronix.com/news/Wine-8.1-Released) - Und ab jetzt gibt sich wine als Windows 10 aus. Herzlichen Glückwunsch und Dank!
 
