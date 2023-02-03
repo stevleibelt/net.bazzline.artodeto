@@ -28,4 +28,5 @@
 * [Redis ist kaputt.](https://www.bleepingcomputer.com/news/security/new-headcrab-malware-infects-1-200-redis-servers-to-mine-monero/)
 * [go wurde in der Version 1.20 veröffentlicht.](https://lwn.net/Articles/921894/)
 * [In den USA schießen Polizisten einen beinlosen Menschen nieder, weil sie Angst hatten, dass er Sie angreift.](http://blog.fefe.de/?ts=9d24beae)
+* [Woher kommt die Inflation? Firmen wie Shell haben ihr Gewinn im letzten Jahr verdoppelt! Shell hat ein Jahresprofit von 40 Milliarden USD "erwirtschaftet"](http://blog.fefe.de/?ts=9d2554f9)
 
