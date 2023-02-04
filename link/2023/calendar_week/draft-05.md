@@ -44,4 +44,11 @@
 * [vscodium wurde in der Version 1.75.0.23033 veröffentlicht.](https://github.com/VSCodium/vscodium/releases/tag/1.75.0.23033)
 * [Biontech sucht dringend einen breiteren Markt, dank finanzieller Unterstützung empfehlen nun weitere "unabhänige Impfkommissionen" schon das Spritzen bei der U4 Untersuchung von Kindern.](https://impfentscheidung.online/demnaechst-schon-zur-u4-beim-kinderarzt-covid-19-impfungen-ab-zwei-monaten/)
 * [Wine wurde in der Version 8.1 veröffentlicht](https://www.phoronix.com/news/Wine-8.1-Released) - Und ab jetzt gibt sich wine als Windows 10 aus. Herzlichen Glückwunsch und Dank!
+* [headscale wurde in der Version 0.20.0 veröffentlicht.](https://github.com/juanfont/headscale/releases/tag/v0.20.0)
+* [ToolJet wurde in der Version 2.1.0 veröffentlicht.](https://github.com/ToolJet/ToolJet/releases/tag/v2.1.0)
+* [dbus-broker wurde in der Version 33 veröffentlicht.](https://github.com/bus1/dbus-broker/releases/tag/v33)
+* [Proton wurde in der Version 7.0-6 veröffentlicht.](https://www.phoronix.com/news/Proton-7.0-6)
+* [Nextcloud Desktop wurde in der Version 3.7 veröffentlicht.](https://nextcloud.com/blog/desktop-client-3-7/)
+* [Realitätsabgleich AI. Scheint wohl alles teuerer zu werden.](https://proofinprogress.com/posts/2023-02-01/the-ai-crowd-is-mad.html)
+* [12 Jahre Prozessmarathon, so lange und länger vertuschen Konzerne ihr bewusst gemachtes Unrecht.](https://netzfrauen.org/2023/02/03/nestle-19/)
 
