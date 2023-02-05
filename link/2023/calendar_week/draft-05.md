@@ -51,4 +51,13 @@
 * [Nextcloud Desktop wurde in der Version 3.7 veröffentlicht.](https://nextcloud.com/blog/desktop-client-3-7/)
 * [Realitätsabgleich AI. Scheint wohl alles teuerer zu werden.](https://proofinprogress.com/posts/2023-02-01/the-ai-crowd-is-mad.html)
 * [12 Jahre Prozessmarathon, so lange und länger vertuschen Konzerne ihr bewusst gemachtes Unrecht.](https://netzfrauen.org/2023/02/03/nestle-19/)
+* [Werbung lügt und Konzerne noch mehr.](https://blog.fefe.de/?ts=9d2091d8)
+* [BetterReflection wurde in der Version 6.6.0 veröffentlicht.](https://github.com/Roave/BetterReflection/releases/tag/6.6.0)
+* [Rector wurde in der Version 0.15.12 veröffentlicht.](https://github.com/rectorphp/rector/releases/tag/0.15.12)
+* [libsignal wurde in der Version 0.22.0 veröffentlicht.](https://github.com/signalapp/libsignal/releases/tag/v0.22.0)
+* [phpqa wurde in der Version 1.83.7 veröffentlicht.](https://github.com/jakzal/phpqa/releases/tag/v1.83.7)
+* [Servo hat seine Roadmap fpr 2023 veröffentlicht.](https://www.phoronix.com/news/Servo-2023-Roadmap)
+* [Zu Recht! Ulrich Kelber (Bundesdatenschutzbeauftragter) redet tacheless über die echten Probleme, die gern hinter "Ach der Datenschutz ist schuld" versteckt werden.](https://netzpolitik.org/2023/digitalisierung-und-datenschutz-schluss-mit-ausreden/)
+* [Nein? Doch! Oh? Eine Studie verbindet Pestizidexposition mit Tumoren in Verbindung.](https://netzfrauen.org/2023/02/04/pesticides-6/)
+* [Memtest86+ wurde in der Version 6.10 veröffentlicht.](https://www.phoronix.com/news/memtest86-plus-6.10)
 
