@@ -9,4 +9,8 @@
 * [naps2 wurde in der Version 7.0b4 veröffentlicht.](https://github.com/cyanfish/naps2/releases/tag/v7.0b4)
 * [php infection wurde in der Version 0.26.19 veröffentlicht.](https://github.com/infection/infection/releases/tag/0.26.19)
 * [tig wurde in der Version 2.5.8 veröffentlicht.](https://github.com/jonas/tig/releases/tag/tig-2.5.8)
+* [Nein? Doch! Oh? Digital "gekauft" ist eben doch nur "kurzfristige Nutzung erlaubt", so auch bei Büchern.](https://tuxproject.de/blog/2023/02/maat-lander-space-scum-live-11-milliarden-fuer-weimar/)
+* [Hier wird euch gezeigt, wie ihr Nextcloud Office mit Hilfe des Collabora Online Servers bereitstellt.](https://nextcloud.com/blog/how-to-install-nextcloud-office/)
+* [Wie so ein Canary Release funktioniert, wird euch hier gezeigt.](https://www.opensourcerers.org/2023/02/06/service-mesh-for-developers/)
+* [Noch einmal Canary Release und Blue-Green-Deployment.](https://opensource.com/article/23/2/api-gateway)
 
