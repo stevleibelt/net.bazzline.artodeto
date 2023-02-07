@@ -13,4 +13,12 @@
 * [Hier wird euch gezeigt, wie ihr Nextcloud Office mit Hilfe des Collabora Online Servers bereitstellt.](https://nextcloud.com/blog/how-to-install-nextcloud-office/)
 * [Wie so ein Canary Release funktioniert, wird euch hier gezeigt.](https://www.opensourcerers.org/2023/02/06/service-mesh-for-developers/)
 * [Noch einmal Canary Release und Blue-Green-Deployment.](https://opensource.com/article/23/2/api-gateway)
+* [ToolJet wurde in der Version 2.1.1 veröffentlicht.](https://github.com/ToolJet/ToolJet/releases/tag/v2.1.1)
+* [Fluent Bit wurde in der Version 2.0.9 veröffentlicht.](https://github.com/fluent/fluent-bit/releases/tag/v2.0.9)
+* [Jetzt, wo wir uns an die Todeszüge mit Chemikalien gewöhnt haben, kann man an der Sicherheit sparen. Ist ja nicht schlimm, wenn man so ein Zug voller Suppe aus der Hölle entgleist, oder?](http://blog.fefe.de/?ts=9d1fbc67)
+* [Microsofts Authenticator funktioniert wohl nur mit angeschaltetem Schnüffeln.](http://blog.fefe.de/?ts=9d1fc58c) - Ich meine, was genau erwartet man, dass ein Authenticator nicht macht?
+* [X.Org Server ist kaputt.](https://www.phoronix.com/news/X.Org-Server-CVE-2023-0494)
+* [Zum Valentinstag 2023 stibrt der Internet Explorer 11.](https://www.borncity.com/blog/2023/02/07/internet-explorer-11-wird-am-14-februar-2023-in-rente-geschickt/)
+* [Eure Podman-Container können die anderen Container nicht vom Namen her auflösen? Dann "fahrt" ihr wohl mit den Standardeinstellungen.](https://blog.podman.io/2023/02/the-container-name-resolution-conundrum/)
+* [Freiberger Agenda21 sucht einen Projektkoordinator.](http://freibergeragenda21.de/komm-in-team-wir-suchen-verstaerkung/)
 
