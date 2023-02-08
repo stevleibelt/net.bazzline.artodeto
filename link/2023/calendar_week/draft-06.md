@@ -21,4 +21,19 @@
 * [Zum Valentinstag 2023 stibrt der Internet Explorer 11.](https://www.borncity.com/blog/2023/02/07/internet-explorer-11-wird-am-14-februar-2023-in-rente-geschickt/)
 * [Eure Podman-Container können die anderen Container nicht vom Namen her auflösen? Dann "fahrt" ihr wohl mit den Standardeinstellungen.](https://blog.podman.io/2023/02/the-container-name-resolution-conundrum/)
 * [Freiberger Agenda21 sucht einen Projektkoordinator.](http://freibergeragenda21.de/komm-in-team-wir-suchen-verstaerkung/)
+* [OpenFoodNetwork wurde in der Version 4.2.33 veröffentlicht.](https://github.com/openfoodfoundation/openfoodnetwork/releases/tag/v4.2.33)
+* [phpstan wurde in der Version 1.9.16 veröffentlicht.](https://github.com/phpstan/phpstan/releases/tag/1.9.16)
+* [privacyidea wurde in der Version 3.8.1 veröffentlicht.](https://github.com/privacyidea/privacyidea/releases/tag/v3.8.1)
+* [Auch BP machte im Jahr 2023 mehr als doppelt so viel Gewinn.](http://blog.fefe.de/?ts=9d1ceaa2) - Nichts mit Energiekriese, hier wird unser Geld geraubt!
+* [Nein? Doch! Oh? Mehr als 12 Prozent aller Online-Shops bieten ihre Sicherungen und unsere Daten ungeschützt im Internet an.](https://www.bleepingcomputer.com/news/security/over-12-percent-of-analyzed-online-stores-expose-private-data-backups/) - Funktionalitäten wie "Sichern" und "Löschen" werden vom Management nie bezahlt, dass sind alles unbezahlte Sonderleistungen der Entwicklungabteilung
+* [Hier wird euch gezeigt, wie ihr einen Webhook in Zabbix schreibt.](https://blog.zabbix.com/how-to-write-a-webhook-for-zabbix/25298/)
+* [Frankreich verbietet endlich Einweg-Verpackungen.](https://netzfrauen.org/2023/02/07/france-7/) - Als nächstes bitte diesen Quatsch mit den Papierbechern, die innen eine Plastikschicht haben und damit Sondermüll sind.
+* [Die Umfallpartei liefert, die SPD findet den Schutz privater Kommunikation nicht mehr schützenswert.](https://tuxproject.de/blog/2023/02/hoffnung-dexit-13-die-spd-will-immer-noch-meine-briefe-lesen-behauptet-aber-das-gegenteil/)
+* [Outlook.com ist kaputt.](https://www.borncity.com/blog/2023/02/07/outlook-com-ist-ausgefallen-7-feb-2023/)
+* [Es gibt ein Unesco-Weltkulturerbe Spiel von Freiberg.](https://www.mdr.de/video/mdr-videos/a/video-695010.html)
+* [Linux 6.1 wird der nächste LTS-Kernel sein.](https://www.phoronix.com/news/Linux-6.1-LTS-Official) - Passt mir ganz gut, meine Hardware wird vollständig vom 6.1-er unterstützt.
+* [Patched eure ESXi server!](https://www.borncity.com/blog/2023/02/08/cyberangriffe-auf-server-das-vmware-esxi-debakel-decryptor-fr-esxiargs-ransomware-opfer/)
+* [Realitätsabgleich woher kommt das Öl und die Kohle, die uns Shell überteuert verkauft?](https://netzfrauen.org/2023/02/07/shell-3/)
+* [Sehr schön, hier wird euch die Geschichte von OpenOffice und LibreOffice gezeigt.](https://opensource.com/article/23/2/libreoffice-history)
+* [Hier wird euch mächtiges RSYNC gezeigt.](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/RsyncRecentDirectoryContents)
 
