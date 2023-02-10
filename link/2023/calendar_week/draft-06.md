@@ -50,4 +50,19 @@
 * [Thunderbird wurde in der Version 102.7.2 veröffentlicht.](https://www.borncity.com/blog/2023/02/09/thunderbird-102-7-2/)
 * [earlyoom as der OOM-Killer der funktioniert?](https://www.shellhacks.com/oom-killer-doesnt-work-properly-solved/)
 * [Mit Move2Kube gibt es ein Werkzeug, welches euch den Weg in Kubernetes so einfach wie möglich macht.](https://opensource.com/article/23/2/kubernetes-migration-konveyor-move2kube)
+* [PRemoteM wurde in der Version 0.7.2.2 veröffentlicht.](https://github.com/1Remote/PRemoteM/releases/tag/0.7.2.2)
+* [libsignal wurde in der Version 0.22.1 veröffentlicht.](https://github.com/signalapp/libsignal/releases/tag/v0.22.1)
+* [vscodium wurde in der Version 1.75.1.23040 veröffentlicht.](https://github.com/VSCodium/vscodium/releases/tag/1.75.1.23040)
+* [Die Öffentlich-Rechtlichen meckern jedes Jahr, dass ihre Steuermilliarden nicht reichen und dann wollen sie ma leben Twitter nachbauen.](https://netzpolitik.org/2023/neues-aus-dem-fernsehrat-95-fragen-und-antworten-zum-public-space-incubator-des-zdf/) - Wenn man dann noch überlegt, dass neun von zehn Euro in Vetterwirtschaft verschwindet ... die Summe die die für so ein Projekt brauchen.
+* [Nextloud biete "für faule" eine All-In-One Docker-Lösung an.](https://nextcloud.com/blog/how-to-install-the-nextcloud-all-in-one-on-linux/)
+* [Über China dürfen die westlichen Medien berichtet und lasst euch nicht täuschen, solche "Umerziehungslager" gibt es auch in der "ersten Welt".](https://netzfrauen.org/2023/02/09/tibet/)
+* [FreeType wurde in der Version 2.13 veröffentlicht.](https://www.phoronix.com/news/FreeType-2.13-Released)
+* [Rechnet sich, 3M muss wohl 58 Milliarden Euro für ihre PFA-Gifte zahlen.](https://netzfrauen.org/2023/02/09/pfas-2/) - Aber das macht nichts, denn die haben mit PFA so unglaublich viel mehr Gewinn gemacht
+* [Rust wurde in der Version 1.67.1 veröffentlicht.](https://blog.rust-lang.org/2023/02/09/Rust-1.67.1.html)
+* [KeePass wurde in der Version 2.53.1 veröffentlicht.](https://www.borncity.com/blog/2023/02/10/keepass-2-53-1-bessert-bei-schwachstelle-cve-2023-24055-nach/)
+* [Doom (2016) ist jetzt 10 mal schneller, dank Zink.](https://www.phoronix.com/news/Zink-10x-Perf-Boost-Doom)
+* [Nennt mich "alte Person", aber für mich ist Thunderbird fertig. Warum die jetzt monatliche Veröffentlichungen anstreben, verstehe ich nicht.](https://lwn.net/Articles/922793/)
+* [War da die Zensur pinkeln? Unilever gibt offen zu, dass die nächsten Preiserhöhungen nichts mit der Inflation sondern mit der Profitgier des Konzerns zu tun haben.](http://blog.fefe.de/?ts=9d1bf5bc)
+* [Kuketz prüft für uns CalyxOS.](https://www.kuketz-blog.de/calyxos-de-googled-geht-anders-custom-roms-teil2/)
+* [systemd-resolved wird zunehmend der Standard im Linux.](https://utcc.utoronto.ca/~cks/space/blog/linux/SystemdResolvedConsidering) - Und das ist für den Alltag auch richtig so
 
