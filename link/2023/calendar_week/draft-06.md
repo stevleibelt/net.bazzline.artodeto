@@ -65,4 +65,5 @@
 * [War da die Zensur pinkeln? Unilever gibt offen zu, dass die nächsten Preiserhöhungen nichts mit der Inflation sondern mit der Profitgier des Konzerns zu tun haben.](http://blog.fefe.de/?ts=9d1bf5bc)
 * [Kuketz prüft für uns CalyxOS.](https://www.kuketz-blog.de/calyxos-de-googled-geht-anders-custom-roms-teil2/)
 * [systemd-resolved wird zunehmend der Standard im Linux.](https://utcc.utoronto.ca/~cks/space/blog/linux/SystemdResolvedConsidering) - Und das ist für den Alltag auch richtig so
+* [Disney++ macht nicht sofort unglaublich viel Gewinn, also reduziert man den Inhalt.](https://blog.fefe.de/?ts=9d186478) - Ganz klar, diese Erfolgsstrategie hat Netflix auch fast das Genick gebrochen, oder bricht es ihm gerade noch immer
 
