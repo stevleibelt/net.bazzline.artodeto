@@ -66,4 +66,11 @@
 * [Kuketz prüft für uns CalyxOS.](https://www.kuketz-blog.de/calyxos-de-googled-geht-anders-custom-roms-teil2/)
 * [systemd-resolved wird zunehmend der Standard im Linux.](https://utcc.utoronto.ca/~cks/space/blog/linux/SystemdResolvedConsidering) - Und das ist für den Alltag auch richtig so
 * [Disney++ macht nicht sofort unglaublich viel Gewinn, also reduziert man den Inhalt.](https://blog.fefe.de/?ts=9d186478) - Ganz klar, diese Erfolgsstrategie hat Netflix auch fast das Genick gebrochen, oder bricht es ihm gerade noch immer
+* [Realitätsabgleich Streamer in China.](https://blog.fefe.de/?ts=9d160051)
+* [Die Telekom, Telefonica, Vodafone und Orange bauen eine Überwachungsplattform auf Netzebene aus.](https://blog.fefe.de/?ts=9d19a207ô)
+* [harfbuzz wurde in der Version 7.0.0 veröffentlicht.](https://github.com/harfbuzz/harfbuzz/releases/tag/7.0.0)
+* [analytics wurde in der Version 4.7.0 veröffentlicht.](https://github.com/Rello/analytics/releases/tag/4.7.0)
+* [libsignal wurde in der Version 0.22.2 veröffentlicht.](https://github.com/signalapp/libsignal/releases/tag/v0.22.2)
+* [PCAPdroid wurde in der Version 1.6.1 veröffentlicht.](https://github.com/emanuele-f/PCAPdroid/releases/tag/v1.6.1)
+* [archzfs iso wurde in der Version 2023-02-12T12:13:56 veröffentlicht.](https://archzfs.leibelt.de/)
 
