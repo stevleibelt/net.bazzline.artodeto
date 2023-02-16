@@ -28,4 +28,17 @@
 * [Rector wurde in der Version 0.15.15 veröffentlicht.](https://github.com/rectorphp/rector/releases/tag/0.15.15)
 * [Caddy wurde in der Version 2.6.4 veröffentlicht.](https://github.com/caddyserver/caddy/releases/tag/v2.6.4)
 * [LdapRecord wurde in der Version 2.20.0 veröffentlicht.](https://github.com/DirectoryTree/LdapRecord/releases/tag/v2.20.0)
+* [Nein? Doch! Oh? Eventim bescheißt die Kunden wo es nur geht.](http://blog.fefe.de/?ts=9d13d637)
+* [Was kann so ein verunglückter Zug voller Chemie anrichten?](http://blog.fefe.de/?ts=9d1547a3) - Lest das durch und multipliziert den Fucked-Up-State mit zehn oder hundert
+* [Nutzt ihr nur noch einen Web-Client für die E-Mails, könnt ihr das im Webtbrowser ebenfalls über `mailto` als Filehandler einstellen.](https://www.windowspro.de/wolfgang-sommergut/web-browser-als-standardprogramm-fuer-e-mails-mailto-handler-konfigurieren) - Dann wird direkt euer Web-Client aufgerufen, wenn ihr auf einen E-Mail-Link klickt
+* [Systemd wurde in der Version 253 veröffentlicht.](https://www.phoronix.com/news/systemd-253)
+* [Podman netzwerk? Der Standafd ist `10.89.0.0/24`](https://blog.podman.io/2023/02/default-podman-network-subnets/)
+* [WSUS-Aufräumen? Das geht doch auch als geplante Aufgabe und mit PowerShell.](https://4sysops.com/archives/run-wsus-cleanup-as-a-scheduled-task/)
+* [Natur oder Landwirtschaft, diese Trennung muss aufhören.](https://netzfrauen.org/2023/02/15/agriculture-5/)
+* [Gut so! Die Besucherbergwerke in Sachsen sind ab jetzt befreit von der Wasserentnahmegabe.](https://knappenverein.de/besucherbergwerke-zukuenftig-per-gesetz-von-wasserentnahmeabgabe-befreit/)
+* [Hier wir euch gezeigt, wie ihr in OpenStack, Terraform und GitLab einsteigt.](https://opensource.com/article/23/2/manage-openstack-using-terraform-and-gitlab)
+* [Ansible? Gern auch nutzen um den eigenen Desktop zu provisionieren.](https://opensource.com/article/23/2/linux-kde-desktop-ansible)
+* [phpqa qurde in de rVersion 1.84.0 veröffentlicht.](https://github.com/jakzal/phpqa/releases/tag/v1.84.0)
+* [ClamAV wurde in der Version 1.0.1 veröffentlicht.](https://github.com/Cisco-Talos/clamav/releases/tag/clamav-1.0.1)
+* [mermaid wurde in der Version 9.4.0 veröffentlicht.](https://github.com/mermaid-js/mermaid/releases/tag/v9.4.0)
 
