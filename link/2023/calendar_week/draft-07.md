@@ -41,4 +41,11 @@
 * [phpqa qurde in de rVersion 1.84.0 veröffentlicht.](https://github.com/jakzal/phpqa/releases/tag/v1.84.0)
 * [ClamAV wurde in der Version 1.0.1 veröffentlicht.](https://github.com/Cisco-Talos/clamav/releases/tag/clamav-1.0.1)
 * [mermaid wurde in der Version 9.4.0 veröffentlicht.](https://github.com/mermaid-js/mermaid/releases/tag/v9.4.0)
+* [skopeo wurde in der Version 1.11.1 veröffentlicht.](https://github.com/containers/skopeo/releases/tag/v1.11.1)
+* [Joomla wurde in der Version 4.2.8 veröffentlicht.](https://github.com/joomla/joomla-cms/releases/tag/4.2.8)
+* [TrueCommand wurde in der Version 2.3.1 veröffentlicht.](https://github.com/truenas/documentation/releases/tag/TC2.3.1)
+* [Hangover wurde in der Version 0.8.1 veröffentlicht.](https://www.phoronix.com/news/Hangover-0.8.1-Released)
+* [Solarwatt aus Dresden wurde am 16.02.2023 30 Jahre alt.](https://www.mdr.de/video/mdr-videos/a/video-697640.html)
+* [>>Das heutige Karlsruher Urteil ist ein Sieg für das Grundrecht auf informationelle Selbstbestimmung. Künftige Gesetze zur polizeilichen Datenanalyse müssen neue Vorgaben erfüllen, um zu starke Eingriffe der Polizei in die Privatsphäre Betroffener zu vermeiden.<<](https://netzpolitik.org/2023/automatisierte-datenanalyse-der-wilde-westen-beim-data-mining-der-polizei-ist-vorbei/)
+* [Vulkan wurde in der Version 1.3.241 veröffentlicht.](https://www.phoronix.com/news/Vulkan-1.3.241-Released)
 
