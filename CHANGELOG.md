@@ -25,6 +25,8 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 
 ### To Change
 
+* fix the issue that the last draft file from previous year will never be renamed to non draft
+
 ## [Unreleased]
 
 ### Added
