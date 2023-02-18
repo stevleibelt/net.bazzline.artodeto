@@ -48,4 +48,10 @@
 * [Solarwatt aus Dresden wurde am 16.02.2023 30 Jahre alt.](https://www.mdr.de/video/mdr-videos/a/video-697640.html)
 * [>>Das heutige Karlsruher Urteil ist ein Sieg für das Grundrecht auf informationelle Selbstbestimmung. Künftige Gesetze zur polizeilichen Datenanalyse müssen neue Vorgaben erfüllen, um zu starke Eingriffe der Polizei in die Privatsphäre Betroffener zu vermeiden.<<](https://netzpolitik.org/2023/automatisierte-datenanalyse-der-wilde-westen-beim-data-mining-der-polizei-ist-vorbei/)
 * [Vulkan wurde in der Version 1.3.241 veröffentlicht.](https://www.phoronix.com/news/Vulkan-1.3.241-Released)
+* [Rector wurde in der Version 0.15.17 veröffentlicht.](https://github.com/rectorphp/rector/releases/tag/0.15.17)
+* [gradle wurde in der Version 8.0.1 veröffentlicht.](https://github.com/gradle/gradle/releases/tag/v8.0.1)
+* [phpstan wurde in der Version 1.9.18 veröffentlicht.](https://github.com/phpstan/phpstan/releases/tag/1.9.18)
+* [DSpace wurde in der Version 7.5 veröffentlicht.](https://github.com/DSpace/DSpace/releases/tag/dspace-7.5)
+* [Wine wurde in der Version 8.2 veröffentlicht.](https://www.phoronix.com/news/Wine-8.2-Released)
+* [Die IT von Wuppertal ist unten.](https://www.borncity.com/blog/2023/02/17/it-der-stadt-wuppertal-ist-down-17-2-2023/)
 
