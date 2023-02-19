@@ -54,4 +54,7 @@
 * [DSpace wurde in der Version 7.5 veröffentlicht.](https://github.com/DSpace/DSpace/releases/tag/dspace-7.5)
 * [Wine wurde in der Version 8.2 veröffentlicht.](https://www.phoronix.com/news/Wine-8.2-Released)
 * [Die IT von Wuppertal ist unten.](https://www.borncity.com/blog/2023/02/17/it-der-stadt-wuppertal-ist-down-17-2-2023/)
+* [Mit 200 Euro will euch die Bundesregierung die BundID aufschwatzen.](https://netzpolitik.org/2023/einmalzahlung-an-studierende-verpflichtung-zur-bundid/)
+* [workerman wurde in der Version 4.1.8 veröffentlicht.](https://github.com/walkor/workerman/releases/tag/v4.1.8)
+* [flet wurde in der Version 0.4.1 veröffentlicht.](https://github.com/flet-dev/flet/releases/tag/v0.4.1)
 
