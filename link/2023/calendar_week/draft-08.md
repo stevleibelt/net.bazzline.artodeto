@@ -38,4 +38,6 @@
 * [ToolJet wurde in der Version 2.1.5 veröffentlicht.](https://github.com/ToolJet/ToolJet/releases/tag/v2.1.5)
 * [fwupd wurde in der Version 1.8.11 veröffentlicht.](https://github.com/fwupd/fwupd/releases/tag/1.8.11)
 * [keycloak wurde in der Version 21.0.0 veröffentlicht.](https://github.com/keycloak/keycloak/releases/tag/21.0.0)
+* [Die Große Kreis-, Universitäts-, Silberstadt und Unesco Weltkulturerbe Freiberg bekommt neue Sirenenanlagen für den Bevölkerungsschutz](https://www.mdr.de/video/mdr-videos/f/video-699256.html)
+* [Hier gibt es schöne Zeilen über das Freiberger Reparaturcafe](http://freibergeragenda21.de/reparaturcafe-freiberg/)
 
