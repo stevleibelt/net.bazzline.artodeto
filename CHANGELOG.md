@@ -16,6 +16,11 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
     * Or
     * `git rebase -i --root`
       * See [this](https://opensource.com/article/22/11/advanced-git-commands) or [that](https://opensource.com/article/22/11/git-tips-technical-writers) `git rebase -i` information
+    * Or
+      * Copy content without .git into new directory
+        * Pull all commits from 01.01.yyyy until 31.12.yyyy and commit dem as one
+        * Pull all commits from current year and commit them as one
+    * If any of this ideas is working, apply it to all the other repositories like general_howts etc.
 * bin/calendar_week
     * check if latest draft file is current or last week
     * if latest draft is current week
