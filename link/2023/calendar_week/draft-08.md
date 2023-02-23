@@ -31,4 +31,11 @@
 * [valet-sh wurde in der Version 2.9.0 veröffentlicht.](https://github.com/valet-sh/valet-sh/releases/tag/2.9.0)
 * [rector wurde in der Version 0.15.18 veröffentlicht.](https://github.com/rectorphp/rector/releases/tag/0.15.18)
 * [gradle wurde in der Version 6.9.4 veröffentlicht.](https://github.com/gradle/gradle/releases/tag/v6.9.4)
+* [nextcloud wurde in der Version 25.0.4 veröffentlicht.](https://github.com/nextcloud/server/releases/tag/v25.0.4)
+* [nextcloud wurde in der Version 24.0.10 veröffentlicht.](https://github.com/nextcloud/server/releases/tag/v24.0.10)
+* [Adldap2 wurde in der Version 10.5.0 veröffentlicht.](https://github.com/Adldap2/Adldap2/releases/tag/v10.5.0)
+* [phpstan wurde in der Version 1.10.2 veröffentlicht.](https://github.com/phpstan/phpstan/releases/tag/1.10.2)
+* [ToolJet wurde in der Version 2.1.5 veröffentlicht.](https://github.com/ToolJet/ToolJet/releases/tag/v2.1.5)
+* [fwupd wurde in der Version 1.8.11 veröffentlicht.](https://github.com/fwupd/fwupd/releases/tag/1.8.11)
+* [keycloak wurde in der Version 21.0.0 veröffentlicht.](https://github.com/keycloak/keycloak/releases/tag/21.0.0)
 
