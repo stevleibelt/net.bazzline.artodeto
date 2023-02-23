@@ -24,4 +24,11 @@
 * [mermaid wurde in der Version 10.0.0 veröffentlicht.](https://github.com/mermaid-js/mermaid/releases/tag/v10.0.0)
 * [slint wurde in der Version 0.3.5 veröffentlicht.](https://github.com/slint-ui/slint/releases/tag/v0.3.5)
 * [keycloak wurde in der Version 20.0.5 veröffentlicht.](https://github.com/keycloak/keycloak/releases/tag/20.0.5)
+* [Nein? Doch! Oh? Plastikflaschen, die aus reiner Chemie bestehen (von "Natur" aus), sind doch nicht klinisch rein.](https://netzfrauen.org/2023/02/21/water-13/) - Glasflaschen, Freunde der Nacht!
+* [PHP_CodeSniffer wurde in der Version 3.7.2 veröffentlicht.](https://github.com/squizlabs/PHP_CodeSniffer/releases/tag/3.7.2)
+* [grav wurde in der Version 1.7.39.4 veröffentlicht.](https://github.com/getgrav/grav/releases/tag/1.7.39.4)
+* [phpqa wurde in der Version 1.84.1 veröffentlicht.](https://github.com/jakzal/phpqa/releases/tag/v1.84.1)
+* [valet-sh wurde in der Version 2.9.0 veröffentlicht.](https://github.com/valet-sh/valet-sh/releases/tag/2.9.0)
+* [rector wurde in der Version 0.15.18 veröffentlicht.](https://github.com/rectorphp/rector/releases/tag/0.15.18)
+* [gradle wurde in der Version 6.9.4 veröffentlicht.](https://github.com/gradle/gradle/releases/tag/v6.9.4)
 
