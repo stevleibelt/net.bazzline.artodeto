@@ -40,4 +40,9 @@
 * [keycloak wurde in der Version 21.0.0 veröffentlicht.](https://github.com/keycloak/keycloak/releases/tag/21.0.0)
 * [Die Große Kreis-, Universitäts-, Silberstadt und Unesco Weltkulturerbe Freiberg bekommt neue Sirenenanlagen für den Bevölkerungsschutz](https://www.mdr.de/video/mdr-videos/f/video-699256.html)
 * [Hier gibt es schöne Zeilen über das Freiberger Reparaturcafe](http://freibergeragenda21.de/reparaturcafe-freiberg/)
+* [rqlite wurde in der Version 7.13.2 veröffentlicht.](https://github.com/rqlite/rqlite/releases/tag/v7.13.2)
+* [cloud-hypervisor wurde in der Version 30.0 veröffentlicht.](https://github.com/cloud-hypervisor/cloud-hypervisor/releases/tag/v30.0)
+* [dolibarr wurde in der Version 16.0.4 veröffentlicht.](https://github.com/Dolibarr/dolibarr/releases/tag/16.0.4)
+* [Collextion parts wurde in der Version 10.2.0 veröffentlicht.](https://github.com/xp-forge/sequence/releases/tag/v10.2.0)
+* [>>Wieso ist es denn billiger, Lücken durch Bug Bounty zu finden als durch professionelle Security-Leute? Weil Bug Bounty das Risiko verschiebt. Wenn du zehn Firmen engagierst für einen Audit, und 3 finden nichts, dann musst du die ja trotzdem bezahlen. Bei Bug Bounty nicht.<<](http://blog.fefe.de/?ts=9d096e82) - Passt also auf, wo ihr eure Energie verschenkt
 
