@@ -46,3 +46,10 @@
 * [Collextion parts wurde in der Version 10.2.0 veröffentlicht.](https://github.com/xp-forge/sequence/releases/tag/v10.2.0)
 * [>>Wieso ist es denn billiger, Lücken durch Bug Bounty zu finden als durch professionelle Security-Leute? Weil Bug Bounty das Risiko verschiebt. Wenn du zehn Firmen engagierst für einen Audit, und 3 finden nichts, dann musst du die ja trotzdem bezahlen. Bei Bug Bounty nicht.<<](http://blog.fefe.de/?ts=9d096e82) - Passt also auf, wo ihr eure Energie verschenkt
 
+
+@todo
+https://blog.uberspace.de/ll-6-liebes-logbuch/
+https://stitcher.io/blog/slashdash
+https://www.kuketz-blog.de/wissen-ist-macht-das-grosse-wissensdossier-zu-%c2%a725-ttdsg-das-ttdsg-teil1/
+https://opensource.com/article/23/2/automate-openstack-ansible
+https://opensource.com/article/23/2/open-source-tools-personal-finance
