@@ -45,6 +45,13 @@
 * [dolibarr wurde in der Version 16.0.4 veröffentlicht.](https://github.com/Dolibarr/dolibarr/releases/tag/16.0.4)
 * [Collextion parts wurde in der Version 10.2.0 veröffentlicht.](https://github.com/xp-forge/sequence/releases/tag/v10.2.0)
 * [>>Wieso ist es denn billiger, Lücken durch Bug Bounty zu finden als durch professionelle Security-Leute? Weil Bug Bounty das Risiko verschiebt. Wenn du zehn Firmen engagierst für einen Audit, und 3 finden nichts, dann musst du die ja trotzdem bezahlen. Bei Bug Bounty nicht.<<](http://blog.fefe.de/?ts=9d096e82) - Passt also auf, wo ihr eure Energie verschenkt
+* [Microsoft mag keine aktuelle Software und liefert cURL weiterhin mit einer schweren Schwachstelle aus.](https://www.borncity.com/blog/2023/02/25/windows-microsoft-liefert-curl-bibliothek-weiterhin-mit-schwachstellen-aus-feb-2023/)
+* [http-server wurde in der Version 2.1.8 veröffentlicht.](https://github.com/amphp/http-server/releases/tag/v2.1.8)
+* [phpstan wurde in der Version 1.10.3 veröffentlicht.](https://github.com/phpstan/phpstan/releases/tag/1.10.3)
+* [fwupd wurde in der Version 1.8.12 veröffentlicht.](https://github.com/fwupd/fwupd/releases/tag/1.8.12)
+* [gradle wurde in der Version 7.6.1 veröffentlicht.](https://github.com/gradle/gradle/releases/tag/v7.6.1)
+* [joplin wurde in der Version 2.10.7 veröffentlicht.](https://github.com/laurent22/joplin/releases/tag/v2.10.7)
+* [fd wurde in der Version 8.7.0 veröffentlicht.](https://github.com/sharkdp/fd/releases/tag/v8.7.0)
 
 
 @todo
