@@ -52,11 +52,7 @@
 * [gradle wurde in der Version 7.6.1 veröffentlicht.](https://github.com/gradle/gradle/releases/tag/v7.6.1)
 * [joplin wurde in der Version 2.10.7 veröffentlicht.](https://github.com/laurent22/joplin/releases/tag/v2.10.7)
 * [fd wurde in der Version 8.7.0 veröffentlicht.](https://github.com/sharkdp/fd/releases/tag/v8.7.0)
+* [Zum Themenkomplex Pegasus gibt es jetzt ein Buch.](https://netzpolitik.org/2023/irgendwas-mit-internet-die-akte-pegasus-das-buch-zum-staatstrojaner-skandal/)
+* [Containers, Syncthing, Nextcloud, Jellyfin, Home Server (TrueNAS Scale)](https://opensource.com/article/23/2/open-source-tools-data) - Ich hab hier ein Bingo zum Thema "meine Daten gehören mir"
+* [Ihr sucht gute Werbe-Blocking-Listen? Kuketz empfiehlt StevenBalack Unfied hosts und 1Hosts](https://www.kuketz-blog.de/werbung-und-tracking-empfehlenswerte-filterlisten/)
 
-
-@todo
-https://blog.uberspace.de/ll-6-liebes-logbuch/
-https://stitcher.io/blog/slashdash
-https://www.kuketz-blog.de/wissen-ist-macht-das-grosse-wissensdossier-zu-%c2%a725-ttdsg-das-ttdsg-teil1/
-https://opensource.com/article/23/2/automate-openstack-ansible
-https://opensource.com/article/23/2/open-source-tools-personal-finance
