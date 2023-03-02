@@ -31,6 +31,22 @@
 * [Genode wurde in der Version 23.02 veröffentlicht.](https://github.com/genodelabs/genode/releases/tag/23.02)
 * [phpqa wurde in der Version 1.84.2 veröffentlicht.](https://github.com/jakzal/phpqa/releases/tag/v1.84.2)
 * [Rector wurde in der Version 0.15.19 veröffentlicht.](https://github.com/rectorphp/rector/releases/tag/0.15.19)
+* [Ab Oktober 2023 ist MySQL 5.7 end of life](https://www.percona.com/blog/mysql-5-7-end-of-life-six-months-away-switch-to-percona-server-for-mysql-today/)
+* [Nach Teams jetzt Azure, Microsoft erhöht die Preise weiter.](https://www.windowspro.de/news/microsoft-erhoeht-preise-fuer-azure-um-11-prozent/05320.html?utm_source=WindowsPro&utm_medium=rss&utm_campaign=Feed)
+* [Nach Südamerika und Indonesien jetzt Afrika, die Konzerne ohne Herz zerstören unseren Planeten für Dinge, die keiner braucht.](https://netzfrauen.org/2023/03/01/africa-12-2/)
+* [Wow, Telekom migriert ihre Nutzer von der MagentaCLOUD zu ihrer Nextcloud-Instanz](https://nextcloud.com/blog/deutsche-telekom-migrates-millions-of-magentacloud-users-to-nextcloud/)
+* [Das Herder Haus wurde in Freiberg am 28.02.2023 eröffnet.](https://www.mdr.de/video/mdr-videos/a/video-700776.html) - Damit hat die Stadt Freiberg ein wunderbares Stadtarchiv erhalten welches offen für Kinder und Schüler ist und mit engagierten Mitarbeitern Wissen vermittelt
+* [Patched bitte mal eure Aruba-Geräte.](https://www.bleepingcomputer.com/news/security/aruba-networks-fixes-six-critical-vulnerabilities-in-arubaos/)
+* [Godot wurde in der Version 4.0 veröffentlicht.](https://lwn.net/Articles/924814/)
+* [Wie die Bundesregierung mal wieder auf die Meinung des Volks pfeift, weil die Industrie mit Geld lockt.](https://www.patrick-breyer.de/chatkontrolle-anhoerung-warnungen-von-allen-seiten-aber-bundesregierung-sieht-zerstoerung-des-digitalen-briefgeheimnisses-zu/) - Beim Thema Chatkontrolle hat die Bundesregierung nur die Eurozeichen im Ohr
+* [Lando wurde in der Version 3.14.0 veröffentlicht.](https://github.com/lando/lando/releases/tag/v3.14.0)
+* [Tokio wurde in der Version 1.26.0 veröffentlicht.](https://github.com/tokio-rs/tokio/releases/tag/tokio-1.26.0)
+* [keycloak wurde in der Version 21.0.1 veröffentlicht.](https://github.com/keycloak/keycloak/releases/tag/21.0.1)
+* [mermaid wurde in der Version 10.0.1 veröffentlicht.](https://github.com/mermaid-js/mermaid/releases/tag/v10.0.1)
+* [phpqa wurde in der Version 1.85.0 veröffentlicht.](https://github.com/jakzal/phpqa/releases/tag/v1.85.0)
+* [crptomator wurde in der Version 1.7.0 veröffentlicht.](https://github.com/cryptomator/cryptomator/releases/tag/1.7.0)
+* [valet-sh wurde in de rVersion 2.9.2 veröffentlicht.](https://github.com/valet-sh/valet-sh/releases/tag/2.9.2)
+* [sonixd wurde in der Version 0.15.4 veröffentlicht.](https://github.com/jeffvli/sonixd/releases/tag/v0.15.4)
 
 @todo
 https://stitcher.io/blog/slashdash
