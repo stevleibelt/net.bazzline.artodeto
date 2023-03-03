@@ -47,6 +47,15 @@
 * [crptomator wurde in der Version 1.7.0 veröffentlicht.](https://github.com/cryptomator/cryptomator/releases/tag/1.7.0)
 * [valet-sh wurde in de rVersion 2.9.2 veröffentlicht.](https://github.com/valet-sh/valet-sh/releases/tag/2.9.2)
 * [sonixd wurde in der Version 0.15.4 veröffentlicht.](https://github.com/jeffvli/sonixd/releases/tag/v0.15.4)
+* [Was passiert, wenn der freie Markt durch die FDP an kritische Infrastruktur kommt? Ziele werden um 40 Jahre verschoben und es wird erst einmal eingespart.](http://blog.fefe.de/?ts=9afe11cd) - Den Porschefahrer ist die Bahn halt so lange egal, bis niemand mehr ihre Reifen wechselt.
+* [Das Landgericht Leipzig setzt zum Sprung an und will Hamburg rechts überholen - Ein DNS Anbieter soll jetzt Haftbar für Kinderkriegnaziraubmordkopierertaten sein.](http://blog.fefe.de/?ts=9afe737e) - Ach ja, Köln hat hier auch seine Finger im Spiel. Damit ist Leipzig wohl Trittbrettfahrer oder biedert sich den Konzernen an, any promotion is a good promotion
+* [Ach so ist das! In Gated Communities kann man keine 30-er Zone einführen, weil die großen SUV's so schnell auf 50 schnippsen ... kann man nichts machen](http://blog.fefe.de/?ts=9afe5ac7)
+* [Das der Stand von UEFI-BIOS so schlimm ist ...](http://blog.fefe.de/?ts=9afe6091) - Und wirklich schlimme ist, wegen den ganzen geheimen Blobs werden wir bald wieder funktionierende Hardware wegschmeißen, weil keiner Treiber nachbauen kann ... oder es bleibt dann bei unsicheren Systemen.
+* [UEFI ist aber auch wirklich kaputt.](http://blog.fefe.de/?ts=9afe58d4)
+* [TrustPID und warum auch das reine Lüge ist.](https://www.kuketz-blog.de/datenschutz-trustpid-in-drei-schritten-deaktivieren/)
+* [harfbuzz wurde in der Version 7.1.0 veröffentlicht.](https://github.com/harfbuzz/harfbuzz/releases/tag/7.1.0)
+* [firefly-iii wurde in der Version 6.0.0 veröffentlicht.](https://github.com/firefly-iii/firefly-iii/releases/tag/v6.0.0)
+* [mermaid wurde in der Version 10.0.2 veröffentlicht.](https://github.com/mermaid-js/mermaid/releases/tag/v10.0.2)
 
 @todo
 https://stitcher.io/blog/slashdash
