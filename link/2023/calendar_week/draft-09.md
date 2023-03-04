@@ -56,6 +56,18 @@
 * [harfbuzz wurde in der Version 7.1.0 veröffentlicht.](https://github.com/harfbuzz/harfbuzz/releases/tag/7.1.0)
 * [firefly-iii wurde in der Version 6.0.0 veröffentlicht.](https://github.com/firefly-iii/firefly-iii/releases/tag/v6.0.0)
 * [mermaid wurde in der Version 10.0.2 veröffentlicht.](https://github.com/mermaid-js/mermaid/releases/tag/v10.0.2)
+* [Move2Kube wurde in der Version 0.3.6 veröffentlicht.](https://github.com/konveyor/move2kube/releases/tag/v0.3.6)
+* [gelli wurde in der Version 1.3.5 veröffentlicht.](https://github.com/dkanada/gelli/releases/tag/v1.3.5)
+* [1Remote wurde in der Version 0.7.2.5 veröffentlicht.](https://github.com/1Remote/1Remote/releases/tag/0.7.2.5)
+* [RatOS wurde in der Version v2.0.0 veröffentlicht.](https://github.com/Rat-OS/RatOS/releases/tag/v2.0.0)
+* [gradle wurde in der Version 8.0.2 veröffentlicht.](https://github.com/gradle/gradle/releases/tag/v8.0.2)
+* [vscodium wurde in der Version 1.76.0.23062 veröffentlicht.](https://github.com/VSCodium/vscodium/releases/tag/1.76.0.23062)
+* [phan wurde in der Version 5.4.2 veröffentlicht.](https://github.com/phan/phan/releases/tag/5.4.2)
+* [cryptomator wurde in der Version 1.7.1 veröffentlicht.](https://github.com/cryptomator/cryptomator/releases/tag/1.7.1)
+* [openems wurde in der Version 2023.3.0 veröffentlicht.](https://github.com/OpenEMS/openems/releases/tag/2023.3.0)
+* [ToolJet wurde in der Version 2.9.0 veröffentlicht.](https://github.com/ToolJet/ToolJet/releases/tag/v2.2.0)
+* [Wine wurde in der Version 8.3 veröffentlicht.](https://www.phoronix.com/news/Wine-8.3-Released)
+* [Das Herderhaus Freiberg hat seine Bauübergabe erhalten](https://www.youtube.com/watch?v=tv6rHOLT9v0)
 
 @todo
 https://stitcher.io/blog/slashdash
