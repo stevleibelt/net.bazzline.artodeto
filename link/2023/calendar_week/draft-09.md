@@ -69,7 +69,3 @@
 * [Wine wurde in der Version 8.3 veröffentlicht.](https://www.phoronix.com/news/Wine-8.3-Released)
 * [Das Herderhaus Freiberg hat seine Bauübergabe erhalten](https://www.youtube.com/watch?v=tv6rHOLT9v0)
 
-@todo
-https://stitcher.io/blog/slashdash
-https://opensource.com/article/23/2/automate-openstack-ansible
-https://opensource.com/article/23/2/open-source-tools-personal-finance
