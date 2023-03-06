@@ -6,4 +6,6 @@
 * [colima wurde in der Version 0.5.3 veröffentlicht.](https://github.com/abiosoft/colima/releases/tag/v0.5.3)
 * [ddev wurde in der Version 1.21.5 veröffentlicht.](https://github.com/ddev/ddev/releases/tag/v1.21.5)
 * [phpseclib wurde in der Version 3.0.19 veröffentlicht.](https://github.com/phpseclib/phpseclib/releases/tag/3.0.19)
+* [colima wurde in der Version 0.5.4 veröffentlicht.](https://github.com/abiosoft/colima/releases/tag/v0.5.4)
+* [ahcrawler wurde in der Version 0.159 veröffentlicht.](https://github.com/axelhahn/ahcrawler/pull/15)
 
