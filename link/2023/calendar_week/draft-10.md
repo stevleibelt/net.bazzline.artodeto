@@ -8,4 +8,12 @@
 * [phpseclib wurde in der Version 3.0.19 veröffentlicht.](https://github.com/phpseclib/phpseclib/releases/tag/3.0.19)
 * [colima wurde in der Version 0.5.4 veröffentlicht.](https://github.com/abiosoft/colima/releases/tag/v0.5.4)
 * [ahcrawler wurde in der Version 0.159 veröffentlicht.](https://github.com/axelhahn/ahcrawler/pull/15)
+* [Realitätsabgleich "Nicht freie Software ist auf lange sicht günstiger".](http://blog.fefe.de/?ts=9afb276a)
+* [Machinen Learning gibt es in Rotterdam jetzt auch bei der Sozialhilfe](http://blog.fefe.de/?ts=9af8a7cc) - Tja, gibt es diesen Monat kein Geld und damit kein Essen, Softwarefehler ... kann man nichts machen
+* [phpstan wurde in der Version 1.10.4 veröffentlicht.](https://github.com/phpstan/phpstan/releases/tag/1.10.4)
+* [phpseclib wurde in der Version 2.0.42 veröffentlicht.](https://github.com/phpseclib/phpseclib/releases/tag/2.0.42)
+* [BetterReflection wurde in der Version 6.8.0 veröffentlicht.](https://github.com/Roave/BetterReflection/releases/tag/6.8.0)
+* [Microsoft Word ist kaputt.](https://www.bleepingcomputer.com/news/security/proof-of-concept-released-for-critical-microsoft-word-rce-bug/)
+* [Rolf Schwartmann, das U-Boot der Industrie wenn es um Datenschutz und deren Unbedenklichkeitserklärung geht.](https://www.kuketz-blog.de/das-lobbyinstitut-vom-datenschutz-experten-rolf-schwartmann-das-ttdsg-teil3/) - Es sind ja noch Stricke da ...
+* [Hier wird euch gezeigt, wie ihr ein Raspberry Pi Monitoring Dashboard in unter 30 Minuten baut](https://opensource.com/article/23/3/build-raspberry-pi-dashboard-appsmith) - Der geheime Star ist hierbei [Appsmith](https://github.com/appsmithorg/appsmith)
 
