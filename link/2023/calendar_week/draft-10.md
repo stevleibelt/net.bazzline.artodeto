@@ -16,4 +16,17 @@
 * [Microsoft Word ist kaputt.](https://www.bleepingcomputer.com/news/security/proof-of-concept-released-for-critical-microsoft-word-rce-bug/)
 * [Rolf Schwartmann, das U-Boot der Industrie wenn es um Datenschutz und deren Unbedenklichkeitserklärung geht.](https://www.kuketz-blog.de/das-lobbyinstitut-vom-datenschutz-experten-rolf-schwartmann-das-ttdsg-teil3/) - Es sind ja noch Stricke da ...
 * [Hier wird euch gezeigt, wie ihr ein Raspberry Pi Monitoring Dashboard in unter 30 Minuten baut](https://opensource.com/article/23/3/build-raspberry-pi-dashboard-appsmith) - Der geheime Star ist hierbei [Appsmith](https://github.com/appsmithorg/appsmith)
+* [Unsere global agierende Supply-Chain für Obst und Gemüse bricht zusammen.](http://blog.fefe.de/?ts=9af9a4e0)
+* [Nein? Doch! Oh? Vonovia hat ihre Marktmarkt ausgenutzt und sich bestechen lassen](http://blog.fefe.de/?ts=9af9e792)
+* [ECDSA ist kaputt und damit auch ein Teil von Blockchain-Wallets.](http://blog.fefe.de/?ts=9af9cd61)
+* [SHA-3 ist in der Referenzimplementierung kaputt.](http://blog.fefe.de/?ts=9af9c7a3)
+* [Zabbix wurde in der Version 6.4 veröffentlicht.](https://blog.zabbix.com/zabbix-6-4-is-out-now/25444/)
+* [Hier wird euch noch einmal gezeigt, wie ihr OpenVPN auf eurer Opnsense einrichtet.](https://www.windowspro.de/thomas-joos/openvpn-opnsense-einrichten)
+* [mermaid wurde in der Version 9.4.3 veröffentlicht.](https://github.com/mermaid-js/mermaid/releases/tag/v9.4.3)
+* [phpstan wurde in der Version 1.10.5 veröffentlicht.](https://github.com/phpstan/phpstan/releases/tag/1.10.5)
+* [xcat-core wurde in der Version 2.16.5 veröffentlicht.](https://github.com/xcat2/xcat-core/releases/tag/2.16.5)
+* [cryptomator wurde in der Version 1.7.2 veröffentlicht.](https://github.com/cryptomator/cryptomator/releases/tag/1.7.2)
+* [openfoodnetwork wurde in der Version 4.2.37 veröffentlicht.](https://github.com/openfoodfoundation/openfoodnetwork/releases/tag/v4.2.37)
+* [ToolJet wurde in der Version 2.2.1 veröffentlicht.](https://github.com/ToolJet/ToolJet/releases/tag/v2.2.1)
+* [openITCOCKPIT wurde in der Version 4.6.2 veröffentlicht.](https://github.com/it-novum/openITCOCKPIT/releases/tag/openITCOCKPIT-4.6.2)
 
