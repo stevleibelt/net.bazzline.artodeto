@@ -29,4 +29,14 @@
 * [openfoodnetwork wurde in der Version 4.2.37 veröffentlicht.](https://github.com/openfoodfoundation/openfoodnetwork/releases/tag/v4.2.37)
 * [ToolJet wurde in der Version 2.2.1 veröffentlicht.](https://github.com/ToolJet/ToolJet/releases/tag/v2.2.1)
 * [openITCOCKPIT wurde in der Version 4.6.2 veröffentlicht.](https://github.com/it-novum/openITCOCKPIT/releases/tag/openITCOCKPIT-4.6.2)
+* [rqlite wurde in der Version 7.14.0 veröffentlicht.](https://github.com/rqlite/rqlite/releases/tag/v7.14.0)
+* [Sophia Script for Windows wurde in der Version 08.03.2023 veröffentlicht.](https://github.com/farag2/Sophia-Script-for-Windows/releases/tag/6.4.0)
+* [appsmith wurde in der Version 1.9.10 veröffentlicht.](https://github.com/appsmithorg/appsmith/releases/tag/v1.9.10)
+* [>>Die größeren Züchter haben Gas zu einem günstigeren Preis gekauft bevor der Gaspreis explodiert ist und plötzlich war es um einiges lukrativer das Gas zu einem höheren Preis zu verkaufen als es selbst zur Zucht zu benutzen. Gibt mehrere Unternehmen die mit dem Verkauf von Gas mehr Umsatz gemacht haben als die letzten 5 Jahre mit der Zucht von Blumen.<<](http://blog.fefe.de/?ts=9af6bca5) - Immer wieder dieser freie Markt, der sich von menschlichen Bedürfnissen der Weltengemeinschaft entfremdet hat
+* [Auto-Fill funktionalität von Passwordmanagern? Nicht so geil!](https://www.bleepingcomputer.com/news/security/bitwarden-flaw-can-let-hackers-steal-passwords-using-iframes/)
+* [Mesa wurde in de rVersion 22.3.7 veröffentlicht.](https://www.phoronix.com/news/Mesa-22.3.7-Released)
+* [Bitte einmal Veeam aktualisieren.](https://www.bleepingcomputer.com/news/security/veeam-fixes-bug-that-lets-hackers-breach-backup-infrastructure/)
+* [Samba wurde in der Version 4.18.0 veröffentlicht.](https://lwn.net/Articles/925632/)
+* [a2ps (anything to pstscript) wurde in der Version 4.15 veröffentlicht.](https://lwn.net/Articles/925631/)
+* [Liebe Netzfrauen, alles gute zum 10 jährigen](https://netzfrauen.org/2023/03/08/netzfrauen-2/)
 
