@@ -51,4 +51,7 @@
 * [Rust wurde in der Version 1.68.0 veröffentlicht.](https://blog.rust-lang.org/2023/03/09/Rust-1.68.0.html)
 * [PipeWire wurde in der Version 0.3.67 veröffentlicht.](https://www.phoronix.com/news/PipeWire-0.3.67-Released)
 * [Hangover wurde in der Version 0.8.3 veröffentlicht](https://www.phoronix.com/news/Hangover-0.8.3)
+* [Die alten Herren der ehemaligen Volksparteien wollen Speerklauseln in die Europawahl einbringen](https://www.patrick-breyer.de/europaabgeordnete-sperrklausel-zur-europawahl-ist-anschlag-auf-unsere-demokratie-und-gefaehrdet-europa/) - Damit wird "Diversität" zerschlagen und es treten nur noch Parteien zur Wahl an, die sich den Wahlkampf finanziell leisten können ... und zwar den großen und teuren Wahlkampf!
+* [Beeper behauptet mal wieder, dass er alle messenger bespielen kann.](https://gnulinux.ch/multi-messenger-beeper)
+* [Sehr schön! Ein Gericht in Österreich stuft die FIFA-Lootboxen als illegales Glückspiel ein](https://www.onli-blogging.de/2246/Linksammlung-102023.html)
 
