@@ -54,4 +54,11 @@
 * [Die alten Herren der ehemaligen Volksparteien wollen Speerklauseln in die Europawahl einbringen](https://www.patrick-breyer.de/europaabgeordnete-sperrklausel-zur-europawahl-ist-anschlag-auf-unsere-demokratie-und-gefaehrdet-europa/) - Damit wird "Diversität" zerschlagen und es treten nur noch Parteien zur Wahl an, die sich den Wahlkampf finanziell leisten können ... und zwar den großen und teuren Wahlkampf!
 * [Beeper behauptet mal wieder, dass er alle messenger bespielen kann.](https://gnulinux.ch/multi-messenger-beeper)
 * [Sehr schön! Ein Gericht in Österreich stuft die FIFA-Lootboxen als illegales Glückspiel ein](https://www.onli-blogging.de/2246/Linksammlung-102023.html)
+* [AltSnap wurde in der Version 1.59 veröffentlicht.](https://github.com/RamonUnch/AltSnap/releases/tag/1.59)
+* [firefly-iii wurde in der Version 6.0.2 veröffentlicht.](https://github.com/firefly-iii/firefly-iii/releases/tag/v6.0.2)
+* [ddev wurde in der Version 1.21.6 veröffentlicht.](https://github.com/ddev/ddev/releases/tag/v1.21.6)
+* [box86 wurde in der Version 0.3.0 veröffentlicht.](https://github.com/ptitSeb/box86/releases/tag/v0.3.0)
+* [box64 wurde in der Version 0.2.2 veröffentlicht.](https://github.com/ptitSeb/box64/releases/tag/v0.2.2)
+* [LdapRecord wurde in der Version 2.20.3 veröffentlicht.](https://github.com/DirectoryTree/LdapRecord/releases/tag/v2.20.3)
+* [workerman wurde in der Version 4.1.9 veröffentlicht.](https://github.com/walkor/workerman/releases/tag/v4.1.9)
 
