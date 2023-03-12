@@ -61,4 +61,9 @@
 * [box64 wurde in der Version 0.2.2 veröffentlicht.](https://github.com/ptitSeb/box64/releases/tag/v0.2.2)
 * [LdapRecord wurde in der Version 2.20.3 veröffentlicht.](https://github.com/DirectoryTree/LdapRecord/releases/tag/v2.20.3)
 * [workerman wurde in der Version 4.1.9 veröffentlicht.](https://github.com/walkor/workerman/releases/tag/v4.1.9)
+* [GNU Octave wurde in der Version 8.1 veröffentlicht.](https://www.phoronix.com/news/GNU-Octave-8.1) - Ich wusste gar nicht, dass es eine MATLAB-Alternative gibt
+* [Podman kommt mit einem systemd-service Generator, so dass ihr eure Container während des Startvorgangs starten könnt.](https://www.putorius.net/how-to-start-podman-containers-on-boot.html)
+* [So, So ... be ider elektronischen Patientenakte (das Ding, was mit Ansage hart verkackt wurde), fordert Lauterbach jetzt eine Opt-Out Strategie.](https://www.borncity.com/blog/2023/03/12/lauterbach-will-die-elektronische-patientenakte-epa-mit-opt-out-ein-desaster-mit-ansage-oder-wolkenkuckucksheim/) - >>Wie genau der Widerspruch erfolgen kann und wie die Opt-out-Regelung genau aussieht, ist weiterhin nicht bekannt. Die Daten aus der ePA sollen in Zukunft automatisch zu Forschungszwecken über das Forschungsdatenzentrum (FDZ) abgerufen werden können. Auch die forschende Industrie soll Anträge auf Datennutzung stellen können.<<
+* [RetroArch wurde in der VErsion 1.15.0 veröffentlicht.](https://wiidatabase.de/retroarch-v1-15-0/)
+* [Hey, toller Rechtsstaat ... die Polzei dar Fingerabdrücke nehmen, um ein Handy zu entsperren.](https://netzpolitik.org/2023/gerichtsbeschluss-polizei-darf-fingerabdruecke-nehmen-um-handy-zu-entsperren/)
 
