@@ -32,3 +32,4 @@
 * [OpenSSL wurde in der Version 3.1 veröffentlicht.](https://www.phoronix.com/news/OpenSSL-3.1-Released)
 * [Warum will und brauch ich das? Mit der Werbung, dass ich Rezepte europaweit einlösen kann, wird von meinen Steuergeldern ein Datenreichtum für Unternehmen geschaffen.](https://netzpolitik.org/2023/european-health-data-space-ein-datenraum-voller-ungereimtheiten/) - Ich möchte lieber Kindergärten, Schulen etc. für das Geld bezahlen. Es kommt bei mir super selten vor, dass ich mit meinem Privatjet schnell in Spanien ein Rezept einlösen muss
 * [Bitte lest euch auch diesen Artikel durch, falls ihr kurz mit dem Gedanken gespielt habt, dass Pharamakonzerne doch ein Herz haben solltne.](https://impfentscheidung.online/das-darf-sich-nicht-wiederholen-desaster-bei-rsv-impfstoffen/)
+* [archzfs.iso wurde in der Version 2023-03-14T21:36:27 veröffentlicht.](https://archzfs.leibelt.de/)
