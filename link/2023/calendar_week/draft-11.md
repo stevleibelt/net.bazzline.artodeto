@@ -20,4 +20,15 @@
 * [GMail verweigert Mail-Annahme wenn der SPF-Record fehlt.](https://www.borncity.com/blog/2023/03/13/gmail-verweigert-die-mail-annahme/)
 * [Brauchen wir noch mehr digital in der Verwaltung oder erst einmal gut geschulte und bezahlte Mitarbeiter?](https://www.borncity.com/blog/2023/03/13/it-sicherheitsvorflle-in-deutschen-kommunalverwaltungen/)
 * [Kuketz schaut scih einmal den Rundfunk und deren Datenschutz an.](https://www.kuketz-blog.de/google-analytics-beim-bayerischen-rundfunk-und-die-lascheste-datenschutzbehoerde-europas-das-ttdsg-teil4/) - Wie zu erwarten war, geblendet von "wir können alles vom nutzer tracken, damit wir unseren Staatsauftrag erfüllen ... ZEITVERTREIB UND VERBLÖDUNG"
-
+* [Nushell wurde in der Version 0.77.0 veröffentlicht.](https://github.com/nushell/nushell/releases/tag/0.77.0)
+* [joomla-cms wurde in der Version 4.2.9 veröffentlicht.](https://github.com/joomla/joomla-cms/releases/tag/4.2.9)
+* [jitsi-admin wurde in der Version 0.74.4 veröffentlicht.](https://github.com/H2-invent/jitsi-admin/releases/tag/0.74.4)
+* [Sophia Script for Windows wurde in der Version 14.03.2023 veröffentlicht.](https://github.com/farag2/Sophia-Script-for-Windows/releases/tag/6.4.1)
+* [>>Microsoft richtet ihr Sprachmodell absichtlich darauf aus, dass es möglich gut in Prüfungen beim Bescheißen helfen kann.<<](http://blog.fefe.de/?ts=9aee1dcb) - Erinnert mich dunkel an die Zeiten, als man mit copy-n-pasted Encarta-Artikel in der Schule glänzen konnte
+* [Microsoft macht jetzt KI ohne ethnischne und soziale Bremssteine.](http://blog.fefe.de/?ts=9aeef939) - Moral behindert!
+* [Wow, der goldene Westen und allem voran die "Ich kauf mich auf 1 Millione Einwohner"-Kölle zeigt wie erfolgreich ihr Gesellschaftsmodel ist ... Schüler kriegen Lose ob sie auf eine Schule gehen dürfen.](http://blog.fefe.de/?ts=9aee53da) - Wie in Hamburg, dort gibt es theoretisch einen Kindergartenplatzt, praktisch bedeutet das aber "Kann auch mal 2 Stunden entfernt sein"
+* [Yannis Varoufakis wurde Gewalt angtan und das wegen völlig falschen Zerrbildern :-(](http://blog.fefe.de/?ts=9aee7407)
+* [Was hat die Sparkasse Mittelsachsen die letzten 200 Jahre so gemacht? GlückAufTV zeigt es euch.](https://www.youtube.com/watch?v=6KPTK1PtOQE)
+* [OpenSSL wurde in der Version 3.1 veröffentlicht.](https://www.phoronix.com/news/OpenSSL-3.1-Released)
+* [Warum will und brauch ich das? Mit der Werbung, dass ich Rezepte europaweit einlösen kann, wird von meinen Steuergeldern ein Datenreichtum für Unternehmen geschaffen.](https://netzpolitik.org/2023/european-health-data-space-ein-datenraum-voller-ungereimtheiten/) - Ich möchte lieber Kindergärten, Schulen etc. für das Geld bezahlen. Es kommt bei mir super selten vor, dass ich mit meinem Privatjet schnell in Spanien ein Rezept einlösen muss
+* [Bitte lest euch auch diesen Artikel durch, falls ihr kurz mit dem Gedanken gespielt habt, dass Pharamakonzerne doch ein Herz haben solltne.](https://impfentscheidung.online/das-darf-sich-nicht-wiederholen-desaster-bei-rsv-impfstoffen/)
