@@ -47,4 +47,5 @@
 * [phpqa wurde in der Version 1.85.2 veröffentlicht.](https://github.com/jakzal/phpqa/releases/tag/v1.85.2)
 * [cryptomator wurde in der Version 1.7.3 veröffentlicht.](https://github.com/cryptomator/cryptomator/releases/tag/1.7.3)
 * [jitsi-admin wurde in der Version 0.74.5 veröffentlicht.](https://github.com/H2-invent/jitsi-admin/releases/tag/0.74.5)
+* [Weißt du was aber wirklich extrem ist? Ronny ist das stärkste Schwein, wo ich je erlebt hab, ja?](https://youtu.be/PtDO0ygFHJo?t=134)
 
