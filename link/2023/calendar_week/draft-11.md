@@ -48,4 +48,18 @@
 * [cryptomator wurde in der Version 1.7.3 veröffentlicht.](https://github.com/cryptomator/cryptomator/releases/tag/1.7.3)
 * [jitsi-admin wurde in der Version 0.74.5 veröffentlicht.](https://github.com/H2-invent/jitsi-admin/releases/tag/0.74.5)
 * [Weißt du was aber wirklich extrem ist? Ronny ist das stärkste Schwein, wo ich je erlebt hab, ja?](https://youtu.be/PtDO0ygFHJo?t=134)
+* [Frieiberg hat einen Lehrgang zur Grubenrettung für Laien entwickelt.](https://www.mdr.de/video/mdr-videos/c/video-705308.html)
+* [Auf der Kultusministerkonferenz wurde 2023 einheitliche Regelungen für die gymnasiale Oberstufe beschlossen. Was sich für Sachsen ändert, erfahrt ihr hier.](https://www.bildung.sachsen.de/blog/index.php/2023/03/16/kultusministerkonferenz-beschliesst-einheitliche-regelungen-fuer-die-gymnasiale-oberstufe/) - Die Änderungen treten 2027 in Kraft
+* [Thunderbird wurde in der Version 102.9.0 veröffentlicht.](https://www.borncity.com/blog/2023/03/16/thunderbird-102-9-0/)
+* [>>In dieser Landschaft ist OpenAI nun keine gemeinnützige Alternative mehr, sondern ein kompetetives Milliarden-Start-up in einem umkämpften Markt, das schneller, besser und profitabler sein will als die anderen.<<](https://netzpolitik.org/2023/ki-forschung-openai-ist-jetzt-closedai/)
+* [OpenSSH wurde in der Version 9.3 veröffentlicht.](https://lwn.net/Articles/926321/)
+* [Firefox wurde in den Versionen 111.0 und 102.9.0 veröffentlicht.](https://www.borncity.com/blog/2023/03/16/firefox-111-0-und-102-9-0-esr-freigegeben/)
+* [Auch Ola Bini muss erfahren, wie viel Macht der US-Amerikanische Aggressor überall auf der Welt ausübt.](https://netzpolitik.org/2023/internetaktivist-ecuador-laesst-ola-bini-weiterhin-nicht-ausreisen/)
+* [Outlook ist mal wieder richtig kaputt.](https://www.borncity.com/blog/2023/03/16/outlook-wegen-kritischer-schwachstelle-cve-2023-23397-patchen/)
+* [Mold wurde in der Version 1.11 veröffentlicht.](https://www.phoronix.com/news/Mold-1.11-Released)
+* [Qt wurde in der Version 6.4.3 veröffentlicht.](https://www.phoronix.com/news/Qt-6.4.3-Released)
+* [Mold wurde in der Version 1.11.0 veröffentlicht.](https://github.com/rui314/mold/releases/tag/v1.11.0)
+* [Analytics wurde in der Version 4.8.0 veröffentlicht.](https://github.com/Rello/analytics/releases/tag/4.8.0)
+* [phpstan wurde in der Version 1.10.7 veröffentlicht.](https://github.com/phpstan/phpstan/releases/tag/1.10.7)
+* [Fluent Bit wurde in der Version 2.0.10 veröffentlicht.](https://github.com/fluent/fluent-bit/releases/tag/v2.0.10)
 
