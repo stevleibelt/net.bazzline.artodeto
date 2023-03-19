@@ -74,4 +74,7 @@
 * [GameCube Backup Manager wurde in der Version 2.6.17 veröffentlicht.](https://wiidatabase.de/gamecube-backup-manager-v2-6-1-7/)
 * [Realitätsabgleich KI: >>Hinter den Anwendungen stehen Millionen von Menschen, die Inhalte moderieren und Trainingsdaten etikettieren. Sie helfen auch dabei, die Daten überhaupt zu generieren, indem sie Bilder hochladen und Worte einsprechen. Es gibt sogar Mitarbeiter:innen, die sich gegenüber Nutzer:innen als KI ausgeben.<<](https://netzpolitik.org/2023/datenarbeit-wie-millionen-menschen-fuer-die-ki-schuften/)
 * [Modern Font Stacks ist eventuell auch etwas für euch.](https://modernfontstacks.com/)
+* [portier-broker wurde in der VErsion 0.8.0 veröffentlicht.](https://github.com/portier/portier-broker/releases/tag/v0.8.0)
+* [LLVM wurde in der Version 16.0.0 veröffentlicht.](https://lwn.net/Articles/926485/)
+* [Libreboot 20230319 unterstützt ThinkPad T530 und W530](https://www.phoronix.com/news/Libreboot-20230319)
 
