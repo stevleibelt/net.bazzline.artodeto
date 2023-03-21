@@ -5,4 +5,10 @@
 * [cURL wurde in der Version 8.0 veröffentlicht.](https://www.phoronix.com/news/curl-8.0-Released)
 * [DragonFly wurde in der Version 1.0 veröffentlicht.](https://www.phoronix.com/news/Dragonflydb-1.0-Released) Nicht das BSD
 * [Gitea wurde in der Version 1.19.0 veröffentlicht.](https://github.com/go-gitea/gitea/releases/tag/v1.19.0)
+* [Friedensfazilität ist jetzt Neusprech für Ausgaben aus dem Rütungsfond der EU](http://blog.fefe.de/?ts=9ae696f4)
+* [openfoodnetwork wurde in der Version 4.2.39 veröffentlicht.](https://github.com/openfoodfoundation/openfoodnetwork/releases/tag/v4.2.39)
+* [BigBlueButton wurde in der Version 2.6.0 veröffentlicht.](https://github.com/bigbluebutton/bigbluebutton/releases/tag/v2.6.0)
+* [dolibarr wurde in der Version 16.0.5 veröffentlicht.](https://github.com/Dolibarr/dolibarr/releases/tag/16.0.5)
+* [headscale wurde in der Version 0.21.0 veröffentlicht.](https://github.com/juanfont/headscale/releases/tag/v0.21.0)
+* [coreutils wurde in der Version 9.2 veröffentlicht.](https://lwn.net/Articles/926676/)
 
