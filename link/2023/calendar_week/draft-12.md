@@ -11,4 +11,7 @@
 * [dolibarr wurde in der Version 16.0.5 veröffentlicht.](https://github.com/Dolibarr/dolibarr/releases/tag/16.0.5)
 * [headscale wurde in der Version 0.21.0 veröffentlicht.](https://github.com/juanfont/headscale/releases/tag/v0.21.0)
 * [coreutils wurde in der Version 9.2 veröffentlicht.](https://lwn.net/Articles/926676/)
+* [Die Bank gewinnt immer ... AT1 bonds/Additional Tier 1 bank bonds sind 2023](http://blog.fefe.de/?ts=9ae7b682)
+* [Mit scorecard könnt ihr Projekte lokal oder via github-action prüfen lassen.](https://opensource.com/article/23/3/open-source-security-scorecard)
+* [Fediverse? Hier kriegt ihr iene Einführung.](https://opensource.com/article/23/3/tour-the-fediverse)
 
