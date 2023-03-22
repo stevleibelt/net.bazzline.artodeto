@@ -23,4 +23,9 @@
 * [Verdi ruft zum Streik in der KW 12 auf.](https://www1.wdr.de/nachrichten/verdi-warnstreik-oeffentlicher-dienst-nrw-100.html) - Bevor hier Meinung gemacht wird, es geht hier nie um "mehr Geld" sondern um einen Inflationsausgleich. Die Inflation von 2022 ist durch die Gier der Konzerne und Banken entstanden
 * [Nextcloud baut an einem Exchange-Connector](https://nextcloud.com/blog/join-our-beta-program-for-the-nextcloud-exchange-connector/)
 * [Dieses ganze Schauspiel um Russland ist doch eine reine Verarsche ... am Ende kauft die Welt doch von Russland.](https://netzfrauen.org/2023/03/21/uranium-2/) - Es geht hier also mal wieder nicht um "Frieden .. ähh Demokratie" bringen sondern um wirtschaftliche und geostrategische Interessen der Großmächte
+* [>>Aktuell seien immer noch 34 Prozent der täglichen Downloads von Log4j Versionen, die für die Sicherheitslücke CVE-2021-44228 anfällig seien.<<](http://blog.fefe.de/?ts=9ae4ef0f) - Warum arbeite ich eigentlich so hart?
+* [webmin wurde in der Version 2.021 veröffentlicht.](https://github.com/webmin/webmin/releases/tag/2.021)
+* [changedetection.io wurde in der Version 0.41 veröffentlicht.](https://github.com/dgtlmoon/changedetection.io/releases/tag/0.41)
+* [nextcloud server wurde in der Version 26.0.0 veröffentlicht.](https://github.com/nextcloud/server/releases/tag/v26.0.0)
+* [opentrack wurde in der Version 2023.1.0 veröffentlicht.](https://github.com/opentrack/opentrack/releases/tag/opentrack-2023.1.0)
 
