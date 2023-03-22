@@ -14,4 +14,13 @@
 * [Die Bank gewinnt immer ... AT1 bonds/Additional Tier 1 bank bonds sind 2023](http://blog.fefe.de/?ts=9ae7b682)
 * [Mit scorecard könnt ihr Projekte lokal oder via github-action prüfen lassen.](https://opensource.com/article/23/3/open-source-security-scorecard)
 * [Fediverse? Hier kriegt ihr iene Einführung.](https://opensource.com/article/23/3/tour-the-fediverse)
+* [>>[...] a filesystem's fsid is not copied through ZFS send and receive [...]<<](https://utcc.utoronto.ca/~cks/space/blog/linux/ZFSAndNFSFilesystemIDs)
+* [Das Online-Banking der Commerzbank ist kaputt.](https://www.borncity.com/blog/2023/03/22/commerzbank-online-banking-massive-probleme-mit-dns-records-mrz-2023/)
+* [Wii-Us CDecrypt wurde in der Version 4.8 veröffentlicht.](https://wiidatabase.de/cdecrypt-v4-8/)
+* [Realitätsabgleich Analysetracking und warum dies so gefährlich ist.](https://www.kuketz-blog.de/meinung-es-gibt-kein-grundrecht-auf-analyse-ttdsg-teil5/)
+* [Apropos Microtargeting (nettes Wort, oder?) noyb reicht Beschwerde ein!](https://netzpolitik.org/2023/politische-parteien-noyb-reicht-beschwerden-wegen-microtargeting-ein/)
+* [JDK wurde in der Version 20 veröffentlicht.](https://lwn.net/Articles/926781/)
+* [Verdi ruft zum Streik in der KW 12 auf.](https://www1.wdr.de/nachrichten/verdi-warnstreik-oeffentlicher-dienst-nrw-100.html) - Bevor hier Meinung gemacht wird, es geht hier nie um "mehr Geld" sondern um einen Inflationsausgleich. Die Inflation von 2022 ist durch die Gier der Konzerne und Banken entstanden
+* [Nextcloud baut an einem Exchange-Connector](https://nextcloud.com/blog/join-our-beta-program-for-the-nextcloud-exchange-connector/)
+* [Dieses ganze Schauspiel um Russland ist doch eine reine Verarsche ... am Ende kauft die Welt doch von Russland.](https://netzfrauen.org/2023/03/21/uranium-2/) - Es geht hier also mal wieder nicht um "Frieden .. ähh Demokratie" bringen sondern um wirtschaftliche und geostrategische Interessen der Großmächte
 
