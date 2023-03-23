@@ -28,4 +28,14 @@
 * [changedetection.io wurde in der Version 0.41 veröffentlicht.](https://github.com/dgtlmoon/changedetection.io/releases/tag/0.41)
 * [nextcloud server wurde in der Version 26.0.0 veröffentlicht.](https://github.com/nextcloud/server/releases/tag/v26.0.0)
 * [opentrack wurde in der Version 2023.1.0 veröffentlicht.](https://github.com/opentrack/opentrack/releases/tag/opentrack-2023.1.0)
+* [Homebrew App Store wurde in der Version 2.3.1 veröffentlicht.](https://wiidatabase.de/homebrew-app-store-v2-3-1/)
+* [GameCube Backup Manager wurde in der Version 2.6.1.8 veröffentlicht.](https://wiidatabase.de/gamecube-backup-manager-v2-6-1-8/)
+* [Gnome wurde in der Version 44 veröffentlicht.](https://lwn.net/Articles/926856/)
+* [Dank dem hessischen Versammlungsgesetzt kann man zum Staate Hessen jetzt nur noch ein Wort verlieren ... OBEY!](https://netzpolitik.org/2023/videoueberwachung-auf-demos-hessen-verabschiedet-umstrittenes-versammlungsgesetz/)
+* [Firefox wurde in der Version 111.0.1 veröffentlicht.](https://www.borncity.com/blog/2023/03/22/firefox-111-0-1-freigegeben/)
+* [>>Among those who said they advertised job postings that they weren't actively trying to fill, close to half said they kept the ads up to give the impression the company was growing. One-third of the managers who said they advertised jobs they weren't trying to fill said they kept the listings up to placate overworked employees.<<](http://blog.fefe.de/?ts=9ae5d253) - Kapitalismus ist eben wie Kommunismus, nur mit mehr Farben ... ein Haus der Lügen
+* [RSS-Bridge wurde in der Version 2023-03-22 veröffentlicht.](https://github.com/RSS-Bridge/rss-bridge/releases/tag/2023-03-22)
+* [grav wurde in der Version 1.7.40 veröffentlicht.](https://github.com/getgrav/grav/releases/tag/1.7.40)
+* [phpqa wurde in der Version 1.85.3 veröffentlicht.](https://github.com/jakzal/phpqa/releases/tag/v1.85.3)
+* [rector wurde in der Version 0.15.22 veröffentlicht.](https://github.com/rectorphp/rector/releases/tag/0.15.22)
 
