@@ -38,4 +38,12 @@
 * [grav wurde in der Version 1.7.40 veröffentlicht.](https://github.com/getgrav/grav/releases/tag/1.7.40)
 * [phpqa wurde in der Version 1.85.3 veröffentlicht.](https://github.com/jakzal/phpqa/releases/tag/v1.85.3)
 * [rector wurde in der Version 0.15.22 veröffentlicht.](https://github.com/rectorphp/rector/releases/tag/0.15.22)
+* [Reddit war kaputt und FeFe fast zusammen woran es lag und warum es zu einem Totalausfall kommen konnte.](http://blog.fefe.de/?ts=9ae22883) - Am Ende liegt es eben daran, dass niemand jemanden für den Fall bezahlen will, der nicht eintreten soll
+* [valet-sh wurde in der Version 2.9.3 veröffentlicht.](https://github.com/valet-sh/valet-sh/releases/tag/2.9.3)
+* [phpstan wurde in der Version 1.10.8 veröffentlicht.](https://github.com/phpstan/phpstan/releases/tag/1.10.8)
+* [portier-broker wurde in der Version 0.8.1 veröffentlicht.](https://github.com/portier/portier-broker/releases/tag/v0.8.1)
+* [tacticalrmm wurde in der Version 0.15.8 veröffentlicht.](https://github.com/amidaware/tacticalrmm/releases/tag/v0.15.8)
+* [nextcloud server wurde in der Version 25.0.5 veröffentlicht.](https://github.com/nextcloud/server/releases/tag/v25.0.5)
+* [nextcloud server wurde in der Version 24.0.11 veröffentlicht.](https://github.com/nextcloud/server/releases/tag/v24.0.11)
+* [joplin wurde in der Version 2.10.12 veröffentlicht.](https://github.com/laurent22/joplin/releases/tag/v2.10.12)
 
