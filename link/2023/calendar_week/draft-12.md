@@ -46,4 +46,15 @@
 * [nextcloud server wurde in der Version 25.0.5 veröffentlicht.](https://github.com/nextcloud/server/releases/tag/v25.0.5)
 * [nextcloud server wurde in der Version 24.0.11 veröffentlicht.](https://github.com/nextcloud/server/releases/tag/v24.0.11)
 * [joplin wurde in der Version 2.10.12 veröffentlicht.](https://github.com/laurent22/joplin/releases/tag/v2.10.12)
+* [1Remote wurde in der Version 0.7.2.8 veröffentlicht.](https://github.com/1Remote/1Remote/releases/tag/0.7.2.8)
+* [phpqa wurde in der VErsion 1.86.0 veröffentlicht.](https://github.com/jakzal/phpqa/releases/tag/v1.86.0)
+* [nativefier wurde in der Version 50.1.0 veröffentlicht.](https://github.com/nativefier/nativefier/releases/tag/v50.1.0)
+* [js-lingui wurde in der Version 4.0.0-next.4 veröffentlicht.](https://github.com/lingui/js-lingui/releases/tag/v4.0.0-next.4)
+* [zfs-dkms in der Version 2.1.9 kann aktuell nicht mit linux kernels größer 6.2.8 gebaut werden.](https://github.com/archzfs/archzfs/issues/486)
+* [Privatisierung des Gesundheitssystems? Schaut zur großen USA, da betreuen dich Ärzte dann ganze 1,2 Sekunden pro Fall.](https://blog.fefe.de/?ts=9ae19cf4) - 1,2 Sekunden, da weiß man was man kriegt
+* [VKD3D wurde in der Version 1.7 veröffentlicht.](https://www.phoronix.com/news/Wine-VKD3D-1.7)
+* [Die Cloud der TU-Bergakademie Freiberg verfügt jetzt über eine 2FA-Anmeldung](https://blogs.hrz.tu-freiberg.de/urz/zwei-faktor-authentifizierung-fuer-cloud/)
+* [Webseiten monitoren? Das geht doch auch mit Zabbix!](https://blog.zabbix.com/whats-up-home-monitor-your-website-visitor-rate/25660/)
+* [Hier wird erzählt, wie man sich von K8s zurück migriert hat.](https://dev.37signals.com/bringing-our-apps-back-home/)
+* [In Opnsense ein vertrauenswürdiges Zertifikat von LetsEncrypt nutzen? Hier wird euch gezeigt wie ihr das macht.](https://www.windowspro.de/thomas-joos/lets-encrypt-selbstsignierte-zertifikate-fuer-opnsense-verwenden)
 
