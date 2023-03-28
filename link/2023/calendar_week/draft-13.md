@@ -13,4 +13,5 @@
 * [Sophia Script for Windows wurde in der Version 27.03.2023 veröffentlicht.](https://github.com/farag2/Sophia-Script-for-Windows/releases/tag/6.4.3)
 * [nativefier wurde in der Version 50.1.1 veröffentlicht.](https://github.com/nativefier/nativefier/releases/tag/v50.1.1)
 * [Tokio wurde in der Version 1.27.0 veröffentlicht.](https://github.com/tokio-rs/tokio/releases/tag/tokio-1.27.0)
+* [Realitätsabgleich und Realsatiere in einem ... der Deutschlandfunk berichtet über die Privatisierung der Bundeswehr.](http://blog.fefe.de/?ts=9adc5cd3) - Funktioniert halt wie immer, erst einmal Beraterstellen schaffen und dann merken, dass kein Geld mehr für Leistung da ist
 
