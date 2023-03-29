@@ -14,4 +14,18 @@
 * [nativefier wurde in der Version 50.1.1 veröffentlicht.](https://github.com/nativefier/nativefier/releases/tag/v50.1.1)
 * [Tokio wurde in der Version 1.27.0 veröffentlicht.](https://github.com/tokio-rs/tokio/releases/tag/tokio-1.27.0)
 * [Realitätsabgleich und Realsatiere in einem ... der Deutschlandfunk berichtet über die Privatisierung der Bundeswehr.](http://blog.fefe.de/?ts=9adc5cd3) - Funktioniert halt wie immer, erst einmal Beraterstellen schaffen und dann merken, dass kein Geld mehr für Leistung da ist
+* [openlcs wurde in der Version 1.1.0.20230329 veröffentlicht.](https://github.com/RedHatProductSecurity/openlcs/releases/tag/1.1.0.20230329)
+* [fluentd wurde in der Version 1.16.0 veröffentlicht.](https://github.com/fluent/fluentd/releases/tag/v1.16.0)
+* [Cemu wurde in der Version 2.0-30 veröffentlicht.](https://github.com/cemu-project/Cemu/releases/tag/v2.0-30)
+* [PHP Smarty wurde in der Version 4.3.1 veröffentlicht.](https://github.com/smarty-php/smarty/releases/tag/v4.3.1)
+* [PHP Smarty wurde in der Version 3.1.48 veröffentlicht.](https://github.com/smarty-php/smarty/releases/tag/v3.3.48)
+* [fwupd wurde in der Version 1.8.13 veröffentlicht.](https://github.com/fwupd/fwupd/releases/tag/1.8.13)
+* [netbox wurde in der Version 3.4.7 - 2023-03-28 veröffentlicht.](https://github.com/netbox-community/netbox/releases/tag/v3.4.7)
+* [eleventy wurde in der Version 2.0.1 veröffentlicht.](https://github.com/11ty/eleventy/releases/tag/v2.0.1)
+* [psr7-session storageless wurde in de rVersion 8.16.0 veröffentlicht.](https://github.com/psr7-sessions/storageless/releases/tag/8.16.0)
+* [openfoodnetwork wurde in der Version 4.3.30 veröffentlicht.](https://github.com/openfoodfoundation/openfoodnetwork/releases/tag/v4.3.30)
+* [Nachdem die Blockpartei ewig Geld verbrant hat um Nutten zu vögeln ... äh, zu beraten, kam raus, dass Sie selbst schon einmal nichts machen.](http://blog.fefe.de/?ts=9adda9b5) - Ein paar "In Zukunft (könnte wer anderes ja) etwas machen"-Sätze sind bei raus gekommen, das war es auch schon
+* [Realitätsabgleich Datenschutzbeauftragter aus Hamburg: >>Eine auf die Gewinnung, das Teilen und Nutzen von Daten orientierte Gesellschaft "kann nicht datensparsam sein"[...]<<](http://blog.fefe.de/?ts=9addc6b9) - Ein U-Boot der Konzerne also, gut ... was hätte man auch sonst aus Hamburg erwartet
+* [Rust wurde in der Version 1.68.2 veröffentlicht.](https://blog.rust-lang.org/2023/03/28/Rust-1.68.2.html)
+* [Schließen sich Rust und Python eigentlich aus? Laut diesem Artikel überhaupt nicht](https://opensource.com/article/23/3/python-loves-rust) - Probieren ob etwas funktioniert, das schreibt man in Rust. Wenn etwas funktioniert und es zum Flaschenhals wird, migriert man diese Stelle in Rust
 
