@@ -28,4 +28,16 @@
 * [Realitätsabgleich Datenschutzbeauftragter aus Hamburg: >>Eine auf die Gewinnung, das Teilen und Nutzen von Daten orientierte Gesellschaft "kann nicht datensparsam sein"[...]<<](http://blog.fefe.de/?ts=9addc6b9) - Ein U-Boot der Konzerne also, gut ... was hätte man auch sonst aus Hamburg erwartet
 * [Rust wurde in der Version 1.68.2 veröffentlicht.](https://blog.rust-lang.org/2023/03/28/Rust-1.68.2.html)
 * [Schließen sich Rust und Python eigentlich aus? Laut diesem Artikel überhaupt nicht](https://opensource.com/article/23/3/python-loves-rust) - Probieren ob etwas funktioniert, das schreibt man in Rust. Wenn etwas funktioniert und es zum Flaschenhals wird, migriert man diese Stelle in Rust
+* [Gaby Weber zeigt, wie weit weg Deutschland von einer Demokratie ist ... es geht noch immer um die Kohlakten und auch das Bundesverwaltungsgericht schützt die Vergehen und das Volksverraten der Blockpartei.](http://blog.fefe.de/?ts=9ada40e3)
+* [redis_exporter wurde in der Version 1.49.0 veröffentlicht.](https://github.com/oliver006/redis_exporter/releases/tag/v1.49.0)
+* [Cemu wurde in der Version 2.0-31 veröffentlicht.](https://github.com/cemu-project/Cemu/releases/tag/v2.0-31)
+* [Barman wurde in der Version 3.5.0 veröffentlicht.](https://github.com/EnterpriseDB/barman/releases/tag/release/3.5.0)
+* [NUSpli wurde in der Version 1.130 veröffentlicht.](https://github.com/V10lator/NUSspli/releases/tag/v1.130)
+* [archinstall wurde in der Version 2.5.4 veröffentlicht.](https://github.com/archlinux/archinstall/releases/tag/v2.5.4)
+* [appsmith wurde in der Version 1.9.13 veröffentlicht.](https://github.com/appsmithorg/appsmith/releases/tag/v1.9.13)
+* [WordPress wurde in der Version 6.2 veröffentlicht.](https://www.borncity.com/blog/2023/03/30/wordpress-6-2-verfgbar/)
+* [QNAP ruft zum Patchen auf, also patched eure Maschinen.](https://www.bleepingcomputer.com/news/security/qnap-warns-customers-to-patch-linux-sudo-flaw-in-nas-devices/)
+* [Blender wurde in der Version 3.5 veröffentlicht.](https://www.phoronix.com/news/Blender-3.5-Released)
+* [Die Blockpartei wird wieder beim Lügen erwischt, sie ist schon gegen Netz-Sperren ... aber wenn die kommen, sagt sie auch nicht nein ... oh schaut, ein Flugzeug!](https://netzpolitik.org/2023/chatkontrolle-bundesregierung-ist-gegen-netz-sperren-aber-traegt-sie-mit/)
+* [Nach "dem letzten Windows was es geben wird", arbeitet Microsoft jetzt an dem Nachfolger des Nachfolgers.](https://www.borncity.com/blog/2023/03/29/windows-12-neue-plne-fr-ein-core-os/) - Es wird wohl noch mehr Überwachung und Datenraub haben
 
