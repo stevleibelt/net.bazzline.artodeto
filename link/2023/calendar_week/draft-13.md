@@ -40,4 +40,16 @@
 * [Blender wurde in der Version 3.5 veröffentlicht.](https://www.phoronix.com/news/Blender-3.5-Released)
 * [Die Blockpartei wird wieder beim Lügen erwischt, sie ist schon gegen Netz-Sperren ... aber wenn die kommen, sagt sie auch nicht nein ... oh schaut, ein Flugzeug!](https://netzpolitik.org/2023/chatkontrolle-bundesregierung-ist-gegen-netz-sperren-aber-traegt-sie-mit/)
 * [Nach "dem letzten Windows was es geben wird", arbeitet Microsoft jetzt an dem Nachfolger des Nachfolgers.](https://www.borncity.com/blog/2023/03/29/windows-12-neue-plne-fr-ein-core-os/) - Es wird wohl noch mehr Überwachung und Datenraub haben
+* [Oha, also das britische Gesundheitssystem ist scheinbar auch nicht existent und wird von DIY getragen.](http://blog.fefe.de/?ts=9adb3a72)
+* [>>Sorry, das ist schon in Friedenszeiten Scheiße. In Kriegszeiten, von einem "anonymen" "Whistleblower" ist das mehr als Scheiße. Da ist das "wir verbreiten Propaganda".<<](http://blog.fefe.de/?ts=9adb7a25)
+* [sof wurde in der Version 2.5 veröffentlicht.](https://github.com/thesofproject/sof/releases/tag/v2.5)
+* [keycloak wurde in der Version 21.0.2 veröffentlicht.](https://github.com/keycloak/keycloak/releases/tag/21.0.2)
+* [phpstan wurde in der Version 1.10.9 veröffentlicht.](https://github.com/phpstan/phpstan/releases/tag/1.10.9)
+* [NUSspli Lite wurde in der Version 1.130 veröffentlicht.](https://wiidatabase.de/nusspli-lite-v1-130/)
+* [Percona hat sich die Mühe gemacht und einmal die bekannten, freien Datenbanksysteme verglichen.](https://www.percona.com/blog/ultimate-guide-open-source-databases)
+* [Thunderbird wurde in der Version 102.9.1 veröffentlicht.](https://www.borncity.com/blog/2023/03/30/thunderbird-102-9-1/)
+* [Woher kommt eigentlich diese Unmenge an Kaffee?](https://www.zauber-kraut.de/woher-kommt-der-kaffee)
+* [noyb kämpft für unseren Datenschutz und zeigt auf, dass Hackfressenbuch illegale Dinge macht.](https://noyb.eu/en/meta-facebook-instagram-switching-legitimate-interest-ads) - Was macht ein Konzern wie Hackfressenbuch? Sie wechseln auf eine andere illegale Art, die muss nämlich wieder erst gerichtlich festgestellt werden!
+* [Die Cloud der TU-Freiberg ist ab jetzt wieder öffentlich nutzbar.](https://blogs.hrz.tu-freiberg.de/urz/cloud-jetzt-mit-2fa-wieder-oeffentlich-nutzbar/)
+* [Hier findet ihr schöne Theaterprogramme in Chemnitz, Zwickau und Freiberg](https://www.mdr.de/kultur/theater/chemnitz-zwickau-freiberg-theater-april-100.html)
 
