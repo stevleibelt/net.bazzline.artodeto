@@ -52,4 +52,12 @@
 * [noyb kämpft für unseren Datenschutz und zeigt auf, dass Hackfressenbuch illegale Dinge macht.](https://noyb.eu/en/meta-facebook-instagram-switching-legitimate-interest-ads) - Was macht ein Konzern wie Hackfressenbuch? Sie wechseln auf eine andere illegale Art, die muss nämlich wieder erst gerichtlich festgestellt werden!
 * [Die Cloud der TU-Freiberg ist ab jetzt wieder öffentlich nutzbar.](https://blogs.hrz.tu-freiberg.de/urz/cloud-jetzt-mit-2fa-wieder-oeffentlich-nutzbar/)
 * [Hier findet ihr schöne Theaterprogramme in Chemnitz, Zwickau und Freiberg](https://www.mdr.de/kultur/theater/chemnitz-zwickau-freiberg-theater-april-100.html)
+* [ToolJet wurde in der Version 2.3.1 veröffentlicht.](https://github.com/ToolJet/ToolJet/releases/tag/v2.3.1)
+* [fwupd wurde in der Version 1.8.14 veröffentlicht.](https://github.com/fwupd/fwupd/releases/tag/1.8.14)
+* [Barman wurde in der Version 3.4.1 veröffentlicht.](https://github.com/EnterpriseDB/barman/releases/tag/release/3.4.1)
+* [PCAPdroid wurde in der Version 1.6.2 veröffentlicht.](https://github.com/emanuele-f/PCAPdroid/releases/tag/v1.6.2)
+* [K-9 Mail wurde in der Version 6.511 veröffentlicht.](https://github.com/thundernest/k-9/releases/tag/6.511)
+* [BigBlueButton wurde in der Version 2.6.1 veröffentlicht.](https://github.com/bigbluebutton/bigbluebutton/releases/tag/v2.6.1)
+* [BigBlueButton wurde in der Version 2.5.15 veröffentlicht.](https://github.com/bigbluebutton/bigbluebutton/releases/tag/v2.5.15)
+* [Firefly-III wurde in der Version 6.0.6 veröffentlicht.](https://github.com/firefly-iii/firefly-iii/releases/tag/v6.0.6)
 
