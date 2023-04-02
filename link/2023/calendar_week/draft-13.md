@@ -60,4 +60,11 @@
 * [BigBlueButton wurde in der Version 2.6.1 veröffentlicht.](https://github.com/bigbluebutton/bigbluebutton/releases/tag/v2.6.1)
 * [BigBlueButton wurde in der Version 2.5.15 veröffentlicht.](https://github.com/bigbluebutton/bigbluebutton/releases/tag/v2.5.15)
 * [Firefly-III wurde in der Version 6.0.6 veröffentlicht.](https://github.com/firefly-iii/firefly-iii/releases/tag/v6.0.6)
+* [Hier werden euch Mocks in Python unittest erklärt.](https://opensource.com/article/23/4/using-mocks-python)
+* [BigBlueButton wurde in der Version 2.5.16 veröffentlicht.](https://github.com/bigbluebutton/bigbluebutton/releases/tag/v2.5.16)
+* [projectM-visualizer wurde in der Version 4.0.0 veröffentlicht.](https://github.com/projectM-visualizer/projectm/releases/tag/v4.0.0)
+* [Sophia-Script -for-Windows wurde in der Version 01.04.2023 veröffentlicht.](https://github.com/farag2/Sophia-Script-for-Windows/releases/tag/6.4.4)
+* [phpstan wurde in der Version 1.10.10 veröffentlicht.](https://github.com/phpstan/phpstan/releases/tag/1.10.10)
+* [archinstall wurde in der Version 2.5.5 veröffentlicht.](https://github.com/archlinux/archinstall/releases/tag/v2.5.5)
+* [http-message wurde in der VErsion 1.0.11 veröffentlicht.](https://github.com/httpsoft/http-message/releases/tag/1.0.11)
 
