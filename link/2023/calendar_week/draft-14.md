@@ -28,4 +28,5 @@
 * [Passwesen in Deutschland modernisieren? Dahinter steckt ein rechtlicher Abbau um schneller auf biometrische Daten der Bürger zugreifen zu können.](https://netzpolitik.org/2023/biometrische-ausweisbilder-bundesregierung-plant-schnelleren-zugriff-fuer-sicherheitsbehoerden/) - Diese lästigen Datenschutzbedenken sind Gift für die Profite der privaten Konzerne!
 * [Berlin wird immer beschissener ... die große Koalition katapultiert Berlin zurück in die Bürgerrechte-Steinzeit](https://netzpolitik.org/2023/grosse-koalition-in-berlin-ein-desaster-fuer-die-buergerrechte/)
 * [FeFe versteht die große Idee der SPD hier nicht. Wenn die Zulassungsprüfung für die Lok-Führer gesenkt wird, kann man auch das Gehalt senken!](http://blog.fefe.de/?ts=9ad522af) - Da haben die Aktionäre auch etwas davon
+* [archzfs iso wurde in der Version 2023-04-04T10:45:58 veröffentlicht.](https://archzfs.leibelt.de/)
 
