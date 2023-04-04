@@ -9,4 +9,15 @@
 * [Lügen und betrügen ... was proklammieren die USA gerade in den Medien gegenüber SpyWare? Wer kauf weiterhin SpyWare?](http://blog.fefe.de/?ts=9ad738ad)
 * [Warum nur gibt sich der Rechtsstaat so wenig Mühe Vertrauen zu schaffen?](http://blog.fefe.de/?ts=9ad738e9) - Die, die Gesetze beschließen, sind davon ausgenommen
 * [dragonflydb wurde in der Version 1.1.1 veröffentlicht.](https://github.com/dragonflydb/dragonfly/releases/tag/v1.1.1)
+* [Ist das jetzt eine wahre Medienkompetenzübung? Die USA wollen uns ihre Atombombe als Attrappe verkaufen?](http://blog.fefe.de/?ts=9ad58a36)
+* [Das CIA investigiert :-D: >>Nach Monaten steigender Preise fallen die Energiekosten wieder. Doch die gesunkenen Strom- und Gaspreise kommen oftmals nicht bei den Haushalten an.<<](http://blog.fefe.de/?ts=9ad58ad4) - Dabei hat der freie Markt doch immer gepredigt, dass die Preise sich frei bewegen können ... der Legende nach auch aller 500 Jahre **einmal** nach unten
+* [openfoodnetwork wurde in der Version 4.3.1 veröffentlicht.](https://github.com/openfoodfoundation/openfoodnetwork/releases/tag/v4.3.1)
+* [yay wurde in der Version 12.0.2 veröffentlicht.](https://github.com/Jguer/yay/releases/tag/v12.0.2)
+* [gantry5 wurde in der Version 5.5.16 veröffentlicht.](https://github.com/gantry/gantry5/releases/tag/5.5.16)
+* [joplin wurde in der Version 2.10.13 veröffentlicht.](https://github.com/laurent22/joplin/releases/tag/v2.10.13)
+* [skopeo wurde in der Version 1.11.2 veröffentlicht.](https://github.com/containers/skopeo/releases/tag/v1.11.2)
+* [slint wurde in der Version 1.0.0 veröffentlicht.](https://github.com/slint-ui/slint/releases/tag/v1.0.0)
+* [penpot wurde in der Version 1.18.0 veröffentlicht.](https://github.com/penpot/penpot/releases/tag/1.18.0)
+* [mezzio wurde in der Version 3.16.1 veröffentlicht.](https://github.com/mezzio/mezzio/releases/tag/3.16.1)
+* [iotdb wurde in der Version 1.1.0 veröffentlicht.](https://github.com/apache/iotdb/releases/tag/v1.1.0)
 
