@@ -20,4 +20,11 @@
 * [penpot wurde in der Version 1.18.0 veröffentlicht.](https://github.com/penpot/penpot/releases/tag/1.18.0)
 * [mezzio wurde in der Version 3.16.1 veröffentlicht.](https://github.com/mezzio/mezzio/releases/tag/3.16.1)
 * [iotdb wurde in der Version 1.1.0 veröffentlicht.](https://github.com/apache/iotdb/releases/tag/v1.1.0)
+* [Wine wurde in der Version 8.5 veröffentlicht.](https://www.borncity.com/blog/2023/04/04/linux-wine-8-5-verfgbar/)
+* [Realitätsabgleich Bleibeschaffung - Stichwort Kabwe](https://netzfrauen.org/2023/04/03/kabwe-2/) - 100 Jahre Vergiftung in Afrika für die westliche Welt der Moralvorstellung. Nur falls ihr euch fragt, warum manche Afrikaner so gern von Ihrer Heimat flüchten und warum sie so viel Wut im Bauch haben
+* [Nextclouds Desktop Client wurde in der Version 3.8 veröffentlicht.](https://nextcloud.com/blog/desktop-3-8-end-to-end-encryption-levels-up-with-sharing-and-file-drop/)
+* [Bei der TU-Bergakademie Freiberg kann man jetzt wieder mit seinem Mobilgerät auf die Exchange-E-Mails zugreifen.](https://blogs.hrz.tu-freiberg.de/urz/exchange-zugriff-fuer-mobilgeraete/)
+* [Bei der TU-Bergakademie Freiberg kann man jetzt wieder extern auf seine Exhange-E-Mails zugreifen.](https://blogs.hrz.tu-freiberg.de/urz/externer-zugriff-fuer-exchange-wieder-moeglich/) - Und das ohne Microsoft-Gängelung zur Azure-Clound und und trotzdem mit MFA!
+* [Passwesen in Deutschland modernisieren? Dahinter steckt ein rechtlicher Abbau um schneller auf biometrische Daten der Bürger zugreifen zu können.](https://netzpolitik.org/2023/biometrische-ausweisbilder-bundesregierung-plant-schnelleren-zugriff-fuer-sicherheitsbehoerden/) - Diese lästigen Datenschutzbedenken sind Gift für die Profite der privaten Konzerne!
+* [Berlin wird immer beschissener ... die große Koalition katapultiert Berlin zurück in die Bürgerrechte-Steinzeit](https://netzpolitik.org/2023/grosse-koalition-in-berlin-ein-desaster-fuer-die-buergerrechte/)
 
