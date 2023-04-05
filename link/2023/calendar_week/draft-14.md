@@ -29,4 +29,18 @@
 * [Berlin wird immer beschissener ... die große Koalition katapultiert Berlin zurück in die Bürgerrechte-Steinzeit](https://netzpolitik.org/2023/grosse-koalition-in-berlin-ein-desaster-fuer-die-buergerrechte/)
 * [FeFe versteht die große Idee der SPD hier nicht. Wenn die Zulassungsprüfung für die Lok-Führer gesenkt wird, kann man auch das Gehalt senken!](http://blog.fefe.de/?ts=9ad522af) - Da haben die Aktionäre auch etwas davon
 * [archzfs iso wurde in der Version 2023-04-04T10:45:58 veröffentlicht.](https://archzfs.leibelt.de/)
+* [>>[...] Security wird halt schnell zu Faschismus, wenn man es auf eine Gesellschaft anwendet. Stellt sich nämlich raus, dass Freiheit heißt, dass man ab und zu Dinge tun kann, die nicht verfolgt werden. Das Leben ist lebenswert, weil nicht alle Verstöße verfolgt werden.<<]
+* [Neun Monate U-Haft ... Wow und das in einem Rechtsstaat](http://blog.fefe.de/?ts=9ad2e5f9)
+* [Die HP-Drucker-Firmware ist kaputt, ein Patch ist nicht in Sicht](https://www.borncity.com/blog/2023/04/05/kritische-schwachstelle-cve-2023-1707-in-hp-drucker-firmware-kein-patch-verfgbar/)
+* [>>Hätte die Menschheit damals schon geahnt, wie rast- und ruhelos es sie machen würde, ständig das Kommunikationsbedürfnis anderer Leute ausbaden zu müssen [...]<<](https://tuxproject.de/blog/2023/04/50-jahre-ruhelos/)
+* [Wayland wurde in der Version 1.22 veröffentlicht.](https://www.phoronix.com/news/Wayland-1.22-Released)
+* [xf86-input-libinput wurde in der Version 1.3 veröffentlicht.](https://www.phoronix.com/news/xf86-input-libinput-1.3)
+* [phpstan wurde in der Version 1.10.11 veröffentlicht.](https://github.com/phpstan/phpstan/releases/tag/1.10.11)
+* [mermaid wurde in der Version 10.1.10 veröffentlicht.](https://github.com/mermaid-js/mermaid/releases/tag/v10.1.0)
+* [gantry5 wurde in der Version 5.5.16 veröffentlicht.](https://github.com/gantry/gantry5/releases/tag/5.5.16)
+* [HeroicGamesLauncher wurde in der Version 2.7.0 veröffentlicht.](https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher/releases/tag/v2.7.0)
+* [dragonflydb wurde in der Version 1.1.2 veröffentlicht.](https://github.com/dragonflydb/dragonfly/releases/tag/v1.1.2)
+* [FreeFileSync wurde in der Version 12.2 veröffentlicht.](https://github.com/hkneptune/FreeFileSync/releases/tag/v12.2)
+* [>>[...] have lots of painful experience saying that noisy things are often not worth it because they'll hide actual problems.<<](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/AutomatedTestsMinimalNoise) - Ob diese Aussage auch auf Menschen übertragbar ist?
+* [Onkel Bob beschreibt einmal mehr den Versuch "Lasst die Leute machen, die machen das gut!"](https://martinfowler.com/bliki/Slack.html)
 
