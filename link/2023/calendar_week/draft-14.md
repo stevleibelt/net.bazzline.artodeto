@@ -43,4 +43,18 @@
 * [FreeFileSync wurde in der Version 12.2 veröffentlicht.](https://github.com/hkneptune/FreeFileSync/releases/tag/v12.2)
 * [>>[...] have lots of painful experience saying that noisy things are often not worth it because they'll hide actual problems.<<](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/AutomatedTestsMinimalNoise) - Ob diese Aussage auch auf Menschen übertragbar ist?
 * [Onkel Bob beschreibt einmal mehr den Versuch "Lasst die Leute machen, die machen das gut!"](https://martinfowler.com/bliki/Slack.html)
+* [metabase wurde in der Version 0.46.1 veröffentlicht.](https://github.com/metabase/metabase/releases/tag/v0.46.1)
+* [phpqa wurde in der Version 1.86.2 veröffentlicht.](https://github.com/jakzal/phpqa/releases/tag/v1.86.2)
+* [Magisk wurde in der Version 26.0 veröffentlicht.](https://github.com/topjohnwu/Magisk/releases/tag/v26.0)
+* [Fluent Bit wurde in der Version 2.0.11 veröffentlicht.](https://github.com/fluent/fluent-bit/releases/tag/v2.0.11)
+* [yay wurde in der VErsion 12.0.3 veröffentlicht.](https://github.com/Jguer/yay/releases/tag/v12.0.3)
+* [cryptomator wurde in der Version 1.7.4 veröffentlicht.](https://github.com/cryptomator/cryptomator/releases/tag/1.7.4)
+* [penpot wurde in der Version 1.18.1 veröffentlicht.](https://github.com/penpot/penpot/releases/tag/1.18.1)
+* [Hier wird euch gezeigt, wie ihr den Stern in der Firefox URL-Anzeige nahezu entfernen könnt.](https://utcc.utoronto.ca/~cks/space/blog/web/FirefoxTiniestBookmarkStar)
+* [Kanal9TV: Pressekonferenz der Sommernächte Freiberg 2023](https://www.youtube.com/watch?v=MMwxtEgOCKE)
+* [Landgericht Hamburg hat wieder eine Sternstunde in Sachen "Reingreifen, tief runter in die Toilette" hingelegt - freie Software darf nicht mehr von Uberspace gehostet werden.](https://netzpolitik.org/2023/gerichtsurteil-musikindustrie-geht-erfolgreich-gegen-youtube-downloader-vor/) - >>Es geht hier nicht darum, dass Uberspace eine rechtswidrige Datei hostet, Uberspace muss eine gesamte Webseite löschen, weil sie Links zu eine Software enthält, mit der Dritte Videos von Youtube herunterladen, aber auch 1.000 andere Dinge tun können<<
+* [Realitätsabgleich unendliches Wachstum und wo dieser her kommt.](https://netzfrauen.org/2023/04/05/konsum/)
+* [GTK wurde in de rVersion 4.11.1 veröffentlicht.](https://www.phoronix.com/news/GTK-4.11.1)
+* [Zstd wurde in der Version 1.5.5 veröffentlicht.](https://www.phoronix.com/news/Zstd-1.5.5)
+* [Martin Sonneborn hat den Bericht aus Brüssel in der Version 5 veröffentlicht.](https://martinsonneborn.de/bericht-aus-bruessel-5/)
 
