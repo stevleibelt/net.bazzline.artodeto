@@ -57,4 +57,5 @@
 * [GTK wurde in de rVersion 4.11.1 veröffentlicht.](https://www.phoronix.com/news/GTK-4.11.1)
 * [Zstd wurde in der Version 1.5.5 veröffentlicht.](https://www.phoronix.com/news/Zstd-1.5.5)
 * [Martin Sonneborn hat den Bericht aus Brüssel in der Version 5 veröffentlicht.](https://martinsonneborn.de/bericht-aus-bruessel-5/)
+* [Ui, die großen Immobilienfirmen verlieren gerade massiv an Aktienwert.](https://blog.fefe.de/?ts=9ad12b44)
 
