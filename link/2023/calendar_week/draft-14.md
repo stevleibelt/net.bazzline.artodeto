@@ -69,4 +69,6 @@
 * [Hanf hilft wohl auch um kontaminierten Boden zu reinigen.](https://netzfrauen.org/2023/04/06/hemp-5/)
 * [Für das Bauprojekt >>Freiberger Gartens<< gab es 2023 das Richtfest.](https://www.youtube.com/watch?v=7GkPUmHXJes)
 * [Hier gibt es die Neuerungen von PHP 8.3](https://stitcher.io/blog/new-in-php-83)
+* [Firefly III wurde in der Version 6.0.7 veröffentlicht.](https://github.com/firefly-iii/firefly-iii/releases/tag/v6.0.7)
+* [Rector wurde in der VErsion 0.15.24 veröffentlicht.](https://github.com/rectorphp/rector/releases/tag/0.15.24)
 
