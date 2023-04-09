@@ -71,4 +71,7 @@
 * [Hier gibt es die Neuerungen von PHP 8.3](https://stitcher.io/blog/new-in-php-83)
 * [Firefly III wurde in der Version 6.0.7 veröffentlicht.](https://github.com/firefly-iii/firefly-iii/releases/tag/v6.0.7)
 * [Rector wurde in der VErsion 0.15.24 veröffentlicht.](https://github.com/rectorphp/rector/releases/tag/0.15.24)
+* [flet wurde in der Version 0.5.1 veröffentlicht.](https://github.com/flet-dev/flet/releases/tag/v0.5.1)
+* [Redis Exporter wurde in der Version 1.50.0 veröffentlicht.](https://github.com/flet-dev/flet/releases/tag/v0.5.1)
+* [tacticalrmm wurdein der VErsion 0.15.9 veröffentlicht.](https://github.com/amidaware/tacticalrmm/releases/tag/v0.15.9)
 
