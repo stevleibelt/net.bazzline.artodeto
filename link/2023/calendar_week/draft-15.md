@@ -11,4 +11,8 @@
 * [Hier wird euch gezeigt, wie ihr in Javascript dynamisch Attribute erzeugt.](https://www.30secondsofcode.org/articles/s/js-dynamic-getter-setter-proxy/)
 * [Nein? Doch! Oh? Der öffentliche Dienst wurde seit Jahrzehnten verarmt und musste von überteuerten Schwibbschwagerfirmen Bananensoftware kaufen und jetzt stellt sich heraus, dass diese Softwarehäuser das Geld eingesteckt haben statt sichere Software zu bauen?](https://www.borncity.com/blog/2023/04/10/die-software-lieferkette-des-ffentlichen-sektors-weist-erhebliche-sicherheitslcken-auf/) - Scheiße Bernd, das hat niemand kommen sehen!
 * [postmarkOS wurde in der Version v22.12 SP2 veröffentlicht.](https://postmarketos.org/blog/2023/04/10/v22.12.2-release/)
+* [flet wurde in der Version 0.5.2 veröffentlicht.](https://github.com/flet-dev/flet/releases/tag/v0.5.2)
+* [skopeo wurde in der Version 1.6.3 veröffentlicht.](https://github.com/containers/skopeo/releases/tag/v1.6.3)
+* [yay wurde in der Version 12.0.4 veröffentlicht.](https://github.com/Jguer/yay/releases/tag/v12.0.4)
+* [FreeBSD wurde in der Version 13.2 veröffentlicht.](https://lwn.net/Articles/928763/)
 
