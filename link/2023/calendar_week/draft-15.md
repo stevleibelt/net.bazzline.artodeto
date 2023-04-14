@@ -15,4 +15,18 @@
 * [skopeo wurde in der Version 1.6.3 veröffentlicht.](https://github.com/containers/skopeo/releases/tag/v1.6.3)
 * [yay wurde in der Version 12.0.4 veröffentlicht.](https://github.com/Jguer/yay/releases/tag/v12.0.4)
 * [FreeBSD wurde in der Version 13.2 veröffentlicht.](https://lwn.net/Articles/928763/)
+* [>>Das ist glaube ich hier auch tatsächlich des Pudels Kern. Hateaid möchte gerne einmal das Internet ideologisch säubern, und ihnen ist aufgefallen, dass ihre Prozessgegner Deplorables (um mal mit Hillary zu sprechen) sind und sie auf den Kosten auch mal sitzen bleiben können. Das gefährdet deren Abmahnverein-Geschäftsmodell und daher wollen sie, dass Facebook zahlt.<<](https://blog.fefe.de/?ts=9ac91f86) - Hier wird also effektiv Lobbyarbeit gemacht um eine bestehende Industrie weiter auf zubauen. Eine Industrie, die nur Hass erzeugt, statt dem Fortschritt der Menscheit zu nützlich zu sein
+* [Ohha, laut der Tagesschau ist der Präsident Ägyptens jetzt nurnoch ein Machthaber.](https://blog.fefe.de/?ts=9ac83b9e) - Da braucht ein Land wohl dringend etwas Lehre zum Thema Dikta...ähh Demokratie
+* [Wusste ich nicht, USB-Kabel die nur für das Laden zuständig sind, können immer nur 5 Watt laden.](https://blog.fefe.de/?ts=9ac805ab)
+* [Wow, die westliche Welt bewegt sich rückwärts. Weil die Filmwerkstatt Düsseldorf Bilder von indogenen Menschen zeigt, wurde deren Benutzerkonto von Hackfressenbuch gespeert.](https://netzpolitik.org/2023/nippel-verbot-filmwerkstatt-duesseldorf-zieht-gegen-facebook-sperre-vor-gericht/)
+* [Gitea wurde in der Version 1.19.1 veröffentlicht.](https://github.com/go-gitea/gitea/releases/tag/v1.19.1)
+* [Netvark und Aardvark-dns wurde in der Version 1.6.0 veröffentlicht.](https://blog.podman.io/2023/04/netavark-and-aardvark-dns-v1-6-0/)
+* [Nginx wurde in der Version 1.24 veröffentlicht.](https://www.phoronix.com/news/Nginx-1.24-Released)
+* [>>Der Chaos Computer Club (CCC) zeigt sich besorgt über das von der Regierungskoalition angestrebte Gesetzesvorhaben zur "Digitalen Gewalt".<<](https://www.ccc.de/de/updates/2023/digitale-gewalt-vorratsdaten)
+* [Mit Nomad gibt es etwaig eine Alternative zu K8s.](https://4sysops.com/archives/hashicorp-nomad-an-easy-to-use-kubernetes-alterative-for-orchestrating-containers/)
+* [Dank der MLnet Foundation kann Albert Vaca dieses Jahr in Vollzeit an KDE Connect 2.0 arbeiten.](https://www.phoronix.com/news/KDE-Connect-2.0-Plans)
+* [ToolJet wurde in der Version 2.4.2 veröffentlicht.](https://github.com/ToolJet/ToolJet/releases/tag/v2.4.2)
+* [phpstan wurde in der Version 1.10.13 veröffentlicht.](https://github.com/phpstan/phpstan/releases/tag/1.10.13)
+* [finamp wurde in der Version 0.6.11 veröffentlicht.](https://github.com/jmshrv/finamp/releases/tag/0.6.11)
+* [gradle wurde in der Version 8.1 veröffentlicht.](https://github.com/gradle/gradle/releases/tag/v8.1.0)
 
