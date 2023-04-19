@@ -15,4 +15,16 @@
 * [ToolJet wurde in der Version 2.4.6 veröffentlicht.](https://github.com/ToolJet/ToolJet/releases/tag/v2.4.6)
 * [Valinor wurde in der Version 1.4.0 veröffentlicht.](https://github.com/CuyZ/Valinor/releases/tag/1.4.0)
 * [fluentd wurde in der Version 1.16.1 veröffentlicht.](https://github.com/fluent/fluentd/releases/tag/v1.16.1)
+* [Diese Digitalisierung ohne Personal und langfristige Planung funktioniert leider nicht. Heutiges Beispiel, Abitur in NRW fällt aus.](http://blog.fefe.de/?ts=9ac03c22)
+* [Wie weit weg sind die Opas von den Problemen der Jugend und vom verantwortungsvollen Umgang mit Mutter Natur? Setzt euch lieber hin!](http://blog.fefe.de/?ts=9ac0ad3e)
+* [firewalld wurde in der Version 0.9.11 veröffentlicht.](https://github.com/firewalld/firewalld/releases/tag/v0.9.11)
+* [Librebooking wurde in der Version 2.8.6 veröffentlicht.](https://github.com/LibreBooking/app/releases/tag/2.8.6)
+* [Joomla wurde in der Version 4.3.0 veröffentlicht.](https://github.com/joomla/joomla-cms/releases/tag/4.3.0)
+* [BigBlueButton wurde in der Version 2.6.2 veröffentlicht.](https://github.com/bigbluebutton/bigbluebutton/releases/tag/v2.6.2)
+* [appsmith wurde in der Version 1.9.16 veröffentlicht.](https://github.com/appsmithorg/appsmith/releases/tag/v1.9.16)
+* [Fluent-Bit wurde in der Version 2.1.0 veröffentlicht.](https://github.com/fluent/fluent-bit/releases/tag/v2.1.0)
+* [Der freie Markt kann alles besser ... zum Beispiel die Allianz, die nutzt völlig veraltete IT ... als Versicherer ... für IT Schäden](https://www.borncity.com/blog/2023/04/19/allianz-droht-milliarden-risiko-wegen-mangelhafter-it-durch-bafin-auflagen/) - Moral ist gut, wenn man den Anderen damit belehren kann, oder?
+* [Wasmer wurde in der Version 3.2 veröffentlicht.](https://www.phoronix.com/news/Wasmer-3.2)
+* [LXD wurde in der Version 5.13 veröffentlicht.](https://lwn.net/Articles/929453/)
+* [Der Konzern hat kein Herz, an Krankheiten lässt sich Geld verdienen, also wirken Lobbyisten für eine krankmachende Umwelt.](https://lwn.net/Articles/929453/) - Warum soll es den Menschen auch bessere als den Tieren in der Massentierhaltung gehen?
 
