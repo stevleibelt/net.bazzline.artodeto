@@ -27,4 +27,9 @@
 * [Wasmer wurde in der Version 3.2 veröffentlicht.](https://www.phoronix.com/news/Wasmer-3.2)
 * [LXD wurde in der Version 5.13 veröffentlicht.](https://lwn.net/Articles/929453/)
 * [Der Konzern hat kein Herz, an Krankheiten lässt sich Geld verdienen, also wirken Lobbyisten für eine krankmachende Umwelt.](https://lwn.net/Articles/929453/) - Warum soll es den Menschen auch bessere als den Tieren in der Massentierhaltung gehen?
+* [TP-Link verkauft 2022 Produkte mit einer Sicherheitslücke von 2014.](http://blog.fefe.de/?ts=9ac13bb4) - Kurzum, TP-Link ist nur noch Hardware-Lieferant und gut genug, wenn man eigene Software drauf bauen kann
+* [OpenZFS wurde in der Version 2.1.11 veröffentlicht.](https://github.com/openzfs/zfs/releases/tag/zfs-2.1.11)
+* [BigBlueButton wurde in der Version 2.6.3 veröffentlicht.](https://github.com/bigbluebutton/bigbluebutton/releases/tag/v2.6.3)
+* [phpstan wurde in der Version 1.10.14 veröffentlicht.](https://github.com/phpstan/phpstan/releases/tag/1.10.14)
+* [keycloak wurde in der Version 21.1.0 veröffentlicht.](https://github.com/keycloak/keycloak/releases/tag/21.1.0)
 
