@@ -46,4 +46,10 @@
 * [Opus wurde in der Version 1.4 veröffentlicht.](https://www.phoronix.com/news/Opus-1.4-Released)
 * [Podman wurde in der Version 4.5 veröffentlicht.](https://blog.podman.io/2023/04/new-release-podman-v4-5/)
 * [Kuketz hat einen schöne Prüfliste veröffentlicht die euch hilft, heraus zu finden ob wir wirklich VPN braucht.](https://www.kuketz-blog.de/brauchst-du-wirklich-ein-vpn/)
+* [Die FDP muss so hart Koksen ... anders kann man sich deren Aussagen auf dem Parteitag nicht erklären.](https://blog.fefe.de/?ts=9abdc76f)
+* [lando wurde in der Version 3.16.0 veröffentlicht.](https://github.com/lando/lando/releases/tag/v3.16.0)
+* [ansible_openwrt wurde in der Version 0.5.0 veröffentlicht.](https://github.com/imp1sh/ansible_openwrt/releases/tag/v0.5.0)
+* [firewalld wurde in der Version 1.3.2 veröffentlicht.](https://github.com/firewalld/firewalld/releases/tag/v1.3.2)
+* [gradle wurde in der Version 8.1.1 veröffentlicht.](https://github.com/gradle/gradle/releases/tag/v8.1.1)
+* [phpqa wurde in der Version 1.87.1 veröffentlicht.](https://github.com/gradle/gradle/releases/tag/v8.1.1)
 
