@@ -52,4 +52,7 @@
 * [firewalld wurde in der Version 1.3.2 veröffentlicht.](https://github.com/firewalld/firewalld/releases/tag/v1.3.2)
 * [gradle wurde in der Version 8.1.1 veröffentlicht.](https://github.com/gradle/gradle/releases/tag/v8.1.1)
 * [phpqa wurde in der Version 1.87.1 veröffentlicht.](https://github.com/gradle/gradle/releases/tag/v8.1.1)
+* [unmanic wurde in der Version 0.2.4 veröffentlicht.](https://github.com/Unmanic/unmanic/releases/tag/0.2.4)
+* [Jellyfin wurde in der Version 10.8.10 veröffentlicht.](https://github.com/jellyfin/jellyfin/releases/tag/v10.8.10)
+* [Mesa wurde in der Version 23.0.3 veröffentlicht.](https://www.phoronix.com/news/Mesa-23.0.3-Released)
 
