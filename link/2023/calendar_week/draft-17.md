@@ -14,4 +14,19 @@
 * [BigBlueButton wurde in der Version 2.6.5 veröffentlicht.](https://github.com/bigbluebutton/bigbluebutton/releases/tag/v2.6.5)
 * [Restic wurde in der Version 0.15.2 veröffentlicht.](https://github.com/restic/restic/releases/tag/v0.15.2)
 * [finamp wurde in der Version 0.6.14 veröffentlicht.](https://github.com/jmshrv/finamp/releases/tag/0.6.14)
+* [Thunderbird wurde in der Version 102.10.1 veröffentlicht.](https://www.borncity.com/blog/2023/04/25/thunderbird-102-10-1/)
+* [Hitsi-Admin wurde in der Version 0.75.2 veröffentlicht.](https://github.com/H2-invent/jitsi-admin/releases/tag/0.75.2)
+* [Hier wird euch tenacity von Python vorgestellt.](https://opensource.com/article/23/4/retry-your-python-code-until-it-fails) - Damit könnt ihr Tests schreiben, die euren Code mehrmals probieren lassen
+* [Microsoft Edge übermittelt all euren Browserverlauf zu Microsoft.](http://blog.fefe.de/?ts=9ab6ea0b)
+* [Epic Games hat gegen Apple verloren.](http://blog.fefe.de/?ts=9ab911f8) - Das Ende des Kapitalismus und ein Grund mehr allen "Cloud"-Angeboten zu entsagen.
+* [openITCOCKPIT wurde in der Version 4.6.3 veröffentlicht.](https://github.com/it-novum/openITCOCKPIT/releases/tag/openITCOCKPIT-4.6.3)
+* [cryptomator wurde in der Version 1.8.0 veröffentlicht.](https://github.com/cryptomator/cryptomator/releases/tag/1.8.0)
+* [tokio wurde in der Version 1.28.0 veröffentlicht.](https://github.com/tokio-rs/tokio/releases/tag/tokio-1.28.0)
+* [rqlite wurde in der Version 7.14.3 veröffentlicht.](https://github.com/rqlite/rqlite/releases/tag/v7.14.3)
+* [Mozilla Firefox wurde in der Version 112.0.2 veröffentlicht.](https://www.borncity.com/blog/2023/04/25/firefox-112-0-2-fix-fr-hohen-speicherverbrauch/)
+* [Die USA und die EU begehen Schulterschluss bei der Ideologie, Starke Verschlüsselung? Nur mit Backdoor!](https://netzpolitik.org/2023/stop-csam-act-neues-gesetz-in-den-usa-koennte-verschluesselung-schwaechen/)
+* [Git wurde in der Version 2.40.1 und weiteren Versionen veröffentlicht.](https://lwn.net/Articles/930157/)
+* [WiiStation wurde in der Version 2.0 veröffentlicht.](https://wiidatabase.de/wiistation-v2-0/)
+* [Rustup wurde in der Version 1.26.0 veröffentlicht.](https://blog.rust-lang.org/2023/04/25/Rustup-1.26.0.html)
+* [Die Arbeitsgemeinschaft sächsischer Botaniker hat vom 16.06 bis 18.06.2023 seine 68. Jahrestagung.](https://sachsen.nabu.de/news/2023/33279.html)
 
