@@ -39,4 +39,15 @@
 * [dragonflydb wurde in der Version 1.2.1 veröffentlicht.](https://github.com/dragonflydb/dragonfly/releases/tag/v1.2.1)
 * [joplin wurde in der Version 2.10.15 veröffentlicht.](https://github.com/laurent22/joplin/releases/tag/v2.10.15)
 * [harfbuzz wurde in der Version 7.2.0 veröffentlicht.](https://github.com/harfbuzz/harfbuzz/releases/tag/7.2.0)
+* [Der verantwortliche und zentrale IT-Dienstleister der deutschen Krankenkassen hat seine IT-Sicherheitsaufgaben nicht gemacht.](http://blog.fefe.de/?ts=9ab4a182) - Was ist die erst Amtshandlung? Die Liste der "Kunden" (Krankenkassen) von der Webseite nehmen
+* [Deepfakes sind im Leben angekommen! Ich kann vor der Kamera erzählen was ich will und behaupte hinterher "alles Deepfakes"!](http://blog.fefe.de/?ts=9ab49f6d)
+* [Flet wurde in der Version 0.6.2 veröffentlicht.](https://github.com/flet-dev/flet/releases/tag/v0.6.2)
+* [Netbox Community wurde in der Version 3.5.0 veröffentlicht.](https://github.com/netbox-community/netbox/releases/tag/v3.5.0)
+* [Netbox Community wurde in der Version 3.4.10 veröffentlicht.](https://github.com/netbox-community/netbox/releases/tag/v3.4.10)
+* [osidb wurde in der Version 3.1.2 veröffentlicht.](https://github.com/RedHatProductSecurity/osidb/releases/tag/3.1.2)
+* [joplin wurde in der Version 2.10.16 veröffentlicht.](https://github.com/laurent22/joplin/releases/tag/v2.10.16)
+* [Gitea wurde in der Version 1.19.2 veröffentlicht.](https://github.com/go-gitea/gitea/releases/tag/v1.19.2)
+* [Microsoft hat sein Versprechen gebrochen, Windows 10 ist eben doch nicht das letzte Windows und hat offiziell fertig.](https://www.windowspro.de/news/windows-10-erhaelt-kein-feature-update-mehr-windows-11-ltsc-kommt-2024/05375.html)
+* [Snowdens initialer Mut gegen Unrecht aufzustehen und dies kund zu tun, ist schon zehn Jahre her](https://netzpolitik.org/2023/einladung-zum-netzpolitischen-abend-zehn-jahre-snowden-enthuellungen/)
+* [49 Euro Ticket für alle ist schön und gut. Die Menschen in den Städten dürfen aber die restlichen Menschen auf dem Land nicht vergessen ... dort hält manchmal nur ein Bus pro Tag.](https://www.mdr.de/nachrichten/sachsen/chemnitz/freiberg/schulbusse-fahrplan-nahverkehr-oberreichenbach-abgehaengt-100.html)
 
