@@ -50,4 +50,9 @@
 * [Microsoft hat sein Versprechen gebrochen, Windows 10 ist eben doch nicht das letzte Windows und hat offiziell fertig.](https://www.windowspro.de/news/windows-10-erhaelt-kein-feature-update-mehr-windows-11-ltsc-kommt-2024/05375.html)
 * [Snowdens initialer Mut gegen Unrecht aufzustehen und dies kund zu tun, ist schon zehn Jahre her](https://netzpolitik.org/2023/einladung-zum-netzpolitischen-abend-zehn-jahre-snowden-enthuellungen/)
 * [49 Euro Ticket für alle ist schön und gut. Die Menschen in den Städten dürfen aber die restlichen Menschen auf dem Land nicht vergessen ... dort hält manchmal nur ein Bus pro Tag.](https://www.mdr.de/nachrichten/sachsen/chemnitz/freiberg/schulbusse-fahrplan-nahverkehr-oberreichenbach-abgehaengt-100.html)
+* [Genode Sculpt wurde in der Version 23.04 veröffentlicht.](https://github.com/genodelabs/genode/releases/tag/sculpt-23.04)
+* [Metabase wurde in der Version 0.46.2 veröffentlicht.](https://github.com/metabase/metabase/releases/tag/v0.46.2)
+* [Digital Courage hat Microsoft für ihr Lebenswerk zur Überwachung ausgezeichnet.](https://netzpolitik.org/2023/big-brother-awards-microsoft-fuer-lebenswerk-ausgezeichnet/)
+* [Streuobstwiesen sind ein Kulturgut](https://sachsen.nabu.de/news/2023/33305.html)
+* [Kanal9TV: Eröffnung >>Haus der Generationen<< in Freiberg](https://www.youtube.com/watch?v=0l-qjq8-Wsc) - Herzlichen Glückwunsch und Glück Auf!
 
