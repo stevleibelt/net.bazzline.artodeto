@@ -55,4 +55,8 @@
 * [Digital Courage hat Microsoft für ihr Lebenswerk zur Überwachung ausgezeichnet.](https://netzpolitik.org/2023/big-brother-awards-microsoft-fuer-lebenswerk-ausgezeichnet/)
 * [Streuobstwiesen sind ein Kulturgut](https://sachsen.nabu.de/news/2023/33305.html)
 * [Kanal9TV: Eröffnung >>Haus der Generationen<< in Freiberg](https://www.youtube.com/watch?v=0l-qjq8-Wsc) - Herzlichen Glückwunsch und Glück Auf!
+* [rqlite wurde in der Version 7.15.0 veröffentlicht.](https://github.com/rqlite/rqlite/releases/tag/v7.15.0)
+* [SystemTap wurde in der Version 4.9 veröffentlicht.](https://lwn.net/Articles/930497/)
+* [Wine wurde in der Version 8.7 veröffentlicht.](https://www.phoronix.com/news/Wine-8.7-Released)
+* [Nein? Doch! Oh? Microplastik wurde jetzt offiziell in der Nahrung nachgewiesen.](https://netzfrauen.org/2023/04/29/plastic-33/) - Wer hätte gedacht, dass es doch nicht anders als bei Antibiotika und Pestiziden ist
 
