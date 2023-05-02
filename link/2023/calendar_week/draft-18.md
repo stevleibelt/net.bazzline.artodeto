@@ -4,4 +4,12 @@
 * [sudo und su gibt es jetzt auch als Rust-Version](https://www.phoronix.com/news/sudo-su-rewrite-rust)
 * [RatOS wurde in der Version 2.0.2 veröffentlicht.](https://github.com/Rat-OS/RatOS/releases/tag/v2.0.2)
 * [RBDOOM-3-BFG wurde in der Version 1.5.0 veröffentlicht.](https://github.com/RobertBeckebans/RBDOOM-3-BFG/releases/tag/v1.5.0)
+* [openfoodnetwork wurde in der Version 4.3.5 veröffentlicht.](https://github.com/openfoodfoundation/openfoodnetwork/releases/tag/v4.3.5)
+* [openems wurde in der Version 2023.5.0 veröffentlicht.](https://github.com/OpenEMS/openems/releases/tag/2023.5.0)
+* [ClamAV wurde in der Version 1.1.0 veröffentlicht.](https://github.com/Cisco-Talos/clamav/releases/tag/clamav-1.1.0)
+* [libsignal wurde in der Version 0.23.0 veröffentlicht.](https://github.com/signalapp/libsignal/releases/tag/v0.23.0)
+* [typer wurde in der Version 0.9.0 veröffentlicht.](https://github.com/tiangolo/typer/releases/tag/0.9.0)
+* [appsmith wurde in der Version 1.9.17 veröffentlicht.](https://github.com/appsmithorg/appsmith/releases/tag/v1.9.17)
+* [workerman wurde in der Version 4.1.10 veröffentlicht.](https://github.com/walkor/workerman/releases/tag/v4.1.10)
+* [Volksbelauschen in Zahlen, 424 Millionen Datensätze von 121 Millionen Passagieren, das war das Jahr 2022 für die Fluggastdaten.](https://netzpolitik.org/2023/424-millionen-datensaetze-deutlicher-anstieg-bei-der-fluggastdatenspeicherung/)
 
