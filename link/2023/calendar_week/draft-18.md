@@ -7,9 +7,20 @@
 * [openfoodnetwork wurde in der Version 4.3.5 veröffentlicht.](https://github.com/openfoodfoundation/openfoodnetwork/releases/tag/v4.3.5)
 * [openems wurde in der Version 2023.5.0 veröffentlicht.](https://github.com/OpenEMS/openems/releases/tag/2023.5.0)
 * [ClamAV wurde in der Version 1.1.0 veröffentlicht.](https://github.com/Cisco-Talos/clamav/releases/tag/clamav-1.1.0)
-* [libsignal wurde in der Version 0.23.0 veröffentlicht.](https://github.com/signalapp/libsignal/releases/tag/v0.23.0)
+* [libsignal wurde in der Version 0.23.1 veröffentlicht.](https://github.com/signalapp/libsignal/releases/tag/v0.23.1)
 * [typer wurde in der Version 0.9.0 veröffentlicht.](https://github.com/tiangolo/typer/releases/tag/0.9.0)
 * [appsmith wurde in der Version 1.9.17 veröffentlicht.](https://github.com/appsmithorg/appsmith/releases/tag/v1.9.17)
 * [workerman wurde in der Version 4.1.10 veröffentlicht.](https://github.com/walkor/workerman/releases/tag/v4.1.10)
 * [Volksbelauschen in Zahlen, 424 Millionen Datensätze von 121 Millionen Passagieren, das war das Jahr 2022 für die Fluggastdaten.](https://netzpolitik.org/2023/424-millionen-datensaetze-deutlicher-anstieg-bei-der-fluggastdatenspeicherung/)
+* [APT wurde in der Version 2.7 veröffentlicht.](https://www.phoronix.com/news/Debian-APT-2.7-Released)
+* [OBS Studio wurde in der Version 29.1 veröffentlicht.](https://www.phoronix.com/news/OBS-Studio-29.1)
+* [Der Akku Doktor fährt am 08.05.2023 nach Berlin um für uns für die Befreiung der Balkonkraftwerke zu kämpfen](https://www.akkudoktor.net/2023/05/02/jetzt-gilt-es-am-8-5/)
+* [Schick, in PowerShell kann man Nutzereingabe direkt über `[ValidateScript({ Test-Path $_ })]` (und andere Möglichkeiten) prüfen lassen.](https://devblogs.microsoft.com/powershell-community/designing-powershell-for-end-users/) - Damit entfällt dann auch viel Zusatzquelltext und man liefert eine einheitliche Fehlerbehandlung aus
+* [Valgrind wurde in der Version 3.21.0 veröffentlicht.](https://lwn.net/Articles/930651/)
+* [Deutschlandticket-Apps? Nur echt mit unnötiger Datenweitergabe an Google und weiteren.](https://www.kuketz-blog.de/deutschlandticket-apps-49e-plus-datenweitergabe-an-google-und-co-deutschlandticket-teil1/) - Vier Tracker, also vier Wanzenprogramme für ein Stück Software, was wir Steuerzahler bezahlt haben. Damit bleibt nur noch die Chipkarte.
+* [Immer diese Zufälle, Intel schreibt richtig schlechte Zahlen und schon schieben die Medien Angriffe auf AMD's Technik durch die Welt.](http://blog.fefe.de/?ts=9aaf9070)
+* [Ist das gewollt oder nur noch Satiere? Lindner ist gegen grenzenlose Subvention der Wirtschaft?](http://blog.fefe.de/?ts=9aafffe4)
+* [phpqa wurde in der Version 1.88.0 veröffentlicht.](https://github.com/jakzal/phpqa/releases/tag/v1.88.0)
+* [Joomla! wurde in der Version 4.3.1 veröffentlicht.](https://github.com/joomla/joomla-cms/releases/tag/4.3.1)
+* [davx5-ose wurde in der Version 4.3.2 veröffentlicht.](https://github.com/bitfireAT/davx5-ose/releases/tag/v4.3.2-ose)
 
