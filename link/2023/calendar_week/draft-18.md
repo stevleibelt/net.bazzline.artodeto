@@ -23,4 +23,14 @@
 * [phpqa wurde in der Version 1.88.0 veröffentlicht.](https://github.com/jakzal/phpqa/releases/tag/v1.88.0)
 * [Joomla! wurde in der Version 4.3.1 veröffentlicht.](https://github.com/joomla/joomla-cms/releases/tag/4.3.1)
 * [davx5-ose wurde in der Version 4.3.2 veröffentlicht.](https://github.com/bitfireAT/davx5-ose/releases/tag/v4.3.2-ose)
+* [Wie gut funktioniert der Kapitalismus? In San Francisco sieht man es mal wieder](http://blog.fefe.de/?ts=9aacb00d)
+* [Outlook öffnet Links nur noch im Edge, wegen WEIL ISSO!](http://blog.fefe.de/?ts=9aacf192)
+* [Kennt ihr noch das Problem mit den Abmahnungen wegen Google-Fonts-Einbettung? Die waren alle rechtsmissbräuchlich](http://blog.fefe.de/?ts=9aacf0a0) - Ich würde die entsprechenden Kläger eine dicke Rechnung wegen Verschmutzung von Staatskraft schicken
+* [IT aus dem Geschichtenlehrbuch, die Entwickler wurden gefeuert weil die komplexte Denkaufgabe geschafft wurde und die Betreuung jetzt günstige Externe übernehmen können.](http://blog.fefe.de/?ts=9aaceb12) - Also wurde eine Zeitbombe im Code platziert, welcher die Geräte unbrauchbar macht
+* [Richtig so, Klimaklebern darf man nicht mit Freiheitsentzug drohen, die demonstrieren nur.](http://blog.fefe.de/?ts=9aac2bf0) - Ich habe die Aufregung um diesen Art des Protestes nie verstanden. Wollt ihr lieber, dass die Klimaaktivisten Häuser anbrennen? Wie sollen sie denn sonst aufmerksam, aber friedlich demonstrieren?
+* [cryptpad wurde in der Version 5.3.0 veröffentlicht.](https://github.com/xwiki-labs/cryptpad/releases/tag/5.3.0)
+* [Pressefreihet der Journalisten in Deutschland? Jedes Jahr schlechter!](https://netzpolitik.org/2023/rangliste-der-pressefreiheit-angriffe-gegen-journalistinnen-in-deutschland-auf-rekordhoch/)
+* [Hey, die Blockpartei kann nicht mehr genug Gelder veruntreuen, also muss die Datenmaut her!](https://netzpolitik.org/2023/geldregen-fuer-internet-provider-breite-allianz-warnt-vor-datenmaut/) - Maut, ihr wisst schon ... Wegelagerei
+* [gitea wurde in der Version 1.19.3 veröffentlicht.](https://github.com/go-gitea/gitea/releases/tag/v1.19.3)
+* [Rave Strikes Back hat ein Interview aus dem Jahr 2023 mit Laurent Garnier verlinkt.](https://www.rave-strikes-back.de/?p=11698)
 
