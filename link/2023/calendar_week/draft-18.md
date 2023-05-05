@@ -33,4 +33,12 @@
 * [Hey, die Blockpartei kann nicht mehr genug Gelder veruntreuen, also muss die Datenmaut her!](https://netzpolitik.org/2023/geldregen-fuer-internet-provider-breite-allianz-warnt-vor-datenmaut/) - Maut, ihr wisst schon ... Wegelagerei
 * [gitea wurde in der Version 1.19.3 veröffentlicht.](https://github.com/go-gitea/gitea/releases/tag/v1.19.3)
 * [Rave Strikes Back hat ein Interview aus dem Jahr 2023 mit Laurent Garnier verlinkt.](https://www.rave-strikes-back.de/?p=11698)
+* [Aktuells aus dem Netzwerk Miteinandersein wurde in der Version Mai 2023 veröffentlicht.](https://miteinandersein.net/blog/754/)
+* [jitsi-admin wurde in der Version 0.75.3 veröffentlicht.](https://github.com/H2-invent/jitsi-admin/releases/tag/0.75.3)
+* [sof wurde in der Version 2.2.5 veröffentlicht.](https://github.com/thesofproject/sof/releases/tag/v2.2.5)
+* [Windows 11 22H2 Update verursacht Probleme.](https://www.borncity.com/blog/2023/05/05/windows-11-22h2-april-2023-update-kb5025239-verursacht-probleme/) - Da schreiben sich die Witze von ganz alleine
+* [Wer hälte den Datenschutz beim Deutschlandticket ein? Die Deutsche Bahn? Natürlich nicht! Kleine Bahnen wie die Harzer Schmalspurbahn hingegen schon.](https://www.kuketz-blog.de/deutschlandticket-datenschutzfreundlicher-erwerb-und-verwaltung-via-harzer-schmalspurbahnen/)
+* [Posgres SQP (Simple Privacy and Anonymization) wurde in der Version 1.0 veröffentlicht.](https://www.postgresql.org/about/news/spa-10-data-privacy-and-security-solution-for-postgres-released-2634/) - Herzlichen Glückwunsch und dankeschön!
+* [Kanal9TV hat die Stmmen zum Tag der erneuerbaren Energien 2023 eingefangen.](https://www.youtube.com/watch?v=ElYWjRJ0dP0)
+* [Kuketz fasst den wichtigsten Status Quo über Passwörter für euch zusammen](https://www.kuketz-blog.de/welt-passwort-tag-das-wichtigste-auf-einen-blick/) - Danke!
 
