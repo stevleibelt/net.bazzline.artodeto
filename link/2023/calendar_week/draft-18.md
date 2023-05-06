@@ -41,4 +41,13 @@
 * [Posgres SQP (Simple Privacy and Anonymization) wurde in der Version 1.0 veröffentlicht.](https://www.postgresql.org/about/news/spa-10-data-privacy-and-security-solution-for-postgres-released-2634/) - Herzlichen Glückwunsch und dankeschön!
 * [Kanal9TV hat die Stmmen zum Tag der erneuerbaren Energien 2023 eingefangen.](https://www.youtube.com/watch?v=ElYWjRJ0dP0)
 * [Kuketz fasst den wichtigsten Status Quo über Passwörter für euch zusammen](https://www.kuketz-blog.de/welt-passwort-tag-das-wichtigste-auf-einen-blick/) - Danke!
+* [http-message wurde in der Version 1.1.1 veröffentlicht.](https://github.com/httpsoft/http-message/releases/tag/1.1.1)
+* [pappl wurde in der Version 1.3.2 veröffentlicht.](https://github.com/michaelrsweet/pappl/releases/tag/v1.3.2)
+* [rqlite wurde in der Version 7.16.0 veröffentlicht.](https://github.com/rqlite/rqlite/releases/tag/v7.16.0)
+* [rector wurde in der Version 0.16.0 veröffentlicht.](https://github.com/rectorphp/rector/releases/tag/0.16.0)
+* [Realitätsabgleich Stromtrassen in Bayern.](https://blog.fefe.de/?ts=9aaa2cb0)
+* [Kanal9TV: Maibaumfest in Kleinhartmannsdorf 2023](https://www.youtube.com/watch?v=fl6pxsnhTIU)
+* [Kanal9TV: Silberstadtbahn Freiberg mit Saisonstart.](https://www.youtube.com/watch?v=90-Ud3iWluw)
+* [Realitätsabgleich Saudi-Arabien.](https://netzfrauen.org/2023/05/05/saudi-arabia-5/)
+* [dav1d wurde in der Version 1.2 veröffentlicht.](https://www.phoronix.com/news/dav1d-1.2-released)
 
