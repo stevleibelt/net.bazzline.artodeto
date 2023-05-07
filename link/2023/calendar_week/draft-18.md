@@ -50,4 +50,6 @@
 * [Kanal9TV: Silberstadtbahn Freiberg mit Saisonstart.](https://www.youtube.com/watch?v=90-Ud3iWluw)
 * [Realitätsabgleich Saudi-Arabien.](https://netzfrauen.org/2023/05/05/saudi-arabia-5/)
 * [dav1d wurde in der Version 1.2 veröffentlicht.](https://www.phoronix.com/news/dav1d-1.2-released)
+* [bzip3 ist echt schnell.](https://marius.bloggt-in-braunschweig.de/2023/05/06/bzip3-ist-der-klare-gewinner/)
+* [xrdp wurde in der Version 0.9.22 veröffentlicht.](https://github.com/neutrinolabs/xrdp/releases/tag/v0.9.22)
 
