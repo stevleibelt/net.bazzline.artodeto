@@ -14,4 +14,21 @@
 * [Joplin wurde in der Version 2.10.17 veröffentlicht.](https://github.com/laurent22/joplin/releases/tag/v2.10.17)
 * [HeidiSQL wurde in der Version 12.5 veröffentlicht.](https://github.com/HeidiSQL/HeidiSQL/releases/tag/12.5)
 * [BigBlueButton wurde in der Version 2.6.6 veröffentlicht.](https://github.com/bigbluebutton/bigbluebutton/releases/tag/v2.6.6)
+* [Alpine Linux wurde in der Version 3.18 veröffentlicht.](https://www.phoronix.com/news/Alpine-Linux-3.18)
+* [Firefox wurde in der Version 113.0 veröffentlicht.](https://lwn.net/Articles/931404/)
+* [Realitätsabgleich Indien und deren Probleme mit der Vergewaltigung.](https://netzfrauen.org/2023/05/09/india-34/)
+* [Wie denken Konzerne über das Thema Wasser? Kostenfreier Zugriff auf sauberes Wasser ist kein Menschenrecht.](https://netzfrauen.org/2023/05/09/watercrisis-5/) - Benzin auf die Privatbesitze der Konzernleitung ist natürlich auch kein Menschenrecht
+* [Der Verkehrsverbund Bremen/Niedersachsen trackt euch auch, ohne, dass ihr das wollt.](https://www.kuketz-blog.de/verkehrsverbund-bremen-niedersachen-vbn-tracking-ohne-einwilligung-deutschlandticket-teil3/) - Danke Kuketz!
+* [Papercut ist kaputt.](https://www.borncity.com/blog/2023/05/09/papercut-sicherheitslcken-werden-mehr-und-mehr-aktiv-ausgenutzt/)
+* [Wow, ihr könnt euch für die Nutzung des Nextcloud Exchange Connector im Beta-Programm bewerben.](https://nextcloud.com/blog/4-reasons-to-sign-up-for-the-nextcloud-exchange-connector-beta/)
+* [Yocto Project wurde in der Version 4.2 veröffentlicht.](https://www.linux-magazin.de/news/yocto-project-4-2-updates-fuer-den-distributionsbaukasten/)
+* [Nein? Doch! Oh? Geheimdienste nutzen Staatstrojaner illegal und schweigen natürlich darüber.](https://netzpolitik.org/2023/pega-untersuchungsausschuss-geheimdienste-nutzen-staatstrojaner-und-schweigen/)
+* [Passend dazu auch, Netzpolitik setzt sich mit der gallertartigen Masse des Mediengesetztes außeinander.](https://netzpolitik.org/2023/eu-medienfreiheitsgesetz-gummiparagraf-gegen-staatstrojaner/) - Viel "hätte, hätte, Fahrradkette"
+* [rqlite wurde in der Version 7.17.0 veröffentlicht.](https://github.com/rqlite/rqlite/releases/tag/v7.17.0)
+* [harfbuzz wurde in der Version 7.3.0 veröffentlicht.](https://github.com/harfbuzz/harfbuzz/releases/tag/7.3.0)
+* [grav wurde in der Version 1.7.41 veröffentlicht.](https://github.com/getgrav/grav/releases/tag/1.7.41)
+* [mezzio wurde in der Version 3.17.0 veröffentlicht.](https://github.com/mezzio/mezzio/releases/tag/3.17.0)
+* [phpstan wurde in der Version 1.10.15 veröffentlicht.](https://github.com/phpstan/phpstan/releases/tag/1.10.15)
+* [joplin wurde in der Version 2.10.18 veröffentlicht.](https://github.com/laurent22/joplin/releases/tag/v2.10.18)
+* [penpot wurde in der Version 1.18.3 veröffentlicht.](https://github.com/penpot/penpot/releases/tag/1.18.3)
 
