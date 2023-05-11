@@ -31,4 +31,18 @@
 * [phpstan wurde in der Version 1.10.15 veröffentlicht.](https://github.com/phpstan/phpstan/releases/tag/1.10.15)
 * [joplin wurde in der Version 2.10.18 veröffentlicht.](https://github.com/laurent22/joplin/releases/tag/v2.10.18)
 * [penpot wurde in der Version 1.18.3 veröffentlicht.](https://github.com/penpot/penpot/releases/tag/1.18.3)
+* [Keine 2 Minuten, die sich lohnen. Martin Sonneborn spricht vor dem EU-Parlament über vonder Leyen und ihre Anklage wegen Korruption.](https://martinsonneborn.de/sms-fuer-vonderleyen/) - Letzteres wurde von den deutschen Leitmedien irgendwie "vergessen" zu berichten
+* [Kanal9TV: Der Streit um Kaffee-Kurt](https://www.youtube.com/watch?v=p_zfshEPr8w) - Es wäre einfach nur schade, wenn Kaffee-Kurt dauerhaft schließen müsste
+* [D8VK wurde in der Version 1.0 veröffentlicht.](https://www.phoronix.com/news/D8VK-1.0-Released)
+* [Der Akkudoktor kommt jetzt ohne Google Analystics aus.](https://www.akkudoktor.net/2023/05/10/google-analytics-entfernt/) - Sehr gut und danke schön!
+* [Chris Siebenmann fasst Mailinglisten und Forums sowie deren Nutzerkreis gut zusammen.](https://utcc.utoronto.ca/~cks/space/blog/tech/MailingListsVsForums)
+* [Der Webauftritt der TU-Bergakademie Freiberg wird wahrscheinlich am 24.05.2023 im neuen Gewandt erscheinen.](https://blogs.hrz.tu-freiberg.de/urz/ausblick-webauftritt/) - Viel Erfolg!
+* [Julia wurde in der Version 1.9 veröffentlicht.](https://lwn.net/Articles/931490/)
+* [Die Migration der Exchange-Postfächer nach dem Cybersecurity-Angriff wurde an der TU Bergakademie Freiberg erfolgreich abgeschlossen.](https://blogs.hrz.tu-freiberg.de/urz/migration-der-exchange-postfaecher-abgeschlossen/)
+* [Tacticalrmm wurde in der Version 0.15.11 veröffentlicht.](https://github.com/amidaware/tacticalrmm/releases/tag/v0.15.11)
+* [ahcrawler wurde in der Version 0.162 veröffentlicht.](https://github.com/axelhahn/ahcrawler/pull/22)
+* [libsignal wurde in der Version 0.24.0 veröffentlicht.](https://github.com/signalapp/libsignal/releases/tag/v0.24.0)
+* [grav wurde in der Version 1.7.41.1 veröffentlicht.](https://github.com/getgrav/grav/releases/tag/1.7.41.1)
+* [appsmith wurde in der Version 1.9.18 veröffentlicht.](https://github.com/appsmithorg/appsmith/releases/tag/v1.9.18)
+* [tokio wurde in der Version 1.28.1 veröffentlicht.](https://github.com/tokio-rs/tokio/releases/tag/tokio-1.28.1)
 
