@@ -43,6 +43,11 @@
 * [ahcrawler wurde in der Version 0.162 veröffentlicht.](https://github.com/axelhahn/ahcrawler/pull/22)
 * [libsignal wurde in der Version 0.24.0 veröffentlicht.](https://github.com/signalapp/libsignal/releases/tag/v0.24.0)
 * [grav wurde in der Version 1.7.41.1 veröffentlicht.](https://github.com/getgrav/grav/releases/tag/1.7.41.1)
-* [appsmith wurde in der Version 1.9.18 veröffentlicht.](https://github.com/appsmithorg/appsmith/releases/tag/v1.9.18)
+* [appsmith wurde in der Version 1.9.19 veröffentlicht.](https://github.com/appsmithorg/appsmith/releases/tag/v1.9.19)
 * [tokio wurde in der Version 1.28.1 veröffentlicht.](https://github.com/tokio-rs/tokio/releases/tag/tokio-1.28.1)
+* [flet wurde in der Version 0.7.1 veröffentlicht.](https://github.com/flet-dev/flet/releases/tag/v0.7.1)
+* [fwupd wurde in der Version 1.8.15 veröffentlicht.](https://github.com/fwupd/fwupd/releases/tag/1.8.15)
+* [headscale wurde in der Version 0.22.3 veröffentlicht.](https://github.com/juanfont/headscale/releases/tag/v0.22.3)
+* [lando wure in der Version 3.17.0 veröffentlicht.](https://github.com/lando/lando/releases/tag/v3.17.0)
+* [docsify-this wurde in der Version 1.6.4 veröffentlicht.](https://github.com/hibbitts-design/docsify-this/releases/tag/v1.6.4)
 
