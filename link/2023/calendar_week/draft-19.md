@@ -50,4 +50,8 @@
 * [headscale wurde in der Version 0.22.3 veröffentlicht.](https://github.com/juanfont/headscale/releases/tag/v0.22.3)
 * [lando wure in der Version 3.17.0 veröffentlicht.](https://github.com/lando/lando/releases/tag/v3.17.0)
 * [docsify-this wurde in der Version 1.6.4 veröffentlicht.](https://github.com/hibbitts-design/docsify-this/releases/tag/v1.6.4)
+* [AMD verdoppelt seine Präsenz auf dem Markt.](http://www.3dcenter.org/news/die-marktanteile-fuer-x86-prozessoren-im-ersten-quartal-2023)
+* [DXVK wurde in der Version 2.2 veröffentlicht.](https://www.phoronix.com/news/DXVK-2.2-Released)
+* [Nextcloud hat es ins ZDF geschafft.](https://nextcloud.com/blog/nextcloud-on-german-national-tv-eu-plans-for-big-tech-regulation/)
+* [Tja, geliefert wie bestellt ... der schlanke Staat ist auch hier am Arsch, weil die externen und überbezahlten Dienstleister selber auch nur weggehackt werden.](https://www.linux-magazin.de/news/itz-bund-warnt-it-dienstleister-fuer-behoerden-und-unternehmen-gehackt/) - Klar, das grundlegende Problem ist eben AD und Microsoft
 
