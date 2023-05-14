@@ -54,4 +54,10 @@
 * [DXVK wurde in der Version 2.2 veröffentlicht.](https://www.phoronix.com/news/DXVK-2.2-Released)
 * [Nextcloud hat es ins ZDF geschafft.](https://nextcloud.com/blog/nextcloud-on-german-national-tv-eu-plans-for-big-tech-regulation/)
 * [Tja, geliefert wie bestellt ... der schlanke Staat ist auch hier am Arsch, weil die externen und überbezahlten Dienstleister selber auch nur weggehackt werden.](https://www.linux-magazin.de/news/itz-bund-warnt-it-dienstleister-fuer-behoerden-und-unternehmen-gehackt/) - Klar, das grundlegende Problem ist eben AD und Microsoft
+* [thelounge wurde in der Version 4.4.0 veröffentlicht.](https://github.com/thelounge/thelounge/releases/tag/v4.4.0)
+* [fwupd wurde in der Version 1.9.1 veröffentlicht.](https://github.com/fwupd/fwupd/releases/tag/1.9.1)
+* [firefly-iii wurde in der Version 6.0.10 veröffentlicht.](https://github.com/firefly-iii/firefly-iii/releases/tag/v6.0.10)
+* [keepassxc wurde in der Version 2.7.5 veröffentlicht.](https://github.com/keepassxreboot/keepassxc/releases/tag/2.7.5)
+* [Ihr esst Shrimps? Ich könnte Gülle essen und das wäre gesünder.](https://netzfrauen.org/2023/05/13/fishfarms-3/)
+* [AlmaLinux wurde in der Version 9.2 veröffentlicht.](https://www.phoronix.com/news/AlmaLinux-9.2-Released)
 
