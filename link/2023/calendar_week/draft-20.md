@@ -12,4 +12,7 @@
 * [GNU Shepherd wurde in der Version 0.10 veröffentlicht.](https://www.phoronix.com/news/GNU-Shepherd-0.10)
 * [Eine Seite in JavaScript neu laden? Da gibt es vier Wege nach Rom.](https://www.30secondsofcode.org/articles/s/javascript-reload-page/)
 * [>>Die Betreiber der Plattformen wollen, so Doctorow, vor allem eines: Geld an ihren Nutzer:innen verdienen. Sie machten ihren Nutzer:innen daher am Anfang ein verlockendes Angebot, das sie dann schrittweise zurückdrehen oder gar umkehren würden. Dies geschehe unter anderem durch Ausspionieren, durch Ausbremsen von Inhalten mit Hilfe von Algorithmen und durch eine Veränderung der Inhalte, die Nutzer:innen angezeigt werden. Betroffen seien sowohl Privat- als auch auf Geschäftskunden.<<](https://netzpolitik.org/2023/cory-doctorow-zwei-prinzipien-fuer-ein-besseres-internet/)
+* [Lando wurde in der Version 3.17.1 veröffentlicht.](https://github.com/lando/lando/releases/tag/v3.17.1)
+* [BigBlueButton wurde in der Version 2.6.7 veröffentlicht.](https://github.com/bigbluebutton/bigbluebutton/releases/tag/v2.6.7)
+* [phpqa wurde in der Version 1.88.1 veröffentlicht.](https://github.com/jakzal/phpqa/releases/tag/v1.88.1)
 
