@@ -24,4 +24,6 @@
 * [Das VPN der TU Bergakademie Freiberg ist für Besitzer eines zweiten Faktors wieder mit seinen Grunddiensten verfügbar.](https://blogs.hrz.tu-freiberg.de/urz/vpn-wieder-verfuegbar/)
 * [Was macht die Chatkontrolle der Blockpartei? Gegen so ziemlich alle Rechte des Bundes der deutschen Nationen verstoßen.](https://www.patrick-breyer.de/zusammenfassung-der-stellungnahme-des-bundesbeauftragten-fuer-den-datenschutz-und-die-informationsfreiheit/)
 * [Der siebte](https://www.opensourcerers.org/2023/05/15/how-to-secure-microservice-applications-with-role-based-access-control-7-7/) und [sechste](https://www.opensourcerers.org/2023/05/15/how-to-secure-microservice-applications-with-role-based-access-control-6-7/) Teil der Reihe "R-B-A und Mikroservices" wurde veröffentlicht
+* [BigBlueButton wurde in der Version 2.6.7 veröffentlicht.](https://github.com/bigbluebutton/bigbluebutton/releases/tag/v2.6.7)
+* [phpqa wurde in der Version 1.88.1 veröffentlicht.](https://github.com/jakzal/phpqa/releases/tag/v1.88.1)
 
