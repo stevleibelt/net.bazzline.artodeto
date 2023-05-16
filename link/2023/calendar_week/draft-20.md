@@ -12,4 +12,16 @@
 * [GNU Shepherd wurde in der Version 0.10 veröffentlicht.](https://www.phoronix.com/news/GNU-Shepherd-0.10)
 * [Eine Seite in JavaScript neu laden? Da gibt es vier Wege nach Rom.](https://www.30secondsofcode.org/articles/s/javascript-reload-page/)
 * [>>Die Betreiber der Plattformen wollen, so Doctorow, vor allem eines: Geld an ihren Nutzer:innen verdienen. Sie machten ihren Nutzer:innen daher am Anfang ein verlockendes Angebot, das sie dann schrittweise zurückdrehen oder gar umkehren würden. Dies geschehe unter anderem durch Ausspionieren, durch Ausbremsen von Inhalten mit Hilfe von Algorithmen und durch eine Veränderung der Inhalte, die Nutzer:innen angezeigt werden. Betroffen seien sowohl Privat- als auch auf Geschäftskunden.<<](https://netzpolitik.org/2023/cory-doctorow-zwei-prinzipien-fuer-ein-besseres-internet/)
+* [js-lingui wurde in der Version 4.1.0 veröffentlicht.](https://github.com/lingui/js-lingui/releases/tag/v4.1.0)
+* [Analytics wurde in der Version 4.9.0 veröffentlicht.](https://github.com/Rello/analytics/releases/tag/4.9.0)
+* [BetterReflection wurde in der Version 6.10.0 veröffentlicht.](https://github.com/Roave/BetterReflection/releases/tag/6.10.0)
+* [Lando wurde in der Version 3.17.1 veröffentlicht.](https://github.com/lando/lando/releases/tag/v3.17.1)
+* [BackgroundRemover wurde in der Version 0.2.2 veröffentlicht.](https://github.com/nadermx/backgroundremover/releases/tag/v0.2.2)
+* [Arch Linux führt am 19.05.2023 die finale Git-Migration durch.](https://archlinux.org/news/git-migration-announcement/) - `[community]` wird in `[extra]` aufgehen, `[testing]` wrd in `[core-testing]` und `[extra-testing]` aufgespalten
+* [Am 10.06.2023 findet von 12:00 bis 17:00 der Markt der Nachhaltigkeit in Freiberg statt.](http://freibergeragenda21.de/markt-der-nachhaltigkeit-2/)
+* [Hier gibt es eine Auffrischung zum Thema Clean Code](https://www.freecodecamp.org/news/how-to-write-clean-code/)
+* [Codeboot wurde in der Version 4.20 veröffentlicht.](https://www.phoronix.com/news/Coreboot-4.20)
+* [Das VPN der TU Bergakademie Freiberg ist für Besitzer eines zweiten Faktors wieder mit seinen Grunddiensten verfügbar.](https://blogs.hrz.tu-freiberg.de/urz/vpn-wieder-verfuegbar/)
+* [Was macht die Chatkontrolle der Blockpartei? Gegen so ziemlich alle Rechte des Bundes der deutschen Nationen verstoßen.](https://www.patrick-breyer.de/zusammenfassung-der-stellungnahme-des-bundesbeauftragten-fuer-den-datenschutz-und-die-informationsfreiheit/)
+* [Der siebte](https://www.opensourcerers.org/2023/05/15/how-to-secure-microservice-applications-with-role-based-access-control-7-7/) und [sechste](https://www.opensourcerers.org/2023/05/15/how-to-secure-microservice-applications-with-role-based-access-control-6-7/) Teil der Reihe "R-B-A und Mikroservices" wurde veröffentlicht
 
