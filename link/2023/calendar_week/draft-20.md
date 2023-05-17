@@ -26,4 +26,11 @@
 * [Der siebte](https://www.opensourcerers.org/2023/05/15/how-to-secure-microservice-applications-with-role-based-access-control-7-7/) und [sechste](https://www.opensourcerers.org/2023/05/15/how-to-secure-microservice-applications-with-role-based-access-control-6-7/) Teil der Reihe "R-B-A und Mikroservices" wurde veröffentlicht
 * [BigBlueButton wurde in der Version 2.6.7 veröffentlicht.](https://github.com/bigbluebutton/bigbluebutton/releases/tag/v2.6.7)
 * [phpqa wurde in der Version 1.88.1 veröffentlicht.](https://github.com/jakzal/phpqa/releases/tag/v1.88.1)
+* [Die TU Bergakademie Freiberg sucht Administrator für das Campusmanagement.](https://www.tubaf.org/cms/assets/ad323b27-1c08-455e-9d07-231ca74ef4f4?download=&) - Stichworte sind "HISinOne", "Apache Tomcat", "XML/XSLT" und Kundenorientierung
+* [FastAPI wurde in der Version 0.95.2 veröffentlicht.](https://github.com/tiangolo/fastapi/releases/tag/0.95.2)
+* [Joplin wurde in der Version 2.11.4 veröffentlicht.](https://github.com/laurent22/joplin/releases/tag/v2.11.4)
+* [Dolibaar wurde in der Version 17.0.1 veröffentlicht.](https://github.com/Dolibarr/dolibarr/releases/tag/17.0.1)
+* [Openfoodnetwork wurde in der Version 4.3.8 veröffentlicht.](https://github.com/openfoodfoundation/openfoodnetwork/releases/tag/v4.3.8)
+* [Lutris wurde in der Version 0.5.13 veröffentlicht.](https://www.phoronix.com/news/Lutris-0.5.13-Released)
+* [SQLite wurde in der Version 3.42 veröffentlicht.](https://www.phoronix.com/news/SQLite-3.42)
 
