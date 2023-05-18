@@ -33,4 +33,7 @@
 * [Openfoodnetwork wurde in der Version 4.3.8 veröffentlicht.](https://github.com/openfoodfoundation/openfoodnetwork/releases/tag/v4.3.8)
 * [Lutris wurde in der Version 0.5.13 veröffentlicht.](https://www.phoronix.com/news/Lutris-0.5.13-Released)
 * [SQLite wurde in der Version 3.42 veröffentlicht.](https://www.phoronix.com/news/SQLite-3.42)
+* [dragonfly wurde in der Version 1.3.0 veröffentlicht.](https://github.com/dragonflydb/dragonfly/releases/tag/v1.3.0)
+* [Fluent Bit wurde in der Version 2.1.3 veröffentlicht.](https://github.com/fluent/fluent-bit/releases/tag/v2.1.3)
+* [libsignal wurde in der Version 0.25.0 veröffentlicht.](https://github.com/signalapp/libsignal/releases/tag/v0.25.0)
 
