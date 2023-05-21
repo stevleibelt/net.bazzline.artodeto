@@ -36,4 +36,8 @@
 * [dragonfly wurde in der Version 1.3.0 veröffentlicht.](https://github.com/dragonflydb/dragonfly/releases/tag/v1.3.0)
 * [Fluent Bit wurde in der Version 2.1.3 veröffentlicht.](https://github.com/fluent/fluent-bit/releases/tag/v2.1.3)
 * [libsignal wurde in der Version 0.25.0 veröffentlicht.](https://github.com/signalapp/libsignal/releases/tag/v0.25.0)
+* [js-lingui wurde in der Version 4.1.2 veröffentlicht.](https://github.com/lingui/js-lingui/releases/tag/v4.1.2)
+* [Jplin wurde in der Version 2.10.19 veröffentlicht.](https://github.com/laurent22/joplin/releases/tag/v2.10.19)
+* [jitsi-admin wurde in der Version 0.75.5 veröffentlicht.](https://github.com/H2-invent/jitsi-admin/releases/tag/0.75.5)
+* Maybe this is a full stop
 
