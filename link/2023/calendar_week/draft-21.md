@@ -11,4 +11,5 @@
 * [Die Demonstranten in Lützerath haben jetzt Solarstrom.](https://netzpolitik.org/2023/luetzerath-und-co-kein-klimaprotest-ohne-infrastruktur/)
 * [Batou wurde in der Version 2.3.1 veröffentlicht.](https://github.com/flyingcircusio/batou/pull/372)
 * [yay wurde in der Version 12.0.5 veröffentlicht.](https://github.com/Jguer/yay/releases/tag/v12.0.5)
+* [arch-linux-live-cd-iso-with-zfs wurde in der Version 2.9.0 veröffentlicht.](https://github.com/stevleibelt/arch-linux-live-cd-iso-with-zfs/releases/tag/2.9.0) - Damit kann ab jetzt auch ein arch live linux mit zfs und lts-kernel gebaut werden
 
