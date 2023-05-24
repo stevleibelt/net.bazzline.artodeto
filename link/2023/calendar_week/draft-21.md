@@ -12,4 +12,9 @@
 * [Batou wurde in der Version 2.3.1 veröffentlicht.](https://github.com/flyingcircusio/batou/pull/372)
 * [yay wurde in der Version 12.0.5 veröffentlicht.](https://github.com/Jguer/yay/releases/tag/v12.0.5)
 * [arch-linux-live-cd-iso-with-zfs wurde in der Version 2.9.0 veröffentlicht.](https://github.com/stevleibelt/arch-linux-live-cd-iso-with-zfs/releases/tag/2.9.0) - Damit kann ab jetzt auch ein arch live linux mit zfs und lts-kernel gebaut werden
+* [Wem gehört das Land? Zunehmend Blackrock oder, medial geschrieben, den Saudis](https://netzfrauen.org/2023/05/23/landgrabbing-4/)
+* [Nette Idee, aber bestimmt wieder ohne Biss und Eier - das EU-Parlament wünscht sich langlebige Geräte die man auch reparieren kann.](https://netzpolitik.org/2023/recht-auf-reparatur-eu-parlament-will-langlebigere-geraete/)
+* [Podman Desktop wurde in der Version 1.0 veröffentlicht.](https://www.phoronix.com/news/Podman-Desktop-1.0)
+* [Daniel Somerfield beglückt uns mit einen Artikel über Dependency Composition](https://martinfowler.com/articles/dependency-composition.html)
+* [`git log --oneline --no-merges`](https://www.30secondsofcode.org/git/s/view-commits-summary/)
 
