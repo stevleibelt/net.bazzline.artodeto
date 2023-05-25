@@ -17,4 +17,10 @@
 * [Podman Desktop wurde in der Version 1.0 veröffentlicht.](https://www.phoronix.com/news/Podman-Desktop-1.0)
 * [Daniel Somerfield beglückt uns mit einen Artikel über Dependency Composition](https://martinfowler.com/articles/dependency-composition.html)
 * [`git log --oneline --no-merges`](https://www.30secondsofcode.org/git/s/view-commits-summary/)
+* [Spannende Kompetenzübung von FeFe, willst du ein Volk auf Krieg einschwören, reicht es nur irgendein Feind als Gefahr zu beschwören.](http://blog.fefe.de/?ts=9a9094cd) - Und alle, die niht daran glauben, sind nicht National
+* [Verwaltungsdigitalisierung mit viel Werbung aber wenig Geld, Vorgaben, Zuständigkeiten und Fristen.](https://netzpolitik.org/2023/ozg-2-0-verwaltungsdigitalisierung-im-gaensemarsch/) - Nancy Faeser, ein Musterbeispiel der Blockpartei
+* [Neben der Vorratsdatenspeicherung eins der größten Hobbies der Blockpartei, nach zwei Niederladen gibt es erneut einen Versuch der Blockpartei eine Sperrklausel in Deutschland einzuführen.](https://www.die-partei.de/2023/05/24/sperrklausel-fuer-die-europawahl/)
+* [Nein? Doch! Oh? Fragst du eine KI, bist du risikobereiter](https://www.linux-magazin.de/news/studie-einsatz-von-ki-erhoeht-risikobereitschaft/) - Die KI hat es mir duch gesagt, dass das klappen wird :-(
+* [Wozu braucht man Anmachholz, Brennholz oder Zunder? Hier wird es euch erklärt](https://www.zauber-kraut.de/wie-ein-kaminfeuer-mit-ofenfertigem-brennholz-gelingt)
+* [>>Hat Ihnen ein Arzt oder ein anderer Mediziner schon einmal gesagt, dass Sie an einer psychischen Erkrankung leiden?<<](https://www.philoclopedia.de/2023/05/24/drei-gro%C3%9Fe-unwahrheiten/)
 
