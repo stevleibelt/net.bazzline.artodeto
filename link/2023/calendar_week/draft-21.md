@@ -23,4 +23,6 @@
 * [Nein? Doch! Oh? Fragst du eine KI, bist du risikobereiter](https://www.linux-magazin.de/news/studie-einsatz-von-ki-erhoeht-risikobereitschaft/) - Die KI hat es mir duch gesagt, dass das klappen wird :-(
 * [Wozu braucht man Anmachholz, Brennholz oder Zunder? Hier wird es euch erklärt](https://www.zauber-kraut.de/wie-ein-kaminfeuer-mit-ofenfertigem-brennholz-gelingt)
 * [>>Hat Ihnen ein Arzt oder ein anderer Mediziner schon einmal gesagt, dass Sie an einer psychischen Erkrankung leiden?<<](https://www.philoclopedia.de/2023/05/24/drei-gro%C3%9Fe-unwahrheiten/)
+* [nextcloud/poll ist kaputt, wenn ihr externe Nutzer löscht.](https://github.com/nextcloud/polls/issues/2920)
+* [Die große Kreis-, Universitäts-, Silber-, Weltkulturerbe- und Bergstadt Freiberg hat jetzt eine eigene App für die Schmierfone.](https://www.freiberg.de/stadt-und-buerger/aktuelles/neuigkeiten/silberstadt-app-neuigkeiten-aus-freiberg-direkt-aufs-smartphone)
 
