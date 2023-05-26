@@ -25,4 +25,19 @@
 * [>>Hat Ihnen ein Arzt oder ein anderer Mediziner schon einmal gesagt, dass Sie an einer psychischen Erkrankung leiden?<<](https://www.philoclopedia.de/2023/05/24/drei-gro%C3%9Fe-unwahrheiten/)
 * [nextcloud/poll ist kaputt, wenn ihr externe Nutzer löscht.](https://github.com/nextcloud/polls/issues/2920)
 * [Die große Kreis-, Universitäts-, Silber-, Weltkulturerbe- und Bergstadt Freiberg hat jetzt eine eigene App für die Schmierfone.](https://www.freiberg.de/stadt-und-buerger/aktuelles/neuigkeiten/silberstadt-app-neuigkeiten-aus-freiberg-direkt-aufs-smartphone)
+* [>>Erneuter Terroranschlag der Letzten Generation: 34 Leicht- und 5 Schwerverspätete<<](http://blog.fefe.de/?ts=9a91bcb7) - Genau mein Humor und bringt es auf dem Punkt, danke FeFe
+* [Kubernetes ist so einfach zu konfigurieren, dass RedHat dir jetzt dafür einen Cloud-service anbietet.](http://blog.fefe.de/?ts=9a91f312)
+* [Nextcloud server wurde in der Version 26.0.2 veröffentlicht.](https://github.com/nextcloud/server/releases/tag/v26.0.2)
+* [Nextcloud server wurde in der Version 25.0.7 veröffentlicht.](https://github.com/nextcloud/server/releases/tag/v25.0.7)
+* [>>when people keep doing it wrong, the people are right and your system or idea is wrong<<](https://utcc.utoronto.ca/~cks/space/blog/programming/OnHTMLViaStringTemplates)
+* [Zyxel ist kaputt.](https://www.bleepingcomputer.com/news/security/zyxel-warns-of-critical-vulnerabilities-in-firewall-and-vpn-devices/)
+* [Auch schön ausgedrückt, der fossile Rechtsstaat rast gegen die Wand](https://netzpolitik.org/2023/letzte-generation-der-fossile-rechtsstaat-rast-gegen-die-wand/) - Wenn paramilitärische Aktionen gegen Demonstranten angewandt werden, die bisher durch ihr friedliches Demonstrieren auffallen, dann sieht man, wie hart da die Geldkofferträger an der Kotzgrenze sind
+* [Monopol Impfstoffe, die sollen jetzt alle mit mRNA verseucht werden.](https://impfentscheidung.online/umstellung-aller-impfstoffe-auf-mrna-technologie/) - Weil es was nützt? Nein! Weil es die Preise nach oben katapultiert!
+* [Kanal9TV: Gewerbevereinstreffen in Freiberg](https://www.youtube.com/watch?v=03MldzHfMjU)
+* [`git branch --contains 1234abcd`](https://www.30secondsofcode.org/git/s/branches-containing-commit/)
+* [`git commit --amend --author="Mixmaster mic <mix.master@mic.org"`](https://www.30secondsofcode.org/git/s/set-or-amend-commit-author/)
+* [mdr.de: Erste 15.000 Liter E-Fules am Forschungsstandort Freiberg freigegeben](https://www.mdr.de/video/mdr-videos/a/video-725326.html)
+* [Hier werdet ihr in das Thema Socket-Programmierung in Python eingeführt.](https://www.freecodecamp.org/news/socket-programming-in-python/)
+* [UI/UX-Design ist nicht nur etwas was man machen muss, man sollte es tuen und sich daran erfreuen](https://www.freecodecamp.org/news/why-accessibility-matters-in-ui-ux-design/)
+* [Am 13.07.2023 findet im Städtischen Festsaal von Freiberg ein WorkShop zum Thema >>Wie wollen wir miteinander reden<< statt.](http://freibergeragenda21.de/workshop-wie-wollen-wir-miteinander-reden/)
 
