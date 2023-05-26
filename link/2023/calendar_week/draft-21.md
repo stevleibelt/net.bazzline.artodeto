@@ -40,4 +40,5 @@
 * [Hier werdet ihr in das Thema Socket-Programmierung in Python eingeführt.](https://www.freecodecamp.org/news/socket-programming-in-python/)
 * [UI/UX-Design ist nicht nur etwas was man machen muss, man sollte es tuen und sich daran erfreuen](https://www.freecodecamp.org/news/why-accessibility-matters-in-ui-ux-design/)
 * [Am 13.07.2023 findet im Städtischen Festsaal von Freiberg ein WorkShop zum Thema >>Wie wollen wir miteinander reden<< statt.](http://freibergeragenda21.de/workshop-wie-wollen-wir-miteinander-reden/)
+* [arch-linux-live-cd-iso-with-zfs wurde in der Version 2.10.0 veröffentlicht.](https://github.com/stevleibelt/arch-linux-live-cd-iso-with-zfs/releases/tag/2.10.0) - Damit kann ab jetzt jegliches Paket mit einem passenden zfs git Paket gebaut werden
 
