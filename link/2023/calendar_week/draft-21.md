@@ -41,4 +41,11 @@
 * [UI/UX-Design ist nicht nur etwas was man machen muss, man sollte es tuen und sich daran erfreuen](https://www.freecodecamp.org/news/why-accessibility-matters-in-ui-ux-design/)
 * [Am 13.07.2023 findet im Städtischen Festsaal von Freiberg ein WorkShop zum Thema >>Wie wollen wir miteinander reden<< statt.](http://freibergeragenda21.de/workshop-wie-wollen-wir-miteinander-reden/)
 * [arch-linux-live-cd-iso-with-zfs wurde in der Version 2.10.0 veröffentlicht.](https://github.com/stevleibelt/arch-linux-live-cd-iso-with-zfs/releases/tag/2.10.0) - Damit kann ab jetzt jegliches Paket mit einem passenden zfs git Paket gebaut werden
+* [Und hier ist der erste automatisierte archlinux-archzfs-linux-lts-dkms build.](https://github.com/stevleibelt/arch-linux-live-cd-iso-with-zfs/releases/tag/20230526)
+* [Da hat netzpolitik.org recht, wenn sich digitales Bezahlen durchsetzen soll, muss es eine überwachungsfreie Alternative geben.](https://netzpolitik.org/2023/irgendwas-mit-internet-wir-brauchen-ueberwachungsfreie-bezahlalternativen/)
+* [Niemand hat die Absicht sein Transparenzversprechen zu halten.](https://netzpolitik.org/2023/missingmails-wie-die-eu-kommission-ihr-transparenzversprechen-bricht/)
+* [Der Fall PyPI oder warum keine Datenhalde, die beste Datenhalde ist.](https://blog.pypi.org/posts/2023-05-24-pypi-was-subpoenaed/) - Oder als Zwischenschritt eben temporäre Datenhalden
+* [Nein? Doch! Oh? Die Preise in Deutschland steigen spontan um 20 bis 30 Prozent, Löhne eher so um 0 bis 4 Prozent und dann wundern sich alle, dass Deutschland eine Rezession hat.](https://www.onli-blogging.de/2266/Linksammlung-212023.html) - Nur die Aktionäre "verdienen" an dieser schamlosen Gier, niemand sonst
+* [Der Computerpool im URZ 1.203 ist wieder für alle Angehörige der TU Bergakademie Freiberg ntzbar](https://blogs.hrz.tu-freiberg.de/urz/computerpool-wieder-verfuegbar/)
+* [Der NABU Sachsen zieht gegen Oberwiesenthal vor Gericht.](https://sachsen.nabu.de/news/2023/33433.html)
 
