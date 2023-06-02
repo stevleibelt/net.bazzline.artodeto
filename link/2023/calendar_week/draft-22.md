@@ -16,4 +16,12 @@
 * [Wiederbenutzbare Github-Actions schreiben, aber wie geht das? Hier wird es euch gezeigt.](https://www.freecodecamp.org/news/how-to-build-a-simple-deployment-pipeline-with-reuable-github-actions-and-heroku/)
 * [HIS wurde in der Version 2023.06 veröffentlicht.](https://www.his.de/hislive/release-202306-ist-freigegeben)
 * [Armbian wurde in der Version 23.05 veröffentlicht.](https://www.phoronix.com/news/Armbian-23.05-Released)
+* [Born liefert eine Dose "Alles ist kaputt"-Dystropie.](https://www.borncity.com/blog/2023/06/01/sicherheits-ransomware-und-datenschutzvorflle-mai-2023/) - Und am Ende ist es halt nur ein harter Realitätsabgleich
+* [>>Insgesamt hinterlässt DivestOS einen äußerst datenschutzfreundlichen Eindruck.<<](https://www.kuketz-blog.de/divestos-datenschutzfreundlich-und-erhoehte-sicherheit-custom-roms-teil5/)
+* [Nein? Doch! Oh? Die US Air Force testet KI und die KI bringt alles um, was zwischen der Erreichung ihres Ziels steht ... auch eben "die Guten"](http://blog.fefe.de/?ts=9a87dd3d)
+* [Nein? Doch! Oh? Chemie-Konzerne halten wichtige Studien über Produkte zurück, weil sie Menschen gefährden?](http://blog.fefe.de/?ts=9a8642d9) - Das hätte ich von Konzernen ohne Herz nun wirklich nicht gedacht, ERSCHÜTTERND!
+* [OpenEMS wurde in der Version 2023.6.0 veröffentlicht.](https://github.com/OpenEMS/openems/releases/tag/2023.6.0)
+* [Rust wurde in der Version 1.70.0 veröffentlicht.](https://blog.rust-lang.org/2023/06/01/Rust-1.70.0.html)
+* [NetBeans wurde in der Version 18 veröffentlicht.](https://www.phoronix.com/news/Apache-NeatBeans-18)
+* [NixOS wurde in der Version 23.05 veröffentlicht.](https://lwn.net/Articles/933466/)
 
