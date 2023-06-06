@@ -11,4 +11,14 @@
 * [Wie hoch ist die Freiheit auf geschlossenen Plattformen? Der Fall "Dolphin" auf Steam zeigt es euch.](https://tarnkappe.info/artikel/gaming/valve-half-nintendo-den-dolphin-emulator-von-steam-zu-entfernen-275854.html)
 * [mdr.de: >>Freiberg ist Veranstaltungsort des Bergbau Erlebnistages<<](https://www.mdr.de/video/mdr-videos/a/video-727756.html)
 * [Nachdem die westliche Welt die Landwirtschaft zerstört hat, gibt es nun Kredite wenn das Wasser privatisiert wird.](https://netzfrauen.org/2023/06/04/wasser-7/) - Weltbank oder IWF? Hier hilft nur noch eine Warmsanierung
+* [Die US-Wirtschaft lebt seit Jahrzehnten nur von aufgeblasener Luft und so müssen auch die Klagen zur Patent-Anfechtung verschärft werden.](http://blog.fefe.de/?ts=9a80f4e4) - Aktuell merkt man zu schnell, dass die Inovationen aus den USA eben nur besagte heiße Luft sind
+* [Cloud-Administratoren sind auch nur überlastete Menschen aus der IT](http://blog.fefe.de/?ts=9a80e60e) - Nur für den Fall, ihr hättet gedacht, dass in der Cloud mehr Leute für die Arbeit arbeiten, da wird nur mehr Rendite gemacht
+* [Es gibt zu viele Datenlecks in der Cloud, also passen wir die Bewertungsnorm für einen "Einbruch" an.](http://blog.fefe.de/?ts=9a830af4) - Aus Totalschaden wird nun eine Schramme, wie bei der Ernährungsampel auf euren industrienn erzeugten Nahrungsmitteln
+* [Nach dem Dieselskandal ist mitten im Dieselskandal, seit 2016 wissen alle, dass 3/4 der Dieselfahrzeuge zu viel Schadstoffe auspusten.](http://blog.fefe.de/?ts=9a837bd4) - Keiner macht etwas dagegen, aber wenn der kleine Bürger mal ... 
+* [mockery wurde in der Version 1.6.1 veröffentlicht.](https://github.com/mockery/mockery/releases/tag/1.6.1)
+* [Outlook.com ist mal wieder außer Betrieb.](https://www.bleepingcomputer.com/news/microsoft/microsofts-outlookcom-is-down-again-on-mobile-web/)
+* [Ihr wollt wissen was die afrikanische Bevölkerung unfreiwillig über genmanipulierte Nahrungsmittel und das Leben damit heraus gefunden habt? Dieser Link gibt euch einen kleinen Einblick darüber.](https://netzfrauen.org/2023/06/05/africa-38/)
+* [Immerhin ehrlich, der deutschen Medienaufsicht ist der Datenschutz egal.](https://netzpolitik.org/2023/kein-porno-ohne-ausweis-der-medienaufsicht-ist-datenschutz-wumpe/)
+* [Was bie Tinder funktioniert, funktioniert doch bestimmt auch bei Tik Tok, SnapChat etc., oder?](https://tarnkappe.info/artikel/it-sicherheit/online-betrug/tinder-trading-scam-neue-betrugsmasche-breitet-sich-aus-275914.html) - Bringt euren Kindern das Nachdenken bei, bevor sie ein Konsumgerät wie das Schmierphone erhalten!
+* [Likes sind Microsoft in Word wichtiger als Funktionalität.](https://www.borncity.com/blog/2023/06/06/verkehrte-welt-word-bekommt-like-button-dafr-fallen-shortcuts-weg/)
 
