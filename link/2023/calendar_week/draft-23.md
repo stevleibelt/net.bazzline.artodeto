@@ -21,4 +21,13 @@
 * [Immerhin ehrlich, der deutschen Medienaufsicht ist der Datenschutz egal.](https://netzpolitik.org/2023/kein-porno-ohne-ausweis-der-medienaufsicht-ist-datenschutz-wumpe/)
 * [Was bie Tinder funktioniert, funktioniert doch bestimmt auch bei Tik Tok, SnapChat etc., oder?](https://tarnkappe.info/artikel/it-sicherheit/online-betrug/tinder-trading-scam-neue-betrugsmasche-breitet-sich-aus-275914.html) - Bringt euren Kindern das Nachdenken bei, bevor sie ein Konsumgerät wie das Schmierphone erhalten!
 * [Likes sind Microsoft in Word wichtiger als Funktionalität.](https://www.borncity.com/blog/2023/06/06/verkehrte-welt-word-bekommt-like-button-dafr-fallen-shortcuts-weg/)
+* [Großprojekte der Blockpartei? Alles Geldtransferoperationen und Veruntreuung.](http://blog.fefe.de/?ts=9a817269)
+* [OpenZFS wurde in der Version 2.1.12 veröffentlicht.](https://github.com/openzfs/zfs/releases/tag/zfs-2.1.12)
+* [Glück Auf TV: Welterbetag in Freiberg 2023](https://www.youtube.com/watch?v=U3rgvFX2Yl0)
+* [Realitätsabgleich 10 Jahre nach Snowden](https://netzpolitik.org/2023/zehn-jahre-snowden-den-geheimdiensten-endlich-grenzen-setzen/)
+* [Nein? Doch! Oh? Auch die Heimüberwachungskameras von Amazon Ring sind einfach zu hacken.](https://netzpolitik.org/2023/sicherheitsluecke-einbrecher-koennten-heimueberwachungskamera-von-amazon-ring-einfach-abschalten/)
+* [Hier werden euch Python Decorators erklärt.](https://www.freecodecamp.org/news/python-decorators-explained/)
+* [Deutsche Leasing ist kaputt.](https://www.borncity.com/blog/2023/06/06/deutsche-leasing-nach-cyberangriff-seit-3-juni-2023-offline/)
+* [mdr.de: >>Freiberg: Schülerbilder zum Thema "Sagen"<<](https://www.mdr.de/video/mdr-videos/a/video-728338.html)
+* [mdr.de: >>Freibergs Radwege im Sicherheitscheck<<](https://www.mdr.de/video/mdr-videos/a/video-728306.html)
 
