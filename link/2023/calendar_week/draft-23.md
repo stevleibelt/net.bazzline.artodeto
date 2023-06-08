@@ -30,4 +30,12 @@
 * [Deutsche Leasing ist kaputt.](https://www.borncity.com/blog/2023/06/06/deutsche-leasing-nach-cyberangriff-seit-3-juni-2023-offline/)
 * [mdr.de: >>Freiberg: Schülerbilder zum Thema "Sagen"<<](https://www.mdr.de/video/mdr-videos/a/video-728338.html)
 * [mdr.de: >>Freibergs Radwege im Sicherheitscheck<<](https://www.mdr.de/video/mdr-videos/a/video-728306.html)
+* [Apple unterstützt jetzt JPEG XL](http://blog.fefe.de/?ts=9a7e4b72)
+* [>>The highly specific details, which include numbers of operatives and methods of attack, show that for nearly a year, Western allies have had a basis to suspect Kyiv in the sabotage.<<](http://blog.fefe.de/?ts=9a7e83f6)
+* [Selenium wurde in der Version 4.10.0 veröffentlicht.](https://github.com/SeleniumHQ/selenium/releases/tag/selenium-4.10.0)
+* [js-lingui wurde in der Version 4.2.1 veröffentlicht.](https://github.com/lingui/js-lingui/releases/tag/v4.2.1)
+* [Sehr gut, über das BSI wird ein Pilotprojekt zur Absicherung von Kommunen gesartet](https://www.linux-magazin.de/news/bsi-startet-pilotprojekt-zur-absicherung-von-kommunen/)
+* [>>Künstliche Intelligenz ist übermächtig und bedroht die ganze Menschheit, so die eindringliche Warnung vieler Tech-Unternehmen. Tatsächlich aber soll dieser Mythos die kommerzielle Überwachung vorantreiben, Regulierung unterbinden und die Ausbeutung von Arbeiter:innen verschleiern.<<](https://netzpolitik.org/2023/kuenstliche-intelligenz-vermessung-bis-ins-innerste/)
+* [Nein? Doch! Oh? Bei den digitalen Lehrbüchern kommt der versprochene Kostenrutsch nicht an und so wird, in Zeiten der Rezession, mehr gestohlen.](https://tarnkappe.info/artikel/e-books/rights-alliance-hohe-lehrbuchpreise-treiben-studenten-in-piraterie-275995.html)
+* [Verwaltungsdigitalisierung zeigt, wie Politik heute funktioniert. Abgeschottete Gremien mit überbezahlten Beratern und am Ende werden Dinge wie Lego zusammen gesteckt, nur dass sie nicht zusammenpassen](https://netzpolitik.org/2023/verwaltungsdigitalisierung-von-beratern-abgeschotteten-gremien-und-zusammengewuerfelten-baukaesten/)
 
