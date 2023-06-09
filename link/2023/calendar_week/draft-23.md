@@ -38,4 +38,12 @@
 * [>>Künstliche Intelligenz ist übermächtig und bedroht die ganze Menschheit, so die eindringliche Warnung vieler Tech-Unternehmen. Tatsächlich aber soll dieser Mythos die kommerzielle Überwachung vorantreiben, Regulierung unterbinden und die Ausbeutung von Arbeiter:innen verschleiern.<<](https://netzpolitik.org/2023/kuenstliche-intelligenz-vermessung-bis-ins-innerste/)
 * [Nein? Doch! Oh? Bei den digitalen Lehrbüchern kommt der versprochene Kostenrutsch nicht an und so wird, in Zeiten der Rezession, mehr gestohlen.](https://tarnkappe.info/artikel/e-books/rights-alliance-hohe-lehrbuchpreise-treiben-studenten-in-piraterie-275995.html)
 * [Verwaltungsdigitalisierung zeigt, wie Politik heute funktioniert. Abgeschottete Gremien mit überbezahlten Beratern und am Ende werden Dinge wie Lego zusammen gesteckt, nur dass sie nicht zusammenpassen](https://netzpolitik.org/2023/verwaltungsdigitalisierung-von-beratern-abgeschotteten-gremien-und-zusammengewuerfelten-baukaesten/)
+* [Wird es wie in den USA und Asien? Werden die Supermärkte bald auch der Ort sein wo man Bankgeschäfte tätigt?](http://blog.fefe.de/?ts=9a7cd7f1) - Und warum muss das eine gelernte Einzehandelskauffrau können (für ihren Einzelhandelskauffrau-Stundenlohn)?
+* [RatOS wurde in der Version 2.0.2 veröffentlicht.](https://github.com/Rat-OS/RatOS/releases/tag/v2.0.2)
+* [Pflegia ist kaputt.](https://www.borncity.com/blog/2023/06/09/datenleck-beim-pflege-job-suche-portal-pflegia/)
+* [Barracuda Email Security Gateway Appliance ist richtig kaputt](https://www.borncity.com/blog/2023/06/08/barracuda-email-security-gateway-appliance-esg-sofort-austauschen/)
+* [Hier werden die Frontend Entwicklerhandbücher für React, Angular und Vue verglichen](https://www.freecodecamp.org/news/front-end-javascript-development-react-angular-vue-compared/)
+* [Hier gibt es einen RUST-Kurs der den Anspruch hat "komplett" zu sein](https://www.freecodecamp.org/news/rust-programming-course-for-beginners/)
+* [Netzpolitik zeigt euch wie man einen Datenauskunft über die eigenen Daten erhält.](https://netzpolitik.org/2023/auskunftsanfragen-so-findest-du-heraus-was-datenhaendler-ueber-dich-gespeichert-haben/)
+* [Realitätsabgleich Werbetracking](https://netzpolitik.org/2023/adsquare_theadex_emetriq_werbetracking-wie-deutsche-firmen-am-geschaeft-mit-unseren-daten-verdienen/)
 
