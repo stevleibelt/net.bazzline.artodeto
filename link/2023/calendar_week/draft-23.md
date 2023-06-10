@@ -46,4 +46,7 @@
 * [Hier gibt es einen RUST-Kurs der den Anspruch hat "komplett" zu sein](https://www.freecodecamp.org/news/rust-programming-course-for-beginners/)
 * [Netzpolitik zeigt euch wie man einen Datenauskunft über die eigenen Daten erhält.](https://netzpolitik.org/2023/auskunftsanfragen-so-findest-du-heraus-was-datenhaendler-ueber-dich-gespeichert-haben/)
 * [Realitätsabgleich Werbetracking](https://netzpolitik.org/2023/adsquare_theadex_emetriq_werbetracking-wie-deutsche-firmen-am-geschaeft-mit-unseren-daten-verdienen/)
+* [fwupd wurde in der Version 1.8.16 veröffentlicht.](https://github.com/fwupd/fwupd/releases/tag/1.8.16)
+* [Debian wurde in der Version 12 veröffentlicht.](https://lwn.net/Articles/934361/)
+* [Wine wurde in der Version 8.10 veröffentlicht.](https://www.phoronix.com/news/Wine-8.10-Released)
 
