@@ -49,4 +49,6 @@
 * [fwupd wurde in der Version 1.8.16 veröffentlicht.](https://github.com/fwupd/fwupd/releases/tag/1.8.16)
 * [Debian wurde in der Version 12 veröffentlicht.](https://lwn.net/Articles/934361/)
 * [Wine wurde in der Version 8.10 veröffentlicht.](https://www.phoronix.com/news/Wine-8.10-Released)
+* [davx5-ose wurde in der VErsion 4.3.4 veröffentlicht.](https://github.com/bitfireAT/davx5-ose/releases/tag/v4.3.4-ose)
+* [fastapi wurde in der VErsion 0.96.1 veröffentlicht.](https://github.com/tiangolo/fastapi/releases/tag/0.96.1)
 
