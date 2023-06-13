@@ -2,4 +2,14 @@
 * [fastapi wurde in der Version 0.97.0 veröffentlicht.](https://github.com/tiangolo/fastapi/releases/tag/0.97.0)
 * [Nein? Doch! Oh? Der freie Markt versagt einmal wieder, die meisten Solarwechselrichter für Balkonkraftwerke sind gefährlich.](https://www.linux-magazin.de/news/bundesnetzagentur-mangelhafte-solarwechselrichtern-fuer-balkonkraftwerke/)
 * [Es gibt jetzt genetisch veränderte Bienen und damit dann auch nur noch genetisch veränderten Honig.](https://netzfrauen.org/2023/06/11/gmobees/)
+* [Regeln über Kekse und warum auch dies wieder ein Versagen des freien Marktes ist.](http://blog.fefe.de/?ts=9a794c63)
+* [changedetection.io wurde in der Version 0.42.3 veröffentlicht.](https://github.com/dgtlmoon/changedetection.io/releases/tag/0.42.3)
+* [Realitätsabgleich Microsoft Edge, am Ende ist das Ding halt nur Maleware.](https://www.borncity.com/blog/2023/06/13/zwischenruf-edge-die-malware-von-microsoft/)
+* [Fortinet ist kaputt.](https://www.borncity.com/blog/2023/06/12/fortinet-fixt-kritischen-rce-bug-in-fortigate-ssl-vpns-juni-2023/)
+* [Realitätsabgleich Paul-Ehrlich-Institut ... der Name ist leider nicht Programm.](https://impfentscheidung.online/ist-das-paul-ehrlich-institut-unehrlich/)
+* [Acht Millionen Daten sind Zacks Investment Resarch "verloren" gegangen.](https://www.bleepingcomputer.com/news/security/have-i-been-pwned-warns-of-new-zacks-data-breach-impacting-8-million/)
+* [Hier lernt ihr etwas über Harbor mit dem Ihr Docker und Kubernetes verwalten könnt.](https://4sysops.com/archives/harbor-a-trusted-cloud-native-registry-for-kubernetes-and-docker/)
+* [Die Lobby-U-Boote wollen Chatkontrolle und sogar die Juristen sind dagegen.](https://netzpolitik.org/2023/staendige-vertreter-eu-staaten-wollen-chatkontrolle-trotz-warnung-ihrer-juristen/) - Deutlischer kann man nicht zeigen, dass Politiker nur den Interessen der Wirtschaft nachgehen
+* [Und der Fall Julian Assange wird immer schlimmer ... freie Welt und so](https://netzpolitik.org/2023/julian-assange-britisches-gericht-ebnet-den-weg-zur-auslieferung/)
+* [Die EU Knickt auch beim Thema biometrische Massenüberwachung ein ... wem wundert es.](https://netzpolitik.org/2023/ki-verordnung-kompromiss-zu-biometrischer-massenueberwachung-gescheitert/)
 
