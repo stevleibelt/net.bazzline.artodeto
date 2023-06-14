@@ -12,4 +12,10 @@
 * [Die Lobby-U-Boote wollen Chatkontrolle und sogar die Juristen sind dagegen.](https://netzpolitik.org/2023/staendige-vertreter-eu-staaten-wollen-chatkontrolle-trotz-warnung-ihrer-juristen/) - Deutlischer kann man nicht zeigen, dass Politiker nur den Interessen der Wirtschaft nachgehen
 * [Und der Fall Julian Assange wird immer schlimmer ... freie Welt und so](https://netzpolitik.org/2023/julian-assange-britisches-gericht-ebnet-den-weg-zur-auslieferung/)
 * [Die EU Knickt auch beim Thema biometrische Massenüberwachung ein ... wem wundert es.](https://netzpolitik.org/2023/ki-verordnung-kompromiss-zu-biometrischer-massenueberwachung-gescheitert/)
+* [Rheinland-Pfalz kündigt eure Privatssphäre wegen einer Ordnungswidrigkeit ab.](https://netzpolitik.org/2023/innenministerkonferenz-polizei-setzt-ohne-rechtsgrundlage-handy-blitzer-ein-die-allen-ins-auto-filmen-und-das-auswerten/) - Ich bin überrascht, dass nicht Bayern oder Sachsen hier vorreiten sind. Oder machen die es einfach schon?
+* [GlückAufTV: 150 jahre Feuerwehr Frauenstein](https://www.youtube.com/watch?v=aG4GPDv6bfY) - Danke für euren Einsatz!
+* [Freie Presse? Nicht in Deutschland! Siehe die Gängelung bei Radio Dreyeckland](https://netzpolitik.org/2023/radio-dreyeckland-freiburger-journalist-soll-jetzt-doch-vor-gericht/)
+* [In Frankreich wird gerade versucht das Bild "Du nutzt Signal? Ganz klar, du bist Terrorist" durchzusetzen](https://netzpolitik.org/2023/umstrittene-terror-ermittlungen-der-messenger-signal-als-kult-der-geheimhaltung/) - Gut, Frankreich denkt man sich ... die saufen eh zu viel Lack, aber dennoch, allein die "Argumentationskette" ist irre
+* [Digitale Gewalt? Was ist das eigentlich? Das kann selbst das Justizministerium nicht sagen.](https://netzpolitik.org/2023/kritische-stellungnahmen-das-justizministerium-soll-digitale-gewalt-erstmal-definieren/) - Aber den Überwachungsstaat deswegen ausbauen, das können sie
+* [Hier wird euch das Konzept hinter Promises/Versprechen in JavaScript erklärt.](https://www.freecodecamp.org/news/guide-to-javascript-promises/)
 
