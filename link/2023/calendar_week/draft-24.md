@@ -18,4 +18,7 @@
 * [In Frankreich wird gerade versucht das Bild "Du nutzt Signal? Ganz klar, du bist Terrorist" durchzusetzen](https://netzpolitik.org/2023/umstrittene-terror-ermittlungen-der-messenger-signal-als-kult-der-geheimhaltung/) - Gut, Frankreich denkt man sich ... die saufen eh zu viel Lack, aber dennoch, allein die "Argumentationskette" ist irre
 * [Digitale Gewalt? Was ist das eigentlich? Das kann selbst das Justizministerium nicht sagen.](https://netzpolitik.org/2023/kritische-stellungnahmen-das-justizministerium-soll-digitale-gewalt-erstmal-definieren/) - Aber den Überwachungsstaat deswegen ausbauen, das können sie
 * [Hier wird euch das Konzept hinter Promises/Versprechen in JavaScript erklärt.](https://www.freecodecamp.org/news/guide-to-javascript-promises/)
+* [Berlin kriegt was es verdient :-D](https://blog.fefe.de/?ts=9a75ae66)
+* [Ab 2027 verbietet die EU fest verklebte Akkus.](https://blog.fefe.de/?ts=9a75c74a) - Mal schauen was sich der Markt dadurch für perverse Ideen ausdenkt
+* [Windows Hallo hat dann schon ein Remote Code Execution](https://blog.fefe.de/?ts=9a740d8f)
 
