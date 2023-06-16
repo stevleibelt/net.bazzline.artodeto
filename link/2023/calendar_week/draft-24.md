@@ -21,4 +21,12 @@
 * [Berlin kriegt was es verdient :-D](https://blog.fefe.de/?ts=9a75ae66)
 * [Ab 2027 verbietet die EU fest verklebte Akkus.](https://blog.fefe.de/?ts=9a75c74a) - Mal schauen was sich der Markt dadurch für perverse Ideen ausdenkt
 * [Windows Hallo hat dann schon ein Remote Code Execution](https://blog.fefe.de/?ts=9a740d8f)
+* [Barman wurde in der Version 3.6.0 veröffentlicht.](https://github.com/EnterpriseDB/barman/releases/tag/release/3.6.0)
+* [redis_exporter wurde in der Version 1.51.0 veröffentlicht.](https://github.com/oliver006/redis_exporter/releases/tag/v1.51.0)
+* [Firewalld wurde in der Version 1.3.3 veröffentlicht.](https://github.com/firewalld/firewalld/releases/tag/v1.3.3)
+* [Nextcloud server wurde in der Version 27.0.0 veröffentlicht.](https://github.com/nextcloud/server/releases/tag/v27.0.0)
+* [Konzerne werden subventioniert und dürfen die Welt dennoch täglich etwas mehr vernichten.](https://netzfrauen.org/2023/06/14/climate-22/)
+* [Der Freiberger Soldatenteich wird von Schlingpflanzen überfallen und wurde deswegen aktuell gesperrt.](https://www.mdr.de/nachrichten/sachsen/chemnitz/freiberg/waldbad-schlingpflanzen-baden-sommer-100.html)
+* [GlückAuf TV: Alpakas ziehen im Freiberger Tierpark ein](https://www.youtube.com/watch?v=aUJicy3gvwo)
+* [Firefox bringt ab Version 114 ein eingeschaltetes DoH mit sich und das macht Probleme.](https://www.borncity.com/blog/2023/06/15/firefox-update-114-aktiviert-doh-das-gibt-ggf-probleme/)
 
