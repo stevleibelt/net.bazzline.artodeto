@@ -29,4 +29,8 @@
 * [Der Freiberger Soldatenteich wird von Schlingpflanzen überfallen und wurde deswegen aktuell gesperrt.](https://www.mdr.de/nachrichten/sachsen/chemnitz/freiberg/waldbad-schlingpflanzen-baden-sommer-100.html)
 * [GlückAuf TV: Alpakas ziehen im Freiberger Tierpark ein](https://www.youtube.com/watch?v=aUJicy3gvwo)
 * [Firefox bringt ab Version 114 ein eingeschaltetes DoH mit sich und das macht Probleme.](https://www.borncity.com/blog/2023/06/15/firefox-update-114-aktiviert-doh-das-gibt-ggf-probleme/)
+* [Eine Firma die außer einer bunten Webseite und nichtssagenden Wörter behauptet also jetzt, die Renten sind sicher ... *ähhh*, die Wahlcomputer.](https://blog.fefe.de/?ts=9a72b69b)
+* [Reddits Geschäftsmodel besteht darin kostenlose Arbeiter zu haben.](https://blog.fefe.de/?ts=9a72b3fb)
+* [Wii U Time Sync wurde in der Version 1.0.0 veröffentlicht.](https://wiidatabase.de/wii-u-time-sync-v1-0-0/)
+* [Distrobox wurde in der Version 1.5 veröffentlicht.](https://www.phoronix.com/news/Distrobox-1.5-Released)
 
