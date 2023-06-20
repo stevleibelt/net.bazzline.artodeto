@@ -1,3 +1,7 @@
 * [Was Deutschland und die EU nicht kann, kann Russland. Russische Software für russische Leute.](http://blog.fefe.de/?ts=9a7189c3) - Open Money? Open Code! In Aktion
 * [Dragonfyldb wurde in der Version 1.4.0 veröffentlicht.](https://github.com/dragonflydb/dragonfly/releases/tag/v1.4.0)
+* [Die Springer Hetzpresse gibt offen zu, dass sie keine Peilung von nichts und schon gar nicht von Wissenschaft oder den Grundlagen der Physik hat.](http://blog.fefe.de/?ts=9a6e651f)
+* [Nein? Doch! Oh? Die digitale Brieftasche ist nur ein Gewinn für die Datenerhebungsplattformen?](https://netzpolitik.org/2023/eidas-reform-digitale-brieftasche-birgt-beispielloses-risiko-fuer-die-privatsphaere/)
+* [Hamburg schnüffelt jetzt auch allen Bürgern im öffentlichen Raum durch Kameras nach.](https://netzpolitik.org/2023/intelligente-videoueberwachung-polizei-hamburg-will-ab-juli-verhalten-automatisch-scannen/)
+* [Statt die Infrastruktur zu pflegen damit Züge wegen Weichenstörung oder langsamen Streckenabschnitten nicht zu spät kommen, bauen die lieber Kameras hin.](https://www.linux-magazin.de/news/ki-gegen-verspaetungen/) - Das ist wie mit den Kameras statt Ortspolizistendenken, ein Polizist vor Ort schafft durch seine Präsenz Ordnung, die Kamera schafft es nicht. Aber der Vorteil der Kamera ist, die kann man monatlich Mieten und kann sie so im Quartalsbericht anders darstellen ... das freut dann die Aktionäre
 
