@@ -9,4 +9,10 @@
 * [>>Ganz einfache These zum Nachdenken: in einem Land, in dem überwiegende Teile der Bevölkerung offen stolz darauf sind, kein Mathe zu können, braucht man sich über zur Schau gestelltes fehlendes technisches Verständnis nicht zu wundern und aufzuregen.<<](http://blog.fefe.de/?ts=9a6fbf53)
 * [Push first! In Großbritanien wird erst abgeschoben und dann der Asylantrag geprüft.](http://blog.fefe.de/?ts=9a6fa2d4) - Wie viele Briefe da wohl wieder zurück kommen, weil die Post im Bombenkrater den Briefkasten nicht findet?
 * [Konzerne und ihre Sicht der Probleme, wie kann es nur sein, dass andere noch unser Logo benutzen dürfen? Ein Apfel ist doch, und das weiß jedes Kind, ein Computer und nicht etwas zu essen!](https://www.borncity.com/blog/2023/06/20/apple-versucht-apfel-logo-von-111-jahre-altem-schweizer-obstverband-zu-kapern/) - Da hilft nur verklagen und GMO bis der Apfel endlich anders ausschaut!
+* [ToolJet wurde in der Version 2.7.0 veröffentlicht.](https://github.com/ToolJet/ToolJet/releases/tag/v2.7.0)
+* [Changedetection.io wurde in der Version 0.43 veröffentlicht.](https://github.com/dgtlmoon/changedetection.io/releases/tag/0.43)
+* [Nein? Doch! Oh? Nachdem alle Lemminge in die Microsoft-Cloud gegangen sind, werden die Preise erhöht und einzelne Dienstleistungen separat bepreist.](https://www.borncity.com/blog/2023/06/22/microsoft-verlangt-zustzliche-lizenzen-fr-planner-und-to-do-beim-auditing/)
+* [Nein? Doch! Oh? Nun wird die Steuer-ID doch als Personenkennziffer genutzt.](https://netzpolitik.org/2023/registermodernisierung-ampel-wird-steuer-id-als-personenkennziffer-nutzen/) - Dabei hatten uns doch ALLE Politiker der Blockpartei vor Jahren versprochen, dass dies niemals nicht passieren wird
+* [2023, das Jahr in dem Schmierphones als Botnetze genutzt werden.](https://tarnkappe.info/artikel/cyberangriff/swingvpn-macht-android-handys-zum-teil-eines-botnets-276405.html)
+* [Mit Zabbix Events könnt ihr jetzt Ansible Event-Driven deployen](https://blog.zabbix.com/forward-zabbix-events-to-event-driven-ansible-and-automate-your-workflows/25893/)
 
