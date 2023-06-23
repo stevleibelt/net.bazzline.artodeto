@@ -15,4 +15,12 @@
 * [Nein? Doch! Oh? Nun wird die Steuer-ID doch als Personenkennziffer genutzt.](https://netzpolitik.org/2023/registermodernisierung-ampel-wird-steuer-id-als-personenkennziffer-nutzen/) - Dabei hatten uns doch ALLE Politiker der Blockpartei vor Jahren versprochen, dass dies niemals nicht passieren wird
 * [2023, das Jahr in dem Schmierphones als Botnetze genutzt werden.](https://tarnkappe.info/artikel/cyberangriff/swingvpn-macht-android-handys-zum-teil-eines-botnets-276405.html)
 * [Mit Zabbix Events könnt ihr jetzt Ansible Event-Driven deployen](https://blog.zabbix.com/forward-zabbix-events-to-event-driven-ansible-and-automate-your-workflows/25893/)
+* [Wenn ein Kundenprozess schon einen beschissenen Namen hat, weißt du, dass du als Kunde nicht König bist - so natürlich auch bei amzn.](http://blog.fefe.de/?ts=9a6aeecb)
+* [Das CIA hat ermittelt, das Deutschlandticket wird genutzt, weil es für GANZ DEUTSCHLAND genutzt werden kann!](http://blog.fefe.de/?ts=9a6aec42) - Ganz Deutschland? Nun, Malle, Elsass, Schlesien und Ost-Preußen fehlen natürlich wieder
+* [Ihr wollt etwas, aber da stehen technische Probleme im Weg? Macht es wie Politiker und verbietet den Einsatz der Naturgesetze einfach!](http://blog.fefe.de/?ts=9a6aeccb)
+* [Wenn ich so etwas wie Asyl-Blockchain lesen, kommt mir folgender Gedanke in den Sinn.](https://netzpolitik.org/2023/bamf-die-asyl-blockchain-wird-immer-laenger/) - Am Ende ist das eine verrückte "Kundenbindung", wenn alle Staaten zeigen, dass "neue Kunden" es einfach noch schlechter haben, bleiben die alten in ihrem Staatsvertrag
+* [Die ena-Dyne GmbH aus Freiberg wurde Gesamtsieger beim IQ-Innovationspreis.](https://www.mdr.de/video/mdr-videos/a/video-732604.html)
+* [Xonotic wurde in der Version 0.8.6 veröffentlicht.](https://www.phoronix.com/news/Xonotic-0.8.6-Released)
+* [Realitätsabgleich moderen Autos und deren wahres Ziel als Datenabsauger zu fungieren.](https://netzpolitik.org/2023/crowd-recherche-wir-wollen-wissen-was-autohersteller-ueber-moderne-autos-speichern/) - Damit zeigt sich am Ende auch nur, dass man mehrere zehntausend Euro bezahlt um Gast zu sein, der nichts machen kann/darf
+* [Was tun bei Kreditkartenbetrug? Hier wird euch geholfen.](https://tarnkappe.info/artikel/it-sicherheit/online-betrug/du-bist-opfer-von-kreditkartenbetrug-was-tun-wir-helfen-dir-276424.html) - Das Wichtigste, geratet nicht in Panik und lasst euch von den Kreditkartenfirmen nicht einschüchtern
 
