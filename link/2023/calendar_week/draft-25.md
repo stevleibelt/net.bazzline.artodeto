@@ -23,4 +23,18 @@
 * [Xonotic wurde in der Version 0.8.6 veröffentlicht.](https://www.phoronix.com/news/Xonotic-0.8.6-Released)
 * [Realitätsabgleich moderen Autos und deren wahres Ziel als Datenabsauger zu fungieren.](https://netzpolitik.org/2023/crowd-recherche-wir-wollen-wissen-was-autohersteller-ueber-moderne-autos-speichern/) - Damit zeigt sich am Ende auch nur, dass man mehrere zehntausend Euro bezahlt um Gast zu sein, der nichts machen kann/darf
 * [Was tun bei Kreditkartenbetrug? Hier wird euch geholfen.](https://tarnkappe.info/artikel/it-sicherheit/online-betrug/du-bist-opfer-von-kreditkartenbetrug-was-tun-wir-helfen-dir-276424.html) - Das Wichtigste, geratet nicht in Panik und lasst euch von den Kreditkartenfirmen nicht einschüchtern
+* [Konzerne haben kein Herz und wenn du ein Betriebsrat angehörst, darfst du nicht mehr bei Hackfressenbuch ins Büro.](https://netzpolitik.org/2023/betriebsrat-fuer-content-moderation-arbeitgeber-will-wahlvorstand-nicht-ins-buero-lassen/)
+* [Karl "Ich schick eine Depressionswelle über das Volk und erschaffe Impfschäden"-Lauterbach macht weiter und ruft Projekt Nero für die Gesundheitsdaten aus.](https://netzpolitik.org/2023/gesundheitsdaten-opt-out-digitalisierung-ohne-ruecksicht-auf-versicherte/)
+* [Was hat das BKA im Familienausschuss zu suchen und warum "denken" die Politiker alle, dass anstandslose Massenüberwachung eine gute Idee ist?](https://netzpolitik.org/2023/fachgespraech-im-familienausschuss-immer-wieder-vorratsdatenspeicherung/)
+* [GlückAufTV:  25. Oldtimertreffen Brand-Erbisdorf mit Engel in Zivil](https://www.youtube.com/watch?v=XTBxqD-Q4gk)
+* [FLAC wurde in der Version 1.4.3 veröffentlicht.](https://www.phoronix.com/news/FLAC-1.4.3)
+* [GlückAufTV: Trabi-Treffen beim Hospiz Oederan](https://www.youtube.com/watch?v=s_MNFyv0BDQ)
+* [Netzpolitik.org klärt die wichtigsten Fragen zum Thema digitaler Euro.](https://netzpolitik.org/2023/geleakter-entwurf-so-anonym-wird-der-digitale-euro/)
+* [Nein? Doch! Oh? TeleSign erzeugt Profile für die hälfte aller Mobilfunknutzer.](https://noyb.eu/en/telesign-profiles-half-worlds-phone-users)
+* [BigBlueButton wurde in der Version 2.6.10 veröffentlicht.](https://github.com/bigbluebutton/bigbluebutton/releases/tag/v2.6.10)
+* [Neo-Backup wurde in der Version 8.3.2 veröffentlicht.](https://github.com/NeoApplications/Neo-Backup/releases/tag/8.3.2)
+* [ruff wurde in der Version 0.0.275 veröffentlicht.](https://github.com/astral-sh/ruff/releases/tag/v0.0.275)
+* [autorandr wurde in der Version 1.14 veröffentlicht.](https://github.com/phillipberndt/autorandr/releases/tag/1.14)
+* [Nextcloud Server wurde in der Version 26.0.3 veröffentlicht.](https://github.com/nextcloud/server/releases/tag/v26.0.3)
+* [Nextcloud Server wurde in der Version 25.0.8 veröffentlicht.](https://github.com/nextcloud/server/releases/tag/v25.0.8)
 
