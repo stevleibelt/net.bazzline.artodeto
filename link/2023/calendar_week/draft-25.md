@@ -37,4 +37,10 @@
 * [autorandr wurde in der Version 1.14 veröffentlicht.](https://github.com/phillipberndt/autorandr/releases/tag/1.14)
 * [Nextcloud Server wurde in der Version 26.0.3 veröffentlicht.](https://github.com/nextcloud/server/releases/tag/v26.0.3)
 * [Nextcloud Server wurde in der Version 25.0.8 veröffentlicht.](https://github.com/nextcloud/server/releases/tag/v25.0.8)
+* [Tor wurde in der Version 12.5 veröffentlicht.](https://www.borncity.com/blog/2023/06/24/tor-12-5-freigegeben/)
+* [Warum muss der `Ablehnen`-Schalter bei Opt-In-Kram nicht eigentlich immer an erster Stelle und gleich wertig wie der `Zustimmen`-Schalter stehen?](https://www.kuketz-blog.de/bvg-app-einwilligungs-banner-mit-verbesserungsbedarf/) - Ich frag für einen Freund
+* [Firewalld wurde in der Version 2.0 veröffentlicht.](https://www.phoronix.com/news/Firewalld-2.0)
+* [Klimaaktivisten? Ihr wisst schon, dieses lästige Pack was einem die Freude nimmt mit seinem SUV-Porsche gemütliche 140 in der Ortschaft zu fahren ... nun, die kriegen die natürlich die ganze Härte des Überwachungsstaats der Blockpartei ab.](https://netzpolitik.org/2023/telekommunikationsueberwachung-polizei-soll-monatelang-die-letzte-generation-abgehoert-haben/) - Denn wer, wie die CDU, rechts ist, muss auch rechts bleiben ... so ging doch das Sprichwort, oder?
+* [Das 36. Bergstadtfest in Freiberg wurde am 22.06.2023 eröffnet.](https://www.youtube.com/watch?v=gtr1SlkT9ZQ) - Glück Auf!
+* [yay wurde in der Version 12.1.0 veröffentlicht.](https://github.com/Jguer/yay/releases/tag/v12.1.0)
 
