@@ -15,4 +15,10 @@
 * [Proxmox VE wurde in der Version 8.0 veröffentlicht.](https://www.linux-magazin.de/news/proxmox-ve-8-0-mit-aktuellen-paketen/)
 * [Wie schlimm ist TikTok in Sachen Datenstaubsauger? Kuketz hat es sich angeschaut.](https://www.kuketz-blog.de/tiktok-app-verstoesst-gegen-das-ttdsg/)
 * [cachyos wurde in der Version 6.3.9 veröffentlicht.](https://github.com/CachyOS/linux-cachyos/releases/tag/6.3.9)
+* [Wenn Compiler optimieren, optimieren sie auch gern die Sicherheit weg.](http://blog.fefe.de/?ts=9a65c751)
+* [NUSpli wurde in der Version 1.137 veröffentlicht.](https://github.com/V10lator/NUSspli/releases/tag/v1.137)
+* [Outlook Web ist mal wieder Offline.](https://www.borncity.com/blog/2023/06/27/outlook-web-ausfall-in-den-usa/)
+* [Datenschutzbeauftragten? Nur was die Blockpartei erlaubt!](https://netzpolitik.org/2023/datenschutzbeauftragter-von-sachsen-anhalt-das-unwuerdige-schauspiel-muss-gestoppt-werden/) - Nicht auszudenken, wenn da einer auf dem Posten kommt, der schwerer zu schmieren ist
+* [GlückAufTV: 36. Bergstadtfest in Freiberg.](https://www.youtube.com/watch?v=o26ybBIdh7Y)
+* [GlückAufTV: 36. Bergstadtfest-Bergparade komplett.](https://www.youtube.com/watch?v=6hKn3gtipFU)
 
