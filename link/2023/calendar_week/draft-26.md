@@ -21,4 +21,10 @@
 * [Datenschutzbeauftragten? Nur was die Blockpartei erlaubt!](https://netzpolitik.org/2023/datenschutzbeauftragter-von-sachsen-anhalt-das-unwuerdige-schauspiel-muss-gestoppt-werden/) - Nicht auszudenken, wenn da einer auf dem Posten kommt, der schwerer zu schmieren ist
 * [GlückAufTV: 36. Bergstadtfest in Freiberg.](https://www.youtube.com/watch?v=o26ybBIdh7Y)
 * [GlückAufTV: 36. Bergstadtfest-Bergparade komplett.](https://www.youtube.com/watch?v=6hKn3gtipFU)
+* [keycloak wurde in der Version 21.1.2 veröffentlicht.](https://github.com/keycloak/keycloak/releases/tag/21.1.2)
+* [Was macht Frau Giffeys für ihren Stadtteil? Streichen ... alle Gelder streichen.](http://blog.fefe.de/?ts=9a6294d3) - Man kann eben nicht Sozial und Staat in einen Satz packen, wenn man zur Blockpartei gehört
+* [Unterstütze ich voll, schmeißt den `User-Agent` Header aus euren E-Mails raus.](https://utcc.utoronto.ca/~cks/space/blog/spam/RemoveUserAgentHeader) - Eine gut gedachte Sache wurde von den Werbetreibenden vergewaltigt
+* [Danke netzpolitik.org! Anhand der Chatkontrolle wird euch erklärt, wie die Gesetzgebung in der EU so funktioniert.](https://netzpolitik.org/2023/chatkontrolle-eu-gesetzgebung-einfach-erklaert/)
+* [>>[...] Bargeld ist finanzielle Freiheit ohne Rechtfertigungsdruck. Welche Medikamente oder welches Sexspielzeug ich einkaufe, geht niemanden etwas an. Seit Tausenden von Jahren haben Gesellschaften auf der ganzen Welt mit Bargeld, das die Privatsphäre schützt, gelebt. Die EU-Kommission will uns diese finanzielle Freiheit bei Online-Zahlungen vorenthalten. [...] <<](https://www.patrick-breyer.de/der-digitale-euro-verdient-seinen-namen-nicht/)
+* [GlückAufTV: Neue Postfiliale in der Gerberpassage](https://www.youtube.com/watch?v=S8bEDZEFzTg)
 
