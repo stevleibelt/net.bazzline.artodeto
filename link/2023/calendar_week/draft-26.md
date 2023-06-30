@@ -27,4 +27,9 @@
 * [Danke netzpolitik.org! Anhand der Chatkontrolle wird euch erklärt, wie die Gesetzgebung in der EU so funktioniert.](https://netzpolitik.org/2023/chatkontrolle-eu-gesetzgebung-einfach-erklaert/)
 * [>>[...] Bargeld ist finanzielle Freiheit ohne Rechtfertigungsdruck. Welche Medikamente oder welches Sexspielzeug ich einkaufe, geht niemanden etwas an. Seit Tausenden von Jahren haben Gesellschaften auf der ganzen Welt mit Bargeld, das die Privatsphäre schützt, gelebt. Die EU-Kommission will uns diese finanzielle Freiheit bei Online-Zahlungen vorenthalten. [...] <<](https://www.patrick-breyer.de/der-digitale-euro-verdient-seinen-namen-nicht/)
 * [GlückAufTV: Neue Postfiliale in der Gerberpassage](https://www.youtube.com/watch?v=S8bEDZEFzTg)
+* [js-lingui wurde in der Version 4.3.0 veröffentlicht.](https://github.com/lingui/js-lingui/releases/tag/v4.3.0)
+* [>>Es ist problemlos möglich, sowohl unter Android als auch unter iOS auf Antiviren-Apps zu verzichten. Diese Apps vermitteln lediglich eine trügerische Sicherheit und übermitteln oft unnötig viele Daten an den Hersteller und/oder Drittanbieter<<](https://www.kuketz-blog.de/stiftung-warentest-07-2023-test-von-antiviren-apps-mit-fragwuerdigen-ergebnissen/)
+* [Das MITRE hat die 25 gefährlichsten Software-Fehler veröffentlicht.](https://www.bleepingcomputer.com/news/security/mitre-releases-new-list-of-top-25-most-dangerous-software-bugs/)
+* [WiiConnect24 schreibt man jetzt WiiLink und ist natürlich eine eigene Software.](https://wiidatabase.de/wiiconnect24-ersatz-wiilink-in-dolphin-verfuegbar/)
+* [>>Vor dem Europäischen Gerichtshof müssen Überwachungsgegner womöglich bald eine Schlappe hinnehmen. Die Generalanwältin hat den Zwang zum Fingerabdruck bei Personalausweisen für zulässig erklärt.<<](https://netzpolitik.org/2023/europaeischer-gerichtshof-schlechte-karten-fuer-gegner-des-fingerabdrucks-im-perso/) - Danke, lieber digitalcourage für die Klage, danke für Nichts EUGH
 
