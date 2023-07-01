@@ -32,4 +32,13 @@
 * [Das MITRE hat die 25 gefährlichsten Software-Fehler veröffentlicht.](https://www.bleepingcomputer.com/news/security/mitre-releases-new-list-of-top-25-most-dangerous-software-bugs/)
 * [WiiConnect24 schreibt man jetzt WiiLink und ist natürlich eine eigene Software.](https://wiidatabase.de/wiiconnect24-ersatz-wiilink-in-dolphin-verfuegbar/)
 * [>>Vor dem Europäischen Gerichtshof müssen Überwachungsgegner womöglich bald eine Schlappe hinnehmen. Die Generalanwältin hat den Zwang zum Fingerabdruck bei Personalausweisen für zulässig erklärt.<<](https://netzpolitik.org/2023/europaeischer-gerichtshof-schlechte-karten-fuer-gegner-des-fingerabdrucks-im-perso/) - Danke, lieber digitalcourage für die Klage, danke für Nichts EUGH
+* [Lasst einen Hype unter euch durch fahren wie eine Welle unter dem Boot. Was danach bleibt, könnte eventuell interessant sein.](https://www.bitecode.dev/p/hype-cycles)
+* [Dezentrale Netzwerke? Die Marktmacht der Konzerne darf nie unterschätzt werden, die können alles kaputt machen.](https://ploum.net/2023-06-23-how-to-kill-decentralised-networks.html)
+* [Die TU Bergakademie Freiberg sucht studentische Hilfskräfte für den Web-Relaunch.](https://blogs.hrz.tu-freiberg.de/urz/studentische-hilfskraefte-fuer-den-web-relaunch-gesucht/)
+* [>>Die Beziehung zwischen Meta und mir ist ein Ausbeutungsverhältnis. Es gibt keine Augenhöhe, sondern ein unüberwindbares Machtgefälle. Der Konzern höhlt meine Privatsphäre aus, um meine Aufmerksamkeit auszubeuten.<<](https://netzpolitik.org/2023/meta-legt-ki-systeme-offen-ich-fuehle-mich-begafft/)
+* [Das BSI muss jetzt noch mehr gegenüber der Blockpartei ducken.](https://netzpolitik.org/2023/bundesamt-fuer-sicherheit-in-der-informationstechnik-abhaengig-von-politischen-gnaden/) - Verkauft wird genau die gegenteilige Behauptung
+* [Hier seht ihr wie ihr "deutschlandweite Befragungen" schätzen dürft. 1002 Leute wurde befragt und geben dadurch angeblich eine Meinung für ganz Deutschland ab.](https://www.linux-magazin.de/news/eidas-2-0-deutsche-sind-fuer-digitale-ausweise/)
+* [Statt Rückgewinnung der Grünfläche werden dort, auf Lasten der Gesellschaft, meist Solarparks gebaut.](https://sachsen.nabu.de/news/2023/33567.html) - Das ist leider nicht traurig genug, denn die Solarparks erwirtschaften private Rendite
+* [FastAPI wurde in der Version 0.99 veröffentlicht.](https://github.com/tiangolo/fastapi/releases/tag/0.99.0)
+* [Mermaid wurde in der Version 10.2.4 veröffentlicht.](https://github.com/mermaid-js/mermaid/releases/tag/v10.2.4)
 
