@@ -39,6 +39,7 @@
 * [Das BSI muss jetzt noch mehr gegenüber der Blockpartei ducken.](https://netzpolitik.org/2023/bundesamt-fuer-sicherheit-in-der-informationstechnik-abhaengig-von-politischen-gnaden/) - Verkauft wird genau die gegenteilige Behauptung
 * [Hier seht ihr wie ihr "deutschlandweite Befragungen" schätzen dürft. 1002 Leute wurde befragt und geben dadurch angeblich eine Meinung für ganz Deutschland ab.](https://www.linux-magazin.de/news/eidas-2-0-deutsche-sind-fuer-digitale-ausweise/)
 * [Statt Rückgewinnung der Grünfläche werden dort, auf Lasten der Gesellschaft, meist Solarparks gebaut.](https://sachsen.nabu.de/news/2023/33567.html) - Das ist leider nicht traurig genug, denn die Solarparks erwirtschaften private Rendite
-* [FastAPI wurde in der Version 0.99 veröffentlicht.](https://github.com/tiangolo/fastapi/releases/tag/0.99.0)
+* [FastAPI wurde in der Version 0.99.1 veröffentlicht.](https://github.com/tiangolo/fastapi/releases/tag/0.99.1)
 * [Mermaid wurde in der Version 10.2.4 veröffentlicht.](https://github.com/mermaid-js/mermaid/releases/tag/v10.2.4)
+* [Macht euch auf noch mehr Überwachung durch die Contentmafia gefasst. Statt, wie es für die freie Marktwirtschaft, typischerweise ist durch Leistung mit seinem Produkt zu überzeugen, verklagen sie lieber alles und jeden.](https://tarnkappe.info/artikel/studie/daenische-handelskammer-43-teilen-ihre-streaming-accounts-276612.html) - Ich hoffe, dass auch Streaminganbieter bald wieder "Wenn sie das illegal anschauen, fallen Ihnen die Hoden ab"-Trailer **vor** jeder Serie zeigen müssen
 
