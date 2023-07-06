@@ -8,4 +8,5 @@
 * [DragonflyDB wurde in der VErsion 1.5.0 veröffentlicht.](https://github.com/dragonflydb/dragonfly/releases/tag/v1.5.0)
 * [Realitätsabgleich deutsches Bildungssystem](https://blog.fefe.de/?ts=9a5d2695)
 * [>>"KI" wird darauf trainiert, dass die Antworten plausibel wirken.<<](https://blog.fefe.de/?ts=9a5de349)
+* [flet wurde in der VErsion 0.8.0 veröffentlicht.](https://github.com/flet-dev/flet/releases/tag/v0.8.0)
 
