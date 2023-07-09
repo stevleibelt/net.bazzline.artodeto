@@ -34,4 +34,8 @@
 * [Nein? Doch! Oh? Die deutsche Telekom sendet ungefragt eure Daten zu Hackfressenbuch und weiteren.](https://www.kuketz-blog.de/meinmagenta-deutsche-telekom-uebermittelt-ohne-einwilligung-personenbeziehbare-daten-an-facebook-und-co/)
 * [FastAPI wurde in der Version 0.100.0 veröffentlicht.](https://github.com/tiangolo/fastapi/releases/tag/0.100.0)
 * [Schon einmal htmx probiert?](https://htmx.org/)
+* [ansible-aur wurde in der VErsion 0.11.1 veröffentlicht.](https://github.com/kewlfft/ansible-aur/releases/tag/v0.11.1)
+* [harfbuzz wurde in der Version 8.0.0 veröffentlicht.](https://github.com/harfbuzz/harfbuzz/releases/tag/8.0.0)
+* [mucommander wurde in der Version 1.3.0 veröffentlicht.](https://github.com/mucommander/mucommander/releases/tag/1.3.0-1)
+* [naps2 wurde in der Version 7.0b9 veröffentlicht.](https://github.com/cyanfish/naps2/releases/tag/v7.0b9)
 
