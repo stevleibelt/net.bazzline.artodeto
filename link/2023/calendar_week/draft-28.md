@@ -9,4 +9,8 @@
 * [>>Fast alle Parlamentsfraktionen in Bund und Land stellen Fotos ihrer Abgeordneten bereit, aber kaum eine unter Freier Lizenz.<<](https://netzpolitik.org/2023/wikipedia-es-braucht-mehr-frei-lizenzierte-fotos-aus-den-parlamenten/) - Fragt man sich wieder warum so etwas gefragt werden muss?
 * [fwupd wurde in der Version 1.9.3 veröffentlicht.](https://github.com/fwupd/fwupd/releases/tag/1.9.3)
 * [Black wurde in der Version 23.7.0 veröffentlicht.](https://github.com/psf/black/releases/tag/23.7.0)
+* [ruff wurde in der Version 0.0.278 veröffentlicht.](https://github.com/astral-sh/ruff/releases/tag/v0.0.278)
+* [Joomla! wurde in der Version 4.3.3 veröffentlicht.](https://github.com/joomla/joomla-cms/releases/tag/4.3.3)
+* [Joomla! wurde in der Version 3.10.12 veröffentlicht.](https://github.com/joomla/joomla-cms/releases/tag/3.10.12)
+* [keycloak wurde in der Version 22.0.0 veröffentlicht.](https://github.com/keycloak/keycloak/releases/tag/22.0.0)
 
