@@ -13,4 +13,12 @@
 * [Joomla! wurde in der Version 4.3.3 veröffentlicht.](https://github.com/joomla/joomla-cms/releases/tag/4.3.3)
 * [Joomla! wurde in der Version 3.10.12 veröffentlicht.](https://github.com/joomla/joomla-cms/releases/tag/3.10.12)
 * [keycloak wurde in der Version 22.0.0 veröffentlicht.](https://github.com/keycloak/keycloak/releases/tag/22.0.0)
+* [Falls ihr mal eure eigenen Bierdeckel braucht, es gibt die bierdeckelfabrik.de](https://bierdeckelfabrik.de/)
+* [Microsoft kann auch Software-Zertifizierung nicht.](https://blog.fefe.de/?ts=9a51cd75) - Und dem Verein soll man glauben, wenn sagen [dass das mit der KI schon was wird](https://blog.fefe.de/?ts=9a4efe44). Ihr wisst schon Microsoft, die ihre Ethik-Abteilung aus der KI Entwicklung geschmissen haben. KI, das hindert nur daran den US-Amerikanischen Traum zur einzigen Führungsmacht zu machen!
+* [Nein? Doch! Oh? Das ganze Nummernschildtracking inklusive API wird tatsächlich ausgenutzt?](https://netzpolitik.org/2023/drastischer-anstieg-automatisierter-abfragen-im-sis-ii-zunahme-geht-vermutlich-auf-abfrage-von-nummernschildern-zurueck/) - Also damit konnte ja wohl niemand rechnen!
+* ["Ich hab recht"-Google hat newpipe aus ihrer Suche entfernt.](https://newpipe.net/blog/pinned/announcement/newpipe-net-dmca-google-search/) - Nicht weil NewPipe eine Konkurenz für YouTube ist ... um gottes willen, die Schlippsträger des CIA-Außenposten haben sich da etwas mehr einfallen lassen
+* [Die STIKO wird noch pharmafreundlicher.](https://impfentscheidung.online/stiko-verlaengerung-und-neuausrichtung/)
+* [Hier gibt es ein Buch über die Astro-UI](https://www.freecodecamp.org/news/how-to-use-the-astro-ui-framework/)
+* [Und hier wird euch gezeigt, wie ihr Docker Images automatisch mit GitHub Actions erzeugt](https://www.freecodecamp.org/news/automating-docker-image-builds-and-publishing-with-pack-cli/)
+* [Rust wurde in der Version 1.71.0 veröffentlicht.](https://blog.rust-lang.org/2023/07/13/Rust-1.71.0.html)
 
