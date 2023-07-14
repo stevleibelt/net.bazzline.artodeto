@@ -21,4 +21,10 @@
 * [Hier gibt es ein Buch über die Astro-UI](https://www.freecodecamp.org/news/how-to-use-the-astro-ui-framework/)
 * [Und hier wird euch gezeigt, wie ihr Docker Images automatisch mit GitHub Actions erzeugt](https://www.freecodecamp.org/news/automating-docker-image-builds-and-publishing-with-pack-cli/)
 * [Rust wurde in der Version 1.71.0 veröffentlicht.](https://blog.rust-lang.org/2023/07/13/Rust-1.71.0.html)
+* [Schön, auch die FTC fragt OpenAI aus.](https://blog.fefe.de/?ts=9a4ea4d9)
+* [In Städten brechen die Büromieten weg doch aus dem Leerstand werden, wie vorher schon, keine bezahlbaren Wohnungen gemacht.](https://blog.fefe.de/?ts=9a4fded4) - Warum eigentlich nicht?
+* [Danke Max Schramm, die Drückerkolonnen Cookiebanner sind Illegal.](https://blog.fefe.de/?ts=9a4fddbc)
+* [libsignal wurde in der Version 0.28.1 veröffentlicht.](https://github.com/signalapp/libsignal/releases/tag/v0.28.1)
+* [Fluentd wurde in der Version 1.16.2 veröffentlicht.](https://github.com/fluent/fluentd/releases/tag/v1.16.2)
+* [php rector wurde in der Version 0.17.6 veröffentlicht.](https://github.com/rectorphp/rector/releases/tag/0.17.6)
 
