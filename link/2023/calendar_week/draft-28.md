@@ -27,4 +27,5 @@
 * [libsignal wurde in der Version 0.28.1 veröffentlicht.](https://github.com/signalapp/libsignal/releases/tag/v0.28.1)
 * [Fluentd wurde in der Version 1.16.2 veröffentlicht.](https://github.com/fluent/fluentd/releases/tag/v1.16.2)
 * [php rector wurde in der Version 0.17.6 veröffentlicht.](https://github.com/rectorphp/rector/releases/tag/0.17.6)
+* [China will auf der Erde noch "etwas" leben, nicht wie die Amerikanskis, und senkt deswegen seine Emissionen wie verrückt.](https://blog.fefe.de/?ts=9a4d0945)
 
