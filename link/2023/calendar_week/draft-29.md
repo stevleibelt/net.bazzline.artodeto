@@ -9,3 +9,8 @@
 * [Hier wird euch gezeigt, wie ihr vscodium für python fit macht.](https://www.freecodecamp.org/news/how-to-configure-visual-studio-code-for-python-development/)
 * [Arch Linux Installer wurde in der Version 2.6 veröffentlicht.](https://www.phoronix.com/news/Archinstall-2.6)
 * [librenms wurde in der Version 23.7.0 veröffentlicht.](https://github.com/librenms/librenms/releases/tag/23.7.0)
+* [phpstan wurde in der Version 1.10.26 veröffentlicht.](https://github.com/phpstan/phpstan/releases/tag/1.10.26)
+* [smarty wurde in der Version 4.3.2 veröffentlicht.](https://github.com/smarty-php/smarty/releases/tag/v4.3.2)
+* [mockery wurde in der Version 1.6.4 veröffentlicht.](https://github.com/mockery/mockery/releases/tag/1.6.4)
+* [Nutzt Bonify nicht.](https://www.kuketz-blog.de/schufa-bonify-uebermittelt-ohne-einwilligung-personenbeziehbare-daten-an-facebook-und-co/)
+* [Cython wurde in der Version 3.0 veröffentlicht.](https://lwn.net/Articles/938536/)
