@@ -14,3 +14,10 @@
 * [mockery wurde in der Version 1.6.4 veröffentlicht.](https://github.com/mockery/mockery/releases/tag/1.6.4)
 * [Nutzt Bonify nicht.](https://www.kuketz-blog.de/schufa-bonify-uebermittelt-ohne-einwilligung-personenbeziehbare-daten-an-facebook-und-co/)
 * [Cython wurde in der Version 3.0 veröffentlicht.](https://lwn.net/Articles/938536/)
+* [Dave the diver - how to beat the Mantis Shrimp](https://www.youtube.com/watch?v=ZUafpxJHhaQ) - Hier wird euch gezeigt, wie ihr in Dave the diver den Mantis Shrimp besiegt
+* [ssh-agent ist kaputt](https://blog.fefe.de/?ts=9a46efb7)
+* [VirtualBox wurde in den Versionen 7.0.10 und 6.1.46 veröffentlicht.](https://www.borncity.com/blog/2023/07/19/virtualbox-7-0-10-und-6-1-46-freigegeben/)
+* [WhatsApp ist kaputt](https://www.bleepingcomputer.com/news/technology/meta-confirms-whatsapp-is-down-worldwide/)
+* [libsignal wurde in der Version 0.29.0 veröffentlicht.](https://github.com/signalapp/libsignal/releases/tag/v0.29.0)
+* [helm-collabora-online wurde in der Version 1.1.0 veröffentlicht.](https://github.com/CollaboraOnline/online/releases/tag/helm-collabora-online-1.1.0)
+* [>>Ein Missbrauchsbetroffener aus Bayern hat heute mit Unterstützung der Gesellschaft für Freiheitsrechte Klage gegen die freiwillige Chatkontrolle durch den US-Konzern Meta eingereicht.<<](https://www.patrick-breyer.de/missbrauchsbetroffener-klagt-gegen-die-chatkontrolle/)
