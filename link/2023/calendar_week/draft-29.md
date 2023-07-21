@@ -18,6 +18,11 @@
 * [ssh-agent ist kaputt](https://blog.fefe.de/?ts=9a46efb7)
 * [VirtualBox wurde in den Versionen 7.0.10 und 6.1.46 veröffentlicht.](https://www.borncity.com/blog/2023/07/19/virtualbox-7-0-10-und-6-1-46-freigegeben/)
 * [WhatsApp ist kaputt](https://www.bleepingcomputer.com/news/technology/meta-confirms-whatsapp-is-down-worldwide/)
-* [libsignal wurde in der Version 0.29.0 veröffentlicht.](https://github.com/signalapp/libsignal/releases/tag/v0.29.0)
+* [libsignal wurde in der Version 0.30.0 veröffentlicht.](https://github.com/signalapp/libsignal/releases/tag/v0.30.0)
 * [helm-collabora-online wurde in der Version 1.1.0 veröffentlicht.](https://github.com/CollaboraOnline/online/releases/tag/helm-collabora-online-1.1.0)
 * [>>Ein Missbrauchsbetroffener aus Bayern hat heute mit Unterstützung der Gesellschaft für Freiheitsrechte Klage gegen die freiwillige Chatkontrolle durch den US-Konzern Meta eingereicht.<<](https://www.patrick-breyer.de/missbrauchsbetroffener-klagt-gegen-die-chatkontrolle/)
+* [FritzOS für die FritzBox 4040 wurde in der Version 7.56 veröffentlicht.](https://download.avm.de/fritzbox/fritzbox-4040/deutschland/fritz.os/info_de.txt)
+* [>>DAS ist das Optimierungsziel von Google, wenn sie vom "offenen Internet" reden: Die wollen eine Garantie, dass ihre "Geschäftsmodelle" zulasten der User funktionieren, und dass die sich nicht wehren können.<<](https://blog.fefe.de/?ts=9a4452d8) - Deswegen Firefox
+* [Nextcloud Server wurde in der Version 27.0.1 veröffentlicht.](https://github.com/nextcloud/server/releases/tag/v27.0.1)
+* [Thunderbird wurde in der Version 115.0.1 veröffentlicht.](https://www.borncity.com/blog/2023/07/21/thunderbird-115-0-1/)
+* [>>Die Energiewende wurde lange verschleppt und ist nun umso dringlicher. Wälder für den Photovoltaikausbau zu roden, ist dafür keine Lösung. Gemeinsam fordern elf sächsische Verbände einen Rodungsstopp und zeigen Alternativen auf.<<](https://sachsen.nabu.de/news/2023/33664.html) - Richtig, Wälder müssen erhalten und aufgeforstet werden. Wir haben genug Fläche die man für PV-Anlagen nutzen kann
