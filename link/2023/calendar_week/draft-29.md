@@ -26,3 +26,8 @@
 * [Nextcloud Server wurde in der Version 27.0.1 veröffentlicht.](https://github.com/nextcloud/server/releases/tag/v27.0.1)
 * [Thunderbird wurde in der Version 115.0.1 veröffentlicht.](https://www.borncity.com/blog/2023/07/21/thunderbird-115-0-1/)
 * [>>Die Energiewende wurde lange verschleppt und ist nun umso dringlicher. Wälder für den Photovoltaikausbau zu roden, ist dafür keine Lösung. Gemeinsam fordern elf sächsische Verbände einen Rodungsstopp und zeigen Alternativen auf.<<](https://sachsen.nabu.de/news/2023/33664.html) - Richtig, Wälder müssen erhalten und aufgeforstet werden. Wir haben genug Fläche die man für PV-Anlagen nutzen kann
+* [Digitales Briefgeheimnis wurde abgewählt? Nicht für alle, Behörden sind davon natürlich nicht betroffen.](https://blog.fefe.de/?ts=9a452c02)
+* [Verrückt das Wetter, oder? Nun, eigentlich genau wie berechnet.](https://blog.fefe.de/?ts=9a45785a)
+* [Auch in den US sind die Politiker nicht von Durchsuchungen betroffen.](https://blog.fefe.de/?ts=9a457778)
+* [Hinsetzen, die FDP soll folgedes gesagt haben: >>Mehr Geld hilft nicht, sondern schadet eher.<<](https://blog.fefe.de/?ts=9a457562)
+* [gitea wurde in der Version 1.20.1 veröffentlicht.](https://github.com/go-gitea/gitea/releases/tag/v1.20.1)
