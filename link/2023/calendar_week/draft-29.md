@@ -31,3 +31,5 @@
 * [Auch in den US sind die Politiker nicht von Durchsuchungen betroffen.](https://blog.fefe.de/?ts=9a457778)
 * [Hinsetzen, die FDP soll folgedes gesagt haben: >>Mehr Geld hilft nicht, sondern schadet eher.<<](https://blog.fefe.de/?ts=9a457562)
 * [gitea wurde in der Version 1.20.1 veröffentlicht.](https://github.com/go-gitea/gitea/releases/tag/v1.20.1)
+* [Warum funktioniert Digitalisierung in Deutschland nicht? Weil die Unsummen nur in die eigene Vetterwirtschaft gepumpt wird.](https://blog.fefe.de/?ts=9a42fc42) - Mich mit eingeschlossen, gibt es genügend IT-ler die mit Herz und Seele etwas gescheites als Lebenswerk bauen würden wollen, kostet dann halt etwas und vor allem muss es eine Bereitschaft geben den ganzen Weg zu gehen
+* [Schufa Bonify-App ist kaputt.](https://www.borncity.com/blog/2023/07/23/schufa-bonify-app-sicherheitsluecke-ermoeglicht-beliebige-daten-abzufragen/) - Damit kann dann jeder von jedem die Bonität abfragen
