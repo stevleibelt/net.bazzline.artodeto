@@ -5,3 +5,9 @@
 * [davx5ose wurde in der Version 4.3.5.1-ose veröffentlicht.](https://github.com/bitfireAT/davx5-ose/releases/tag/v4.3.5.1-ose)
 * [Nein? Doch! Oh? KI wurde und wird primär von der Polizei genutzt.](https://blog.fefe.de/?ts=9a40ecdd) - In deren Schubladendenken sind ja alle Terroristen. Die Meisten wissen es nur noch nicht!
 * [Inkscape wurde in der Version 1.3 veröffentlicht.](https://www.phoronix.com/news/Inkscape-1.3-Released)
+* [TrueNAS Scale wurde in der Version 22.12.3.3 veröffentlicht.](https://github.com/truenas/documentation/releases/tag/TS22.12.3.3)
+* [PHP psr7-session wurde in der Version 9.0.0 veröffentlicht.](https://github.com/psr7-sessions/storageless/releases/tag/9.0.0)
+* [Das KDE-Debian-Derivat Neptune wurde in der Version 8.0 veröffentlicht.](https://www.linux-magazin.de/news/neptune-8-0-juna-baut-auf-debian-12-bookworm/)
+* [Woho! RISC-V64 wird offizielle Debian-Architektur.](https://www.linux-magazin.de/news/risc-v64-wird-offizielle-debian-architektur/)
+* [Mold wurde in der Version 2.0.0 veröffentlicht.](https://github.com/rui314/mold/releases/tag/v2.0.0)
+* [mermaid wurde in der Version 10.3.0 veröffentlicht.](https://github.com/mermaid-js/mermaid/releases/tag/v10.3.0)
