@@ -11,3 +11,6 @@
 * [Woho! RISC-V64 wird offizielle Debian-Architektur.](https://www.linux-magazin.de/news/risc-v64-wird-offizielle-debian-architektur/)
 * [Mold wurde in der Version 2.0.0 veröffentlicht.](https://github.com/rui314/mold/releases/tag/v2.0.0)
 * [mermaid wurde in der Version 10.3.0 veröffentlicht.](https://github.com/mermaid-js/mermaid/releases/tag/v10.3.0)
+* [>>Zero Trust sagt nicht, dass die Kisten Secure Boot haben müssen, oder Binaries signiert werden, oder dass da Telemetrie gemessen und ausgewertet wird. Oder dass die Software Least Privilege wird und man die TCB minimiert. Das ist alles orthogonal.<<](https://blog.fefe.de/?ts=9a3c8805)
+* [Chromium hat jetzt auch "Wir bestimmen was du siehst"-DRM-Scheiße](https://blog.fefe.de/?ts=9a3fa96c)
+* [Ryanairflüge online buchen? Dann verabschiedet euch schon einmal von eurem Gesicht.](https://noyb.eu/de/booking-ryanair-flight-trough-online-travel-agent-might-hold-nasty-surprise)
