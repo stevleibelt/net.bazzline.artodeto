@@ -14,3 +14,6 @@
 * [>>Zero Trust sagt nicht, dass die Kisten Secure Boot haben müssen, oder Binaries signiert werden, oder dass da Telemetrie gemessen und ausgewertet wird. Oder dass die Software Least Privilege wird und man die TCB minimiert. Das ist alles orthogonal.<<](https://blog.fefe.de/?ts=9a3c8805)
 * [Chromium hat jetzt auch "Wir bestimmen was du siehst"-DRM-Scheiße](https://blog.fefe.de/?ts=9a3fa96c)
 * [Ryanairflüge online buchen? Dann verabschiedet euch schon einmal von eurem Gesicht.](https://noyb.eu/de/booking-ryanair-flight-trough-online-travel-agent-might-hold-nasty-surprise)
+* [docsify-this wurde in der Version 1.7.1 veröffentlicht.](https://github.com/hibbitts-design/docsify-this/releases/tag/v1.7.1)
+* [fastapi wurde in der Version 0.100.1 veröffentlicht.](https://github.com/tiangolo/fastapi/releases/tag/0.100.1)
+* [apache IoTBD wurde in der Version 1.1.2 veröffentlicht.](https://github.com/apache/iotdb/releases/tag/v1.1.2)
