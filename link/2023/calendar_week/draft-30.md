@@ -17,3 +17,9 @@
 * [docsify-this wurde in der Version 1.7.1 veröffentlicht.](https://github.com/hibbitts-design/docsify-this/releases/tag/v1.7.1)
 * [fastapi wurde in der Version 0.100.1 veröffentlicht.](https://github.com/tiangolo/fastapi/releases/tag/0.100.1)
 * [apache IoTBD wurde in der Version 1.1.2 veröffentlicht.](https://github.com/apache/iotdb/releases/tag/v1.1.2)
+* [Realitätsabgleich "So ehrlich sind die Medien und der Kapitalismus"](https://blog.fefe.de/?ts=9a3acccc)
+* [Klimakatastrophe oder "Was ist, wenn dies nur eine große Verschwörung ist und wir eine bessere Welt für gar nichts erschaffen?"](https://blog.fefe.de/?ts=9a3d3bcb) - Gesprochen wie der beste Kapitalist
+* [Glück Auf TV: 200 Jahre Sparkasse Mittelsachsen - Zum Geburtstag](https://www.youtube.com/watch?v=ndEyE6zGWiU)
+* [NUSspli Lite wurde in der Version 1.138 veröffentlicht.](https://wiidatabase.de/nusspli-lite-v1-138/)
+* [Auch hinfick 2.0 fragt sich, ob die Science Fiction Bücher aus der Vergangenheit von Entscheidern ausversehen als "Nummer Eins? Machen wir so!"-Anleitung verstanden wurden.](https://tuxproject.de/blog/2023/07/momentaufnahme-zum-zustand-des-world-wide-web-internet/)
+* [Du weißt, dass du zu viel an der Preisschraube gedreht hast, wenn sogar der Weltwährungsfond sagt "Amigos, dass, was ihr hier an Preise gesetzt habt ist deutlich über dem >>Kostet wegen der Energie jetzt mehr<<."](https://blog.fefe.de/?ts=9a3bd818)
