@@ -23,3 +23,7 @@
 * [NUSspli Lite wurde in der Version 1.138 veröffentlicht.](https://wiidatabase.de/nusspli-lite-v1-138/)
 * [Auch hinfick 2.0 fragt sich, ob die Science Fiction Bücher aus der Vergangenheit von Entscheidern ausversehen als "Nummer Eins? Machen wir so!"-Anleitung verstanden wurden.](https://tuxproject.de/blog/2023/07/momentaufnahme-zum-zustand-des-world-wide-web-internet/)
 * [Du weißt, dass du zu viel an der Preisschraube gedreht hast, wenn sogar der Weltwährungsfond sagt "Amigos, dass, was ihr hier an Preise gesetzt habt ist deutlich über dem >>Kostet wegen der Energie jetzt mehr<<."](https://blog.fefe.de/?ts=9a3bd818)
+* [Gitea wurde in der Version 1.20.2 veröffentlicht.](https://github.com/go-gitea/gitea/releases/tag/v1.20.2)
+* [iter wurde in der Version 2.3.0 veröffentlicht.](https://github.com/nikic/iter/releases/tag/v2.3.0)
+* [Xournal++ wurde in der Version 1.2.0 veröffentlicht.](https://github.com/xournalpp/xournalpp/releases/tag/v1.2.0)
+* [12.000 Liter Wasser für einen 60 kWh-Akku? Damit hätte man locker 4 KG Rindfleisch herstellen können!](https://blog.fefe.de/?ts=9a3bbb44)
