@@ -1,0 +1,8 @@
+* [GNU Binutils wurde in der Version 2.41 veröffentlicht.](https://www.phoronix.com/news/GNU-Binutils-2.41)
+* [OPNsense wurde in der Version 23.7 veröffentlicht.](https://opnsense.org/opnsense-23-7-released/)
+* [harfbuzz wurde in der Version 8.1.0 veröffentlicht.](https://github.com/harfbuzz/harfbuzz/releases/tag/8.1.0)
+* [Selenium wurde in der Version 4.11.0 veröffentlicht.](https://github.com/SeleniumHQ/selenium/releases/tag/selenium-4.11.0)
+* [restic wurde in der Version 0.16.0 veröffentlicht.](https://github.com/restic/restic/releases/tag/v0.16.0)
+* [ruff wurde in der Version 0.0.281 veröffentlicht.](https://github.com/astral-sh/ruff/releases/tag/v0.0.281)
+* [archinstall wurde in der Version 2.6.0 veröffentlicht.](https://github.com/archlinux/archinstall/releases/tag/v2.6.0)
+* [yay wurde in der VErsion 12.1.2 veröffentlicht.](https://github.com/Jguer/yay/releases/tag/v12.1.2)
