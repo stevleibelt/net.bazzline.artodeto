@@ -6,3 +6,6 @@
 * [ruff wurde in der Version 0.0.281 veröffentlicht.](https://github.com/astral-sh/ruff/releases/tag/v0.0.281)
 * [archinstall wurde in der Version 2.6.0 veröffentlicht.](https://github.com/archlinux/archinstall/releases/tag/v2.6.0)
 * [yay wurde in der VErsion 12.1.2 veröffentlicht.](https://github.com/Jguer/yay/releases/tag/v12.1.2)
+* [Cybersicherheitsrat? Da steckt die Bitkom dahinter.](https://blog.fefe.de/?ts=9a33c392)
+* [>>Meine Zusammenfassung des Falls ist: Hilflose Leute sind hilflos und machen hilflose Handbewegungen. Am Ende sagt man: Softwareproblem. Kann man nichts machen. Und das Leben geht weiter.<<](https://blog.fefe.de/?ts=9a322ff3)
+* [Azure ist mal wieder kaputt.](https://blog.fefe.de/?ts=9a35b72f)
