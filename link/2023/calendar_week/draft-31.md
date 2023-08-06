@@ -9,3 +9,10 @@
 * [Cybersicherheitsrat? Da steckt die Bitkom dahinter.](https://blog.fefe.de/?ts=9a33c392)
 * [>>Meine Zusammenfassung des Falls ist: Hilflose Leute sind hilflos und machen hilflose Handbewegungen. Am Ende sagt man: Softwareproblem. Kann man nichts machen. Und das Leben geht weiter.<<](https://blog.fefe.de/?ts=9a322ff3)
 * [Azure ist mal wieder kaputt.](https://blog.fefe.de/?ts=9a35b72f)
+* [Die Regierung aus Frankreich will jetzt den Internetanbietern eine Liste mit bösen URL's zum blockieren vorschreiben.](https://blog.fefe.de/?ts=9a3045b9) - Was hätte sich Göbbels über so viel Macht gefreut
+* [Am 05.08.2023 ist Bram Moolenaar gestorben, der Erfinder vom vim.](https://blog.fefe.de/?ts=9a3095e7)
+* [FastAPI wurde in der Version 0.101.0 veröffentlicht.](https://github.com/tiangolo/fastapi/releases/tag/0.101.0)
+* [Mockery wurde in der Version 1.6.5 veröffentlicht.](https://github.com/mockery/mockery/releases/tag/1.6.5)
+* [PHP Rector wurde in der Version 0.17.8 veröffentlicht.](https://github.com/rectorphp/rector/releases/tag/0.17.8)
+* [Caddy wurde in der Version 2.7.3 veröffentlicht.](https://github.com/caddyserver/caddy/releases/tag/v2.7.3)
+* [Archlinux archzfs linux lts dkms wurde in der Version 20230801 veröffentlicht.](https://github.com/stevleibelt/arch-linux-live-cd-iso-with-zfs/releases/tag/20230801)
