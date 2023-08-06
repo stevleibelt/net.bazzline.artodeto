@@ -1,0 +1,1 @@
+* [>>Ja klar, voll die Vorbilder! Keine Privatsphäre, überall Kameraüberwachung, in den USA auch noch ständig von der Polizei Erschossene… Das brauchen wir hier auch!1!! Dann haben wir auch nicht mehr dauernd Terroristen wie diese … Klimakleber.<<](https://blog.fefe.de/?ts=9a3179ba)
