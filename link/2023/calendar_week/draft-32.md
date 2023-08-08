@@ -5,3 +5,8 @@
 * [>>je mehr Konsum, desto weniger Geselligkeit<<](https://tuxproject.de/blog/2023/08/entodete-innenstadte-ii-verlorene-kneipenkultur/)
 * [universal-android-debloater](https://github.com/0x192/universal-android-debloater)
 * [Hier gibt es noch einmal ein paar praktische Beispiele zum Thema RegExp](https://www.freecodecamp.org/news/practical-regex-guide-with-real-life-examples/)
+* [Valinor wurde in der Version 1.5.0 veröffentlicht.](https://github.com/CuyZ/Valinor/releases/tag/1.5.0)
+* [BetterReflection wurde in der Version 6.12.0 veröffentlicht.](https://github.com/Roave/BetterReflection/releases/tag/6.12.0)
+* [Die Intel-Treiber für Windows haben nun von Haus aus Schnüffellei-Inside](https://www.borncity.com/blog/2023/08/08/windows-treiber-von-intel-nun-standardmig-mit-telemetrie/)
+* [Nein? Doch! Oh? Die Nutzer als Datenlieferant, auch Zoom nutzt euch nur aus.](https://netzpolitik.org/2023/agb-aenderung-zoom-nutzt-daten-von-nutzerinnen-um-kuenstliche-intelligenz-zu-trainieren/)
+* [Dank Canonoicals wird aus LXD jetzt Incus.](https://www.phoronix.com/news/Linux-Containers-LXD-Incus) - Hoffen wir, dass sich hier nicht jemand übernimmt und das die Betreuer dieses Projektes dafür bezahlt werden. Ansonsten hat Canonicals hier super Probleme "outgesourcest"
