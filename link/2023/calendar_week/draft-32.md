@@ -17,3 +17,12 @@
 * [OpenAI ist eine Drecksau, statt Opt-In muss man als Webseitenbetreiber Opt-Out fahren.](https://www.linux-magazin.de/news/openai-anleitung-zum-blockieren-des-gptbot/) - `User-Agent: GPTBot\nDisallow: /`
 * [Mockery wurde in der Version 1.6.6 veröffentlicht.](https://github.com/mockery/mockery/releases/tag/1.6.6)
 * [js-lingui wurde in der Version 4.4.0 veröffentlicht.](https://github.com/lingui/js-lingui/releases/tag/v4.4.0)
+* [Dragonflydb wurde in der Version 1.8.0 veröffentlicht.](https://github.com/dragonflydb/dragonfly/releases/tag/v1.8.0)
+* [AMD Ryzen sind kaputt.](https://www.bleepingcomputer.com/news/security/new-inception-attack-leaks-sensitive-data-from-all-amd-zen-cpus/)
+* [VSCodium extension rome wurde in der Version 0.28.0 veröffentlicht.](https://github.com/rome/tools/releases/tag/lsp/v0.28.0)
+* [dolibarr wurde in der Version 17.0.3 veröffentlicht.](https://github.com/Dolibarr/dolibarr/releases/tag/17.0.3)
+* [Rust Tokio wurde in der Version 1.30.0 veröffentlicht.](https://github.com/tokio-rs/tokio/releases/tag/tokio-1.30.0)
+* [ModMii wurde in der Version 7.0.1 veröffentlicht.](https://wiidatabase.de/modmii-v7-0-1/)
+* [Die Solardach-Demonstration über der A81 war wohl ein reiner Hoax](http://blog.fefe.de/?ts=9a2d0ebc)
+* [Hier gibt es ein 90 Minuten Video und zuvor einführenden Text zum Themenkomplex "JavaScript Funktionen meistern"](https://www.freecodecamp.org/news/mastering-javascript-functions-for-beginners/)
+* [Hier gibt es ein 3 Stunden Video zum Thema "Mit Cypress JavaScript Anwendungen testen"](https://www.freecodecamp.org/news/mastering-end-to-end-testing-with-cypress-for-javascript-applications/)
