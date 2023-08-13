@@ -17,3 +17,7 @@
 * [OpenAI ist eine Drecksau, statt Opt-In muss man als Webseitenbetreiber Opt-Out fahren.](https://www.linux-magazin.de/news/openai-anleitung-zum-blockieren-des-gptbot/) - `User-Agent: GPTBot\nDisallow: /`
 * [Mockery wurde in der Version 1.6.6 veröffentlicht.](https://github.com/mockery/mockery/releases/tag/1.6.6)
 * [js-lingui wurde in der Version 4.4.0 veröffentlicht.](https://github.com/lingui/js-lingui/releases/tag/v4.4.0)
+* [Nein? Doch! Oh? Arme Singles leiden am meisten unter der Inflation?](https://blog.fefe.de/?ts=9a284ff1)
+* [Das sind die Menschen die unser Land regieren, die Homepage von youtube-dl wird vom Netz genommen, auch wenn es dort keinerlei downloads gibt.](https://blog.fefe.de/?ts=9a28b810) - Überall nur Terroristen, ich sachs euch!
+* [Jesus ist für Frieden und gegen Zinsen? Was passiert in den USA? Diese Werte werden in der christlichen Lehre der US-Amerikaner einfach entfernt.](https://blog.fefe.de/?ts=9a267037)
+* [>>Geht ein Reeder pleite, lässt er unter Umständen das Schiff samt Besatzung einfach auf dem Meer. Verlassen treibt die Crew umher, oft monatelang. Letztes Jahr erreichte die Zahl aufgegebener Seefahrer einen Rekordwert von 1550 Menschen.<<](https://blog.fefe.de/?ts=9a2926ff) - Gewinne privatisieren ... dieser wilde Westen auf dem Meer gehört ein Ende gemacht. Kauft mehr regionale Produkte und generell weniger
