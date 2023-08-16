@@ -12,3 +12,8 @@
 * [Stellt euch vor es gibt Völkermord und alle Länder mit christilichen Werten schauen lieber weg.](https://martinsonneborn.de/voelkermord/) - So geschieht es täglich in Armenien
 * [Hier wird euch einfach der Unterschied zwischen `export default` und `named exports` in JavaScript näher gebracht.](https://www.freecodecamp.org/news/difference-between-default-and-named-exports-in-javascript/)
 * [>>At the same type, typing out the types felt both bureaucratic and verbose.<<](https://utcc.utoronto.ca/~cks/space/blog/python/TypeHintsBriefBrush) - Ob ich typehints deswegen so mag?
+* [keepassxc wurde in der Version 2.7.6 veröffentlicht.](https://github.com/keepassxreboot/keepassxc/releases/tag/2.7.6)
+* [docsify-this wurde in der Version 1.7.2 veröffentlicht.](https://github.com/hibbitts-design/docsify-this/releases/tag/v1.7.2)
+* [Devuan (Debian/GNU Linux ohne systemd) wurde in der Version 5.0.0 veröffentlicht und baut auf Debian 12 auf](https://lwn.net/ml/devuan-devel/20230815152733.e6hlowjxwgwcngli@napoli/)
+* [Citrix NetScaler ist kaputt.](https://www.bleepingcomputer.com/news/security/almost-2-000-citrix-netscaler-servers-backdoored-in-hacking-campaign/)
+* [Planet3DNow wird 24 Jahre alt.](https://www.planet3dnow.de/cms/68051-planet-3dnow-wird-24/) - Großen Respekt an die Macher hinter der Webseite, seit 24 Jahren geben Sie alles und zu den Hochzeiten von AMD Athlon K7++ durfte ich ein aktiver Teil der Gemeinschaft sein. Bleibt tapfer und danke für die bisherige, schöne Zeit!
