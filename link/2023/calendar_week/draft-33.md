@@ -17,3 +17,13 @@
 * [Devuan (Debian/GNU Linux ohne systemd) wurde in der Version 5.0.0 veröffentlicht und baut auf Debian 12 auf](https://lwn.net/ml/devuan-devel/20230815152733.e6hlowjxwgwcngli@napoli/)
 * [Citrix NetScaler ist kaputt.](https://www.bleepingcomputer.com/news/security/almost-2-000-citrix-netscaler-servers-backdoored-in-hacking-campaign/)
 * [Planet3DNow wird 24 Jahre alt.](https://www.planet3dnow.de/cms/68051-planet-3dnow-wird-24/) - Großen Respekt an die Macher hinter der Webseite, seit 24 Jahren geben Sie alles und zu den Hochzeiten von AMD Athlon K7++ durfte ich ein aktiver Teil der Gemeinschaft sein. Bleibt tapfer und danke für die bisherige, schöne Zeit!
+* [In Irrland hätte man an ein Bankautomat vorbeigehen sollen.](http://blog.fefe.de/?ts=9a2257ad) - Dort konnte man auch ohne Einlagen Geld abheben
+* [Nachdem die Software unnötig lange Fülltexte generiert, fasst Software jetzt diese Fülltexte zusammen.](http://blog.fefe.de/?ts=9a225df1) - Ich weiß nicht, bei solchen Nachrichten glaube ich weniger, dass wir ein Stromproduktions- als vielmehr ein Stromverbrauchsproblem haben
+* [Nein? Doch! Oh? Die, auch nach mehreren Skandalen, weiterhin unregulierte Fleischindustrie verkauft weiterhin Gammelfleisch.](http://blog.fefe.de/?ts=9a225e76) - Getreu dem typischen Narrativ, zu aller erst war es "natürlich der Türke"
+* [Ab dem 28.08.2023 fährt die S-Bahn von Freiberg nach Dresden wieder durchgängig.](https://www.mdr.de/nachrichten/sachsen/chemnitz/freiberg/vvo-sbahn-nahverkehr-strecke-pendler-100.html)
+* [Bei diesem Beitrag merkt man wieder wie neutral und sachlich der öffentliche Rundfunk agiert.](http://blog.fefe.de/?ts=9a23dbde) - Also die Nähe zur CDU merkt man ja überhaupt nicht, liebe Tagesschau
+* [Genau mein Humor und ein deutliches Indiz, woher die Amerikanskis ihre tief verwurzelte Doppelmoral her haben.](http://blog.fefe.de/?ts=9a23ea4d)
+* [Heavy script wurde in der Version 2.2.0 veröffentlicht.](https://github.com/Heavybullets8/heavy_script/releases/tag/v2.2.0)
+* [Glück Auf TV: Weltkulturerbe: VII. Lichtloch Halsbrücke](https://www.youtube.com/watch?v=G-9TTUzA-nc)
+* [Konzerne haben kein Herz und keine Moral](https://netzpolitik.org/2023/wegen-100-jahre-alter-schallplatten-musikindustrie-verklagt-internet-archive/) - Kulturgut? Das ich nicht lache! Schaut nur wie gut ich Dinge ausbeuten kann! 'Cause I am the Law!
+* [#Neuland, irgendjemand fragt irgenwelche Leute was sie von ChatGPT im Unternehmen halten.](https://www.borncity.com/blog/2023/08/17/75-der-deutschen-unternehmen-vertrauen-chatgpt/) - #Neuland findet das überwiegend super und ist ehrlich, dass sie überhaupt keine Ahnung haben, da sie die Gefahren null abschätzen können. Irgendwo konnte ich gerade Sektkorken knallen hören ...
