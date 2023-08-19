@@ -27,3 +27,7 @@
 * [Glück Auf TV: Weltkulturerbe: VII. Lichtloch Halsbrücke](https://www.youtube.com/watch?v=G-9TTUzA-nc)
 * [Konzerne haben kein Herz und keine Moral](https://netzpolitik.org/2023/wegen-100-jahre-alter-schallplatten-musikindustrie-verklagt-internet-archive/) - Kulturgut? Das ich nicht lache! Schaut nur wie gut ich Dinge ausbeuten kann! 'Cause I am the Law!
 * [#Neuland, irgendjemand fragt irgenwelche Leute was sie von ChatGPT im Unternehmen halten.](https://www.borncity.com/blog/2023/08/17/75-der-deutschen-unternehmen-vertrauen-chatgpt/) - #Neuland findet das überwiegend super und ist ehrlich, dass sie überhaupt keine Ahnung haben, da sie die Gefahren null abschätzen können. Irgendwo konnte ich gerade Sektkorken knallen hören ...
+* [Gema passt die Preise an ... um ein paar tausend Prozent.](https://blog.fefe.de/?ts=9a217ae8)
+* [gradle wurde in der Version 8.3 veröffentlicht.](https://github.com/gradle/gradle/releases/tag/v8.3.0)
+* [rector wurde in der Version 0.18.0 veröffentlicht.](https://github.com/rectorphp/rector/releases/tag/0.18.0)
+* [caddy wurde in der Version 2.7.4 veröffentlicht.](https://github.com/caddyserver/caddy/releases/tag/v2.7.4)
