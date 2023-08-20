@@ -31,3 +31,9 @@
 * [gradle wurde in der Version 8.3 veröffentlicht.](https://github.com/gradle/gradle/releases/tag/v8.3.0)
 * [rector wurde in der Version 0.18.0 veröffentlicht.](https://github.com/rectorphp/rector/releases/tag/0.18.0)
 * [caddy wurde in der Version 2.7.4 veröffentlicht.](https://github.com/caddyserver/caddy/releases/tag/v2.7.4)
+* [php harmony wurde in der Version 8.0.0 veröffentlicht.](https://github.com/woohoolabs/harmony/releases/tag/8.0.0)
+* [box64 wurde in der Version 0.2.4 veröffentlicht.](https://github.com/ptitSeb/box64/releases/tag/v0.2.4)
+* [gitea wurde in der Version 1.20.3 veröffentlicht.](https://github.com/go-gitea/gitea/releases/tag/v1.20.3)
+* [WiiUDownloader wurde in der Version 2.19 veröffentlicht.](https://github.com/Xpl0itU/WiiUDownloader/releases/tag/v2.19)
+* [Hier könnt ihr HTML und CSS lernen](https://www.freecodecamp.org/news/html-css-handbook-for-beginners/)
+* [Liebes SMWK, warum werden die Mittel der Kreis- und Stadttheater nicht entsprechend der Inflation angehoben?](https://www.mdr.de/kultur/theater/freiberg-doebeln-finanzen-mittelsachsen-theater-100.html) - Bei den vielen Staatstheatern in der Landeshauptstadt geht es doch auch
