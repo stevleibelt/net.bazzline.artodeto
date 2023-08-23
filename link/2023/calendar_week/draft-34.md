@@ -11,3 +11,10 @@
 * [LibreOffice wurde in der Version 7.6 veröffentlicht.](https://www.borncity.com/blog/2023/08/22/libreoffice-7-6-freigegeben/)
 * [Git wurde in der Version 2.42 veröffentlicht.](https://www.phoronix.com/news/Git-2.42-Released)
 * [Dank GEMA wird es wohl auf den Weihnachtsmärkten keine Musik mehr geben.](https://netzpolitik.org/2023/gema-wucher-staedte-fuerchten-stille-nacht-auf-weihnachtsmaerkten/) - Das müsst ihr verstehen, Volksgut hin oder her, aber jemand muss doch an die (verstorbenen) Künstler denken! Natürlich schiebt die GEMA alles wieder auf Andere. Müsst ihr verstehen, die GEMA zahlt eigentlich bei jedem Lied noch drauf!
+* [fwupd wurde in der Version 1.9.4 veröffentlicht.](https://github.com/fwupd/fwupd/releases/tag/1.9.4)
+* [Move2Kube wurde in der Version 0.3.9 veröffentlicht.](https://github.com/konveyor/move2kube/releases/tag/v0.3.9)
+* [Vom 22.09.2023 bis zum 24.09.2023 wird der Altweibersommer in Kleinwaltersdorf gefeiert.](https://kleinwaltersdorf.de/index.php/2023/08/22/altweibersommer-2023/)
+* [Glück Auf TV: Der Förderverein Montanregion Erzgebirge feiert seinen 20. Geburtstag.](https://www.youtube.com/watch?v=WsHa68YYwsw)
+* [Statistisch gesehen, werden die Staatstrojaner aller 11 Tage genutzt um irgend jemanden zu hacken.](https://netzpolitik.org/2023/justizstatistik-2021-polizei-hackt-alle-elf-tage-mit-staatstrojanern/)
+* [Danke FrageDenStaat und Netzpolitik, dass ihr über die Letzte Generation neutral berichtet.](https://netzpolitik.org/2023/razzia-bei-letzter-generation-fragdenstaat-veroeffentlicht-gerichtsbeschluesse/)
+* [Hier könnt ihr alles über >>The Python Code Example Handbook<< lesen](https://www.freecodecamp.org/news/the-python-code-example-handbook/)
