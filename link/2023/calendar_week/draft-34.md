@@ -27,3 +27,19 @@
 * [Openfire ist kaputt](https://www.bleepingcomputer.com/news/security/over-3-000-openfire-servers-vulnerable-to-takover-attacks/)
 * [Kali Linux wurde in der Version 2023.3 veröffentlicht.](https://www.bleepingcomputer.com/news/security/kali-linux-20233-released-with-9-new-tools-internal-changes/)
 * [Hier zeigt Kaan B. Y. wie man doppelte Buchführung mit Ledger und HBCI ohne GUI macht.](https://media.ccc.de/v/gpn21-10-buchhaltung-leicht-gemacht-mit-floss) - [Ledger](https://github.com/ledger/ledger) und [Reckon](https://github.com/cantino/reckon)
+* [Sehr aktueller Vortrag mir dem Namen >>Perimeter security is dead, get over it.<<](https://media.ccc.de/v/gpn21-88-perimeter-security-is-dead-get-over-it-)
+* [Hier plaudern die Betreiber des Stuttgart-IPX aus den Nähkästchen](https://media.ccc.de/v/gpn21-81-wie-tauscht-man-eigentlich-internet-) - Dabei habe ich die [PeeringDB](https://www.peeringdb.com/) kennengelernt
+* [Gaby Weber hat erneut ein Video über die Kohlakten veröffentlicht.](http://blog.fefe.de/?ts=9a19e8bd) - Und die gute Gaby kann Spenden weiterhin gut gebrauchen.
+* [Wow, 70 Prozent Marge, denkt an folgenden Satz: Reichtum kann nicht entstehen, er kann nur anderen geraubt werden.](http://blog.fefe.de/?ts=9a19e18b)
+* [Der Industriestrom war ja schon immer um eine Zehnerpotenz günstiger, das ist den armen Konzernen nicht genug und so entscheidet die Blockpartei darüber, dass das Volk (zehnfach größerer Strompreis) das alles mitdeckeln soll.](http://blog.fefe.de/?ts=9a19dfd2) - So langsam verstehe ich, warum mein Vorgesetzter schockiert ist, weil ich mein Einkommen an die gesteigerten Ausgaben anpassen muss ... in seiner Welt wird alles über Summe X gekappt/subventioniert oder halt hinterzogen
+* [Die BRICS wird immer größer.](http://blog.fefe.de/?ts=9a19dd68)
+* [WinRar ist kaputt.](http://blog.fefe.de/?ts=9a19d635) - Wieso dies von den "Virenspezialisten" nicht schon vorher entdeckt wurde
+* [Fühlt sich an wie letzte Chance, aber #clubsAREculture](https://events.ccc.de/2023/08/25/clubsareculture-kickoff/) - Bei Innenstädten die nur noch als Real-Estate-Investment gesehen werden, geht Kultur halt völlig verloren
+* [Duolingo ist kaputt.](https://www.borncity.com/blog/2023/08/24/duolingo-leck-mit-26-millionen-nutzerdatenstze-prfung-auf-have-i-been-pawned-mglich/)
+* [SQLite wurde in der Version 3.43 veröffentlicht.](https://www.phoronix.com/news/SQLite-3.43-Released)
+* [Nein? Doch! Oh? Durch Datenerfassung und "Data brokers" können Profile von Personen erstellt werden.](https://netzpolitik.org/2023/eu-country-comparison-how-data-brokers-are-screening-us/) - Hätte uns doch nur jemand gewarnt. [Hier](https://netzpolitik.org/2023/europa-vergleich-wie-eng-uns-datenhaendler-auf-die-pelle-ruecken/) gibt es den Artikel in deutscher Sprache
+* [WordPress Comment Edit Core ist kaputt.](https://www.borncity.com/blog/2023/08/24/wordpress-plugin-comment-edit-core-3-0-9-brickt-installationen/)
+* [Windows ist kaputt.](https://www.bleepingcomputer.com/news/microsoft/new-windows-updates-cause-unsupported-processor-blue-screens/)
+* [Rust wurde in der Version 1.72.0 veröffentlicht.](https://blog.rust-lang.org/2023/08/24/Rust-1.72.0.html)
+* [Reckon wurde in der Version 0.9.3 veröffentlicht.](https://github.com/cantino/reckon/releases/tag/v0.9.3)
+* [Genode wurde in der Version 23.08 veröffentlicht.](https://github.com/genodelabs/genode/releases/tag/23.08)
