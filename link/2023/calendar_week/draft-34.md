@@ -43,3 +43,12 @@
 * [Rust wurde in der Version 1.72.0 veröffentlicht.](https://blog.rust-lang.org/2023/08/24/Rust-1.72.0.html)
 * [Reckon wurde in der Version 0.9.3 veröffentlicht.](https://github.com/cantino/reckon/releases/tag/v0.9.3)
 * [Genode wurde in der Version 23.08 veröffentlicht.](https://github.com/genodelabs/genode/releases/tag/23.08)
+* [Ash und Morten reden über das Leben und was wirklich wichtig ist.](https://www.youtube.com/watch?v=XCND821EeW8) - Das ganze Video ist toll, aber ab Minute 40 wird es schön
+* [>>Das hat die Amis jetzt so sehr gezeckt, dass sie dem NSA-Direktor gesagt haben, er soll mal öffentlich so tun, als würden jetzt andere Saiten aufgezogen.<<](https://blog.fefe.de/?ts=9a14f0ca) - Danke Max Screm und noyb!
+* [Es wird kaum noch Wein getrunken](https://blog.fefe.de/?ts=9a170480) - Tja, bei der Inflation
+* [Groß Britanien möchte jetzt immer informiert werden, wenn man sicherheitskritische Patches einspielt und um Erlaubnis bittet.](https://blog.fefe.de/?ts=9a17c186) - Kann ja nicht angehen, dass man hier Software sicher machen möchte und dann die armen Geheimagenturen schwerer illegal Daten erheben können!
+* [FastAPI wurde in der Version 0.103.0 veröffentlicht.](https://github.com/tiangolo/fastapi/releases/tag/0.103.0)
+* [Mermaid wurde in der VErsion 10.4.0 veröffentlicht.](https://github.com/mermaid-js/mermaid/releases/tag/v10.4.0)
+* [LXD wurde in der Version 5.17 veröffentlicht.](https://www.phoronix.com/news/LXD-5.17-Released)
+* [Ab dem 25.08.2023 gilt der EU Digital Service Act](https://www.borncity.com/blog/2023/08/25/25-august-2023-ab-heute-gilt-der-eu-digital-services-act-big-tech-muss-reagieren/)
+* [Die CDU in Thüringen spielt wieder seine U-Boot-Rolle und will Open-Source-Vorrang für seine Lobbyfreunde streichen.](https://netzpolitik.org/2023/thueringer-vergaberecht-cdu-will-open-source-vorrang-streichen/)
