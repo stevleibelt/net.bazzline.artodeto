@@ -52,3 +52,4 @@
 * [LXD wurde in der Version 5.17 veröffentlicht.](https://www.phoronix.com/news/LXD-5.17-Released)
 * [Ab dem 25.08.2023 gilt der EU Digital Service Act](https://www.borncity.com/blog/2023/08/25/25-august-2023-ab-heute-gilt-der-eu-digital-services-act-big-tech-muss-reagieren/)
 * [Die CDU in Thüringen spielt wieder seine U-Boot-Rolle und will Open-Source-Vorrang für seine Lobbyfreunde streichen.](https://netzpolitik.org/2023/thueringer-vergaberecht-cdu-will-open-source-vorrang-streichen/)
+* [>>[...] Die Kontrolle über den Kanal UND das Kap Horn bedeutet, dass BRICS+ nun effektiv den Welthandel vom Pazifik nach Europa kontrolliert [...]<<](https://blog.fefe.de/?ts=9a15e6d0)
