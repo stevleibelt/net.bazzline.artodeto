@@ -14,3 +14,14 @@
 * [AppSmith wurde in der Version 1.9.35 veröffentlicht.](https://github.com/appsmithorg/appsmith/releases/tag/v1.9.35)
 * [ratatui wurde in der Version 0.23.0 veröffentlicht.](https://github.com/ratatui-org/ratatui/releases/tag/v0.23.0)
 * [Wohnmobil mit Open Source? WomoLIN!](https://womolin.de/)
+* [Die Deutsche Bahn und wie sie die Bürger/Zwangskunden zur Nutzung des DB Schnüffelnavigators zwingt.](https://media.ccc.de/v/camp2023-57089-db_schnueffelnavigator)
+* [Digitalcourage.de und Kuketz IT verklagen die Deutsche Bahn. Das Warum? findet ihr in diesem Video.](https://media.ccc.de/v/camp2023-57089-db_schnueffelnavigator) - Ich habe für mich mitgenommen, dass es hierbei nicht um DB-Bashing geht, sondern darum mit Hilfe eines großen Konzerns ein rechtssicheres und markantes Urteil zu schaffen welches Tracking von Haus aus als illegal einstuft
+* [Google reguliert jetzt eure Bookmarks im Chrome-Browser](http://blog.fefe.de/?ts=9a11c776) - Noch über eine Schnittstelle, aber Google kann das
+* [SSH macht das Erraten des Passworts durch Timing-Attacken noch schwerer.](http://blog.fefe.de/?ts=9a10d5c8) - SSH ohne PSK? Kommt bei mir nicht in die Tüte
+* [Die FDP ist Verkehrsminister? Klar, dann müssen die klammen Länder mit den steigenden Preisen des Deutschlandtickets klar kommen - O-Ton Verkehrsminister, man könnte ja an den Verkehrsverbünde sparen.](http://blog.fefe.de/?ts=9a1313b2) - Noch weniger Busse und Bahnen für die Verkehrswende! So kriegt ihr FDP-Porsche-Fahrer aber eure Autobahn nicht frei vom normalen Bürger, denkt mal drüber nach!
+* [EduVPN Client wurde in der Version 4.1.2 veröffentlicht.](https://github.com/eduvpn/python-eduvpn-client/releases/tag/4.1.2)
+* [HiDPI, Hero Images und JavaScript? Da kann eine "moderne Webseite" schon einmal 10 MB groß sein.](https://utcc.utoronto.ca/~cks/space/blog/web/ExperiencingWebBloat)
+* [>>[...] Computer sind heute nur deswegen so grauenvoll programmiert, weil in den 70ern die Hardware schlecht war und später keiner mehr Bock hatte, den alten Kram grundlegend aufzuräumen. [...]<<](https://tuxproject.de/blog/2023/08/liegengebliebenes-vom-29-august-2023/)
+* [Bei WordPress gibt es die Erweiterung >>Detect Missing Adblocker<<.](https://wordpress.org/plugins/detect-missing-adblocker/)
+* [Die Probleme mit dem Bergbau haben Folgen für das Wasser der Elbe und der Spree.](https://sachsen.nabu.de/news/2023/33831.html)
+* [>>Die französische Regierung will Zensurmechanismen auf Browser-Ebene einführen [...]<<](https://netzpolitik.org/2023/gefaehrlicher-praezedenzfall-neues-gesetz-in-frankreich-will-browser-zur-zensur-verpflichten/) - Wir werden wohl bald wieder alles selber bauen müssen
