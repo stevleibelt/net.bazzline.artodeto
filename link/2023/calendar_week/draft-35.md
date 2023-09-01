@@ -30,3 +30,13 @@
 * [Wenn Politik die Realität trifft - bei solchen Gesetzen ist es kein Wunder, dass Lehrer und Erzieher nicht mehr sozial engagiert eingreifen um größeren Schaden an Kinderseelen verhindern zu können.](http://blog.fefe.de/?ts=9a116c1d) - Aber gut, das Gesetz wurde von Christdemokraten gemacht, die kennen nur Schläge und Vergewaltigung aus ihren Inzestklöstern
 * [>>Deine Fitbit ist nutzlos – außer du akzeptierst illegale Datentransfers noyb hat drei Beschwerden gegen Fitbit eingereicht.<<](https://noyb.eu/de/your-fitbit-useless-unless-you-consent-unlawful-data-sharing)
 * [Während die westliche Welt der indoktrinierten Transatlantiker alles aus Russland für die ausgebuhrt der Hölle halten, versucht der Oberbürgermeister aus Freiberg den Frieden zu wahren und besucht Sankt Petersburg um eine Rede zu halten.](https://www.mdr.de/nachrichten/sachsen/chemnitz/freiberg/buergermeister-krueger-opernball-russland-petersburg-100.html) - Es ist schwer zu glauben und kaum nachzumessen, aber Sankt Petersburg ist für Deutschland näher als Washington
+* [Besucht doch einmal >>https://github.com/opentffoundation/manifesto<< und gibt dem Repository einen Stern.](https://github.com/opentffoundation/manifesto)
+* [Freifunk in der Schule? Verrückt, aber das funktioniert ... genau wie Linux!](https://media.ccc.de/v/gpn21-107-ein-freies-schulnetz-)
+* [Warum gerät der Wechsel zu Wayland so ins Stocken? Hier findet ihr den Versuch einer Erklärung.](https://utcc.utoronto.ca/~cks/space/blog/unix/WaylandTechnicalMeritsIrrelevant)
+* [Das Volk ist dagegen, die Juristen sind dagegen aber in der EU lebt man nur in seinem Elfenbeinturm und sagt YOLO! Die Blockpartei/Christdemokraten wollen das Volk überwachen ALSO WIRD DAS SO GEMACHT!](https://netzpolitik.org/2023/internes-protokoll-eu-staaten-starten-endspurt-zur-chatkontrolle/)
+* [Wie sieht sich die Blockpartei nach einem Jahr Turbo-Digitalisierung? WIR LEGEN JETZT DEN TURBOTURBO EIN!](https://netzpolitik.org/2023/ein-jahr-digitalstrategie-reihenweise-fehlzuendungen/)
+* [Thunderbird wurde in der Version 102.15.0 und 115.2.0 veröffentlicht.](https://www.borncity.com/blog/2023/08/31/thunderbird-115-2-0-102-15-0/)
+* [ToolJet wurde in der Version 2.15.1 veröffentlicht.](https://github.com/ToolJet/ToolJet/releases/tag/v2.15.1)
+* [Barman wurde in der Version 3.8.0 veröffentlicht.](https://github.com/EnterpriseDB/barman/releases/tag/release/3.8.0)
+* [xrdp wurde in der Version 0.9.23 veröffentlicht.](https://github.com/neutrinolabs/xrdp/releases/tag/v0.9.23)
+* [Wow, ihr seid unschuldig und seht ungewollt strafrechtlich relevantes Material? Dann sagt euch selbst die Polizeit "komm damit ja nicht zu uns, wir buchten dich ein".](http://blog.fefe.de/?ts=9a0e0e13)
