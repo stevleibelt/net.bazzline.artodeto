@@ -40,3 +40,5 @@
 * [Barman wurde in der Version 3.8.0 veröffentlicht.](https://github.com/EnterpriseDB/barman/releases/tag/release/3.8.0)
 * [xrdp wurde in der Version 0.9.23 veröffentlicht.](https://github.com/neutrinolabs/xrdp/releases/tag/v0.9.23)
 * [Wow, ihr seid unschuldig und seht ungewollt strafrechtlich relevantes Material? Dann sagt euch selbst die Polizeit "komm damit ja nicht zu uns, wir buchten dich ein".](http://blog.fefe.de/?ts=9a0e0e13)
+* [fastAPI wurde in der VErsion 0.103.1 veröffentlicht.](https://github.com/tiangolo/fastapi/releases/tag/0.103.1)
+* [eduvpn client wurde in der Version 4.1.3 veröffentlicht.](https://github.com/eduvpn/python-eduvpn-client/releases/tag/4.1.3)
