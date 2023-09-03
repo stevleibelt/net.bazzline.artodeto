@@ -42,3 +42,7 @@
 * [Wow, ihr seid unschuldig und seht ungewollt strafrechtlich relevantes Material? Dann sagt euch selbst die Polizeit "komm damit ja nicht zu uns, wir buchten dich ein".](http://blog.fefe.de/?ts=9a0e0e13)
 * [fastAPI wurde in der VErsion 0.103.1 veröffentlicht.](https://github.com/tiangolo/fastapi/releases/tag/0.103.1)
 * [eduvpn client wurde in der Version 4.1.3 veröffentlicht.](https://github.com/eduvpn/python-eduvpn-client/releases/tag/4.1.3)
+* [Realitätsabgleich Deutschland als Waffenhändler im Ukrainekonflikt.](https://blog.fefe.de/?ts=9a0da925)
+* [Endlich FDP, die WLAN-Störhaftung ist wieder zurück.](https://blog.fefe.de/?ts=9a0dd99f) - Damit die armen Verwertungsgesellschaften endlich wieder Profite generieren können!
+* [Die Bitkom holt zum nächsten Schlag aus, der Steuerzahler soll für inkompetente Software von der Bitkom zahlen.](https://blog.fefe.de/?ts=9a0dd835)
+* [Die Polizei stellt jetzt Fahndungen mit Bilder vom Namen aus dem Internet aus.](https://blog.fefe.de/?ts=9a0f0dce)
