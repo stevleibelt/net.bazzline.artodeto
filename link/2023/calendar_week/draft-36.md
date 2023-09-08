@@ -34,3 +34,15 @@
 * [Chatkontrolle/Internetzensur will wirklich niemand.](https://netzpolitik.org/2023/ungeahnte-allianzen-so-breit-ist-der-widerspruch-gegen-die-chatkontrolle/) - Außer die geschmieten Politiker und der ach so freie Markt
 * [Schon acht Jahre her aber die gescannten Dokumente sind schon da und die Originale schon lange nicht mehr da - Xeroxgate](https://media.ccc.de/v/31c3_-_6558_-_de_-_saal_g_-_201412282300_-_traue_keinem_scan_den_du_nicht_selbst_gefalscht_hast_-_david_kriesel) - Da seht ihr auch wie viel "Compliance" wert ist - NULLKOMMANIX
 * [Bei den US-Farmern sieht man das erste Resultat der Datengeilheit - Niemand kommt mit den erfassten Daten klar](https://www.borncity.com/blog/2023/09/06/datenfluten-toyotas-fabriken-durch-fehlenden-server-speicher-lahm-gelegt-us-farmer-sthnen-ber-datenflut/)
+* [Wie genau nehmen es die Politiker mit den Gesetzen? Heutiges Fallbeispiel, Faeser](http://blog.fefe.de/?ts=9a049c8c)
+* [Erst verbietet Paris die Elektroroller, dann New Your Airbnb ... scheinbar kommen die Menschen langsam zu vernunft.](http://blog.fefe.de/?ts=9a04e9d9) - Am Ende rollen alle Länder wieder neutrales Bildungsfernsehn aus und stärken die kritische Infrastruktur
+* [>>Das ist ein Feature in solchen kritischen Systemen, dass die lieber runterfahren als Mist zu machen, wenn irgendwas komisch riecht.<<](http://blog.fefe.de/?ts=9a04caa3) - Das ist etwas, was man im täglichen und unkritischen Geschäft nie erlebt, lieber eine falsche Nachricht als keine Nachricht
+* [Apache IoTDB wurde in der Version 1.2.0 veröffentlicht.](https://github.com/apache/iotdb/releases/tag/v1.2.0)
+* [argo-cd wurde in der Version 2.8.3 veröffentlicht.](https://github.com/argoproj/argo-cd/releases/tag/v2.8.3)
+* [pappl wurde in der Version 1.3.4 veröffentlicht.](https://github.com/michaelrsweet/pappl/releases/tag/v1.3.4)
+* [Die IBZ Salzchemie in Halsbrücke bei Freiberg feiert am 08.09.2023 ihr 20-jähriges Bestehen.](https://www.mdr.de/video/mdr-videos/a/video-753090.html) - Glück Auf!
+* [Ein Teil des Weges wurde geschafft, Schadensersatz gegenüber Datenabflüsse sind erlaubt.](https://netzpolitik.org/2023/urteil-zu-datenleak-bei-facebook-wer-schadenersatz-will-muss-konkret-werden/)
+* [Die Gerberpassage in Freiberg wurde nach grundlegender Renovierung neu eröffnet.](https://www.youtube.com/watch?v=3mgrHfo24PA)
++ [Falls ihr in den Nachrichten vom AI Act hört, denkt immer daran, dieser Text erlaubt - aktuell - den Herstellern selbst einzuschätzen wie gefährlich ihr untestbares Regelwerk ist.](https://netzpolitik.org/2023/ai-act-ein-riesengrosses-schlupfloch-fuer-die-industrie/)
+* [Erneut und erneut, das Bundesverwaltungsgericht bestätigt in einer neuen Runde alt bekanntes Wissen - Vorratsdatenspeicherung ist illegal](https://netzpolitik.org/2023/bundesverwaltungsgericht-vorratsdatenspeicherung-ist-und-bleibt-illegal/) - Macht euch keinen Kopf, die Mitglieder der Blockpartei werden einen weiteren Versuch starten. Ich würde ganz offen die Umsetzung von Nackenschellen erlauben lassen
+* [Tails wurde in der Version 5.17 veröffentlicht.](https://www.linux-magazin.de/news/tails-5-17-mehr-drucker-weniger-bugs/)
