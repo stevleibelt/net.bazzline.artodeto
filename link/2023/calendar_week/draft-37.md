@@ -16,3 +16,15 @@
 * [>>Durch den Vergleich des heutigen mit dem früheren Klima wird deutlich, dass sich die klimatischen Bedingungen aller Regionen Deutschlands bereits um circa 100 bis 600 Kilometer nach Südwesten verlagert haben.<<](http://blog.fefe.de/?ts=9a030e33)
 * [Falls ihr euch fragt wie viel Macht die EU-Antikorruptionsbehörde OLAF so hat ... nun, lest selbst](http://blog.fefe.de/?ts=9a02a4ed)
 * [Zum Thema Sicherheit in der Microsoft-Cloud: >>Kurz gesagt: Microsoft kann das nicht. Microsoft wusste, dass sie das nicht können. Also haben sie uns uns Gesicht gelogen.<<](http://blog.fefe.de/?ts=9a05d316)
+* [Warum habt ihr ab und an den >>sh: command not found<< Fehler? Hier wird es euch erklärt](https://utcc.utoronto.ca/~cks/space/blog/unix/BourneShellObscureErrorRoots)
+* [Keycloak wurde in der Version 22.0.2 veröffentlicht.](https://github.com/keycloak/keycloak/releases/tag/22.0.2)
+* [appsmith wurde in der Version 1.9.37 veröffentlicht.](https://github.com/appsmithorg/appsmith/releases/tag/v1.9.37)
+* [Mit Thunderbird 115 funktioniert outlook.com wohl nicht mehr.](https://www.borncity.com/blog/2023/09/11/thunderbird-115-mails-von-outlook-com-nicht-mehr-abrufbar/)
+* [privacyidea wurde in der Version 3.9 veröffentlicht.](https://github.com/privacyidea/privacyidea/releases/tag/v3.9)
+* [ruff wurde in der Version 0.0.288 veröffentlicht.](https://github.com/astral-sh/ruff/releases/tag/v0.0.288)
+* [Oh, der Gotthart-Autotunnel wurde gesperrt.](http://blog.fefe.de/?ts=9bfedae7)
+* [Und so mögest du in die Arme der heiligen Sankt Anna und Barbara mit freuden empfangen werden.](https://gedenken.freiepresse.de/traueranzeige/michael-richter-1959)
+* [>>Deutsche scheuen gebrauchte Digitalgeräte<< - Nett ausgedrückt für "Deutsche sind sich über den fehlenden Support von alten Digitalgeräten bewusst"](https://www.linux-magazin.de/news/deutsche-scheuen-gebrauchte-digitalgeraete/) - Was nützt mir ein Endgerät welches nicht mehr mit Sicherheitspatches versorgt wird?
+* [Glück Auf TV: Freiwillige Feuerwehr Freiberg Tag der offenen Tür](https://www.youtube.com/watch?v=E-o8YvgZvWc)
+* [Glück Auf TV: 12. Freiberger Nachtschicht](https://www.youtube.com/watch?v=eO5xvySi4SE)
+* [>>Vorratsdatenspeicherung illegal und der Bundesinnenministerin ist es scheiß egal<<](https://www.borncity.com/blog/2023/09/12/vorratsdatenspeicherung-illegal-und-der-bundesinnenministerin-ist-es-schei-egal/) - Ja, so ehrliche Worte muss man hier benutzen
