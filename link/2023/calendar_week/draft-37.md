@@ -28,3 +28,16 @@
 * [Glück Auf TV: Freiwillige Feuerwehr Freiberg Tag der offenen Tür](https://www.youtube.com/watch?v=E-o8YvgZvWc)
 * [Glück Auf TV: 12. Freiberger Nachtschicht](https://www.youtube.com/watch?v=eO5xvySi4SE)
 * [>>Vorratsdatenspeicherung illegal und der Bundesinnenministerin ist es scheiß egal<<](https://www.borncity.com/blog/2023/09/12/vorratsdatenspeicherung-illegal-und-der-bundesinnenministerin-ist-es-schei-egal/) - Ja, so ehrliche Worte muss man hier benutzen
+* [Ich stimme FeFe zu, mit Sommerkleidung Weihnachtssüßkram in den Regalen zu sehen ist noch befremdlicher als es die letzten Jahre schon war.](http://blog.fefe.de/?ts=9bfe8c19) - Früher, ihr wisst schon, wo man noch davon ausgehen konnte, dass Zucker der böse Süßmacher ist. Heute ist man ja froh, wenn überhaupt noch Zucker enthalten ist
+* [Rector wurde in der Version 0.18.3 veröffentlicht.](https://github.com/rectorphp/rector/releases/tag/0.18.3)
+* [ADACLScanner wurde in der Version 7.9 veröffentlicht.](https://github.com/canix1/ADACLScanner/releases/tag/7.9)
+* [Keycloak wurde in der Version 22.0.3 veröffentlicht.](https://github.com/keycloak/keycloak/releases/tag/22.0.3)
+* [ruff wurde in der Version 0.0.289 veröffentlicht.](https://github.com/astral-sh/ruff/releases/tag/v0.0.289)
+* [Der Chaos Computer Club wurde am 12.09.2023 42 Jahre alt.](https://www.borncity.com/blog/2023/09/12/42-jahre-chaos-computer-club-12-september-2023/) - Zweiundvierzig - Ihr wisst schon :-)
+* [Danke Martin Sonneborn, der zeigt auf wer für die Offenlegung von Flintenuschis SMS gegenüber Pfizer stimmte.](https://martinsonneborn.de/von-der-leyen-und-die-sms/)
+* [Die EU möchte das Briefgeheimnis und sicherer Verschlüsselung abschaffen](https://www.patrick-breyer.de/eu-rat-plant-das-ende-des-digitalen-briefgeheimnisses-und-sicherer-verschluesselung/)
+* [eID, Smart eID, Bund ID ... warum gibt es vom Bund der deutschen Länder mehrere digitale Ausweise?](https://netzpolitik.org/2023/elektronischer-ausweis-im-dschungel-der-digitalen-identitaet/)
+* [Wieder einmal Realitätsabgleich bezüglich Politiker und wie genau sie es mit Gesetzen halten - die Bundesregierung fördert KI-Firmen die in Steueroasen sitzen](https://netzpolitik.org/2023/startups-bundesregierung-foerdert-ki-firmen-mit-eigentuemern-in-steueroasen/) - Warum nicht deutsches Geld für deutsche Firmen? Warum muss unser Volkseigentum Jahr für Jahr mehr ausgebeutet werden?
+* [Der Erzgebirskreis feiert sein 15 jähriges Bestehen - Glück Auf!](https://knappenverein.de/15-jahre-erzgebirgskreis-bergmaennische-aufwartung/)
+* [Schöner Hinweis, schaut mal wie lange Niederlage und Siegermächte in den deutschen Büchern noch gebrauch wird.](https://tuxproject.de/blog/2023/09/kurz-gefragt-7-jens-christian-wagner/) - Oder ob bald nur noch von Befreiung geschrieben wird
+* [Freecodecamp.org zeigt euch 13 Cyber-Attacken die ihr kennen solltet.](https://www.freecodecamp.org/news/types-of-cyber-attacks-to-know/)
