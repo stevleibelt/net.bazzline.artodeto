@@ -41,3 +41,13 @@
 * [Der Erzgebirskreis feiert sein 15 jähriges Bestehen - Glück Auf!](https://knappenverein.de/15-jahre-erzgebirgskreis-bergmaennische-aufwartung/)
 * [Schöner Hinweis, schaut mal wie lange Niederlage und Siegermächte in den deutschen Büchern noch gebrauch wird.](https://tuxproject.de/blog/2023/09/kurz-gefragt-7-jens-christian-wagner/) - Oder ob bald nur noch von Befreiung geschrieben wird
 * [Freecodecamp.org zeigt euch 13 Cyber-Attacken die ihr kennen solltet.](https://www.freecodecamp.org/news/types-of-cyber-attacks-to-know/)
+* [Google Chrome ist kaputt.](http://blog.fefe.de/?ts=9bfe8baf)
+* [Mock-Oauth2-Server wurde in der Version 2.0.0 veröffentlicht.](https://github.com/navikt/mock-oauth2-server/releases/tag/2.0.0)
+* [Die Niederländer vertrauen ihr Wahlsoftware wirklich einem deutschen Unternehmen an.](http://blog.fefe.de/?ts=9bff4691)
+* [Es ist einmal wieder Warntag in Deutschland](https://www.borncity.com/blog/2023/09/14/warntag-2023-mit-cell-broadcast-14-sept-2023/) - Und jedes Mal gibt es so ein "Geschmäckle", dass die Bevölkerung damit auf Krrriiiiieeeeeg eingeschworen werden soll
+* [Der sächsische Landesverband des Knappenvereins erhält vom Freistaat Sachsen finanzielle Unterstützung und kann dies nutzen, um den Bergmeisterpokal 2024 auszurichten.](https://knappenverein.de/saechsischer-landesverband-erhaelt-foerderung-durch-das-staatsministerium-fuer-wissenschaft-kultur-und-tourismus/) - Ideenvorschläge sind erwünscht
+* [Patrick Breyer zeit wie wenig Ahnung Flintenuschi von ihrem Ressort hat](https://www.patrick-breyer.de/piraten-von-der-leyen-hat-das-digitale-zeitalter-schlicht-nicht-verstanden/) - Und auch sonst scheint sie ja nicht die hellste Birne im Leuchter zu sein
+* [Alle Bürger der EU so Nein und die Justiz- und Innenminister der EU-Staaten so FUCK YOU](https://netzpolitik.org/2023/internes-protokoll-eu-staaten-wollen-chatkontrolle-in-zwei-wochen-beschliessen/)
+* [Wieso ist KI und dieser ganze stromverbrauchende Mist auf einmal so wichtig für die EU? Nun, die Bankkonten der Politiker werden von den großen Technologiefirmen gefüllt.](https://netzpolitik.org/2023/noch-vor-banken-und-autokonzernen-ausgaben-von-big-tech-fuer-lobbyismus-weiter-gestiegen/)
+* [RAVE strikes back verlinkt auf ein Dokumentation bei ARD über die Clubszene von Ostberlin.](https://www.rave-strikes-back.de/?p=11920)
+* [Bei den Netzfrauen gab es am 11.09.2023 einen herben Verlust.](https://netzfrauen.org/2023/09/13/netzfrauen-3/) - Meine Trauer und mein Beileid an die Hinterbliebenen. Frau Natterer hat der Erde etwas wunderbares hinterlassen, Glück Auf!
