@@ -12,3 +12,9 @@
 * [Im Jahr 2023 wurden durch den NABU Sachsen viel zu wenig Schmetterline gezählt.](https://sachsen.nabu.de/news/2023/33914.html)
 * [Microsoft verliert 38TB AI Daten an die Microsoft Cloud](https://blog.fefe.de/?ts=9bf6b87d) - Die wissen auch nicht wie sie ihr eigenes Monster benutzen
 * [>>Wer der Polizei keine "Polizeiball-Spende" machen kann, dessen Diebstähle versuchen die gar nicht erst aufzuklären.<<](https://blog.fefe.de/?ts=9bf69c99)
+* [NUSpli wurde in der Version 1.139 veröffentlicht.](https://github.com/V10lator/NUSspli/releases/tag/v1.139)
+* [Playwright-Python wurde in der Version 1.138.0 veröffentlicht.](https://github.com/microsoft/playwright-python/releases/tag/v1.38.0)
+* [Google möchte Chromebooks 10 Jahre lang aktualisieren. Warum will das Google nicht auch mit ihrem Schmierphones?](https://www.borncity.com/blog/2023/09/19/chromebooks-nun-mit-10-jahren-support/)
+* [Die die transatlantischen Freunde ist man zahm, aber gegen die Todesgefahr aus China, da kann die irische Datenschutzbehörde auf einmal Strafen verhängen.](https://netzpolitik.org/2023/millionenstrafe-gegen-tiktok-irische-datenschutzbehoerde-kann-auch-anders/) - So geht Gerechtigkeit!
+* [Rave Striks Back verlinkt auf eine Dokumentation über Laurent Garnier aus dem Jahr 2022](https://www.rave-strikes-back.de/?p=11948)
+* [Richtig so, Compliance ist NICHT Sicherheit.](https://www.opensourcerers.org/2023/09/18/compliance-is-not-security/) - Compliance ist nur das Versprechen, dass jemand, jemanden kennt der sich eventuell um das Marketing kümmert, wenn etwas passiert
