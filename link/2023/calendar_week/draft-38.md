@@ -10,3 +10,5 @@
 * [Roundcube Webmail wurde in der Version 1.6.3 veröffentlicht.](https://roundcube.net/news/2023/09/15/security-update-1.6.3-released)
 * [>>Wer die Cloud verstehen und beherrschen will, braucht im Unternehmen nicht weniger sondern eigentlich mehr IT-Kompetenz, die die Komplexität der Lösungen versteht und das Ganze sicher beherrscht.<<](https://www.borncity.com/blog/2023/09/17/ist-der-cloud-hype-schon-wieder-vorbei/)
 * [Im Jahr 2023 wurden durch den NABU Sachsen viel zu wenig Schmetterline gezählt.](https://sachsen.nabu.de/news/2023/33914.html)
+* [Microsoft verliert 38TB AI Daten an die Microsoft Cloud](https://blog.fefe.de/?ts=9bf6b87d) - Die wissen auch nicht wie sie ihr eigenes Monster benutzen
+* [>>Wer der Polizei keine "Polizeiball-Spende" machen kann, dessen Diebstähle versuchen die gar nicht erst aufzuklären.<<](https://blog.fefe.de/?ts=9bf69c99)
