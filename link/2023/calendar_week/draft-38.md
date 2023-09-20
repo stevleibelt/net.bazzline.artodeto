@@ -12,9 +12,19 @@
 * [Im Jahr 2023 wurden durch den NABU Sachsen viel zu wenig Schmetterline gezählt.](https://sachsen.nabu.de/news/2023/33914.html)
 * [Microsoft verliert 38TB AI Daten an die Microsoft Cloud](https://blog.fefe.de/?ts=9bf6b87d) - Die wissen auch nicht wie sie ihr eigenes Monster benutzen
 * [>>Wer der Polizei keine "Polizeiball-Spende" machen kann, dessen Diebstähle versuchen die gar nicht erst aufzuklären.<<](https://blog.fefe.de/?ts=9bf69c99)
-* [NUSpli wurde in der Version 1.139 veröffentlicht.](https://github.com/V10lator/NUSspli/releases/tag/v1.139)
 * [Playwright-Python wurde in der Version 1.138.0 veröffentlicht.](https://github.com/microsoft/playwright-python/releases/tag/v1.38.0)
 * [Google möchte Chromebooks 10 Jahre lang aktualisieren. Warum will das Google nicht auch mit ihrem Schmierphones?](https://www.borncity.com/blog/2023/09/19/chromebooks-nun-mit-10-jahren-support/)
 * [Die die transatlantischen Freunde ist man zahm, aber gegen die Todesgefahr aus China, da kann die irische Datenschutzbehörde auf einmal Strafen verhängen.](https://netzpolitik.org/2023/millionenstrafe-gegen-tiktok-irische-datenschutzbehoerde-kann-auch-anders/) - So geht Gerechtigkeit!
 * [Rave Striks Back verlinkt auf eine Dokumentation über Laurent Garnier aus dem Jahr 2022](https://www.rave-strikes-back.de/?p=11948)
 * [Richtig so, Compliance ist NICHT Sicherheit.](https://www.opensourcerers.org/2023/09/18/compliance-is-not-security/) - Compliance ist nur das Versprechen, dass jemand, jemanden kennt der sich eventuell um das Marketing kümmert, wenn etwas passiert
+* [Statt Ausbilden und Fördern wird weiterhin die arme Sau des Fachkräftemangels durch das Dorf getrieben.](http://blog.fefe.de/?ts=9bf4e7e7) - Ein Kommentar meinte nur trocken "Fachkräftemangen in der Bundesregierung"
+* [Google schützt eure Daten so gut wie eh und je - da eh alles auf Computern von Google läuft, verlassen eure Daten quasi nie "deren Rechner"](http://blog.fefe.de/?ts=9bf7b46f)
+* [Bitwarden Browser wurde in der Version 2023.9.0 veröffentlicht.](https://github.com/bitwarden/clients/releases/tag/browser-v2023.9.0)
+* [NUSspli wurde in der Version 1.141 veröffentlicht.](https://github.com/V10lator/NUSspli/releases/tag/v1.141)
+* [Die Blockparteien in Hessen und Bayern kenn nur ein "weiter, weiter ins Verderben" und interessieren sich nicht für das Thema Netzpolitik](https://netzpolitik.org/2023/wahlkampf-in-bayern-und-hessen-spielt-netzpolitik-kaum-eine-rolle/)
+* [Rust wurde in der Version 1.72.1 veröffentlicht.](https://blog.rust-lang.org/2023/09/19/Rust-1.72.1.html)
+* [Nein? Doch! Oh? Weniger Pendler führt zu Einsparungen bei Treibhausgasen weil - bitte setzt euch hin - weil das Auto weniger genutzt wird](https://www.linux-magazin.de/news/home-office-spart-emmissionen/) - Da müssen die Five-Eyes ja jahrzehntelang zusammen gearbeitet haben um diesen Forschungsdurchbruch hinbekommen zu haben!
+* [Auch die UN fordert mehr Menschenrechte bei Grenzkontrollen](https://netzpolitik.org/2023/menschenrechte-un-studie-fordert-drastisches-umdenken-bei-digitalen-grenzkontrollen/)
+* [Auch in Deutschland wird der Trend größer und es kommt zu immer weiteren Einschränkungen bei der Versammlungsfreiheit](https://netzpolitik.org/2023/interaktive-karte-amnesty-kritisiert-einschraenkung-der-versammlungsfreiheit-in-deutschland/)
+* [Hier findet ihr eine kurze Erinnerung wie goldig LAN-Parties seien können.](https://www.onli-blogging.de/2299/Meine-Erinnerungen-an-spaete-LAN-Parties.html)
+* [Bei der Telematik läuft es nicht so gut.](https://www.borncity.com/blog/2023/09/20/desaster-zuverlssigkeit-sicherheit-bei-der-telematik-infrastruktur-im-gesundheitswesen/) - Das alles stört mich nicht so sehr. Lieber sollen die Leute vor Ort lange arbeiten statt das meine Daten ungewollt durch das Internet poltern weil irgendwer gepfuscht hat. Ansonsten halte ich es wie Born, wählt ePA ab und nutzt Opt-Out
