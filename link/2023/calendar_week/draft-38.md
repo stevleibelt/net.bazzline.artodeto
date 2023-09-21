@@ -19,7 +19,7 @@
 * [Richtig so, Compliance ist NICHT Sicherheit.](https://www.opensourcerers.org/2023/09/18/compliance-is-not-security/) - Compliance ist nur das Versprechen, dass jemand, jemanden kennt der sich eventuell um das Marketing kümmert, wenn etwas passiert
 * [Statt Ausbilden und Fördern wird weiterhin die arme Sau des Fachkräftemangels durch das Dorf getrieben.](http://blog.fefe.de/?ts=9bf4e7e7) - Ein Kommentar meinte nur trocken "Fachkräftemangen in der Bundesregierung"
 * [Google schützt eure Daten so gut wie eh und je - da eh alles auf Computern von Google läuft, verlassen eure Daten quasi nie "deren Rechner"](http://blog.fefe.de/?ts=9bf7b46f)
-* [Bitwarden Browser wurde in der Version 2023.9.0 veröffentlicht.](https://github.com/bitwarden/clients/releases/tag/browser-v2023.9.0)
+* [Bitwarden Browser wurde in der Version 2023.9.1 veröffentlicht.](https://github.com/bitwarden/clients/releases/tag/browser-v2023.9.1)
 * [NUSspli wurde in der Version 1.141 veröffentlicht.](https://github.com/V10lator/NUSspli/releases/tag/v1.141)
 * [Die Blockparteien in Hessen und Bayern kenn nur ein "weiter, weiter ins Verderben" und interessieren sich nicht für das Thema Netzpolitik](https://netzpolitik.org/2023/wahlkampf-in-bayern-und-hessen-spielt-netzpolitik-kaum-eine-rolle/)
 * [Rust wurde in der Version 1.72.1 veröffentlicht.](https://blog.rust-lang.org/2023/09/19/Rust-1.72.1.html)
@@ -28,3 +28,12 @@
 * [Auch in Deutschland wird der Trend größer und es kommt zu immer weiteren Einschränkungen bei der Versammlungsfreiheit](https://netzpolitik.org/2023/interaktive-karte-amnesty-kritisiert-einschraenkung-der-versammlungsfreiheit-in-deutschland/)
 * [Hier findet ihr eine kurze Erinnerung wie goldig LAN-Parties seien können.](https://www.onli-blogging.de/2299/Meine-Erinnerungen-an-spaete-LAN-Parties.html)
 * [Bei der Telematik läuft es nicht so gut.](https://www.borncity.com/blog/2023/09/20/desaster-zuverlssigkeit-sicherheit-bei-der-telematik-infrastruktur-im-gesundheitswesen/) - Das alles stört mich nicht so sehr. Lieber sollen die Leute vor Ort lange arbeiten statt das meine Daten ungewollt durch das Internet poltern weil irgendwer gepfuscht hat. Ansonsten halte ich es wie Born, wählt ePA ab und nutzt Opt-Out
+* [>>Quantencomputer sind nicht einfach schnellere Computer sondern sie sind Spezialgeräte, die einige besonderen Probleme viel schneller lösen können als normale Computer. Für alle anderen Aufgaben braucht man immer noch die normalen Computer, wie bisher.<<](http://blog.fefe.de/?ts=9bf59149)
+* [>>Damit ist auch geklärt, ob wir der Presse vertrauen können, uns zu warnen, wenn wir in Gefahr sind. Keine der Presseorgane, die Zugang zu den Snowden-Akten hatten, haben es für nötig gehalten, und das zu sagen, dass unsere Polizei-Abhör-Infrastruktur von amerikanischen Geheimdiensten unterwandert sind.<<](http://blog.fefe.de/?ts=9bf5d4e0)
+* [So, so, Obst und Gemüse sollen kein Profit mehr abwerfen.](http://blog.fefe.de/?ts=9bf5cf9a) - Ob das an der maßlosen Gier des freien Marktes liegt, welche die Produktion und den Transport so teuer gemacht hat? Treibstoffe, Dünger, Pestizide etc. ... alles ging, angeblich erst wegen Corona und danach wegen der Ukraine ja preislich steil nach oben. Konzerne fahren in dieser Zeit unglaubliche Gewinne ein.
+* [Netbox wurde in der Version 3.6.2 veröffentlicht.](https://github.com/netbox-community/netbox/releases/tag/v3.6.2)
+* [elysiajs wurde in der Version 0.7.0 veröffentlicht.](https://github.com/elysiajs/elysia/releases/tag/0.7)
+* [Juniper Firewalls sind kaputt - bitte einmal patchen und durchstarten, Danke](https://www.borncity.com/blog/2023/09/21/risiko-tausende-juniper-firewalls-ohne-sicherheitsupdates-im-fokus-von-angreifern/)
+* [Disney, der Konzern, der deutlich häufiger eurer Leben belauscht als ihr es euch vorstellt.](https://www.kuketz-blog.de/disneys-datenmacht-teil-i/) - Disney ist ein Megakonzern der in so vielen Bereichen und Sparten aktiv ist. Dadurch sammelt er nicht nur Daten, sondern kann, über seine Marktmacht, Meinung machen
+* [Die Bergstadt Freiberg verspricht allen Studienanfängern einen Wohnplatz](https://www.mdr.de/video/mdr-videos/a/video-756798.html)
+* [Glück Auf TV: Sächsisch Kabinettssitzung in Freiberg](https://www.youtube.com/watch?v=aWLruZYFUl4)
