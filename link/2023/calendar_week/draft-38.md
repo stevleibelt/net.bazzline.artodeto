@@ -48,3 +48,10 @@
 * [Ihr nutzt Duolingo? Schade, die sammeln ohne Ende Daten und hatten gerade einen Sicherheitsvorfall.](https://www.borncity.com/blog/2023/09/22/duolingo-fhrend-in-der-datensammlung-bei-sprach-apps/)
 * [Warum nicht mal ein einfachs und technikneutrales Gesetz machen? Mit Glasfaser wollen die Konzerne wieder ein Modemzwang einführen.](https://netzpolitik.org/2023/modemzwang-in-glasfasernetzen-schuetzenhilfe-fuer-routerfreiheit/) - Immer und immer die gleichen Grabenkämpfe zu Lasten der Kunden, mich kotzt das so an
 * [Ein weiterer Versuch ein Dateisystem für Container anzubieten, PuzzleFS will viele Probleme weniger schlecht machen.](https://www.phoronix.com/news/PuzzleFS-Development-Continues)
+* [Die Bahn aktualisiert ihre Zwangs-Spionage-App und zeigt erneut, dass sie Kunden einfach nur lästig findet.](https://blog.fefe.de/?ts=9bf37104)
+* [Dank Taiwan wissen wir nun, dass die KI-Kriege begonnen haben.](https://blog.fefe.de/?ts=9bf07b17)
+* [Aufklärung von Cum-Ex? Nicht unter Olaf Scholz](https://blog.fefe.de/?ts=9bf300af)
+* [yescrypt statt sha512 and `/etc/login.defs` statt `/etc/profile`, zumindest unter arch linux](https://archlinux.org/news/changes-to-default-password-hashing-algorithm-and-umask-settings/)
+* [>>Fließgewässern geht es schlecht. Damit sich das ändert, braucht es schnellstmöglich Maßnahmen wie den Ausbau der Gewässerrandstreifen.<<](https://sachsen.nabu.de/news/2023/33967.html)
+* [GitLab ist kaputt, bitte einmal aktualisieren.](https://www.linux-magazin.de/blogs/kritische-sicherheitsluecke-in-gitlab/)
+* [Fernfusion? Ja, bitte!](https://blog.koehntopp.info/2023/09/17/kernfusion.html)
