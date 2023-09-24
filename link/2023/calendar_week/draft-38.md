@@ -55,3 +55,7 @@
 * [>>Fließgewässern geht es schlecht. Damit sich das ändert, braucht es schnellstmöglich Maßnahmen wie den Ausbau der Gewässerrandstreifen.<<](https://sachsen.nabu.de/news/2023/33967.html)
 * [GitLab ist kaputt, bitte einmal aktualisieren.](https://www.linux-magazin.de/blogs/kritische-sicherheitsluecke-in-gitlab/)
 * [Fernfusion? Ja, bitte!](https://blog.koehntopp.info/2023/09/17/kernfusion.html)
+* [Dacx5-ose wurde in der Version 4.3.7-ose veröffentlicht](https://github.com/bitfireAT/davx5-ose/releases/tag/v4.3.7-ose)
+* [changedetection.io wurde in de Version 0.45.2 veröffentlicht](https://github.com/dgtlmoon/changedetection.io/releases/tag/0.45.2)
+* [>>Der Verfassungsschutz sieht im Rechtsextremismus aber das größere Problem.<<](https://blog.fefe.de/?ts=9bf13918)
+* [>>Denn abseits der TikTok-Kamera entspricht kaum jemand dem klassischen Schönheitsideal.<<](https://netzpolitik.org/2023/breakpoint-gefilterte-schoenheit/)
