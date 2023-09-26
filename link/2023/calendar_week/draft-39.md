@@ -1,2 +1,12 @@
 * [feishin wurde in der Version 0.4.0 veröffentlicht.](https://github.com/jeffvli/feishin/releases/tag/v0.4.0)
 * [Schade, Digitialisierung wie man es nicht macht. In Deutschland gibt es "nur online" statt "auch online".](https://tuxproject.de/blog/2023/09/digitalisierung-verfreiwilligen/)
+* [Frau Faeser will ja gern Überwachung für alle außer sich, Frau Faeser will aber definitiv kein Transparenzgesetz.](https://netzpolitik.org/2023/transparenzgesetz-wird-das-noch-was-frau-faeser/) - Wie wohl ihre Gedankenwelt bei anderen Dingen ausschaut? Hände nach dem Toilettengang verpflichtent für alle, aber sie muss nicht weil sie kein Wasser mag?
+* [Stichwort KI-Modelle, wenn Firmen ihre Modelle irgendwie einen netten Namen geben, sind meine "Obacht!"-Detektoren schon auf Anschlag](https://www.linux-magazin.de/news/naechster-milliardenschwerer-ki-deal/)
+* [Glück Auf TV: Oktoberfest in Oederan](https://www.youtube.com/watch?v=qbFFn_lZwKs)
+* [Die PARTEI hat ihre Liste für die kommende Europawahl zusammengestellt](https://www.die-partei.de/2023/09/25/bundesparteitag-2023-auf-nach-europa-und-ins-zdf/) - Ich möchte diese Zeilen nutzen um auf die "Sperrklausel" der Blockparteien hinzuweisen. Bei den Blockparteien funktioniert Demokratie nur, wenn sie das sagen haben
+* [Eine Chipkarte für Geflüchtete? Damit profitieren die privaten und parteinahen Konzerne die sich diese Dienstleistung versilberdiamantgolden lassen.](https://netzpolitik.org/2023/bezahlsysteme-fuer-gefluechtete-karten-der-abschreckung/) - Am Ende muss die Kommune das geringe Geld nutzen um den vorgesetzten Dienstleister zu zahlen und die Asylsuchenden haben noch weniger davon. Das deutsche Volk hat auch nichts davon, denn in Sachen Steuern und Arbeitskräfte denken Konzerne international!
+* [LibrePCB wurde in der Version 1.0.0 veröffentlicht.](https://lwn.net/Articles/945519/)
+* [Richtige Einstellung und Vorahnung, die Browser-Auswahl kommt nach Europa und Mozilla warnt schon jetzt vor den schmutzigen Tricks von Microsoft, Google und Apple](https://www.borncity.com/blog/2023/09/26/browser-auswahl-kommt-in-der-eu-mozilla-warnt-vor-schmutziger-tricks/)
+* [Man kann niemanden mehr trauen, separate DNS für die externen Gerätschaften erscheint mir als sinnvoll.](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/SplittingDNSResolvers)
+* [Selenium wurde in der Version 4.13 veröffentlicht.](https://github.com/SeleniumHQ/selenium/releases/tag/selenium-4.13.0)
+* [Rector wurde in der Version 0.18.4 veröffentlicht.](https://github.com/rectorphp/rector/releases/tag/0.18.4)
