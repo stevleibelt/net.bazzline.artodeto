@@ -10,3 +10,15 @@
 * [Man kann niemanden mehr trauen, separate DNS für die externen Gerätschaften erscheint mir als sinnvoll.](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/SplittingDNSResolvers)
 * [Selenium wurde in der Version 4.13 veröffentlicht.](https://github.com/SeleniumHQ/selenium/releases/tag/selenium-4.13.0)
 * [Rector wurde in der Version 0.18.4 veröffentlicht.](https://github.com/rectorphp/rector/releases/tag/0.18.4)
+* [Nein? Doch! Oh? Amazon nutzt seine Monopolstellung um die Preise nach oben zu treiben](http://blog.fefe.de/?ts=9bed86b2)
+* [>>Das Patentamt hat allerdings eines Tages gemerkt, dass sie ein Profit Center sein können, wenn sie einfach alle Patente erteilen (und jeweils eine Gebühr kassieren), unabhängig davon, ob das überhaupt patentierbar ist.<<](http://blog.fefe.de/?ts=9bec3d4e) - TL;DR, Softwarepatente sind illegal
+* [Lol, amazon's "Strategie" gegen KI-geschriebene Bücher ist ... *trommelwirbel*, drei Bücher pro Tag dürfen pro Author veröffentlicht werden.](http://blog.fefe.de/?ts=9bec13d8) - Das macht dann schlanke 1095 Bücher pro Author (welcher unter verschiedenen Künstlernamen auftreten darf)
+* [Lindner hat Angst, dass seine Geldwäsche aufgedeckt wird und beendet daher ein KI-Projekt zur Geldwäschebekämpfung](http://blog.fefe.de/?ts=9bec0105) - Hat ihm bestimmt sein Buddy Oly Scholz gesagt
+* [Mein Wort für das Q3/2023 >>Erkenntnisdefizite<<](http://blog.fefe.de/?ts=9bec0105)
+* [Digitalisierung in Deutschland bedeutet, möglichst viel Reingewinn ohne Nutzen in die eigene Tasche zu privatisieren.](http://blog.fefe.de/?ts=9bec7e55) - Mein Herz des Volkes blutet bei solchen Geschichten
+* [MangoHud wurde in der Version 0.7.0 veröffentlicht.](https://github.com/flightlessmango/MangoHud/releases/tag/v0.7.0)
+* [privacy.sexy wurde in der Version 0.12.4 veröffentlicht.](https://github.com/undergroundwires/privacy.sexy/releases/tag/0.12.4)
+* [Firefox wurde in der Version 118.0 veröffentlicht.](https://lwn.net/Articles/945608/)
+* [Wie weit wird die geplante und anstandslose Massenüberwachung der EU mit dem viel zu netten Namen "Chatkontrolle" eigentlich reichen? Weltweit! Es ist so schlimm, dass die Schweiz schon einmal dagegen stimmt, aus Protest!](https://netzpolitik.org/2023/schweiz-stimmt-gegen-chatkontrolle-niemand-wird-sich-der-kontrolle-entziehen-koennen/)
+* [Realitätsabgleich "Was ist kinderpornografischer Inhalt"? "Guten Morgen meine Süße, ich hab an dich gedacht :aubergine:"](https://netzpolitik.org/2023/kinderpornografische-inhalte-lauter-tatverdaechtige-minderjaehrige/) - Man muss sich immer vor Augen halten, hier wird ein System installiert und **vorerst** auf "lautlos" gestellt. Nachdem das System da ist, kann man die Regeln und die bewussten Falschmeldungen nutzen um Straftaten zu suggerieren. Es wird also ein Unterdrückungssystem erstellt, welches wenige Vorherschende nutzen können um Abweichler denunzieren zu können
+* [Wimms Mario Kart Fun wurde in der Version 2023-09 veröffentlicht.](https://wiidatabase.de/wiimms-mario-kart-fun-2023-09/)
