@@ -22,3 +22,14 @@
 * [Wie weit wird die geplante und anstandslose Massenüberwachung der EU mit dem viel zu netten Namen "Chatkontrolle" eigentlich reichen? Weltweit! Es ist so schlimm, dass die Schweiz schon einmal dagegen stimmt, aus Protest!](https://netzpolitik.org/2023/schweiz-stimmt-gegen-chatkontrolle-niemand-wird-sich-der-kontrolle-entziehen-koennen/)
 * [Realitätsabgleich "Was ist kinderpornografischer Inhalt"? "Guten Morgen meine Süße, ich hab an dich gedacht :aubergine:"](https://netzpolitik.org/2023/kinderpornografische-inhalte-lauter-tatverdaechtige-minderjaehrige/) - Man muss sich immer vor Augen halten, hier wird ein System installiert und **vorerst** auf "lautlos" gestellt. Nachdem das System da ist, kann man die Regeln und die bewussten Falschmeldungen nutzen um Straftaten zu suggerieren. Es wird also ein Unterdrückungssystem erstellt, welches wenige Vorherschende nutzen können um Abweichler denunzieren zu können
 * [Wimms Mario Kart Fun wurde in der Version 2023-09 veröffentlicht.](https://wiidatabase.de/wiimms-mario-kart-fun-2023-09/)
+* [Glück Auf TV: Kinopolis erhält Auszeichnung](https://www.youtube.com/watch?v=9ZWwWby2ybw)
+* [NPM und PyPi haben Probleme mit bösartigen Paketen.](https://www.bleepingcomputer.com/news/security/ssh-keys-stolen-by-stream-of-malicious-pypi-and-npm-packages/)
+* [Sich selber das Programmieren beibringen? Ja das geht!](https://www.freecodecamp.org/news/self-taught-developer-fastest-way-to-learn-to-code/) - Und es gibt so viele legale Optionen, dank der freien Softwarebewegung
+* [Am deutschen Wesen ... die Franzosen mögen ihre Journalisten jetzt auch nur noch, wenn sie positiv über die bestehenden Verhältnisse berichten.](https://netzpolitik.org/2023/pressefreiheit-frankreich-nimmt-journalistinnen-in-die-mangel/)
+* [Netzpolitik verklagt das BKA erneut.](https://netzpolitik.org/2023/staatstrojaner-pegasus-wir-verklagen-das-bka-zum-dritten-mal/) - Alle guten Dinge sind drei!
+* [Die USA sind ja das Land mit den meisten "besonderen" Menschen ... und das Land mit dem meisten hart industrialisiert verarbeitetem Essen, Zufall?](http://blog.fefe.de/?ts=9beafd6a)
+* [Haha, Microsoft Sharepoint macht JWT und nutzt den Algorithmus "none"](http://blog.fefe.de/?ts=9beada53)
+* [Zum Thema Chatkontrolle noch einmal Worte von anderen Personen: >>Tatsächlich handelt es sich um eine Lobby-Kampagne von skrupelloser geheimdienstnahen Tech-Firmen, die einen Präzedenzfall für "KI"-basierte Totalüberwachung schaffen wollen, weil sie entsprechende Software verkaufen.<<](http://blog.fefe.de/?ts=9bead4bd)
+* [broot wurde in der Version 1.26.0 veröffentlicht.](https://github.com/Canop/broot/releases/tag/v1.26.0)
+* [RadioDroid wurde in der Version 0.85 veröffentlicht.](https://github.com/segler-alex/RadioDroid/releases/tag/0.85)
+* [OpenZFS wurde in der Version 2.1.13 veröffentlicht.](https://github.com/openzfs/zfs/releases/tag/zfs-2.1.13)
