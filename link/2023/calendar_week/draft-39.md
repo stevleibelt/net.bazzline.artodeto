@@ -31,5 +31,15 @@
 * [Haha, Microsoft Sharepoint macht JWT und nutzt den Algorithmus "none"](http://blog.fefe.de/?ts=9beada53)
 * [Zum Thema Chatkontrolle noch einmal Worte von anderen Personen: >>Tatsächlich handelt es sich um eine Lobby-Kampagne von skrupelloser geheimdienstnahen Tech-Firmen, die einen Präzedenzfall für "KI"-basierte Totalüberwachung schaffen wollen, weil sie entsprechende Software verkaufen.<<](http://blog.fefe.de/?ts=9bead4bd)
 * [broot wurde in der Version 1.26.0 veröffentlicht.](https://github.com/Canop/broot/releases/tag/v1.26.0)
-* [RadioDroid wurde in der Version 0.85 veröffentlicht.](https://github.com/segler-alex/RadioDroid/releases/tag/0.85)
-* [OpenZFS wurde in der Version 2.1.13 veröffentlicht.](https://github.com/openzfs/zfs/releases/tag/zfs-2.1.13)
+* [RadioDroid wurde in der Version 0.86 veröffentlicht.](https://github.com/segler-alex/RadioDroid/releases/tag/0.86)
+* [OpenZFS wurde in der Version 2.1.13 veröffentlicht.](https://github.com/openzfs/zfs/releases/tag/zfs-2.1.13) - Damit können unter [Arch Linux auch wieder wunderbar zfs und Kernels](https://github.com/stevleibelt/arch-linux-live-cd-iso-with-zfs/releases/tag/20230929) aktualisiert werden
+* [Bulk Crap Uninstaller wurde in der Version 5.7 veröffentlicht.](https://github.com/Klocman/Bulk-Crap-Uninstaller/releases/tag/v5.7)
+* [pappl wurde in der Version 1.4.0 veröffentlicht.](https://github.com/michaelrsweet/pappl/releases/tag/v1.4.0)
+* [fastapi wurde in der Version 0.103.2 veröffentlicht.](https://github.com/tiangolo/fastapi/releases/tag/0.103.2)
+* [Serendipity wurde in der Version 2.5-beta1 veröffentlicht.](https://github.com/s9y/Serendipity/releases/tag/2.5-beta1) - Damit könnt ihr Serendipity mit PHP 8.2 betreiben
+* [Tesla verschleißt seine Mitarbeiter wohl noch mehr als es Amazon macht.](http://blog.fefe.de/?ts=9beb0d35) - Äußerst bedenlich und kein gutes Zeichen für die Menschen, die in Deutschland wohnen
+* [Nein? Doch! Oh? Die Polizisten schalten ihre Body-Cams gern aus oder löschen Material, wenn da Dinge zu ihren Ungunsten drauf zu sehen sind.](http://blog.fefe.de/?ts=9beb6765)
+* [Gesundheitsdaten im WWW? Michigan hat da mal 6 Terabyte verloren.](https://www.borncity.com/blog/2023/09/29/einer-der-grten-gesundheitsanbieter-michigans-wurde-opfer-der-alphv-ransomware-gang/)
+* [Am Beispiel Valve wird das Thema Geoblocking endlich politisch angefasst.](https://netzpolitik.org/2023/geoblocking-wie-sich-valve-verzockt-hat/)
+* [Hinter diesem Link findet ihr eine schöne Aussage, dass man ein DBMS produktiv nicht neben anderen Diensten betreiben will.](https://www.percona.com/blog/dont-start-using-your-mysql-server-until-youve-configured-your-os/)
+* [Erst wegen den Kindern, jetzt wegen den Filesharing, die EU will die anstandslose Massenüberwachung alle Bürger - KOMME WAS WOLLE](https://www.patrick-breyer.de/eugh-generalanwalt-will-internet-vorratsdatenspeicherung-gegen-filesharing/) - Und erinnert mit seinem tun an Zeiten von vor genau 100 Jahren
