@@ -43,3 +43,11 @@
 * [Am Beispiel Valve wird das Thema Geoblocking endlich politisch angefasst.](https://netzpolitik.org/2023/geoblocking-wie-sich-valve-verzockt-hat/)
 * [Hinter diesem Link findet ihr eine schöne Aussage, dass man ein DBMS produktiv nicht neben anderen Diensten betreiben will.](https://www.percona.com/blog/dont-start-using-your-mysql-server-until-youve-configured-your-os/)
 * [Erst wegen den Kindern, jetzt wegen den Filesharing, die EU will die anstandslose Massenüberwachung alle Bürger - KOMME WAS WOLLE](https://www.patrick-breyer.de/eugh-generalanwalt-will-internet-vorratsdatenspeicherung-gegen-filesharing/) - Und erinnert mit seinem tun an Zeiten von vor genau 100 Jahren
+* [Am MIT wurde wohl etwas erfunden, was die Entsalzungsanlagen dazu bringt billigeres Trinkwasser herzustellen.](https://blog.fefe.de/?ts=9be697cb)
+* [Googles "Geschäftsmodel" ist wohl so voller Dark Patterns wie es ein Drogenhändler sonst nur kann](https://blog.fefe.de/?ts=9be6873e)
+* [Europol schreit schon einmal HIER wenn es um Chatkontrolldaten geht, damit später die "KI" darüber entscheiden kann wann wer in das Gefängnis geht und wer nicht.](https://blog.fefe.de/?ts=9be92670)
+* [Unterbrochene Luftzufuhr im Gehirn kann schnell tödlich enden.](https://blog.fefe.de/?ts=9be83876)
+* [EXIM ist kaputt.](https://blog.fefe.de/?ts=9be81d56)
+* [zrepl wurde in der Version 0.6.1 veröffentlicht.](https://github.com/zrepl/zrepl/releases/tag/v0.6.1)
+* [Ein wunderbarer Vergleich, digital Commons sind die Parkanlage für alle Bürger in der digitalen Welt.](https://netzpolitik.org/2023/oeffentliches-geld-oeffentliches-gut-digital-commons-sind-die-zukunft-des-guten-internets/)
+* [Was für ein Zufall, die Tor.exe wird als Trojaner angesehen.](https://www.borncity.com/blog/2023/09/30/microsoft-defender-lst-bei-tor-exe-warnung-vor-trojanwin32-malgentmtb-aus/)
