@@ -25,3 +25,11 @@
 * [gitea wurde in der Version 1.20.5 veröffentlicht.](https://github.com/go-gitea/gitea/releases/tag/v1.20.5)
 * [python wurde in der Version 3.12 veröffentlicht.](https://www.phoronix.com/news/Python-3.12-Released)
 * [>>Auf der ganzen Welt fahren Regierungen gemeinsam mit KI-Unternehmen einen Angriff auf das Recht auf Privatsphäre.<<](https://netzpolitik.org/2023/signal-chefin-zur-chatkontrolle-die-eu-kann-diesen-rueckschritt-bei-den-menschenrechten-stoppen/)
+* [Mimimi, durch das Feigenblatt erzählt Microsoft schon einmal, dass Github-Copilot bald deutlich teurer wird.](http://blog.fefe.de/?ts=9bd9898b)
+* [Ihr wollt einen Ausblick darauf was uns mit digitalen Banken erwartet wird? Schaut euch die Umstellung der Postbank in die Deutsch Bank an, da wird es Kunden zugmutet, dass sie mal 6 Monate ohne ihr Konto leben müssen.](https://www.heise.de/news/Postbank-Bundesregierung-will-Problemen-durch-IT-Umstellung-nachgehen-9331470.html) - Softwarefehler, kann man nichts machen
+* [Die Bundeswehr wird demnächste Software nutzen, die "Over-the-air" aktualisiert werden muss.](http://blog.fefe.de/?ts=9bd9efd5) - Viel Spaß beim Hacken im Kriegsfall
+* [Caddy wurde in der Version 2.7.5 veröffentlicht.](https://github.com/caddyserver/caddy/releases/tag/v2.7.5)
+* [>>Es ist unverantwortlich, dass Unternehmen Waffen in Länder exportieren, deren Menschenrechtsbilanz sehr schlecht ist. Die fehlende staatliche Regulierung des Handels mit diesen Waffen ist inakzeptabel und führt vielerorts zur Aushöhlung des Rechts auf friedlichen Protest.<<](https://netzpolitik.org/2023/amnesty-bericht-das-geschaeft-hinter-der-unterdrueckung-von-protesten/)
+* [Thunderbird wurde in der Version 115.3.2 veröffentlicht.](https://www.borncity.com/blog/2023/10/12/thunderbird-115-3-2/)
+* [Firefox wurde in der Version 118.0.2 veröffentlicht.](https://www.borncity.com/blog/2023/10/12/firefox-118-0-2/)
+* [Vorratsdatenspeicherung und die Blockpartei, eben jene will "Spielräume" nutzen.](https://netzpolitik.org/2023/vorratsdatenspeicherung-sachverstaendige-uneins-ueber-sammlung-von-ip-adressen/)
