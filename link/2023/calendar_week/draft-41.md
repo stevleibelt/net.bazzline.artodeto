@@ -33,3 +33,11 @@
 * [Thunderbird wurde in der Version 115.3.2 veröffentlicht.](https://www.borncity.com/blog/2023/10/12/thunderbird-115-3-2/)
 * [Firefox wurde in der Version 118.0.2 veröffentlicht.](https://www.borncity.com/blog/2023/10/12/firefox-118-0-2/)
 * [Vorratsdatenspeicherung und die Blockpartei, eben jene will "Spielräume" nutzen.](https://netzpolitik.org/2023/vorratsdatenspeicherung-sachverstaendige-uneins-ueber-sammlung-von-ip-adressen/)
+* [Realitätsabgleich "Ist der Datenschutz wirklich so böse und so ein Bremser?"](https://media.ccc.de/v/camp2023-57243-xfilesgdpr) - Natürlich nicht, die Konzerne wollen sie so hinstellen, da sie einfach all eure Daten haben wollen ... weil, na weil!
+* [IBM Qradar ist kaputt.](http://blog.fefe.de/?ts=9bd68393)
+* [VW stellt sein Up ein, angeblich weil deren Softwarepfusch zu schlimm war.](http://blog.fefe.de/?ts=9bd912ef) - Man könnte ja auch patchen, aber verdammt Jochen, KAUFT NEUE AUTOS!
+* [Microsoft hat in den USA wohl wenigst 30 Milliarden USD Steuern hinterzogen.](http://blog.fefe.de/?ts=9bd90c71)
+* [heavy_script wurde in der Version 2.4.0 veröffentlicht.](https://github.com/Heavybullets8/heavy_script/releases/tag/v2.4.0)
+* [Bun wurde in der Version 1.0.6 veröffentlicht.](https://github.com/oven-sh/bun/releases/tag/bun-v1.0.6)
+* [Die große Kreis-, Universitäts-, Silber- und Bergstadt Freiberg bewirbt sich für die Ausrichtung der Landesgartenschau um Jahr 2029.](https://www.mdr.de/nachrichten/sachsen/chemnitz/freiberg/landesgartenschau-bewerbung-oberbuergermeister-altlasten-100.html)
+* [WordPress wurde in der Version 6.3.2 veröffentlicht.](https://wordpress.org/news/2023/10/wordpress-6-3-2-maintenance-and-security-release/)
