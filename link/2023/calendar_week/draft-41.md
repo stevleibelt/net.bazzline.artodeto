@@ -41,3 +41,6 @@
 * [Bun wurde in der Version 1.0.6 veröffentlicht.](https://github.com/oven-sh/bun/releases/tag/bun-v1.0.6)
 * [Die große Kreis-, Universitäts-, Silber- und Bergstadt Freiberg bewirbt sich für die Ausrichtung der Landesgartenschau um Jahr 2029.](https://www.mdr.de/nachrichten/sachsen/chemnitz/freiberg/landesgartenschau-bewerbung-oberbuergermeister-altlasten-100.html)
 * [WordPress wurde in der Version 6.3.2 veröffentlicht.](https://wordpress.org/news/2023/10/wordpress-6-3-2-maintenance-and-security-release/)
+* [Die USA wusste von dem Angriff der Hamas und fanden, es ist Zeit für ein ordentliches Blutbad.](https://blog.fefe.de/?ts=9bd7792a) - Oder haben Sie die Hamas gar angestiftet? Den Cowboys traut man ja alles zu
+* [Cisco ist kaputt.](https://blog.fefe.de/?ts=9bd7fc51)
+* [Confluence ist kaputt.](https://blog.fefe.de/?ts=9bd4b275)
