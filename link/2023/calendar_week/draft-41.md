@@ -44,3 +44,8 @@
 * [Die USA wusste von dem Angriff der Hamas und fanden, es ist Zeit für ein ordentliches Blutbad.](https://blog.fefe.de/?ts=9bd7792a) - Oder haben Sie die Hamas gar angestiftet? Den Cowboys traut man ja alles zu
 * [Cisco ist kaputt.](https://blog.fefe.de/?ts=9bd7fc51)
 * [Confluence ist kaputt.](https://blog.fefe.de/?ts=9bd4b275)
+* [Privacy.sexy wurde in der Version 0.12.5 veröffentlicht.](https://github.com/undergroundwires/privacy.sexy/releases/tag/0.12.5)
+* [OpenZFS wurde in der Version 2.2.0 veröffentlicht.](https://github.com/openzfs/zfs/releases/tag/zfs-2.2.0)
+* [Microsoft macht Exchange mit einem Update, mal wieder, kaputt.](https://www.borncity.com/blog/2023/10/14/exchange-server-okt-2023-updates-scheitern-mit-fehler-0x80070534/)
+* [OpenWrt wurde in der Version 23.05.0 veröffentlicht.](https://lwn.net/Articles/947727/)
+* [Hier wird euch gezeigt, wie ihr Pi-Hole mit Ubound erweitert](https://www.kuketz-blog.de/pi-hole-einrichtung-und-konfiguration-mit-unbound-adblocker-teil2/)
