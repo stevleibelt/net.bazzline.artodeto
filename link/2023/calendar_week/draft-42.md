@@ -35,3 +35,11 @@
 * [FastAPI wurde in der Version 0.104.0 veröffentlicht.](https://github.com/tiangolo/fastapi/releases/tag/0.104.0)
 * [Glück gehabt! Ein mutiger Mann hat uns das Recht erhalten, das man in der Nacht seine Notdurft in die Ostsee verrichten darf.](http://blog.fefe.de/?ts=9bce97fa)
 * [Ihr vertraut einer Internetseite wie 23andMe eure privatesten Daten an? Selber schuld!](https://www.bleepingcomputer.com/news/security/hacker-leaks-millions-of-new-23andme-genetic-data-profiles/)
+* [Glück Auf TV: Die Agrargenosseschaft Bergland Clausnitz eG aus dem Erzgebirge wird hier vorgestellt.](https://www.youtube.com/watch?v=ipTMeCDGpSQ)
+* [Glück Auf TV: Babyempfang Brand-Erbisdorf 2023](https://www.youtube.com/watch?v=-kzTQES0Xh8) - Ein Tradition die man ebenfalls in Stadtteilen ausrollen könnte
+* [Thunderbird wurde in der Version 115.3.3 veröffentlicht.](https://www.borncity.com/blog/2023/10/19/thunderbird-115-3-3/)
+* [Die verlorenen Kämpfe bei der Privatssphäre zeigen Auswirkungen, beim Thema Porno darf der sonst so mündige Bürger nicht mehr so mündig sein.](https://netzpolitik.org/2023/medienaufsicht-internet-provider-sollen-pornhub-in-deutschland-sperren/)
+* [Die KI macht es unmöglich "die Wahrheit" von "Der Unwahrheit" zu unterscheiden. Was ist die Lösung der Industrie? MEHR TECHNOLOGIE DIE KEINER VERSTEHT!](https://netzpolitik.org/2023/kuenstliche-intelligenz-mit-wasserzeichen-gegen-die-babylonische-verwirrung/) - Das hat die letzten Jahrzehnte ja auch schon so super funktioniert
+* [ToolJet wurde in der Version 2.22.0 veröffentlicht.](https://github.com/ToolJet/ToolJet/releases/tag/v2.22.0)
+* [ruff wurde in der Version 0.1.1 veröffentlicht.](https://github.com/astral-sh/ruff/releases/tag/v0.1.1)
+* [Exchange Online deklariert alle E-Mails als Spam](http://blog.fefe.de/?ts=9bce39de) - Gibt es hier ein Bündnis welches eine Schadensersatzklage gegenüber Microsoft an den Start bringt?
