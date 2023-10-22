@@ -43,3 +43,10 @@
 * [ToolJet wurde in der Version 2.22.0 veröffentlicht.](https://github.com/ToolJet/ToolJet/releases/tag/v2.22.0)
 * [ruff wurde in der Version 0.1.1 veröffentlicht.](https://github.com/astral-sh/ruff/releases/tag/v0.1.1)
 * [Exchange Online deklariert alle E-Mails als Spam](http://blog.fefe.de/?ts=9bce39de) - Gibt es hier ein Bündnis welches eine Schadensersatzklage gegenüber Microsoft an den Start bringt?
+* [Der belgische Justizminister tritt zurück, weil sein Ministerium versagt hat](https://blog.fefe.de/?ts=9bcd769e) - Bei uns ist das Versagen doch ein Gütesiegel um mehr Gelder aus der Wirtschaft in Koffern zu kriegen!
+* [Okta ist kaputt](https://blog.fefe.de/?ts=9bcd85f0)
+* [Pfizer erhöht die Preise von ihrem Covid-Impfstoff um den Faktor vier.](https://blog.fefe.de/?ts=9bcc0e4b) - Begründung? Weil es so ist. Mit der Lüge das die Forschung so teuer ist, können sie beim Covid-Impfstoff ja nicht kommen
+* [Amazon, der alte Sklavenhändler, verbietet seinen Fahrern eine Pinkelpause.](https://blog.fefe.de/?ts=9bcc02f4)
+* [jabber.ru wird wohl seit dem 18.07, auf "Bitten" vom Verteidiger der Demokratie, umgeleitet](https://blog.fefe.de/?ts=9bcc63d0)
+* [litestream wurde in der Version 0.3.12 veröffentlicht.](https://github.com/benbjohnson/litestream/releases/tag/v0.3.12)
+* [>>Endloses weiterscrollen, automatisch abgespielte Videos, permanente Benachrichtigungen: Die Liste der Design-Tricks, mit denen Online-Plattformen die Aufmerksamkeit von Nutzer:innen binden wollen, ist lang. Doch derart süchtig machendes Design ist gesundheitsschädlich [...]<<](https://netzpolitik.org/2023/autoplay-infinite-scrolling-co-suechtig-machende-designs/)
