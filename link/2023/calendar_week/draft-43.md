@@ -9,3 +9,27 @@
 * [Falls ihr euch nicht sicher seit ob Microsoft im Edge ALL eure Suchanfragen und Eingaben mitliest ...](https://www.borncity.com/blog/2023/10/23/microsoft-edge-zeigt-chrome-interessenten-umfrage-statt-download/) - Wenn ihr im Edge nach "Download Webbrowser" sucht, bekommt ihr lieber eine Umfrage präsentiert die euch zeigen soll, wie toll der Edge ist - Gibt doch gar keinen Grund zu wechseln
 * [Realitätsabgleich KI in Behörden - da wird, auf Grund eines Softwarefehlers, 20.000 Familien in die Armut gestürzt.](https://netzpolitik.org/2023/ki-verordnung-auf-der-zielgeraden-welche-schlupfloecher-die-eu-jetzt-noch-schliessen-muss/) - #kannmannichtsmachen
 * [Dank den Whistleblowern wurde bekannt, dass Mobilfunkanbieter unerlaubt Kundendaten an die Schufa weitergegeben hat.](https://www.borncity.com/blog/2023/10/23/schufa-lscht-daten-zu-handyvertrgen/) - Macht euch nichts vor, nur deshalb behaupten Mobilfunkanbieter und Schufa, dass sie diese Daten (nur diese) "löschen" ... wirklich, schwöre! Ich tippe hier maximal auf ein Softdelete (der Datensatz wird als gelöscht markiert, bleibt aber weiterhin in der Datenbank)
+* [cachyos wurde in der Version 6.5.9 veröffentlicht.](https://github.com/CachyOS/linux-cachyos/releases/tag/6.5.9)
+* [ClamAV wurde in der Version 1.2.1 veröffentlicht.](https://github.com/Cisco-Talos/clamav/releases/tag/clamav-1.2.1)
+* [Mermaid wurde in der Version 10.6.0 veröffentlicht.](https://github.com/mermaid-js/mermaid/releases/tag/v10.6.0)
+* [ZFSBootMenu wurde in der Version 2.2.2 veröffentlicht.](https://github.com/zbm-dev/zfsbootmenu/releases/tag/v2.2.2)
+* [litestream wurde in der Version 0.3.13 veröffentlicht.](https://github.com/benbjohnson/litestream/releases/tag/v0.3.13)
+* [restic wurde in der Version 0.16.1 veröffentlicht.](https://github.com/restic/restic/releases/tag/v0.16.1)
+* [ruff wurde in der Version 0.1.2 veröffentlicht.](https://github.com/astral-sh/ruff/releases/tag/v0.1.2)
+* [rector wurde in der Version 0.18.6 veröffentlicht.](https://github.com/rectorphp/rector/releases/tag/0.18.6)
+* [TrueNAS Scale wurde in der Version 23.10.0 veröffentlicht.](https://github.com/truenas/documentation/releases/tag/TS23.10.0)
+* [Keycloak wurde in der Version 22.0.5 veröffentlicht.](https://github.com/keycloak/keycloak/releases/tag/22.0.5)
+* [>>Ist alles genau so, wie es schon lange klar war. Apple verkauft Mist und weiß es, sitzt auf unfassbaren Bargeldbergen und weiß nicht wohin damit, aber überlässt die Finanzierung derartiger Forschung dem Steuerzahler, Konkurrenten und dem Militär.<<](http://blog.fefe.de/?ts=9bc766d1)
+* [Softwarefehler bei Wahlen in der Schweiz ... kann man nichts machen](http://blog.fefe.de/?ts=9bc7dcde)
+* [Vier Tage Woche? Ja schon, aber 40 Stunden pro Woche bleibt.](http://blog.fefe.de/?ts=9bc6a1cf) - Die Kita und der Hort betreuen maximal neun Stunden pro Tag, viel Spaß!
+* [DKB ist kaputt](https://www.borncity.com/blog/2023/10/25/online-banking-bei-dkb-gestrt-25-10-2023/)
+* [Wie funktioniert Lobbyismus? Am Beispiel der Chatontrolle könnt ihr gut sehen, wie US-Amerikanische Firmen jegliches Wertekollektiv unterwandern um imaginäre US-Dollars zu erzeugen.](https://netzpolitik.org/2023/chatkontrolle-lobbyismus-in-37-minuten-zum-termin-mit-der-eu-innenkommissarin/) - Schutz der Kinder? Das Interessiert hier niemanden. Hier geht es um den Verkauf von Gütern die keiner braucht!
+* [Welch große Erkenntnis, Ransomware ist gekommen um zu bleiben.](https://www.bleepingcomputer.com/news/security/ransomware-isnt-going-away-the-problem-is-only-getting-worse/) - Das waren wieder die Meister vom CIA die das herausgefunden haben!
+* [>>Um Johansson wirklich für ihren vom Ausland beeinflussten Gesetzesvorschlag und ihren Lobbyismus im Amt zur Rechenschaft ziehen zu können, hat mein Ausschuss auf unsere Initiative vollen Zugang zum gesamten Schriftverkehr ihrer Innenbehörde mit Lobbyorganisationen gefordert – etwa zu den geheim gehaltenen Briefen der dubiosen US-Stiftung Thorn. Nur dann können wir das ganze Ausmaß der Verstrickung mit eigenen Augen sehen.<<](https://www.patrick-breyer.de/chatkontrolle-innenkommissarin-johansson-rechtfertigt-vergeblich-lobbying-verbindungen-im-libe-ausschuss/)
+* [Stratis wurde in der Version 3.6 veröffentlicht.](https://www.phoronix.com/news/Stratis-Storage-3.6)
+* [Kuketz ist so nett und hat eine Vorlage für WhatsApp-Schulgruppen veröffentlicht.](https://www.kuketz-blog.de/eltern-whatsapp-gruppe-in-der-schule-meine-reaktion/)
+* [Firefox wurde in den Versionen 115.4 EST und 119 veröffentlicht.](https://www.borncity.com/blog/2023/10/25/firefox-119-und-115-4-esr-freigegeben/)
+* [freecodecamp.org hat ein Video mit einer Länge von 26 Stunden veröffentlicht, welches euch die Grundlagen es programmieren beibringt.](https://www.freecodecamp.org/news/harvard-university-cs50-computer-science-course-2023/)
+* [Kuketz fasst zusammen, warum der Brave-Browser keine Alternative ist.](https://www.kuketz-blog.de/brave-browser-warum-ich-ihn-gecko-basierten-browsern-firefox-vorziehe/)
+* [Acxiom handelt wahrscheinlich illegal mit euren Daten und was macht die Firma als man dies entdeckt hat? Mit allen juristischen Winkeladvokaten dagegen vorgehen und die heilige Salamietaktik anwenden.](https://noyb.eu/de/address-trader-sues-german-dpa-prevent-noyb-accessing-files) - Ein Spiel auf Zeit welches die Menschheit keinen Meter voranbringt. Danke noyb für eure Anstrengung!
+* [Ihr wollt eurer Rust-Programm automatisiert in fertige Releases packen? orhun.dev zeigt euch einen Weg.](https://blog.orhun.dev/automated-rust-releases/)
