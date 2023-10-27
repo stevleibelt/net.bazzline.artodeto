@@ -1,7 +1,7 @@
 * [Verflochtene Softwarewelt und niemand kann die Komplexität mehr beherrschen - selbst Ransomwaregruppen.](http://blog.fefe.de/?ts=9bcba7d0)
 * [Onlyoffice wurde in der Version 7.5 veröffentlicht.](https://www.linux-magazin.de/news/aktualisiertes-onlyoffice-oeffnet-und-bearbeitet-pdf-dokumente/)
 * [Last Week Tonight stellt in einfacher Sprache McKinsey vor und warum Firmen wie diese dringend eine Warmsanierung benötigen.](http://blog.fefe.de/?ts=9bc8a3c6)
-* [sqlmodel wurde in der Version 0.0.9 veröffentlicht.](https://github.com/tiangolo/sqlmodel/releases/tag/0.0.9)
+* [sqlmodel wurde in der Version 0.0.10 veröffentlicht.](https://github.com/tiangolo/sqlmodel/releases/tag/0.0.10)
 * [black wurde in der Version 23.10.1 veröffentlicht.](https://github.com/psf/black/releases/tag/23.10.1)
 * [ratatui wurde in der Version 0.24.0 veröffentlicht.](https://github.com/ratatui-org/ratatui/releases/tag/v0.24.0)
 * [Danke liebes Landesgericht in Heilbronn. Ich hab das all meinen Banken auch immer erklärt, aber niemand hört zu. Das Push-TAN-Verfahren ist unsicher.](https://www.borncity.com/blog/2023/10/24/gericht-stuft-push-tan-verfahren-der-banken-als-unsicher-ein/) - Und damit dann alle "Apps" auf dem Schmierphone. Das ist den Banken aber egal, denn die wollen deinen Bewegungsdaten haben und das ist rechtlich über Apps noch nicht verboten
@@ -33,3 +33,15 @@
 * [Kuketz fasst zusammen, warum der Brave-Browser keine Alternative ist.](https://www.kuketz-blog.de/brave-browser-warum-ich-ihn-gecko-basierten-browsern-firefox-vorziehe/)
 * [Acxiom handelt wahrscheinlich illegal mit euren Daten und was macht die Firma als man dies entdeckt hat? Mit allen juristischen Winkeladvokaten dagegen vorgehen und die heilige Salamietaktik anwenden.](https://noyb.eu/de/address-trader-sues-german-dpa-prevent-noyb-accessing-files) - Ein Spiel auf Zeit welches die Menschheit keinen Meter voranbringt. Danke noyb für eure Anstrengung!
 * [Ihr wollt eurer Rust-Programm automatisiert in fertige Releases packen? orhun.dev zeigt euch einen Weg.](https://blog.orhun.dev/automated-rust-releases/)
+* [Das Sächsiche Oberbergamt aus Freiberg stellt sich im Jahr 2023 in diesem Video vor.](https://www.youtube.com/watch?v=xHlCJkXGEOA)
+* [Genode Sculpt wurde in der Version 23.10 veröffentlicht.](https://github.com/genodelabs/genode/releases/tag/sculpt-23.10)
+* [python eduvpn client wurde in der Version 4.1.99.0 veröffentlicht.](https://github.com/eduvpn/python-eduvpn-client/releases/tag/4.1.99.0)
+* [Mit 38 zu 2 Stimmen hat der EU-Ausschuss für das Recht auf Reparatur gestimmt.](https://www.linux-magazin.de/news/eu-ausschuss-will-recht-auf-reparatur/)
+* [ruff wurde in der Version 0.1.3 veröffentlicht.](https://github.com/astral-sh/ruff/releases/tag/v0.1.3)
+* [authentik wurde in der Version 2023.10.1 veröffentlicht.](https://github.com/goauthentik/authentik/releases/tag/version/2023.10.1)
+* [davx5-ose wurde in der Version 4.3.9 veröffentlicht.](https://github.com/bitfireAT/davx5-ose/releases/tag/v4.3.9-ose)
+* [Mist, RFID kann man jetzt aus Papier bauen.](http://blog.fefe.de/?ts=9bc4f821)
+* [VWware vCenter Server und Cloud Foundation sind kaputt.](http://blog.fefe.de/?ts=9bc4fd57)
+* [OpenSSL ist kaputt.](http://blog.fefe.de/?ts=9bc48f7a)
+* [Wow, das EuGH sagt mehr oder minder "solange du einen befreundeten Geheimdienst findest, der der Meinung ist er hätte diese Daten über dich wirklich irgendwo gefunden, werden diese vor Gericht verwendet und als echt eingestuft"](http://blog.fefe.de/?ts=9bc46914) - Damit kann jeder, jederzeit gefickt werden
+* [>>Historische Einigung: Europäisches Parlament will Chatkontrolle stoppen und sichere Verschlüsselung garantieren<<](https://www.patrick-breyer.de/historische-einigung-europaeisches-parlament-will-chatkontrolle-stoppen-und-sichere-verschluesselung-garantieren/)
