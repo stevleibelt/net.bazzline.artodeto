@@ -45,3 +45,9 @@
 * [OpenSSL ist kaputt.](http://blog.fefe.de/?ts=9bc48f7a)
 * [Wow, das EuGH sagt mehr oder minder "solange du einen befreundeten Geheimdienst findest, der der Meinung ist er hätte diese Daten über dich wirklich irgendwo gefunden, werden diese vor Gericht verwendet und als echt eingestuft"](http://blog.fefe.de/?ts=9bc46914) - Damit kann jeder, jederzeit gefickt werden
 * [>>Historische Einigung: Europäisches Parlament will Chatkontrolle stoppen und sichere Verschlüsselung garantieren<<](https://www.patrick-breyer.de/historische-einigung-europaeisches-parlament-will-chatkontrolle-stoppen-und-sichere-verschluesselung-garantieren/)
+* [Spannende Frage, wie ist das mit der Meldepflicht nach DSGVO wenn der Exchange explodiert?](https://www.borncity.com/blog/2023/10/28/sind-zwischenflle-in-exchange-online-mit-offenlegung-von-daten-dsgvo-meldepflichtig/)
+* [Die Künstler, die Bandcamp nutzen, haben große Sorge wie Bandcamp durch den Verkauf jetzt umgebaut wird.](https://www.welcometohellworld.com/they-can-and-will-ruin-everything-you-love/) - Ich als Nutzer würde mich auch freuen, wenn es einfach so bleibt wie es ist. Bandcamp ist die einzige Plattform bei der ich digital Musik kaufe.
+* [Geany wurde in der Version 2.0 veröffentlicht.](https://gnulinux.ch/geany-2-0-ist-da)
+* [HeavyScript wurde in der VErsion 2.6.2 veröffentlicht.](https://github.com/Heavybullets8/heavy_script/releases/tag/v2.6.2)
+* [phpqa wurde in der Version 1.92.2 veröffentlicht.](https://github.com/jakzal/phpqa/releases/tag/v1.92.2)
+* [cachet wurde in der Version 2.4.0 veröffentlicht.](https://github.com/cachethq/cachet/releases/tag/v2.4.0)
