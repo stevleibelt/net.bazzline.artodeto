@@ -1,7 +1,7 @@
 * [Verflochtene Softwarewelt und niemand kann die Komplexität mehr beherrschen - selbst Ransomwaregruppen.](http://blog.fefe.de/?ts=9bcba7d0)
 * [Onlyoffice wurde in der Version 7.5 veröffentlicht.](https://www.linux-magazin.de/news/aktualisiertes-onlyoffice-oeffnet-und-bearbeitet-pdf-dokumente/)
 * [Last Week Tonight stellt in einfacher Sprache McKinsey vor und warum Firmen wie diese dringend eine Warmsanierung benötigen.](http://blog.fefe.de/?ts=9bc8a3c6)
-* [sqlmodel wurde in der Version 0.0.10 veröffentlicht.](https://github.com/tiangolo/sqlmodel/releases/tag/0.0.10)
+* [sqlmodel wurde in der Version 0.0.11 veröffentlicht.](https://github.com/tiangolo/sqlmodel/releases/tag/0.0.11)
 * [black wurde in der Version 23.10.1 veröffentlicht.](https://github.com/psf/black/releases/tag/23.10.1)
 * [ratatui wurde in der Version 0.24.0 veröffentlicht.](https://github.com/ratatui-org/ratatui/releases/tag/v0.24.0)
 * [Danke liebes Landesgericht in Heilbronn. Ich hab das all meinen Banken auch immer erklärt, aber niemand hört zu. Das Push-TAN-Verfahren ist unsicher.](https://www.borncity.com/blog/2023/10/24/gericht-stuft-push-tan-verfahren-der-banken-als-unsicher-ein/) - Und damit dann alle "Apps" auf dem Schmierphone. Das ist den Banken aber egal, denn die wollen deinen Bewegungsdaten haben und das ist rechtlich über Apps noch nicht verboten
@@ -51,3 +51,11 @@
 * [HeavyScript wurde in der VErsion 2.6.2 veröffentlicht.](https://github.com/Heavybullets8/heavy_script/releases/tag/v2.6.2)
 * [phpqa wurde in der Version 1.92.2 veröffentlicht.](https://github.com/jakzal/phpqa/releases/tag/v1.92.2)
 * [cachet wurde in der Version 2.4.0 veröffentlicht.](https://github.com/cachethq/cachet/releases/tag/v2.4.0)
+* [Wird die Zeitumstellung am Ende nur nicht abgeschafft, damit man zweimal im Jahr medial etwas zu berichten hat um von Kriegen abzulenken?](https://blog.fefe.de/?ts=9bc385c3)
+* [>>Und da haben wir die Standards in Großbritannien seit dem EU-Austritt, meine Damen und Herren. Einschüchterung, kein Recht sich selbst nicht zu belasten, und kein Anwalt.<<](https://blog.fefe.de/?ts=9bc3ce62) - Das alles im Rahmen der US-Amerikanischen Wahlbotschaft "Spielt mit uns oder wir werden euch kaputt spielen!"
+* [broot wurde in der Version 1.27.0 veröffentlicht.](https://github.com/Canop/broot/releases/tag/v1.27.0)
+* [changedetection.io wurde in der Version 0.45.5 veröffentlicht.](https://github.com/dgtlmoon/changedetection.io/releases/tag/0.45.5)
+* [okd wurde in der Version 4.14.0-0.okd-2023-10-28-073550 veröffentlicht.](https://github.com/okd-project/okd/releases/tag/4.14.0-0.okd-2023-10-28-073550)
+* [Nextcloud server wurde in der Version 25.0.13 veröffentlicht.](https://github.com/nextcloud/server/releases/tag/v25.0.13)
+* [Nextcloud server wurde in der Version 26.0.8 veröffentlicht.](https://github.com/nextcloud/server/releases/tag/v26.0.8)
+* [Nextcloud server wurde in der Version 27.1.3 veröffentlicht.](https://github.com/nextcloud/server/releases/tag/v27.1.3)
