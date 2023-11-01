@@ -15,3 +15,10 @@
 * [Die Europawahl 2024 steht wieder an. Sichert euch schon jetzt eure Unterschrift für DIE PARTEI!](https://www.die-partei.de/2023/10/30/hurra-endlich-wieder-unterschreiben/)
 * [Eigentlich geht es hierbei um Python und automatisierte Datenexporte via E-Mail aber ihr lernt so viel mehr.](https://www.freecodecamp.org/news/automate-data-exports-email-reports-with-python/)
 * [GhostBSD wurde in der Version 23.10.1 veröffentlicht.](https://www.phoronix.com/news/GhostBSD-23.10.1-Released)
+* [Siemens will KI nutzen um Simulationszeiten zu verkürzen.](http://blog.fefe.de/?ts=9bbfb7ee) - Ähm, #weißichnicht
+* [SEC verklagt Solarwinds.](http://blog.fefe.de/?ts=9bbff8f1) - Mal schauen wann sie sich Microsoft, Cisco etc. zur Brust nehmen
+* [TrueNAS Scale wurde in der Version 23.10.0.1 veröffentlicht.](https://github.com/truenas/documentation/releases/tag/TS23.10.0.1)
+* [HTML-E-Mails stoßen an die Grenzen von gut implementierten, technischen Sicherheitsmerkmalen.](https://utcc.utoronto.ca/~cks/space/blog/web/RealHTMLCanGetABitCrazy)
+* [O-Ton DSGVO: >>Die Behörden knüppeln lieber den Hobby-Webseitenbetreiber nieder, als dass sie sich mit Wirtschaftsanwälten größerer Unternehmen anlegen.<<](https://www.borncity.com/blog/2023/11/01/dsgvo-und-die-ohnmacht-der-datenschutzbehrden-gegenber-firmen/)
+* [Incus wurde in der Version 0.2 veröffentlicht.](https://lwn.net/Articles/949411/)
+* [Hartes Thema zu Halloween, aber im Land der Freiheit gibt es Drogenkartelle die Halloween nutzen um eure Kinder zu Süchtigen zu machen.](https://www.welcometohellworld.com/the-absurdity-of-the-halloween-fentanyl-candy-panic-2/) - Also nicht nur zu Zuckersüchtigen
