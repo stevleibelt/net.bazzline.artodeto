@@ -22,3 +22,10 @@
 * [O-Ton DSGVO: >>Die Behörden knüppeln lieber den Hobby-Webseitenbetreiber nieder, als dass sie sich mit Wirtschaftsanwälten größerer Unternehmen anlegen.<<](https://www.borncity.com/blog/2023/11/01/dsgvo-und-die-ohnmacht-der-datenschutzbehrden-gegenber-firmen/)
 * [Incus wurde in der Version 0.2 veröffentlicht.](https://lwn.net/Articles/949411/)
 * [Hartes Thema zu Halloween, aber im Land der Freiheit gibt es Drogenkartelle die Halloween nutzen um eure Kinder zu Süchtigen zu machen.](https://www.welcometohellworld.com/the-absurdity-of-the-halloween-fentanyl-candy-panic-2/) - Also nicht nur zu Zuckersüchtigen
+* [fwupd wurde in der Version 1.9.7 veröffentlicht.](https://github.com/fwupd/fwupd/releases/tag/1.9.7)
+* [archlinux archzfs linux lts dkms wurde in der Version 20231101 veröffentlicht.](https://github.com/stevleibelt/arch-linux-live-cd-iso-with-zfs/releases/tag/20231101)
+* [Selenium wurde in der Version 4.15 veröffentlicht.](https://github.com/SeleniumHQ/selenium/releases/tag/selenium-4.15.0)
+* [Citrix ist kaputt](http://blog.fefe.de/?ts=9bbcd54e)
+* [T-Systems kümmert sich um die digitale Identität beim Projekt Gaia X](http://blog.fefe.de/?ts=9bbcd6cc) - Schade, damit ist das Projekt jetzt schon offiziell abgeschrieben und nicht nutzbar
+* [Leute, patched eure Apache ActiveMQ Server](https://www.bleepingcomputer.com/news/security/3-000-apache-activemq-servers-vulnerable-to-rce-attacks-exposed-online/) - Oder hat da wieder eine closed source Bude open source Software genommen und bietet kein Update an?
+* [>>Digitales Bezahlen mit dem Smartphone ist datenschutzfreundlich möglich – wenn die Bank eigene Apps anbietet. Genau diese Einschränkung dürfte für viele ein Knackpunkt sein.<<](https://www.kuketz-blog.de/nfc-datenschutzfreundlich-bezahlen-mit-dem-android-phone/)
