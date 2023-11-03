@@ -29,3 +29,19 @@
 * [T-Systems kümmert sich um die digitale Identität beim Projekt Gaia X](http://blog.fefe.de/?ts=9bbcd6cc) - Schade, damit ist das Projekt jetzt schon offiziell abgeschrieben und nicht nutzbar
 * [Leute, patched eure Apache ActiveMQ Server](https://www.bleepingcomputer.com/news/security/3-000-apache-activemq-servers-vulnerable-to-rce-attacks-exposed-online/) - Oder hat da wieder eine closed source Bude open source Software genommen und bietet kein Update an?
 * [>>Digitales Bezahlen mit dem Smartphone ist datenschutzfreundlich möglich – wenn die Bank eigene Apps anbietet. Genau diese Einschränkung dürfte für viele ein Knackpunkt sein.<<](https://www.kuketz-blog.de/nfc-datenschutzfreundlich-bezahlen-mit-dem-android-phone/)
+* [Die Politiker haben weggeschaut und Schmiergelder kassiert, doch das ist egal, denn wir haben den Schuldigen. Schaut nur in diese eine Richtung dort!](http://blog.fefe.de/?ts=9bba8318)
+* [Gewinne Privatisieren, Verluste Sozialisieren. Es geht weiter, statt gesetzlich festzuhalten, dass sichere Software geschrieben und diese mindest 20 Jahre unterstützt werden muss, verschwenden marktnahe Politiker die Steuergelder und richten eine Notfallnummer bei Hackerangriffen für Firmen ein.](http://blog.fefe.de/?ts=9bbd101f)
+* [Microsoft wirbt jetzt schon damit, dass sie in Zukunft ihre Software etwaig irgendwie testen. Ganz klein steht dann "mit KI".](http://blog.fefe.de/?ts=9bbd1095) - Da kannst du auch eine Banane gegen einen Stahlträger hauen um hinterher einen Aufkleber "geprüft" drauf zu kleben
+* [Solarwinds gibt offen zu, dass sie Backdoors haben doch niemand interssiert es.](http://blog.fefe.de/?ts=9bbd6dfd)
+* [Bun wurde in der Version 1.0.8 veröffentlicht.](https://github.com/oven-sh/bun/releases/tag/bun-v1.0.8)
+* [Cloud-Hypervisor wurde in der Version 36.0 veröffentlicht.](https://github.com/cloud-hypervisor/cloud-hypervisor/releases/tag/v36.0)
+* [sqlalchemy wurde in der Version 2.0.23 veröffentlicht.](https://github.com/sqlalchemy/sqlalchemy/releases/tag/rel_2_0_23)
+* [PHP infection wurde in der Version 0.27.7 veröffentlicht.](https://github.com/infection/infection/releases/tag/0.27.7)
+* [Ihr habt 20 Stunden Zeit? Klasse, freecodecamp.org bietet euch ein Video an, mit dem Ihr HTML und CSS in dieser Zeit lernt.](https://www.freecodecamp.org/news/learn-web-development-with-this-free-20-hour-course/)
+* [mdr.de: Neuer Entdeckerpfad in Freiberg](https://www.mdr.de/video/mdr-videos/a/video-769540.html)
+* [Hoffentlich nur exemplarisch, die EU verbietet personalisierte Werbung auf Hackfressenbuch.](https://netzpolitik.org/2023/soziale-netzwerke-europaeischer-datenschutzausschuss-verbietet-meta-personalisierte-werbung/) - Können Sie bitte gleich mit Google und den restlichen Dreck weitermachen?
+* [Glück Auf TV: Pi-Haus Freiberg eröffnet Digitales Lokallabor](https://www.youtube.com/watch?v=oC0dCv2vio4)
+* [Die EU zwingt euch "freundlich" zur Nutzung von Apps und zur freiwilligen Ausgabe eurer Biometriedaten wenn ihr über die Grenzen wollt.](https://netzpolitik.org/2023/einreise-ausreisesystem-eu-will-drohendes-grenzchaos-mit-biometrie-und-app-verhindern/) - Müsst ihr wisse, wenn ihr das nicht macht, wartet ihr Stundenlang und verpasst ggf. euren Flieger. Warum? Damit Frontext und Interpol Daten sammeln können
+* [Nein? Doch! Oh? Es soll EU-Abgeordnete geben, die mit der Schweigerunde im ersten Staatstrojaner-Ausschuss unzufrieden sind.](https://netzpolitik.org/2023/unzufrieden-mit-der-kommission-eu-abgeordnete-erwaegen-zweiten-staatstrojaner-ausschuss/)
+* [Home Assistant wurde in der Version 2023.11 veröffentlicht.](https://www.home-assistant.io/blog/2023/11/01/release-202311/)
+* [Wenn ihr JDK oder JRE auf eurem arch linux installiert habt, müsst ihr einmal kurz selbst Hand anlegen.](https://archlinux.org/news/incoming-changes-in-jdk-jre-21-packages-may-require-manual-intervention/)
