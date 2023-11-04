@@ -45,3 +45,15 @@
 * [Nein? Doch! Oh? Es soll EU-Abgeordnete geben, die mit der Schweigerunde im ersten Staatstrojaner-Ausschuss unzufrieden sind.](https://netzpolitik.org/2023/unzufrieden-mit-der-kommission-eu-abgeordnete-erwaegen-zweiten-staatstrojaner-ausschuss/)
 * [Home Assistant wurde in der Version 2023.11 veröffentlicht.](https://www.home-assistant.io/blog/2023/11/01/release-202311/)
 * [Wenn ihr JDK oder JRE auf eurem arch linux installiert habt, müsst ihr einmal kurz selbst Hand anlegen.](https://archlinux.org/news/incoming-changes-in-jdk-jre-21-packages-may-require-manual-intervention/)
+* [Dank cloudflare bleiben Dienste dahinter länger als 24 Stunden offline.](https://blog.fefe.de/?ts=9bbbe9d8) - Profis die ihr Geld wert sind!
+* [>>Microsoft gibt an, pro Tag mehr als 65 Trillionen Signale von Geräten zu bekommen.<<](https://blog.fefe.de/?ts=9bba320d) - Dinge wie diese ist es, warum die IT-Infrastruktur so viel Strom und Geld kostet, alles unnötig
+* [Olaf Schulz gibt sich wirklich Mühe Helmut Kohl vom Thron der Politiker-Clan-Kriminalität zu stoßen](https://blog.fefe.de/?ts=9bba1d01)
+* [Mezzio wurde in der Version 3.18.0 veröffentlicht.](https://github.com/mezzio/mezzio/releases/tag/3.18.0)
+* [DragonfylDB wurde in der Version 1.12.0 veröffentlicht.](https://github.com/dragonflydb/dragonfly/releases/tag/v1.12.0)
+* [ruff wurde in der Version 0.1.4 veröffentlicht.](https://github.com/astral-sh/ruff/releases/tag/v0.1.4)
+* [mold wurde in der Version 2.3.2 veröffentlicht.](https://github.com/rui314/mold/releases/tag/v2.3.2)
+* [Heroic Games Launcher wurde in der Version 2.10.0 veröffentlicht.](https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher/releases/tag/v2.10.0)
+* [privacy.sexy wurde in der Version 0.12.6 veröffentlicht.](https://github.com/undergroundwires/privacy.sexy/releases/tag/0.12.6)
+* [Wie gut funktioniert hire and fire? Seht ihr bei Cloudflare.](https://blog.fefe.de/?ts=9bb8b158)
+* [Okta holt sich den Hattrick und ist wieder kaputt.](https://blog.fefe.de/?ts=9bbbbd08)
+* [Microsoft Exchange ist kaputt.](https://www.bleepingcomputer.com/news/microsoft/new-microsoft-exchange-zero-days-allow-rce-data-theft-attacks/)
