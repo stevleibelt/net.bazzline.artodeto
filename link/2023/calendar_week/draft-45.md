@@ -30,3 +30,15 @@
 * [Ihr wollt Java lernen? Hier gibt es ein guide!](https://www.freecodecamp.org/news/learn-java-object-oriented-programming/)
 * [>>Standardmäßig sind die Cloud-Backups von WhatsApp nicht verschlüsselt. Somit landen Fotos, Bilder, Videos, Audiodateien bzw. jegliche Kommunikation unverschlüsselt in der Google- bzw. Apple-Cloud<<](https://www.kuketz-blog.de/whatsapp-wie-sich-datenschutz-privatsphaere-verbessern-laesst-teil1/) - Fragt man sich gleich "warum"?
 * [Am 06.12.2023 könnt ihr Marco Bülow und Fabio de Masi in Brüssel bei Martin Sonneborn besuchen und ihnen beim Reden über das Thema >>Die Spur des Geldes - Wie Profitlobbyismus Europa spaltet<< lauschen.](https://martinsonneborn.de/die-spuer-des-geldes-marco-buelow-und-fabio-de-masi-in-bruessel/)
+* [arch Linux Archios builder with zfs support wurde in der Version 2.11.1 veröffentlicht.](https://github.com/stevleibelt/arch-linux-live-cd-iso-with-zfs/tree/2.11.1)
+* [IT-Sicherheit machen wir später ... sagten leider auch Banken.](https://blog.fefe.de/?ts=9bb0a875) - Es ist wirklich alles kaputt
+* [Netflix, Hackfressenbuch, alle kriegen den Hals und die Rendite nicht voll und bietet jetzt einen werbefreien Dienst an.](https://blog.fefe.de/?ts=9bb0f8ff)
+* [Kleine Nukular-Reaktoren können preislich nicht mit erneuerbaren Energien mithalten.](https://blog.fefe.de/?ts=9bb0ef82) - Klar, Atomenergie muss nur noch ein paar Jahrzehnte länger subventioniert werden, DANN KLAPPT DAS BESTIMMT!
+* [OpenVPN wurde in der Version 2.6.7 veröffentlicht.](https://github.com/OpenVPN/openvpn/releases/tag/v2.6.7)
+* [Slint wurde in der Version 1.3.0 veröffentlicht.](https://github.com/slint-ui/slint/releases/tag/v1.3.0)
+* [Der Biometrische Reisepass für Kinder wird für 2024 Pflicht und die Kinder dürfen darauf nicht lächeln.](https://netzpolitik.org/2023/keine-satire-das-alberne-schauspiel-mit-dem-biometrischen-kinderpass/) - Wird wohl auf Heimurlaub hinauslaufen
+* [Denn sie wissen nicht was sie tuen, oder ihnen ist es scheißegal - Gesundheitsdaten die kostenfrei und nicht anonymisiert zu privaten Firmen fließen.](https://netzpolitik.org/2023/debatte-im-bundestag-abgeordnete-schwaermen-von-fliessenden-gesundheitsdaten/)
+* [Nein? Doch! Oh? Das deutsche Kartellrecht könnte Amazon zerschlagen.](https://netzpolitik.org/2023/lobbycontrol-gutachten-neues-kartellrecht-erlaubt-zerschlagung-von-amazon/)
+* [Bruce Schneier bietet euch einen kurzen Realitätsabgleich zum Thema Datenschutz im Smartcar der Gegenwart](https://www.schneier.com/blog/archives/2023/11/the-privacy-disaster-of-modern-smart-cars.html) - Die Jugendsprache würde sagen, dem Car geht's gar nicht gut
+* [Glück Auf TV: Freizetmesse 50Plus in Freiberg](https://www.youtube.com/watch?v=CC2QWddnrD8)
+* [Hier wird euch in zwei Minuten gezeigt wie ihr gescheite Commit-Nachrichten schreibt.](https://www.freecodecamp.org/news/how-to-write-commit-messages-maintainers-will-like/)
