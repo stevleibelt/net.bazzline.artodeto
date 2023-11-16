@@ -1,0 +1,17 @@
+* [Kommunismus ist in Florida ausgebrochen, da zahlt eine Restaurantkette bessere Löhne und bietet bessere Arbeitsbedinungen als die Mitbewerber und schon bleiben die Arbeitskräfte. Es kommen sogar neue hinzu!](https://blog.fefe.de/?ts=9bab2763) - Diese Restaurantkette wird doch von Russland bezahlt!
+* [Ein Vlkerrechtsprofessor gibt Krankenhäuser zum Abschuss frei.](https://blog.fefe.de/?ts=9babf879)
+* [Oligopole wirken ... für die Gewinnempfänger, Konzerne ohne Herz wie RWE machen doppelt so hohe Gewinne wie im Vorjahr.](https://blog.fefe.de/?ts=9babc6a7) - Das muss an den erhöhren Beschaffungskosten liegen, die sie ihren Zwangskunden einreden
+* [Jedes Jahr aufs Neue, spendet nichts der deutschen Wikipedia, die, die das Geld erhalten tuen nichts für die deutsche Wikipedia](https://blog.fefe.de/?ts=9bac8275) - Spendet lieber netzpolitik, oder digitalcourage oder, oder, oder dem Obdachlosen den ihr am Morgen begegnet
+* [Gewinne privatisieren, heute die Agentur für Steuerhinterziehung "Siemens"](https://blog.fefe.de/?ts=9bac8ed9)
+* [Scholz lügt auf Bundesebene wie damals auf Landesebene - "Mehr sozialer Wohnungsbau"](https://blog.fefe.de/?ts=9baccbda) - Das hat er in Hamburg ja schon mehrere Jahre verhindert
+* [Legitify wurde in der Version 1.0.4 veröffentlicht.](https://github.com/Legit-Labs/legitify/releases/tag/v1.0.4)
+* [Pappl wurde in der Version 1.4.3 veröffentlicht.](https://github.com/michaelrsweet/pappl/releases/tag/v1.4.3)
+* [fwupd wurde in der Version 1.9.8 veröffentlicht.](https://github.com/fwupd/fwupd/releases/tag/1.9.8)
+* [Mold wurde in der Version 2.3.3 veröffentlicht.](https://github.com/rui314/mold/releases/tag/v2.3.3)
+* [dav5x.ose wurde in der Version 4.3.10-ose veröffentlicht.](https://github.com/bitfireAT/davx5-ose/releases/tag/v4.3.10-ose)
+* [Rust wurde in der Version 1.74.0 veröffentlicht.](https://blog.rust-lang.org/2023/11/16/Rust-1.74.0.html)
+* [Wo wir bei sinvollen Spenden sind - Bullshit Busters](https://netzpolitik.org/2023/bullshit-busters-kaempft-mit-uns-gegen-den-bullshit-spendet-jetzt/)
+* [gitea wurde in der Version 1.21.0 veröffentlicht.](https://github.com/go-gitea/gitea/releases/tag/v1.21.0)
+* [Glück Auf TV: Weihnachtsbaum auf Freiberger Obermarkt aufgestellt](https://www.youtube.com/watch?v=IpKDj68CEE8)
+* [Na Huch? Die Covid-19-Impfungen waren mit vollständiger DNA verunreinigt.](https://impfentscheidung.online/nachgewiesen-auch-durch-ein-deutsches-labor-verunreinigungen-der-covid-19-impfungen-mit-vollstaendiger-dna/) - Viel Spaß mit dem dritten Arm
+* [Was macht man damit Frontext mehr Gelder bekommt und die Seenotrettung wie Terroristen aussehen? Genau, Zahlenverdrehen!](https://netzpolitik.org/2023/desinformation-innenministerium-verdreht-fakten-zu-geplanter-kriminalisierung-von-seenotrettung/)
