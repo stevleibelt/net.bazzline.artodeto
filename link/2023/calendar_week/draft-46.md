@@ -15,3 +15,9 @@
 * [Glück Auf TV: Weihnachtsbaum auf Freiberger Obermarkt aufgestellt](https://www.youtube.com/watch?v=IpKDj68CEE8)
 * [Na Huch? Die Covid-19-Impfungen waren mit vollständiger DNA verunreinigt.](https://impfentscheidung.online/nachgewiesen-auch-durch-ein-deutsches-labor-verunreinigungen-der-covid-19-impfungen-mit-vollstaendiger-dna/) - Viel Spaß mit dem dritten Arm
 * [Was macht man damit Frontext mehr Gelder bekommt und die Seenotrettung wie Terroristen aussehen? Genau, Zahlenverdrehen!](https://netzpolitik.org/2023/desinformation-innenministerium-verdreht-fakten-zu-geplanter-kriminalisierung-von-seenotrettung/)
+* [Widerstand hilft, Apple baut zumindest schon einmal RCS in sein iIrgendwas ein.](https://blog.fefe.de/?ts=9ba8bd67)
+* [In Schweden funktionieren Gewerkschaften noch.](https://blog.fefe.de/?ts=9ba8aa40)
+* [Wie ernst werden Gesetze genommen da der "schmale Staat" kein Geld dafür hat Übeltätern nachzugehen? Hier könnt ihr dies beim Thema Benachrichtungspflichten sehen.](https://blog.fefe.de/?ts=9ba8a917)
+* [>>Ja, richtig gelesen, meine Damen und Herren. Die CDU/CSU-Fraktion klagt dagegen, dass jemand den Klimawandel abzuwenden versucht. Merkt euch das mal für die nächste Wahl.<<](https://blog.fefe.de/?ts=9ba85f50)
+* [Nein? Doch! Oh? KI ist in Sachen Diskriminierungsende auch keine Lösung.](https://netzpolitik.org/2023/diskriminierende-facebook-anzeigen-ki-ist-auch-keine-loesung/)
+* [librenms wurde in der Version 23.11.0 veröffentlicht.](https://github.com/librenms/librenms/releases/tag/23.11.0)
