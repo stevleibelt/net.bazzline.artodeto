@@ -31,3 +31,6 @@
 * [ruff wurde in der Version 0.1.6 veröffentlicht.](https://github.com/astral-sh/ruff/releases/tag/v0.1.6)
 * [Glück Auf TV: Unterwegs im Erzgebirge: Seiffen](https://www.youtube.com/watch?v=xqYOPIeJSeM)
 * [Kuketz erklärt euch wie ihr RethinkDNS unter Android nutzt.](https://www.kuketz-blog.de/rethinkdns-tipps-zur-bedienung-und-konfiguration/)
+* [Online-Werbung wird endlich als das gesehen was es ist, als ernstes Sicherheitsrisiko (und als ökologischer Wahnsinn)](https://netzpolitik.org/2023/buergerrechtsorganisation-warnt-online-werbung-als-ernstes-sicherheitsrisiko/)
+* [Geht ihm genauso wie mir, argparse unter python3 ist ein Segen.](https://utcc.utoronto.ca/~cks/space/blog/python/ArgparseEncouragesOptions)
+* [heavy_script wurde in der Version 2.6.4 veröffentlicht.](https://github.com/Heavybullets8/heavy_script/releases/tag/v2.6.4)
