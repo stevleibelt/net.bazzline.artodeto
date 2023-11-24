@@ -39,3 +39,12 @@
 * [OpenZFS 2.2.0 ist kaputt.](https://www.phoronix.com/news/OpenZFS-2.2.1-Released)
 * [archinstall wurde in der Version 2.7.0 veröffentlicht.](https://github.com/archlinux/archinstall/releases/tag/v2.7.0)
 * [bun wurde in der Version 1.0.14 veröffentlicht.](https://github.com/oven-sh/bun/releases/tag/bun-v1.0.14)
+* [All eure Einkaufsdaten von "Bauhaus Plus Card" finden sich im Internet.](https://blog.fefe.de/?ts=9ba19f95) - Daher "Rabatkarten? Nein Danke"
+* [keycloak wurde in der Version 23.0.0 veröffentlicht.](https://github.com/keycloak/keycloak/releases/tag/23.0.0)
+* [flet wurde in der Version 0.13.0 veröffentlicht.](https://github.com/flet-dev/flet/releases/tag/v0.13.0)
+* [nextcloud server wurde in der Version 27.1.4 veröffentlicht.](https://github.com/nextcloud/server/releases/tag/v27.1.4)
+* [VKD3D-Proton wurde in der Version 2.11 veröffentlicht.](https://www.phoronix.com/news/VKD3D-Proton-2.11-Released)
+* [PHP wurde in der Version 8.3.0 veröffentlicht.](https://www.linux-magazin.de/news/php-8-3-0-veroeffentlicht/)
+* [Google macht seine Webseiten für Firefox mit Vorsatz und Absicht langsamer](https://www.onli-blogging.de/2322/Linksammlung-472023.html) - Nur damit es in deren Werbe- und Überwachungsschleuder Chrome besser da steht. WIXER!
+* [Der Rotstift der Bundesregierung wird natürlich auch bei der freien Software angesetzt.](https://www.linux-magazin.de/news/osba-kritisiert-kuerzungen-bei-open-source-im-bundeshaushalt/) - Langfristig rechnen können die Quartalsdenker der Blockpartei seit 1953 nicht mehr
+* [OpenSSL wurde in der Version 3.2 veröffentlicht.](https://www.phoronix.com/news/OpenSSL-3.2-Released)
