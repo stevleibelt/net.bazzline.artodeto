@@ -48,3 +48,9 @@
 * [Google macht seine Webseiten für Firefox mit Vorsatz und Absicht langsamer](https://www.onli-blogging.de/2322/Linksammlung-472023.html) - Nur damit es in deren Werbe- und Überwachungsschleuder Chrome besser da steht. WIXER!
 * [Der Rotstift der Bundesregierung wird natürlich auch bei der freien Software angesetzt.](https://www.linux-magazin.de/news/osba-kritisiert-kuerzungen-bei-open-source-im-bundeshaushalt/) - Langfristig rechnen können die Quartalsdenker der Blockpartei seit 1953 nicht mehr
 * [OpenSSL wurde in der Version 3.2 veröffentlicht.](https://www.phoronix.com/news/OpenSSL-3.2-Released)
+* [Concevis hat viele Daten verloren](https://blog.fefe.de/?ts=9b9e2a7e)
+* [Staatsschutz ist Ehresache! >>Bei einem Führungswechsel in dem Kommissariat seien den neuen Chefs die unbearbeitet oder unzureichend bearbeiteten Verfahren aufgefallen, erklärte die Polizeisprecherin.<<](https://blog.fefe.de/?ts=9b9e27a4)
+* [FreeFileSync wurde in der Version 13.2 veröffentlicht.](https://github.com/hkneptune/FreeFileSync/releases/tag/v13.2)
+* [Microsoft Windows Server 2022 ist wieder einmal kaputt.](https://www.borncity.com/blog/2023/11/25/windows-server-2022-update-kb5032198-scheitert-mit-fehler-0x8007000d-0x800f081f/)
+* [Wine wurde in der Version 8.21 veröffentlicht.](https://www.phoronix.com/news/Wine-8.21-Released)
+* [Auch die Bürger in den USA gehen steil weil Ihnen die Freiheit im Internet weggenommen werden soll.](https://www.welcometohellworld.com/an-unholy-alliance/) - Gleiche Masche wie in der EU, stecken wohl die gleichen Koksnasen dahinter
