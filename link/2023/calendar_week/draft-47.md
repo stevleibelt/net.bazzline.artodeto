@@ -54,3 +54,11 @@
 * [Microsoft Windows Server 2022 ist wieder einmal kaputt.](https://www.borncity.com/blog/2023/11/25/windows-server-2022-update-kb5032198-scheitert-mit-fehler-0x8007000d-0x800f081f/)
 * [Wine wurde in der Version 8.21 veröffentlicht.](https://www.phoronix.com/news/Wine-8.21-Released)
 * [Auch die Bürger in den USA gehen steil weil Ihnen die Freiheit im Internet weggenommen werden soll.](https://www.welcometohellworld.com/an-unholy-alliance/) - Gleiche Masche wie in der EU, stecken wohl die gleichen Koksnasen dahinter
+* [>>Scholz hat den Verfassungsbruch begangen, und Lindner wäre dafür zuständig gewesen, das als Flimflam-Taschenspielertrick zu erkennen und zu verhindern<<](https://blog.fefe.de/?ts=9b9f3a5e)
+* [Alte Nextcloud Versionen sind kaputt.](https://github.com/nextcloud/security-advisories/security/advisories/GHSA-f962-hw26-g267)
+* [ripgrep wurde in der Version 14.0.0 veröffentlicht.](https://github.com/BurntSushi/ripgrep/releases/tag/14.0.0)
+* [PHPMailer wurde in der Version 6.9.1 veröffentlicht.](https://github.com/PHPMailer/PHPMailer/releases/tag/v6.9.1)
+* [Kann ich mich nur anschließen, falls ihr mehr Gesundheit im Verkehrswesen haben wollt, schaut mal welche Parteien Menschen nach Autos stellen.](https://blog.fefe.de/?ts=9b9d92f1)
+* [gitea wurde in der Version 1.21.1 veröffentlicht.](https://github.com/go-gitea/gitea/releases/tag/v1.21.1)
+* [PipeWire wurde in der Version 1.0 veröffentlicht.](https://www.phoronix.com/news/PipeWire-1.0-Released)
+* [General Electric ist kaputt.](https://www.bleepingcomputer.com/news/security/general-electric-investigates-claims-of-cyber-attack-data-theft/)
