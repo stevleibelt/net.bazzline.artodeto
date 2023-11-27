@@ -1,0 +1,5 @@
+* [Hier gibt es ein schönes Beispiel für den legal betriebenen Abmahnwahnsinn](https://netzpolitik.org/2023/urheberrecht-ein-teures-badewannenfoto/)
+* [Proxmox VE wurde in der Version 8.1 veröffentlicht.](https://www.linux-magazin.de/news/proxmox-ve-8-1-unterstuetzt-erstmals-secure-boot/)
+* [Onli berichtet von 15 Jahren Serendipity als Entwickler.](https://www.onli-blogging.de/2323/15-Jahre-Serendipity-als-Entwickler-ein-Rueckblick-und-ein-Ausblick.html)
+* [archlinux-archzfs-linux-lts-dkms wurde in der Version 20231127 veröffentlicht.](https://github.com/stevleibelt/arch-linux-live-cd-iso-with-zfs/releases/tag/20231127)
+* [Google Drive vergisst auf einmal eure Daten.](http://blog.fefe.de/?ts=9b9aa48b)
