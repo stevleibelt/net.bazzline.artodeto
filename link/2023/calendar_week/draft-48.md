@@ -3,3 +3,15 @@
 * [Onli berichtet von 15 Jahren Serendipity als Entwickler.](https://www.onli-blogging.de/2323/15-Jahre-Serendipity-als-Entwickler-ein-Rueckblick-und-ein-Ausblick.html)
 * [archlinux-archzfs-linux-lts-dkms wurde in der Version 20231127 veröffentlicht.](https://github.com/stevleibelt/arch-linux-live-cd-iso-with-zfs/releases/tag/20231127)
 * [Google Drive vergisst auf einmal eure Daten.](http://blog.fefe.de/?ts=9b9aa48b)
+* [Kapitalismus im Endstadium, in den USA gewinnt der Bundesstaat, der die geringsten Bußgelder gegenüber der Industrie ausruft.](http://blog.fefe.de/?ts=9b9a553d) - Bürgerschutzt? Scheiß drauf!
+* [privacy.sexy wurde in der Version 0.12.8 veröffentlicht.](https://github.com/undergroundwires/privacy.sexy/releases/tag/0.12.8)
+* [phpseclib wurde in der Version 3.0.34 veröffentlicht.](https://github.com/phpseclib/phpseclib/releases/tag/3.0.34)
+* [php rector wurde in der Version 0.18.11 veröffentlicht.](https://github.com/rectorphp/rector/releases/tag/0.18.11)
+* [phpstan wurde in der Version 1.10.45 veröffentlicht.](https://github.com/phpstan/phpstan/releases/tag/1.10.45)
+* [Die Chemnitzer Linux-Tage 2024 werfen ihre Schatten voraus - Bis zum 08.01.2024 können Beiträge eingereicht werden](https://www.tu-chemnitz.de/tu/pressestelle/aktuell/12199)
+* [Data Generator for PostgreSQL wurde in der Version 4.0 veröffentlicht.](https://www.postgresql.org/about/news/data-generator-version-40-released-2755/)
+* [ddev wurde in der Version 1.22.5 veröffentlicht.](https://github.com/ddev/ddev/releases/tag/v1.22.5)
+* [Nein? Doch! Oh? Amazon, als Konzern ohne Herz, sucht nicht nur illegale Wege um die Gesetzesgebung mitarbeiterfeindlich und aktionärsfreundlich auszulegen, nein sie haben auch eine sehr kreative Lobbyismusführung.](https://netzpolitik.org/2023/lobbyismus-wie-amazon-seinen-einfluss-in-der-eu-ausbaut/) - Gäbe es nur ein verlässliches Lobbyregister und feste Vorgaben ...
+* [Gitea wurde in der Version 1.20.6 veröffentlicht.](https://github.com/go-gitea/gitea/releases/tag/v1.20.6)
+* [Rust wird immer beliebter, auch malware-Ersteller vertrauen auf die automatische Codequalität.](https://www.bleepingcomputer.com/news/security/new-rust-based-sysjoker-backdoor-linked-to-hamas-hackers/)
+* [>>Wer mit seinem Smartphone seine Route trackt, oder einfach nur ein Foto in den sozialen Medien teilt, der kann bei falscher Voreinstellung schnell mit einem Verbotstatbestand konfrontiert werden<<](https://netzpolitik.org/2023/openstreetmap-komoot-co-sorge-vor-datenkahlschlag-fuer-karten-apps/)
