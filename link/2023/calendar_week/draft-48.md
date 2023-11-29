@@ -15,3 +15,18 @@
 * [Gitea wurde in der Version 1.20.6 veröffentlicht.](https://github.com/go-gitea/gitea/releases/tag/v1.20.6)
 * [Rust wird immer beliebter, auch malware-Ersteller vertrauen auf die automatische Codequalität.](https://www.bleepingcomputer.com/news/security/new-rust-based-sysjoker-backdoor-linked-to-hamas-hackers/)
 * [>>Wer mit seinem Smartphone seine Route trackt, oder einfach nur ein Foto in den sozialen Medien teilt, der kann bei falscher Voreinstellung schnell mit einem Verbotstatbestand konfrontiert werden<<](https://netzpolitik.org/2023/openstreetmap-komoot-co-sorge-vor-datenkahlschlag-fuer-karten-apps/)
+* [slint wurde in der Version 1.3.1 veröffentlicht.](https://github.com/slint-ui/slint/releases/tag/v1.3.1)
+* [Friedrich Merz lässt keinen Zweifel daran, dass er das deutsche Volk um sein Volkseigentum bringen möchte](http://blog.fefe.de/?ts=9b9b1f57) - Blackrock über alles!
+* [Reicheleute Probleme - 3 Jahre Kreuzfahrt aber das Schiff fehlt.](http://blog.fefe.de/?ts=9b98f6ad)
+* [Die Griechen beweisen Humor und flexen mit der Troika gegen die deutschen Staatsschulden.](http://blog.fefe.de/?ts=9b9b3901)
+* [Die Bahn verkauft euch gleich 9 schwer zu kündigende Abo's, wenn ihr dort das 49 Euro Ticket kauft.](http://blog.fefe.de/?ts=9b9b37a4)
+* [PHP Carbon wurde in der Version 2.72.0 veröffentlicht.](https://github.com/briannesbitt/Carbon/releases/tag/2.72.0)
+* [phpstan wurde in der Version 1.10.46 veröffentlicht.](https://github.com/phpstan/phpstan/releases/tag/1.10.46)
+* [Nein? Doch! Oh? Arbeitslose werden in Frankfreich vom Computer mit einem höhreren Risiko bei Allem belegt.](https://netzpolitik.org/2023/frankreich-algorithmus-weist-arbeitslosen-ein-hoeheres-risiko-zu/) - Das muss das CIA rausgefunden haben!
+* [Danke noyb, noyb legt eine Beschwerde gegen Meta auf, da sie mehr oder minder "Pay or Okay" durchdrücken wollen.](https://noyb.eu/de/noyb-files-gdpr-complaint-against-meta-over-pay-or-okay)
+* [Die Netto-App ist kaputt.](https://www.borncity.com/blog/2023/11/29/betrug-unberechtigte-fremdeinkufe-mit-netto-app-paypal-verweigert-erstattung/) - Da werden Einkäufe getätigt, die ihr nicht gemacht habt und Netto sagt "Ismiregal"
+* [Hier wird euch erklärt, warum wir überall base64 nutzen müssen.](https://www.freecodecamp.org/news/what-is-base64-encoding/)
+* [Coreboot wurde in der Version 4.22 veröffentlicht.](https://www.phoronix.com/news/Coreboot-4.22-Released)
+* ["Sparen" ist das Neusprech aus Berlin für "kann sich der normale deutsche Bürger nicht mehr leisten".](https://tuxproject.de/blog/2023/11/vorbildlich-obdachlose-sparen-sich-die-miete/) - "Heizen" ist seit 2023 zum Beispiel so eine Sache. Wer braucht schon eine warme Wohnung wenn der Schimmelpilz eine so ausgewogenes Krankheitsbild für Lau liefert und der lokale Bauwirtschaft in einigen Jahren Sanierungsaufträge "en mass" besegnet.
+* [changedetection.io wurde in der Version 0.45.8 veröffentlicht.](https://github.com/dgtlmoon/changedetection.io/releases/tag/0.45.8)
+* [Hier kriegt ihr eine Liste an Python One-Liners die euch das Leben erleichtern.](https://www.freecodecamp.org/news/python-one-liners/)
