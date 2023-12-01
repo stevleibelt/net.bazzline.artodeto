@@ -42,3 +42,18 @@
 * [Mold wurde in der Version 2.4.0 veröffentlicht.](https://github.com/rui314/mold/releases/tag/v2.4.0)
 * [netbox wurde in der Version 3.6.6. veröffentlicht.](https://github.com/netbox-community/netbox/releases/tag/v3.6.6)
 * [China kann gut genuge Prozessoren bauen.](http://blog.fefe.de/?ts=9b995368) - Gibt es endlich Wettbewerb, ich sehe die Demokratie schon mit Bomben nach China kommen
+* [Frankreich möchte seine Regierungsmitglieder weg von WhatsApp, Signal und Telegram und hin zu Olvid und Tchap bewegen](http://blog.fefe.de/?ts=9b97d18b)
+* [IBM Security Guardian ist kaputt.](http://blog.fefe.de/?ts=9b9645d6)
+* [>>Die Ampel muss einen weiteren Rückschlag vor Gericht hinnehmen: Weil Deutschland die Klimaziele im Verkehrs- und Gebäudesektor in den vergangenen Jahren verfehlt hat, muss sie laut Urteil gegensteuern.<<](http://blog.fefe.de/?ts=9b96b691) - Danke den Klägern, dies ist ein guter und schneller Zug gewesen, damit Blackrock-Merz und Cum-Ex-Scholz nicht all die fehlenden Milliarden aus dem Klimaschutz wegstreichen kann (Leider wird dadurch das Sozialsystem weiter bluten ... denn gegen die Industrie kann man nicht angehen, nicht als Politiker)
+* [Bluetooth ist kaputt - BLUFFS](http://blog.fefe.de/?ts=9b9691de)
+* [OpenZFS wurde in der Version 2.2.2 veröffentlicht.](https://github.com/openzfs/zfs/releases/tag/zfs-2.2.2) - [archzfs](https://github.com/archzfs/archzfs/pull/517) wurde direkt mit aktualisiert
+* [OpenZFS wurde in der Version 2.1.14 veröffentlicht.](https://github.com/openzfs/zfs/releases/tag/zfs-2.1.14)
+* [Genode wurde in der Version 23.11 veröffentlicht.](https://github.com/genodelabs/genode/releases/tag/23.11)
+* [Illegal, dem Bayern ist das scheißegal - Sie nutzen die verbotene Palentier-Software](https://netzpolitik.org/2023/palantir-software-bayerische-polizei-testet-datamining-mit-echten-personendaten/) - Und legal soll es sein, da es "im Testbetrieb" ist ... merkt euch das, falls euch jemand Fragt was eure nicht angemeldete PV-Anlage da so macht
+* [Hier werden euch Akkordeon-Menus im JavaScript erklärt.](https://www.freecodecamp.org/news/create-html-accordions-with-and-without-javascript/) - Für alle die das können, nutzt bitte die Seite als Paradebeispiel wie man eine Webseite baut wenn man Wissen vermitteln möchte
+* [Hier werden euch Arrow-Functions im JavaScript erklärt.](https://www.freecodecamp.org/news/javascript-arrow-functions-in-depth/)
+* [>>blackberry died because the market died, no one wants secure phones anymore<<](https://www.phoronix.com/forums/forum/phoronix/latest-phoronix-articles/1425411-jolla-s-former-management-acquires-the-business)
+* [Zykel NAS ist kaputt.](https://www.bleepingcomputer.com/news/security/zyxel-warns-of-multiple-critical-vulnerabilities-in-nas-devices/)
+* [PeerTube wurde in der Version 6.0 veröffentlicht.](https://joinpeertube.org/news/release-6.0)
+* [Tails wurde in der Version 5.20 veröffentlicht.](https://www.linux-magazin.de/news/tails-5-20-aktualisiert-software-und-behebt-fehler/)
+* [>>Jugendliche wollen sich über Sex informieren und landen dabei auf Pornoseiten. Mit Sperren und Verboten lässt sich das nicht lösen [...]<<](https://netzpolitik.org/2023/interview-jugendliche-brauchen-angebote-fuer-sexuelle-bildung/)
