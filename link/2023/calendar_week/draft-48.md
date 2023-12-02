@@ -57,3 +57,13 @@
 * [PeerTube wurde in der Version 6.0 veröffentlicht.](https://joinpeertube.org/news/release-6.0)
 * [Tails wurde in der Version 5.20 veröffentlicht.](https://www.linux-magazin.de/news/tails-5-20-aktualisiert-software-und-behebt-fehler/)
 * [>>Jugendliche wollen sich über Sex informieren und landen dabei auf Pornoseiten. Mit Sperren und Verboten lässt sich das nicht lösen [...]<<](https://netzpolitik.org/2023/interview-jugendliche-brauchen-angebote-fuer-sexuelle-bildung/)
+* [Google baut sein Vorhaben mit "Wir haben recht und bestimmen was gut und richtig ist" weiter aus ... mit Hilfe ihrer KI.](https://blog.fefe.de/?ts=9b948b05) - Selbstverstärkendes Neusprech also
+* [Israel wusste wohl ein Jahr im Voraus über den Angriffsplan der Hamas bescheid](https://blog.fefe.de/?ts=9b977706) - Aber wie willst du du die Hölle auf erden rechtfertigen, wenn "nichts passiert" ist weil deine Geheimdienste mal etwas richtig gemacht haben?
+* [archlinux-archzfs-linux-lts-dkms wurde in der Version 20231201 veröffentlicht](https://github.com/stevleibelt/arch-linux-live-cd-iso-with-zfs/releases/tag/20231201)
+* [droidcam wurde in der Version 2.1.0 veröffentlicht.](https://github.com/dev47apps/droidcam/releases/tag/v2.1.0)
+* [alembic wurde in der Version 1.13.0 veröffentlicht.](https://github.com/sqlalchemy/alembic/releases/tag/rel_1_13_0)
+* [js-lingui wurde in der Version 4.6.0 veröffentlicht.](https://github.com/lingui/js-lingui/releases/tag/v4.6.0)
+* [Sogar die Fußballfans sind gegen die Chatkontrolle](https://netzpolitik.org/2023/chatkontrolle-eu-kommission-zweifelt-an-einigung-und-geht-mit-zwischenloesung-in-die-verlaengerung/)
+* [Wolltet ihr schon einmal mit SVG selber ein Bild bauen? FreeCodeCamp.org gibt euch eine wunderbare Anleitung.](https://www.freecodecamp.org/news/svg-tutorial-learn-to-code-images/)
+* [Warum gibt es eigentlich keine Matrix-Bridge mehr zu Libera Chat? Hier wird euch geholfen.](https://www.onli-blogging.de/2324/Linksammlung-482023.html)
+* [Kommt nach bandcamp.com jetzt jam.coop?](https://tuxproject.de/blog/2023/12/kurzes-zum-letzten-bandcampfreitag/)
