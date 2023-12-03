@@ -67,3 +67,6 @@
 * [Wolltet ihr schon einmal mit SVG selber ein Bild bauen? FreeCodeCamp.org gibt euch eine wunderbare Anleitung.](https://www.freecodecamp.org/news/svg-tutorial-learn-to-code-images/)
 * [Warum gibt es eigentlich keine Matrix-Bridge mehr zu Libera Chat? Hier wird euch geholfen.](https://www.onli-blogging.de/2324/Linksammlung-482023.html)
 * [Kommt nach bandcamp.com jetzt jam.coop?](https://tuxproject.de/blog/2023/12/kurzes-zum-letzten-bandcampfreitag/)
+* [bun wurde in der Version 1.0.15 veröffentlicht.](https://github.com/oven-sh/bun/releases/tag/bun-v1.0.15)
+* [Wie kann man Energie im Telefon sparen und Komfrot erhöhen? Kuketz erklärt es euch.](https://www.kuketz-blog.de/android-akkulaufzeit-effektiv-verlaengern/)
+* [FeFe berichtet vom Abenteuer Bahnfahren in Sachsen](https://blog.fefe.de/?ts=9b925170)
