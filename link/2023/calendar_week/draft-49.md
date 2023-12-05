@@ -2,3 +2,21 @@
 * [Arch Linux hat sein Bugtracker komplett auf GitLab migriert.](https://archlinux.org/news/bugtracker-migration-to-gitlab-completed/)
 * [>>noyb hat eine Klage gegen die Kreditauskunftei CRIF GmbH und den Adresshändler AZ Direct eingereicht.<<](https://noyb.eu/de/noyb-sues-crif-and-az-direct-illegal-and-secret-data-processing) - Ist ja Weihnachtszeit, daher die Erinnerung: "Also wenn ihr Bock habt zu spenden ... noyb hat Bock"
 * [Israel lässt die Ziele für seine Tötungskommandos jetzt per "KI" markieren.](http://blog.fefe.de/?ts=9b935082) - Damit hat die KI Schuld, wenn es wieder einen Zivilisten erwischt hat. Ich sehe das Überbevölkerungsproblem damit gelöst und investiere gerade in die Aktien von Waffenherstellern.
+* [FeFe macht auf dem 37c ein 20 Jahre Fnord-Jahresrückblick :-D](http://blog.fefe.de/?ts=9b933e73)
+* [Kapitalismus im Endstadium, an den Gebäuden der späten 70-er sehen wir wohin BWL-er-Tum am Bau führt.](http://blog.fefe.de/?ts=9b933d6b)
+* [Sogar die Börse hat die Eskalation zwischen Israel und dem Gazastreifen gewusst.](http://blog.fefe.de/?ts=9b933523)
+* [droidcam wurde in der Version 2.1.1 veröffentlicht.](https://github.com/dev47apps/droidcam/releases/tag/v2.1.1)
+* [ruff wurde in der Version 0.1.7 veröffentlicht.](https://github.com/astral-sh/ruff/releases/tag/v0.1.7)
+* [tacticalrmm wurde in der Version 0.17.2 veröffentlicht.](https://github.com/amidaware/tacticalrmm/releases/tag/v0.17.2)
+* [OpenEMS wurde in der Version 2023.12.0 veröffentlicht.](https://github.com/OpenEMS/openems/releases/tag/2023.12.0)
+* [sqlmodel wurde in der Version 0.0.14 veröffentlicht.](https://github.com/tiangolo/sqlmodel/releases/tag/0.0.14)
+* [fwupd wurde in der Version 1.9.10 veröffentlicht.](https://github.com/fwupd/fwupd/releases/tag/1.9.10)
+* [Home Assistant OS wurde in der Version 11.2 veröffentlicht.](https://github.com/home-assistant/operating-system/releases/tag/11.2)
+* [Digital Services Act? Die Konzerne zeigen ganz klar, dass sie nur mit Gerichtsbeschlüssen und Strafzahlungen zum Handeln bereit sind.](https://netzpolitik.org/2023/nach-100-tagen-grosse-internetkonzerne-ignorieren-digital-services-act/) - Deswegen gehören Konzerne schlichtweg verboten
+* [Schöner Artikel über das Thema "Du hast immer mehr Möglichkeiten als man dir erzählen möchte"](https://www.welcometohellworld.com/you-have-more-options-than-they-will-ever-tell-you-you-have/)
+* [Glück Auf TV: Stollenanschnitt auf dem Freiberger Christmarkt](https://www.youtube.com/watch?v=c5h3Nw6s7cc)
+* [Die Nullcon 2023 ist vorbei und es wurden Video-Mitschnitte und Folien von dieser Sicherheitskonferenz freigegeben](https://goa2023.nullcon.net/goa-2023/recordings)
+* [Django wurde in der Version 5.0 veröffentlicht.](https://www.djangoproject.com/weblog/2023/dec/04/django-50-released/)
+* [GDB wurde in der Version 14.1 veröffentlicht.](https://lwn.net/Articles/953732/)
+* [Flowblade wurde in der Version 2.12 veröffentlicht.](https://www.phoronix.com/news/Flowblade-2.12-Released)
+* [Apropos Macht der Konzerne ... dass das EU-Parlament überhaupt über "Recht auf Reparatur" verhandeln muss, zeigt wie egal den Konzernen Mutter Natur ist.](https://netzpolitik.org/2023/eu-parlament-und-rat-ringen-um-recht-auf-reparatur/)
