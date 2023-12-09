@@ -53,3 +53,11 @@
 * [TrueNAS Core wurde in der Version 13.0 U6.1 veröffentlicht.](https://github.com/truenas/documentation/releases/tag/TN13.0-U6.1)
 * [eIDAS wird kommen, denn der Willen des Volkes ist dem Volk doch gar nicht klar! (so das EU-Parlament, also der Industrieausschuss - der, der die Subventionen will)](https://netzpolitik.org/2023/eidas-2-0-industrieausschuss-des-eu-parlaments-stimmt-fuer-digitale-brieftasche/) - Konzerne würden jetzt sagen "Da hat unsere Aufklärung (Gehirnwäsche) wohl noch nicht richtig genug funktioniert"
 * [Rust wurde in der Version 1.74.1 veröffentlicht.](https://blog.rust-lang.org/2023/12/07/Rust-1.74.1.html)
+* [>>If buying isn't owning, piracy isn't stealing<<](https://blog.fefe.de/?ts=9b8a871f)
+* [Haha, Hackfressenbuch U-Bootet ein "vertrauenswürdige KI"](https://blog.fefe.de/?ts=9b8af336)
+* [Drecks Merz, auf der einen Seite verklagt er seine selbst gemachte Schuldenbremse und dann bittet er um Gelder für seinen Wahlkreis.](https://blog.fefe.de/?ts=9b8d456c) - Zahl es doch selber du Volksverräter!
+* [Paris zeigt wie sehr sie Nazis mögen, teure Parkgebühren nur für un-Pariser-SUV's!](https://blog.fefe.de/?ts=9b8dbf58)
+* [python eduvpn client wurde in der Version 4.2. 0 veröffentlicht.](https://github.com/eduvpn/python-eduvpn-client/releases/tag/4.2.0)
+* [Bruce Schneier meint auch, dass BLUFFS seit 10 Jahren Bluethooth zerhackt.](https://www.schneier.com/blog/archives/2023/12/new-bluetooth-attack.html)
+* [Glück Auf TV: >>Reizbar Freiberg - schicke Wäsche für die DAmen und den Herren<<](https://www.youtube.com/watch?v=UfllHezAfn0)
+* [Realitätsabgleich >>was kostet ein Kleid von Lidle wirklich?<<](https://letsflip.de/lidl-rueckzug-myanmar/) - Lidle ist austauschbar mit jedem Konzern
