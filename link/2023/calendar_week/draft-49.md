@@ -61,3 +61,8 @@
 * [Bruce Schneier meint auch, dass BLUFFS seit 10 Jahren Bluethooth zerhackt.](https://www.schneier.com/blog/archives/2023/12/new-bluetooth-attack.html)
 * [Glück Auf TV: >>Reizbar Freiberg - schicke Wäsche für die DAmen und den Herren<<](https://www.youtube.com/watch?v=UfllHezAfn0)
 * [Realitätsabgleich >>was kostet ein Kleid von Lidle wirklich?<<](https://letsflip.de/lidl-rueckzug-myanmar/) - Lidle ist austauschbar mit jedem Konzern
+* [NewPipe wurde in der Version 0.25.2 veröffentlicht.](https://newpipe.net/blog/pinned/release/newpipe-0.25.2/)
+* [Ext4 ist auch kaputt.](https://lwn.net/Articles/954285/) - Was ist das nur für ein Jahr
+* [WordPress ist kaputt.](https://www.linux-magazin.de/blogs/wordpress-entfernter-angreifer-kann-befehle-ausfuehren-3/)
+* [Bun wurde in der Version 1.0.16 veröffentlicht.](https://github.com/oven-sh/bun/releases/tag/bun-v1.0.16)
+* [Mockery wurde in der Version 1.6.7 veröffentlicht.](https://github.com/mockery/mockery/releases/tag/1.6.7)
