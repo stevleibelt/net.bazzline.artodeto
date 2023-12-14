@@ -19,7 +19,7 @@
 * [>>Der Internet-Riese betreibe mit seinem App-Store ein illegales Monopol, so das Gericht. Das Urteil könnte branchenweite Folgen haben.<<](http://blog.fefe.de/?ts=9b86ece4) - Mit Internet-Riese ist google gemeint
 * [mock oauth-server wurde in der Version 2.1.0 veröffentlicht.](https://github.com/navikt/mock-oauth2-server/releases/tag/2.1.0)
 * [Nextcloud Server wurde in der Version 28.0.0 veröffentlicht.](https://github.com/nextcloud/server/releases/tag/v28.0.0)
-* [Bun wurde in der Version 1.0.17 veröffentlicht.](https://github.com/oven-sh/bun/releases/tag/bun-v1.0.17)
+* [Bun wurde in der Version 1.0.18 veröffentlicht.](https://github.com/oven-sh/bun/releases/tag/bun-v1.0.18)
 * [Wisst ihr was das tolle an der Briefmarke ist, die ihr selbst ausdrucken müsst? Sie ist personalisiert!](http://blog.fefe.de/?ts=9b8630d3) - Und der Staat, wisst schon, der nur gegen Terroristen vorgeht, der sieht Whistleblower eben auch als Terroristen an ... besonders wenn es um die Themen "Dienstmissbrauch" und "sexuelle Belästigung" geht ... beides gehört beim Staat wohl eher zur Mindestanforderung ... das macht mich traurig
 * [zfsbootmenu wurde in der Version 2.3.0 veröffentlicht.](https://github.com/zbm-dev/zfsbootmenu/releases/tag/v2.3.0)
 * [archlinux-archzfs-linux wurde in der Version 2023-12-13T07:50:59 veröffentlicht.](https://archzfs.leibelt.de/)
@@ -32,3 +32,16 @@
 * [Thunderbird wurde in der Version 115.5.2 veröffentlicht.](https://www.borncity.com/blog/2023/12/12/thunderbird-115-5-2/)
 * [>>Die Bundesregierung will sich Open-Source-Software für die Digitale Souveränität herbeiwünschen, gibt die Milliarden aber doch lieber für proprietäre Software von Oracle und Microsoft aus.<<](https://netzpolitik.org/2023/digitale-souveraenitaet-milliarden-fuer-oracle-microsoft-und-co-statt-fuer-open-source/)
 * [>>Zahlreiche Organisationen kritisieren die aktuellen Pläne der Bundesregierung zur Digitalisierung des Gesundheitswesens. Diese orientiere sich weder am Gemeinwohl noch an den Interessen der Patient*innen und verfehle damit ihre gesellschaftlichen Potenziale.<<](https://netzpolitik.org/2023/offener-brief-zu-gesundheitsdigitalisierung-vertrauen-laesst-sich-nicht-verordnen/)
+* [Wenn ein Anwalt Fälle zitiert, die es nicht gibt ...](http://blog.fefe.de/?ts=9b8707e5) - Dieses "zugescheiße mit Informationen damit niemand mehr die Datenberge prüfen kann" ... ich verurteile dieses Vorgehen. Wer einmal System-Logs analysieren durfte weiß was ich meine, dieses Vorgehen bringt uns als Gesellschaft keinen Stück weiter, außer Näher an den Abgrund
+* [flet wurde in der Version 0.16.0 veröffentlicht.](https://github.com/flet-dev/flet/releases/tag/v0.16.0)
+* [AutoGPT wurde in der Version 0.5.0 veröffentlicht.](https://github.com/Significant-Gravitas/AutoGPT/releases/tag/autogpt-v0.5.0)
+* [ruff wurde in der Version 0.1.9 veröffentlicht.](https://github.com/astral-sh/ruff/releases/tag/v0.1.8)
+* [FreeRDP wurde in der Version 3.0.0 veröffentlicht.](https://github.com/FreeRDP/FreeRDP/releases/tag/3.0.0) - Dankeschön!
+* [naps2 wurde in der Version 7.2.0 veröffentlicht.](https://github.com/cyanfish/naps2/releases/tag/v7.2.0)
+* [Windows Dezember 2023 Updates machen wieder alles kaputt: Error 0x8007000D](https://www.borncity.com/blog/2023/12/14/windows-dezember-2023-updates-scheitern-mit-error-0x8007000d/)
+* [noyb legt Beschwerde gegen X ein, Grund illegales Micro-Targeting](https://noyb.eu/de/gdpr-complaint-against-x-twitter-over-illegal-micro-targeting-chat-control-ads)
+* [Endlich mal etwas Gutes, das EU-Parlament will Geoblocking abschaffen.](https://netzpolitik.org/2023/filme-und-serien-eu-parlament-will-geoblocking-abschaffen/) - Ihr wisst schon, das war mal eins der Killer-Features des Internets
+* [Die Deutsche Bahn arbeitet weiter daran die lästigen Menschen los zu werden.](https://netzpolitik.org/2023/deutsche-bahn-schritt-fuer-schritt-gegen-das-recht-auf-analoges-leben/) - Gütertransport ist profitabler!
+* [VMWare verkauft jetzt keine permanenten Lizenzen mehr.](https://www.windowspro.de/news/vmware-verkauft-keine-permanenten-lizenzen-mehr-reduktion-editionen/05569.html?utm_source=WindowsPro&utm_medium=rss&utm_campaign=Feed)
+* [>>Die NABU-Landesverbände Sachsen und Sachsen-Anhalt suchen für das Projekt ProPlanet ab Januar 2024 Verstärkung bei der Planung und Umsetzung von ökologischen Aufwertungsmaßnahmen<<](https://sachsen.nabu.de/news/2023/34304.html)
+* [Mehrere Stationen ders NABU in Sachsen benötigen finanzielle Hilfe.](https://sachsen.nabu.de/news/2023/34298.html) - Und hier geht es darum, dass ein gebrauchtes KfZ oder ein Lastenfahrrad gekauft wird. Warum das nicht das Land Sachsen übernehmen kann? Dem Land Sachsen ist Naturschutz nicht so wichtig.
