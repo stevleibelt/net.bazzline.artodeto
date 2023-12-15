@@ -45,3 +45,11 @@
 * [VMWare verkauft jetzt keine permanenten Lizenzen mehr.](https://www.windowspro.de/news/vmware-verkauft-keine-permanenten-lizenzen-mehr-reduktion-editionen/05569.html?utm_source=WindowsPro&utm_medium=rss&utm_campaign=Feed)
 * [>>Die NABU-Landesverbände Sachsen und Sachsen-Anhalt suchen für das Projekt ProPlanet ab Januar 2024 Verstärkung bei der Planung und Umsetzung von ökologischen Aufwertungsmaßnahmen<<](https://sachsen.nabu.de/news/2023/34304.html)
 * [Mehrere Stationen ders NABU in Sachsen benötigen finanzielle Hilfe.](https://sachsen.nabu.de/news/2023/34298.html) - Und hier geht es darum, dass ein gebrauchtes KfZ oder ein Lastenfahrrad gekauft wird. Warum das nicht das Land Sachsen übernehmen kann? Dem Land Sachsen ist Naturschutz nicht so wichtig.
+* [NUSpli wurde in der VErsion 1.142 veröffentlicht.](https://github.com/V10lator/NUSspli/releases/tag/v1.142)
+* [Nextcloud server wurde in der Version 27.1.5 veröffentlicht.](https://github.com/nextcloud/server/releases/tag/v27.1.5)
+* [Nextcloud server wurde in der Version 26.0.10 veröffentlicht.](https://github.com/nextcloud/server/releases/tag/v26.0.10)
+* [Glück Auf TV: Weihnachtsaktion Unser Freiberg e.V.](https://www.youtube.com/watch?v=_7_fnJ4gOos)
+* ["Wirtschaft Neu Denken" oder einzelne Oligarchen operieren mit Politikeren sprichwörtlich mit Koffern voller Geld](https://tuxproject.de/blog/2023/12/russische-oligarchen-deutschland-edition/)
+* [>>In der Bergakademie werden die Chancengleichheit aller Geschlechter und die Verwirklichung von Gleichstellung besonders gefördert. Dafür bekam die Freiberger Hochschule nun erneut ein Zertifikat.<<](https://www.mdr.de/wissen/news/TU-Freiberg-als-familienfreundliche-Hochschule-bestaetigt-100.html)
+* [>>Der Bundestag hat heute zwei Gesetzesentwürfe verabschiedet, die die Digitalisierung des Gesundheitswesens voranbringen sollen. Sorgen um den Datenschutz und die IT-Sicherheit wurden in der Plenardebatte einmal mehr in den Wind geschlagen<<](https://netzpolitik.org/2023/gesundheitsdigitalisierung-unsichtbar-gemachte-sicherheitsrisiken/)
+* [Hier erhaltet ihr einen Einblick wie man mit Ansbile und Chocolatey Software unter Windows verteilt.](https://www.windowspro.de/philip-lorenz/software-ansible-chocolatey-verteilen)
