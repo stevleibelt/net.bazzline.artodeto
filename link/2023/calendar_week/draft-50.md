@@ -53,3 +53,4 @@
 * [>>In der Bergakademie werden die Chancengleichheit aller Geschlechter und die Verwirklichung von Gleichstellung besonders gefördert. Dafür bekam die Freiberger Hochschule nun erneut ein Zertifikat.<<](https://www.mdr.de/wissen/news/TU-Freiberg-als-familienfreundliche-Hochschule-bestaetigt-100.html)
 * [>>Der Bundestag hat heute zwei Gesetzesentwürfe verabschiedet, die die Digitalisierung des Gesundheitswesens voranbringen sollen. Sorgen um den Datenschutz und die IT-Sicherheit wurden in der Plenardebatte einmal mehr in den Wind geschlagen<<](https://netzpolitik.org/2023/gesundheitsdigitalisierung-unsichtbar-gemachte-sicherheitsrisiken/)
 * [Hier erhaltet ihr einen Einblick wie man mit Ansbile und Chocolatey Software unter Windows verteilt.](https://www.windowspro.de/philip-lorenz/software-ansible-chocolatey-verteilen)
+* [Der Panamakanal und der Suezkanal sind kaputt.](https://blog.fefe.de/?ts=9b822efc)
