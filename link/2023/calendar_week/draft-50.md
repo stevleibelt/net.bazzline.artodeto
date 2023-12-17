@@ -37,7 +37,7 @@
 * [AutoGPT wurde in der Version 0.5.0 veröffentlicht.](https://github.com/Significant-Gravitas/AutoGPT/releases/tag/autogpt-v0.5.0)
 * [ruff wurde in der Version 0.1.9 veröffentlicht.](https://github.com/astral-sh/ruff/releases/tag/v0.1.8)
 * [FreeRDP wurde in der Version 3.0.0 veröffentlicht.](https://github.com/FreeRDP/FreeRDP/releases/tag/3.0.0) - Dankeschön!
-* [naps2 wurde in der Version 7.2.0 veröffentlicht.](https://github.com/cyanfish/naps2/releases/tag/v7.2.0)
+* [naps2 wurde in der Version 7.2.1 veröffentlicht.](https://github.com/cyanfish/naps2/releases/tag/v7.2.1)
 * [Windows Dezember 2023 Updates machen wieder alles kaputt: Error 0x8007000D](https://www.borncity.com/blog/2023/12/14/windows-dezember-2023-updates-scheitern-mit-error-0x8007000d/)
 * [noyb legt Beschwerde gegen X ein, Grund illegales Micro-Targeting](https://noyb.eu/de/gdpr-complaint-against-x-twitter-over-illegal-micro-targeting-chat-control-ads)
 * [Endlich mal etwas Gutes, das EU-Parlament will Geoblocking abschaffen.](https://netzpolitik.org/2023/filme-und-serien-eu-parlament-will-geoblocking-abschaffen/) - Ihr wisst schon, das war mal eins der Killer-Features des Internets
@@ -54,3 +54,10 @@
 * [>>Der Bundestag hat heute zwei Gesetzesentwürfe verabschiedet, die die Digitalisierung des Gesundheitswesens voranbringen sollen. Sorgen um den Datenschutz und die IT-Sicherheit wurden in der Plenardebatte einmal mehr in den Wind geschlagen<<](https://netzpolitik.org/2023/gesundheitsdigitalisierung-unsichtbar-gemachte-sicherheitsrisiken/)
 * [Hier erhaltet ihr einen Einblick wie man mit Ansbile und Chocolatey Software unter Windows verteilt.](https://www.windowspro.de/philip-lorenz/software-ansible-chocolatey-verteilen)
 * [Der Panamakanal und der Suezkanal sind kaputt.](https://blog.fefe.de/?ts=9b822efc)
+* [Pendulum wurde in der Version 3.0.0 veröffentlicht.](https://github.com/sdispater/pendulum/releases/tag/3.0.0)
+* [Polars wurde in der Version 0.20.0 veröffentlicht.](https://github.com/pola-rs/polars/releases/tag/py-0.20.0)
+* [Lindner pullt eine Merkel und gibt der Ampel volltes Vertrauen.](https://blog.fefe.de/?ts=9b831e49)
+* [authlib wurde in der Version 1.3.0 veröffentlicht.](https://github.com/lepture/authlib/releases/tag/v1.3.0)
+* [>>Und du als Betroffener musst nicht nachweisen, dass jemand mit den Daten im Darkweb bei dir Schaden angerichtet hat.<<](https://blog.fefe.de/?ts=9b80354d) - Meint der EuGH
+* [Während die ganze Welt sich vorbereitet auf Schwedens digitale Bildungspolitik zu wechseln, zieht Schwerden schon längst die Notbremse und schwenkt zurück auf analoge Bildung.](https://blog.fefe.de/?ts=9b801049) - Nein? Doch! Oh?
+* [Die Inflationsrate in der Türkei ist bei schlanken 62 Prozent.](https://blog.fefe.de/?ts=9b80100edas)
