@@ -3,3 +3,14 @@
 * [flet wurde in der Version 0.17.0 veröffentlicht.](https://github.com/flet-dev/flet/releases/tag/v0.17.0)
 * [PostmarkOS wurde in der Version v23.12 veröffentlicht.](https://postmarketos.org/blog/2023/12/18/v23.12-release/)
 * [Digitale KFZ-Zulassungsstellen? Leider wegen Sicherheitsmängeln geschlossen.](https://www.borncity.com/blog/2023/12/17/70-der-kfz-zulassungsstellen-werden-wegen-sicherheitsmngel-fr-digitale-kfz-zulassung-i-kfz-gesperrt/) - Und das ist die Qualität, die unser Volk im Bereich digitalem Krankenwesen erdulden werden müssen ... wenn wir Glück haben
+* [Zeiterfassung wurde in der Version 1.8.0 veröffentlicht.](https://github.com/urlaubsverwaltung/zeiterfassung/releases/tag/zeiterfassung-1.8.0)
+* [MongoDB ist kaputt.](https://www.linux-magazin.de/blogs/mongodb-attacke/)
+* [>>Rückblick auf das Naturschutzjahr in Sachsen<<](https://sachsen.nabu.de/news/2023/34318.html)
+* [Social Hacking hat "KI"-Chatbots erreicht.](http://blog.fefe.de/?ts=9b7eaba4)
+* [ratatui wurde in der Version 0.25.0 veröffentlicht.](https://github.com/ratatui-org/ratatui/releases/tag/v0.25.0)
+* [sftpgo wurde in der Version 2.5.6 veröffentlicht.](https://github.com/drakkan/sftpgo/releases/tag/v2.5.6)
+* [Ich kann euch folgenden Text nicht zusammenfassen, FeFe schreibt kurz nieder, warum sich heute viele Menschen so gestresst fühlen.](http://blog.fefe.de/?ts=9b7e96ca)
+* [fd wurde in der Version 9.0.0 veröffentlicht.](https://github.com/sharkdp/fd/releases/tag/v9.0.0)
+* [Würde das SMK doch nur so handeln wie es spricht ... Statt Lehrkräfte mit immer mehr Müll zuzuscheißen, sollte das SMK den Lehrern helfen endlich wieder Lehren zu können.](https://www.bildung.sachsen.de/blog/index.php/2023/12/19/interview-45minuten/)
+* [Wisst ihr wofür wir dringend Steuergelder verbrennen müssen? Für mehr Stasi-ähh-BKA-Mitarbeiter!](https://netzpolitik.org/2023/digitale-dienste-gesetz-mehr-personal-fuer-das-bundeskriminalamt-unterm-weihnachtsbaum/)
+* [Hessen ist weiterhin der Testballon der Blockpartei um die Frage "Wie viel Überwachung erlaubt das Volk" zu beantworten.](https://netzpolitik.org/2023/koalitionsvertrag-einmal-alles-fuer-hessens-hardliner/) - Noch ist die Fahnenstangen wohl nicht erreicht
