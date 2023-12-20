@@ -14,3 +14,11 @@
 * [Würde das SMK doch nur so handeln wie es spricht ... Statt Lehrkräfte mit immer mehr Müll zuzuscheißen, sollte das SMK den Lehrern helfen endlich wieder Lehren zu können.](https://www.bildung.sachsen.de/blog/index.php/2023/12/19/interview-45minuten/)
 * [Wisst ihr wofür wir dringend Steuergelder verbrennen müssen? Für mehr Stasi-ähh-BKA-Mitarbeiter!](https://netzpolitik.org/2023/digitale-dienste-gesetz-mehr-personal-fuer-das-bundeskriminalamt-unterm-weihnachtsbaum/)
 * [Hessen ist weiterhin der Testballon der Blockpartei um die Frage "Wie viel Überwachung erlaubt das Volk" zu beantworten.](https://netzpolitik.org/2023/koalitionsvertrag-einmal-alles-fuer-hessens-hardliner/) - Noch ist die Fahnenstangen wohl nicht erreicht
+* [TrueNAS Scale wurde in der Version 23.10.1 veröffentlicht.](https://github.com/truenas/documentation/releases/tag/TS23.10.1)
+* [Backstage wurde in der Version 1.21.0 veröffentlicht.](https://github.com/backstage/backstage/releases/tag/v1.21.0)
+* [Unliebsame Themen lieber zum Jahresende besprechen, da sind die meisten Mitglieder der Blockpartei eh schon im Winterschlaf. Das BKA-Gesetzt steht am 20.12.2023 wegen einer Verfassungsbeschwerde zur anstandslosen Überwachungsbefugniss vor dem Bundesverfassungsgericht in Karlsruhe auf dem Prüfstand.](https://netzpolitik.org/2023/bundesverfassungsgericht-bka-gesetz-wieder-auf-dem-pruefstand/)
+* [Qube OS wurde in der Version 4.2.0 veröffentlicht.](https://lwn.net/Articles/955691/)
+* [OpenSSH wurde in der Version 9.6 veröffentlicht.](https://lwn.net/Articles/955680/)
+* [>>Its report of "unknown filesystem" means that it [...]<<](https://utcc.utoronto.ca/~cks/space/blog/linux/GrubUnknownFilesystemWhy)
+* [Es geht wieder vermehrt Phishing gegenüber Bankenseiten um.](https://www.bleepingcomputer.com/news/security/new-web-injections-campaign-steals-banking-data-from-50-000-people/) - Würde jeder Webbrowser uMatrix besitzen, wäre das Problem nicht existent
+* [Kuketz ist von GrapheneOS entzückt.](https://www.kuketz-blog.de/grapheneos-der-goldstandard-unter-den-android-roms-custom-roms-teil7/)
