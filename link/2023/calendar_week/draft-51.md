@@ -22,3 +22,16 @@
 * [>>Its report of "unknown filesystem" means that it [...]<<](https://utcc.utoronto.ca/~cks/space/blog/linux/GrubUnknownFilesystemWhy)
 * [Es geht wieder vermehrt Phishing gegenüber Bankenseiten um.](https://www.bleepingcomputer.com/news/security/new-web-injections-campaign-steals-banking-data-from-50-000-people/) - Würde jeder Webbrowser uMatrix besitzen, wäre das Problem nicht existent
 * [Kuketz ist von GrapheneOS entzückt.](https://www.kuketz-blog.de/grapheneos-der-goldstandard-unter-den-android-roms-custom-roms-teil7/)
+* [cryptpad wurde in der Version 5.6.0 veröffentlicht.](https://github.com/cryptpad/cryptpad/releases/tag/5.6.0)
+* [sof wurde in der Version 2.8 veröffentlicht.](https://github.com/thesofproject/sof/releases/tag/v2.8)
+* [Der Verein Impfentscheidung lässt das Jahr 2023 für sich Revue passieren.](https://impfentscheidung.online/weihnachtsgruss-2023/)
+* [Kompetenzschmiede Microsoft verkackt weiterhin das Thema Drucken.](https://impfentscheidung.online/weihnachtsgruss-2023/)
+* [QEMU wurde in der Version 8.2.0 veröffentlicht.](https://lwn.net/Articles/955832/)
+* [EOS Solutions hat fast 3 Millionen Patientendaten "verloren"](https://www.bleepingcomputer.com/news/security/healthcare-software-provider-data-breach-impacts-27-million/) - Hauptsache die Rendite stimmt
+* [Da schauen die deutschen Politiker der Blockpartei mit großer Freude hin, in Argentinien sollen Demonstranten automatisch die Sozialleistungen gekürzt werden.](https://netzpolitik.org/2023/gesichtserkennung-argentiniens-rechter-praesident-will-demonstrierenden-sozialleistungen-streichen/) - Und wenn das System der automatisierten Sozialleistungsanpassung einmal implementiert ist, wird es weitere Gründe geben, warum immer mehr gekürzt wird. Das haben wir ja von VW gelernt, man wird nicht gut, indem man in sene Ressourcen/Menschen investiert, sondern indem man kürzt um die Aktionäre weiter mit Geld zu überhäufen!
+* [Auf freecodecamp.org gibt es ein 10 Stunden langes Video welches euch Tailwind CSS, Next.js usw. beibringt, während ihr eine Hotelwebseite mit Buchung und Bezahlung baut.](https://www.freecodecamp.org/news/build-and-deploy-a-hotel-management-site/)
+* [Auf freecodecamp.org gibt es einen Artikel, welcher euch in das Thema API-Testing mit Postman einführt.](https://www.freecodecamp.org/news/how-to-use-an-api-with-postman/)
+* [Auf freecodecamp.org gibt es 15 Python-Projekte, die euch helfen die Sprache zu meistern.](https://www.freecodecamp.org/news/python-curriculum-upgrade/)
+* [Nein? Doch! Oh? Es geht beim Gaza-Streifen halt auch nur um das Gasfeld. Deswegen müssen die Menschen dort leiden.](https://archive.ph/x91Od)
+* [digitalcourage.de fehlt zum Jahresende das Geld. Wenn ihr eventuell nen Zehner über habt.](https://civi.digitalcourage.de/civicrm/contribute/transact?reset=1&id=2)
+* [Auf freecodecamp.org gibt es 21 JavaScript-Projekte, die euch helfen die Sprache zu meistern.](https://www.freecodecamp.org/news/learn-javascript-with-new-data-structures-and-algorithms-certification-projects/)
