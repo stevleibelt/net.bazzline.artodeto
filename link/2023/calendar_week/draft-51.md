@@ -42,3 +42,4 @@
 * [authentik wurde in der Version 2023.10.5 veröffentlicht.](https://github.com/goauthentik/authentik/releases/tag/version/2023.10.5)
 * [Daihatsu liefert keine Autos mehr aus.](https://blog.fefe.de/?ts=9b7adbd5)
 * [China reguliert den Online-Spiele-Markt.](https://blog.fefe.de/?ts=9b7b45bd)
+* [>>Teslas Have a Minor Issue Where the Wheels Fly Off While Driving, Documents Show<<](https://blog.fefe.de/?ts=9b7b7ee9)
