@@ -43,3 +43,7 @@
 * [Daihatsu liefert keine Autos mehr aus.](https://blog.fefe.de/?ts=9b7adbd5)
 * [China reguliert den Online-Spiele-Markt.](https://blog.fefe.de/?ts=9b7b45bd)
 * [>>Teslas Have a Minor Issue Where the Wheels Fly Off While Driving, Documents Show<<](https://blog.fefe.de/?ts=9b7b7ee9)
+* [In der Schweiz nutzen die Politiker die Bahn und schwupps, schon funktioniert das.](https://blog.fefe.de/?ts=9b79ca43)
+* [gitea wurde in der Version 1.21.3 veröffentlicht.](https://github.com/go-gitea/gitea/releases/tag/v1.21.3)
+* [dav5x-ose wurde in der Version 4.3.12 veröffentlicht.](https://github.com/bitfireAT/davx5-ose/releases/tag/v4.3.12-ose)
+* [FreeRDO wurde in der Version 3.1.0 veröffentlicht.](https://github.com/FreeRDP/FreeRDP/releases/tag/3.1.0)
