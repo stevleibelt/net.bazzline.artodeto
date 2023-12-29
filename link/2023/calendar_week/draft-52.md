@@ -14,3 +14,13 @@
 * [Mobilmachung wie damals unter Fliegerhorst's Zeiten. Während die Kinder und Frauen aus der Ukraine in Deutschland bleiben, werden die Männer und Jungs "nett gebeten" IHREN VERDAMMTEN ARSCH IN DIE UKRAINE ZUM STERBEN ZU BEWEGEN!](https://tuxproject.de/blog/2023/12/wohnraum-im-westen/)
 * [Das Ende der Zivilisation kommt immer näher, "Smarter Fenstergriff".](https://tuxproject.de/blog/2023/12/smarter-fenstergriff/)
 * [Zum Glück gibt es noch normale Jugendliche.](https://varun.ch/server)
+* [EasyPark hat Daten verloren.](https://www.bleepingcomputer.com/news/security/easypark-discloses-data-breach-that-may-impact-millions-of-users/)
+* [Rust wurde in der Version 1.75.0 veröffentlicht.](https://lwn.net/Articles/956303/)
+* [Microsoft Windows Local Session Manager ist kaputt.](https://www.borncity.com/blog/2023/12/28/denial-of-service-schwachstelle-cve-2022-44684-im-windows-local-session-manager-lsm/)
+* [Ab 42.000 Kilometer ist ein Elektroauto klimaneutraler als ein Dieselfahrzeug.](https://gewaltignachhaltig.de/?p=14)
+* [netbox wurde in der Version 3.7.0 - 2023-12-29 veröffentlicht.](https://github.com/netbox-community/netbox/releases/tag/v3.7.0)
+* [phpqa wurde in der Version 1.95.0 veröffentlicht.](https://github.com/jakzal/phpqa/releases/tag/v1.95.0)
+* [phpseclib wurde in der Version 3.0.35 veröffentlicht.](https://github.com/phpseclib/phpseclib/releases/tag/3.0.35)
+* [>>Problematisch wird es auch, wenn KI-Systeme aufgrund vermeintlicher Sicherheits-Einstellungen Informationen unterschlagen. Zum Beispiel, wenn ein Bilderkennungssystem keine Bilder beschreibt, in denen viel Blut zu sehen ist. Damit bestimmt das Programm, auf welche Inhalte Menschen barrierefrei zugreifen dürfen und auf welche nicht. Es verhindert selbstbestimmte Information [...]<<](https://netzpolitik.org/2023/digitale-barrierefreiheit-die-ki-wird-uns-nicht-retten/)
+* [>>Dass wir der medizinischen Auswertung der Datenberge – bestenfalls durch KI – nur wenig Vertrauen schenken sollten, zeigen anschaulich drei Beispiele aus der Praxis<<](https://netzpolitik.org/2023/von-der-epa-zum-ehds-7-thesen-zur-aktuellen-digitalen-gesundheitspolitik/) - Und den ganzen Quatsch macht die deutsche Blockpartei nur mit, weil Google, Microsoft, Oracle etc. Geldkoffer verschenken um nicht nur Steuergelder sondern auch Bürgerdaten zu veruntreuen, ein doppelter Diebstahl am Volkseigentum!
+* [Über sqids gibt es eine eigene Webseit mit vielen Sprachimplementierungen.](https://sqids.org/) - Wie frei es von Kollisionen ist
