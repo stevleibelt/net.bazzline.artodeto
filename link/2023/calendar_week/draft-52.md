@@ -29,3 +29,9 @@
 * [Ich glaube durch die ganze, vernachlässigte Infrastrukt der privaten Kliniken werden wir zeitnah ein Rückkauf durch die Aufwendung von Steuergeldern erleben.](https://www.borncity.com/blog/2023/12/29/kliniken-der-marienhausgruppe-opfer-eines-cyberangriffs/)
 * [Na Huch, am 23.12.2023 gab es doppelte Buchungen bei Aldi, Edeka, Lidl, Rewe etc. ... der Grund war ein Fehler bei PayOne.](https://www.borncity.com/blog/2023/12/29/doppelbuchung-bei-kartenzahlungen-am-23-dezember-2023-bei-aldi-edeka-lidl-rewe-co-payone-fehler/) - Upsi und sorry, das Geld gibt es aber nicht automatisch zurück
 * [Gentoo gibt es jetzt offiziell in binärer Form.](https://lwn.net/Articles/956366/)
+* [ScummVM wurde in der Version 2.8.0 veröffentlicht.](https://wiidatabase.de/scummvm-v2-8-0/)
+* [flet wurde in der Version 0.18.0 veröffentlicht.](https://github.com/flet-dev/flet/releases/tag/v0.18.0)
+* [broot wurde in der Version 1.31.0 veröffentlicht.](https://github.com/Canop/broot/releases/tag/v1.31.0)
+* [xrdp wurde in der Version 0.9.24 veröffentlicht.](https://github.com/neutrinolabs/xrdp/releases/tag/v0.9.24)
+* [Nein? Doch! Oh? Dem Volk von Groß Britanien hat der Brexit nichts gebracht.](https://blog.fefe.de/?ts=9b6f8dff)
+* [Googles Session Tokens lassen sich nach dem Ablauf reaktivieren :-D](https://blog.fefe.de/?ts=9b6e749d)
