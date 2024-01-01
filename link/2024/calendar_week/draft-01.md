@@ -1,0 +1,5 @@
+* [Linux wurde in den Versionen 6.6.9 und 6.1.70 veröffentlicht.](https://lwn.net/Articles/956524/)
+* [Rav1e wurde in der Version 0.7.0 veröffentlicht.](https://www.phoronix.com/news/Rav11-0.7)
+* [Der einzige Jahresrückblick den man schauen muss, der von Martin Sonneborn.](https://martinsonneborn.de/jahresrueckblick-der-herzen/)
+* [Alacritty wurde in der Version 0.13 veröffentlicht.](https://github.com/alacritty/alacritty/releases/tag/v0.13.0)
+* [pytest wurde in der Version 7.4.4 veröffentlicht.](https://github.com/pytest-dev/pytest/releases/tag/7.4.4)
