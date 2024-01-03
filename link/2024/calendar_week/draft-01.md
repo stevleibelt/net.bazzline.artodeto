@@ -12,3 +12,10 @@
 * [Gnuplot wurde in der Version 6.0 veröffentlicht.](https://lwn.net/Articles/956454/)
 * [NewPipe wurde in der Version 0.26.0 veröffentlicht.](https://newpipe.net/blog/pinned/release/newpipe-0.26.0+.1/)
 * [Martin Sonneborn: >>Bericht aus Brüssel 6 – Fake Fleisch, Völkermord, Austritte bei den Grünen<<](https://martinsonneborn.de/bericht-aus-bruessel-6-fake-fleisch-voelkermord-austritte-bei-den-gruenen/#)
+* [Es gibt doch eine gute Sache an KI, Influencer werden arbeitslos weil eine KI immer Werbung machen kann.](http://blog.fefe.de/?ts=9b6a8fa6)
+* [Kapitalismus und Optimierungswahn im Endstadium, um mehr Fiat-Geld zu erzeugen, sterben jetzt auch Menschen in Flugzeugen auf der Landebahn.](http://blog.fefe.de/?ts=9b6ac28b)
+* [ruff wurde in der Version 0.1.11 veröffentlicht.](https://github.com/astral-sh/ruff/releases/tag/v0.1.11)
+* [sqlalchemy wurde in der Version 2.0.25 veröffentlicht.](https://github.com/sqlalchemy/sqlalchemy/releases/tag/rel_2_0_25)
+* [Google Chromes WebRTC ist kaputt.](https://www.linux-magazin.de/blogs/google-chrome-fehler-in-webrtc/)
+* [freecodecamp.org zeigt euch, wie ihr ein Spiel in Python programmiert.](https://www.freecodecamp.org/news/pygame-tutorial-alien-abduction-game/) - Ideal für Kinder
+* [Xerox hat Nutzerdaten verloren.](https://www.bleepingcomputer.com/news/security/xerox-says-subsidiary-xbs-us-breached-after-ransomware-gang-leaks-data/) - Wie immer, nicht die fehlende Bereitschaft an Sicherheit, sondern die bösen Angreifer sind schuld
