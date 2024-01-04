@@ -19,3 +19,12 @@
 * [Google Chromes WebRTC ist kaputt.](https://www.linux-magazin.de/blogs/google-chrome-fehler-in-webrtc/)
 * [freecodecamp.org zeigt euch, wie ihr ein Spiel in Python programmiert.](https://www.freecodecamp.org/news/pygame-tutorial-alien-abduction-game/) - Ideal für Kinder
 * [Xerox hat Nutzerdaten verloren.](https://www.bleepingcomputer.com/news/security/xerox-says-subsidiary-xbs-us-breached-after-ransomware-gang-leaks-data/) - Wie immer, nicht die fehlende Bereitschaft an Sicherheit, sondern die bösen Angreifer sind schuld
+* [fwupd wurde in der Version 1.9.11 veröffentlicht.](https://github.com/fwupd/fwupd/releases/tag/1.9.11)
+* [Die Präsidentin von Harvard ist zurückgetreten.](http://blog.fefe.de/?ts=9b68d2c1)
+* [mit einer konstenlosen Kopie Geld verdienen, KSV1870 zeigt den Kapitalismus im Endstadium. Danke noyb, dass ihr eine Anzeige raus gehauen habt.](https://noyb.eu/de/creditors-protection-association-earns-millions-actually-cost-free-gdpr-rights)
+* [Manche Webseiten fordern jetzt 12 Zeichen als Mindestlänge für Passwörter.](https://www.bleepingcomputer.com/news/security/lastpass-now-requires-12-character-master-passwords-for-better-security/) - Ich nutze seit Jahren 48 Zeichen oder länger. Wenn ich eine Webseite finde, die mir 48 Zeichen verbietet, lasse ich die Finger von der Webseite. Am Ende speichern diese Webseiten das Passwort im Klartext ab
+* [HealthEC LLC hat 4,5 Millionen Patientendatensätze verloren.](https://www.bleepingcomputer.com/news/security/data-breach-at-healthcare-tech-firm-impacts-45-million-patients/)
+* [Vim wurde in der Version 9.1 veröffentlicht.](https://www.phoronix.com/news/Vim-9.1-Released)
+* [`<img src="foo.png" alt="This is a foo image" loading="lazy">`](https://www.freecodecamp.org/news/how-lazy-loading-works-in-web-development/)
+* [Der SSH-Angriff Terrapin kann aktuell auf 11 Millionen SSH-Servern ausgenutzt werden.](https://www.bleepingcomputer.com/news/security/nearly-11-million-ssh-servers-vulnerable-to-new-terrapin-attacks/)
+* [Hier wird euch gezeigt, wie ihr eure SSH-Server gegen Terrapin absichert.](https://staex.io/blog/terrapin-attack-on-ssh-what-do-you-need-to-know) - `sshd -T | sed -nr 's/(chacha20-poly1305@openssh\.com,|,chacha20-poly1305@openssh\.com)//gip' >> /etc/ssh/sshd_config`
