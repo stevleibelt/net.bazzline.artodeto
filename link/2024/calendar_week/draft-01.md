@@ -36,3 +36,4 @@
 * [iOS ist bist 16.2 kaputt.](https://www.schneier.com/blog/archives/2024/01/new-iphone-exploit-uses-four-zero-days.html)
 * [Die EU-Bürgerbeauftragte leitet eine Untersuchung gegen Europol im Fall der Chatkontrolle ein.](https://www.patrick-breyer.de/chatkontrolle-eu-buergerbeauftragte-leitet-untersuchung-gegen-europol-ein/) - Die Frage, die geklärt werden soll, ist: Wie viele Lobbyschuhe gehen mit Geldkoffern in Europol ein und aus?
 * [>>Twitch (das ist so was wie You­Tube für Men­schen mit ADHS)<<](https://tuxproject.de/blog/2024/01/ohne-hose-gegen-twitch/)
+* [Oh man ... ich habe gerade >>YOU’VE JUST BEEN FUCKED BY PSYOPS<< geschaut.](https://media.ccc.de/v/37c3-12326-you_ve_just_been_fucked_by_psyops) ... und jetzt brauch ich ein paar Tage um das zu verdauen
