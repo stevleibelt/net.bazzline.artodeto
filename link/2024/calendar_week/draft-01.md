@@ -37,3 +37,6 @@
 * [Die EU-Bürgerbeauftragte leitet eine Untersuchung gegen Europol im Fall der Chatkontrolle ein.](https://www.patrick-breyer.de/chatkontrolle-eu-buergerbeauftragte-leitet-untersuchung-gegen-europol-ein/) - Die Frage, die geklärt werden soll, ist: Wie viele Lobbyschuhe gehen mit Geldkoffern in Europol ein und aus?
 * [>>Twitch (das ist so was wie You­Tube für Men­schen mit ADHS)<<](https://tuxproject.de/blog/2024/01/ohne-hose-gegen-twitch/)
 * [Oh man ... ich habe gerade >>YOU’VE JUST BEEN FUCKED BY PSYOPS<< geschaut.](https://media.ccc.de/v/37c3-12326-you_ve_just_been_fucked_by_psyops) ... und jetzt brauch ich ein paar Tage um das zu verdauen
+* [Eine Boing 737 Max verlor eine Tür im Flug.](https://blog.fefe.de/?ts=9b67f83f) - Auch dies ist ein gutes Zeichen, dass die Gewinnmaximierer hier völlig auf Sicherheit und Nachhaltigkeit verzichten
+* [Der öffentliche Rundfunk, da werden Nazis und Bauern mal schnell verwechselt.](https://blog.fefe.de/?ts=9b66afc2) - Nein? Das ist bestimmt noch nie passiert!
+* [Laut einer Statistik gehen privat geführte Krankenhäuser irgendwann pleite, weil ihnen ihre selbst versorgten Patienten wegsterben.](https://blog.fefe.de/?ts=9b66aeef) - Warum sterben die? Weil die Krankenhäuser schlecht behanden. Das ist bei Pharmafirmen bestimmt ganz anders!
