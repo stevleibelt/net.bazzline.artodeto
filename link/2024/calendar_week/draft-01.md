@@ -52,3 +52,7 @@
 * [js-lingui wurde in der Version 4.7.0 veröffentlicht.](https://github.com/lingui/js-lingui/releases/tag/v4.7.0)
 * [grav wurde in der Version 1.7.44 veröffentlicht.](https://github.com/getgrav/grav/releases/tag/1.7.44)
 * [fastapi-limiter wurde in der Version 0.1.6 veröffentlicht.](https://github.com/long2ice/fastapi-limiter/releases/tag/v0.1.6)
+* [Auch in Polen protestieren die Bauern.](https://blog.fefe.de/?ts=9b67211b)
+* [Memtest86+ wurde in der Version 7.0 veröffentlicht.](https://www.phoronix.com/news/Memtest-86-Plus-7.0)
+* [>>Unser Kopf ist rund, damit das Denken die Richtung wechseln kann<<](https://netzpolitik.org/2024/oeffentliches-geld-oeffentliches-gut-museum-oeffne-dich/)
+* [librenms wurde in der Version 24.1.0 veröffentlicht.](https://github.com/librenms/librenms/releases/tag/24.1.0)
