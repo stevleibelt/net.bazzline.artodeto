@@ -40,3 +40,15 @@
 * [Eine Boing 737 Max verlor eine Tür im Flug.](https://blog.fefe.de/?ts=9b67f83f) - Auch dies ist ein gutes Zeichen, dass die Gewinnmaximierer hier völlig auf Sicherheit und Nachhaltigkeit verzichten
 * [Der öffentliche Rundfunk, da werden Nazis und Bauern mal schnell verwechselt.](https://blog.fefe.de/?ts=9b66afc2) - Nein? Das ist bestimmt noch nie passiert!
 * [Laut einer Statistik gehen privat geführte Krankenhäuser irgendwann pleite, weil ihnen ihre selbst versorgten Patienten wegsterben.](https://blog.fefe.de/?ts=9b66aeef) - Warum sterben die? Weil die Krankenhäuser schlecht behanden. Das ist bei Pharmafirmen bestimmt ganz anders!
+* [>>Die Bauern haben eine starke Lobby hinter sich, die Letzte Generation hat eine starke Lobby gegen sich. Ist ja klar, wer da am Ende verurteilt wird und wer nicht.<<](https://blog.fefe.de/?ts=9b692c09)
+* [Bei GNOME kann man sich jetzt via RDP anmelden.](https://www.phoronix.com/news/GNOME-RDP-Remote-Login)
+* [Auf freecodecamp.org wird euch das Spektrum zum Thema "Javascript und Strings" erklärt.](https://www.freecodecamp.org/news/javascript-string-handbook/)
+* [freecodecamp.org hilft euch nicht nur ARIA sondern auch Dropdown-Menues zu verstehen.](https://www.freecodecamp.org/news/how-to-build-an-accessible-custom-dropdown-select-element/)
+* [Zeiterfassung wurde in der Version 2.0.1 veröffentlicht.](https://github.com/urlaubsverwaltung/zeiterfassung/releases/tag/zeiterfassung-2.0.1)
+* [riggrep wurde in der Version 14.1.0 veröffentlicht.](https://github.com/BurntSushi/ripgrep/releases/tag/14.1.0)
+* [frankenphp wurde in der Version 1.0.3 veröffentlicht.](https://github.com/dunglas/frankenphp/releases/tag/v1.0.3)
+* [firewalld wurde in der Version 2.1.0 veröffentlicht.](https://github.com/firewalld/firewalld/releases/tag/v2.1.0)
+* [changedetection.io wurde in der VErsion 0.45.12 veröffentlicht.](https://github.com/dgtlmoon/changedetection.io/releases/tag/0.45.12)
+* [js-lingui wurde in der Version 4.7.0 veröffentlicht.](https://github.com/lingui/js-lingui/releases/tag/v4.7.0)
+* [grav wurde in der Version 1.7.44 veröffentlicht.](https://github.com/getgrav/grav/releases/tag/1.7.44)
+* [fastapi-limiter wurde in der Version 0.1.6 veröffentlicht.](https://github.com/long2ice/fastapi-limiter/releases/tag/v0.1.6)
