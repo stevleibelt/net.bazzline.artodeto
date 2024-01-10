@@ -20,3 +20,6 @@
 * [>>US-Polizeien greifen bei Ermittlungen immer öfter auf Informationen aus Google-Suchdaten zurück.<<](https://netzpolitik.org/2024/google-search-digitale-rasterfahndungen-durch-die-us-polizei/)
 * [Während die UN noch überlegt, wass denn genau Computerkriminalität ist, werden den Überwachungsorganen schon wieder die Hosen feucht und sie fordern einen Überwachungskatalog der alles unter Generalverdacht stellt.](https://netzpolitik.org/2024/un-cybercrime-convention-der-vertrag-soll-einen-umfassenden-zugang-zu-daten-schaffen/)
 * [37c3: Operation Triangulation what you get when attack iphones of researchers](https://media.ccc.de/v/37c3-11859-operation_triangulation_what_you_get_when_attack_iphones_of_researchers) - Ich gebe allen anderen recht, die dieses Video verlinkt haben. Ihr müsst es vollständig anschauen. Da ist so viel tolles dabei. Das Ende ist ein richtiger "Banger". Ab iOS 16.6 funktioniert dieser Hack nicht mehr, aber Boiiiii, das ist ein fettest Brett.
+* [PrivacyIdea wurde in der Version 3.9.2 veröffentlicht.](https://github.com/privacyidea/privacyidea/releases/tag/v3.9.2)
+* [Das engelsystem wurde in der Version 3.5.0 veröffentlicht.](https://github.com/engelsystem/engelsystem/releases/tag/v3.5.0)
+* [Joomla wurde in der Version 5.0.2 veröffentlicht.](https://github.com/joomla/joomla-cms/releases/tag/5.0.2)
