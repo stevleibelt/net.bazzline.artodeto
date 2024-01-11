@@ -1,4 +1,4 @@
-* [HeavyScript wurde in der Version 2.8.0 veröffentlicht.](https://github.com/Heavybullets8/heavy_script/releases/tag/v2.8.0)
+* [HeavyScript wurde in der Version 2.9.0 veröffentlicht.](https://github.com/Heavybullets8/heavy_script/releases/tag/v2.9.0)
 * [Heroic Games Launcher wurde in der Version 2.12.0 veröffentlicht.](https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher/releases/tag/v2.12.0)
 * [Deutschland verkauft Eurofighter an Saudi Arabien damit diese wiederum Systemfeinde wegbomben können und das hilft wiederum Israel.](http://blog.fefe.de/?ts=9b65faa9) - Hättet ihr nicht gedacht oder? Ich auch nicht!
 * [Wenn der Blog von Uberspace nicht reicht, steht die gewünschte Information ggf. auf der Statusseite.](https://is.uberspace.online/) - Gegen Terrapin wurden Maßnahmen getroffen.
@@ -23,3 +23,13 @@
 * [PrivacyIdea wurde in der Version 3.9.2 veröffentlicht.](https://github.com/privacyidea/privacyidea/releases/tag/v3.9.2)
 * [Das engelsystem wurde in der Version 3.5.0 veröffentlicht.](https://github.com/engelsystem/engelsystem/releases/tag/v3.5.0)
 * [Joomla wurde in der Version 5.0.2 veröffentlicht.](https://github.com/joomla/joomla-cms/releases/tag/5.0.2)
+* [>>Das ist ja schon eine sehr wohlschmeckende Ironie, finde ich. Ihr dachtet, ihr könnt euch das Geld für ordentlich bezahlte Arbeiter sparen, indem ihr KI nehmt? Stellt sich raus: Für ordentliche KI muss man auch Arbeit ordentlich bezahlen!<<](http://blog.fefe.de/?ts=9b61f856) - Schön zu sehen, dass die Arbeiterfront mittlerweile medial schnell auf Ausbeutung reagiert. Click-Worker gibt es nun schon über fünf Jahre, da wird es Zeit diese harte Arbeit auch zu entlohnen
+* [Schöne Idee von FeFe, Pirate Bay und Scihub durch Risikokapital schützen.](http://blog.fefe.de/?ts=9b60b97e) - Im Grunde ist das ja wie mit Sekten und offiziell anerkannte Glaubensgemeinschaften, letztere sind genau so kaputt wie erstere, aber werden von einer kritischen Masse an Personen geistig getragen
+* [DSGVO-konformer Dienstbetrieb? Das sieht bei Hackfressenbuch anders aus.](https://noyb.eu/de/meta-ignores-users-right-easily-withdraw-consent) - DSGVO geht nur mit teurem Abo bei denen
+* ["simple MFA" funktioniert nicht.](https://utcc.utoronto.ca/~cks/space/blog/tech/MFAIsBothSimpleAndWork) - Jeder, der mal ein Schmierphone verloren hat und danach versucht hat seine Banking-App wieder zum laufen zu bringen weiß, wovon wir hier schreiben
+* [Vom 20.09.2024 bis zum 22.09.2024 lädt der c3d2 zur Feier des 20. Geburtstages der Datenspuren](https://events.ccc.de/2024/01/10/ds24-ankuendigung/)
+* [Windows 10 kann sich mal wieder nicht aktualisieren und geht kaputt.](https://www.bleepingcomputer.com/news/microsoft/windows-10-kb5034441-security-update-fails-with-0x80070643-errors/)
+* [UN Cybercrime Convention, oder ... Big Brother is watching all of us.](https://netzpolitik.org/2024/un-cybercrime-convention-wie-der-traum-eines-autoritaeren-staates/) - Ganz ehrlich, in dieser Form führt die Konvention dazu, dass es egal ist wo du wohnst, da dann zentral vom amerikanischen Aggressor oder Blackrock ALLES überwacht wird
+* [freecodecamp.org hat ein JavaScript DOM-Manipulations-Handbuch veröffentlicht.](https://www.freecodecamp.org/news/the-javascript-dom-manipulation-handbook/)
+* [Hier wird euch erklärt warum stderr so viel langsamer als stdout ist.](https://blog.orhun.dev/stdout-vs-stderr/)
+* [Wenn ihr, als Blockpartei, nicht wollt, dass die Überwachungsgesamtrechnung schlecht für euch ausgeht, dann gebt ihr dem Ersteller dieser Aufgabe einfach sack wenig Zeit.](https://netzpolitik.org/2024/ueberwachungsgesamtrechnung-jetzt-gehts-los/) - Und das Schweigegeld nimmt der Ersteller an, da der Preis fix ist, egal wie viel Zeit investiert werden kann
