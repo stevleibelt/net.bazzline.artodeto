@@ -33,3 +33,18 @@
 * [freecodecamp.org hat ein JavaScript DOM-Manipulations-Handbuch veröffentlicht.](https://www.freecodecamp.org/news/the-javascript-dom-manipulation-handbook/)
 * [Hier wird euch erklärt warum stderr so viel langsamer als stdout ist.](https://blog.orhun.dev/stdout-vs-stderr/)
 * [Wenn ihr, als Blockpartei, nicht wollt, dass die Überwachungsgesamtrechnung schlecht für euch ausgeht, dann gebt ihr dem Ersteller dieser Aufgabe einfach sack wenig Zeit.](https://netzpolitik.org/2024/ueberwachungsgesamtrechnung-jetzt-gehts-los/) - Und das Schweigegeld nimmt der Ersteller an, da der Preis fix ist, egal wie viel Zeit investiert werden kann
+* [Neo-Backup wurde in der Version 8.3.5 veröffentlicht.](https://github.com/NeoApplications/Neo-Backup/releases/tag/8.3.5)
+* [ruff wurde in der Version 0.1.12 veröffentlicht.](https://github.com/astral-sh/ruff/releases/tag/v0.1.12)
+* [fastapi wurde in der Version 0.109.0 veröffentlicht.](https://github.com/tiangolo/fastapi/releases/tag/0.109.0)
+* [SingularityCE wurde in Version 4.0.3 veröffentlicht.](https://github.com/sylabs/singularity/releases/tag/v4.0.3)
+* [37c3: Hirne hacken: Hackback Edition](https://media.ccc.de/v/37c3-12134-hirne_hacken_hackback_edition) - Der Vortrag ist gut und macht Spaß, wer sich von euch um das Thema Backup kümmern darf, [hier](https://media.ccc.de/v/37c3-12134-hirne_hacken_hackback_edition#t=1142) ist die wichtige Sprungmarke für euch
+* [Die Cowboys von "Über den Teich" haben beschlossen, dass Israel im Gazastreifen kein Genozid macht.](http://blog.fefe.de/?ts=9b5ea942) - Passend dazu auch [Wenn ein Böser und ein Guter das Glei­che tun, ist das noch lan­ge nicht dasselbe.
+](https://tuxproject.de/blog/2024/01/kurz-gefragt-8-christian-duerr/)
+* [Ich hoffe, dass die Polizei aus Bayern, Hessen, Hamburg und Sachsen nicht zu sehr nach Serbien schauen.](http://blog.fefe.de/?ts=9b6112d4) - Die kommen doch immer so schnell auf dumme Ideen wenn denen langweilig ist
+* [37c3: Fortbildung Cyber-Astrologie & KI-Karma: Keine Ahnung was noch kommt, die ersten zwei Minuten sind schon das Klicken auf dem Link wert!](https://media.ccc.de/v/37c3-12019-fortbildung_cyber-astrologie_ki-karma#t=92)
+* [OpenJ9 wurde in der Version 0.42 veröffentlicht.](https://www.phoronix.com/news/Eclipse-OpenJ9-0.42)
+* [Das POST SMTP Mailer WordPress plugin ist kaputt.](https://www.bleepingcomputer.com/news/security/over-150k-wordpress-sites-at-takeover-risk-via-vulnerable-plugin/)
+* [>>Die Photobastei Zürich bringt den Techno vom 11. Januar bis 31. März 2024 mit zwei grossen Ausstellungen und einem Begleitprogramm ins Museum!<<](https://www.rave-strikes-back.de/?p=12114)
+* [An der TU Bergakademie Freiberg fand die erste sächsische Rohstoffkonferenz statt.](https://www.mdr.de/video/mdr-videos/a/video-788798.html)
+* []
+* [Kuketz fasst einmal zusammen was der us-amerikanische Aggressor so alles erlaubt](https://www.kuketz-blog.de/jenseits-der-grenzen-ueberblick-ueber-das-us-geheimdienstrecht/)
