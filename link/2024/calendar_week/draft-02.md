@@ -52,3 +52,8 @@
 * [FeFe macht sich über die deutsche Clusterpolitik und Cluster4Future lustig wie er es nur kann.](https://blog.fefe.de/?ts=9b5ffd65) - LOL/YMMD/LGTM
 * [Bosch-Akkuschrauber müssen jetzt online sein und können damit Ransomware beinhalten.](https://blog.fefe.de/?ts=9b5ff8bc) - Wenn du keinen Bock mehr auf die lästige Inovation hast, dann machst du dein Volk kaputt und verdeckst alles mit Patent- und Lizenzbums
 * [Mist! GitLab ist gerade richtig kaputt.](https://blog.fefe.de/?ts=9b5ff4d8)
+* [Fortinet, Citrix und Ivanti sind mal wieder kaputt.](https://www.borncity.com/blog/2024/01/13/warnung-vor-schwachstellen-fortinet-ivanti-und-mehr-januar-2024/)
+* [Microsoft SharePoint ist wieder mal kaputt.](https://www.borncity.com/blog/2024/01/13/microsoft-sharepoint-server-rce-schwachstelle-cve-2024-21318-patchen-und-alte-cve-2023-29357-wird-angegriffen/)
+* [Lutris wurde in der Version 0.5.15 veröffentlicht.](https://www.phoronix.com/news/Lutris-0.5.15-Released)
+* [PulseAudio wurde in der Version 17.0 veröffentlicht.](https://www.phoronix.com/news/PulseAudio-17.0-Released)
+* [GlückAufTV: Warum gehen die Bauern auf die Straße?: youtube.com](https://www.youtube.com/watch?v=CDNBVHbX7VU)
