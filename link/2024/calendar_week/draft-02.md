@@ -33,8 +33,8 @@
 * [freecodecamp.org hat ein JavaScript DOM-Manipulations-Handbuch veröffentlicht.](https://www.freecodecamp.org/news/the-javascript-dom-manipulation-handbook/)
 * [Hier wird euch erklärt warum stderr so viel langsamer als stdout ist.](https://blog.orhun.dev/stdout-vs-stderr/)
 * [Wenn ihr, als Blockpartei, nicht wollt, dass die Überwachungsgesamtrechnung schlecht für euch ausgeht, dann gebt ihr dem Ersteller dieser Aufgabe einfach sack wenig Zeit.](https://netzpolitik.org/2024/ueberwachungsgesamtrechnung-jetzt-gehts-los/) - Und das Schweigegeld nimmt der Ersteller an, da der Preis fix ist, egal wie viel Zeit investiert werden kann
-* [Neo-Backup wurde in der Version 8.3.5 veröffentlicht.](https://github.com/NeoApplications/Neo-Backup/releases/tag/8.3.5)
-* [ruff wurde in der Version 0.1.12 veröffentlicht.](https://github.com/astral-sh/ruff/releases/tag/v0.1.12)
+* [Neo-Backup wurde in der Version 8.3.6 veröffentlicht.](https://github.com/NeoApplications/Neo-Backup/releases/tag/8.3.6)
+* [ruff wurde in der Version 0.1.13 veröffentlicht.](https://github.com/astral-sh/ruff/releases/tag/v0.1.13)
 * [fastapi wurde in der Version 0.109.0 veröffentlicht.](https://github.com/tiangolo/fastapi/releases/tag/0.109.0)
 * [SingularityCE wurde in Version 4.0.3 veröffentlicht.](https://github.com/sylabs/singularity/releases/tag/v4.0.3)
 * [37c3: Hirne hacken: Hackback Edition](https://media.ccc.de/v/37c3-12134-hirne_hacken_hackback_edition) - Der Vortrag ist gut und macht Spaß, wer sich von euch um das Thema Backup kümmern darf, [hier](https://media.ccc.de/v/37c3-12134-hirne_hacken_hackback_edition#t=1142) ist die wichtige Sprungmarke für euch
@@ -48,3 +48,7 @@
 * [An der TU Bergakademie Freiberg fand die erste sächsische Rohstoffkonferenz statt.](https://www.mdr.de/video/mdr-videos/a/video-788798.html)
 * []
 * [Kuketz fasst einmal zusammen was der us-amerikanische Aggressor so alles erlaubt](https://www.kuketz-blog.de/jenseits-der-grenzen-ueberblick-ueber-das-us-geheimdienstrecht/)
+* [OpenAI und damit ChatGPT sind jetzt für den Einsatz im Militär und im Krieg moralisch bereit.](https://theintercept.com/2024/01/12/open-ai-military-ban-chatgpt/)
+* [FeFe macht sich über die deutsche Clusterpolitik und Cluster4Future lustig wie er es nur kann.](https://blog.fefe.de/?ts=9b5ffd65) - LOL/YMMD/LGTM
+* [Bosch-Akkuschrauber müssen jetzt online sein und können damit Ransomware beinhalten.](https://blog.fefe.de/?ts=9b5ff8bc) - Wenn du keinen Bock mehr auf die lästige Inovation hast, dann machst du dein Volk kaputt und verdeckst alles mit Patent- und Lizenzbums
+* [Mist! GitLab ist gerade richtig kaputt.](https://blog.fefe.de/?ts=9b5ff4d8)
