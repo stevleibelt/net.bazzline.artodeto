@@ -57,3 +57,4 @@
 * [Lutris wurde in der Version 0.5.15 veröffentlicht.](https://www.phoronix.com/news/Lutris-0.5.15-Released)
 * [PulseAudio wurde in der Version 17.0 veröffentlicht.](https://www.phoronix.com/news/PulseAudio-17.0-Released)
 * [GlückAufTV: Warum gehen die Bauern auf die Straße?: youtube.com](https://www.youtube.com/watch?v=CDNBVHbX7VU)
+* [Bosch BCC100 Thermostate sind jetzt auch gehackt.](https://www.borncity.com/blog/2024/01/14/bitdefender-findet-schwachstellen-in-bosch-bcc100-thermostaten/)
