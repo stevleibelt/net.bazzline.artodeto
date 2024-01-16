@@ -7,3 +7,17 @@
 * [Tja, der selbst bestimmte Haushalt der Blockpartei ist knapp und so geht auch die Digitalisierung nicht weiter.](https://netzpolitik.org/2024/degitalisierung-das-einsparparadox/) - Das darf man nicht falsch verstehen. Die Lizenzen an Microsoft, Oracle und wer sonst noch so in Berlin mit Geldkoffern ein- und ausgeht werden bezahlt. Die Daten der Bürger werden auch weiterhin erfasst, aber am Schritt, dass der Bürger etwas davon hat oder gar Auskunft über seine erhobenen Daten stellen kann ... tja, also da muss nun wirklich mal gesparrt werden!
 * [GitLab wurde in den Versionen 16.7.2, 16.6.4 und 16.5.5 veröffentlicht.](https://www.linux-magazin.de/news/gitlab-schliesst-kritische-sicherheitsluecken/) - Damit werden [diese Fehler](https://blog.fefe.de/?ts=9b5ff4d8) behoben
 * [Die easterheg 2024 findet vom 29.03.2024 bis 01.03.2024 statt.](https://events.ccc.de/2024/01/15/easterhegg-2024/)
+* [Die größte und strahlenste Nation der Welt und überhaupt kommt mit etwas Wind und minus zehn Grad Celsius nicht zurande.](http://blog.fefe.de/?ts=9b5be2d1) - Richtiger Verkaufsschlager dieses USA, möchte ich niemals mal hinziehen
+* [Google wird immer schlimmer (Be Evil!), nachdem man mit Lootboxen die Kinder- und Erwachsene kaputt gemacht hat, gibt es jetzt den Endstoß durch offizelle Glücksspiel- und Casinoapps.](http://blog.fefe.de/?ts=9b5bdfb0)
+* [flet wurde in der Version 0.19.0 veröffentlicht.](https://github.com/flet-dev/flet/releases/tag/v0.19.0)
+* [openfoodnetwork wurde in der Version 4.4.25 veröffentlicht.](https://github.com/openfoodfoundation/openfoodnetwork/releases/tag/v4.4.25)
+* [mermaid wurde in der Version 10.7.0 veröffentlicht.](https://github.com/mermaid-js/mermaid/releases/tag/v10.7.0)
+* [Android debugging macht auch in Version 14 keinen Spaß.](https://blog.hansenpartnership.com/debugging-android-early-boot-failures/) - Klar, "Be Evil" will Wegverfschrott verkaufen. Dinge reparieren zu können stört da nur bei der Gewinnmarge!
+* [SQLite wurde in der Version 3.45 veröffentlicht.](https://www.phoronix.com/news/SQLite-3.45-Released)
+* [Jugendschutzfilter? Aber bitte nur Transparent und Eigenmündig!](https://netzpolitik.org/2024/kommentar-fuenf-forderungen-fuer-gute-jugendschutz-filter/)
+* [Apropos Jugendschutzfilter, über Verhütung kann man sich mit Jugendschutzfilter nicht informieren :-(.](https://netzpolitik.org/2024/verhuetung-erst-ab-18-deutschlands-wichtigster-jugendschutz-filter-blockiert-hilfsangebote/)
+* [Versorgungskettenproblem? Das gibt es auch bei Software!](https://lwn.net/Articles/958318/)
+* [libvirt wurde in der Version 10.0 veröffentlicht.](https://www.phoronix.com/news/libvirt-10.0-Released)
+* [Ausländerzentralregister? Wir sollten über die generelle Sammelwut deutscher Behörden sprechen!](https://netzpolitik.org/2024/auslaenderzentralregister-das-fass-laeuft-schon-lange-ueber/)
+* [Zwölf Sekunden reichen heutzutage aus um eure Stimme zu klonen.](https://www.schneier.com/blog/archives/2024/01/voice-cloning-with-very-short-samples.html)
+* [Digital Markets Act der EU wirkt! >>[google bietet] für Benutzer und Benutzerinnen in der EU die Möglichkeit [...], eine Verknüpfung zwischen folgenden Google-Diensten beizubehalten.<<](https://www.borncity.com/blog/2024/01/15/google-reagiert-auf-eu-digital-markets-act-dma-und-ermglicht-dienste-zu-verwalten/)
