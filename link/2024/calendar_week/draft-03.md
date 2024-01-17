@@ -21,3 +21,16 @@
 * [Ausländerzentralregister? Wir sollten über die generelle Sammelwut deutscher Behörden sprechen!](https://netzpolitik.org/2024/auslaenderzentralregister-das-fass-laeuft-schon-lange-ueber/)
 * [Zwölf Sekunden reichen heutzutage aus um eure Stimme zu klonen.](https://www.schneier.com/blog/archives/2024/01/voice-cloning-with-very-short-samples.html)
 * [Digital Markets Act der EU wirkt! >>[google bietet] für Benutzer und Benutzerinnen in der EU die Möglichkeit [...], eine Verknüpfung zwischen folgenden Google-Diensten beizubehalten.<<](https://www.borncity.com/blog/2024/01/15/google-reagiert-auf-eu-digital-markets-act-dma-und-ermglicht-dienste-zu-verwalten/)
+* [Playwright-python wurde in der Version 1.41.0 veröffentlicht.](https://github.com/microsoft/playwright-python/releases/tag/v1.41.0)
+* [TrueNAS Scale wurde in der Version 23.10.1.1 veröffentlicht.](https://github.com/truenas/documentation/releases/tag/TS23.10.1.1)
+* [Backstage wurde in der Version 1.22.0 veröffentlicht.](https://github.com/backstage/backstage/releases/tag/v1.22.0)
+* [Bun wurde in der Version 1.0.23 veröffentlicht.](https://github.com/oven-sh/bun/releases/tag/bun-v1.0.23)
+* [Menschliche Schutzschilde sind als Taktik wohl auch in Isreal bekannt.](http://blog.fefe.de/?ts=9b59d59f)
+* [Alle UEFI-Systeme sind kaputt wenn ihr PXE und IPv6 macht.](http://blog.fefe.de/?ts=9b5831be) - Deswegen PXE immer schön ausschalten
+* [Ich hatte schon kurz Sorge bei FeFe, die Bauernproteste sind da, weil die Kleinbauern wegsterben.](http://blog.fefe.de/?ts=9b587265) - Großbetriebe kann kein normaler Mensch wollen
+* [Schöne neue Zukunft, bei einer Missbrauchs-Schlagzeile (Ich weiß, Treppenwitz) fehlt ein Bild, also nimmt die KI ein Bild von $irgendjemand.](http://blog.fefe.de/?ts=9b584af2) - Auch du hast die Chance bei Microsoft News ein Täter zu sein!
+* [GlückAufTV: Miteinander reden, statt übereinander - Freiberger Agenda 21](https://www.youtube.com/watch?v=eV-c0eL4JSU)
+* [gitea wurde in der Version 1.21.4 veröffentlicht.](https://github.com/go-gitea/gitea/releases/tag/v1.21.4)
+* [FastAPI 0.109.0 funktioniert hinter einem Proxy eventuell nicht mehr.](https://github.com/tiangolo/fastapi/issues/10978)
+* [freecodecamp.org hat einen Artikel veröffentlicht, der Arrow-Functions und Regular-Functions in JavaScript vergleicht.](https://www.freecodecamp.org/news/regular-vs-arrow-functions-javascript/) - Danke!
+* [Wine wurde in der Version 9.0 veröffentlicht.](https://www.phoronix.com/news/Wine-9.0-Released)
