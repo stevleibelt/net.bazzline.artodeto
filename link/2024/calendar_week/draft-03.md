@@ -24,7 +24,7 @@
 * [Playwright-python wurde in der Version 1.41.0 veröffentlicht.](https://github.com/microsoft/playwright-python/releases/tag/v1.41.0)
 * [TrueNAS Scale wurde in der Version 23.10.1.1 veröffentlicht.](https://github.com/truenas/documentation/releases/tag/TS23.10.1.1)
 * [Backstage wurde in der Version 1.22.0 veröffentlicht.](https://github.com/backstage/backstage/releases/tag/v1.22.0)
-* [Bun wurde in der Version 1.0.23 veröffentlicht.](https://github.com/oven-sh/bun/releases/tag/bun-v1.0.23)
+* [Bun wurde in der Version 1.0.24 veröffentlicht.](https://github.com/oven-sh/bun/releases/tag/bun-v1.0.24)
 * [Menschliche Schutzschilde sind als Taktik wohl auch in Isreal bekannt.](http://blog.fefe.de/?ts=9b59d59f)
 * [Alle UEFI-Systeme sind kaputt wenn ihr PXE und IPv6 macht.](http://blog.fefe.de/?ts=9b5831be) - Deswegen PXE immer schön ausschalten
 * [Ich hatte schon kurz Sorge bei FeFe, die Bauernproteste sind da, weil die Kleinbauern wegsterben.](http://blog.fefe.de/?ts=9b587265) - Großbetriebe kann kein normaler Mensch wollen
@@ -48,3 +48,12 @@
 * [Jira ist kaputt.](http://blog.fefe.de/?ts=9b57d455) - In der Klaut von Jira donnert es gerade hart
 * [>>Aber man macht es trotzdem, weil irgendein windiger Finanzjongleur die Zahlen unter Annahmen aus der Kategorie "Lack gesoffen" so frisiert kriegt, dass die Projektion nach Geld Sparen aussieht.<<](http://blog.fefe.de/?ts=9b57dd63)
 * [Ihr kennt das ja, deutsche Steuergelder werden am besten in Berlin verbrannt.](http://blog.fefe.de/?ts=9b57e165) - Kurzum, das Volk bezahl den Aufbau und dem Betrieb einer Außenstelle die nur dafür die Welt noch mehr kaputt zu machen
+* [ruff wurde in der Version 0.1.14 veröffentlicht.](https://github.com/astral-sh/ruff/releases/tag/v0.1.14)
+* [FreeRDP wurde in der Version 3.2.0 veröffentlicht.](https://github.com/FreeRDP/FreeRDP/releases/tag/3.2.0)
+* [Der Erfinder vom NTP Dave Mills ist gestorben.](https://lwn.net/Articles/958781/) - Guten Drift!
+* [VMware ist kaputt.](https://www.bleepingcomputer.com/news/security/vmware-confirms-critical-vcenter-flaw-now-exploited-in-attacks/)
+* [>>Mit eurer Unterstützung wird unsere Spitzenkandidatin Anja Hirschel die Fackel der Freiheit in Brüssel ab 2024 weiter tragen und im Innenausschuss (LIBE) des EU-Parlaments die von Patrick Breyer begonnenen Verhandlungen mit demselben Team weiter führen [...]<](https://www.patrick-breyer.de/europawahl-2024-piraten-waehlen/)
+* [VirtualBox wurde in den Versionen 6.1.50 und 7.0.14 veröffentlicht.](https://www.borncity.com/blog/2024/01/19/virtualbox-7-0-14-und-6-1-50-freigegeben/)
+* [GlückAufTV: Protestfahrten durch Freiberg.](https://www.youtube.com/watch?v=F-eu9qxrT_A)
+* [SQLite wurde in der Version 3.45.0 veröffentlicht.](https://www.linux-magazin.de/news/sqlite-3-45-0-erhaeltlich/)
+* [freecodecamp.org erzählt euch wie ihr SonarLint nutzen könnt.](https://www.freecodecamp.org/news/use-sonarlint-to-write-cleaner-code/t)
