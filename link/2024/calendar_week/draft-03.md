@@ -57,3 +57,5 @@
 * [GlückAufTV: Protestfahrten durch Freiberg.](https://www.youtube.com/watch?v=F-eu9qxrT_A)
 * [SQLite wurde in der Version 3.45.0 veröffentlicht.](https://www.linux-magazin.de/news/sqlite-3-45-0-erhaeltlich/)
 * [freecodecamp.org erzählt euch wie ihr SonarLint nutzen könnt.](https://www.freecodecamp.org/news/use-sonarlint-to-write-cleaner-code/t)
+* [Liest man sich so die Patch-Notes vom Microsoft Office durch, denkt man manchmal auch "Das ist ein Startup, die machen das noch nicht lange"](https://www.borncity.com/blog/2024/01/21/kalendereinladung-in-outlook-kann-ber-cve-2023-35636-kennwort-verraten/)
+* [roundcube wurde in der Version 1.6.6 veröffentlicht.](https://roundcube.net/news/2024/01/20/update-1.6.6-released)
