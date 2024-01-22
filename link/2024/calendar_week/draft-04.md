@@ -1,0 +1,2 @@
+* [Mein Reden, diese ganzen "gegen die Nazis" Demonstrationen kommen mir zu spontan und werden mir medial zu stark mitgetragen. So etwas passiert, wenn gerade kein Fußball läuft und die Blackrock-/Blockpartei wieder das Grundgesetzt beschneidet.](http://blog.fefe.de/?ts=9b528906) - >>Union und AfD stimmten gegen das Gesetz, weil es ihnen nicht weit genug geht.<<
+* [Bun wurde in der Version 1.0.25 veröffentlicht.](https://github.com/oven-sh/bun/releases/tag/bun-v1.0.25)
