@@ -4,7 +4,19 @@
 * [Friedrich, Blackrock, Merz erklärt, dass die CDU ja gar nicht so richtig NPD ist.](http://blog.fefe.de/?ts=9b5048c4) - Die NPD haben immerhin eine andere Farbe als das optimistische Schwarz der Christdemokraten
 * [Selenium wurde in der Version 4.17.0 veröffentlicht.](https://github.com/SeleniumHQ/selenium/releases/tag/selenium-4.17.0)
 * [Python-dotenv wurde in der Version 1.0.1 veröffentlicht.](https://github.com/theskumar/python-dotenv/releases/tag/v1.0.1)
-* [earthly wurde in der Version 0.8.0 veröffentlicht.](https://github.com/earthly/earthly/releases/tag/v0.8.0)
+* [earthly wurde in der Version 0.8.1 veröffentlicht.](https://github.com/earthly/earthly/releases/tag/v0.8.1)
 * [loanDepot hat Datensätze von fast 17 Millionen Personen wegen Sicherheitsmängel in der IT verschlampert.](https://www.bleepingcomputer.com/news/security/loandepot-says-ransomware-gang-stole-data-of-166-million-people/)
 * [Bei der Grippe-Impfung haben wir die faktenbasierte Welt seit langem verlassen.](https://impfentscheidung.online/fremdschutz-durch-grippe-impfungen-marketing-ohne-fakten/)
 * [DietPi wurde in der Version 9.0 veröffentlicht.](https://dietpi.com/docs/releases/v9_0/)
+* [Auch in Freiberg gibt es Pfadfinder und die suchen dich!](https://pfadfinden-freiberg.de/)
+* [ToolJet wurde in der Version 2.28.0 veröffentlicht.](https://github.com/ToolJet/ToolJet/releases/tag/v2.28.0)
+* [Moosync wurde in der Version 10.3.0 veröffentlicht.](https://github.com/Moosync/Moosync/releases/tag/v10.3.0)
+* [CasaOS wurde in der Version 0.4.6 veröffentlicht.](https://github.com/IceWhaleTech/CasaOS/releases/tag/v0.4.6)
+* [In Houston (Texas, USA) erhält man eine Strafe von 500 USD, wenn man einen Obdachlosen füttert.](http://blog.fefe.de/?ts=9b4ee910) - So löst man Probleme im Land der untergehenden Moral und dem aufsteigenden Tubrokapitalismus. Das sind die Werte, die uns die atlantische Brücke in der Form von Von-ähm-der-Layen und Blackrock-Merz bringen möchte.
+* [Wow, wenn man das hier liest, will man gar nicht mehr fliegen. Also wie Boing da ihre Maschinen zusammenschustert.](http://blog.fefe.de/?ts=9b516e93) - Sicherheitsprüfung? Na, lass mal, da finden wir nur wieder etwas! Dank der Liberalisierung, also der Optimierung auf den maximalen Gewinn bei minimalem Sicherheitseinsatz, setzt die Menschheit ihre Rohstoffe nur noch dafür ein, um kaputten Sondermüll zu bauen.
+* [FeFe fasst kurz zusammen, warum McKinsey bei den Entscheidern funktioniert: >>[...] wer uns fragt, ist ja eh nicht an der Realität interessiert!<<](http://blog.fefe.de/?ts=9b515f0c)
+* [Veolia North America wurde heruntergefahren da sie kein Geld für IT-Sicherheit ausgeben.](https://www.bleepingcomputer.com/news/security/water-services-giant-veolia-north-america-hit-by-ransomware-attack/)
+* [Trello hat 15 Millionen Kundendaten verloren.](https://www.bleepingcomputer.com/news/security/trello-api-abused-to-link-email-addresses-to-15-million-accounts/)
+* [>>Die Verordnung zur freiwilligen Chatkontrolle ist sowohl unnötig als auch grundrechtswidrig: [...]<<](https://www.patrick-breyer.de/piraten-beantragen-ende-der-freiwilligen-chatkontrolle-durch-big-tech-unternehmen/)
+* [Mit `Object.fromEntries(new FormData(document.querySelector('#my-form')))` könnt ihr aus HTML ein JavaScriot Form Objekt bauen.](https://www.30secondsofcode.org/js/s/form-to-object/)
+* [Das man das noch erleben darf, eventuell gibt es Veeam bald auf Proxmox.](https://www.borncity.com/blog/2024/01/23/veeam-strebt-untersttzung-fr-proxmox-und-oracles-virtualisierung-an/)
