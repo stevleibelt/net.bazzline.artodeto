@@ -4,7 +4,7 @@
 * [Friedrich, Blackrock, Merz erklärt, dass die CDU ja gar nicht so richtig NPD ist.](http://blog.fefe.de/?ts=9b5048c4) - Die NPD haben immerhin eine andere Farbe als das optimistische Schwarz der Christdemokraten
 * [Selenium wurde in der Version 4.17.0 veröffentlicht.](https://github.com/SeleniumHQ/selenium/releases/tag/selenium-4.17.0)
 * [Python-dotenv wurde in der Version 1.0.1 veröffentlicht.](https://github.com/theskumar/python-dotenv/releases/tag/v1.0.1)
-* [earthly wurde in der Version 0.8.1 veröffentlicht.](https://github.com/earthly/earthly/releases/tag/v0.8.1)
+* [earthly wurde in der Version 0.8.2 veröffentlicht.](https://github.com/earthly/earthly/releases/tag/v0.8.2)
 * [loanDepot hat Datensätze von fast 17 Millionen Personen wegen Sicherheitsmängel in der IT verschlampert.](https://www.bleepingcomputer.com/news/security/loandepot-says-ransomware-gang-stole-data-of-166-million-people/)
 * [Bei der Grippe-Impfung haben wir die faktenbasierte Welt seit langem verlassen.](https://impfentscheidung.online/fremdschutz-durch-grippe-impfungen-marketing-ohne-fakten/)
 * [DietPi wurde in der Version 9.0 veröffentlicht.](https://dietpi.com/docs/releases/v9_0/)
@@ -37,3 +37,6 @@
 * [Die Onlinedienste für 3DS und Wii U werden zum 09.04.2024 eingestellt.](https://wiidatabase.de/online-dienste-fuer-3ds-und-wii-u-werden-am-09-april-2024-um-0100-uhr-eingestellt/)
 * [Lapce ... oder "Noch ein Editor"](https://lapce.dev/)
 * [Ich kann euch "Lie­gen­ge­blie­be­nes vom 24. Janu­ar 2024" von hirnfick 2.0 nur empfehlen, jeder Link ist es wert!](https://tuxproject.de/blog/2024/01/liegengebliebenes-vom-24-januar-2024/)
+* [black wurde in der Version 24.1.0 veröffentlicht.](https://github.com/psf/black/releases/tag/24.1.0)
+* [rust coreutils wurde in der Version 0.0.24 veröffentlicht.](https://github.com/uutils/coreutils/releases/tag/0.0.24)
+* [Nein? Doch! Oh? Das EU-Chat-Kontrollsystem von Thorn kann zwar Aktionäre in Geld schwimmen lassen, aber seine Arbeit tut es nur noch schlecht und besondes falsch.](https://www.borncity.com/blog/2024/01/26/eu-chat-kontrollsystem-von-thorn-mit-massiven-sicherheitslcken/)
