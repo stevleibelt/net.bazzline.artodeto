@@ -40,3 +40,4 @@
 * [black wurde in der Version 24.1.0 veröffentlicht.](https://github.com/psf/black/releases/tag/24.1.0)
 * [rust coreutils wurde in der Version 0.0.24 veröffentlicht.](https://github.com/uutils/coreutils/releases/tag/0.0.24)
 * [Nein? Doch! Oh? Das EU-Chat-Kontrollsystem von Thorn kann zwar Aktionäre in Geld schwimmen lassen, aber seine Arbeit tut es nur noch schlecht und besondes falsch.](https://www.borncity.com/blog/2024/01/26/eu-chat-kontrollsystem-von-thorn-mit-massiven-sicherheitslcken/)
+* [Windows 3.11 sucht dringend einen Betreuer](https://blog.fefe.de/?ts=9b4bcab9)
