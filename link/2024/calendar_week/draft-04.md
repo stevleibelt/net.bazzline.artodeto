@@ -41,3 +41,9 @@
 * [rust coreutils wurde in der Version 0.0.24 veröffentlicht.](https://github.com/uutils/coreutils/releases/tag/0.0.24)
 * [Nein? Doch! Oh? Das EU-Chat-Kontrollsystem von Thorn kann zwar Aktionäre in Geld schwimmen lassen, aber seine Arbeit tut es nur noch schlecht und besondes falsch.](https://www.borncity.com/blog/2024/01/26/eu-chat-kontrollsystem-von-thorn-mit-massiven-sicherheitslcken/)
 * [Windows 3.11 sucht dringend einen Betreuer](https://blog.fefe.de/?ts=9b4bcab9)
+* [Nein? Doch! Oh? Die ganzen Ukraine Hilfsgelder gehen gar nicht in die Ukraine!](https://blog.fefe.de/?ts=9b4ad73f)
+* [>>Euro Parking sind offensichtlich Triebtäter. Habituelle Kriminelle. Und die Behörden haben deren Vertrag nicht etwa gekündigt sondern der läuft jetzt halt mit anderen geschmierten Sachbearbeitern weiter. Wie krass.<<](https://blog.fefe.de/?ts=9b4d7fb1)
+* [Die öffentlichen Medien versagen ständig, heute mal wieder am Beispiel GDL-Streik.](https://blog.fefe.de/?ts=9b4d74c1)
+* [>> Bei einer Auswertung der Pressevielfalt kam am Ende raus, dass die Linkspartei im öffentlich-rechtlichen Rundfunk nie positiv dargestellt wird.<<](https://blog.fefe.de/?ts=9b4d6448) - So eine Angst hat die Blockpartei vor der Linken
+* [Pappl wurde in der Version 1.4.5 veröffentlicht.](https://github.com/michaelrsweet/pappl/releases/tag/v1.4.5)
+* [Manganknollen ist der neuste Kram, womit wir unsere Umwelt kaputt machen.](https://netzpolitik.org/2024/manganknollen-dreckiger-schatz-auf-dem-tiefseeboden/)
