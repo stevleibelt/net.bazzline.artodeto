@@ -1,0 +1,3 @@
+* [Nein? Doch! Oh? KI-generierter Quelltext ist von der Qualität her schlechter](http://blog.fefe.de/?ts=9b4860e4)
+* [keycloak wurde in der Version 23.0.5 veröffentlicht.](https://github.com/keycloak/keycloak/releases/tag/23.0.5)
+* [PV-Anlagen und Balkonkraftwerker sind die Überwachungskameras von heute.](https://www.borncity.com/blog/2024/01/29/cybersecurity-die-risiken-bei-solaranlagen/) - Maschinen die im Internet hängen (warum eigentlich?) und keine Firmwareupdates mehr erhalten. Nach Ende der Garantiezeit würde ich die Kisten einfach ohne Internetzugriff betreiben. Generell sollte man keine Geräte mit Cloud-Zwang kaufen. Die Kisten müssen alle auch ohne Internet laufen können und "schlau" genug regeln können, wenn sie "dumm", sprich offline, sind.
