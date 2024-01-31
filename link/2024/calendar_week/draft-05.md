@@ -10,3 +10,8 @@
 * [Mit pythex könnt ihr eure RegExp online testen.](https://improveandrepeat.com/2024/01/python-friday-211-first-steps-with-regular-expressions/)
 * [Auch der europäische Datenschutzbeauftragte sagt nein zur "freiwilligen" Chatkontrolle.](https://netzpolitik.org/2024/grundrechte-europaeischer-datenschutzbeauftragter-lehnt-freiwillige-chatkontrolle-ab/)
 * [Nein? Doch! Oh? Eine Kollision am Fingerabdruck-Sensor sind durchaus möglich.](https://www.kuketz-blog.de/fingerabdruck-sensor-tochter-kann-google-pixel-8-entsperren/)
+* [In Großbritanien wird überlegt, dass Einmal-Vapes verboten werden.](http://blog.fefe.de/?ts=9b4678eb) - Zugleich möchte man Einschränkungen bei der Präsentation (nicht genau neben Süßigkeiten) und beim Geschmack (nicht so süß) machen. Ich hoffe, dass sich Deutschland ein Vorbild daran nimmt. Gleichzeitig schade, dass hier vorher schon totales Versagen des freien Marktens zu sehen ist. Ethik und Moral passen eben nicht zu Quartalsdenkern.
+* [Bedenken second! Das hat sich Microsoft so hart als Credo eingeritzt ... Der Microsoft Edge Browser importiert jetzt einfach so eure Chrome-Nutzerdaten.](https://www.borncity.com/blog/2024/01/31/microsoft-edge-importiert-chrome-nutzerdaten-ohne-rckfrage/)
+* [WordPress wurde in der Version 6.4.3 veröffentlicht.](https://wordpress.org/news/2024/01/wordpress-6-4-3-maintenance-and-security-release/)
+* [Ihr habt Zeit? Freecodecamp.org hat gerade Links zu mehr als 1000 freien Onlinekursen veröffentlicht.](https://www.freecodecamp.org/news/new-online-courses/)
+* [Etwaig gibt es bald `.internal` um `.local` und weitere interne Top-Level-Domains ordentlich zusammenzufassen.](https://www.linux-magazin.de/news/das-internet-soll-eine-interne-top-level-domain-bekommen/)
