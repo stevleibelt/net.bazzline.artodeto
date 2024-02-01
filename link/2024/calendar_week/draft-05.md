@@ -15,3 +15,12 @@
 * [WordPress wurde in der Version 6.4.3 veröffentlicht.](https://wordpress.org/news/2024/01/wordpress-6-4-3-maintenance-and-security-release/)
 * [Ihr habt Zeit? Freecodecamp.org hat gerade Links zu mehr als 1000 freien Onlinekursen veröffentlicht.](https://www.freecodecamp.org/news/new-online-courses/)
 * [Etwaig gibt es bald `.internal` um `.local` und weitere interne Top-Level-Domains ordentlich zusammenzufassen.](https://www.linux-magazin.de/news/das-internet-soll-eine-interne-top-level-domain-bekommen/)
+* [freecodecamp.org erklärt euch, wie ihr mit Click python cli Anwendungen schreibt und setuptools nutzt.](https://www.freecodecamp.org/news/tui-applications-with-click-and-trogon/)
+* [glibc ist kaputt.](http://blog.fefe.de/?ts=9b44d75f)
+* [slint wurde in der Version 1.4.0 veröffentlicht.](https://github.com/slint-ui/slint/releases/tag/v1.4.0)
+* [LibreOffice Community wurde in der Version 24.2 veröffentlicht.](https://lwn.net/Articles/960344/)
+* [So, so, im Zuge zur Beratung wie man mit "Die Linken" und "Bündnis Sahra Wagenknecht" umgeht, wird auch gleich noch eine Zensur eingeführt.](https://www.ccc.de/de/updates/2024/parlamentarisches-fragerecht-nicht-beschneiden) - Die Anzahl an "kleinen Anfragen" pro Monat soll dann gedeckelt werden. Die beste Opposition ist die, die nichts Fragen und Sagen kann!
+* [>>Online-Werbung als Infrastruktur für Überwachung<<](https://netzpolitik.org/2024/standortdaten-tracking-firma-will-milliarden-handys-ueberwachen-koennen/) - Nein? Doch! Oh? Die ganzen Werbebuden werden am Ende wieder über Steuergelder von den Geheimdiensten finanziert
+* [>>Führen unerwünschte Nebenprodukte von mRNA-Impfstoffen möglicherweise zu unerwünschten Nebenwirkungen?<<](https://impfentscheidung.online/die-unerwuenschten-nebenprodukte-der-covid-19-impfstoffe/) - Auf die Antwort werden wir wohl ewig warten können.
+* [Wer ist gegen die Chatkontrolle im EU-Parlament? Die Piraten, die Linke, Die Partei und die FDP](https://www.patrick-breyer.de/chatkontrolle-heute-im-eu-parlament-morgen-vor-gericht/)
+* [Onlyoffice wurde in der Version 8.0 veröffentlicht.](https://www.linux-magazin.de/news/onlyoffice-docs-8-0-bringt-ausfuellbare-pdf-formulare/)
