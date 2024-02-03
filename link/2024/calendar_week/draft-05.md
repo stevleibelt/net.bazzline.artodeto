@@ -35,3 +35,11 @@
 * [gitea wurde in der Version 1.21.5 veröffentlicht.](https://github.com/go-gitea/gitea/releases/tag/v1.21.5)
 * [Damn Small Linux wurde in der Version 2024 veröffentlicht.](https://lwn.net/Articles/960446/)
 * [>>Das aktuelle Nachtzugnetz ist nur eine Vorahnung von dem, was machbar wäre, wenn die Politik sich dafür stark machen würde<<](https://letsflip.de/nachtzuege/)
+* [KI verbraucht zu viel Strom? WIR MÜSSEN DIE KI FRAGEN WIE WIR MEHR STROM ERZEUGEN!!!!](https://blog.fefe.de/?ts=9b43f235) - Am Ende ist nicht die NSA, sondern RWE der große Sponsor von OpenAI
+* [>>Das finde ich ja mal großartig! Werbekokser können jetzt für irreführende Behauptungen zur Ader gelassen werden?! Fuck yeah!<<](https://blog.fefe.de/?ts=9b43e461)
+* [Gradle wurde in der Version 8.6 veröffentlicht.](https://github.com/gradle/gradle/releases/tag/v8.6.0)
+* [RSS-Bridge wurde in der Version 2024-02-02 veröffentlicht.](https://github.com/RSS-Bridge/rss-bridge/releases/tag/2024-02-02)
+* [ratatui wurde in der Version 0.26.0 veröffentlicht.](https://github.com/ratatui-org/ratatui/releases/tag/v0.26.0)
+* [Valinor wurde in der Version 1.9.0 veröffentlicht.](https://github.com/CuyZ/Valinor/releases/tag/1.9.0)
+* [mermaid wurde in der Version 10.8.0 veröffentlicht.](https://github.com/mermaid-js/mermaid/releases/tag/v10.8.0)
+* [python-eduvpn-client wurde in der Version 4.2.1 veröffentlicht.](https://github.com/eduvpn/python-eduvpn-client/releases/tag/4.2.1)
