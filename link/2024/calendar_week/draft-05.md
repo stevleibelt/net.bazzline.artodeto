@@ -43,3 +43,5 @@
 * [Valinor wurde in der Version 1.9.0 veröffentlicht.](https://github.com/CuyZ/Valinor/releases/tag/1.9.0)
 * [mermaid wurde in der Version 10.8.0 veröffentlicht.](https://github.com/mermaid-js/mermaid/releases/tag/v10.8.0)
 * [python-eduvpn-client wurde in der Version 4.2.1 veröffentlicht.](https://github.com/eduvpn/python-eduvpn-client/releases/tag/4.2.1)
+* [Wisst ihr was wo wir nach der Wasserstoffforschung noch kürzen sollten? Batterieforschung!](https://www.mdr.de/nachrichten/sachsen/chemnitz/freiberg/batterie-recycling-forschung-kuerzungen-100.html) - Aber macht euch keine Sorgen, erst einmal wird in den, seit 33 Jahren, neuen Bundesländern gekürzt.
+* [Durch die Einführung der Tempo 30 Zonen wird die Luftqualität besser. Was machen Politiker? Schaffen in Berlin die Temp 30 Zonen wieder ab ... die Luftqualität ist ja gerade gar nicht so schlecht.](https://blog.fefe.de/?ts=9b4055fa) - Ich hoffe die haben dafür einen Ausschuss gegründet!
