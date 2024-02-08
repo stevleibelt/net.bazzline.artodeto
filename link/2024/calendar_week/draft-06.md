@@ -18,3 +18,14 @@
 * [TeamCity ist kaputt, wenn veraltet.](https://www.bleepingcomputer.com/news/security/jetbrains-warns-of-new-teamcity-auth-bypass-vulnerability/)
 * [Kuketz hat den zweiten Teil seiner Zero-Trusts-Reihe veröffentlicht.](https://www.kuketz-blog.de/zero-trust-vertraue-niemandem-mein-digitaler-schutzschild-teil-2/)
 * [>>Während Menschenrechtsorganisationen seit langem schwerwiegende Menschenrechtsverletzungen durch Regierungen bei der Abschreckung, Verhinderung, Zurückdrängung und Bestrafung von Menschen auf der Flucht dokumentierten, würden diese Praktiken nun vom Einsatz neuer digitaler Technologien überlagert, die von Privatunternehmen entwickelt würden.<<](https://netzpolitik.org/2024/menschenrechte-amnesty-kritisiert-digitale-technologien-zur-migrationskontrolle/)
+* [Bitwarden Desktop wurde in der Version 2024.2.0 veröffentlicht.](https://github.com/bitwarden/clients/releases/tag/desktop-v2024.2.0)
+* [ClamAV wurde in der Version 1.3.0 veröffentlicht.](https://github.com/Cisco-Talos/clamav/releases/tag/clamav-1.3.0)
+* [Chris's Wiki beschreibt seinen zukünftigen Arbeitspc - ich kann mich dem nur anschließen.](https://utcc.utoronto.ca/~cks/space/blog/linux/MyMachineDesires2024)
+* [Go wurde in der Version 1.22 veröffentlicht.](https://lwn.net/Articles/961196/)
+* [>>Das EU-Parlament hat heute grünes Licht für eine Verlängerung der umstrittenen Chatkontrolle durch US-Internetkonzerne bis 2025 gegeben. Dagegen stimmten Piraten, Linke, FDP, Grüne, AfD und zwei SPD-Abgeordnete, während CDU und fast alle SPD-Abgeordneten zustimmten.<<](https://www.patrick-breyer.de/cdu-und-spd-verlaengern-freiwillige-chatkontrolle-durch-big-tech-konzerne/) - Hätte mich auch gewundert, wenn die Blockpartei sich auf ihre ehemaligen Bezeichnungen als Volksparteien erinnern würden.
+* [>>Piraten lehnen Deregulierung von Gentechnik ab<<](https://www.patrick-breyer.de/piraten-lehnen-deregulierung-von-gentechnik-ab/) - Danke, ich auch! Ein Gesetz aus den Federn der Bayer AG
+* [Was denken die Politiker wie Kindesmissbrauch minimiert werden kann? DURCH ÜBERWACHUNG!](https://www.patrick-breyer.de/neue-eu-plaene-gegen-kindesmissbrauch-greifen-zu-kurz/) - Aufklärung? Nachsorge? Unterstützung der Betroffenen? Das will doch kein Politiker aus der Blockpartei!
+* [Bitlocker ist kaputt.](https://www.borncity.com/blog/2024/02/07/bitlocker-ber-tmp-binnen-42-sekunden-mit-raspberry-pie-pico-ermittelt/)
+* [Home Assistant Core wurde in der Version 2024.2 veröffentlicht.](https://www.home-assistant.io/blog/2024/02/07/release-20242/)
+* [freecodecamp.org zeigt euch, wie ihr mit python einen webseiten scraper baut.](https://www.freecodecamp.org/news/build-a-job-board-scraper-with-python/)
+* [WiiStation wurde in der Version 3.0 veröffentlicht.](https://wiidatabase.de/wiistation-v3-0/)
