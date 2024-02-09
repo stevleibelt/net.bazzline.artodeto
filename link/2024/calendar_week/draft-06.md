@@ -29,3 +29,10 @@
 * [Home Assistant Core wurde in der Version 2024.2 veröffentlicht.](https://www.home-assistant.io/blog/2024/02/07/release-20242/)
 * [freecodecamp.org zeigt euch, wie ihr mit python einen webseiten scraper baut.](https://www.freecodecamp.org/news/build-a-job-board-scraper-with-python/)
 * [WiiStation wurde in der Version 3.0 veröffentlicht.](https://wiidatabase.de/wiistation-v3-0/)
+* [Die EU fordert die Banken endlich auf, Dienstleistung als Aufgabe zu erkennen und schon weicht die Bank Ihren Teil des Leistungsvertrags weiterhin auf.](http://blog.fefe.de/?ts=9b3a3bc4)
+* [>>Überlegt mal, wie einfach sich das BSI das machen könnte! Einfach gucken, was Gartner empfiehlt, und jeweils direkt eine Warnung raushauen. Fertig!<<](http://blog.fefe.de/?ts=9b3a267f)
+* [`uprobes` und `eBPF` kannte ich bisher nicht als Wörter. FeFe hat dazu ganz schöne Gruselzeilen geschrieben.](http://blog.fefe.de/?ts=9b3a23b2)
+* [Ach was freut mich das! PHP Rector wurde in der Version 1.0.0 veröffentlicht.](https://github.com/rectorphp/rector/releases/tag/1.0.0) - Herzlichen Glückwunsch, tolle Arbeit!
+* [fwupd wurde in der Version 1.9.13 veröffentlicht.](https://github.com/fwupd/fwupd/releases/tag/1.9.13)
+* [Freiberg startet eigenes Pfandsystem für Mehrweggeschirr: mdr.de](https://www.mdr.de/nachrichten/sachsen/chemnitz/freiberg/freiberg-stadteigenes-mehrwegsystem-pfandgeschirr-100.html) - Sehr schön, ich hoffe, dass dies irgendwann Standard ist.
+* [>>Die Bundesregierung feiert ihren Gesetzentwurf als besseren Verbraucherschutz bei Schufa-Scoring, aber in Wahrheit wird unzuverlässiges Schufa-Scoring legalisiert, ausufernde Überwachung zementiert und das Daten-Auskunftsrecht der Bürger eingeschränkt.<<](https://www.patrick-breyer.de/bundesdatenschutzgesetz-novelle-bringt-unzuverlaessiges-schufa-scoring-ausufernde-ueberwachung-und-weniger-daten-auskuenfte/) - Das geht mir so auf den Geist, alle machen mit, die Politiker der Blockpartei und auch die Medien ... jeder vergisst zu sagen, dass ja nebenbei noch am Bullenstaat geschraubt wird. Danke Patrick Breyer für die Transparenz.
