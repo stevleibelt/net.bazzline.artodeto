@@ -37,3 +37,17 @@
 * [Freiberg startet eigenes Pfandsystem für Mehrweggeschirr: mdr.de](https://www.mdr.de/nachrichten/sachsen/chemnitz/freiberg/freiberg-stadteigenes-mehrwegsystem-pfandgeschirr-100.html) - Sehr schön, ich hoffe, dass dies irgendwann Standard ist.
 * [>>Die Bundesregierung feiert ihren Gesetzentwurf als besseren Verbraucherschutz bei Schufa-Scoring, aber in Wahrheit wird unzuverlässiges Schufa-Scoring legalisiert, ausufernde Überwachung zementiert und das Daten-Auskunftsrecht der Bürger eingeschränkt.<<](https://www.patrick-breyer.de/bundesdatenschutzgesetz-novelle-bringt-unzuverlaessiges-schufa-scoring-ausufernde-ueberwachung-und-weniger-daten-auskuenfte/) - Das geht mir so auf den Geist, alle machen mit, die Politiker der Blockpartei und auch die Medien ... jeder vergisst zu sagen, dass ja nebenbei noch am Bullenstaat geschraubt wird. Danke Patrick Breyer für die Transparenz.
 * [freecodecamp.org hat mir gerade das Thema Destructuring in JavaScript schmackhaft gemacht.](https://www.freecodecamp.org/news/destructuring-in-javascript/)
+* [MXM & Pavel haben ihr Album Kerngeschäft veröffentlicht.](https://mxmundpavel.bandcamp.com/album/kerngesch-ft)
+* [Martin Sonneborn zeigt euch in 15 Minuten den Grund, warum Geheimdienste öffentlich diskutiert werden müssen.](https://www.youtube.com/watch?v=aELCqeMhE7I)
+* [pappl wurde in der Version 1.4.6 veröffentlicht.](https://github.com/michaelrsweet/pappl/releases/tag/v1.4.6)
+* [Frtinet ist weiter kaputt.](https://blog.fefe.de/?ts=9b3b35a8)
+* [Ivanti kennt ihr nicht? Die waren kaputt. Sie sind jetzt noch kaputter.](https://blog.fefe.de/?ts=9b3b8f6d)
+* [finanzamt.de kann in 2024 https!](https://www.borncity.com/blog/2024/02/10/webseite-finanzamt-de-jetzt-per-https-abrufbar/) - Ein Wort ... Digitalisierung!
+* [Wine wurde in der Version 9.2 veröffentlicht.](https://www.phoronix.com/news/Wine-9.2-Released)
+* [>>Dänische Datenschützer verbieten Schulen die Datenübermittlung an Google<<](https://www.borncity.com/blog/2024/02/09/dnische-datenschtzer-verbieten-schulen-die-datenbermittlung-an-google/) - Ein Herz aus Hack für `s/änisch/eutsch`
+* [PCAPdroid wurde in der Version 1.7.0 veröffentlicht.](https://github.com/emanuele-f/PCAPdroid/releases/tag/v1.7.0)
+* [popcorn-desktop wurde in der Version 0.5.0 veröffentlicht.](https://github.com/popcorn-official/popcorn-desktop/releases/tag/v0.5.0)
+* [Hier wird noch einmal aufgezeigt, warum es für Wirtschafts*hust*wissenschaften*hust* keinen echten Nobel-Preis gibt.](https://blog.fefe.de/?ts=9b365ed6)
+* [picocss wurde in der Version 2.0.0 veröffentlicht.](https://github.com/picocss/pico/releases/tag/v2.0.0)
+* [sqlalchemy wurde in der Version 2.0.26 veröffentlicht.](https://github.com/sqlalchemy/sqlalchemy/releases/tag/rel_2_0_26)
+* [Debian wurde in der Version 12.5 veröffentlicht.](https://www.phoronix.com/news/Debian-12.5-Released)
