@@ -1,3 +1,12 @@
 * [phpqa wurde in der Version 1.96.0 veröffentlicht.](https://github.com/jakzal/phpqa/releases/tag/v1.96.0)
 * [davx5-ose wurde in der Version 4.3.13-ose veröffentlicht.](https://github.com/bitfireAT/davx5-ose/releases/tag/v4.3.13-ose)
 * [Das sind so traurige Zahlen, der Polizeistaat vertraut seinen Bürger nicht. Anders kann man die Zugriffsfrequenz auf private Smartphones nicht lesen.](https://netzpolitik.org/2024/sachsen-anhalt-alle-35-stunden-durchsucht-die-polizei-ein-smartphone/)
+* [Digitalisierung aller Krankenversicherungsdaten? Sieht man erneut in Frankreich wie "gut" das klappt. Daten von 33 Millionen Franzosen sind jetzt weltweit verfügbar.](https://www.borncity.com/blog/2024/02/13/cyberangriff-krankenversicherungsdaten-von-33-millionen-franzosen-abgeflossen/)
+* [Alte Roundcube Installationen sind kaputt und werden jetzt aktiv ausgenutzt.](https://www.bleepingcomputer.com/news/security/cisa-roundcube-email-server-bug-now-exploited-in-attacks/) - Was einmal wieder interessant ist, wie viele Installationen es auf der Welt gibt und wie schwer es dem Open-Sourcler fehlt eine gesicherte Finanzierung für die Software zu finden
+* [>>Einige wurden belächelt, als sie sagten, dass die Cloudanbieter mit ihrem Vendor Lock-in ihre Preise beliebig erhöhen können und die IT Kosten rasant ansteigen. Jetzt ist es schneller und schlimmer eingetreten, als die bösesten Zungen erwartet haben.<<](https://www.borncity.com/blog/2024/02/13/das-war-es-mit-dem-free-vsphere-hypervisor-esxi-7-x-und-8-x/)
+* [Mit zluda könnt ihr eure Radeon Grafikkarte nutzen um Cuda-Code laufen zu lassen.](https://www.phoronix.com/review/radeon-cuda-zluda)
+* [An dem Beispiel seht ihr, wie ihr immer Werte von einem Datum vergleichen sollt - Normalisieren und dann Vergleichen.](https://www.freecodecamp.org/news/compare-two-dates-in-javascript/) - `if (firstDate.toISOString() === secondDate.toISOString()) { ...`
+* [>>Keinem von deren "Tests" kann man doch glauben, wenn die pro Kauf Provision kriegen!<<](http://blog.fefe.de/?ts=9b3496a8) - Deswegen, immer erst den Link anschauen, bevor man drauf klickt. Oder besser noch, gar nicht klicken sondern selber weitersuchen. Das Problem bleibt, man kann niemanden mehr trauen.
+* [PostgreSQL möchte bitte einmal durchgepatched werden.](http://blog.fefe.de/?ts=9b34c53a)
+* [black wurde in der Version 24.2.0 veröffentlicht.](https://github.com/psf/black/releases/tag/24.2.0)
+* [libsignal wurde in der Version 0.40.0 veröffentlicht.](https://github.com/signalapp/libsignal/releases/tag/v0.40.0)
