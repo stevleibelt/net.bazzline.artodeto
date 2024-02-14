@@ -10,3 +10,11 @@
 * [PostgreSQL möchte bitte einmal durchgepatched werden.](http://blog.fefe.de/?ts=9b34c53a)
 * [black wurde in der Version 24.2.0 veröffentlicht.](https://github.com/psf/black/releases/tag/24.2.0)
 * [libsignal wurde in der Version 0.40.0 veröffentlicht.](https://github.com/signalapp/libsignal/releases/tag/v0.40.0)
+* [Dolibarr wurde in der Version 19.0.0 veröffentlicht.](https://github.com/Dolibarr/dolibarr/releases/tag/19.0.0)
+* [Die McKinseys haben die deutschen Politiker so lange transatlantisch weichgespühlt, dass der Bahn-Chef meint, dass eine Pünktlichkeit zu 70 Prozent schon richtig dolle ist.](http://blog.fefe.de/?ts=9b3523f4) - Unter 10 Millionen Euro Bonungszahlung geht der arme Visonär hoffentlich nicht nach Hause!
+* [Die Blockpartei mit ihren christlich-sozialen Werten fordert jetzt EU-Atombomben für die Welt!](http://blog.fefe.de/?ts=9b356824)
+* [In China gibt es jetzt einen Chat-Bot mit dem die Frau "reden" kann, weil der Mann kein Interesse für ihre Probleme hat.](http://blog.fefe.de/?ts=9b355b3b) - Ich weiß nicht, wenn es zur Steigerung der Babyrate hilft, aber "miteinander durchs Leben gehen" stelle ich mir da, romantisch-verklärt, anders vor
+* Kleinanzeigen.de möchte wohl keine Nutzer mehr. Erst sperren sie "aus technischen Gründen" und ohne Vorwarnung Benutzerkonten, dann gibt es eine Telefonnummernpflicht. Was kommt als Nächstes?
+* [Serendipity wurde in der Version 2.5.0 veröffentlicht.](https://github.com/s9y/Serendipity/releases/tag/2.5.0)
+* [Running for shelter hat das neue Album Sinnfelder veröffentlicht.](https://runningforshelter.bandcamp.com/album/sinnfelder)
+* [Hier wird euch erklärt, warum `const city = user?.address?.city || "Unknown";` optional chaining in JavaScript ist](https://www.freecodecamp.org/news/optional-chaining-javascript/)
