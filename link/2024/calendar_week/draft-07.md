@@ -18,3 +18,17 @@
 * [Serendipity wurde in der Version 2.5.0 veröffentlicht.](https://github.com/s9y/Serendipity/releases/tag/2.5.0)
 * [Running for shelter hat das neue Album Sinnfelder veröffentlicht.](https://runningforshelter.bandcamp.com/album/sinnfelder)
 * [Hier wird euch erklärt, warum `const city = user?.address?.city || "Unknown";` optional chaining in JavaScript ist](https://www.freecodecamp.org/news/optional-chaining-javascript/)
+* [Es ist ruhig geworden um Zoom ... aber Zoom ist weiterhin nicht benutzbar und dauernd kaputt.](https://www.bleepingcomputer.com/news/security/zoom-patches-critical-privilege-elevation-flaw-in-windows-apps/)
+* [Microsoft Outlook ist kaputt.](https://www.bleepingcomputer.com/news/security/microsoft-new-critical-outlook-rce-bug-exploited-as-zero-day/)
+* [Microsoft Exchange ist kaputt.](https://www.bleepingcomputer.com/news/security/microsoft-new-critical-exchange-bug-exploited-as-zero-day/)
+* [Josht Richards kümmert sich um einen sehr alten Fehler in Nextcloud und macht das richtig gut.](https://github.com/nextcloud/server/issues/8546#issuecomment-1944213082) - Es geht um das Thema Verschlüsselung und wie es unter einigen Umständen nicht so recht funktioniert
+* [ToolJet wurde in der Version 2.29.0 veröffentlicht.](https://github.com/ToolJet/ToolJet/releases/tag/v2.29.0)
+* [flet wurde in der Version 0.20.0 veröffentlicht.](https://github.com/flet-dev/flet/releases/tag/v0.20.0)
+* Kleinanzeigen.de will wirklich alle Kunden vergraulen, jetzt muss man - nach jedem Login - noch einen Link aus einer E-Mail aufrufen damit man bestätigt man selbst zu sein.
+* [So kann der Staat auch zeigen wie er dir die Freiheit zum Demonstrieren anbietet.](http://blog.fefe.de/?ts=9b3391d5)
+* [Was? Sie wollen ihr E-Rezept einlösen? Kommen sie nächste Woche wieder, Serverwartung!](http://blog.fefe.de/?ts=9b33e707)
+* [>>
+
+Sichere Verschlüsselung rettet Leben. Ohne Verschlüsselung können wir nie sicher sein, ob unsere Nachrichten oder Fotos an Personen weitergeleitet werden, die wir nicht kennen und denen wir nicht vertrauen können. [...]<<](https://www.patrick-breyer.de/europaeischer-menschenrechtsgerichtshof-verbietet-schwaechung-sicherer-ende-zu-ende-verschluesselung-das-aus-fuer-die-chatkontrolle/)
+* [`mv nginx freenginx`, so liest es sich zumindest.](https://www.phoronix.com/news/Nginx-Forked-To-Freenginx)
+* [LinageOS wurde in der Version 21 veröffentlicht.](https://lwn.net/Articles/962168/)
