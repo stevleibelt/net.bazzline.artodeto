@@ -37,3 +37,5 @@ Sichere Verschlüsselung rettet Leben. Ohne Verschlüsselung können wir nie sic
 * [>>EU-Parlament und EU-Rat haben sich heute morgen im Trilog auf die Verlängerung der umstrittenen flächendeckenden freiwilligen Chatkontrolle 1.0 durch US-Internetkonzerne wie Meta (Instagram, Facebook), Google (GMail) und Microsoft (X-Box) bis April 2026 geeinigt und wollen die Verlängerung im Schnellverfahren noch vor der Europawahl verabschieden.<<](https://www.patrick-breyer.de/trilog-deal-eu-parlament-und-rat-besiegeln-verlaengerung-der-flaechendeckenden-chatkontrolle-durch-us-internetkonzerne/) - Man weiß halt auch echt nicht, was man von der EU halten soll ...
 * [An der TU Bergakademie Freiberg finden die Projektwochen für Schüler statt.](https://www.mdr.de/video/mdr-videos/a/video-798554.html)
 * [mock-oauth2-server wurde in der Version 2.1.2 veröffentlicht.](https://github.com/navikt/mock-oauth2-server/releases/tag/2.1.2)
+* [sqlmodel wurde in der Version 0.0.16 veröffentlicht.](https://github.com/tiangolo/sqlmodel/releases/tag/0.0.16)
+* [redis_exporter wurde in der Version 1.58.0 veröffentlicht.](https://github.com/oliver006/redis_exporter/releases/tag/v1.58.0)
