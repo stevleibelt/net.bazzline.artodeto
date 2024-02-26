@@ -1,0 +1,5 @@
+* [Mars und Coca-Cola haben jetzt Kameras mit Gesichtserkennung in ihren Automaten.](https://www.borncity.com/blog/2024/02/26/kamera-zur-gesichtserkennung-in-invenda-automaten-mars-coca-cola-entdeckt/)
+* [>>Freiberg ist die einzige Hochschule in Deutschland, die Chemie noch auf Diplom anbietet.<<](https://www.spiegel.de/start/studieren-in-freiberg-campus-wohnviertel-wg-zimmer-preise-und-kneipen-a-5e6e58ce-3098-4439-9ec3-06e1462acf5b)
+* [phpseclib wurde in der Version 3.0.36 veröffentlicht.](https://github.com/phpseclib/phpseclib/releases/tag/3.0.36)
+* [Kuketz beschreibt, wie ein Leben mit Paypal ohne Konto möglich ist.](https://www.kuketz-blog.de/paypal-ohne-konto-nutzen-was-geht-und-was-nicht-geht/) - Und er zeigt auch klar, warum PayPal von den großen Anbietern trotz Gebühren gern genommen wird. Die E-Mail-Adresse bei PayPal ist eindeutig und wird, aus mir unerklärlichen Gründen, dem Verkäufer IMMER mitgeteilt. Da freut sich der Faschistenstasibwl'er
+* [Gitea wurde in der Version 1.21.7 veröffentlicht.](https://github.com/go-gitea/gitea/releases/tag/v1.21.7)
