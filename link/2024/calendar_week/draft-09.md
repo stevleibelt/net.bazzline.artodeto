@@ -18,8 +18,21 @@
 * [librenms wurde in der Version 24.2.0 veröffentlicht.](https://github.com/librenms/librenms/releases/tag/24.2.0)
 * [Statt etwas zu machen, wird in Berlin weiterhin nur gelabert. Die Bürokratie soll mal wieder abgebaut werden, VOR ALLEM DIE WIRTSCHAFT SOLL ENTLASTET WERDEN!](http://blog.fefe.de/?ts=9b20db5d) - Das geht bestimmt nur, indem man wieder Schulen schließt
 * [Nach "Nie Waffen in die Ukraine!" kommt jetzt "Nie Bombendrohnen in die Ukraine!", gefolgt von "Nie Bodentruppen in die Ukraine!"](http://blog.fefe.de/?ts=9b20cec8) - Alles eine geplante Sache, zu Lasten der normalen Bevölkerung in weiten Teilen der Welt
-* [Hessen ist kaputt.](https://www.bleepingcomputer.com/news/security/german-state-of-hessen-says-systems-encrypted-by-ransomware/)
+* [Die Verbraucherzentrale in Hessen ist kaputt.](https://www.bleepingcomputer.com/news/security/german-state-of-hessen-says-systems-encrypted-by-ransomware/)
 * [GlückAufTV: Älteste Freibererin feiert [mit 104 Jahren] Geburtstag](https://www.youtube.com/watch?v=cDhEu4a__dA)
 * [Nagios ist kaputt.](https://www.borncity.com/blog/2024/02/27/nagios-xi-schwachstellen-cve-2024-24401-und-cve-2024-24402-poc-ffentlich/)
 * [>>Das Plenum des EU-Parlaments stimmte heute mit großer Mehrheit für eine Reform des EuGH-Statuts. Demnach wird Europäische Gerichtshof künftig die von den Verfahrensbeteiligten eingereichten Schreiben und Argumente nach Verfahrensabschluss proaktiv und systematisch auf seiner Internetseite veröffentlichen.<<](https://www.patrick-breyer.de/grosser-erfolg-dank-piraten-eu-parlament-stimmt-fuer-neue-transparenz-regeln-fuer-den-europaeischen-gerichtshof/) - Danke Patrick Breyer von den Piraten
 * [freecodecamp.org zeigt euch wie ihr eure Web-Anwendung testen könnt.](https://www.freecodecamp.org/news/performance-testing-for-web-applications/)
+* [Kali Linux wurde in der Version 2024.1 veröffentlicht.](https://www.bleepingcomputer.com/news/security/kali-linux-20241-released-with-4-new-tools-ui-refresh/)
+* [Tails wurde in der Version 6.0 veröffentlicht.](https://lwn.net/Articles/963986/)
+* [mdr.de: Stadtarchiv Freiberg zieht in saniertes Herderhaus](https://www.mdr.de/nachrichten/sachsen/chemnitz/freiberg/stadtarchiv-umbau-herderhaus-100.html)
+* [Thunderbird 115.8.0 macht wohl Ärger mit PGP-Mails](https://www.borncity.com/blog/2024/02/28/thunderbird-aerger-mit-pgp/)
+* [Falls ihr mal Webframeworks von der Geschwindigkeit her vergleichen wollt.](https://web-frameworks-benchmark.netlify.app/compare)
+* [Und falls ihr wissen wolltet wie sich FastAPI (Python) gegen Axum (Rust) so schlägt, ihr gibt es eine recht neutrale Betrachtung.](https://github.com/zachcoleman/fastapi-vs-axum)
+* [KDE Plasma wurde in der Version 6.0 veröffentlicht.](https://kde.org/de/announcements/megarelease/6/)
+* [Falls ihr btop und battop gut findet, probiert doch mal `btm --battery` (bottom) aus.](https://github.com/ClementTsang/bottom)
+* [FDP in drei Worten? Zwangsarbeit, Umweltzerstörung, Etihikfrei](http://blog.fefe.de/?ts=9b1e8c30)
+* [Bald können die Piraten Homeoffice machen, Schiffe sollen ferngesteuert werden.](http://blog.fefe.de/?ts=9b2145f4)
+* [Hinter dem Link stecken zwei spannende Aussagen.](http://blog.fefe.de/?ts=9b21a5dc) - Der transatlantische Aggressor kündigt seinen Natopartner die eigene Killerdrohnen nicht an und anhand der Fregatte Hessen zeigt sich das Problem der letzten 16 Jahre.
+* [distrobox wurde in der Version 1.7.0 veröffentlicht.](https://github.com/89luca89/distrobox/releases/tag/1.7.0)
+* [finamp wurde in der Version 0.6.20 veröffentlicht.](https://github.com/jmshrv/finamp/releases/tag/0.6.20)
