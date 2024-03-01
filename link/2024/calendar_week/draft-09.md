@@ -36,3 +36,13 @@
 * [Hinter dem Link stecken zwei spannende Aussagen.](http://blog.fefe.de/?ts=9b21a5dc) - Der transatlantische Aggressor kündigt seinen Natopartner die eigene Killerdrohnen nicht an und anhand der Fregatte Hessen zeigt sich das Problem der letzten 16 Jahre.
 * [distrobox wurde in der Version 1.7.0 veröffentlicht.](https://github.com/89luca89/distrobox/releases/tag/1.7.0)
 * [finamp wurde in der Version 0.6.20 veröffentlicht.](https://github.com/jmshrv/finamp/releases/tag/0.6.20)
+* [Ich hätte auch nicht gedacht, dass ich den folgenden Satz einmal schreibe. Scholz klärt auf! Frankreich und Großbritanien sind im Russland-Ukrainekonflikt Kombattanten.](http://blog.fefe.de/?ts=9b1fc454)
+* [Genode wurde in der Version 24.02 veröffentlicht.](https://github.com/genodelabs/genode/releases/tag/24.02)
+* [Die EU-Bürger sollen eine E-Wallet bekommen.](https://netzpolitik.org/2024/eidas-reform-eu-parlament-stimmt-fuer-digitale-brieftasche/) - Am meisten Sorge macht mir das "absolut freiwillig". Ich lese da sofort ein "Klar dürft ihr die Infrastruktur der EU nutzen ... ihr müsstet nur kurz hier unterschreiben"
+* [Hier wird euch eine Alternative zu `wpa_spplicant` und `NetworkManager` aufgezeigt.](https://rubin55.org/blog/uninterupted-desktop-streaming-vs-network-manager/) - `iwd` und `systemd-network` sind hier die Alternativen
+* [Stella Assange beschreibt die aktuelle Lage um Julian Assanges representativen Fall bezüglich der gelebten Demokratie der US-Amerikaner.](https://www.youtube.com/watch?v=25u2uqncY0E) - Mein Herz schmerzt, wenn sie kurz und knapp den Zustand von Julian Assange beschreibt.
+* [Wie macht man Passwörter noch sicherer? Indem man ein zufällig generiertes Passwort mit einem geheimen Suffix erweitert.](https://flarexes.com/hidden-gems-of-password-managers)
+* [>>[...] stay away from new algorithms and libraries. Let them spend some time in the crypto industry.<<](https://flarexes.com/cryptography-for-developers-and-best-practices)
+* [Hier wird euch gezeigt, wie ihr mit searxng eure eigene Suchmaschine aufsetzt.](https://flarexes.com/build-your-own-private-search-engine-with-searxng)
+* [Mit pass-otp könnt ihr die QR-Code bilder nutzen um euren Token-Generator damit zu füttern.](https://flarexes.com/how-to-setup-and-autofill-otp-using-pass-otp)
+* [In Gifhorn findet vom 09.07.2024 bis 13.07.2024 das Hack Open Air 2::24 statt.](https://events.ccc.de/2024/02/29/hoa/)
