@@ -53,3 +53,5 @@
 * [Hier wird euch gezeigt, wie ihr mit pytest eure fastapi testet.](https://improveandrepeat.com/2024/03/python-friday-216-test-your-fastapi-application/)
 * [Das NABU Magazin wurde in der Version 1/2024 veröffentlicht.](https://sachsen.nabu.de/news/2024/34629.html)
 * [>>Auch wenn Kriminalität sinkt, steigt die Angst vor ihr<<](https://netzpolitik.org/2024/usa-auch-wenn-kriminalitaet-sinkt-steigt-die-angst-vor-ihr/)
+* [OpenMediaVault wurde in der Version 7.0 veröffentlicht.](https://www.phoronix.com/news/OpenMediaVault-7.0)
+* [autorandr wurde in der Version 1.15 veröffentlicht.](https://github.com/phillipberndt/autorandr/releases/tag/1.15)
