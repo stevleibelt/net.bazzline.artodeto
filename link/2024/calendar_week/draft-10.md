@@ -20,3 +20,7 @@
 * [TreeStyleTab wurde in der Version 4.0 veröffentlicht.](https://github.com/piroor/treestyletab/releases/tag/4.0)
 * [Es wird nicht das Ende sein, aber die Werbe-Überwachungslobby muss sich jetzt eine neue Schandtat einfallen lassen um die Menschen anstandslos zu überwachen.](https://netzpolitik.org/2024/einwilligung-europaeischer-gerichtshof-urteilt-gegen-baustein-der-werbeindustrie/) - Die Werbeindustrie in seiner jetzigen Form ist und bleibt ein Krebsgeschwür der Menschheit
 * [GNUnet wurde in der Verion 0.21 veröffentlicht.](https://www.phoronix.com/news/GNUnet-0.21-Released)
+* [Apple kann alle Verbindungen abhören, da immer deren Cert Store genutzt werden muss.](https://blog.fefe.de/?ts=9b12f5ef)
+* [exchangelib wurde in der Version 5.2.0 veröffentlicht.](https://github.com/ecederstrand/exchangelib/releases/tag/v5.2.0)
+* [Wine wurde in der Version 9.4 veröffentlicht.](https://www.phoronix.com/news/Wine-9.4-Released)
+* [GlückAuf TV: Neue Baumaßnahmen in Freiberg 2024](https://www.youtube.com/watch?v=gtbpunLIx2A)
