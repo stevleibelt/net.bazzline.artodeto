@@ -24,3 +24,4 @@
 * [exchangelib wurde in der Version 5.2.0 veröffentlicht.](https://github.com/ecederstrand/exchangelib/releases/tag/v5.2.0)
 * [Wine wurde in der Version 9.4 veröffentlicht.](https://www.phoronix.com/news/Wine-9.4-Released)
 * [GlückAuf TV: Neue Baumaßnahmen in Freiberg 2024](https://www.youtube.com/watch?v=gtbpunLIx2A)
+* [Keepassxc wurde in der Version 2.7.7 veröffentlicht.](https://github.com/keepassxreboot/keepassxc/releases/tag/2.7.7)
