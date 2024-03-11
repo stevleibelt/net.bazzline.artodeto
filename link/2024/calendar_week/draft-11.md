@@ -1,0 +1,5 @@
+* [Naps2 wurde in der Version 7.4.0 veröffentlicht.](https://github.com/cyanfish/naps2/releases/tag/v7.4.0)
+* [shellcheck wurde in der Version 0.10.0 veröffentlicht.](https://github.com/koalaman/shellcheck/releases/tag/v0.10.0)
+* [Anonyme Bahntickets? Das mag die Deutsche Bahn immer weniger. Herr Eberl hat auf Kuketz alle, noch vorhandenen, Möglichkeiten augelistet.](https://www.kuketz-blog.de/deutschen-bahn-und-das-ende-des-anonymen-spartickets-diese-optionen-bleiben/)
+* [Die Rückgabefrist von Geräten verkürzt Amazon von 30 auf 14 Tagen.](https://www.borncity.com/blog/2024/03/11/amazon-verkrzt-frist-zur-gerterckgabe-ab-dem-25-4-2024-auf-14-tage/)
+* [Der Linux Kernel wurde in der Version 6.8 veröffentlicht.](https://lwn.net/Articles/964784/)
