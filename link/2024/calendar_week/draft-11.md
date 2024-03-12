@@ -3,3 +3,18 @@
 * [Anonyme Bahntickets? Das mag die Deutsche Bahn immer weniger. Herr Eberl hat auf Kuketz alle, noch vorhandenen, Möglichkeiten augelistet.](https://www.kuketz-blog.de/deutschen-bahn-und-das-ende-des-anonymen-spartickets-diese-optionen-bleiben/)
 * [Die Rückgabefrist von Geräten verkürzt Amazon von 30 auf 14 Tagen.](https://www.borncity.com/blog/2024/03/11/amazon-verkrzt-frist-zur-gerterckgabe-ab-dem-25-4-2024-auf-14-tage/)
 * [Der Linux Kernel wurde in der Version 6.8 veröffentlicht.](https://lwn.net/Articles/964784/)
+* [YMMD: >>Stellt sich raus: Wenn man einfach Wohnungen baut, anstatt gegen Pronomen zu kämpfen, dann mögen die Leute das.<<](http://blog.fefe.de/?ts=9b102e92)
+* [python eduvpn-client wurde in der Version 4.2.99.0 veröffentlicht.](https://github.com/eduvpn/python-eduvpn-client/releases/tag/4.2.99.0)
+* [Lynis wurde in der Version 3.1.0 veröffentlicht.](https://github.com/CISOfy/lynis/releases/tag/3.1.0)
+* [Die zweite Manschaft der HSG Freiberg sieht im Fuchsbau gegen die SG LVB Leipzig.](https://www.youtube.com/watch?v=5fQxGgitx7I)
+* [Der Kapitalismus und seine Kinder. Die CVE-Kette ist kaputt.](http://blog.fefe.de/?ts=9b1146bc)
+* [Boings Abwärtstrend hält an.](http://blog.fefe.de/?ts=9b11963b) - Und da ist Boing nur ein Beispiel von vielen, der Turbokapitalismus mit dem gelebten Ideal "Ein Jahr die anderen arbeiten lassen, dann Milliarden besitzen" führt eben dazu, dass jede Firma bis zum Maximum profitabel sein muss - zu Lasten der Sicherheit und der Langlebigkeit
+* [Nein? Doch! Oh? Die EU hat festgestellt, dass Microsoft 365 nicht mit dem Datenschutzgrundgesetz der EU vereinbar ist.](http://blog.fefe.de/?ts=9b11e294)
+* [PHP Valinor wurde in der Version 1.10.0 veröffentlicht.](https://github.com/CuyZ/Valinor/releases/tag/1.10.0)
+* [archlinux-archzfs-linux-lts-dkms wurde in der Version 20240311 veröffentlicht.](https://github.com/stevleibelt/arch-linux-live-cd-iso-with-zfs/releases/tag/20240311)
+* [>>[...] Wenigstens gibt die Kommission vonder[ähm]Leyen damit jetzt, in einem seltenen Moment völlig unverstellten Sprachgebrauchs, einmal offen zu, was sie schon seit geraumer Zeit betreibt: die ungehemmte Bildung von Komposita aus den Elementen „Wirtschaft“ und „Krieg“. [...]<<](https://martinsonneborn.de/von-wirtschaftskrieg-kriegswirtschaft/)
+* [Für den NDB ist Russland wieder Nummer eins und steht damit vor den fünf Freuden!](https://tuxproject.de/blog/2024/03/russland-deklassiert-die-five-eyes/)
+* [Rustup wurde in der Version 1.27.0 veröffentlicht.](https://blog.rust-lang.org/2024/03/11/Rustup-1.27.0.html)
+* [Der NABU-Sachsen hat die sehr seltene Zahntrost-Sägehornbiene entdecken können.](https://sachsen.nabu.de/news/2024/34680.html)
+* [>>Der Landespreis in der Kategorie "Baustoffe" ging an das Projekt "GeopaZ" vom Institut für Technische Chemie der TU Bergakademie Freiberg.<<](https://www.mdr.de/wissen/news/saechsischer-landespreis-baupraxis-der-zukunft-100.html) - Glück Auf!
+* [Die Deutsche Bahn und ihre Pipi-Langstrumpf-Weltansicht. 2/3 aller Fernzüge sind unpünktlich (trotz getrickse), das ist für den Kunden zumutbar. Unplanbarkeit des Güterverkehrs durch Streiks sind für die Deutsche Bahn hingegen unzumutbar.](https://tuxproject.de/blog/2024/03/bahnvabingo-2-die-zumutungen-der-anderen/)
