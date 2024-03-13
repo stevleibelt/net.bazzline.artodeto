@@ -18,3 +18,12 @@
 * [Der NABU-Sachsen hat die sehr seltene Zahntrost-Sägehornbiene entdecken können.](https://sachsen.nabu.de/news/2024/34680.html)
 * [>>Der Landespreis in der Kategorie "Baustoffe" ging an das Projekt "GeopaZ" vom Institut für Technische Chemie der TU Bergakademie Freiberg.<<](https://www.mdr.de/wissen/news/saechsischer-landespreis-baupraxis-der-zukunft-100.html) - Glück Auf!
 * [Die Deutsche Bahn und ihre Pipi-Langstrumpf-Weltansicht. 2/3 aller Fernzüge sind unpünktlich (trotz getrickse), das ist für den Kunden zumutbar. Unplanbarkeit des Güterverkehrs durch Streiks sind für die Deutsche Bahn hingegen unzumutbar.](https://tuxproject.de/blog/2024/03/bahnvabingo-2-die-zumutungen-der-anderen/)
+* [>>Compliance gilt für die Fußsoldaten. Die Ranghöheren betrachten es als ihr Privileg, nicht von dem ganzen Theater betroffen zu sein.<<](http://blog.fefe.de/?ts=9b0ee1dc)
+* [Gitea wurde in der Version 1.21.8 veröffentlicht.](https://github.com/go-gitea/gitea/releases/tag/v1.21.8)
+* [OBS Studio wurde in der Version 30.1 veröffentlicht.](https://www.phoronix.com/news/OBS-Studio-30.1) - Diese Version brint die Unterstützung für VA-API und PipeWire mit
+* [Menschenwürdige Gesetze zur Plattformarbeit? Die EU betritt den Weg der SPD und fällt kurz vor dem Ziel um.](https://netzpolitik.org/2024/auf-letzten-metern-abgespeckt-eu-beschliesst-doch-noch-gesetz-zu-plattformarbeit/)
+* [Um euch ein Gefühl dafür zu geben, wie kaputt die ganze IT und deren Software ist. Google hat letztes Jahr 10 Millionen USD für "Fehlersuche" an unterbezahlte, externe Pseudomitarbeiter ausgegeben.](https://www.bleepingcomputer.com/news/google/google-paid-10-million-in-bug-bounty-rewards-last-year/) - Das ist der berühmte Tropfen auf dem heißen Stein
+* [KeePassXC wurde in der Version 2.7.7 veröffentlicht.](https://www.linux-magazin.de/news/keepassxc-2-7-7-bringt-passkeys/)
+* [unmanic wurde in der Version 0.2.6 veröffentlicht.](https://github.com/Unmanic/unmanic/releases/tag/0.2.6)
+* [The official full-stack-fastapi-template wurde in der Version 0.6.0 veröffentlicht.](https://github.com/tiangolo/full-stack-fastapi-template/releases/tag/0.6.0)
+* [Realitätsabgleich Stromausfall wegen erneuerbarer Energiene. Nein, ist nicht so, die Energiekonzerne drehen den Strompreis nach oben während die Produktionskosten dank erneuerbarer Energien nach unten geht.](http://blog.fefe.de/?ts=9b0eb55a) - Wirtschaftspolitik made by Blockpartei
