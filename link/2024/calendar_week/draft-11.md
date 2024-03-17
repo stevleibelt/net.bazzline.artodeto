@@ -34,3 +34,9 @@
 * [authelia wurde in der Version 4.38.0 veröffentlicht.](https://github.com/authelia/authelia/releases/tag/v4.38.0)
 * [FreeRDP wurde in der Version 3.4.0 veröffentlicht.](https://github.com/FreeRDP/FreeRDP/releases/tag/3.4.0)
 * [Thierry Breton zeigt einmal mehr was für ein Lobby-U-Boot er ist.](https://netzpolitik.org/2024/digital-networks-act-thierry-bretons-internet-fuer-grosskonzerne/) - Deregulierung und weg mit dem Internet für alle, her mit dem Internet für Großkonzerne
+* [Techno aus Berlin ist jetzt Weltkulturerbe.](https://blog.fefe.de/?ts=9b0aebc0) - Dank dir und deinen Freunden, westfalia Bambaataa
+* [In der Nacht hat das EU-Parlament beschlossen, dass mit den privaten Patientendaten Werte geschaffen werden, ohne das man dies als Erzeuger der Daten kontrollieren kann.](https://www.patrick-breyer.de/deal-zum-eu-gesundheitsdatenraum-kontrollverlust-der-patienten-uber-ihre-gesundheitsdaten/)
+* [Ein Staatsunternehmen ist zum Teil dafür verantwortlich, dass die Streiks so lange geht und deswegen will der Staat jetzt das Streikrecht für die Bürger abschaffen.](https://blog.fefe.de/?ts=9b081008)
+* [In NRW sieht Hamburg (und andere Städte), was in kleineren Städten seit lange ein Problem ist - die Innenstätte sterben aus, da niemanden mehr die Ladengeschäfte inklusive Häusern ihr Eigentum nennen können.](https://blog.fefe.de/?ts=9b0814fd)
+* [Elysia wurde in der VErsion 1.0 veröffentlicht.](https://github.com/elysiajs/elysia/releases/tag/1.0)
+* [Black wurde in der VErsion 24.3.0 veröffentlicht.](https://github.com/psf/black/releases/tag/24.3.0)
