@@ -1,0 +1,7 @@
+* [Die Hackbibel wurde in der Version 3.0 veröffentlicht.](https://netzpolitik.org/2024/chaos-computer-club-gemischtes-hack-als-neue-bibel/)
+* [Der CCC hat einen offenen Brief zum Thema "Biometrische Massenüberwachung stoppen" veröffentlicht.](https://www.ccc.de/de/updates/2024/offener-brief-biometrische-massenuberwachung-stoppen)
+* [Glück Auf TV: Was gehört dazu, Welterbe zu sein?](https://www.youtube.com/watch?v=ZstTg0unsYs)
+* [VKD3D-Proton wurde in der Version 2.12 veröffentlicht.](https://www.phoronix.com/news/VKD3D-Proton-2.12)
+* [Digitalisierung am Falle McDonnalds, nichts geht mehr.](https://www.borncity.com/blog/2024/03/15/mc-dononalds-weltweiter-ausfall-wegen-technischer-probleme/) - Das passiert, wenn man den Verkaufsstellen absolut nicht vertraut und alles zentral geregelt werden soll. McDonnalds hatte früher bestimmt auch Werbung gegen Weg der Zentralisierung zu Zeiten des eisernen Vorhangs gemacht ... und jetzt das. Spaß beiseite, was machen die Zulieferer? Das System McDonnalds funktioniert doch nur, wenn jeden Tag X Tiere konsumiert werden, damit die nächsten Tiere getötet werden können usw.
+* [Mit LocalSend könnt ihr Daten vom Android, Windows, Linux, macOS, iOS und Fire OS austauschen.](https://localsend.org/)
+* [Ein Leben in FastAPI ohne Pydantic ist möglich, aber im Regelfall unnötig.](https://improveandrepeat.com/2024/03/python-friday-218-send-data-to-fastapi/)
