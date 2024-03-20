@@ -10,3 +10,14 @@
 * [Deutsche Steuergelder werden für die Weiterentwicklung von RUST entwickelt.](https://www.phoronix.com/news/Sovereign-Tech-Fund-Rust-uutils) - Dieses mal ist eine solche Schlagzeile positiv zu lesen
 * [Microsoft fährt mit einem KI-Mobil bei Schulen und Hochschulen herum um denen zu zeigen, dass sich lernen nicht lohnt.](http://blog.fefe.de/?ts=9b07bbbe) - Denn nur wer nicht lernt, ist als Niedriglöhner für Microsoft als KI-Trainer interessant
 * [Der US-Amerikanische Militärkomplex findet es blöd, dass das deutsche Militär lieber freie Software statt deren Wanzenware nutzt und so wird halt medial gehetzt.](http://blog.fefe.de/?ts=9b06dc27)
+* [Die Regierung der USA vollziehen illegale und geheime Aktionen und schüren damit das Feuer für Verschwörungstheorien](https://www.youtube.com/watch?v=rRBkPFPeU54) - Jeffry Sachs nutzt 2 Minuten für einen wichtigen Realitätsabgleich
+* [Oh man, Sicherheits-Scanningfirmen nutzen freien Daten, die von Steuergelder finanziert werden, um ihre Dienstleistung mit maximalen Profit verkauft wird.](http://blog.fefe.de/?ts=9b0740e0) - Und wenn die freien Daten nicht mehr aktualisiert wird, hört die Sicherheits-Scanningfirmen auf
+* [NUSpli wurde in der Version 1.146 veröffentlicht.](https://github.com/V10lator/NUSspli/releases/tag/v1.146)
+* [libsignal wurde in der Version 0.42.0 veröffentlicht.](https://github.com/signalapp/libsignal/releases/tag/v0.42.0)
+* [Unser fantastischer Bundesdatenschutzbeauftragter Ulrich Kelber hat seinen Jahresbericht veröffentlicht.](https://netzpolitik.org/2024/jahresbericht-kelber-fordert-von-der-ampel-besseren-datenschutz/)
+* [Firebase ist kaputt.](https://www.borncity.com/blog/2024/03/20/falsch-konfigurierte-firebase-instanzen-legen-millionen-klartext-passwrter-offen/)
+* [Thunderbird wurde in der Version 115.9.0 veröffentlicht.](https://www.borncity.com/blog/2024/03/20/thunderbird-115-9-0/)
+* [Windows Server ist kaputt.](https://www.borncity.com/blog/2024/03/20/windows-server-mrz-2023-update-verursacht-lsass-memory-leak-auf-dcs/)
+* [NABU Sachsen: >>Trotz rechtlicher Erleichterungen nicht vorschnell entscheiden – jeder Wolf ist streng geschützt!<<](https://sachsen.nabu.de/news/2024/34722.html)
+* [NABU Sachsen fordert den konsequenten Schutz der Moore und Quellen bei Großdittmannsdorf und Medingen](https://sachsen.nabu.de/news/2024/34721.html)
+* [GlückAufTV: historisches Handwerk bei den 33. Winterarbeiten in Gahlenz](https://www.youtube.com/watch?v=LMT5aFMDZ94)
