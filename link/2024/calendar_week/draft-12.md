@@ -21,3 +21,12 @@
 * [NABU Sachsen: >>Trotz rechtlicher Erleichterungen nicht vorschnell entscheiden – jeder Wolf ist streng geschützt!<<](https://sachsen.nabu.de/news/2024/34722.html)
 * [NABU Sachsen fordert den konsequenten Schutz der Moore und Quellen bei Großdittmannsdorf und Medingen](https://sachsen.nabu.de/news/2024/34721.html)
 * [GlückAufTV: historisches Handwerk bei den 33. Winterarbeiten in Gahlenz](https://www.youtube.com/watch?v=LMT5aFMDZ94)
+* [OpenVPN wurde in der Version 2.6.10 veröffentlicht.](https://github.com/OpenVPN/openvpn/releases/tag/v2.6.10)
+* [Redis ist scheinbar keine freie Software mehr.](https://lwn.net/Articles/966133/) - Danke für alles bisher gebrachte. Was man auch nie vergessen darf, Konzerne die mit Redis Geld verdienen, geben sehr selten genug Entwicklungsleistung zurück. Die wollen jede Funktionalität umsonst.
+* [Am Beispiel Apple wird man wieder sehen, wie weit sich die Konzerne inklusive den Aktionären von Moral und Ethik entfernt haben.](https://www.borncity.com/blog/2024/03/21/apple-drohen-wettbewerbsverfahren-in-der-eu-und-in-den-usa/) - In deren Birne geht es nicht um die Welt und das höhere Ziel der Zivilisation, in deren Birne geht es nur um eine Vermehrung von FIAT-Geld für nichts
+* [Gnome wurde in der Version 46 veröffentlicht.](https://lwn.net/Articles/966096/)
+* [Nichts schaft mehr Vertrauen in die STIKO als wenn sie ihr Sitzungsprotokoll großzügig schwärzen lässt.](https://impfentscheidung.online/neue-stiko-schwaerzungen-im-protokoll/)
+* [>>Für den eigenen Blog eine Privatadresse ins Internet schreiben? Die Impressumspflicht ist in ihrer heutigen Form eine Bedrohung für die Meinungsfreiheit.<<](https://netzpolitik.org/2024/bundestag-impressumspflicht-soll-auf-den-pruefstand/) - Sehe ich auch so
+* [Upsi, Microsoft Office 2016 macht wohl ausversehen einige Add-Ins kaputt.](https://www.borncity.com/blog/2024/03/21/office-2016-nderung-in-office-js-macht-manche-add-ins-kaputt/)
+* [Python wurde in den Versionen 3.10.14, 3.8.19 und 3.9.19 veröffentlicht.](https://lwn.net/Articles/966056/)
+* [Nein? Doch! Oh? Smartphones und deren ewiges "Beachte mich" führt dazu, dass ihr weniger kreative Ideen habt und es euch schwerer fällt komplizierte Sachverhalte besser zu verstehen.](https://tuxproject.de/blog/2024/03/liegengebliebenes-vom-20-maerz-2024/)
