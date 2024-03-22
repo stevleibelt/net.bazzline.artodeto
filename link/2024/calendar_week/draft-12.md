@@ -30,3 +30,13 @@
 * [Upsi, Microsoft Office 2016 macht wohl ausversehen einige Add-Ins kaputt.](https://www.borncity.com/blog/2024/03/21/office-2016-nderung-in-office-js-macht-manche-add-ins-kaputt/)
 * [Python wurde in den Versionen 3.10.14, 3.8.19 und 3.9.19 veröffentlicht.](https://lwn.net/Articles/966056/)
 * [Nein? Doch! Oh? Smartphones und deren ewiges "Beachte mich" führt dazu, dass ihr weniger kreative Ideen habt und es euch schwerer fällt komplizierte Sachverhalte besser zu verstehen.](https://tuxproject.de/blog/2024/03/liegengebliebenes-vom-20-maerz-2024/)
+* [eduMFA wurde in der Version 1.4.0 veröffentlicht.](https://github.com/eduMFA/eduMFA/releases/tag/v1.4.0)
+* [Gitea wurde in der Version 1.21.9 veröffentlicht.](https://github.com/go-gitea/gitea/releases/tag/v1.21.9)
+* [Fluent Bit wurde in der Version 3.0.0 veröffentlicht.](https://github.com/fluent/fluent-bit/releases/tag/v3.0.0)
+* [PHP BetterReflection wurde in der Version 6.29.0 veröffentlicht.](https://github.com/Roave/BetterReflection/releases/tag/6.29.0)
+* [Die UN löst das Problem mit der KI indem sie besprechen, dass man hier als Ehrenmann agiert und einfach nichts schlechtes mit KI macht.](http://blog.fefe.de/?ts=9b020254) - Definiere "schlechtes"
+* [Saflock elektronische Kartenschlösser sind weltweit kaputt.](https://www.borncity.com/blog/2024/03/21/unsaflok-millionen-hoteltren-lassen-sich-durch-sicherheitslcken-ffnen/)
+* [GlückAufTV: die Vorfreude steigt - Freiberger Sommernächte](https://www.youtube.com/watch?v=iQZjfqesNrs)
+* [>>Das Bundesverwaltungsgericht in Leipzig hat heute anonyme Informationsfreiheitsanfragen für unzulässig erklärt. Das Urteil hat vor allem Auswirkungen auf die erfolgreiche zivilgesellschaftliche Plattform FragDenStaat.de, auf der Menschen einfach digital und ohne Angabe einer Meldeadresse bei Behörden nach Dokumenten fragen können.<<](https://netzpolitik.org/2024/urteil-des-bundesverwaltungsgerichts-fragdenstaat-ab-jetzt-nur-noch-analog/)
+* [Rust wurde in der Version 1.77.0 veröffentlicht.](https://blog.rust-lang.org/2024/03/21/Rust-1.77.0.html)
+* [Pear wurde in der Version 5.39.9 veröffentlicht.](https://lwn.net/Articles/966181/)
