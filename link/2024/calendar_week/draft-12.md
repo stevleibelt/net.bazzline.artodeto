@@ -40,3 +40,6 @@
 * [>>Das Bundesverwaltungsgericht in Leipzig hat heute anonyme Informationsfreiheitsanfragen für unzulässig erklärt. Das Urteil hat vor allem Auswirkungen auf die erfolgreiche zivilgesellschaftliche Plattform FragDenStaat.de, auf der Menschen einfach digital und ohne Angabe einer Meldeadresse bei Behörden nach Dokumenten fragen können.<<](https://netzpolitik.org/2024/urteil-des-bundesverwaltungsgerichts-fragdenstaat-ab-jetzt-nur-noch-analog/)
 * [Rust wurde in der Version 1.77.0 veröffentlicht.](https://blog.rust-lang.org/2024/03/21/Rust-1.77.0.html)
 * [Pear wurde in der Version 5.39.9 veröffentlicht.](https://lwn.net/Articles/966181/)
+* [Wine wurde in der Version 9.5 veröffentlicht.](https://www.phoronix.com/news/Wine-9.5-Released)
+* [Hier wird euch gezeigt, wie ein großes FastAPI-Projekt aussehen kann.](https://improveandrepeat.com/2024/03/python-friday-219-structure-your-fastapi-application/)
+* [Gradle wurde in der Version 8.7 veröffentlicht.](https://github.com/gradle/gradle/releases/tag/v8.7.0)
