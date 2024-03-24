@@ -43,3 +43,7 @@
 * [Wine wurde in der Version 9.5 veröffentlicht.](https://www.phoronix.com/news/Wine-9.5-Released)
 * [Hier wird euch gezeigt, wie ein großes FastAPI-Projekt aussehen kann.](https://improveandrepeat.com/2024/03/python-friday-219-structure-your-fastapi-application/)
 * [Gradle wurde in der Version 8.7 veröffentlicht.](https://github.com/gradle/gradle/releases/tag/v8.7.0)
+* [Nach Blockchain und AI kommt jetzt Blockchain AI :-D.](https://blog.fefe.de/?ts=9b01cdee)
+* [yay wurde in der Version 12.3.5 veröffentlicht.](https://github.com/Jguer/yay/releases/tag/v12.3.5)
+* [sqlalchemy wurde in der Version 2.0.29 veröffentlicht.](https://github.com/sqlalchemy/sqlalchemy/releases/tag/rel_2_0_29)
+* [rust coreutils wurde in der Version 0.0.25 veröffentlicht.](https://github.com/uutils/coreutils/releases/tag/0.0.25)
