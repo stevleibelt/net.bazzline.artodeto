@@ -1,3 +1,10 @@
 * [Die Kindergarten Smartphone Anwendung "Stay Informed" ist beim Datenschutz total kaputt.](https://www.borncity.com/blog/2024/03/24/datenschutz-gau-bei-stay-informed-kindergarten-app/)
 * [frankenphp wurde in der Version 1.1.2 veröffentlicht.](https://github.com/dunglas/frankenphp/releases/tag/v1.1.2)
 * [PHP Validation wurde in der Version 2.3.6 veröffentlicht.](https://github.com/Respect/Validation/releases/tag/2.3.6)
+* ["Fragt immer zu erst nach dem Menschenbild"](https://media.ccc.de/v/dgwk2024-56185-den-planet-einfach-brenne) - Danach kann man entscheiden ob man mit diesem Menschen noch etwas zu tun haben möchte. Nebenbei erhaltet ihr in den 45 Minuten einen wunderbaren Einblick zu den Themen Staat, Überwachung, Digitalisierung und Gamifizierung (Verhaltensanpassung durch Lob und Punktestände)
+* [Gitea wurde in der Version 1.21.10 veröffentlicht.](https://github.com/go-gitea/gitea/releases/tag/v1.21.10)
+* [Spanien hatte ganz kurz versucht Telegram zu sperren.](https://netzpolitik.org/2024/spanien-sperrung-von-telegram-ist-unverhaeltnismaessig/)
+* [Realitätsabgleich "Faire Verhandlung für Julian Assange": >>In keinem anderen Land, in dem wir Prozesse beobachteten, sind wir auf derartige Hindernisse gestoßen, die offensichtlich gegen die Grundsätze einer offenen Justiz und das Recht auf ein faires Verfahren verstoßen<<](https://netzpolitik.org/2024/assanges-auslieferung-er-fiele-genau-den-leuten-in-die-haende-die-ein-attentat-auf-ihn-geplant-haben/) - Julian Assange, der Betreiber der Plattform Wikileaks, welcher dem großen Tiel der Erdmenschen neutral berichtet hat, wie Krieg in Zeiten von Konzernen geführt wird
+* [Hier wird euch gezeigt, wie ihr Vaultwarden via Docker lokal laufen lassen könnt.](https://www.smarthomebeginner.com/vaultwarden-docker-compose-guide/)
+* [Gitea wurde in der Version 1.21.10 veröffentlicht.](https://github.com/go-gitea/gitea/releases/tag/v1.21.10)
+* [PHP Smarty wurde in der Version 5.0.0 veröffentlicht.](https://github.com/smarty-php/smarty/releases/tag/v5.0.0)
