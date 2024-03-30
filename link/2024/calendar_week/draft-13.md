@@ -38,3 +38,7 @@
 * [Nextcloud Server wurde in der Version 28.0.4 veröffentlicht.](https://github.com/nextcloud/server/releases/tag/v28.0.4)
 * [GNU Coreutils wurde in der Version 9.5 veröffentlicht.](https://www.phoronix.com/news/GNU-Coreutils-9.5-Released)
 * [Flatpak wurde in der Version 1.15.7 veröffentlicht.](https://www.phoronix.com/news/Flatpak-1.15.7-Released)
+* [xz und liblzma sind kaputt.](https://www.borncity.com/blog/2024/03/30/linux-backdoor-in-upstream-xz-liblzma-kompromittierung-der-ssh-server/)
+* [Hier gibt es ein To-Do-Beispiel anhand einer FastAPI.](https://improveandrepeat.com/2024/03/python-friday-220-manage-to-dos-with-fastapi/)
+* [>>Am heutigen Karfreitag hat der Bundeswahlausschuss, neben ein paar anderen, den Wahlvorschlag der PARTEI für die am 9. Juni stattfindende Europawahl zugelassen.<<](https://www.die-partei.de/2024/03/29/europawahl-2024-der-bundeswahlausschuss-gibt-gruenes-licht/)
+* [xarray wurde in der Version 2024.03.0 veröffentlicht.](https://github.com/pydata/xarray/releases/tag/v2024.03.0)
