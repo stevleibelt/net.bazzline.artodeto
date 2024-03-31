@@ -42,3 +42,6 @@
 * [Hier gibt es ein To-Do-Beispiel anhand einer FastAPI.](https://improveandrepeat.com/2024/03/python-friday-220-manage-to-dos-with-fastapi/)
 * [>>Am heutigen Karfreitag hat der Bundeswahlausschuss, neben ein paar anderen, den Wahlvorschlag der PARTEI für die am 9. Juni stattfindende Europawahl zugelassen.<<](https://www.die-partei.de/2024/03/29/europawahl-2024-der-bundeswahlausschuss-gibt-gruenes-licht/)
 * [xarray wurde in der Version 2024.03.0 veröffentlicht.](https://github.com/pydata/xarray/releases/tag/v2024.03.0)
+* [Wie üblich, während den Feiertagen werden Gesetze erlassen, die das Volk weiter zu Ader lassen.](https://blog.fefe.de/?ts=98f9315c)
+* [Schau an, Russland muss medial immer als schlecht verkauft werden, deswegen funktioniert bei denen die Chipfertigung natürlich viel schlechter.](https://blog.fefe.de/?ts=98f911c6)
+* [NetBSD wurde in de rVersion 10.0 veröffentlicht.](https://www.phoronix.com/news/NetBSD-10.0-Released)
