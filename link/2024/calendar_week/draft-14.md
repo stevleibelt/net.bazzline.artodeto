@@ -23,3 +23,11 @@
 * [Scheinbar war in Amazons kassenlosen "KI" Supermärkten im ersten Meilenstein keine "KI" eingebaut, sondern günstige Mitarbeiter aus Indien.](http://blog.fefe.de/?ts=98f29bfe)
 * [Wie geht Geldpolitik bei der FDP? Sie gehen von einem Wirtschaftswachstum aus und hoffen damit, die übertriebenen Rüstungsausgaben von heute in der Zukunft eventuell bezahlen zu können.](http://blog.fefe.de/?ts=98f51e86) - Bei den USA seht ihr, wohin das führt. Nur kaputte Infrastruktur und desolate, soziale Zustände
 * [eduMFA wurde in der Version 1.5.0 veröffentlicht.](https://github.com/eduMFA/eduMFA/releases/tag/v1.5.0)
+* [SurveyLama hat 4,4 Millionen (oder mehr) Datensätze verloren.](https://www.bleepingcomputer.com/news/security/surveylama-data-breach-exposes-info-of-44-million-users/)
+* [Wisst ihr was wir durch die Fußball-EM 2024 wieder erwarten dürfen? Ein Festspiel der Überwachungsmaßnahmen.](https://netzpolitik.org/2024/fussball-em-2024-kritik-an-potenziellen-ueberwachungsmassnahmen/)
+* [Linux wurde in den Versionen 6.8.3, 6.7.12, 6.6.24 und 6.1.84 veröffentlicht.](https://lwn.net/Articles/968250/)
+* [Der Redis Fork Redict wurde in der Version 7.3 veröffentlicht.](https://www.phoronix.com/news/Redict-7.3-Redis-Fork)
+* [Tails wurde in der Version 6.1 veröffentlicht.](https://tails.net/news/version_6.1/index.en.html)
+* [>>[...] Cert Pinning schaltet sich ab, wenn man ein Root-Cert im Local Store hat, und dann das auf Pinning zu prüfende Zertifikat von dieser Root-CA signiert reinkommt.<<](http://blog.fefe.de/?ts=98f361af) - Danke, keine weiteren Fragen. Kann also weg
+* [earthly wurde in der Version 0.8.7. veröffentlicht.](https://github.com/earthly/earthly/releases/tag/v0.8.7)
+* [js-lingui wurde in der Version 4.8.0 veröffentlicht.](https://github.com/lingui/js-lingui/releases/tag/v4.8.0)
