@@ -31,3 +31,20 @@
 * [>>[...] Cert Pinning schaltet sich ab, wenn man ein Root-Cert im Local Store hat, und dann das auf Pinning zu prüfende Zertifikat von dieser Root-CA signiert reinkommt.<<](http://blog.fefe.de/?ts=98f361af) - Danke, keine weiteren Fragen. Kann also weg
 * [earthly wurde in der Version 0.8.7. veröffentlicht.](https://github.com/earthly/earthly/releases/tag/v0.8.7)
 * [js-lingui wurde in der Version 4.8.0 veröffentlicht.](https://github.com/lingui/js-lingui/releases/tag/v4.8.0)
+* [>>Signing things creates social and/or legal liability.<<](https://utcc.utoronto.ca/~cks/space/blog/tech/OnNotSigningThings)
+* [Ein Krebsforschungszentrum in den USA hat Daten von 827000 Patienten verloren.](https://www.bleepingcomputer.com/news/security/us-cancer-center-data-breach-exposes-info-of-827-000-patients/) - Warum auch immer das Ding wieder im Internet stehen musste
+* [Das Land Schleswig-Holstein nutzt LibreOffice statt Microsoft Office](https://www.borncity.com/blog/2024/04/05/digitale-it-souvernitt-schleswig-holstein-setzt-auf-libreoffice/) - Das hat zwei Vorteile, die erstellen Dateien sind frei von Lizenzen und Steuergelder werden für freie Software eingesetzt (Public Money? Public Code!)
+* [Mit maschinellem Lernen und einen Foto kann man mit VLOGGER jetzt minutenlange Werbe- äh Vlog-Videos machen.](https://www.borncity.com/blog/2024/04/05/vlogger-ein-foto-reicht-fr-ein-ki-generiertes-video/)
+* [Netplan wurde in der Version 1.0 veröffentlicht.](https://www.phoronix.com/news/Netplan-1.0-Ready-For-Ubuntu-24)
+* [Incus wurde in der Version 6.0 LTS veröffentlicht.](https://lwn.net/Articles/968421/)
+* [Die Umverteilung des eingebildeten Reichtums beschleunigt sich weiter, 141 neue Milliardäre wurde im Jahr 2023 geschaffen.](https://tuxproject.de/blog/2024/04/trotzdem-nicht-taylor-swift-essen/) - Ihr wisst schon, die Schulden des Einen ist der Reichtum des Anderen. Laut dem Internet gibt es aktuell über 2781 Milliardäre in der Welt
+* [Hier gibt es eine kleine Liste von Gründen warum Microsoft anstandslos eure Daten in der Microsoft Office App braucht.](https://www.schneier.com/blog/archives/2024/04/surveillance-by-the-new-microsoft-outlook-app.html)
+* [Wieder ein Beweis dafür, dass das eGK nur eine Geld- und Ressourcenvernichtungsmaschine ist.](https://www.borncity.com/blog/2024/04/04/egk-tastatur-z-b-g87-1505-mit-verfallsdatum-wird-elektroschrott/) - Tastaturen die 30 Euro kosten sollen und ewig halten könnten, kosten 600 Euro und haben ein fixes Verfallsdatum weil "WEGEN IST SO!"
+* [Schon wieder! Großstörung bei Banken und niemand kommt mehr an sein digitales Geld.](https://www.borncity.com/blog/2024/04/04/grostrung-bei-banken-sparkasse-commerzbank-volksbank-am-4-april-2024/)
+* [FeFe zeigt wie das Internet heute funktioniert. Eine Zeile Aussage auf mehrere Seiten aufgebläht.](http://blog.fefe.de/?ts=98f079e5) - Und wenn ihr Drucker kauft, dann kein HP, lieber Brother oder so
+* [Kinderbücher werden den Kindern einfach nicht mehr die reale Welt erklären können.](http://blog.fefe.de/?ts=98f012e2)
+* [>>Die Konservativen würden auch Kommunismus und alles andere kaputtmachen mit ihrer Gier, ihrer Korruption und ihrer Inkompetenz.<<](http://blog.fefe.de/?ts=98f1e6e4)
+* [Protonup-rs wurde in der Version 0.8.0 veröffentlicht.](https://github.com/auyer/Protonup-rs/releases/tag/v0.8.0)
+* [PHP BetterReflection wurde in der Version 6.33.0 veröffentlicht.](https://github.com/Roave/BetterReflection/releases/tag/6.33.0)
+* [PHP Valinor wurde in der Version 1.12.0 veröffentlicht.](https://github.com/CuyZ/Valinor/releases/tag/1.12.0)
+* [PHP api-platform wurde in der Version 3.2.0 veröffentlicht.](https://github.com/api-platform/api-platform/releases/tag/v3.2.20)
