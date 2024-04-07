@@ -55,3 +55,9 @@
 * [FFmpeg wurde in der Version 7.0 veröffentlicht.](https://lwn.net/Articles/968565/)
 * [OpenBSD wurde in der Version 7.5 veröffentlicht.](https://lwn.net/Articles/968584/)
 * [Hier gibt es wieder ein Artikel über FastAPI - Refactoring und Testing.](https://improveandrepeat.com/2024/04/python-friday-221-refactor-the-fastapi-to-do-application/)
+* [>>The influx of AI-generated code [...] can jeopardize code quality.<<](https://blog.fefe.de/?ts=98eebcc5)
+* [Die Check-In-Terminals von IBIS sind auch kaputt.](https://www.borncity.com/blog/2024/04/06/ibis-hotel-check-in-terminal-gibt-zugangsdaten-fremder-zimmer-aus/) - Also wenn man sich überlegt, wie störungsfrei das mit ein, zwei echten Menschen so ging. Aber mit Maschinen kann man seine Gäste halt besser spionieren
+* [Werkzeug wurde in der Version 3.0.2 veröffentlicht.](https://github.com/pallets/werkzeug/releases/tag/3.0.2)
+* [Israel lässt wohl eine KI die nächsten Bombenziele im GAZA-Streifen aussuchen.](https://blog.fefe.de/?ts=98efd71e)
+* [Am New-Yorker Chatbot seht ihr was der selbst ernannte Marktführer und deren KI leistet.](https://blog.fefe.de/?ts=98ec1648) - Nichts außer Falschaussagen und Versprechen
+* [Continous Deployment und wie sieht es mit der Sicherheit der Container aus?](https://thomasfricke.de/pages/fossec/) - Geht so ist die hoffnungsvollste Deutung, die ich aus dem Artikel herauslesen kann
