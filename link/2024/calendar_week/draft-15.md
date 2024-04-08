@@ -1,0 +1,2 @@
+* [Nach VMWare zeigt Blackrock das sie auch bei Citrix nur gutes für den Aktieninhaber im Sinne haben.](https://www.borncity.com/blog/2024/04/08/massive-lizenzkostensteigerung-kopiert-citrix-jetzt-auch-den-broadcom-business-ansatz/) - Vendor-Lockin, dafür haben wir immer gewarnt und zu wenige haben auf uns gehört
+* [Falls ihr mal ein USB-Gerät ausschalten wollt: `udisksctl power-off -b /dev/sdX`](https://bastientraverse.com/en/cli-eject/)
