@@ -15,3 +15,18 @@
 * [Nein? Doch! Oh? Bau und unterhalte ein gescheites Fußgänger- und Fahrradwegenetzt und die Menschen werden das auch noch nutzen!](http://blog.fefe.de/?ts=98eabf83) - Das wäre doch ein Win-Win für alle, wenn die Porschefahrer nur ein wenig mehr in die Pflicht genommen werden, können sie - quasi als Belohnung - alleine in ihrem Auto auf der Straße sein
 * [>>Wir Techniker müssen uns mal angewöhnen, realistischere Bewertungen abzugeben.<<](http://blog.fefe.de/?ts=98eae0a0)
 * [penpot wurde in der Version 2.0.0 veröffentlicht.](https://github.com/penpot/penpot/releases/tag/2.0.0)
+* [Semantic Versioning? Ach komm, das hat google kaputt gemacht und jetzt wird optimiert!](http://blog.fefe.de/?ts=98eb957e) - 1.0.1 ist das neue 1.0.0
+* [Pretendo Network lässt eure Wii U weiter im Netzwerk spielen.](http://blog.fefe.de/?ts=98eb8dc1) - Hatten wir ja erst. Wenn der Dienstleister nicht mehr will, dann soll er die API und den Code zum Betreiben der eigenen Infrastruktur rausrücken. Der ganze Rechte-Bullshit kann geklärt werden, ist also **immer** nur eine Ausrede weil die keinen Bock haben. Ihr sollte gefälligst kaufen, KAUFEN, KAUFEN!
+* [Frau Faeser sagt >>Wir müssen bei den sozialen Ursachen ansetzen, die sich hinter Kriminalität und Gewalt verbergen<<](http://blog.fefe.de/?ts=98ebff38) - Und ich verstehe ihre Argumentation, der Staat muss endlich jeden Quadratmeter überall überwachen!
+* [Der europäische Menschenrechtsgerichtshof bestätigt, dass das Nicht-Handeln gegen den Klimawandel als Menschenrechtsverletzung angesehen wird.](http://blog.fefe.de/?ts=98ebfa94)
+* [typer wurde in der Version 0.12.3 veröffentlicht.](https://github.com/tiangolo/typer/releases/tag/0.12.3)
+* [LocalAI wurde in der Version 2.12.1 veröffentlicht.](https://github.com/mudler/LocalAI/releases/tag/v2.12.1)
+* [Playwright-python wurde in der Version 1.43.0 veröffentlicht.](https://github.com/microsoft/playwright-python/releases/tag/v1.43.0)
+* [Hier bekommt ihr einen Einblick warum sich die automatische Vervollständigung der `bash` manchmal so verhält, wie sie sich verhält.](https://utcc.utoronto.ca/~cks/space/blog/unix/BashProgrammableCompletionFlaw)
+* [Microsoft hat einmal mehr ihre Azure-Cloud kaputt gemacht.](https://www.borncity.com/blog/2024/04/10/ungesicherter-microsoft-azure-server-legt-passwrter-etc-von-microsoft-systemen-offen-feb-2024/) - Nicht weiter schlimm, nur Passwörter und Kundendaten waren frei im Netz verfügbar
+* [WordPress wurde in der Version 6.5.2 veröffentlicht.](https://wordpress.org/news/2024/04/wordpress-6-5-2-maintenance-and-security-release/) - Das ist eine Aktualisierung um ein Sicherheitsproblem zu lösen
+* [OpenSSL wurde in der Version 3.3.0 veröffentlicht.](https://lwn.net/Articles/969172/)
+* [Eine theoretisch hochgerechnete und nie geprüfte "Trefferquote" von 90 Prozent reicht wohl, dass man ML-Modelle uneingeschränkt Raketen steuern lässt.](https://netzpolitik.org/2024/autonome-waffensysteme-es-braucht-dringend-klare-verbote-und-vorschriften/) - zumindest in Isreal, ihr wisst schon ... der Staat, der aus seiner Geschichte null gelernt hat und selbst gern Genozide anrichtet
+* [noyb erklärt euch in einem Video wie "Pay or Okay" funktioniert.](https://noyb.eu/de/pay-or-okay-explained-why-more-and-more-websites-make-you-pay-your-privacy)
+* [YunExpress und DHL-Tracking legen die Empfängerdaten offen.](https://www.borncity.com/blog/2024/04/10/datenlcke-yunexpress-und-dhl-tracking-legen-empfngerdaten-offen-teil-ii/)
+* [Wechselrichter und Balkonanlagen müssen jetzt auch schon mit freier Software geflashed werden, damit man sie gescheit benutzen kann.](https://www.kuketz-blog.de/growatt-shinewifi-x-wechselrichter-aus-chinesischer-cloud-befreien/) - Die Welt geht überall so schnell kaputt, ein Trauerspiel
