@@ -20,7 +20,7 @@
 * [Frau Faeser sagt >>Wir müssen bei den sozialen Ursachen ansetzen, die sich hinter Kriminalität und Gewalt verbergen<<](http://blog.fefe.de/?ts=98ebff38) - Und ich verstehe ihre Argumentation, der Staat muss endlich jeden Quadratmeter überall überwachen!
 * [Der europäische Menschenrechtsgerichtshof bestätigt, dass das Nicht-Handeln gegen den Klimawandel als Menschenrechtsverletzung angesehen wird.](http://blog.fefe.de/?ts=98ebfa94)
 * [typer wurde in der Version 0.12.3 veröffentlicht.](https://github.com/tiangolo/typer/releases/tag/0.12.3)
-* [LocalAI wurde in der Version 2.12.1 veröffentlicht.](https://github.com/mudler/LocalAI/releases/tag/v2.12.1)
+* [LocalAI wurde in der Version 2.12.4 veröffentlicht.](https://github.com/mudler/LocalAI/releases/tag/v2.12.4)
 * [Playwright-python wurde in der Version 1.43.0 veröffentlicht.](https://github.com/microsoft/playwright-python/releases/tag/v1.43.0)
 * [Hier bekommt ihr einen Einblick warum sich die automatische Vervollständigung der `bash` manchmal so verhält, wie sie sich verhält.](https://utcc.utoronto.ca/~cks/space/blog/unix/BashProgrammableCompletionFlaw)
 * [Microsoft hat einmal mehr ihre Azure-Cloud kaputt gemacht.](https://www.borncity.com/blog/2024/04/10/ungesicherter-microsoft-azure-server-legt-passwrter-etc-von-microsoft-systemen-offen-feb-2024/) - Nicht weiter schlimm, nur Passwörter und Kundendaten waren frei im Netz verfügbar
@@ -44,3 +44,12 @@
 * [Die Saine in Paris ist so vergiftet, dass man nicht daran schwimmen sollte.](https://blog.fefe.de/?ts=98e89f35) - Großstädte, tolles Konzept
 * [Nein? Doch! Oh? ML wie ChatGPT-4 kann dich "nur" überzeugen, wenn es Daten von dir hat.](https://blog.fefe.de/?ts=98e89286) - s/überzeugen/manipulieren
 * [Der Bürger so: Es gibt zu viele Funkzellenabfragen, der Staat so: Gut, wir schalten das Transparenzsystem dazu ab.](https://blog.fefe.de/?ts=98e8908e)
+* [OpenProjekt 13.4 kann jetzt mit GitLab sprechen :-)](https://www.openproject.org/blog/openproject-13-4-release/)
+* [GlückAufTV: Blitz für Kids in Mulda](https://www.youtube.com/watch?v=tT3RRgMIebo)
+* [Internetzensur in Deutschland anhand von Sci-Hub](https://netzpolitik.org/2024/netzsperre-fuer-wissenschaft-groesste-deutsche-provider-blockieren-sci-hub/) - Wer hat hier Druck aufgebaut? Nur Buchverleger!
+* [>>Gestern Abend haben die Abgeordneten des EU-Parlaments mehrheitlich für die Verlängerung der umstrittenen flächendeckenden freiwilligen Chatkontrolle 1.0 durch US-Internetkonzerne [...]<<](https://www.patrick-breyer.de/eu-parlament-stimmt-fuer-verlaengerung-der-flaechendeckenden-chatkontrolle-durch-us-internetkonzerne/) - Das ist das Resultat von jahrzehnterlanger Arbeit der transatlantischen Brücke
+* [>>Protest für die Freilassung von Julian Assange in London am 10. April.<<](https://netzpolitik.org/2024/wikileaks-biden-denkt-ueber-ende-der-strafverfolgung-von-assange-nach/)
+* [exchangelib wurde in der Version 5.2.1 veröffentlicht.](https://github.com/ecederstrand/exchangelib/releases/tag/v5.2.1)
+* [Ja bitte, "streitet" euch, wenn wir so als Volk autofreie Wochenenden bekommen, immer gern](https://blog.fefe.de/?ts=98e6840e)
+* [OpenAI nutzt einfach jede Information im Internet (ob erlaubt oder nicht) um ihre ML-Modelle zu bauen](https://blog.fefe.de/?ts=98e6c5e0)
+* [In Texas überprüft ab jetzt ein Computer-ML die Schulabschlüsse für die Studierendenzulassungsprüfung.](https://blog.fefe.de/?ts=98e97b82) - Ich sehe nur noch weiße Menschen auf texanischen Universitäten. Zum Rest sagt der Computer leider "Nein"
