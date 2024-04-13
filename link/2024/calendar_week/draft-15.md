@@ -53,3 +53,10 @@
 * [Ja bitte, "streitet" euch, wenn wir so als Volk autofreie Wochenenden bekommen, immer gern](https://blog.fefe.de/?ts=98e6840e)
 * [OpenAI nutzt einfach jede Information im Internet (ob erlaubt oder nicht) um ihre ML-Modelle zu bauen](https://blog.fefe.de/?ts=98e6c5e0)
 * [In Texas überprüft ab jetzt ein Computer-ML die Schulabschlüsse für die Studierendenzulassungsprüfung.](https://blog.fefe.de/?ts=98e97b82) - Ich sehe nur noch weiße Menschen auf texanischen Universitäten. Zum Rest sagt der Computer leider "Nein"
+* [Paloalto ist auch kaputt.](https://blog.fefe.de/?ts=98e783ea)
+* [black wurde in der Version 24.4.0 veröffentlicht.](https://github.com/psf/black/releases/tag/24.4.0)
+* [firewalld wurde in der Version 2.0.4 veröffentlicht.](https://github.com/firewalld/firewalld/releases/tag/v2.0.4)
+* [lingui wurde in der Version 4.10.0 veröffentlicht.](https://github.com/lingui/js-lingui/releases/tag/v4.10.0)
+* [eduMFA wurde in der Version 2.0.1 veröffentlicht.](https://github.com/eduMFA/eduMFA/releases/tag/v2.0.1)
+* [mock-oauth2-server wurde in der Version 2.1.4 veröffentlicht.](https://github.com/navikt/mock-oauth2-server/releases/tag/2.1.4)
+* [apt wurde in der Version 2.9 veröffentlicht.](https://www.phoronix.com/news/Debian-APT-2.9-Released)
