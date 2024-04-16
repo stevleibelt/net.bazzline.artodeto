@@ -6,3 +6,14 @@
 * [Hauptsache mehr Plastikschrott, Goole macht mit seinem Anroid jetzt Zwischenversionen, damit die Menge an Elektroschrott nicht mit einmal so hoch ausfällt.](https://www.onli-blogging.de/2362/LineageOS-droht-Wegfall-von-51-Telefonen.html) - Ist das nötig? Nein, wie auch bei Microsoft Windows 11 geht es hier nur um den Verkauf von Dingen die nicht schnell genug kaputt gehen
 * [>>[...] ob Google mit Street View im öffentlichen Interesse:  Google handelt nicht im öffentlichen Interesse, sondern im eigenen Geschäftsinteresse.<<](https://www.borncity.com/blog/2024/04/14/google-street-view-neuer-widerspruch-erforderlich/)
 * [>>Google Street View - Nach Aktualisierung der Aufnahmen gelten die alten Widersprüche nicht mehr<<](https://plattform-privatheit.de/p-prv/beitraege/aktuelles/google-street-view-nach-aktualisie-rung-der-aufnahmen-gelten-die-alten-widersprueche-nicht-mehr.php) - Hinter dem Link findet ihr auch die Möglichkeit wie ihr dagegen widersprechen könnt
+* [Yannis Varoufakis, der es nicht richtig findet, dass Griechenland den "Freunden" der transatlantischen Brücke zum Fraß vorgeworfen wird, hat ein Einreise- und möglicherweise ein Betätiungsverbot in Deutschland erhalten.](https://blog.fefe.de/?ts=98e3fce2) - Wenn Putin das gemacht hätte ...
+* [webmin wurde in der Version 2.111 veröffentlicht.](https://github.com/webmin/webmin/releases/tag/2.111)
+* [dunst wurde in der Version 1.11.0 veröffentlicht.](https://github.com/dunst-project/dunst/releases/tag/v1.11.0)
+* [earlyoom wurde in der Version 1.8 veröffentlicht.](https://github.com/rfjakob/earlyoom/releases/tag/v1.8)
+* [gitea wurde in der Version 1.21.11 veröffentlicht.](https://github.com/go-gitea/gitea/releases/tag/v1.21.11)
+* [Mit `git cherry-pick <string: first_commit_id>^..<string: last_commit_id>` wird, dank `^` auch die Änderung von `first_commit_id` mit angewendet.](https://www.30secondsofcode.org/git/s/pick-commits/)
+* [Mit `git checkout <string: branch_name> <string: file_name_or_directory_path>` könnt ihr einzelne Dateien oder ganze Verzeichnisse aus anderen Branches kopieren.](https://www.30secondsofcode.org/git/s/copy-file-from-branch/)
+* [>>[...] shift left is a technical term meaning to try and identify problems as early as you can in your software project lifecycle.<<](https://www.freecodecamp.org/news/what-is-shift-left-in-software/)
+* [Der Erschaffer das Chaos-Knotens ist von uns gegangen.](https://www.ccc.de/de/updates/2024/ccc-trauert-um-reinhard-schrutzki)
+* [Mit `git push -f` könnt ihr die Geschichte des entfernten Branchens überschreiben.](https://www.30secondsofcode.org/git/s/force-update-remote-branch/)
+* [>>[...] Keines der von den elf größten Technologieunternehmen der Welt geschaffenen Tools zur Transparenz von Werbung funktioniert so effektiv wie nötig. [...]<<](https://netzpolitik.org/2024/werbearchive-der-grossen-plattformen-zu-wenig-daten-kaum-vergleichbar-und-schlecht-zu-bedienen/)
