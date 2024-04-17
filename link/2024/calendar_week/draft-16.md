@@ -17,3 +17,20 @@
 * [Der Erschaffer das Chaos-Knotens ist von uns gegangen.](https://www.ccc.de/de/updates/2024/ccc-trauert-um-reinhard-schrutzki)
 * [Mit `git push -f` könnt ihr die Geschichte des entfernten Branchens überschreiben.](https://www.30secondsofcode.org/git/s/force-update-remote-branch/)
 * [>>[...] Keines der von den elf größten Technologieunternehmen der Welt geschaffenen Tools zur Transparenz von Werbung funktioniert so effektiv wie nötig. [...]<<](https://netzpolitik.org/2024/werbearchive-der-grossen-plattformen-zu-wenig-daten-kaum-vergleichbar-und-schlecht-zu-bedienen/)
+* [>>Am Samstag Abend war Anwurf in der Ernst-Grube Halle in der Silberstadt Freiberg.<<](https://www.youtube.com/watch?v=X9nNGjNtAIQ)
+* [Telematik ist erneut kaputt.](https://www.borncity.com/blog/2024/04/16/medisign-erneut-langer-telematik-ausfall-15-4-2024-gematik-prft-den-anbieter/)
+* [Die Chatkontrolle/anstandslose Massenüberwachung soll wegen dem Schutz der Kinder eingeführt werden. Polizei- und Regierungsnahe Dienste sollen nicht überwacht werden.](https://tuxproject.de/blog/2024/04/hoffnung-dexit-15-die-spd-will-meine-briefe-lesen-aber-ihre-eigenen-nicht-mehr/) - Rein statistisch sind aber eben auch in diesen Kreisen Kinderschänder vorhanden.
+* [YouTube machte im letzten Jahr knapp 16 Milliarden USD Reingewinn und geht deswegen gegen alternative Anwendungen vor, weil sie kaum noch Gewinne machen.](https://www.bleepingcomputer.com/news/google/google-to-crack-down-on-third-party-youtube-apps-that-block-ads/) - Ist wie bei Reddit, geht NewPipe nicht mehr, nutze ich kein YouTube
+* [Percona unterstützt Valkey](https://www.percona.com/blog/percona-stands-firmly-on-the-side-of-open-source/)
+* [Mit Ubuntu 24.04-LTS könnt ihr wieder, automatisch geführt, OpenZFS als Root-FS inklusive Verschlüsslung nutzen.](https://www.phoronix.com/news/OpenZFS-Ubuntu-24.04-LTS)
+* [So viel zum Thema Unabhängigkeit, Ulrich Kleber hat seine Aufgabe falsch verstanden und für das Volk statt der Lobby gearbeitet. Also muss er gehen.](https://netzpolitik.org/2024/louisa-specht-riemenschneider-einigung-auf-neue-bundesdatenschutzbeauftragte/) - Die Nachfolgerin, Frau Specht-Riemenschneider möchte eine "offene Datenkultur"
+* ["Zentrums für operative Kommunikation der Bundeswehr", Neusprech für Propagandazentrum](https://blog.fefe.de/?ts=98e02122)
+* [Die FDP biedert sich hart an verbrannt zu werden, statt Elitenprivilege und andauernde Suventionierung zu reduzieren, wird einfach immer weiter Infrastruktur für die 90 Prozent der Bevölkerung abgebaut.](https://blog.fefe.de/?ts=98e012de) - Als wollten die Politikereliten förmlich, dass Berlin und Frankruft bald aus dem Weltall zu sehen sind
+* [Kalifornien ist wohl seit 30 Tagen Energieautark und nutzt dafür erneuerbare Energien.](https://blog.fefe.de/?ts=98e00acd)
+* [ddev wurde in der Version 1.23.0 veröffentlicht.](https://github.com/ddev/ddev/releases/tag/v1.23.0)
+* [itsdangerous wurde in der Version 2.2.0 veröffentlicht.](https://github.com/pallets/itsdangerous/releases/tag/2.2.0)
+* [FreeRDP wurde in der Version 3.5.0 veröffentlicht.](https://github.com/FreeRDP/FreeRDP/releases/tag/3.5.0)
+* [popcorn-desktop wurde in der Version 0.5.1 veröffentlicht.](https://github.com/popcorn-official/popcorn-desktop/releases/tag/v0.5.1)
+* [Joomla! wurde in der Version 5.1.0 veröffentlicht.](https://github.com/joomla/joomla-cms/releases/tag/5.1.0)
+* [valkey wurde in der Version 7.2.5 veröffentlicht.](https://github.com/valkey-io/valkey/releases/tag/7.2.5)
+* [backstage wurde in der Version 1.26.0 veröffentlicht.](https://github.com/backstage/backstage/releases/tag/v1.26.0)
