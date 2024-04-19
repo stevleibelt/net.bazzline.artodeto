@@ -49,3 +49,9 @@
 * [Realitätsabgleich "Altenheime sind Profitzenter"](https://blog.fefe.de/?ts=98e160bb) - Was da an Geld rausgezogen ... und alles auf Kosten der moralisch integeren Angestellten
 * [Auch die bewahrer des christlichen Glaubens, die USA, hassen alle Menschen](https://blog.fefe.de/?ts=98e1534b) - Da die bisherigen Befugnisse nicht reichen, will die NSA noch einmal "by the Law" sicherstellen, dass sie überall alles darf
 * [Statt funktionierende und wartungsarme Technik wie Induktionsschleifen gibt es jetzt überall "KI" mit Kameras](https://blog.fefe.de/?ts=98e15122) - Eben weil man die Daten der Kameras noch "nachnutzen" kann
+* [Chris schreibt mir beim Thema TLS-Zertifikatslänge aus dem Herzen.](https://utcc.utoronto.ca/~cks/space/blog/web/TLSSelfSignedCertsDuration)
+* [Frontier Communications ist kaputt.](https://www.bleepingcomputer.com/news/security/frontier-communications-shuts-down-systems-after-cyberattack/)
+* [Als ich dieses Schreiben gelesen habe musste ich an "Am Ende machen wir es dann rund" denken](https://blog.hqcodeshop.fi/archives/588-On-VAT-Calculation-Rounding-Monetary-Values.html) - Daher könnte dieser Spruch wohl wirklich kommen und birgt damit sehr viel Tiefe
+* [GlückAufTV: Knacki spricht Klartext - Streik beim ÖPNV](https://www.youtube.com/watch?v=bzotLYhW5Ks) - Furchtbar tolle Idee mit dem Knacki. Zum Streikthema, dank euch beim "Spirit" der transatlantischen Brücke/FDP. Faire Bezahlung für faire Arbeit
+* [Das Grodittmansdorder Waldmoor soll gerodet und ausgekiest werden.](https://sachsen.nabu.de/news/2024/34842.html)
+* [ruff wurde in der Version 0.4.0 veröffentlicht.](https://github.com/astral-sh/ruff/releases/tag/v0.4.0)
