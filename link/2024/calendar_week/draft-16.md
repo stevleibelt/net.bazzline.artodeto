@@ -55,3 +55,7 @@
 * [GlückAufTV: Knacki spricht Klartext - Streik beim ÖPNV](https://www.youtube.com/watch?v=bzotLYhW5Ks) - Furchtbar tolle Idee mit dem Knacki. Zum Streikthema, dank euch beim "Spirit" der transatlantischen Brücke/FDP. Faire Bezahlung für faire Arbeit
 * [Das Grodittmansdorder Waldmoor soll gerodet und ausgekiest werden.](https://sachsen.nabu.de/news/2024/34842.html)
 * [ruff wurde in der Version 0.4.0 veröffentlicht.](https://github.com/astral-sh/ruff/releases/tag/v0.4.0)
+* [Nestle packt in nicht regulierten Märkten über 7 Gramm Zucker pro Portion in ihr Milchpulver für Kinder.](https://blog.fefe.de/?ts=98dcff3f) - Eine Portion scheint [25 Gramm](https://www.cerelac.co.uk/6-months/products/cerelac-wheat-milk) zu sein.
+* [Hinterlegt in eurem Smartphone besser kein Fingerabdruck. Die Polizei der westlichen Werte darf euch zwingen euren Finger zu benutzen.](https://blog.fefe.de/?ts=98dcf71e)
+* [Wer glaubt Microsoft noch? Angeblich wurde deren Copilot-Anwendung ausversehen und nur vereinzelt installiert.](https://blog.fefe.de/?ts=98dcf7d9)
+* [Wenn sich die Flintenuschi freut, weißt du direkt, "das wird Brühe" - so auch bei der "Marktliberalisierung des Telekomunikationssektors der EU"](https://netzpolitik.org/2024/telekommunikation-eu-bereitet-sich-auf-marktliberalisierung-vor/)
