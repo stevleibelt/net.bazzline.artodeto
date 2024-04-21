@@ -59,3 +59,8 @@
 * [Hinterlegt in eurem Smartphone besser kein Fingerabdruck. Die Polizei der westlichen Werte darf euch zwingen euren Finger zu benutzen.](https://blog.fefe.de/?ts=98dcf71e)
 * [Wer glaubt Microsoft noch? Angeblich wurde deren Copilot-Anwendung ausversehen und nur vereinzelt installiert.](https://blog.fefe.de/?ts=98dcf7d9)
 * [Wenn sich die Flintenuschi freut, weißt du direkt, "das wird Brühe" - so auch bei der "Marktliberalisierung des Telekomunikationssektors der EU"](https://netzpolitik.org/2024/telekommunikation-eu-bereitet-sich-auf-marktliberalisierung-vor/)
+* [Gnulib-tool in python neu geschrieben und nun ist das acht bis 100 mal schneller](https://www.phoronix.com/news/Gnutool-lib-Rewrite-Faster-Perf)
+* [Nein? Doch! Oh? Auch Microsoft ummantelt seine App-Store-Anwendung mit Telemetrie.](https://www.borncity.com/blog/2024/04/20/microsoft-packt-store-apps-mit-telemetrie/) - Wie Firebase bei Google
+* [Anstrengend, nach google Maps Widerspruch muss man das für Apple auch machen.](https://www.borncity.com/blog/2024/04/21/auch-apple-startet-foto-tour-in-deutschland-widerspruch-gegen-aufnahmen-mglich/) - US-amerikansiche Firmen geben uns den großen Mittelfinger wenn es um den öffentlichen Raum geht ... schrecklich
+* [Zur Vorratsdatenspeicherung: >>Sie eignet sich hervorragend für schäbige Verkürzungen auf Kosten der Grundrechte.<<](https://netzpolitik.org/2024/vorratsdatenspeicherung-schaebige-verkuerzung-auf-kosten-der-grundrechte/)
+* [Auf Hirnfick 2.0 findet ihr alle Parteiel zur Europawahl](https://tuxproject.de/blog/2024/04/parteien-zur-europawahl/)
