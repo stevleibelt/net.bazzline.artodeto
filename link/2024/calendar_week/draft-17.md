@@ -1,6 +1,6 @@
 * [DoctoLib ist ein Unternehmen nach US-amerikanischem Vorbild und all seinen Nachteilen für die Kunden.](https://netzpolitik.org/2024/doctolib-wachsender-riese-im-gesundheitsdatenmarkt/) - Und da es kein freier Markt ist, ist der Kunde hier jemand der gezwungen wird
 * [OpenFoodNetwork wurde in der Version 4.4.40 veröffentlicht.](https://github.com/openfoodfoundation/openfoodnetwork/releases/tag/v4.4.40)
-* [BetterReflection wurde in der Version 6.35.0 veröffentlicht.](https://github.com/Roave/BetterReflection/releases/tag/6.35.0)
+* [BetterReflection wurde in der Version 6.36.0 veröffentlicht.](https://github.com/Roave/BetterReflection/releases/tag/6.36.0)
 * [Vacuum wurde in der Version 0.9.15 veröffentlicht.](https://github.com/daveshanley/vacuum/releases/tag/v0.9.15)
 * [Redis Exporter wurde in der Version 1.59.0 veröffentlicht.](https://github.com/oliver006/redis_exporter/releases/tag/v1.59.0)
 * [Nein? Doch! Oh? Microsoft ist eine Bedrohung für die nationale Sicherheit der USA](https://blog.fefe.de/?ts=98db8cf9) - Dann bitte weitermachen Microsoft, aber bleibt auf eurer Seite des Atlantiks
@@ -12,3 +12,9 @@
 * [Genios ist kaputt, aber der Betreiber nennt es nicht so](https://blog.fefe.de/?ts=98d9b233)
 * [Wie in den USA, wenn ein "schlanker Staat" gefordert wird, geht es vor allem darum, dass die Steuerhinterziehung der Großen nicht nachverfolgt werden kann.](https://blog.fefe.de/?ts=98d8f8e8)
 * ["KI"-Bildgeneratoren dürfen jetzt keine sexuelle Darstellung mehr machen](https://blog.fefe.de/?ts=98d8f23d) - Schutz der Kinder, wisst ihr ja ...
+* [QEMU wurde in der Version 9.0 veröffentlicht.](https://www.phoronix.com/news/QEMU-9.0-Released)
+* [Kuetz leistet einen großen Dienst gegenüber der Gesellschaft und hat eine tolle Tabelle erschaffen welches die ganzen Dienste wie Signal, Element, WhatsApp etc. gegenüberstellt.](https://www.kuketz-blog.de/messenger-matrix-uebersicht-vergleich-der-aktuellen-messenger/)
+* [GlückAufTV: Rettungsaktion für die Kirche Berthelsdorf](https://www.youtube.com/watch?v=ETohf-XyXhM)
+* [Peek ist ein wunderbares Werkzeug mit dem ihr schnell ein Video von eurem Bildschirm erstellen könnt.](https://github.com/phw/peek)
+* [TrueNAS Scale wurde in der Version 24.04.0 veröffentlicht.](https://github.com/truenas/documentation/releases/tag/TS24.04.0)
+* [Die USA hat einen spontanen Ausbruch von Demokratie.](https://blog.fefe.de/?ts=98d6d7fd) - Das kam für mich auch total unerwartet
