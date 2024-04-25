@@ -18,3 +18,16 @@
 * [Peek ist ein wunderbares Werkzeug mit dem ihr schnell ein Video von eurem Bildschirm erstellen könnt.](https://github.com/phw/peek)
 * [TrueNAS Scale wurde in der Version 24.04.0 veröffentlicht.](https://github.com/truenas/documentation/releases/tag/TS24.04.0)
 * [Die USA hat einen spontanen Ausbruch von Demokratie.](https://blog.fefe.de/?ts=98d6d7fd) - Das kam für mich auch total unerwartet
+* [rethink-app wurde in der Version 0.5.5g veröffentlicht.](https://github.com/celzero/rethink-app/releases/tag/v0.5.5g)
+* [lapce wurde in der Version 0.4.0 veröffentlicht.](https://github.com/lapce/lapce/releases/tag/v0.4.0)
+* [earthly wurde in der Version 0.8.9 veröffentlicht.](https://github.com/earthly/earthly/releases/tag/v0.8.9)
+* [tribler wurde in der Version 7.14.0 veröffentlicht.](https://github.com/Tribler/tribler/releases/tag/v7.14.0)
+* [Nextcloud server wurde in der Version 29.0.0 veröffentlicht.](https://github.com/nextcloud/server/releases/tag/v29.0.0)
+* [Nein? Doch! Oh? Auch Amnesty International übt berechtigte Kritik an Big Tech (Konzernen die sich verhalten als würden sie über dem Gesetz stehen), generative KI und globalen Spyware-Handel](https://netzpolitik.org/2024/amnesty-international-jahresbericht-kritik-an-big-tech-generativer-ki-und-dem-globalen-spyware-handel/)
+* [Cisco ist kaputt.](https://www.linux-magazin.de/blogs/schwachstelle-in-cisco-integrated-management-controller/)
+* [Clonezilla wurde in der Version 3.1.2-22 veröffentlicht.](https://sourceforge.net/projects/clonezilla/files/clonezilla_live_stable/3.1.2-22/)
+* [Endlich gibt es ein grundlegendes Gesetz in der EU welches das Recht zur Reparatur ermöglicht.](https://www.borncity.com/blog/2024/04/24/eu-parlament-verabschiedet-recht-auf-reparatur/) - Natürlich werden alle Konzerne alle Möglichkeiten herausfinden, damit sie dieses Gesetz umgehen können. Moral ist in Konzernen nicht zu finden, ebenso wie ein Herz
+* [QEMU wurde in der Version 9.0.0 veröffentlicht.](https://www.qemu.org/2024/04/23/qemu-9-0-0/)
+* [Realitätsabgleich "Alle Daten müssen ins Internet"](https://netzpolitik.org/2024/europaeischer-datenhaendler-sensible-passdaten-von-deutschen-offen-im-netz/) - Eine kleine Firma wird gehackt, alle Datenhändler stürzen sich auf die Daten aber niemand meldet das Problem. Nun sind alle Daten mehrfach kopiert und den Schaden haben die Kunden
+* [>>Mit der schleichenden Abschaffung des Bargelds drohen Negativzinsen und das jederzeitige Abdrehen der Geldversorgung über Kartensperrungen. Die Abhängigkeit von Banken nimmt bedrohlich zu.<<](https://www.patrick-breyer.de/piraten-mit-eu-barzahlungsobergrenze-und-verbot-anonymer-kryptowallets-droht-schleichende-finanzielle-entmuendigung/)
+* [>>Wir Piraten unterstützen die Idee eines EU-Gesundheitsdatenraums, aber nicht um den Preis der Aufgabe des Selbstbestimmungsrechts der Patienten und des Arztgeheimnisses zugunsten von Gesundheitsdatenabgriffen durch Regierungen, Big Pharma und Big Tech.<<](https://www.patrick-breyer.de/eu-gesundheitsdatenraum-kniefall-vor-big-tech-und-big-pharma/) - Heute ist ein Tag, wo man schon wieder nur im Strahl kotzen kann
