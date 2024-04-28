@@ -31,4 +31,6 @@
 * [Realitätsabgleich "Alle Daten müssen ins Internet"](https://netzpolitik.org/2024/europaeischer-datenhaendler-sensible-passdaten-von-deutschen-offen-im-netz/) - Eine kleine Firma wird gehackt, alle Datenhändler stürzen sich auf die Daten aber niemand meldet das Problem. Nun sind alle Daten mehrfach kopiert und den Schaden haben die Kunden
 * [>>Mit der schleichenden Abschaffung des Bargelds drohen Negativzinsen und das jederzeitige Abdrehen der Geldversorgung über Kartensperrungen. Die Abhängigkeit von Banken nimmt bedrohlich zu.<<](https://www.patrick-breyer.de/piraten-mit-eu-barzahlungsobergrenze-und-verbot-anonymer-kryptowallets-droht-schleichende-finanzielle-entmuendigung/)
 * [>>Wir Piraten unterstützen die Idee eines EU-Gesundheitsdatenraums, aber nicht um den Preis der Aufgabe des Selbstbestimmungsrechts der Patienten und des Arztgeheimnisses zugunsten von Gesundheitsdatenabgriffen durch Regierungen, Big Pharma und Big Tech.<<](https://www.patrick-breyer.de/eu-gesundheitsdatenraum-kniefall-vor-big-tech-und-big-pharma/) - Heute ist ein Tag, wo man schon wieder nur im Strahl kotzen kann
-* []
+* [Hier wird euch Flutter näher gebracht.](https://www.freecodecamp.org/news/how-to-develop-a-flutter-app-from-scratch/)
+* [broot wurde in der Version 1.37.0 veröffentlicht.](https://github.com/Canop/broot/releases/tag/v1.37.0)
+* [pytest wurde in der Version 8.2.0 veröffentlicht.](https://github.com/pytest-dev/pytest/releases/tag/8.2.0)
