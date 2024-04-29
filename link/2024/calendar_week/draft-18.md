@@ -1,0 +1,2 @@
+* [Nein? Doch! Oh? Das ML-Produkt ChatGPT lügt und das auch zu echten Personen. Da ML-Produkte und OpenAI absolut keine Lust auf Nachverfolgbarkeit von Ergebnissen hat, kann es nicht dagegen tun.](https://noyb.eu/de/chatgpt-provides-false-information-about-people-and-openai-cant-correct-it) - Softwarefehler!
+* [>>Die kleinwaltersdorfer Kindertagesstätte „Kastanienzwerge“ feiert am 31.05.2024 ab 16 Uhr ihr 10-jähriges Jubiläum<<](https://kleinwaltersdorf.de/index.php/2024/04/28/10-jahre-kastanienzwerge/)
