@@ -4,3 +4,8 @@
 * [>>Zuerst hat der EuGH zur Verfolgung von Kindesmissbrauchsdarstellungen und anderer schwerer Straftaten eine flächendeckende Vorratsdatenspeicherung über die Internetverbindungen der gesamten Bevölkerung erlaubt. Ab heute soll unsere Internetnutzung aber schon zur Verfolgung von Filesharing und anderer Bagatelldelikte offengelegt werden. Wo ein Trog ist, sammeln sich die Schweine.<<](https://www.patrick-breyer.de/piraten-zur-vorratsdatenspeicherung-wo-ein-trog-ist-sammeln-sich-die-schweine/)
 * [Kanidm wurde in der Version 1.2.0 veröffentlicht.](https://github.com/kanidm/kanidm/releases/tag/v1.2.0)
 * [api-plattform wurde in der Version 3.3.0 veröffentlicht.](https://github.com/api-platform/api-platform/releases/tag/v3.3.0)
+* [>>Daten, die da nicht rumliegen, kann niemand klauen.<<](https://blog.fefe.de/?ts=98cc77b5)
+* [distrobox wurde in der Version 1.7.2 veröffentlicht.](https://github.com/89luca89/distrobox/releases/tag/1.7.2.0)
+* [archlinux archzfs withde in der Version 20240501 veröffentlicht.](https://github.com/stevleibelt/arch-linux-live-cd-iso-with-zfs/releases/tag/20240501)
+* [DropBox hat Kundendaten verloren.](https://www.bleepingcomputer.com/news/security/dropbox-says-hackers-stole-customer-data-auth-secrets-from-esignature-service/)
+* [Auf freecodecamp.org wird euch das `defaultdict` von python erklärt.](https://www.freecodecamp.org/news/how-to-use-defaultdict-python/)
