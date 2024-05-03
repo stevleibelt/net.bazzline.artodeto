@@ -9,3 +9,16 @@
 * [archlinux archzfs withde in der Version 20240501 veröffentlicht.](https://github.com/stevleibelt/arch-linux-live-cd-iso-with-zfs/releases/tag/20240501)
 * [DropBox hat Kundendaten verloren.](https://www.bleepingcomputer.com/news/security/dropbox-says-hackers-stole-customer-data-auth-secrets-from-esignature-service/)
 * [Auf freecodecamp.org wird euch das `defaultdict` von python erklärt.](https://www.freecodecamp.org/news/how-to-use-defaultdict-python/)
+* [Nein? Doch! Oh? Wer reich ist, lebt länger](https://blog.fefe.de/?ts=98cd2ce8)
+* [Der Datenstaubsauber Lauterbach findet wieder Gründe noch eine Bürgerdatenbank zu erstellen - Suizidgefährdet](https://blog.fefe.de/?ts=98cd68ac) - Statt die Gründe wegen Selbstmord zu beheben oder breitflächig Hilfe anzubieten, werden lieber Gefahrengebiete und Gefährdert stigmatisiert.
+* [Flinten Uschi kriegt eine Lobby-Freundin, Stack-Zimmermann wird mit ihr zusammen die 2Cup-Girls im EU-Parlament spielen.](https://blog.fefe.de/?ts=98cd9114)
+* [>>Immerhin erfahren wir an der Stelle, dass Cicero und Monpol von demselben CDU-Mitglied betrieben werden, ein Mann, der vorher Chef bei Morgan Stanley war.<<](https://blog.fefe.de/?ts=98cdfe7c)
+* [fastapi wurde in der Version 0.111.0 veröffentlicht.](https://github.com/tiangolo/fastapi/releases/tag/0.111.0)
+* [OpenZFS wurde in der Version 2.2.4 veröffentlicht.](https://github.com/openzfs/zfs/releases/tag/zfs-2.2.4)
+* [znapzend wurde in der Version 0.22.0 veröffentlicht.](https://github.com/oetiker/znapzend/releases/tag/v0.22.0)
+* [GlückAufTV: >>Der Tag der erneuerbaren Energien hat inzwischen Tradition. Die Oederaner nutzten den Tag auch in diesem Jahr wieder, um ausgelassen zu feiern.<<](https://www.youtube.com/watch?v=tJROnrkcXGQ)
+* [Proton wurde in der Version 9.0-1 veröffentlicht.](https://www.phoronix.com/news/Proton-9.0-1-Released)
+* [Linux wurde in den Versionen 6.8.9, 6.6.30, 6.1.90, 5.15.158, 5.10.216, 5.4.275 und 4.19.313 veröffentlicht.](https://lwn.net/Articles/972209/)
+* [Die Piratenpartei hat ein Pirat-o-mat veröffentlicht.](https://www.patrick-breyer.de/der-pirat-o-mat-onlineanwendung-zum-vergleich-der-politischen-meinung-mit-echten-abstimmungen-im-eu-parlament-startet/) - Die sich selbst ernannten Volksparteien zeigen durch die Abstimmung den Verkauf des Volkes gegenüber den transatlantischen Aggressors
+* [Hier wird euch `git commit --fixhub ...` erklärt.](https://www.30secondsofcode.org/git/s/create-fixup-commit/)
+* [Hier wird euch `git fsck --lost-found` erklärt.](https://www.30secondsofcode.org/git/s/find-lost-files/)
