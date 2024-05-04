@@ -22,3 +22,4 @@
 * [Die Piratenpartei hat ein Pirat-o-mat veröffentlicht.](https://www.patrick-breyer.de/der-pirat-o-mat-onlineanwendung-zum-vergleich-der-politischen-meinung-mit-echten-abstimmungen-im-eu-parlament-startet/) - Die sich selbst ernannten Volksparteien zeigen durch die Abstimmung den Verkauf des Volkes gegenüber den transatlantischen Aggressors
 * [Hier wird euch `git commit --fixhub ...` erklärt.](https://www.30secondsofcode.org/git/s/create-fixup-commit/)
 * [Hier wird euch `git fsck --lost-found` erklärt.](https://www.30secondsofcode.org/git/s/find-lost-files/)
+* [>>[...] Amerikanern darauf verlassen kann, dass sie das Richtige tun - nachdem sie erst alle anderen Möglichkeiten probiert haben<<](https://blog.fefe.de/?ts=98c8d5bb)
