@@ -23,3 +23,6 @@
 * [Hier wird euch `git commit --fixhub ...` erklärt.](https://www.30secondsofcode.org/git/s/create-fixup-commit/)
 * [Hier wird euch `git fsck --lost-found` erklärt.](https://www.30secondsofcode.org/git/s/find-lost-files/)
 * [>>[...] Amerikanern darauf verlassen kann, dass sie das Richtige tun - nachdem sie erst alle anderen Möglichkeiten probiert haben<<](https://blog.fefe.de/?ts=98c8d5bb)
+* [LocalAI wurde in der VErsion 2.14.0 veröffentlicht.](https://github.com/mudler/LocalAI/releases/tag/v2.14.0)
+* [Googles KI stuft Romane als Porno ein und entzieht dem Author damit einmal alles Rechte und Zugriffe.](https://blog.fefe.de/?ts=98ca6b84) - OBEY!
+* [>>Techno – Der verkaufte Traum (1995)<<](https://www.rave-strikes-back.de/?p=12244)
