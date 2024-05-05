@@ -26,3 +26,4 @@
 * [LocalAI wurde in der VErsion 2.14.0 veröffentlicht.](https://github.com/mudler/LocalAI/releases/tag/v2.14.0)
 * [Googles KI stuft Romane als Porno ein und entzieht dem Author damit einmal alles Rechte und Zugriffe.](https://blog.fefe.de/?ts=98ca6b84) - OBEY!
 * [>>Techno – Der verkaufte Traum (1995)<<](https://www.rave-strikes-back.de/?p=12244)
+* [HeidiSQL wurde in der Version 12.7 veröffentlicht.](https://github.com/HeidiSQL/HeidiSQL/releases/tag/12.7)
