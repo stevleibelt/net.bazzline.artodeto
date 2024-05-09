@@ -17,3 +17,9 @@
 * [Zurückhacken verboten! Außer natürlich für den BND, für Sternenmenschen gelten irdische Gesetze ja bekanntlich nicht.](https://netzpolitik.org/2024/hackbacks-zurueckhacken-ist-keine-verteidigung/)
 * [argo-cd wurde in der Version 2.11.0 veröffentlicht.](https://github.com/argoproj/argo-cd/releases/tag/v2.11.0)
 * [tencity wurde in der Version 8.3.0 veröffentlicht.](https://github.com/jd/tenacity/releases/tag/8.3.0)
+* [Die CDU möchte die DSGVO in Rente schicken](https://blog.fefe.de/?ts=98c57bf7) - Tja, die haben wohl auch das Ziel unter fünf Prozent kommen zu wollen
+* [ML-Systeme sind außer Kontrolle, also werden sie jetzt mit dem "Gütesiegel" "Verantwortlichkeit" beworben](https://blog.fefe.de/?ts=98c5a813)
+* [Geil! Weltweit kommt schon 30 Prozent der verbrauchten Energie aus erneuerbaren Energien](https://blog.fefe.de/?ts=98c5a71e)
+* [appsmith wurde in der Version 1.24 veröffentlicht.](https://github.com/appsmithorg/appsmith/releases/tag/v1.24)
+* [Wie kann man so einen CDU Parteitag kurz zusammenfassen? Scheiße trifft auf Scheiße](https://blog.fefe.de/?ts=98c58d3c) - Das transatlantische U-Boot des US-amerikanischen Aggressors [INSM](https://de.wikipedia.org/wiki/Initiative_Neue_Soziale_Marktwirtschaft) "sponsort" den CDU Parteitag
+* [Radio Electronia aus Jena gibt es jetzt schon 25 Jahre. Herzlichen Glückwunsch!](https://www.rave-strikes-back.de/?p=12258)
