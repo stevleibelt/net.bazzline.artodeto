@@ -23,3 +23,9 @@
 * [appsmith wurde in der Version 1.24 veröffentlicht.](https://github.com/appsmithorg/appsmith/releases/tag/v1.24)
 * [Wie kann man so einen CDU Parteitag kurz zusammenfassen? Scheiße trifft auf Scheiße](https://blog.fefe.de/?ts=98c58d3c) - Das transatlantische U-Boot des US-amerikanischen Aggressors [INSM](https://de.wikipedia.org/wiki/Initiative_Neue_Soziale_Marktwirtschaft) "sponsort" den CDU Parteitag
 * [Radio Electronia aus Jena gibt es jetzt schon 25 Jahre. Herzlichen Glückwunsch!](https://www.rave-strikes-back.de/?p=12258)
+* [LocalAI wurde in der Version 2.15.0 veröffentlicht.](https://github.com/mudler/LocalAI/releases/tag/v2.15.0)
+* [Schon erschreckend, da geht man selbst gerade den Wahl-O-Mat durch und findent anschließend, dass FeFe ähnlich verstörend auf die Fragen reagiert hat wie man selbst.](https://blog.fefe.de/?ts=98c0c762)
+* [Dell Kunden können ihre Daten gern im Darknet abholen.](https://blog.fefe.de/?ts=98c30f40)
+* [Die Software von Insulinpumpen ist leider auch kaputt](https://blog.fefe.de/?ts=98c30c49)
+* [Nach der 1,5 Grad Celsius Erwärmung kommt die 2,5 Grad Celsius Erwärmung.](https://blog.fefe.de/?ts=98c24b50) - Soll noch einmal mal sagen die Politiker und Konzerne schaffen heutzutage nichts mehr!
+* [Netzpolitik.org hat ihren ersten Podcast zum Thema Verhalten bei Hausdurchsuchung raus gebracht. Den höre ich mir heute Abend einmal an.](https://netzpolitik.org/2024/systemeinstellungen-1-link-extremismus/)
