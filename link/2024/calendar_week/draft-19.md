@@ -29,3 +29,6 @@
 * [Die Software von Insulinpumpen ist leider auch kaputt](https://blog.fefe.de/?ts=98c30c49)
 * [Nach der 1,5 Grad Celsius Erwärmung kommt die 2,5 Grad Celsius Erwärmung.](https://blog.fefe.de/?ts=98c24b50) - Soll noch einmal mal sagen die Politiker und Konzerne schaffen heutzutage nichts mehr!
 * [Netzpolitik.org hat ihren ersten Podcast zum Thema Verhalten bei Hausdurchsuchung raus gebracht. Den höre ich mir heute Abend einmal an.](https://netzpolitik.org/2024/systemeinstellungen-1-link-extremismus/)
+* [mdr.de: >>Nick Haake vom Billardclub Empor Freiberg ist kürzlich in Spanien Junioren-Europameister geworden.](https://www.mdr.de/video/mdr-videos/a/video-822506.html)
+* [Jeder Tag, ein Tag mehr die FDP besonders ins Herz zu schließen ... Es soll mehr Verwaltungswums kommen, aber mit weniger Geld und ohne Personal.](https://netzpolitik.org/2024/ozg-vermittlungsausschuss-laender-fordern-mehr-einfluss-und-mehr-geld/) - Geld kann die FDP nämlich nur für Waffen und Superreiche ausgeben, bei allen anderen Vorhaben gibt es die Schuldenbremse
+* [>>Der Ruhrkohle-Chor kommt zu Pfingsten ins Erzgebirge<<](https://knappenverein.de/der-ruhrkohle-chor-kommt-zu-pfingsten-ins-erzgebirge/)
