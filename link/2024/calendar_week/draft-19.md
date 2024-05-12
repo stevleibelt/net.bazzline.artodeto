@@ -32,3 +32,11 @@
 * [mdr.de: >>Nick Haake vom Billardclub Empor Freiberg ist kürzlich in Spanien Junioren-Europameister geworden.](https://www.mdr.de/video/mdr-videos/a/video-822506.html)
 * [Jeder Tag, ein Tag mehr die FDP besonders ins Herz zu schließen ... Es soll mehr Verwaltungswums kommen, aber mit weniger Geld und ohne Personal.](https://netzpolitik.org/2024/ozg-vermittlungsausschuss-laender-fordern-mehr-einfluss-und-mehr-geld/) - Geld kann die FDP nämlich nur für Waffen und Superreiche ausgeben, bei allen anderen Vorhaben gibt es die Schuldenbremse
 * [>>Der Ruhrkohle-Chor kommt zu Pfingsten ins Erzgebirge<<](https://knappenverein.de/der-ruhrkohle-chor-kommt-zu-pfingsten-ins-erzgebirge/)
+* [Jellyfin Server wurde in der Version 10.9.0 veröffentlicht.](https://github.com/jellyfin/jellyfin/releases/tag/v10.9.0)
+* [Google hat sein Kubernetes nicht im Griff, offiziell nennt man das dann "Fehlkonfiguration"](https://blog.fefe.de/?ts=98c1bdab)
+* [So günstig kommt man als großer Konzern mit Lügen gestraft davon - 10 Millionen USD durch drei.](https://blog.fefe.de/?ts=98c1bb74)
+* [Hier wird euch gezeigt wie ihr ein einfaches "Dunkles Thema" eurer Webseite baut.](https://blog.miguelgrinberg.com/post/how-to-add-dark-mode-support-to-your-website) - Kompliziert wird es bei Icons und weiteren Elementen
+* [Was kann "KI" (Lage-Language-Models) eigentlich genau?](https://blog.miguelgrinberg.com/post/how-llms-work-explained-without-math) - Sie nutzen eure Eingabe und ermitteln die statistische Möglichkeit welches Wort als Antwort zusammen passt
+* [LPCAMM2 liest sich ja vielversprechend.](https://www.ifixit.com/News/95078/lpcamm2-memory-is-finally-here) - Damit dürfte es dann keinen Grund mehr für die Hersteller von Laptops geben, dass sie Arbeittspeicher fest verlöten
+* [>>Es geht um einen echten Bürgerstromtarif, der dazu führt, dass die Energiekosten sinken<<](https://www.mdr.de/nachrichten/sachsen/chemnitz/freiberg/solar-energie-mittelsachsen-strom-neubauer-100.html) - Wäre ja toll, wenn der Landkreis Mittelsachen mit Bürgerkraftwerken frei vom weltweiten Strommarkt wird. Stadtwerke vereinigt euch und bildet Olsen-Banden
+* [So einfach kann es manchmal sein, `<ol start="4">` :-D.](https://www.30secondsofcode.org/html/s/start-ordered-list-at-different-number/)
