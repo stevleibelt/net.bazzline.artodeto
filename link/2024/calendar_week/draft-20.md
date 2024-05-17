@@ -27,3 +27,12 @@
 * [Mozialla bietet einen SSL Konfigurations Generator an](https://ssl-config.mozilla.org/)
 * [Es gibt jetzt eine zentrale Beschwerdestelle für Bürgerinnen und Bürger wenn man selbst Verstöße gegen das Digitale-Dienste-Gesetzt melden möchte.](https://netzpolitik.org/2024/digitale-dienste-gesetz-hier-kannst-du-dich-beschweren/)
 * [LunarVim wurde in der Version 1.4.0 veröffentlicht.](https://github.com/LunarVim/LunarVim/releases/tag/1.4.0)
+* [netzpolitik.org: >>Hausdurchsuchungen als Abschreckung?<<](https://cloud.bazzline.net/index.php/apps/news/#/unread)
+* [Neovim wurde in der Version 0.10 veröffentlicht.](https://lwn.net/Articles/973917/)
+* [Google hat auf seiner diesjährigen Hausmesse viele Dinge vorgestellt, die angeblich für den Schutz des Nutzers sind.](https://netzpolitik.org/2024/client-side-scanning-google-will-vor-telefonbetrug-warnen/) - Lasst euch nicht blenden, im Grunde hört google damit jedes Gespräch und jede Textein- sowie ausgabe mit. Zudem bestimmt google's KI demnächst, ob dein Telefon gerade unbrauchbar gemacht wird (da angeblich als gestohlen deklariert)
+* [Nachdem Scheuerandi Millionen für nichts ausgegeben hat, macht die Bundesregierung weiter - getreu dem Motto "ist ja nicht unser Geld"](https://netzpolitik.org/2024/mindestversorgung-mit-internet-starlink-soll-angeblich-deutsche-breitbandluecken-schliessen/) - Statt endlich Infrastruktur als Staat zu bauen, werden wieder Steuereinnahmen - und damit Volkseigentum - zum us amerikanischen Agressor.
+* [Realitätsabgleich "Datenschutz bei Firefox"](https://www.kuketz-blog.de/firefox-weshalb-man-librewolf-und-andere-forks-bevorzugen-sollte/) - >>Firefox gibt standardmäßig anonymisierte Daten aus Marketingkampagnen an unsere Anbieter von Marketingkampagnen weiter, um die Leistung der Kampagnen zu messen und diese zu optimieren.<<
+* [Network Security Toolkit wurde in der Version 40 veröffentlicht.](https://www.networksecuritytoolkit.org/nst/index.html)
+* [Microsoft Copilot hilft dir sich selbst zu deinstallieren.](https://blog.fefe.de/?ts=98b897e0) - Das wird bald nie wieder vorkommen ... wegen der nationalen Sicherheit und so
+* [Wenn Firmen wie Visa von Datenschutz fasel, kannst du dir sicher sein, dass sie gerade den Datenschutz untergraben und moralisch illegale Dinge veranstalten.](https://blog.fefe.de/?ts=98b894c3)
+* [Microsoft hat eine weitere Charmoffensive gestartet: "Dein PC ist kaputt, reparieren bedeutet Bing nutzen!"](https://blog.fefe.de/?ts=98b891ae)
