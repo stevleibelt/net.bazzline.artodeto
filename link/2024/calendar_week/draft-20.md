@@ -36,3 +36,5 @@
 * [Microsoft Copilot hilft dir sich selbst zu deinstallieren.](https://blog.fefe.de/?ts=98b897e0) - Das wird bald nie wieder vorkommen ... wegen der nationalen Sicherheit und so
 * [Wenn Firmen wie Visa von Datenschutz fasel, kannst du dir sicher sein, dass sie gerade den Datenschutz untergraben und moralisch illegale Dinge veranstalten.](https://blog.fefe.de/?ts=98b894c3)
 * [Microsoft hat eine weitere Charmoffensive gestartet: "Dein PC ist kaputt, reparieren bedeutet Bing nutzen!"](https://blog.fefe.de/?ts=98b891ae)
+* [NUSpli wurde in der VErsion 1.150 veröffentlicht.](https://github.com/V10lator/NUSspli/releases/tag/v1.150)
+* [>>[...] ist ja schließlich keine KI sondern bloß "KI". Die ist nicht nur Parsecs von Bewusstsein entfernt, die versteht auch noch nichts sondern remixt nur.<<](https://blog.fefe.de/?ts=98b60ddb)
