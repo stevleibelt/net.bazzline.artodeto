@@ -1,0 +1,5 @@
+* [Die Bundesregierung/Blockpartei spricht sich weiter gegen das Volkseigentum aus.](https://blog.fefe.de/?ts=98b73fdb)
+* [>>Die Wanderausstellung TECHNO WORLDS macht vom 5. Mai bis 28. Juli 2024 in Dresden Halt<<](https://www.rave-strikes-back.de/?p=12295)
+* [>>Intellectually, I knew that cloud environments were fearsomely complex behind the scenes, with all sorts of spectacular technical underpinnings (and thus all sorts of things to go wrong).<<](https://utcc.utoronto.ca/~cks/space/blog/tech/CloudNetworkHiddenComplexity)
+* [roundcube wurde in den Versionen 1.5.7 und 1.6.7 veröffentlicht.](https://roundcube.net/news/2024/05/19/security-updates-1.6.7-and-1.5.7)
+* [>>Die Digitalisierung hat uns in eine gigantische Technikkriese geführt – denn das Thema Sicherheit kommt ja noch hinzu.<<](https://www.borncity.com/blog/2024/05/20/ende-des-lebenszyklus-von-software-und-gerten-das-kernproblem/)
