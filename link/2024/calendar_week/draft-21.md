@@ -3,3 +3,8 @@
 * [>>Intellectually, I knew that cloud environments were fearsomely complex behind the scenes, with all sorts of spectacular technical underpinnings (and thus all sorts of things to go wrong).<<](https://utcc.utoronto.ca/~cks/space/blog/tech/CloudNetworkHiddenComplexity)
 * [roundcube wurde in den Versionen 1.5.7 und 1.6.7 veröffentlicht.](https://roundcube.net/news/2024/05/19/security-updates-1.6.7-and-1.5.7)
 * [>>Die Digitalisierung hat uns in eine gigantische Technikkriese geführt – denn das Thema Sicherheit kommt ja noch hinzu.<<](https://www.borncity.com/blog/2024/05/20/ende-des-lebenszyklus-von-software-und-gerten-das-kernproblem/)
+* [Töten in Raten, die USA und Großbritanien lassen Julian Assange weiter im Hochsicherheitsgefängnis sterben.](https://blog.fefe.de/?ts=98b580a9)
+* [FluentBit war bis Version 3.0.4 kaputt.](https://www.bleepingcomputer.com/news/security/critical-fluent-bit-flaw-impacts-all-major-cloud-providers/)
+* [Unter dem Projektnamen `Recall` nimmt sich Microsoft die Freiheit heraus jede Eingabe und Interaktion des Nutzers mit Windows 11 aufzuzeichnen und zu verarbeiten.](https://www.bleepingcomputer.com/news/microsoft/windows-11-recall-ai-feature-will-record-everything-you-do-on-your-pc/)
+* [Die junge Gemeinde in Großschirma, bei Freiberg/Sa, organisierte auch im Jahr 2024 eine Pilgerwanderumg zum Pfarrgarten.](https://www.mdr.de/video/mdr-videos/a/video-825718.html) - Falls ihr im Jahr 2025 nicht wisst wohin euer Pfingstausflug gehen soll :-)
+* [Regaflex, das tolle Regalsystem für Bücher, CDs, DVDs und vielen mehr, gibt, aus gesundheitlichen Gründen, seinen Betrieb auf.](https://www.regaflex.de/)
