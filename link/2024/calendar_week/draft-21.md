@@ -23,3 +23,9 @@
 * [Alpine Linux wurde in der Version 3.20.0 veröffentlicht.](https://lwn.net/Articles/974576/)
 * [Netzpolitik.org hat euch eine große Aufgabe abgenommen und sich für euch die Wahlprogramme der größten Parteien durchgelesen und zusammengefasst.](https://netzpolitik.org/2024/europawahl-2024-was-in-den-wahlprogrammen-steht/)
 * [Datenschmutz.de bietet einen Online-Generator mit dem Ihr automatisiert Anfragen an für Auskunftsersuchung stellen könnt](https://datenschmutz.de/cgi-bin/auskunft) - Danke an [katika-kuehnreich](https://katika-kuehnreich.com/blog/2024/05/22/wie-viel-recht-auf-informationelle-selbstbestimmung-ist-noch-lebbar/) für den Link
+* [Realitätsabgleich "Bullshit in, Bullshit out"](https://blog.fefe.de/?ts=98b1510c)
+* [>>BND verwehrt Einsicht in Unterlagen – Bundesdatenschutzbeauftragter klagt<<](https://www.heise.de/news/Kontrolle-Bundesdatenschutzbeauftragter-klagt-gegen-Bundesnachrichtendienst-9729938.html)
+* [Ivanti ist wieder kaputt](https://blog.fefe.de/?ts=98b1fe26)
+* [analytics wurde in der VErsion 2.1.0 veröffentlicht.](https://github.com/plausible/analytics/releases/tag/v2.1.0)
+* [Spotify fördert den Elektroschrott](https://blog.fefe.de/?ts=98b17c74)
+* [Ein Aussteiger beim Verfassungsschutz laut FeFe so: >>Der hat ausgepackt, weil er findet, Ängste vor einem neuen Überwachungsstaat seien völlig gerechtfertigt. Bürgerrechte werden mit Füßen getreten. Was für ein paar Jahren noch eine legitime Meinung war, wird heute verfolgt und man landet auf Oberservierungslisten.<<](https://blog.fefe.de/?ts=98b17c81)
