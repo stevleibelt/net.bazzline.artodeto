@@ -29,3 +29,8 @@
 * [analytics wurde in der VErsion 2.1.0 veröffentlicht.](https://github.com/plausible/analytics/releases/tag/v2.1.0)
 * [Spotify fördert den Elektroschrott](https://blog.fefe.de/?ts=98b17c74)
 * [Ein Aussteiger beim Verfassungsschutz laut FeFe so: >>Der hat ausgepackt, weil er findet, Ängste vor einem neuen Überwachungsstaat seien völlig gerechtfertigt. Bürgerrechte werden mit Füßen getreten. Was für ein paar Jahren noch eine legitime Meinung war, wird heute verfolgt und man landet auf Oberservierungslisten.<<](https://blog.fefe.de/?ts=98b17c81)
+* [Realitätsabgleich was die EU fordert und wie die CDU die Fakten verdreht.](https://blog.fefe.de/?ts=98af056d)
+* [Elektrische Ladungen in der Nähe von Kerosintanks? Boing und die FAA finden das total normal.](https://blog.fefe.de/?ts=98ae331a)
+* [Nein? Doch! Oh? Microsoft hat eine API für die anderen Hersteller bereit gestellt um den Windows Defender ruhig zu stellen - nun wurde diese API bekannt.](https://blog.fefe.de/?ts=98ae66c4)
+* [vaccum wurde in der Version 0.10.0 veröffentlicht.](https://github.com/daveshanley/vacuum/releases/tag/v0.10.0)
+* [Carbon wurde in der Version 3.4.0 veröffentlicht.](https://github.com/briannesbitt/Carbon/releases/tag/3.4.0)
