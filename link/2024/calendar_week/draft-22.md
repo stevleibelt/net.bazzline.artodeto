@@ -10,3 +10,9 @@
 * [Der Datengewinn steht über allem](https://netzpolitik.org/2024/interview-zu-standort-trackern-google-und-apple-kooperieren-lieber-als-ein-verbot-zu-riskieren/) - Er ist so stark, dass Google und Apple zusammen arbeiten
 * [Vodafone reiht sich bei Spotify ein und produziert ab 01.08.2024 Elektroschrott.](https://www.borncity.com/blog/2024/05/28/vodafone-smart-tech-wird-am-1-august-2024-abgeschaltet/)
 * [Der TP-Link Archer C5400X ist kaputt](https://www.bleepingcomputer.com/news/security/tp-link-fixes-critical-rce-bug-in-popular-c5400x-gaming-router/)
+* [Alena Buyx, als Teil vom Ethikrat, empfindet Datensparsamkeit als eine irrsinnige Idee.](https://blog.fefe.de/?ts=98a80a61) - So offen hat selten ein U-Boot kommuniziert
+* [nextcloud server wurde in der Version 29.0.1 veröffentlicht.](https://github.com/nextcloud/server/releases/tag/v29.0.1)
+* [Nein? Doch! Oh? Nachdem viele Ländern Internetzensur per Gesetz ausgerollt haben nutzen sie diese Macht um das Internet im Land zu zensieren!](https://netzpolitik.org/2024/keepiton-bericht-immer-mehr-internetsperren-weltweit/)
+* [>>A fsync() can break the strict time order of ZFS changes that exists in the basic layer.<<](https://utcc.utoronto.ca/~cks/space/blog/solaris/ZFSTransactionalBehavior)
+* [Der Europäische Gerichtshof für Menschrenrechte hat die polnische Massenüberwachung der eigenen Bürger als illegal eingestuft.](https://netzpolitik.org/2024/anti-terror-gesetz-europaeischer-gerichtshof-fuer-menschenrechte-kippt-polnische-massenueberwachung/)
+* [Die Open Source Business Alliance hatte zur Europawahl die großen Parteien angeschrieben und gefragt wie diese freie Software zukünftig politisch stärken wollen. Das Ergebnis wurde veröffentlicht.](https://osb-alliance.de/uncategorized/wahlpruefsteine-europawahl-2024-antworten-der-parteien) - Wichtig für euch, damit ihr zur Europawahl 2024 auch diesen bereicht nach eurer Moralvorstellung einbeziehen könnt
