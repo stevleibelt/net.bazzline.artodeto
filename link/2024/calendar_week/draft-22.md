@@ -16,3 +16,12 @@
 * [>>A fsync() can break the strict time order of ZFS changes that exists in the basic layer.<<](https://utcc.utoronto.ca/~cks/space/blog/solaris/ZFSTransactionalBehavior)
 * [Der Europäische Gerichtshof für Menschrenrechte hat die polnische Massenüberwachung der eigenen Bürger als illegal eingestuft.](https://netzpolitik.org/2024/anti-terror-gesetz-europaeischer-gerichtshof-fuer-menschenrechte-kippt-polnische-massenueberwachung/)
 * [Die Open Source Business Alliance hatte zur Europawahl die großen Parteien angeschrieben und gefragt wie diese freie Software zukünftig politisch stärken wollen. Das Ergebnis wurde veröffentlicht.](https://osb-alliance.de/uncategorized/wahlpruefsteine-europawahl-2024-antworten-der-parteien) - Wichtig für euch, damit ihr zur Europawahl 2024 auch diesen bereicht nach eurer Moralvorstellung einbeziehen könnt
+* [Flintenuschis Wahlwerbung verstößt gegen die EU-Regeln](https://blog.fefe.de/?ts=98a942a5) - Dafür wandert sie leider nicht in den Knast, eine Regel ist kein Gesetz und wird daher als "freiwillige Selbstverpflichtung" ausgelegt
+* [FeFe hat einen tollen Link zum Thema "Falls ihr euch noch nicht sicher seid warum die Spiele-Grafikkarten so sau teuer sind"](https://blog.fefe.de/?ts=98a9b49c)
+* [Nein? Doch! Oh? OpenAI lügt uns ins Gesicht, das hätte niemand erwartet!](https://blog.fefe.de/?ts=98a693a7)
+* [Ach deswegen wird Cum-Ex so schlecht untersucht, natürlich hängt da die ganze Blockpartei inklusive Unions-Anteil mit drin](https://blog.fefe.de/?ts=98a6ff62)
+* [Völlig überraschend dämmert es den Menschen, dass sie überall belogen werden. Am Ende gibt es keinen wirtschaftlichen Abschwung sondern nur mehr Veruntreuung.](https://blog.fefe.de/?ts=98a94e22) - Statt Gewinne teilweise zu reinvestieren um die Firma weiter voran zu bringen, haben die Quartalsdenker vollkommen übernommen und ziehen jeden Euro Gewinn aus einer Firma raus
+* [caddy wurde in der Version 2.8.0 veröffentlicht.](https://github.com/caddyserver/caddy/releases/tag/v2.8.0)
+* [TrueNAS Scale wurde in der Version 24.04.1.1 veröffentlicht.](https://github.com/truenas/documentation/releases/tag/TS24.04.1.1)
+* [Rheinmetall wird demnächst Sponsor vom BVB](https://tuxproject.de/blog/2024/05/macht-und-rechthaberei/) - Alles für drei Jahre, auch so schießt man die Gesellschaft auf Krieg ein (Ha!, wie ich das wieder geschrieben habe - goldig)
+* [ddev erklärt euch xdebug](https://ddev.com/blog/xdebug-debugging/)
