@@ -25,3 +25,7 @@
 * [TrueNAS Scale wurde in der Version 24.04.1.1 veröffentlicht.](https://github.com/truenas/documentation/releases/tag/TS24.04.1.1)
 * [Rheinmetall wird demnächst Sponsor vom BVB](https://tuxproject.de/blog/2024/05/macht-und-rechthaberei/) - Alles für drei Jahre, auch so schießt man die Gesellschaft auf Krieg ein (Ha!, wie ich das wieder geschrieben habe - goldig)
 * [ddev erklärt euch xdebug](https://ddev.com/blog/xdebug-debugging/)
+* [redis exporter wurde in der Version 1.60.0 veröffentlicht.](https://github.com/oliver006/redis_exporter/releases/tag/v1.60.0)
+* [Ticketmaster hat 500 Millionen Nutzerdaten verloren](https://www.borncity.com/blog/2024/05/31/anbieter-ticketmaster-angeblich-gehackt-mehr-als-500-mio-nutzerdaten-entwendet/) - Wann kommen endlich die großen Strafen?
+* [>>In Freiberg ist ein Forschungszentrum für eine klimaneutrale Metallindustrie eröfffnet worden. Hochschulrektor Klaus-Dieter Barbknecht sprach sich für den Erhalt der Industrie in Deutschland aus. Diese solle aber klimafreundlicher werden.<<](https://www.mdr.de/nachrichten/sachsen/chemnitz/freiberg/freiberg-forschungszentrum-thermoprozesse-klimaneutral-100.html)
+* [Bei uberspace kannst du nun mehrere Zugänge (Asteroiden) über ein Benutzerkonto verwalten](https://blog.uberspace.de/2024/05/alle-unter-einem-dach/)
