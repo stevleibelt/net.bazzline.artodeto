@@ -1,0 +1,3 @@
+* [>>Wie in anderen Lebensbereichen gelten auch beim Schutz gegen Elementargefahren die Grundsätze der Eigenverantwortung und Eigenvorsorge", erklärte ein Sprecher des Finanzministeriums.<<](https://www.sueddeutsche.de/bayern/bayern-naturkatastrophen-hilfszahlungen-1.4499947) - Das müssen diese christlich und sozialen Werte der CDU/CSU sein, von denen die in Bayern da gerade reden
+* [your the os wurde in der Version 1.8.0 veröffentlicht.](https://github.com/plbrault/youre-the-os/releases/tag/v1.8.0)
+* [Wii U time Sync wurde in der Version 3.0.0 veröffentlicht.](https://wiidatabase.de/wii-u-time-sync-v3-0-0/)
