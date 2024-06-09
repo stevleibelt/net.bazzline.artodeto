@@ -43,3 +43,8 @@
 * [>>Microsoft Recall speichert alle Daten frei zugänglich, kopierbar und entwendbar<<](https://www.3dcenter.org/news/microsoft-recall-speichert-alle-daten-frei-zugaenglich-kopierbar-und-entwendbar)
 * [>>Mit Hilfe von mathematischen Modellierungen werden voraussichtlich noch in diesem Jahr die Gründe für eine Grippe-Impfempfehlung für alle Kinder gefunden.<<](https://impfentscheidung.online/berechnet-mathematisch-und-politisch-indirekte-effekte-der-grippe-impfungen-fuer-alle-kinder/)
 * [Ohjeh, ein US-Amerikanischer Megakonzern wie Google baut eventuell die EUDI-Wallet (die Technik um allen EU-Bürgern digitales Geld anzudrehen)](https://netzpolitik.org/2024/digitale-brieftasche-google-darf-sich-beim-wallet-wettbewerb-draufsetzen/) - Wie kann man das überhaupt zulassen? Das ist kritische Infrastruktur und gehört in fester EU-Hand
+* [BundID wird einfach furchtbar sein, aktuelle Probleme >>Wenn Du irgendeine Ziel-URL mitschickst und niemand prüft, ob die valide ist.<<](https://www.borncity.com/blog/2024/06/09/bundid-und-cyberbetrug-die-heizlfrderung-kleine-lilith-wittman-story/#comment-184459)
+* [rethink-app wurde in der Version 0.5.5n veröffentlicht.](https://github.com/celzero/rethink-app/releases/tag/v0.5.5n)
+* [mold wurde in der Version 2.32.0 veröffentlicht.](https://github.com/rui314/mold/releases/tag/v2.32.0)
+* [libsignal wurde in der Version 0.50.0 veröffentlicht.](https://github.com/signalapp/libsignal/releases/tag/v0.50.0)
+* [ollama wurde in der Version 0.1.42 veröffentlicht.](https://github.com/ollama/ollama/releases/tag/v0.1.42)
