@@ -6,3 +6,11 @@
 * [Lalalalala, Mittweida :-D](https://www.youtube.com/watch?v=W92GRRXOgRM)
 * [Realitätsabgleich beBPo](https://blog.fefe.de/?ts=98983dab)
 * [JetBrains-Produkte bitte einmal aktualisieren](https://www.bleepingcomputer.com/news/security/jetbrains-warns-of-intellij-ide-bug-exposing-github-access-tokens/)
+* [Es gibt ein wasserwiki.eu, damit könnt ihr vor Ort nach Wasserquellen ausschau halten.](https://wasserwiki.eu/Quellenkarte/#50.84223,13.32918,17z)
+* [Selbst der Bundesverband der Deutschen Industrie möchte jetzt KiTas bauen.](https://blog.fefe.de/?ts=98978958) - Leider ist es wie bei den Wahlprogrammen aller Parteien, wo das Geld herkommen soll, wird nicht erzählt. Man könnte ja Konzerne mehr zur Kasse bitten ... ich mein ja nur. Das alles pervertiert die "schwarze Null" natürlich. Kürzungen im sozlaien Bereich werden immer mit der schwarzen Null begründet und Steuerhinterziehung sowie Subventionen werden über "Sondervermögen" bereitgestellt.
+* [Ohha, Zensur wird in Österreich über das Thema "Shitstorm" eingeführt](https://blog.fefe.de/?ts=9897f615) - Klar kannst du etwas im Internet schreiben, du musst nur eine harte Klagewelle aushalten können - easy peasy lemon squeezy
+* [Hier kriegt ihr mal einen guten Daumenwert was Prometheus so pro Tag an Daten erzeugen kann](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/PrometheusOurSize-2024)
+* [systemd wurde in der Version 256 veröffentlicht.](https://www.phoronix.com/news/systemd-256)
+* [Hier gibt es den Quelltext wie ihr einen "YouTube-Clone" mit Hilfe von Javascript baut](https://github.com/keertipurswani/HHLD-YouTube)
+* [Sachsen und Bremen haben PerIS (Personen-Identifikations-System) entwickelt](https://netzpolitik.org/2024/observationstechnik-aus-sachsen-heimliche-gesichtserkennung-auch-in-niedersachsen/) - Diese Personenüberwachung wird wohl in allen deutschen Ländern eingesetzt
+* [Kuketz zeigt euch, wir ihr euren Firefox datenschutzfreundlich einstellen könnt.](https://www.kuketz-blog.de/sichere-und-datenschutzfreundliche-desktop-browser-teil-2/)
