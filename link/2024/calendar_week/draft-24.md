@@ -14,3 +14,13 @@
 * [Hier gibt es den Quelltext wie ihr einen "YouTube-Clone" mit Hilfe von Javascript baut](https://github.com/keertipurswani/HHLD-YouTube)
 * [Sachsen und Bremen haben PerIS (Personen-Identifikations-System) entwickelt](https://netzpolitik.org/2024/observationstechnik-aus-sachsen-heimliche-gesichtserkennung-auch-in-niedersachsen/) - Diese Personenüberwachung wird wohl in allen deutschen Ländern eingesetzt
 * [Kuketz zeigt euch, wir ihr euren Firefox datenschutzfreundlich einstellen könnt.](https://www.kuketz-blog.de/sichere-und-datenschutzfreundliche-desktop-browser-teil-2/)
+* [Statt die Callcenter komplett zu ersetzen, modeliert eine KI jetzt die Gesprächsteilnehmer und lässt die Personen an beiden Enden entspannt klingen.](https://blog.fefe.de/?ts=98972919) - Damit funktioniert der Trick des Fluchens nicht mehr um schnell an einen Vorgesetzten zu kommen :-(
+* [Solarwinds ist weiter kaputt](https://blog.fefe.de/?ts=9897a92b)
+* [Fortinet ist weiter kaputt](https://blog.fefe.de/?ts=98979b89)
+* Kleine Randbemerkung, sind Solarwinds, Fortinet und Cisco eigentlich eine Firma oder haben sie den gleichen IT-Sicherheits- und Produktqualitätsberater? Womöglich gar den von Boing?
+* [Google wie es leibt und lebt, "Privacy-Funktion" bedeutet "Nur google liest alles mit"](https://noyb.eu/de/google-sandbox-online-tracking-instead-privacy)
+* [>>Vielleicht ist nicht der Datenschutz ein Digitalisierungshemmnis, sondern schlecht informierte Digitalisierungsentscheider?<<](https://www.kuketz-blog.de/kommentar-deutschlands-problem-mit-schlecht-informierten-entscheidern/) - Ich gehe noch weiter und sage "Warum entdecken die Digitalisierungsentscheider nicht den Datenschutz als Verkaufsargument/Gütesiegel?". Ach, dafür müsste man selbst etwas erschaffen statt zu kopieren ... ok, das erzeugt leider Personalkosten, verstehe!
+* [Percona toolkit wurde in der Version 3.6.0 veröffentlicht.](https://www.percona.com/blog/whats-new-in-percona-toolkit-3-6-0/)
+* [netzpolitik.org fragt mit gutem Recht, was passiert mit den Daten nach einer Hausdurchsuchung?](https://netzpolitik.org/2024/nach-der-razzia-die-daten-von-radio-dreyeckland/)
+* [An alle WiiLink-nutzer ihr müsst bitte den DNS auf `167.235.229.36` ändern.](https://wiidatabase.de/achtung-wiilink-nutzer-muessen-dns-server-aendern/)
+* [Kuketz zeigt euch wo ihr dnsforge.de eintragen müsst, um frei von Werbung innerhalb des ganzen Android-Systems zu sein.](https://www.kuketz-blog.de/android-werbung-tracker-schnell-und-einfach-systemweit-loswerden/)
