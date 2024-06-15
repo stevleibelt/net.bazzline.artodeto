@@ -32,3 +32,9 @@
 * [Rust wurde in der VErsion 1.79.0 veröffentlicht.](https://blog.rust-lang.org/2024/06/13/Rust-1.79.0.html)
 * [Too big to fail in Reinkultur. >>Wir erkennen an, dass wir es besser machen können und müssen, und wir entschuldigen uns bei denjenigen, die davon betroffen waren, und drücken unser tiefstes Bedauern aus<<](https://www.golem.de/news/nach-chinesischem-cyberangriff-microsoft-muss-sich-wegen-sicherheitsversagen-verantworten-2406-186070.html) - Zerschlagen und Schadensersatz fordern, mehr fällt mir nicht ein
 * [Realitätsabgleich "Die Nachkriegsgeneration und der unverschämte Kapitalismus haben die Erde kaputt gemacht"](https://blog.koehntopp.info/2024/06/10/die-welt-deiner-kindheit-existiert-nicht-mehr.html)
+* [rqlite wurde in der Version 8.26.0 veröffentlicht.](https://github.com/rqlite/rqlite/releases/tag/v8.26.0)
+* [znapzend wurde in der Version 0.23.0 veröffentlicht.](https://github.com/oetiker/znapzend/releases/tag/v0.23.0)
+* [Onlinezugangsgesetz? Dank dem Freistaat Bayern wurde aus dem Gesetz jetzt eher so eine "naja, könnt ihr machen, wenn ihr Bock drauf habt"-Empfehlung.](https://netzpolitik.org/2024/onlinezugangsgesetz-2-0-verwaltungsdigitalisierung-mit-ausstiegsklausel/)
+* [Das größte Volksfest Mittelsachsens geht in seine 37-sigste Runde. Das Freiberger Bergstadtfest wurde eröffnet.](https://www.youtube.com/watch?v=laaPy7Y3dzw)
+* [Hier wird euch gezeigt, wie ihr eure große FastAPI main.py aufräumen könnt.](https://improveandrepeat.com/2024/06/python-friday-231-split-a-fastapi-application-into-manageable-parts/)
+* [Glück Auf TV: >>Statement von Landrat Dirk Neubauer zu den Wahlen<<](https://www.youtube.com/watch?v=zxgNYqiDSro) - Zwanzig Minuten die sich lohnen.
