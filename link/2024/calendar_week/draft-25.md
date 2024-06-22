@@ -38,3 +38,4 @@
 * [>>Zum wiederholten Male hat der Buchladen an der Freiberger Burgstraße den Buchhandlungspreis in der Kategorie "Hervorragende Buchhandlungen" erhalten.<<](https://www.mdr.de/video/mdr-videos/c/video-834708.html)
 * [Die TU Bergakademie Freiberg lädt am 29.06.2024 zum Sommerball der Gesellschafstanzkure ein](https://www.tubaf.plus/post/sommerball-der-gesellschaftstanzkurse)
 * [Hier wird euch gezeigt, wie ihr eurem Thunderbird beibringt, dass er euren Wunschbrowser zum Öffnen von Links nutzt.](https://utcc.utoronto.ca/~cks/space/blog/linux/ThunderbirdBrowserWhereFrom)
+* [Nein? Doch! Oh? KI-Kram kostet monatlich richtig Geld, da so viel Strom und Hardware verbraucht wird](https://blog.fefe.de/?ts=988b7303)
