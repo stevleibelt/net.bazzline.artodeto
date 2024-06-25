@@ -3,3 +3,9 @@
 * [Alles ist der Russe, immer!](https://blog.fefe.de/?ts=988647d0)
 * [>>Schaut nur, was sie gerade herausgefunden haben! Mehrere KI-Startups scheißen auf robots.txt und downloaden einfach alles, was sie im Web finden können!!<<](https://blog.fefe.de/?ts=9886d805) - Das muss diese ethische KI sein, von der die Firmen immer alle reden!
 * [UBER ist so innovativ, die haben die Taxizone neu erfunden!](https://blog.fefe.de/?ts=9886d091)
+* [Juniper ist kaputt](https://blog.fefe.de/?ts=9887fbc1)
+* [Die Chatkontrolle wurde abgesagt, aber die SPD fällt trotzdem um](https://blog.fefe.de/?ts=988788bd)
+* [>>Die Ukraine hat den fruchtbarsten Boden weit und breit und kann ohne Einsatz von Düngern Nahrung produzieren.<<](https://blog.fefe.de/?ts=98846fd0)
+* [nextcloud server wurde in der Version 29.0.3 veröffentlicht.](https://github.com/nextcloud/server/releases/tag/v29.0.3)
+* [ratatui wurde in der Version 0.27.0 veröffentlicht.](https://github.com/ratatui-org/ratatui/releases/tag/v0.27.0)
+* [archlinux archzfs wurde in der Version 20240622 veröffentlicht.](https://github.com/stevleibelt/arch-linux-live-cd-iso-with-zfs/releases/tag/20240622)
