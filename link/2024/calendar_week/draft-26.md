@@ -46,3 +46,4 @@
 * [Kein Backup, kein Mitleid ... bei den Bürgern von Indonesien tut es mir jetzt doch leid.](https://blog.fefe.de/?ts=987ed404)
 * [>>Freispruch für alle! Na sowas! Geldwaschen und Steuerhinterziehung sind verboten und werden verfolgt, außer du tust es für Staatsoberhäupter und Fußballstars.<<](https://blog.fefe.de/?ts=98813f6d)
 * [LocalAI wurde in der Version 2.18.0 veröffentlicht.](https://github.com/mudler/LocalAI/releases/tag/v2.18.0)
+* [Dank Netzpolitik.org bin ich auf Guy Debord gestoßen.](https://netzpolitik.org/2024/soziale-medien-die-renaissance-des-handwerks/)
