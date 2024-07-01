@@ -59,3 +59,13 @@
 * [Python Polars wurde in der Version 1.0.0 veröffentlicht.](https://github.com/pola-rs/polars/releases/tag/py-1.0.0)
 * [>>Kulturell war zu erwarten, dass die Chinesen am Ende als die fairsten und ehrlichsten Marktteilnehmer übrig bleiben. Westliche Organisationen haben Amerikaner und Ökonomen reingelassen und sind jetzt alle vergiftet.<<](https://blog.fefe.de/?ts=987c6f67)
 * [OpenSSH war kaputt.](https://blog.fefe.de/?ts=987c668f)
+* [Die Navy SEALs bringen sich leider zunehmend selbst um, weil deren Ausbildung deren Gehirne kaputt macht.](https://blog.fefe.de/?ts=987c1730)
+* [In den USA genießt man als Präsident Immunität, da darf man auch gern mal einen Putsch machen und wird deswegen nicht bestraft](https://blog.fefe.de/?ts=987c05ee) - Was bedeutet das? Stehle wie eine Sau, solange du Präsident bist
+* [PHP Rector wurde in der Version 1.2.0 veröffentlicht.](https://github.com/rectorphp/rector/releases/tag/1.2.0)
+* [Nein? Doch! Oh? Das die BundID zwangsweise erstellt werden musste um die 200 Euro Energiepauschale zu erhalten, war illegal](https://www.borncity.com/blog/2024/07/01/zwang-zur-bundid-bei-einmalzahlung200-war-unzulssig/)
+* [>>Das Aufspüren von Schwachstellen durch sogenannte "Whitehat Hacker" ist in Deutschland strafbewehrt und bringt Leute, die Sicherheitslücken melden, immer wieder mit dem Gesetz in Konflikt.<<](https://www.borncity.com/blog/2024/06/30/bundestags-ausarbeitung-zu-whitehat-hacking-rechtslage-in-europa/) - Nur falls sich jemand fragt, warum wir in Deutschland so wenig offizielle Hacker haben
+* [>>Um Kinder vor sexualisierter Gewalt zu schützen, braucht es nicht mehr Überwachung und Grundrechtseingriffe, sondern andere Maßnahmen.<<](https://netzpolitik.org/2024/chatkontrolle-kinderschutzbund-fordert-wirksame-massnahmen-statt-massenueberwachung/)
+* [>>Priwatt als deutsche Firma verkauft da also IoT-Zeugs aus China. Und sowas hat nicht umsonst den Spitznamen Internet of Shit.<<](https://www.onli-blogging.de/2383/Die-Solarzelle-auf-der-Terrasse.html) - Ich empfinde die Angebote von Priwatt auch durchgehend schlecht wie EnPal
+* [Wem wunderst, Cisco ist kaputt](https://www.bleepingcomputer.com/news/security/cisco-warns-of-nx-os-zero-day-exploited-to-deploy-custom-malware/)
+* [Intel ist kaputt](https://www.bleepingcomputer.com/news/security/latest-intel-cpus-impacted-by-new-indirector-side-channel-attack/)
+* [archlinux-archzfs-linux-dkms wurde in der Version 20240701 veröffentlicht.](https://github.com/stevleibelt/arch-linux-live-cd-iso-with-zfs/releases/tag/20240701)
