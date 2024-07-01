@@ -47,3 +47,15 @@
 * [>>Freispruch für alle! Na sowas! Geldwaschen und Steuerhinterziehung sind verboten und werden verfolgt, außer du tust es für Staatsoberhäupter und Fußballstars.<<](https://blog.fefe.de/?ts=98813f6d)
 * [LocalAI wurde in der Version 2.18.0 veröffentlicht.](https://github.com/mudler/LocalAI/releases/tag/v2.18.0)
 * [Dank Netzpolitik.org bin ich auf Guy Debord gestoßen.](https://netzpolitik.org/2024/soziale-medien-die-renaissance-des-handwerks/)
+* [Auch netzpolitik.org erklärt euch die Wahrheit über Delos-Cloud](https://netzpolitik.org/2024/delos-cloud-mit-microsoft-in-die-digitale-abhaengigkeit/) - Am Ende schenken die deutschen Politiker den US-Amerikaner damit all unsere Staatsdaten und geben Microsoft einen Blankoscheck für die "zufällig" exorbitant und spontan ansteigenden Kosten von Delos
+* [>>Sign the form, he believed, and he'd risk the lives of the seven astronauts set to board the spacecraft the next morning. Refuse to sign, and he'd risk his job, his career and the good life he'd built for his wife and four children.<<](https://www.npr.org/2021/03/07/974534021/remembering-allan-mcdonald-he-refused-to-approve-challenger-launch-exposed-cover) - Das gleiche Problem wie in der Softwareentwicklung, Sicherheitsdenken wird nicht belobt sondern man steht immer mit einem Bein in der Arbeitslosigkeit
+* [Hier listet jemand all die Vorteile von Blogs auf](https://danilafe.com/blog/blog_microfeatures/)
+* [Es wird zurückgecybert!](https://blog.fefe.de/?ts=987fb3fc) - 257 Millionen USD beschlagnahmt. Wie viel der Aufbau des Überwachungsstaates bisher wohl mehr gekostet hat?
+* [Goldman Sachs sieht hinter AI kein Return of Investment](https://blog.fefe.de/?ts=987faf79) - Jetzt bekomme ich noch mehr Angst vor AI
+* [Nein? Doch! Oh? Die Politiker, die am lautesten vor Schmarotzern warnen, sind die, die so gut wie nie in ihrem Leben richtig gearbeitet haben](https://blog.fefe.de/?ts=987f9d57) - So als kleiner Realitätsabgleich, wenn die CDU-Hetzpresse mal wieder über andere Politiker schimpft
+* [Nicht einmal Spionagesataliten kann Deutschland noch bauen](https://blog.fefe.de/?ts=987f897b)
+* [Endlich, die Wau-Holland-Stiftung hat ihre Gemeinnützigkeit endlich wieder erlangt](https://blog.fefe.de/?ts=987e6036) - Rückzahlung von zuständigen Finanzamt wegen der Fehlentscheidung? Geht leider nicht - bestimmt wegen der IBAN-Problematik
+* [OpenEMS wurde in der Version 2024.7.0 veröffentlicht.](https://github.com/OpenEMS/openems/releases/tag/2024.7.0)
+* [Python Polars wurde in der Version 1.0.0 veröffentlicht.](https://github.com/pola-rs/polars/releases/tag/py-1.0.0)
+* [>>Kulturell war zu erwarten, dass die Chinesen am Ende als die fairsten und ehrlichsten Marktteilnehmer übrig bleiben. Westliche Organisationen haben Amerikaner und Ökonomen reingelassen und sind jetzt alle vergiftet.<<](https://blog.fefe.de/?ts=987c6f67)
+* [OpenSSH war kaputt.](https://blog.fefe.de/?ts=987c668f)
