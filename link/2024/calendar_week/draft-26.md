@@ -69,3 +69,9 @@
 * [Wem wunderst, Cisco ist kaputt](https://www.bleepingcomputer.com/news/security/cisco-warns-of-nx-os-zero-day-exploited-to-deploy-custom-malware/)
 * [Intel ist kaputt](https://www.bleepingcomputer.com/news/security/latest-intel-cpus-impacted-by-new-indirector-side-channel-attack/)
 * [archlinux-archzfs-linux-dkms wurde in der Version 20240701 veröffentlicht.](https://github.com/stevleibelt/arch-linux-live-cd-iso-with-zfs/releases/tag/20240701)
+* [FeFe zeigt einmal auf wie viel Koks die Werbetreibende von Microsoft so verbrauchen](https://blog.fefe.de/?ts=987d8009)
+* [Hier könnt ihr Miss Kittin's erstes DJ-Set hören](https://www.rave-strikes-back.de/?p=12372)
+* [Macht mal ein `systemctl try-restart sshd`](https://archlinux.org/news/the-sshd-service-needs-to-be-restarted-after-upgrading-to-openssh-98p1/)
+* [>>Diese Praxis einiger Hersteller, die Reparatur und Wartung ihrer Produkte durch unabhängige Unternehmen zu erschweren oder gar zu verhindern, ist inakzeptabel.<<](https://www.patrick-breyer.de/stopkillingtrains-eu-abgeordneter-fordert-regeln-gegen-das-willkuerliche-lahmlegen-von-geraeten-durch-hersteller-aus-der-ferne/)
+* [Bosch will euch mit ihren E-Bikes "KI" und eine App auf das Auge drücken.](https://blog.fefe.de/?ts=987af34f) - Die App kostet dann 5 Euro pro Monat
+* [Hier wird einmal mehr FastAPI mit SQLAlchemy verbunden.](https://improveandrepeat.com/2024/06/python-friday-233-sqlalchemy-and-fastapi/) - Es sind die Feinheiten, die mir hier gefallen
