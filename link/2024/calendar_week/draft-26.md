@@ -75,3 +75,10 @@
 * [>>Diese Praxis einiger Hersteller, die Reparatur und Wartung ihrer Produkte durch unabhängige Unternehmen zu erschweren oder gar zu verhindern, ist inakzeptabel.<<](https://www.patrick-breyer.de/stopkillingtrains-eu-abgeordneter-fordert-regeln-gegen-das-willkuerliche-lahmlegen-von-geraeten-durch-hersteller-aus-der-ferne/)
 * [Bosch will euch mit ihren E-Bikes "KI" und eine App auf das Auge drücken.](https://blog.fefe.de/?ts=987af34f) - Die App kostet dann 5 Euro pro Monat
 * [Hier wird einmal mehr FastAPI mit SQLAlchemy verbunden.](https://improveandrepeat.com/2024/06/python-friday-233-sqlalchemy-and-fastapi/) - Es sind die Feinheiten, die mir hier gefallen
+* [Playwright wurde in der Version 1.45.0 veröffentlicht.](https://github.com/microsoft/playwright-python/releases/tag/v1.45.0)
+* [borg wurde in der Version 1.4.0 veröffentlicht.](https://github.com/borgbackup/borg/releases/tag/1.4.0)
+* [GlückAufTV: Haushaltsperre in Freiberg aufgehoben](https://www.youtube.com/watch?v=Cehz7NIeQQw)
+* [Xbox ist kaputt](https://www.bleepingcomputer.com/news/technology/xbox-is-down-worldwide-with-users-unable-to-login-play-games/) - Xbox wird von der Microsoft Cloud gehostet, den Profis der Profis der Profis!
+* [Prof. Ulrich Kelber muss gehen, weil er den Datenschutz zu sehr im Sinne der Bürger betrieben hat. Seine Abschiedsworte sind entsprechend ehrlich und zeigen das Problem der Blockpartei auf](https://www.bfdi.bund.de/DE/DerBfDI/Inhalte/Parlamentsbrief/Abschied-Kelber.html)
+* [Microsoft Teams ist kaputt](https://www.borncity.com/blog/2024/07/03/microsoft-teams-desktop-anwendung-startet-nicht-mehr-2-7-2024/) - Gleiches Problem wie bei Xbox wohl, die Besten der Besten Sir!
+* [Avast verkauft die Kundendaten und muss dafür nur 16,5 Millionen USD Strafe zahlen](https://blog.fefe.de/?ts=98784584)
