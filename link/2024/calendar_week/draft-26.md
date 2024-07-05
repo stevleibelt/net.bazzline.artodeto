@@ -82,3 +82,7 @@
 * [Prof. Ulrich Kelber muss gehen, weil er den Datenschutz zu sehr im Sinne der Bürger betrieben hat. Seine Abschiedsworte sind entsprechend ehrlich und zeigen das Problem der Blockpartei auf](https://www.bfdi.bund.de/DE/DerBfDI/Inhalte/Parlamentsbrief/Abschied-Kelber.html)
 * [Microsoft Teams ist kaputt](https://www.borncity.com/blog/2024/07/03/microsoft-teams-desktop-anwendung-startet-nicht-mehr-2-7-2024/) - Gleiches Problem wie bei Xbox wohl, die Besten der Besten Sir!
 * [Avast verkauft die Kundendaten und muss dafür nur 16,5 Millionen USD Strafe zahlen](https://blog.fefe.de/?ts=98784584)
+* [Tenacity wurde in der Version 8.5.0 veröffentlicht.](https://github.com/jd/tenacity/releases/tag/8.5.0)
+* [Nein? Doch! Oh? MFA über Mobilfunknummer ist einfach nur ein weiteres Datenbeschaffungsprogramm](https://blog.fefe.de/?ts=98782801) - Deswegen kriegen Dienste auch nicht meine Mobilfunknummer, TOTP oder nichts. Zudem noch ein Satz von FeFe >>Weil es nicht um 2FA oder Security geht, sondern es geht darum, das Narrativ zu etablieren, dass der User hier das Sicherheitsproblem ist, nicht die Bank.<<
+* [Gitea wurde in der Version 1.22.1 veröffentlicht.](https://github.com/go-gitea/gitea/releases/tag/v1.22.1)
+* [VonDerÄhmLayen könnte eine US-Amerikanischen Konzern verklagen, oder aber die Leute, die den Rotz nutzen weil es ihnen die EU geraten hat.](https://www.borncity.com/blog/2024/07/04/eu-kommission-verklagt-datenschtzer-und-cybersicherheit-in-der-nrw-justiz-noch-ein-desaster/)
