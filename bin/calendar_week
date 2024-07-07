@@ -27,23 +27,24 @@ function _main ()
 {
     #begin of dependencies
     local ABSOLUTE_PATH_OF_THIS_SCRIPT
-    local GIT_RELEASE_TAG
     local CURRENT_WORKING_DIRECTORY
+    local CURRENT_CALENDAR_WEEK
     local CURRENT_YEAR
     local NEXT_CALENDAR_WEEK
     local NEXT_CALENDAR_WEEK_YEAR
-    local PATH_TO_THE_CURRENT_CALENDAR_WEEK
-    local PATH_TO_THE_CURRENT_CALENDAR_WEEK_YEAR
-    local PATH_TO_THE_NEXT_CALENDAR_WEEK_DRAFT
+    local FULL_FILE_PATH_OF_THE_DEBUG_LOG
+    local FULL_FILE_PATH_TO_THE_CURRENT_CALENDAR_WEEK
+    local FULL_FILE_PATH_TO_THE_CURRENT_CALENDAR_WEEK_YEAR
+    local RELATIVE_FILE_PATH_TO_THE_NEXT_CALENDAR_WEEK_DRAFT
 
-    ABSOLUTE_PATH_OF_THIS_SCRIPT=$(cd $(dirname "$0"); pwd)
+    ABSOLUTE_PATH_OF_THIS_SCRIPT=$(cd $(dirname "${0}"); pwd)
     CURRENT_WORKING_DIRECTORY=$(pwd)
 
     ABSOLUTE_PATH_OF_THE_ROOT="${ABSOLUTE_PATH_OF_THIS_SCRIPT}/.."
 
     cd "${ABSOLUTE_PATH_OF_THE_ROOT}"
 
-    FILE_PATH_OF_THE_DEBUG_LOG="${ABSOLUTE_PATH_OF_THE_ROOT}/debug.log"
+    FULL_FILE_PATH_OF_THE_DEBUG_LOG="${ABSOLUTE_PATH_OF_THE_ROOT}/debug.log"
     NEXT_CALENDAR_WEEK=$(date -d '+1 week' '+%-V')
     NEXT_CALENDAR_WEEK_YEAR=$(date -d '+1 week' '+%-Y')
 
@@ -57,55 +58,64 @@ function _main ()
       return 10
     fi
 
-    PATH_TO_THE_CURRENT_CALENDAR_WEEK=$(readlink -f current_calendar_week)
-    PATH_TO_THE_CURRENT_CALENDAR_WEEK_YEAR=$(readlink -f current_calendar_week_path)
+    FULL_FILE_PATH_TO_THE_CURRENT_CALENDAR_WEEK=$(readlink -f current_calendar_week)
+    FULL_FILE_PATH_TO_THE_CURRENT_CALENDAR_WEEK_YEAR=$(readlink -f current_calendar_week_path)
 
-    # Expected content of PATH_TO_THE_CURRENT_CALENDAR_WEEK is
+    # Expected content of FULL_FILE_PATH_TO_THE_CURRENT_CALENDAR_WEEK is
     #   /foo/bar/link/2024/calendar_week/draft-28.md
-    #   From the end, use an offset of minus 30
-    #   and than slice four characters
-    CURRENT_YEAR=${PATH_TO_THE_CURRENT_CALENDAR_WEEK: -30:4}
+    # To get the current calendar week
+    #   From the end, use an offset of minus five ('28.md')
+    #   and than slice two characters ('28')
+    CURRENT_CALENDAR_WEEK=${FULL_FILE_PATH_TO_THE_CURRENT_CALENDAR_WEEK: -5:2}
+    # To get the current year
+    #   From the end, use an offset of minus 30 ('2024/calendar_week/draft-28.md')
+    #   and than slice four characters ('2024')
+    CURRENT_YEAR=${FULL_FILE_PATH_TO_THE_CURRENT_CALENDAR_WEEK: -30:4}
 
-    NEXT_CALENDAR_WEEK=$( add_zero_if_number_is_less_then_ten ${NEXT_CALENDAR_WEEK})
+    NEXT_CALENDAR_WEEK=$( add_zero_if_number_is_less_then_ten "${NEXT_CALENDAR_WEEK}")
 
-    PATH_TO_THE_NEXT_CALENDAR_WEEK_DRAFT="link/${NEXT_CALENDAR_WEEK_YEAR}/calendar_week/draft-${NEXT_CALENDAR_WEEK}.md"
+    RELATIVE_FILE_PATH_TO_THE_NEXT_CALENDAR_WEEK_DRAFT="link/${NEXT_CALENDAR_WEEK_YEAR}/calendar_week/draft-${NEXT_CALENDAR_WEEK}.md"
 
-    echo ":: Start of run" > ${FILE_PATH_OF_THE_DEBUG_LOG}
-    echo "   Dumping properties." >> ${FILE_PATH_OF_THE_DEBUG_LOG}
-    echo "       ABSOLUTE_PATH_OF_THIS_SCRIPT: ${ABSOLUTE_PATH_OF_THIS_SCRIPT}" >> ${FILE_PATH_OF_THE_DEBUG_LOG}
-    echo "       GIT_RELEASE_TAG: ${GIT_RELEASE_TAG}" >> ${FILE_PATH_OF_THE_DEBUG_LOG}
-    echo "       CURRENT_WORKING_DIRECTORY: ${CURRENT_WORKING_DIRECTORY}" >> ${FILE_PATH_OF_THE_DEBUG_LOG}
-    echo "       CURRENT_YEAR: ${CURRENT_YEAR}" >> ${FILE_PATH_OF_THE_DEBUG_LOG}
-    echo "       NEXT_CALENDAR_WEEK: ${NEXT_CALENDAR_WEEK}" >> ${FILE_PATH_OF_THE_DEBUG_LOG}
-    echo "       NEXT_CALENDAR_WEEK_YEAR: ${NEXT_CALENDAR_WEEK_YEAR}" >> ${FILE_PATH_OF_THE_DEBUG_LOG}
-    echo "       PATH_TO_THE_CURRENT_CALENDAR_WEEK: ${PATH_TO_THE_CURRENT_CALENDAR_WEEK}" >> ${FILE_PATH_OF_THE_DEBUG_LOG}
-    echo "       PATH_TO_THE_CURRENT_CALENDAR_WEEK_YEAR: ${PATH_TO_THE_CURRENT_CALENDAR_WEEK_YEAR}" >> ${FILE_PATH_OF_THE_DEBUG_LOG}
-    echo "       PATH_TO_THE_NEXT_CALENDAR_WEEK_DRAFT: ${PATH_TO_THE_NEXT_CALENDAR_WEEK_DRAFT}" >> ${FILE_PATH_OF_THE_DEBUG_LOG}
+    cat > "${FULL_FILE_PATH_OF_THE_DEBUG_LOG}" <DELIM
+:: Start of run
+   Dumping properties:
+       ABSOLUTE_PATH_OF_THIS_SCRIPT: "${ABSOLUTE_PATH_OF_THIS_SCRIPT}"
+       CURRENT_CALENDAR_WEEK: "${CURRENT_CALENDAR_WEEK}"
+       CURRENT_WORKING_DIRECTORY: "${CURRENT_WORKING_DIRECTORY}"
+       CURRENT_YEAR: "${CURRENT_YEAR}"
+       NEXT_CALENDAR_WEEK: "${NEXT_CALENDAR_WEEK}"
+       NEXT_CALENDAR_WEEK_YEAR: "${NEXT_CALENDAR_WEEK_YEAR}"
+       FULL_FILE_PATH_OF_THE_DEBUG_LOG: "${FULL_FILE_PATH_OF_THE_DEBUG_LOG}"
+       FULL_FILE_PATH_TO_THE_CURRENT_CALENDAR_WEEK: "${FULL_FILE_PATH_TO_THE_CURRENT_CALENDAR_WEEK}"
+       FULL_FILE_PATH_TO_THE_CURRENT_CALENDAR_WEEK_YEAR: "${FULL_FILE_PATH_TO_THE_CURRENT_CALENDAR_WEEK_YEAR}"
+       RELATIVE_FILE_PATH_TO_THE_NEXT_CALENDAR_WEEK_DRAFT: "${RELATIVE_FILE_PATH_TO_THE_NEXT_CALENDAR_WEEK_DRAFT}"
+DELIM
 
-
-    if [[ ${CURRENT_YEAR} != ${NEXT_CALENDAR_WEEK_YEAR} ]];
+    if [[ "${CURRENT_YEAR}" != "${NEXT_CALENDAR_WEEK_YEAR}" ]];
     then
-      echo "   Detected change of year" >> ${FILE_PATH_OF_THE_DEBUG_LOG}
-      echo "   Updating current_calendar_week_path" >> ${FILE_PATH_OF_THE_DEBUG_LOG}
+      echo "   Detected change of year" >> "${FULL_FILE_PATH_OF_THE_DEBUG_LOG}"
+      echo "   Updating current_calendar_week_path" >> "${FULL_FILE_PATH_OF_THE_DEBUG_LOG}"
       /usr/bin/rm current_calendar_week_path
-      /usr/bin/mkdir + "link/${NEXT_CALENDAR_WEEK_YEAR}/calendar_week"
+      /usr/bin/mkdir +p "link/${NEXT_CALENDAR_WEEK_YEAR}/calendar_week"
       ln -s "link/${NEXT_CALENDAR_WEEK_YEAR}/calendar_week" current_calendar_week_path
     fi
 
-    echo "   Removing >>draft-<< from current draft" >> ${FILE_PATH_OF_THE_DEBUG_LOG}
-    git mv "${PATH_TO_THE_CURRENT_CALENDAR_WEEK}" "${PATH_TO_THE_CURRENT_CALENDAR_WEEK/draft-/}"
-    echo "   Creating new draft" >> ${FILE_PATH_OF_THE_DEBUG_LOG}
-    touch "${PATH_TO_THE_NEXT_CALENDAR_WEEK_DRAFT}"
-    echo "   Updating softlink current_calendar_week" >> ${FILE_PATH_OF_THE_DEBUG_LOG}
+    echo "   Removing >>draft-<< from current draft" >> "${FULL_FILE_PATH_OF_THE_DEBUG_LOG}"
+    git mv "${FULL_FILE_PATH_TO_THE_CURRENT_CALENDAR_WEEK}" "${FULL_FILE_PATH_TO_THE_CURRENT_CALENDAR_WEEK/draft-/}"
+    echo "   Creating new draft" >> "${FULL_FILE_PATH_OF_THE_DEBUG_LOG}"
+    touch "${RELATIVE_FILE_PATH_TO_THE_NEXT_CALENDAR_WEEK_DRAFT}"
+    echo "   Updating softlink current_calendar_week" >> "${FULL_FILE_PATH_OF_THE_DEBUG_LOG}"
     rm current_calendar_week
-    ln -s "${PATH_TO_THE_NEXT_CALENDAR_WEEK_DRAFT}" current_calendar_week
+    ln -s "${RELATIVE_FILE_PATH_TO_THE_NEXT_CALENDAR_WEEK_DRAFT}" current_calendar_week
 
-    echo "   Starting >>git gc --aggressive<<" >> ${FILE_PATH_OF_THE_DEBUG_LOG}
-    $(git gc --aggressive)
+    echo "   Starting >>git gc --aggressive<<" >> "${FULL_FILE_PATH_OF_THE_DEBUG_LOG}"
+    git gc --aggressive
 
-    echo ":: Finished of run" >> ${FILE_PATH_OF_THE_DEBUG_LOG}
-
-    echo "   Next git tag should be >>${GIT_RELEASE_TAG}<<"
+    # In testing right now
+    echo "git add ."
+    echo "git commit -m \"Released cw ${CURRENT_CALENDAR_WEEK} of ${CURRENT_YEAR}\""
+    echo "git tag -a ${CURRENT_YEAR}${CURRENT_CALENDAR_WEEK} -m \"Released cw ${CURRENT_CALENDAR_WEEK} of ${CURRENT_YEAR}\""
+    echo ":: Finished of run" >> "${FULL_FILE_PATH_OF_THE_DEBUG_LOG}"
     cd -
     #end of business logic
 }
