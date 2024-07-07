@@ -25,7 +25,6 @@ function add_zero_if_number_is_less_then_ten
 
 function _main ()
 {
-    #begin of dependencies
     local ABSOLUTE_PATH_OF_THIS_SCRIPT
     local CURRENT_WORKING_DIRECTORY
     local CURRENT_CALENDAR_WEEK
@@ -115,9 +114,8 @@ DELIM
     echo "git add ."
     echo "git commit -m \"Released cw ${CURRENT_CALENDAR_WEEK} of ${CURRENT_YEAR}\""
     echo "git tag -a ${CURRENT_YEAR}${CURRENT_CALENDAR_WEEK} -m \"Released cw ${CURRENT_CALENDAR_WEEK} of ${CURRENT_YEAR}\""
-    echo ":: Finished of run" >> "${FULL_FILE_PATH_OF_THE_DEBUG_LOG}"
+    echo ":: Finished run" >> "${FULL_FILE_PATH_OF_THE_DEBUG_LOG}"
     cd -
-    #end of business logic
 }
 
 _main
