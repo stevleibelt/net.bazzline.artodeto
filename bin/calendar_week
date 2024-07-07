@@ -23,210 +23,91 @@ function add_zero_if_number_is_less_then_ten
     fi
 }
 
-####
-# @param <string: FILE_NAME_OF_THE_NEXT_CALENDAR_WEEK>
-####
-function create_next_calendar_week
-{
-    local FILE_NAME_OF_THE_NEXT_CALENDAR_WEEK
-
-    if [[ $# -ne 1 ]];
-    then
-        echo ":: Invalid number of arguments provided."
-        echo "   ${FUNCNAME[0]}: <string: file name of the next calendar week>"
-
-        return 1
-    fi
-
-    FILE_NAME_OF_THE_NEXT_CALENDAR_WEEK="${1}"
-
-    echo ":: Create next calendar week."
-
-    if [[ ! -f "${FILE_NAME_OF_THE_NEXT_CALENDAR_WEEK}" ]];
-    then
-        touch "${FILE_NAME_OF_THE_NEXT_CALENDAR_WEEK}"
-    fi
-
-    echo "   done."
-}
-
-####
-# @param <string: ABSOLUTE_PATH_TO_THE_CURRENT_CALENDAR_WEEK_YEAR>
-# @param <string: FILE_NAME_OF_THE_CURRENT_CALENDAR_WEEK_DRAFT>
-# @param <string: FILE_NAME_OF_THE_CURRENT_CALENDAR_WEEK>
-####
-function release_current_calendar_week
-{
-    local ABSOLUTE_PATH_TO_THE_CURRENT_CALENDAR_WEEK_YEAR
-    local FILE_NAME_OF_THE_CURRENT_CALENDAR_WEEK_DRAFT
-    local FILE_NAME_OF_THE_CURRENT_CALENDAR_WEEK
-
-    if [[ $# -ne 3 ]];
-    then
-        echo ":: Invalid number of arguments provided."
-        echo "   ${FUNCNAME[0]}: <string: absolute path to the current calendar week year> <string: file name of the current calendar week draft> <string: file name of the current calendar week>"
-
-        return 1
-    fi
-
-    ABSOLUTE_PATH_TO_THE_CURRENT_CALENDAR_WEEK_YEAR="${1}"
-    FILE_NAME_OF_THE_CURRENT_CALENDAR_WEEK_DRAFT="${2}"
-    FILE_NAME_OF_THE_CURRENT_CALENDAR_WEEK="${3}"
-
-    echo ":: Release current calendar week."
-
-    echo "   absolute path to the current calendar week year >>${ABSOLUTE_PATH_TO_THE_CURRENT_CALENDAR_WEEK_YEAR}<<" >> ${FILE_PATH_OF_THE_DEBUG_LOG}
-
-    if [[ ! -d "${ABSOLUTE_PATH_TO_THE_CURRENT_CALENDAR_WEEK_YEAR}" ]];
-    then
-        /usr/bin/env mkdir -p "${ABSOLUTE_PATH_TO_THE_CURRENT_CALENDAR_WEEK_YEAR}"
-    fi
-
-    cd "${ABSOLUTE_PATH_TO_THE_CURRENT_CALENDAR_WEEK_YEAR}"
-
-    if [[ -f "${FILE_NAME_OF_THE_CURRENT_CALENDAR_WEEK_DRAFT}" ]];
-    then
-        echo "   filename of the current calendar week draft >>${FILE_NAME_OF_THE_CURRENT_CALENDAR_WEEK_DRAFT}<<" >> ${FILE_PATH_OF_THE_DEBUG_LOG}
-        echo "   filename of the current calendar week>>${FILE_NAME_OF_THE_CURRENT_CALENDAR_WEEK}<<" >> ${FILE_PATH_OF_THE_DEBUG_LOG}
-        git mv "${FILE_NAME_OF_THE_CURRENT_CALENDAR_WEEK_DRAFT}" "${FILE_NAME_OF_THE_CURRENT_CALENDAR_WEEK}"
-    fi
-
-    cd -
-    echo "   done."
-}
-
-####
-# @param <string: FILE_NAME_OF_THE_CURRENT_SOFT_LINK>
-# @param <string: RELATIVE_PATH_TO_THE_NEXT_CALENDAR_WEEK>
-####
-function updating_soft_link
-{
-    local FILE_NAME_OF_THE_CURRENT_SOFT_LINK
-    local RELATIVE_PATH_TO_THE_NEXT_CALENDAR_WEEK
-
-    if [[ $# -ne 2 ]];
-    then
-        echo ":: Invalid number of arguments provided."
-        echo "   ${FUNCNAME[0]}: <string: file name of the current soft link> <string: relative file path to the next calendar week>"
-
-        return 1
-    fi
-
-    FILE_NAME_OF_THE_CURRENT_SOFT_LINK="${1}"
-    RELATIVE_PATH_TO_THE_NEXT_CALENDAR_WEEK="${2}"
-
-    echo ":: Updating soft link."
-
-    echo "   file name of the current soft link>>${FILE_NAME_OF_THE_CURRENT_SOFT_LINK}<<" >> ${FILE_PATH_OF_THE_DEBUG_LOG}
-
-    if [[ -h "${FILE_NAME_OF_THE_CURRENT_SOFT_LINK}" ]];
-    then
-        echo "   removing >>${FILE_NAME_OF_THE_CURRENT_SOFT_LINK}<<" >> ${FILE_PATH_OF_THE_DEBUG_LOG}
-        rm "${FILE_NAME_OF_THE_CURRENT_SOFT_LINK}"
-    else
-        echo "   file >>${FILE_NAME_OF_THE_CURRENT_SOFT_LINK}<< does not exist" >> ${FILE_PATH_OF_THE_DEBUG_LOG}
-    fi
-
-    echo "   creating softlink >>${FILE_NAME_OF_THE_CURRENT_SOFT_LINK}<< for >>${RELATIVE_PATH_TO_THE_NEXT_CALENDAR_WEEK}<<" >> ${FILE_PATH_OF_THE_DEBUG_LOG}
-    ln -s "${RELATIVE_PATH_TO_THE_NEXT_CALENDAR_WEEK}" "${FILE_NAME_OF_THE_CURRENT_SOFT_LINK}"
-
-    echo "   done."
-}
-
-####
-# [@param <string: next_calendar_week>] - default is next based on current calender week
-####
 function _main ()
 {
     #begin of dependencies
     local ABSOLUTE_PATH_OF_THIS_SCRIPT
     local GIT_RELEASE_TAG
-    local CURRENT_CALENDAR_WEEK
     local CURRENT_WORKING_DIRECTORY
     local CURRENT_YEAR
-    local FILE_NAME_OF_THE_CURRENT_SOFT_LINK
     local NEXT_CALENDAR_WEEK
+    local NEXT_CALENDAR_WEEK_YEAR
+    local PATH_TO_THE_CURRENT_CALENDAR_WEEK
+    local PATH_TO_THE_CURRENT_CALENDAR_WEEK_YEAR
+    local PATH_TO_THE_NEXT_CALENDAR_WEEK_DRAFT
 
     ABSOLUTE_PATH_OF_THIS_SCRIPT=$(cd $(dirname "$0"); pwd)
-    CURRENT_CALENDAR_WEEK=$(date +%V)
     CURRENT_WORKING_DIRECTORY=$(pwd)
-    CURRENT_YEAR=$(date +%Y)
-    FILE_NAME_OF_THE_CURRENT_SOFT_LINK="current_calendar_week"
-    NEXT_CALENDAR_WEEK="${1:-0}"
-
-    #calculate next calendar week of non is provided
-    if [[ ${NEXT_CALENDAR_WEEK} -eq 0 ]];
-    then
-      #check if current calendar week starts with 0
-      if [[ ${CURRENT_CALENDAR_WEEK:0:1} -eq 0 ]];
-      then
-          NEXT_CALENDAR_WEEK=$(calc ${CURRENT_CALENDAR_WEEK:1:1}+1)
-      else
-          NEXT_CALENDAR_WEEK=$(calc ${CURRENT_CALENDAR_WEEK}+1)
-      fi
-    else
-      #we have to calculate current calendar week based on user input
-      CURRENT_CALENDAR_WEEK=$(calc ${NEXT_CALENDAR_WEEK}-1)
-    fi
 
     ABSOLUTE_PATH_OF_THE_ROOT="${ABSOLUTE_PATH_OF_THIS_SCRIPT}/.."
 
-    NEXT_CALENDAR_WEEK=$( add_zero_if_number_is_less_then_ten ${NEXT_CALENDAR_WEEK})
-    RELATIVE_PATH_TO_THE_CALENDAR_WEEK="link/${CURRENT_YEAR}/calendar_week"
-
-    FILE_NAME_OF_THE_CURRENT_CALENDAR_WEEK_DRAFT=draft-${CURRENT_CALENDAR_WEEK}.md
-    FILE_NAME_OF_THE_CURRENT_CALENDAR_WEEK=${CURRENT_CALENDAR_WEEK}.md
-    FILE_NAME_OF_THE_NEXT_CALENDAR_WEEK=draft-${NEXT_CALENDAR_WEEK}.md
-    FILE_PATH_OF_THE_DEBUG_LOG="${ABSOLUTE_PATH_OF_THE_ROOT}/debug.log"
-    GIT_RELEASE_TAG="${CURRENT_YEAR}${CURRENT_CALENDAR_WEEK}"
-    ABSOLUTE_PATH_TO_THE_CURRENT_CALENDAR_WEEK_YEAR="${ABSOLUTE_PATH_OF_THE_ROOT}/${RELATIVE_PATH_TO_THE_CALENDAR_WEEK}"
-    #end of dependencies
-
-    #begin of business logic
-
-    # @todo
-    #   - instead of expecting current calendar week, just use the softlink to determine the current draft
-    #   - put all into a main function to not polute the global name space
     cd "${ABSOLUTE_PATH_OF_THE_ROOT}"
+
+    FILE_PATH_OF_THE_DEBUG_LOG="${ABSOLUTE_PATH_OF_THE_ROOT}/debug.log"
+    NEXT_CALENDAR_WEEK=$(date -d '+1 week' '+%-V')
+    NEXT_CALENDAR_WEEK_YEAR=$(date -d '+1 week' '+%-Y')
+
+    if [[ ! -f current_calendar_week ]];
+    then
+      echo ":: Error"
+      echo "   File >>current_calendar_week<< does not exist"
+      echo "   Current working directory:"
+      pwd
+
+      return 10
+    fi
+
+    PATH_TO_THE_CURRENT_CALENDAR_WEEK=$(readlink -f current_calendar_week)
+    PATH_TO_THE_CURRENT_CALENDAR_WEEK_YEAR=$(readlink -f current_calendar_week_path)
+
+    # Expected content of PATH_TO_THE_CURRENT_CALENDAR_WEEK is
+    #   /foo/bar/link/2024/calendar_week/draft-28.md
+    #   From the end, use an offset of minus 30
+    #   and than slice four characters
+    CURRENT_YEAR=${PATH_TO_THE_CURRENT_CALENDAR_WEEK: -30:4}
+
+    NEXT_CALENDAR_WEEK=$( add_zero_if_number_is_less_then_ten ${NEXT_CALENDAR_WEEK})
+
+    PATH_TO_THE_NEXT_CALENDAR_WEEK_DRAFT="link/${NEXT_CALENDAR_WEEK_YEAR}/calendar_week/draft-${NEXT_CALENDAR_WEEK}.md"
 
     echo ":: Start of run" > ${FILE_PATH_OF_THE_DEBUG_LOG}
-    echo ":: Dumping properties." >> ${FILE_PATH_OF_THE_DEBUG_LOG}
-    echo "  CURRENT_WORKING_DIRECTORY: ${CURRENT_WORKING_DIRECTORY}" >> ${FILE_PATH_OF_THE_DEBUG_LOG}
-    echo "  CURRENT_YEAR: ${CURRENT_YEAR}" >> ${FILE_PATH_OF_THE_DEBUG_LOG}
-    echo "  FILE_NAME_OF_THE_CURRENT_SOFT_LINK: ${FILE_NAME_OF_THE_CURRENT_SOFT_LINK}" >> ${FILE_PATH_OF_THE_DEBUG_LOG}
-    echo "  ABSOLUTE_PATH_OF_THIS_SCRIPT: ${ABSOLUTE_PATH_OF_THIS_SCRIPT}" >> ${FILE_PATH_OF_THE_DEBUG_LOG}
-    echo "  ABSOLUTE_PATH_OF_THE_ROOT: ${ABSOLUTE_PATH_OF_THE_ROOT}" >> ${FILE_PATH_OF_THE_DEBUG_LOG}
-    echo "  CURRENT_CALENDAR_WEEK: ${CURRENT_CALENDAR_WEEK}" >> ${FILE_PATH_OF_THE_DEBUG_LOG}
-    echo "  NEXT_CALENDAR_WEEK: ${NEXT_CALENDAR_WEEK}" >> ${FILE_PATH_OF_THE_DEBUG_LOG}
-    echo "  RELATIVE_PATH_TO_THE_CALENDAR_WEEK: ${RELATIVE_PATH_TO_THE_CALENDAR_WEEK}" >> ${FILE_PATH_OF_THE_DEBUG_LOG}
-    echo "  FILE_NAME_OF_THE_CURRENT_CALENDAR_WEEK_DRAFT: ${FILE_NAME_OF_THE_CURRENT_CALENDAR_WEEK_DRAFT}" >> ${FILE_PATH_OF_THE_DEBUG_LOG}
-    echo "  FILE_NAME_OF_THE_CURRENT_CALENDAR_WEEK: ${FILE_NAME_OF_THE_CURRENT_CALENDAR_WEEK}" >> ${FILE_PATH_OF_THE_DEBUG_LOG}
-    echo "  FILE_NAME_OF_THE_NEXT_CALENDAR_WEEK: ${FILE_NAME_OF_THE_NEXT_CALENDAR_WEEK}" >> ${FILE_PATH_OF_THE_DEBUG_LOG}
-    echo "  FILE_PATH_OF_THE_DEBUG_LOG: ${FILE_PATH_OF_THE_DEBUG_LOG}" >> ${FILE_PATH_OF_THE_DEBUG_LOG}
-    echo "  ABSOLUTE_PATH_TO_THE_CURRENT_CALENDAR_WEEK_YEAR: ${ABSOLUTE_PATH_TO_THE_CURRENT_CALENDAR_WEEK_YEAR}" >> ${FILE_PATH_OF_THE_DEBUG_LOG}
+    echo "   Dumping properties." >> ${FILE_PATH_OF_THE_DEBUG_LOG}
+    echo "       ABSOLUTE_PATH_OF_THIS_SCRIPT: ${ABSOLUTE_PATH_OF_THIS_SCRIPT}" >> ${FILE_PATH_OF_THE_DEBUG_LOG}
+    echo "       GIT_RELEASE_TAG: ${GIT_RELEASE_TAG}" >> ${FILE_PATH_OF_THE_DEBUG_LOG}
+    echo "       CURRENT_WORKING_DIRECTORY: ${CURRENT_WORKING_DIRECTORY}" >> ${FILE_PATH_OF_THE_DEBUG_LOG}
+    echo "       CURRENT_YEAR: ${CURRENT_YEAR}" >> ${FILE_PATH_OF_THE_DEBUG_LOG}
+    echo "       NEXT_CALENDAR_WEEK: ${NEXT_CALENDAR_WEEK}" >> ${FILE_PATH_OF_THE_DEBUG_LOG}
+    echo "       NEXT_CALENDAR_WEEK_YEAR: ${NEXT_CALENDAR_WEEK_YEAR}" >> ${FILE_PATH_OF_THE_DEBUG_LOG}
+    echo "       PATH_TO_THE_CURRENT_CALENDAR_WEEK: ${PATH_TO_THE_CURRENT_CALENDAR_WEEK}" >> ${FILE_PATH_OF_THE_DEBUG_LOG}
+    echo "       PATH_TO_THE_CURRENT_CALENDAR_WEEK_YEAR: ${PATH_TO_THE_CURRENT_CALENDAR_WEEK_YEAR}" >> ${FILE_PATH_OF_THE_DEBUG_LOG}
+    echo "       PATH_TO_THE_NEXT_CALENDAR_WEEK_DRAFT: ${PATH_TO_THE_NEXT_CALENDAR_WEEK_DRAFT}" >> ${FILE_PATH_OF_THE_DEBUG_LOG}
 
-    echo ":: Start of >>release_current_calendar_week<<" >> ${FILE_PATH_OF_THE_DEBUG_LOG}
-    release_current_calendar_week "${ABSOLUTE_PATH_TO_THE_CURRENT_CALENDAR_WEEK_YEAR}" "${FILE_NAME_OF_THE_CURRENT_CALENDAR_WEEK_DRAFT}" "${FILE_NAME_OF_THE_CURRENT_CALENDAR_WEEK}"
 
-    cd "${ABSOLUTE_PATH_TO_THE_CURRENT_CALENDAR_WEEK_YEAR}"
+    if [[ ${CURRENT_YEAR} != ${NEXT_CALENDAR_WEEK_YEAR} ]];
+    then
+      echo "   Detected change of year" >> ${FILE_PATH_OF_THE_DEBUG_LOG}
+      echo "   Updating current_calendar_week_path" >> ${FILE_PATH_OF_THE_DEBUG_LOG}
+      /usr/bin/rm current_calendar_week_path
+      /usr/bin/mkdir + "link/${NEXT_CALENDAR_WEEK_YEAR}/calendar_week"
+      ln -s "link/${NEXT_CALENDAR_WEEK_YEAR}/calendar_week" current_calendar_week_path
+    fi
 
-    echo ":: Start of >>create_next_calendar_week<<" >> ${FILE_PATH_OF_THE_DEBUG_LOG}
-    create_next_calendar_week "${FILE_NAME_OF_THE_NEXT_CALENDAR_WEEK}"
+    echo "   Removing >>draft-<< from current draft" >> ${FILE_PATH_OF_THE_DEBUG_LOG}
+    git mv "${PATH_TO_THE_CURRENT_CALENDAR_WEEK}" "${PATH_TO_THE_CURRENT_CALENDAR_WEEK/draft-/}"
+    echo "   Creating new draft" >> ${FILE_PATH_OF_THE_DEBUG_LOG}
+    touch "${PATH_TO_THE_NEXT_CALENDAR_WEEK_DRAFT}"
+    echo "   Updating softlink current_calendar_week" >> ${FILE_PATH_OF_THE_DEBUG_LOG}
+    rm current_calendar_week
+    ln -s "${PATH_TO_THE_NEXT_CALENDAR_WEEK_DRAFT}" current_calendar_week
 
-    cd "${ABSOLUTE_PATH_OF_THE_ROOT}"
-
-    echo ":: Start of >>updating_soft_link<<" >> ${FILE_PATH_OF_THE_DEBUG_LOG}
-    updating_soft_link "${FILE_NAME_OF_THE_CURRENT_SOFT_LINK}" "${RELATIVE_PATH_TO_THE_CALENDAR_WEEK}/${FILE_NAME_OF_THE_NEXT_CALENDAR_WEEK}"
-
-    echo ":: Starting >>git gc --aggressive<<" >> ${FILE_PATH_OF_THE_DEBUG_LOG}
+    echo "   Starting >>git gc --aggressive<<" >> ${FILE_PATH_OF_THE_DEBUG_LOG}
     $(git gc --aggressive)
 
     echo ":: Finished of run" >> ${FILE_PATH_OF_THE_DEBUG_LOG}
 
-    cd "${CURRENT_WORKING_DIRECTORY}"
-
     echo "   Next git tag should be >>${GIT_RELEASE_TAG}<<"
+    cd -
     #end of business logic
 }
 
-_main ${@}
+_main
