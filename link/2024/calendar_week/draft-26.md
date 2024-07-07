@@ -87,6 +87,7 @@
 * [Gitea wurde in der Version 1.22.1 veröffentlicht.](https://github.com/go-gitea/gitea/releases/tag/v1.22.1)
 * [VonDerÄhmLayen könnte eine US-Amerikanischen Konzern verklagen, oder aber die Leute, die den Rotz nutzen weil es ihnen die EU geraten hat.](https://www.borncity.com/blog/2024/07/04/eu-kommission-verklagt-datenschtzer-und-cybersicherheit-in-der-nrw-justiz-noch-ein-desaster/)
 * [eduMFA wurde in der Version 2.1.0 veröffentlicht.](https://github.com/eduMFA/eduMFA/releases/tag/v2.1.0)
-* [Hier hat mal jemand nachgeprüft ob Tampons giftige Schwermetalle beinhalten?](https://blog.fefe.de/?ts=9877feab) - Der freie Markt regelt! Ich hoffe es gibt eine Klagewelle. Frechheit, dass der freie Markt solche Produkte überhaupt anbietet
 * [Nein? Doch! Oh? DevOps macht doch nicht alles schneller und besser](https://blog.fefe.de/?ts=98763e8f)
 * [Auch CheckMK verdreifacht seine Preise](https://www.borncity.com/blog/2024/07/06/auch-checkmk-erhht-die-preise/)
+* [WiiLink Patcher wurde in der Version 2.3.0 veröffentlicht.](https://wiidatabase.de/wiilink-patcher-v2-3-0/)
+* [DisplayEurope.eu sollte man sich merken und häufiger mal vorbeischauen](https://netzpolitik.org/2024/displayeurope-eu-eine-foederierte-europaeische-oeffentlichkeit/) - >>European news without borders. In your language.<<
