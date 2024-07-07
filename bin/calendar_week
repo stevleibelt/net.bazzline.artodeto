@@ -11,7 +11,9 @@
 ####
 function add_zero_if_number_is_less_then_ten
 {
-    local NUMBER="${1}"
+    local NUMBER
+
+    NUMBER="${1}"
 
     if [[ ${NUMBER} -lt 10 ]];
     then
@@ -26,6 +28,8 @@ function add_zero_if_number_is_less_then_ten
 ####
 function create_next_calendar_week
 {
+    local FILE_NAME_OF_THE_NEXT_CALENDAR_WEEK
+
     if [[ $# -ne 1 ]];
     then
         echo ":: Invalid number of arguments provided."
@@ -34,7 +38,7 @@ function create_next_calendar_week
         return 1
     fi
 
-    local FILE_NAME_OF_THE_NEXT_CALENDAR_WEEK="${1}"
+    FILE_NAME_OF_THE_NEXT_CALENDAR_WEEK="${1}"
 
     echo ":: Create next calendar week."
 
@@ -53,6 +57,10 @@ function create_next_calendar_week
 ####
 function release_current_calendar_week
 {
+    local ABSOLUTE_PATH_TO_THE_CURRENT_CALENDAR_WEEK_YEAR
+    local FILE_NAME_OF_THE_CURRENT_CALENDAR_WEEK_DRAFT
+    local FILE_NAME_OF_THE_CURRENT_CALENDAR_WEEK
+
     if [[ $# -ne 3 ]];
     then
         echo ":: Invalid number of arguments provided."
@@ -61,9 +69,9 @@ function release_current_calendar_week
         return 1
     fi
 
-    local ABSOLUTE_PATH_TO_THE_CURRENT_CALENDAR_WEEK_YEAR="${1}"
-    local FILE_NAME_OF_THE_CURRENT_CALENDAR_WEEK_DRAFT="${2}"
-    local FILE_NAME_OF_THE_CURRENT_CALENDAR_WEEK="${3}"
+    ABSOLUTE_PATH_TO_THE_CURRENT_CALENDAR_WEEK_YEAR="${1}"
+    FILE_NAME_OF_THE_CURRENT_CALENDAR_WEEK_DRAFT="${2}"
+    FILE_NAME_OF_THE_CURRENT_CALENDAR_WEEK="${3}"
 
     echo ":: Release current calendar week."
 
@@ -93,6 +101,9 @@ function release_current_calendar_week
 ####
 function updating_soft_link
 {
+    local FILE_NAME_OF_THE_CURRENT_SOFT_LINK
+    local RELATIVE_PATH_TO_THE_NEXT_CALENDAR_WEEK
+
     if [[ $# -ne 2 ]];
     then
         echo ":: Invalid number of arguments provided."
@@ -101,8 +112,8 @@ function updating_soft_link
         return 1
     fi
 
-    local FILE_NAME_OF_THE_CURRENT_SOFT_LINK="${1}"
-    local RELATIVE_PATH_TO_THE_NEXT_CALENDAR_WEEK="${2}"
+    FILE_NAME_OF_THE_CURRENT_SOFT_LINK="${1}"
+    RELATIVE_PATH_TO_THE_NEXT_CALENDAR_WEEK="${2}"
 
     echo ":: Updating soft link."
 
@@ -128,6 +139,14 @@ function updating_soft_link
 function _main ()
 {
     #begin of dependencies
+    local ABSOLUTE_PATH_OF_THIS_SCRIPT
+    local GIT_RELEASE_TAG
+    local CURRENT_CALENDAR_WEEK
+    local CURRENT_WORKING_DIRECTORY
+    local CURRENT_YEAR
+    local FILE_NAME_OF_THE_CURRENT_SOFT_LINK
+    local NEXT_CALENDAR_WEEK
+
     ABSOLUTE_PATH_OF_THIS_SCRIPT=$(cd $(dirname "$0"); pwd)
     CURRENT_CALENDAR_WEEK=$(date +%V)
     CURRENT_WORKING_DIRECTORY=$(pwd)
@@ -159,6 +178,7 @@ function _main ()
     FILE_NAME_OF_THE_CURRENT_CALENDAR_WEEK=${CURRENT_CALENDAR_WEEK}.md
     FILE_NAME_OF_THE_NEXT_CALENDAR_WEEK=draft-${NEXT_CALENDAR_WEEK}.md
     FILE_PATH_OF_THE_DEBUG_LOG="${ABSOLUTE_PATH_OF_THE_ROOT}/debug.log"
+    GIT_RELEASE_TAG="${CURRENT_YEAR}${CURRENT_CALENDAR_WEEK}"
     ABSOLUTE_PATH_TO_THE_CURRENT_CALENDAR_WEEK_YEAR="${ABSOLUTE_PATH_OF_THE_ROOT}/${RELATIVE_PATH_TO_THE_CALENDAR_WEEK}"
     #end of dependencies
 
@@ -204,21 +224,9 @@ function _main ()
     echo ":: Finished of run" >> ${FILE_PATH_OF_THE_DEBUG_LOG}
 
     cd "${CURRENT_WORKING_DIRECTORY}"
-    #end of business logic
 
-    #for later if we want to do more
-    #while true;
-    #do
-    #    echo ":: What do you want to do?"
-    #    echo "   [0] release current calendar week"
-    #    echo ""
-    #
-    #    read USER_INPUT
-    #    case ${USER_INPUT} in
-    #        0)  release_current_calendar_week 
-    #            break;;
-    #    esac
-    #done
+    echo "   Next git tag should be >>${GIT_RELEASE_TAG}<<"
+    #end of business logic
 }
 
 _main ${@}
