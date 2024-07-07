@@ -76,7 +76,7 @@ function _main ()
 
     RELATIVE_FILE_PATH_TO_THE_NEXT_CALENDAR_WEEK_DRAFT="link/${NEXT_CALENDAR_WEEK_YEAR}/calendar_week/draft-${NEXT_CALENDAR_WEEK}.md"
 
-    cat > "${FULL_FILE_PATH_OF_THE_DEBUG_LOG}" <DELIM
+    cat > "${FULL_FILE_PATH_OF_THE_DEBUG_LOG}" <<DELIM
 :: Start of run
    Dumping properties:
        ABSOLUTE_PATH_OF_THIS_SCRIPT: "${ABSOLUTE_PATH_OF_THIS_SCRIPT}"
