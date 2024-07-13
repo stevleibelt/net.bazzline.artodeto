@@ -29,3 +29,4 @@
 * [Vom CCC geprüft, die zwei-Faktor-SMS](https://www.ccc.de/de/updates/2024/2fa-sms) - Ihr wisst schon, zweiter Faktor zur Legitimierung und dank Zwangs-Banking-Apps läuft alles auf dem gleiche Gerät. Mit OTPs gibt es eine datenschutzfreundliche Alternative, aber dann könnten euch die Banken eben keine Überwachungsanwendung auf euer Schmierphone schieben
 * [Falls ihr wissen wolltet wie man die Spezifikation bezeichnet, die ihr für die Kommunikation mit eurem Smart-Meter benötigt - DLMS](https://blog.hqcodeshop.fi/archives/593-DLMS-Reading-data-from-an-utility-meter.html)
 * [Clonezilla wurde in der Version 3.1.3-11 veröffentlicht.](https://sourceforge.net/p/clonezilla/news/2024/07/stable-clonezilla-live-313-11-released/)
+* [Schauen wir mal, ob und wann die französiche Sportministerin nach dem 13.07.2024 unpässlich aka krank wegen Mardendarm ist](https://blog.fefe.de/?ts=986cb988)
