@@ -28,6 +28,7 @@ function _main ()
     local ABSOLUTE_PATH_OF_THIS_SCRIPT
     local CURRENT_WORKING_DIRECTORY
     local CURRENT_CALENDAR_WEEK
+    local CURRENT_TAG
     local CURRENT_YEAR
     local NEXT_CALENDAR_WEEK
     local NEXT_CALENDAR_WEEK_YEAR
@@ -108,13 +109,16 @@ DELIM
     ln -s "${RELATIVE_FILE_PATH_TO_THE_NEXT_CALENDAR_WEEK_DRAFT}" current_calendar_week
 
     # bo git
+    CURRENT_TAG="${CURRENT_YEAR}${CURRENT_CALENDAR_WEEK}"
     echo "   Starting >>git gc --aggressive<<" >> "${FULL_FILE_PATH_OF_THE_DEBUG_LOG}"
     /usr/bin/env git gc --aggressive
 
     # In testing right now
     /usr/bin/env git add .
     /usr/bin/env git commit -m "Released cw ${CURRENT_CALENDAR_WEEK} of ${CURRENT_YEAR}"
-    /usr/bin/env git tag -a ${CURRENT_YEAR}${CURRENT_CALENDAR_WEEK} -m "Released cw ${CURRENT_CALENDAR_WEEK} of ${CURRENT_YEAR}"
+    /usr/bin/env git tag -a "${CURRENT_TAG}" -m "Released cw ${CURRENT_CALENDAR_WEEK} of ${CURRENT_YEAR}"
+    /usr/bin/env git push origin master
+    /usr/bin/env git push "${CURRENT_TAG}"
     # eo git
 
     echo ":: Finished run" >> "${FULL_FILE_PATH_OF_THE_DEBUG_LOG}"
