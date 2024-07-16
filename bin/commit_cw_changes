@@ -44,6 +44,7 @@ function _main ()
 
     /usr/bin/env git add "${FULL_FILE_PATH_TO_THE_CURRENT_CALENDAR_WEEK}"
     /usr/bin/env git commit -m "Add content to cw ${CURRENT_CALENDAR_WEEK} of ${CURRENT_YEAR}"
+    /usr/bin/env git push
 
     cd -
 }
