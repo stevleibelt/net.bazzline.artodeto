@@ -5,3 +5,15 @@
 * [>>Die (Werbe-)Branche beweist seit Jahren, dass sie systematisch Regeln verletzt. Was technisch möglich ist, wird auch gemacht. Deshalb müssen Staaten die kommerzielle Profilbildung und den Handel mit personenbezogenen Daten generell verbieten.<<](https://netzpolitik.org/2024/databroker-files-dieses-staatsversagen-schadet-uns-allen/)
 * [netzpolitik.org stellt euch einen Datenbroker-Checker zur Verfügung.](https://netzpolitik.org/2024/databroker-files-jetzt-testen-wurde-mein-handy-standort-verkauft/) - Damit könnt ihr prüfen, ob eure Mobilfunkdaten schon öffentlich verkauft wurden
 * [>>In dem uns vorliegenden Datensatz fanden wir die Werbe-IDs von 131 Telefonen, die sowohl in Militäreinrichtungen als auch in Bordellen geortet wurden.<<](https://netzpolitik.org/2024/databroker-files-wie-datenhaendler-deutschlands-sicherheit-gefaehrden/) - Realitätsabgleich >>Wenn Daten gesammelt werden, werden diese auch genutzt<<
+* [Netzpolitik.org gibt euch eine kleine Kostprobe was Datenhandel in der Realität bedeutet.](https://netzpolitik.org/2024/databroker-files-die-grosse-datenhaendler-recherche-im-ueberblick/) - Bedankt euch gern bei netzpolitik.org mit einer Spende
+* [Hier wird euch gezeigt, wie ihr das Mitschneiden eurer Standortdaten verhindert.](https://netzpolitik.org/2024/databroker-files-so-stoppt-man-das-standort-tracking-am-handy/)
+* [Missglückte Integration und ein Zeichen das es zu wenig Jugendarbeiter und Sportvereine gibt - Wenn Kinder aus Kriegstgebieten nach Deutschland kommen und einfach so leben sollen passieren Dinge wie auf einem Berliner Gymnasium](https://blog.fefe.de/?ts=98686f04)
+* [Ungewohnte Einstellung, das BSI soll ab jetzt alle Sicherheitslücken sofort schließen lassen statt sie dem MAD oder BND für ein Jahr zu überlassen.](https://blog.fefe.de/?ts=986853aa)
+* [In Nordrhein-Westfalen sieht man, was der Wunsch für Berlin ist.](https://blog.fefe.de/?ts=9868ab85) - Mehr Politiker die nach fünf Jahren "Anspruch" auf Rente haben, aber bitte nur von den großen Parteien, DIE WURDEN NÄMLICH SCHON AUF SPUR GEBRACHT!
+* [eduMFA wurde in der Version 2.2.0 veröffentlicht.](https://github.com/eduMFA/eduMFA/releases/tag/v2.2.0)
+* [PHP Carbon wurde in der Version 3.7.0 veröffentlicht.](https://github.com/briannesbitt/Carbon/releases/tag/3.7.0)
+* [Trello hat Daten von 15 Millionen Nutzern verloren](https://www.bleepingcomputer.com/news/security/email-addresses-of-15-million-trello-users-leaked-on-hacking-forum/)
+* [Das Stadtarchiv in Freiberg zieht um.](https://www.mdr.de/video/mdr-videos/a/video-841450.html)
+* [Wordpress wurde in der Version 6.6 veröffentlicht.](https://wordpress.org/news/2024/07/dorsey/)
+* [>>[...] Das Militärbündnis (Nato) strebt keinen Sieg der Ukraine an [...]<<](https://tuxproject.de/blog/2024/07/vorwaertsverteidigung-8-rueckwaertsgang/) - Allen ist das klar. Warum wird da nichts unterschrieben? Weil man gerade Waffen testen kann.
+* [PHP 8.4 kann jetzt nativ HTML 5](https://stitcher.io/blog/html-5-in-php-84)
