@@ -32,3 +32,14 @@
 * [Das Paul-Ehrlich-Institut möchte seit 2022 keine Informationen zur Sicherheit von Impfstoffen mehr veröffentlichen.](https://impfentscheidung.online/sicherheitsberichte-des-paul-ehrlich-instituts-fehlen/) - Ist auch zu europäisch der Gedanke einfach mal Sachen zu testen und zu prüfen. Der US-Amerikanische-Weg des "Machen und Sterben" ist doch viel "cooler"
 * [Scheiße Bernd, dass Neun-Euro-Deutschlandticket wäre ohne Probleme machbar.](https://www.klimareporter.de/verkehr/schiene-in-einer-hand-preiskracher-beim-deutschlandticket-und-ein-minister-der-gross-denkt) - Kein Bürger würde Nachteile haben. DANN WIRD ES NICHT GEMACHT!
 * [>>GitHub is able to send a fully server-side rendered version of the page, which actually works like it should, but doesn’t do so unless JavaScript is completely unavailable.<<](https://www.mistys-internet.website/blog/blog/2024/07/12/github-is-starting-to-feel-like-legacy-software/) - Schnelle und vollständige Seitenauslieferung ist halt nicht mehr modern
+* [Crowdstrike AGB's sagen explizit, dass man Crowdstrike-Produkte nur bei unwichtigen Dingen einsetzen soll](https://blog.fefe.de/?ts=98652216)
+* [Israel fängt langsam auch ein Inhalte für ein "World Domination Tour" T-Shirt aufzubauen. Israel bombardiert jetzt Jemen](https://blog.fefe.de/?ts=9862d9c4)
+* [Wow, China scheint 2024 seine Klimaziele von 2030 erreicht zu haben.](https://blog.fefe.de/?ts=9863eff7)
+* [webmin wurde in der Version 2.200 veröffentlicht.](https://github.com/webmin/webmin/releases/tag/2.200)
+* [pytest wurde in der Version 8.3.0 veröffentlicht.](https://github.com/pytest-dev/pytest/releases/tag/8.3.0)
+* [Bloopair wurde in der Version 1.0.0 veröffentlicht.](https://github.com/GaryOderNichts/Bloopair/releases/tag/v1.0.0)
+* [Selenium wurde in der Version 4.23.0 veröffentlicht.](https://github.com/SeleniumHQ/selenium/releases/tag/selenium-4.23.0)
+* [>>Dies ist, dies wird – die Zeit der Monster und Idioten.<<](https://martinsonneborn.de/kommission-vonderleyen-ii-zeit-der-monster-idioten/)
+* [>>Die gematik GmbH wird dann zur Digitalagentur Gesundheit mit hoheitlichen Aufgaben und kann "durchgreifen".<<](https://www.borncity.com/blog/2024/07/21/gesundheits-digitalagentur-gesetz-gematik-gmbh-erhlt-mehr-befugnisse/)
+* [>>Ein Teil der (IT)-Sicherheit ist es die Menschen glauben zu machen, dass sie funktioniert.<<](https://utcc.utoronto.ca/~cks/space/blog/tech/SecurityNeedsToConvince)
+* [Hier wird euch gezeigt, wie ihr in FastAPI ein Web-Interface hinzufügt](https://improveandrepeat.com/2024/07/python-friday-236-add-a-web-interface-to-fastapi/)
