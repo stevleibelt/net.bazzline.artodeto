@@ -1,3 +1,7 @@
 * [#neusprech, wenn ein US-Amerikanischer Dienst einen Cyberangriff fährt und er dafür bezahlt wird, ist es kein Cyberangriff.](https://blog.fefe.de/?ts=9864a6ae) - Cyberangriffe machen nur Russland, China und andere Abweichler der freien, westlichen Gedankenströmung
 * [Oh schaut, Crowdstrike hätte auch das Potential gehabt eure Linux-Maschinen runter zu fahren.](https://blog.fefe.de/?ts=9864a262) - Respektive haben die das schon mal damit gemacht
 * [postmarkOS gibt einen Ausblick in die Zukunft.](https://postmarketos.org/blog/2024/07/21/pmOS-update-2024-07/)
+* [Das Dachsecamp 2024 der HSG Freiberg wurde eröffnet: youtube.com](https://www.youtube.com/watch?v=IogqJFqUspo)
+* [Ihr sucht einen Aktivurlaub aber wollt gern etwas sinvolles machen? Die Bergwaldprojekte sind hierfür eine willkommene Idee](https://www.mdr.de/nachrichten/sachsen/chemnitz/freiberg/bergwald-projekt-osterzgebirge-ferien-100.html)
+* [Nach Goldmann-Sachs überlegen jetzt auch andere Personen, welche Vorteile man mit dem "KI"-Scam so haben könnte.](https://blog.fefe.de/?ts=986071d7) - Auf die Schlussfolgerung kommt ihr nie! Bullshit in, Bullshit out. Wenn eure Trainingsdaten Allerweltsdaten (wie die vom Konkurenten) sind, ist eurer LLM halt auch nicht besser. Hier war wieder das CIA am Werk, ALLES FINDEN DIE RAUS!
+* [cosign wurde in der Version 2.3.0 veröffentlicht.](https://github.com/sigstore/cosign/releases/tag/v2.3.0)
