@@ -13,3 +13,9 @@
 * [>>Weil die Chiphersteller alle noch keinen Dollar gesehen aben, den sie nicht als Profit einsacken wollten, haben wir jetzt alle völlig sinnlos heizende CPUs in unseren Kisten drin.<<](https://blog.fefe.de/?ts=9861270f)
 * [Hat AMD nun wirklich Probleme mit ihren Ryzens, oder warten sie bis Intel erneut 20 Prozent Performance aus ihren CPUs rauspatchen muss?](https://blog.fefe.de/?ts=985f44d1)
 * [Wie aus den alten Büchern, erst kommen die Robotter, dann fällt das Internet aus.](https://netzpolitik.org/2024/vierbeiniger-saboteur-dieser-gruselige-roboterhund-soll-smarthomes-abschalten/)
+* [Oha, Frankreich will Crowdstrike wegen ihres Upsis zur Kasse bitten.](https://blog.fefe.de/?ts=985cb8dd) - Wird sich Deutschland bestimmt nicht trauen
+* [OpenAI macht angeblich mehr als zwei Milliarden USD Umsatz.](https://blog.fefe.de/?ts=985c8fa5) - Bei angeblich auch mehr als sechs Milliarden USD Ausgaben, aber wir wissen ja, Hypeprodukte sind nur dafür da, möglichst viel Geld in den Taschen der Superreichen versickern zu lassen
+* [Limesurvey 5 und 6 können jetzt wieder gegen Shibboleth authentifizieren.](https://github.com/leandrobhbr/ShibbolethAuthLimeSurvey/pull/9)
+* [Am 04.08.2024 findet in Holzhau eine Wanderung über Kräuterwiesen statt](https://www.fva-holzhau.de/0408-2024-1000-Uhr-Was-wchst-denn-da-Kruterwanderung-in-Holzhau.6067-1.htm)
+* [curl wurde in der Version 8.9.0 veröffentlicht.](https://curl.se/ch/8.9.0.html)
+* [Rust wurde in der Version 1.80.0 veröffentlicht.](https://blog.rust-lang.org/2024/07/25/Rust-1.80.0.html)
