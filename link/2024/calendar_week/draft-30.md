@@ -19,3 +19,4 @@
 * [Am 04.08.2024 findet in Holzhau eine Wanderung über Kräuterwiesen statt](https://www.fva-holzhau.de/0408-2024-1000-Uhr-Was-wchst-denn-da-Kruterwanderung-in-Holzhau.6067-1.htm)
 * [curl wurde in der Version 8.9.0 veröffentlicht.](https://curl.se/ch/8.9.0.html)
 * [Rust wurde in der Version 1.80.0 veröffentlicht.](https://blog.rust-lang.org/2024/07/25/Rust-1.80.0.html)
+* [Donald Trump so "Ihr müsst nur noch einmal im Leben wählen, versprochen"](https://blog.fefe.de/?ts=985a10e9)
