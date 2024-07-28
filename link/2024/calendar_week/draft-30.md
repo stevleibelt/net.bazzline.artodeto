@@ -20,3 +20,4 @@
 * [curl wurde in der Version 8.9.0 veröffentlicht.](https://curl.se/ch/8.9.0.html)
 * [Rust wurde in der Version 1.80.0 veröffentlicht.](https://blog.rust-lang.org/2024/07/25/Rust-1.80.0.html)
 * [Donald Trump so "Ihr müsst nur noch einmal im Leben wählen, versprochen"](https://blog.fefe.de/?ts=985a10e9)
+* [Hier wird euch gezeigt, was bei FastAPI hinter `StaticFiles(directory=str(Path(BASE_DIR, ...)))` steckt.](https://improveandrepeat.com/2024/07/python-friday-237-static-routes-in-fastapi/) - Ich würde das über den Webserver lösen
