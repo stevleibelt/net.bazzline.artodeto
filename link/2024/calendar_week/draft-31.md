@@ -23,3 +23,5 @@
 * [Microsoft hatte im 4. Q des Fiskaljahres 2024 64,7 Milliarden USD Umsatz generiert.](https://www.borncity.com/blog/2024/07/31/microsofts-gigantischer-647-milliarden-us-dollar-umsatz-im-4-q-des-fiskaljahres-2024/) - 1/3 davon ist Gewinn
 * [noyb nimmt sich Spiegel bezüglich `Pay or OK` zur Brust.](https://noyb.eu/de/pay-or-ok-der-spiegel-noyb-sues-hamburg-dpa)
 * [Docker ist unter den Versionen `23.0.14`, `26.1.4` und `27.1.0` kaputt.](https://www.docker.com/blog/docker-security-advisory-docker-engine-authz-plugin/)
+* [In Argentinien sieht man wieder dass die USA andere Länder als Versuchslabore nutzen](https://blog.fefe.de/?ts=98551cb1) - Und wenn die Überwachungsinfrastruktur da ist, aber das eigentliche Projekt gescheitert ist, wird die besagte Infrastrutkur natürlich nicht abgeschaltet sondern weiter zur Unterdrückung genutzt
+* [OpenEMS wurde in der Version 2024.8.0 veröffentlicht.](https://github.com/OpenEMS/openems/releases/tag/2024.8.0)
