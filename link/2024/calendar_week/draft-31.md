@@ -25,3 +25,9 @@
 * [Docker ist unter den Versionen `23.0.14`, `26.1.4` und `27.1.0` kaputt.](https://www.docker.com/blog/docker-security-advisory-docker-engine-authz-plugin/)
 * [In Argentinien sieht man wieder dass die USA andere Länder als Versuchslabore nutzen](https://blog.fefe.de/?ts=98551cb1) - Und wenn die Überwachungsinfrastruktur da ist, aber das eigentliche Projekt gescheitert ist, wird die besagte Infrastrutkur natürlich nicht abgeschaltet sondern weiter zur Unterdrückung genutzt
 * [OpenEMS wurde in der Version 2024.8.0 veröffentlicht.](https://github.com/OpenEMS/openems/releases/tag/2024.8.0)
+* [black wurde in der Version 24.8.0 veröffentlicht.](https://github.com/psf/black/releases/tag/24.8.0)
+* [GlückAufTV klärt euch über die drei Kreuze in Freiberg/Sa. auf: youtube.com](https://www.youtube.com/watch?v=66ZDlndkg1Q)
+* [Auf weitblick.org findet ihr eine Volltextsuche für HUGO welche in Javascript geschrieben wurde](https://weitblick.org/post/simple-static-site-search-hugo-jamstack/)
+* [full-stack-fastapi-template wurde in der Version 0.7.0 veröffentlicht.](https://github.com/fastapi/full-stack-fastapi-template/releases/tag/0.7.0)
+* [Nach der Inflation ist vor der Inflation, AMD, Intel und NVidia verschieben ihre Produkte wegen Fertigungsproblemen.](https://blog.fefe.de/?ts=9850abb2) - Hätte man nur eigene Fabriken ...
+* [BetterReflection wurde in der Version 6.40.0 veröffentlicht.](https://github.com/Roave/BetterReflection/releases/tag/6.40.0)
