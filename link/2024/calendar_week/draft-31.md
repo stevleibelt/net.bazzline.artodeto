@@ -31,3 +31,7 @@
 * [full-stack-fastapi-template wurde in der Version 0.7.0 veröffentlicht.](https://github.com/fastapi/full-stack-fastapi-template/releases/tag/0.7.0)
 * [Nach der Inflation ist vor der Inflation, AMD, Intel und NVidia verschieben ihre Produkte wegen Fertigungsproblemen.](https://blog.fefe.de/?ts=9850abb2) - Hätte man nur eigene Fabriken ...
 * [BetterReflection wurde in der Version 6.40.0 veröffentlicht.](https://github.com/Roave/BetterReflection/releases/tag/6.40.0)
+* [Altweibersommer, 20.-22. September 2024 in Kleinwaltersdorf](https://kleinwaltersdorf.de/index.php/2024/08/03/altweibersommer-2024/)
+* [>>Manjaro Linux now has an immutable spin available for community testing.<<](https://www.phoronix.com/news/Immutable-Manjaro-Linux)
+* [Roundcube wurde in der Version 1.5.8 und 1.6.8 veröffentlicht.](https://roundcube.net/news/2024/08/04/security-updates-1.6.8-and-1.5.8)
+* [>>Die US-Bundesbehörde DARPA legt ein Förderprogramm auf, bei dem künstliche Intelligenz (KI) vorhandenen C- und C++-Code selbstständig in die moderne Programmiersprache Rust übertragen soll [...]<<](https://blog.fefe.de/?ts=985109ec)
