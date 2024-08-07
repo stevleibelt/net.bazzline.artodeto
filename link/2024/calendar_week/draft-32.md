@@ -4,3 +4,6 @@
 * [Die B101 zwischen Siebenlehn und Freiberg ist vom 06.08.2024 bis voraussichtlich 30.08.2024 vollständig gesperrt: youtube.com](https://www.youtube.com/watch?v=Sx9y_23zhy4)
 * [Auch Brandenburg nutzt die aus Sachsen umstrittene Observationstechnik zur anstandslosen Massenüberwachung aller Bürger in Echtzeit.](https://netzpolitik.org/2024/umstrittene-observationstechnik-aus-sachsen-auch-brandenburg-betreibt-biometrische-videoueberwachung-in-echtzeit/)
 * [GlückAufTV:  24. Juli 2024 - Kommentar zum Rücktritt von Landrat Dirk Neubauer: youtube.com](https://www.youtube.com/watch?v=yWH8Bc0XUrI) - Da ist auch viel Wahres dabei. Ich bin entäuscht, da das vorherige Interview von Herrn Neubauer viel offener und bürgerlicher war. Für den Landkreis Mittelsachsen ist diese Art schlichtweg eine Schädigung.
+* [Kanidm wurde in der Version 1.3.0 veröffentlicht.](https://github.com/kanidm/kanidm/releases/tag/v1.3.0)
+* [OpenZFS wurde in der Version 2.2.5 veröffentlicht.](https://github.com/openzfs/zfs/releases/tag/zfs-2.2.5)
+* [cosign wurde in der Version 2.4.0 veröffentlicht.](https://github.com/sigstore/cosign/releases/tag/v2.4.0)
