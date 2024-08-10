@@ -7,3 +7,4 @@
 * [Kanidm wurde in der Version 1.3.0 veröffentlicht.](https://github.com/kanidm/kanidm/releases/tag/v1.3.0)
 * [OpenZFS wurde in der Version 2.2.5 veröffentlicht.](https://github.com/openzfs/zfs/releases/tag/zfs-2.2.5)
 * [cosign wurde in der Version 2.4.0 veröffentlicht.](https://github.com/sigstore/cosign/releases/tag/v2.4.0)
+* [Die Blockpartei entkernt weiter den deutschen Binnenmarkt und lassen Firmen, die Werte schaffen, kaputt gehen.](https://www.tagesschau.de/wirtschaft/unternehmen/insolvenzen-juli-anstieg-100.html)
