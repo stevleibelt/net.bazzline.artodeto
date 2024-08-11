@@ -22,3 +22,4 @@
 * [Alle Webbrowser sind wohl dank `0.0.0.0 Day` kaputt.](https://www.oligo.security/blog/0-0-0-0-day-exploiting-localhost-apis-from-the-browser) - Alles muss man heute in einer Sandbox laufen lassen :-\
 * [freecodecamp.org bringt euch auf dieser Webseite TypeScript bei.](https://www.freecodecamp.org/news/typescript-for-beginners-guide/) - Kein Video, nur Text - Danke!
 * [aura wurde in der Version 4.0.1 veröffentlicht.](https://github.com/fosskers/aura/releases/tag/v4.0.1)
+* [Ciscos Router und Switche werden stabiler.](https://blog.fefe.de/?ts=98466da4) - Soft- und Hardwareabteilung wurde nahezu komplett entlassen, dafür werden LLM-Leute eingestellt
