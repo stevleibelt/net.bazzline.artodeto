@@ -29,3 +29,5 @@
 * [librenms wurde in der Version 24.8.0 veröffentlicht.](https://github.com/librenms/librenms/releases/tag/24.8.0)
 * [ruff wurde in der Version 0.6.0 veröffentlicht.](https://github.com/astral-sh/ruff/releases/tag/0.6.0)
 * [Netzpolitik.org hat den Gesetzesentwurf zur weiteren Entkernung der Privatssphäre in Deutschland durch Nancy Faeser veröffentlicht.](https://netzpolitik.org/2024/trojaner-biometrie-big-data-wir-veroeffentlichen-den-entwurf-zum-neuem-bka-gesetz/) - Es sind ja schlimme Zeiten, sie will das ja gar nicht! Die Kosten werden dadurch natürlich steigen, aber das kann man ja bei den Sozialleistungen kürzen.
+* [fabric wurde in der Version 2.0 veröffentlicht.](https://github.com/danielmiessler/fabric/releases/tag/2.0)
+* [>>NSA tracks Google ads to find Tor users<<](https://blog.fefe.de/?ts=983e7abb)
