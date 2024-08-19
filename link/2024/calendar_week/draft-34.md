@@ -1,0 +1,2 @@
+* [Auf Grund der hohen Resonanz, Solarwinds ist erneut kaputt.](https://blog.fefe.de/?ts=983f08e8) - Die müssen dringend Gas geben, Cisco und Boing sind weit vorne!
+* [>>Zur Wahrheit gehört aber auch, dass die Arbeit in der Spielebranche gleichermaßen an der körperlichen wie psychischen Gesundheit zehren kann. Unsichere Arbeitsverhältnisse ist eine der größten Ursachen für dieses ungesunde Spannungsfeld<<](https://netzpolitik.org/2024/linksklick-und-sie-schuften-wieder-fuer-uns/)
