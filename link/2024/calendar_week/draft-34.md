@@ -23,3 +23,8 @@
 * [Auf surveillancewatch.io könnt ihr sehen, welche Firmen bei der Zerstörung der Privatssphäre vorderster Front beteiligt sind.](https://www.surveillancewatch.io/)
 * [LibreOffice wurde in der Version 24.8 veröffentlicht.](https://lwn.net/Articles/986906/)
 * [Extra 3 bäumt sich erneut auf um die Mauer im Kopf zwischen "Ost" und "West" endlich in die Geschichtsbücher zu packen](https://www.youtube.com/watch?v=_H4r0BLF8rs)
+* [Reiche Menschen kaufen sich ehemalige Bunker, Fallout in echt](https://blog.fefe.de/?ts=98362bb8)
+* [Solarwinds will nicht abgehängt werden und überholt ohne einzuholen.](https://blog.fefe.de/?ts=9836a37c)
+* [Die Kirche hat sich so hart ins Grundgesetz gefressen, dass der Bundesrat zustimmen muss, wenn die Leistungen verringert werden sollen.](https://blog.fefe.de/?ts=98369093)
+* [mermaid-js wurde in der Version 11.0.0 veröffentlicht.](https://github.com/mermaid-js/mermaid/releases/tag/v11.0.0)
+* [Google hat Organic Maps aus dem Playstore gelöscht.](https://fosstodon.org/@organicmaps/112976308191001762) - Warum? Gott braucht keine Begründung!
