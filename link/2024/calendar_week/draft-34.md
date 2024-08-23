@@ -22,3 +22,4 @@
 * [Die CDU wie sie lebt, der Sozialstaat wird weiter gekürzt, damit Sondervermögen für Technik-Subventionen übrig sind. Heute "KI-Kameras auf Bahnhöfen"](https://blog.fefe.de/?ts=983952d2)
 * [Auf surveillancewatch.io könnt ihr sehen, welche Firmen bei der Zerstörung der Privatssphäre vorderster Front beteiligt sind.](https://www.surveillancewatch.io/)
 * [LibreOffice wurde in der Version 24.8 veröffentlicht.](https://lwn.net/Articles/986906/)
+* [Extra 3 bäumt sich erneut auf um die Mauer im Kopf zwischen "Ost" und "West" endlich in die Geschichtsbücher zu packen](https://www.youtube.com/watch?v=_H4r0BLF8rs)
