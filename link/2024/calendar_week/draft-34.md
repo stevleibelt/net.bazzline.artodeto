@@ -28,3 +28,8 @@
 * [Die Kirche hat sich so hart ins Grundgesetz gefressen, dass der Bundesrat zustimmen muss, wenn die Leistungen verringert werden sollen.](https://blog.fefe.de/?ts=98369093)
 * [mermaid-js wurde in der Version 11.0.0 veröffentlicht.](https://github.com/mermaid-js/mermaid/releases/tag/v11.0.0)
 * [Google hat Organic Maps aus dem Playstore gelöscht.](https://fosstodon.org/@organicmaps/112976308191001762) - Warum? Gott braucht keine Begründung!
+* [Kapitalismus im Endstadium, LLM halluziniert Film-Kritiken zusammen.](https://blog.fefe.de/?ts=98363f08)
+* [Und noch einmal Kapitalismus im Endstadium, eine gekaufte Funktionalität ersetzt amazon jetzt mit dem Anzeigen von Werbung](https://blog.fefe.de/?ts=9837666d)
+* [wireup wurde in der version 0.9.0 veröffentlicht.](https://github.com/maldoinc/wireup/releases/tag/v0.9.0)
+* [>>[...] ist Microsoft mit Minecraft jetzt ins Ransomware-Business eingestiegen: Gib uns Geld (jeden Monat), um Zugriff auf Deine eigenen Daten zu erhalten.<<<](https://blog.fefe.de/?ts=9835c003)
+* [>>Ich hätte ja gerne eine Liste aller Banken, die KYC zu automatisieren versuchen, damit ich die großflächig meiden kann. Die müssen einfach alle einmal in die kontrollierte Insolvenz gehen, damit die Überlebenden die Scherben auffegen und weitermachen können.<<](https://blog.fefe.de/?ts=98343ef4)
