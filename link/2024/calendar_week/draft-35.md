@@ -6,3 +6,8 @@
 * [Intel SGX ist also auch nur Cloud und "Vertrauen"](https://blog.fefe.de/?ts=9832226f)
 * [>>Die Automobilindustrie hat keinen Bock, tatsächlich Security zu machen. Sie würden viel lieber einfach Mails von Leuten kriegen, die ihnen Bugs in ihrer Software schenken, wo sie anderswo Geld für in die Hand nehmen müssten.<<](https://blog.fefe.de/?ts=9830d269)
 * [PFAS sind verantwortlich für Krebs und andere "Kleinigkeiten"](https://blog.fefe.de/?ts=98331f37) - Aber hey, dem freien Markt gefällt es und ohne Regulierung wird da natürlich niemand etwas ändern
+* [Die Grünen haben auch einen Rechtsruck hinter sich](https://blog.fefe.de/?ts=9831a69b)
+* [Nachdem der Verfassungsschutz und Bitkom jahrelang für die Hackergesetze und gegen starke Verschlüsselung geworben haben, wollen die Gleichen jetzt Sicherheit über LLM's bewerben](https://blog.fefe.de/?ts=9831d303)
+* [>>Beim Versuch, einen Vertrag mit Unsere Wasserkraft abzuschließen, werden Neukund:innen ungefragt einer vollautomatisierten Bonitätsprüfung durch den KSV unterzogen.<<](https://noyb.eu/de/unsere-wasserkraft-ksv-1870-clean-electricity-only-after-dirty-credit-check) - Noyb klagt gegen die "Unsere Wasserkraft"
+* [Wow, die Kirche ist der Meinung, dass Ihr >>Summen in Milliardenhöhe zustünde<<.](https://tuxproject.de/blog/2024/08/zustehen/)
+* [Seht nur, wie toll Vernetzung um jeden Preis ist. Eine Störung in einem Rechenzentrum legt die Niederlande lahm.](https://www.borncity.com/blog/2024/08/28/niederlande-rechenzentrumsstrung-legt-behrden-und-airport-eindhoven-lahm/)
