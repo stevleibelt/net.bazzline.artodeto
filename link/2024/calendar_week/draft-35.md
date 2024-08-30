@@ -11,3 +11,8 @@
 * [>>Beim Versuch, einen Vertrag mit Unsere Wasserkraft abzuschließen, werden Neukund:innen ungefragt einer vollautomatisierten Bonitätsprüfung durch den KSV unterzogen.<<](https://noyb.eu/de/unsere-wasserkraft-ksv-1870-clean-electricity-only-after-dirty-credit-check) - Noyb klagt gegen die "Unsere Wasserkraft"
 * [Wow, die Kirche ist der Meinung, dass Ihr >>Summen in Milliardenhöhe zustünde<<.](https://tuxproject.de/blog/2024/08/zustehen/)
 * [Seht nur, wie toll Vernetzung um jeden Preis ist. Eine Störung in einem Rechenzentrum legt die Niederlande lahm.](https://www.borncity.com/blog/2024/08/28/niederlande-rechenzentrumsstrung-legt-behrden-und-airport-eindhoven-lahm/)
+* [FreeRDP wurde in der Version 3.8.0 veröffentlicht.](https://github.com/FreeRDP/FreeRDP/releases/tag/3.8.0)
+* [Genode wurde in der Version 24.08 veröffentlicht.](https://github.com/genodelabs/genode/releases/tag/24.08)
+* [Forejo wurde in der Version 8.0.2 veröffentlicht.](https://codeberg.org/forgejo/forgejo/releases/tag/v8.0.2)
+* [GNU Screen wurde in der Version 5.0.0 veröffentlicht.](https://lwn.net/Articles/987700/)
+* [>>[...]Dies würde mit verdachtsunabhängige Personenkontrollen an solchen Orten einhergehen.[...]<<](https://netzpolitik.org/2024/sicherheitspaket-der-bundesregierung-ueberwachung-wie-sie-buerger-erwarten/) - Nun wisst ihr auch, warum diese Nachricht medial so ausgebeitet wurde. Dies kann nun als Begründung vergewendet werden
