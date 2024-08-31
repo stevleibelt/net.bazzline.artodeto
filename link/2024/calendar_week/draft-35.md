@@ -16,3 +16,6 @@
 * [Forejo wurde in der Version 8.0.2 veröffentlicht.](https://codeberg.org/forgejo/forgejo/releases/tag/v8.0.2)
 * [GNU Screen wurde in der Version 5.0.0 veröffentlicht.](https://lwn.net/Articles/987700/)
 * [>>[...]Dies würde mit verdachtsunabhängige Personenkontrollen an solchen Orten einhergehen.[...]<<](https://netzpolitik.org/2024/sicherheitspaket-der-bundesregierung-ueberwachung-wie-sie-buerger-erwarten/) - Nun wisst ihr auch, warum diese Nachricht medial so ausgebeitet wurde. Dies kann nun als Begründung vergewendet werden
+* [Hihi, wenn absolute Inkompetenz für das Volk nicht reicht um aus dem Amt befördert zu werden, reicht eventuell das Alter](https://blog.fefe.de/?ts=982ddb2d)
+* [>>RWE wollte die Abrisskosten des AKW Hamm-Uentrop dem Bund überhelfen.<<](https://blog.fefe.de/?ts=982f1462) - Nein? Doch! Oh? Ich dachte die ganzen Ausgründungen der Atomenergie bei den ganzen Energiekonzernen ist nur für die Kunden da!
+* [flet wurde in der Version 0.24.0 veröffentlicht.](https://github.com/flet-dev/flet/releases/tag/v0.24.0)
