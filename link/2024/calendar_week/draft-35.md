@@ -19,3 +19,10 @@
 * [Hihi, wenn absolute Inkompetenz für das Volk nicht reicht um aus dem Amt befördert zu werden, reicht eventuell das Alter](https://blog.fefe.de/?ts=982ddb2d)
 * [>>RWE wollte die Abrisskosten des AKW Hamm-Uentrop dem Bund überhelfen.<<](https://blog.fefe.de/?ts=982f1462) - Nein? Doch! Oh? Ich dachte die ganzen Ausgründungen der Atomenergie bei den ganzen Energiekonzernen ist nur für die Kunden da!
 * [flet wurde in der Version 0.24.0 veröffentlicht.](https://github.com/flet-dev/flet/releases/tag/v0.24.0)
+* [Mit mkosi könnt Ihr reproduzierbare Arch Linux Images bauen](https://vdwaa.nl/mkosi-reproducible-arch-images.html)
+* [Nein? Doch! Oh? Die ersten Cloud-Solar-Dinger fangen an zu fallen](https://www.borncity.com/blog/2024/08/31/schwachstellen-in-chinesischen-solarmanagern-solarman-deye/)
+* [Netzpolitik.org bestätigt meine Aussage, die autoritären Strukturen lagen schon lange fertig in der Schublade und bedurften nur noch medial aufgebauschte Probleme damit man sie begründet anwenden und umsetzen kann](https://netzpolitik.org/2024/massnahmen-nach-solingen-autoritaere-zeitenwende-schluesselfertig/)
+* [roundcube mail wurde in der Version 1.6.9 veröffentlicht.](https://github.com/roundcube/roundcubemail/releases/tag/1.6.9)
+* [Literarische Texte müssen noch vom Menschen übersetzt werden.](https://netzpolitik.org/2024/ki-kann-keine-literatur-der-wert-menschlicher-uebersetzung/) - Damit sollten auch nicht literarische Texte von Menschen übersetzt werden, sonst fehlt darin die Übung und der Übersetzter verliert die Verbindung zur aktuell, normalen Sprache
+* [>>[...] many people using abstractions don't know the underlying details.<<](https://utcc.utoronto.ca/~cks/space/blog/tech/AbstractionsHideUnderlyingDetails)
+* [Hier wird euch schön gezeigt, wie ihr mit FastAPI Routen versioniert.](https://improveandrepeat.com/2024/08/python-friday-242-api-versioning-in-fastapi/)
