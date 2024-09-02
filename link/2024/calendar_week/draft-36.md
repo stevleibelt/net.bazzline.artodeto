@@ -1,0 +1,6 @@
+* [Hier wird euch wieder über die Geschichte erklärt, ob und wieso `.` am Ende einer Domain nun konform ist oder nicht](https://utcc.utoronto.ca/~cks/space/blog/tech/DomainDotAtEndStatus)
+* [>>Wenn Kinder irgendwann erfahren, dass die Eltern die ganze Zeit gewusst haben, wo sie sich befinden, kann das zu einem massiven Vertrauensbruch führen. Zum anderen haben Kinder ein Recht darauf, das zu wissen. Kinder haben auch ein Recht auf Privatsphäre.<<](https://netzpolitik.org/2024/gps-tracker-fuer-kinder-kinder-haben-auch-ein-recht-auf-privatsphaere/)
+* [>>[...] der Unzufriedenheit ostdeutscher Wähler mit dem Stillstand der letzten drei Jahrzehnte nicht etwa mit einem besseren Politikangebot, sondern mit dem Tiefer­schaufeln des Grabens zwischen Diesen und Jenen zu begegnen [...]<<](https://tuxproject.de/blog/2024/09/nachbetrachtung-zu-den-wahlen-im-osten/)
+* [Hessi zeigt euch, wie ihr auch unter Windows 11 ohne Microsoft-Konto-Zwang weiterkommt.](https://hessburg.de/windows-ohne-microsoft-konto-zwang-installieren-herbst-2024/)
+* [FrankenPHP wurde in der Version 1.2.5 veröffentlicht.](https://github.com/dunglas/frankenphp/releases/tag/v1.2.5)
+* [archlinux-archzfs-linux-lts-dkms iso wurde in der Version 20240901 veröffentlicht.](https://github.com/stevleibelt/arch-linux-live-cd-iso-with-zfs/releases/tag/20240901)
