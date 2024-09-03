@@ -4,3 +4,7 @@
 * [Hessi zeigt euch, wie ihr auch unter Windows 11 ohne Microsoft-Konto-Zwang weiterkommt.](https://hessburg.de/windows-ohne-microsoft-konto-zwang-installieren-herbst-2024/)
 * [FrankenPHP wurde in der Version 1.2.5 veröffentlicht.](https://github.com/dunglas/frankenphp/releases/tag/v1.2.5)
 * [archlinux-archzfs-linux-lts-dkms iso wurde in der Version 20240901 veröffentlicht.](https://github.com/stevleibelt/arch-linux-live-cd-iso-with-zfs/releases/tag/20240901)
+* [Der Parabelritter versucht sich daran die mediale Aufregung wegen Thüringen zu erklären.](https://www.youtube.com/watch?v=1Iq4YUkifL0) - Wer danach nicht wenigst ein "Ach so, na gut" sagt will nichts verstehen wollen
+* [Realitätsabgleich Wahlsoftware ist super, gestern so in Sachsen "Software kann Sitze nicht ausrechnen"](https://blog.fefe.de/?ts=982b52bc)
+* ["Insects and Spiders"-Festival in Börnichen (Oderan), schon einmal davon gehört? Ich bisher auch noch nicht. Aber dank Glück Auf TV jetzt schon.](https://www.youtube.com/watch?v=zjxYQsq07B4)
+* [Keyless-Systeme in PKWs entsprechend der Zukunft aus den Büchern der Siebziger.](https://www.borncity.com/blog/2024/09/02/adac-keyless-systeme-in-pkws-in-2024-immer-noch-leicht-zu-hacken/) - Jeder mit etwas Technikverstand kann den entsprechenden PKW einfach aufschließen
