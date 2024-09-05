@@ -20,3 +20,11 @@
 * [Samba wurde in der Version 4.21 veröffentlicht.](https://www.phoronix.com/news/Samba-4.21-Released)
 * [Interessante These, statt Grundausbildung bei der Bundeswehr an der Waffe etwaig lokale Ausbildung zur "Hilfe zur Selbsthilfe": youtube.com](https://youtu.be/y9MwWs81W_c?t=1396) - Wichtiger "Nebeneffekt", alle Gesellschaftsschichten kommen für eine gewisse Zeit zusammen und müssen als Manschaft agieren
 * [authentik wurde in der Version 2024.8.0 veröffentlicht.](https://github.com/goauthentik/authentik/releases/tag/version/2024.8.0)
+* [Wow, 2019 hat Herr Habeck VW wohl vor dem möglichen Untergang gewarnt. Nun scheint sich der Untergang anzukündigen.](https://blog.fefe.de/?ts=98268a45) - VW hätte ja auch einfach vor fünf Jahren anfangen können Autos zu bauen, die Menschen kaufen wollen
+* [Das IoT bei kritischer Infrastruktur mist ist, durften fast die Bewohner Amsterdams feststellen.](https://blog.fefe.de/?ts=9826837a)
+* [Der erste FC Henker soll bald privatisiert werden.](https://blog.fefe.de/?ts=9826d6bd) - Furchtbar
+* [Statt bestehende Gesetze umzusetzen und Do-Not-Track-Nicht-Beachter hart zu verklagen wählt die SPD einen bürgerfeindlicheren Weg.](https://blog.fefe.de/?ts=98267c8f) - Denn ihr wisst ja, genug Euros regeln alles
+* [Nein? Doch! Oh? Die Preise der Cloud-Anbieter steigen im Wochentakt!](https://blog.fefe.de/?ts=9826a29c)
+* [Falls ihr weiterhin glaubt, dass VW quasi pleite ist, wenn sie nicht deutsche Werke schließen, schaut euch mal deren Gewinnausschüttungen für den 04.06.2024 an.](https://blog.fefe.de/?ts=98269d8a)
+* [>>Es ist absurd, dass es diesen Beschluss gibt und man mit der pragmatischen Linken nicht zusammenarbeiten will<<: youtube.com](https://youtu.be/O7g82k2ZYJU?t=546) - Gibt es doch noch Hoffnung?
+* [OpenZFS wurde in der Version 2.2.6 veröffentlicht.](https://github.com/openzfs/zfs/releases/tag/zfs-2.2.6)
