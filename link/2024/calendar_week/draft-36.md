@@ -33,4 +33,7 @@
 * [Hamburg verkauft Teile seines Hafens :-O.](https://blog.fefe.de/?ts=98275288) - Irre, wie bei DB Schenker. Das, was Einkommen generiert, wird vom Staat verkauft.
 * [Zuhören, die Ängste erkennen, versuchen zu erkennen woher diese Ängste kommen und dann eventuell versuch zu besprechen was man gegen diese Ängste machen kann.](https://youtu.be/Vw26y6JE8KI?t=554) - Um die Hilflosigkeit muss man sich kümmern.
 * [exchangelib wurde in der Version 5.4.3 veröffentlicht.](https://github.com/ecederstrand/exchangelib/releases/tag/v5.4.3)
-* [FastAPI wurde in der Version 0.113.0 veröffentlicht.](https://github.com/fastapi/fastapi/releases/tag/0.113.0)
+* [FastAPI wurde in der Version 0.114.0 veröffentlicht.](https://github.com/fastapi/fastapi/releases/tag/0.114.0)
+* [1Remote wurde in der Version 1.0.0 veröffentlicht.](https://github.com/1Remote/1Remote/releases/tag/1.0.0)
+* [forgejo wurde in der Version 8.0.3 veröffentlicht.](https://codeberg.org/forgejo/forgejo/releases/tag/v8.0.3)
+* [Mit slowapi könnt ihr ein Rate-Limiting in euer FastAPI-Anwendung einbauen](https://improveandrepeat.com/2024/09/python-friday-243-rate-limit-in-fastapi/)
