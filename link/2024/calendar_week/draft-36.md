@@ -37,3 +37,5 @@
 * [1Remote wurde in der Version 1.0.0 veröffentlicht.](https://github.com/1Remote/1Remote/releases/tag/1.0.0)
 * [forgejo wurde in der Version 8.0.3 veröffentlicht.](https://codeberg.org/forgejo/forgejo/releases/tag/v8.0.3)
 * [Mit slowapi könnt ihr ein Rate-Limiting in euer FastAPI-Anwendung einbauen](https://improveandrepeat.com/2024/09/python-friday-243-rate-limit-in-fastapi/)
+* [VW hatte 2023 einen operativen Gewinn von 22,6 Millarden Euro.](https://blog.fefe.de/?ts=982344e1) - Schulden hat der Konzern um die 11 Millarden. Sprich einmal keine Ausschüttung der Gewinne an Aktionäre und der Laden wäre schuldenfrei
+* [Damit Wasser, bei Bedarf, von Wasserwerk A nach Wasserwerk B verteilt werden kann, braucht es 2024 wohl KI](https://blog.fefe.de/?ts=98228a2b) - Ich weiß nicht, früher ging das einfacher
