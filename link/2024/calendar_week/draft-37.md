@@ -9,3 +9,6 @@
 * [Pandoc wurde in der Version 3.4 veröffentlicht.](https://lwn.net/Articles/989660/)
 * [Radicle wurde in der Version 1.0 veröffentlicht.](https://radicle.xyz/2024/09/10/radicle-1.0.html)
 * [Hier werden euch Grundlagen zu Java Script beigebracht.](https://www.freecodecamp.org/news/essential-javascript-concepts-before-react/)
+* [>>Zur Suche nach bekanntem illegalem Material bleibt es aber bei dem weltweit einzigartigen Vorhaben, die massenhafte, verdachtslose und nach BKA-Angaben höchst fehleranfällige Kontrolle aller privaten Chats für sämtliche Diensteanbieter verpflichtend zu machen, selbst wenn dazu die bisher sichere Ende-zu-Ende-Verschlüsselung von Messengerdiensten ausgehebelt werden muss.<<](https://www.patrick-breyer.de/neuester-eu-anlauf-zur-chatkontrolle-werden-messenger-dienste-in-europa-gesperrt/) - Ist das gerade ein Massenangriff auf allen Fronten? Will man den Bürgern alle hart erkämpften Freiheiten und damit den Frieden "von innen heraus" nehmen?
+* [Hier wird euch gezeigt, wie ihr eine Einnahmen- und Ausgabenverwaltung in JavaScript schreibt.](https://www.freecodecamp.org/news/how-to-build-an-expense-tracker-with-html-css-and-javascript/) - Der Code sieht sauber aus und ihr lernt gleich noch etwas CSS und HTML dazu
+* [appsmith wurde in der Version 1.40 veröffentlicht.](https://github.com/appsmithorg/appsmith/releases/tag/v1.40)
