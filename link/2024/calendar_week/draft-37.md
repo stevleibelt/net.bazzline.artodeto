@@ -21,3 +21,6 @@
 * [playwright-python wurde in der Version 1.47.0 veröffentlicht.](https://github.com/microsoft/playwright-python/releases/tag/v1.47.0)
 * [nextcloud server wurde in der Version 29.0.7 veröffentlicht.](https://github.com/nextcloud/server/releases/tag/v29.0.7)
 * [TrueNAS Scale wurde in der Version 24.04.2.1 veröffentlicht.](https://www.truenas.com/docs/scale/24.04/gettingstarted/scalereleasenotes/#240421-changelog)
+* [Falls ihr Probleme mit pacman 7.0.0 habt, probiert mal `chown :alpm -R /path/to/local/repo`](https://archlinux.org/news/manual-intervention-for-pacman-700-and-local-repositories-required/)
+* [Hier wird euch `fastapi-users` vorgestellt.](https://improveandrepeat.com/2024/09/python-friday-244-integrate-fastapi-users-into-the-to-do-application/)
+* [Deutschlands "Sovereign Tech Found" bezahlt Samba das SMB-Protokoll sicherer zu machen.](https://www.phoronix.com/news/STF-Samba-Investment) - Schön zu sehen, dass unsere Steuergelder auch mal sinvoll eingesetzt werden
