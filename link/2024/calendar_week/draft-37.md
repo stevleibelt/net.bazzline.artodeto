@@ -24,3 +24,6 @@
 * [Falls ihr Probleme mit pacman 7.0.0 habt, probiert mal `chown :alpm -R /path/to/local/repo`](https://archlinux.org/news/manual-intervention-for-pacman-700-and-local-repositories-required/)
 * [Hier wird euch `fastapi-users` vorgestellt.](https://improveandrepeat.com/2024/09/python-friday-244-integrate-fastapi-users-into-the-to-do-application/)
 * [Deutschlands "Sovereign Tech Found" bezahlt Samba das SMB-Protokoll sicherer zu machen.](https://www.phoronix.com/news/STF-Samba-Investment) - Schön zu sehen, dass unsere Steuergelder auch mal sinvoll eingesetzt werden
+* [Hey, auf einem ungenauen Hinweis kommt die Polizei zu euch zu Besuch.](https://blog.fefe.de/?ts=98183e87) - "geSWATet" ist der Begriff dazu
+* [Linux wurde in der Version 6.11 veröffentlicht.](https://lwn.net/Articles/990307/)
+* [>>Im August 2024 wurde in Freiberg eine offene Selbsthilfegruppe für Betroffene von Post-Covid gegründet.<<](https://www.tubaf.plus/post/offene-selbsthilfegruppe-f%C3%BCr-post-covid-betroffene)
