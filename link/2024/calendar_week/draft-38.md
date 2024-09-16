@@ -1,0 +1,2 @@
+* [Kapitalismus im Endstadium, die Kämpfer des "schmalen Staates" finden es gemein, dass der Staat nicht kostenfrei Infrastruktur für deren Rechenzentren hinstellt.](https://www.borncity.com/blog/2024/09/16/rechenzentrumskostenausgleich-google-amazon-microsoft-und-meta-kaempfen-gegen-vorschlag-von-ohio/) - Sie wollen quasi einen zielgerichteten schmalen Staat *lach*
+* [ValKey wurde in der Version 8.0 veröffentlicht.](https://www.phoronix.com/news/Valkey-8.0-Released)
