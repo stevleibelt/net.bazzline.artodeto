@@ -1,2 +1,11 @@
 * [Kapitalismus im Endstadium, die Kämpfer des "schmalen Staates" finden es gemein, dass der Staat nicht kostenfrei Infrastruktur für deren Rechenzentren hinstellt.](https://www.borncity.com/blog/2024/09/16/rechenzentrumskostenausgleich-google-amazon-microsoft-und-meta-kaempfen-gegen-vorschlag-von-ohio/) - Sie wollen quasi einen zielgerichteten schmalen Staat *lach*
 * [ValKey wurde in der Version 8.0 veröffentlicht.](https://www.phoronix.com/news/Valkey-8.0-Released)
+* [Die Industrie interessiert sich nicht um die Klimaziele. Was schlägt die FDP vor? Klimaziele reduzieren!](https://blog.fefe.de/?ts=98174220) - Ich hoffe die FDP sitzt ganz vorne im Zug
+* [Oracle kauft wohl alle nVidia Hardware auf um China 2.0 zu bauen.](https://blog.fefe.de/?ts=9817e7bb)
+* [Die Subventionen für die Chipfabrik in Magdeburg sind, entgegen der Medienaussagen, nicht verfügbar sondern sind reine Neuverschuldung.](https://blog.fefe.de/?ts=9817e6b1) - Und Neuverschuldung sollte uns etwas bringen, bevor wir das als Volk machen
+* [Die Bundeswehr kommt wohl bald mit dem Bedarf nach Weltraumlaser um die Ecke.](https://blog.fefe.de/?ts=9816b1a0)
+* [Apple verspricht Funktionalitäten die in den Produkten nicht vorhanden sind.](https://blog.fefe.de/?ts=9816d566) - Statt ein WTF sagen die Medien nur noch "Interessant"
+* [Nein? Doch! Oh? Das Verfassungsgericht in Karlsruhe stellt fest, dass der Verfassungsschutz zu viel darf.](https://netzpolitik.org/2024/bundesverfassungsgericht-der-hessische-verfassungsschutz-darf-zu-viel/) - Leider erst einmal nur der Verfassungsschutz aus Hessen
+* [Kuketz schaut sich die Tagesschau-App an](https://www.kuketz-blog.de/tagesschau-app-was-google-ueber-deine-lesegewohnheiten-erfahren-kann/) - Wie immer verbrannte Erde
+* [Yay wurde in der Version 12.4.1 veröffentlicht.](https://github.com/Jguer/yay/releases/tag/v12.4.1)
+* [Impackt wurde in der Version 0.12.0 veröffentlicht.](https://github.com/fortra/impacket/releases/tag/impacket_0_12_0)
