@@ -1,0 +1,2 @@
+* [Keycloakify wurde in der Version 11.0.0 veröffentlicht.](https://github.com/keycloakify/keycloakify/releases/tag/v11.0.0)
+* [Die wundervolle News-Anwendung für Nextcloud ist leider aktuell nicht mit der Nextcloud Server Version 30+ nutzbar.](https://github.com/nextcloud/news/issues/2719) - Falls jemand Zeit und Wissen bezüglich der offenen Frontend-Aufgaben hat, würde sich die Gemeinschaft um euer zutun sehr freuen
