@@ -8,3 +8,7 @@
 * [harfbuzz wurde in der Version 10.0.0 veröffentlicht.](https://github.com/harfbuzz/harfbuzz/releases/tag/10.0.0)
 * [mpv wurde in der Version 0.39.0 veröffentlicht.](https://github.com/mpv-player/mpv/releases/tag/v0.39.0)
 * [slint wurde in der Version 1.8.0 veröffentlicht.](https://github.com/slint-ui/slint/releases/tag/v1.8.0)
+* [So geht in Deutschland Inklusion, der Hartz IV Regelsatz für Mobilität liegt unter dem Preis vom Deutschlandticket.](https://blog.fefe.de/?ts=980c7578)
+* [Hersteller von Plastik werben seit Jahrzehnten damit, dass man Plastikmüll bekämpfen kann, wenn man gutes Recycling hat - Kalifornien verklagt jetzt einen der Lügner.](https://blog.fefe.de/?ts=980cb9ae)
+* [Mold wurde in der Version 2.34.0 veröffentlicht.](https://github.com/rui314/mold/releases/tag/v2.34.0)
+* [mithril.js wurde in der Version 2.2.4 veröffentlicht.](https://github.com/MithrilJS/mithril.js/releases/tag/v2.2.4)
