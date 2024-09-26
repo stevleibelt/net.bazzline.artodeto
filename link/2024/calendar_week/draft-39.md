@@ -12,3 +12,12 @@
 * [Hersteller von Plastik werben seit Jahrzehnten damit, dass man Plastikmüll bekämpfen kann, wenn man gutes Recycling hat - Kalifornien verklagt jetzt einen der Lügner.](https://blog.fefe.de/?ts=980cb9ae)
 * [Mold wurde in der Version 2.34.0 veröffentlicht.](https://github.com/rui314/mold/releases/tag/v2.34.0)
 * [mithril.js wurde in der Version 2.2.4 veröffentlicht.](https://github.com/MithrilJS/mithril.js/releases/tag/v2.2.4)
+* [Endlich! Passwortrotation ist von höchster Stelle als "Mist" eingestuft.](https://blog.fefe.de/?ts=980d0280) - Ja, es gibt Ausnahmen.
+* [Und so beginnt es. Endlich trauen sich Gemeinden und Städte einmal auf die bestehenden Infrastrukturprobleme hinzuweisen.](https://www.mdr.de/nachrichten/sachsen/chemnitz/freiberg/bruecke-hohentanne-sperrung-100.html) - Und das geht leider am Ende nur, indem man Brücken sperrt
+* [OpenSSH wurde in der Version 9.9 veröffentlicht.](https://lwn.net/Articles/991028/)
+* [Mit exodus-privacy.eu.org könnt Ihr prüfen welche Android Anwendungen welche Tracker eingebaut haben.](https://exodus-privacy.eu.org/en/)
+* [Wenn Palantier mit Microsoft zusammenarbeitet und Microsoft die EU-Cloud bauen will ...](https://netzpolitik.org/2024/palantir-und-microsoft-warum-der-deal-ein-verlust-fuer-digitale-buergerrechte-ist/)
+* [noyb hat eine Beschwerde bei Mozilla eingelegt, da Firefox mittlerweile Nutzer für Werbemessungen überwacht.](https://noyb.eu/de/firefox-tracks-you-privacy-preserving-feature)
+* [Nein? Doch! Oh? In Hamburg hat es mit der SPD begonnen und jetzt soll es im Bundesgebiet ausgerollt werden - die Polizei darf Personenkontrolle ohne Grund durchführen.](https://netzpolitik.org/2024/ueberwachungspaket-ampel-will-anlasslose-personenkontrollen-und-durchsuchungen-fast-ueberall/)
+* [>>Die obigen Informationen haben mich darin bestärkt, der Anlage einer ePA zu widersprechen – ich kann diese später immer noch anlegen lassen.<<](https://www.borncity.com/blog/2024/09/23/elektronische-patientenakte-epa-und-das-opt-out/)
+* [Nextcloud Server wurde in der Version 30.0.0 veröffentlicht.](https://github.com/nextcloud/server/releases/tag/v30.0.0)
