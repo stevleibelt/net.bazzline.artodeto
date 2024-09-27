@@ -21,3 +21,15 @@
 * [Nein? Doch! Oh? In Hamburg hat es mit der SPD begonnen und jetzt soll es im Bundesgebiet ausgerollt werden - die Polizei darf Personenkontrolle ohne Grund durchführen.](https://netzpolitik.org/2024/ueberwachungspaket-ampel-will-anlasslose-personenkontrollen-und-durchsuchungen-fast-ueberall/)
 * [>>Die obigen Informationen haben mich darin bestärkt, der Anlage einer ePA zu widersprechen – ich kann diese später immer noch anlegen lassen.<<](https://www.borncity.com/blog/2024/09/23/elektronische-patientenakte-epa-und-das-opt-out/)
 * [Nextcloud Server wurde in der Version 30.0.0 veröffentlicht.](https://github.com/nextcloud/server/releases/tag/v30.0.0)
+* [North Carolina deklariert über 700.000 Einwohner als Personen die an der baldigen Wahl nicht mehr teilnehmen dürfen.](https://blog.fefe.de/?ts=980b205e) - North Carolina hat wohl um die 10 Millionen Einwohner
+* [Seit 2014 ist wohl technisch belegt, dass das SS7-Protokol im Mobilfunk dafür gebaut wurde um Nachrichten abzufangen und Personen zu Lokalisieren.](https://www.onli-blogging.de/2439/Linksammlung-392024.html)
+* [Bester Art für ein Produkt zu werben, Busybox hat in Version 1.37 `getfattr` eingebaut.](https://www.phoronix.com/news/BusyBox-1.37-Released)
+* [Tor und Tails werden zu seinem Projekt](https://www.borncity.com/blog/2024/09/27/tor-projekt-und-tails-schliessen-sich-zusammen/) - Ich danke beiden Projekten für die geleistete Arbeit und unterstütze das neue Projekt ebenfalls
+* [Sachen bildet wieder Bergmänner aus](https://www.mdr.de/video/mdr-videos/a/video-861770.html) - Glück Auf!
+* [PostgreSQL wurde in der Version 17 veröffentlicht und liefert erneut ab.](https://www.phoronix.com/news/PostgreSQL-17-Released) - PostgreSQL ist so ein unglaublich starkes Produkt. Danke!
+* [Die neue Datenschutzbeauftragte hat ihre Antrittsrede gehalten](https://netzpolitik.org/2024/digitalausschuss-bundesdatenschutzbeauftragte-stellt-sich-vor/) - Jetzt muss sie noch liefern und alles ist tuti
+* [>>>Als Polizei brauche ich keinen Staatstrojaner installieren, wenn ich Zugriff auf das Google-Konto der Person habe. Ich sehe, welche Bilder hochgeladen werden, welche Anrufe getätigt, welche Sachen gesucht.<<](https://netzpolitik.org/2024/digitale-selbstverteidigung-faire-apps/)
+* [topio.info bietet die Möglichkeit an datenschutzfreundliche und trackingfreie Smartphones zu kaufen](https://www.topio.info/privacy-smartphone.html)
+* [>>Technischer Widerstand gegen Überwachung, Vermessung, Datenschnorcheln und Infiltration ist dabei eine der notwendigen Komponenten. In diesem Sinne wird der 38. Chaos Communication Congress unter dem Motto „Illegal Instruction [...]<<](https://www.ccc.de/de/updates/2024/38c3-illegal-instructions)
+* [tribler wurde in der Version 8.0.0 veröffentlicht.](https://github.com/Tribler/tribler/releases/tag/v8.0.0)
+* [lynis wurde in der Version 3.1.2 veröffentlicht.](https://github.com/CISOfy/lynis/releases/tag/3.1.2)
