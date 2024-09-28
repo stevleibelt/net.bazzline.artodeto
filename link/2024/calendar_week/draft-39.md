@@ -33,3 +33,6 @@
 * [>>Technischer Widerstand gegen Überwachung, Vermessung, Datenschnorcheln und Infiltration ist dabei eine der notwendigen Komponenten. In diesem Sinne wird der 38. Chaos Communication Congress unter dem Motto „Illegal Instruction [...]<<](https://www.ccc.de/de/updates/2024/38c3-illegal-instructions)
 * [tribler wurde in der Version 8.0.0 veröffentlicht.](https://github.com/Tribler/tribler/releases/tag/v8.0.0)
 * [lynis wurde in der Version 3.1.2 veröffentlicht.](https://github.com/CISOfy/lynis/releases/tag/3.1.2)
+* [miniflux wurde in der Version 2.2.1 veröffentlicht.](https://github.com/miniflux/v2/releases/tag/2.2.1)
+* [authentik wurde in der Version 2024.8.3 veröffentlicht.](https://github.com/goauthentik/authentik/releases/tag/version/2024.8.3)
+* [TeamViewer ist mal wieder kaputt.](https://www.borncity.com/blog/2024/09/27/kritische-sicherheitsluecken-im-teamviewer/)
