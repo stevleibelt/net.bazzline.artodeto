@@ -36,3 +36,8 @@
 * [miniflux wurde in der Version 2.2.1 veröffentlicht.](https://github.com/miniflux/v2/releases/tag/2.2.1)
 * [authentik wurde in der Version 2024.8.3 veröffentlicht.](https://github.com/goauthentik/authentik/releases/tag/version/2024.8.3)
 * [TeamViewer ist mal wieder kaputt.](https://www.borncity.com/blog/2024/09/27/kritische-sicherheitsluecken-im-teamviewer/)
+* [Auch private Krankenkassen sehen was Broadcom und Microsoft machen und erhäht die Preise um 20 Prozent.](https://blog.fefe.de/?ts=98092f3b)
+* [Der lange Arm von Israel reicht friedlich bis nach Jemen](https://blog.fefe.de/?ts=980744a4)
+* [OpenDesk soll mitte Oktober 2024 in der Version 1.0 veröffentlicht werden.](https://www.borncity.com/blog/2024/09/29/zendis-stellt-opendesk-mitte-oktober-2024-bereit/)
+* [>>Jeder Bildungsvergleich ist ein neuer Schock, obwohl es ja eigentlich niemanden überraschen dürfte, denn die schwarzen Zahlen sind ja wichtiger als die jungen Leute.<<](https://netzpolitik.org/2024/breakpoint-tiktok-ist-schuld-oder/)
+* [dolibarr wurde in der Version 20.0.0 veröffentlicht.](https://github.com/Dolibarr/dolibarr/releases/tag/20.0.0)
