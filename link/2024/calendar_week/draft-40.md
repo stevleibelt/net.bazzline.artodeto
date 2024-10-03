@@ -20,3 +20,14 @@
 * [Nein? Doch! Oh? Das Bundesverfassungsgericht erteilt dem neusten BKA-Gesetz eine abfuhr.](https://netzpolitik.org/2024/bundesverfassungsgericht-bka-gesetz-erneut-in-teilen-verfassungswidrig/)
 * [Kuketz zeigt euch, wie ihr externe DNS-Anfragen in eurem Netzwerk verhindert könnt.](https://www.kuketz-blog.de/pi-hole-und-fritzbox-dns-umgehung-bypassing-verhindern/)
 * [>>WhatsApp kann technisch betrachtet über die Telefonnummernabgleiche die sozialen Graphen ihrer Nutzer:innen analysieren und diese mit anderen Informationen ihrer Werbenetzwerke verbinden.<<](https://netzpolitik.org/2024/digitale-muendigkeit-whatsapp-nein-danke/)
+* [Rector wurde in der Version 1.2.6 veröffentlicht.](https://github.com/rectorphp/rector/releases/tag/1.2.6)
+* [>>NIEMAND braucht Lanz-Talkshows. Niemand.<<](https://blog.fefe.de/?ts=98005fdb) - Dem schließe ich mich an. Ich kann lokale Nachrichten verstehen und verteidigen, dummes Verblödungs-TV ist kein Auftrag der öffentlichen Sender
+* [Klimaaktivisten und Flüchtlinge sind wohl in der EU jetzt auch Terroristen.](https://blog.fefe.de/?ts=9800b346)
+* [NVidia kriegt wohl Sorgenfalten und liefert lieber selbst schnell ein LLM um ihre Mondpreise weiter stützen zu können.](https://blog.fefe.de/?ts=9803132e)
+* [Euch fehlen Quellenangaben zu euren Behauptungen? LLM's kacken euch zu mit generierten und halluzinierten Quellen!](https://blog.fefe.de/?ts=98034cbe)
+* [Damit ihr sehen könnt wohin es mit dem Gesundheitssystem geht, wenn die Blockpartei weiterhin ihre schwarze Null fordern ...](https://blog.fefe.de/?ts=9803be37)
+* [Und die USA zeigen einmal mehr was passiert, wenn man kritische Infrastruktur dem freien Markt überlässt.](https://blog.fefe.de/?ts=98039c5d) - Dort geht es ebenfalls um das Gesundheitssystem.
+* [So geht Demokratie! Israel erklärt einen Uno-Generalsekretär zu einer Psona non Grata.](https://blog.fefe.de/?ts=98038876)
+* [>>Nach Google, Meta, Apple und Amazon wird das Bundeskartellamt (BKartA) nun gegen Microsoft aktiv.<<](https://netzpolitik.org/2024/bundeskartellamt-legt-sich-bei-microsoft-auf-die-lauer/)
+* [Schade, Mozilla macht Thunderbird für Android direkt kaputt.](https://www.kuketz-blog.de/thunderbird-fuer-android-telemetrie-daten-werden-bereits-beim-start-erfasst/)
+* [Hier wird euch Medusa erklärt mit der ihr eure Systeme gegenüber brute-force-Attacken prüfen könnt.](https://www.freecodecamp.org/news/how-to-use-medusa-for-fast-multi-protocol-brute-force-attacks-security-tutorial/)
