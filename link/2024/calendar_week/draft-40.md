@@ -31,3 +31,8 @@
 * [>>Nach Google, Meta, Apple und Amazon wird das Bundeskartellamt (BKartA) nun gegen Microsoft aktiv.<<](https://netzpolitik.org/2024/bundeskartellamt-legt-sich-bei-microsoft-auf-die-lauer/)
 * [Schade, Mozilla macht Thunderbird für Android direkt kaputt.](https://www.kuketz-blog.de/thunderbird-fuer-android-telemetrie-daten-werden-bereits-beim-start-erfasst/)
 * [Hier wird euch Medusa erklärt mit der ihr eure Systeme gegenüber brute-force-Attacken prüfen könnt.](https://www.freecodecamp.org/news/how-to-use-medusa-for-fast-multi-protocol-brute-force-attacks-security-tutorial/)
+* [mermaid wurde in der Version 11.3.0 veröffentlicht.](https://github.com/mermaid-js/mermaid/releases/tag/mermaid%4011.3.0)
+* [>>die Operationen werden komplett betriebswirtschaftlich optimiert (es gibt Software, um Ärzte zu identifizieren, die nicht genug Patienten für Knie-OPs bringen<<](https://blog.fefe.de/?ts=98000986)
+* [>>Je kränker ein Patient, umso mehr Geld bekommt seine Kasse für seine Versorgung aus dem Gesundheitsfonds.<<](https://blog.fefe.de/?ts=9800738f)
+* [keycloak wurde in der Version 26.0.0 veröffentlicht.](https://github.com/keycloak/keycloak/releases/tag/26.0.0)
+* [fwupd wurde in der Version 2.0.0 veröffentlicht.](https://github.com/fwupd/fwupd/releases/tag/2.0.0)
