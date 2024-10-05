@@ -36,3 +36,9 @@
 * [>>Je kränker ein Patient, umso mehr Geld bekommt seine Kasse für seine Versorgung aus dem Gesundheitsfonds.<<](https://blog.fefe.de/?ts=9800738f)
 * [keycloak wurde in der Version 26.0.0 veröffentlicht.](https://github.com/keycloak/keycloak/releases/tag/26.0.0)
 * [fwupd wurde in der Version 2.0.0 veröffentlicht.](https://github.com/fwupd/fwupd/releases/tag/2.0.0)
+* [Wow, Adobekunden sind wie Amazon- und HP-Kunden. Die akzeptieren einfach, dass sie Produkte mit einer Nutzungsfrist von drei Jahren kaufen.](https://blog.fefe.de/?ts=99ffd4ea)
+* [Die freie Hand des Marktes reduziert jetzt auch den Zugang zur Kochsalzlösung.](https://blog.fefe.de/?ts=99ffd102) - Nehmt also lieber zwei Fackeln mit, wenn ihr demnächst die Egoisten der Welt befrieden wollt, es scheint immer mehr zu geben
+* [Okta ist wieder kaputt.](https://blog.fefe.de/?ts=99ffcbe7)
+* [Die CIA-Hintertür wurde von anderen Geheimdiensten gefunden und ausgenutzt.](https://blog.fefe.de/?ts=99fe3f1c) - Da fühlt sich der Unterdrückungsdienst der US-Amerikaner natürlich auf einmal enmannt, wenn andere auch ihre Nation abhören können
+* [Die archzfs-Mitglieder kümmern sich darum, dass archzfs weiterlebt.](https://github.com/archzfs/archzfs/issues/545)
+* [naps2 wurde in der Version 7.5.2 veröffentlicht.](https://github.com/cyanfish/naps2/releases/tag/v7.5.2)
