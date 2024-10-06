@@ -42,3 +42,6 @@
 * [Die CIA-Hintertür wurde von anderen Geheimdiensten gefunden und ausgenutzt.](https://blog.fefe.de/?ts=99fe3f1c) - Da fühlt sich der Unterdrückungsdienst der US-Amerikaner natürlich auf einmal enmannt, wenn andere auch ihre Nation abhören können
 * [Die archzfs-Mitglieder kümmern sich darum, dass archzfs weiterlebt.](https://github.com/archzfs/archzfs/issues/545)
 * [naps2 wurde in der Version 7.5.2 veröffentlicht.](https://github.com/cyanfish/naps2/releases/tag/v7.5.2)
+* [php infection wurde in der Version 0.29.7 veröffentlicht.](https://github.com/infection/infection/releases/tag/0.29.7)
+* [OpenDTU wurde in der Version 24.10.5 veröffentlicht.](https://github.com/tbnobody/OpenDTU/releases/tag/v24.10.5)
+* [>>All that stuff you hate about your car? Trapping you into using their mechanics, spying on you, planned obsolescence? All lifted from the inkjet printer business model<<](https://pluralistic.net/2024/09/30/life-finds-a-way/#ink-stained-wretches)
