@@ -1,0 +1,5 @@
+* [wireup wurde in der Version 0.10.0 veröffentlicht.](https://github.com/maldoinc/wireup/releases/tag/v0.10.0)
+* [>>Wenn wir die Wahl zwischen "einstürzende Brücken reparieren" und "Queerbeauftragten haben, der Menschen aus Ländern abfeiert, in denen auf Homosexualität die Todesstrafe steht", dann wüsste ich aber, wo ich das Geld lieber sparen würde.<<](https://blog.fefe.de/?ts=99fd0dee)
+* [>>Bei mir gehen inzwischen die Warnlampen an, wenn Leute "Observability" als Feature einbauen und bewerben.<<](https://blog.fefe.de/?ts=99fd0b72)
+* [>>A year after implementation over 90% of doctors in the affected hospitals considered the Epic system a threat to patient health<<](https://blog.fefe.de/?ts=99fd0ad8) - Ratet mal welches US-Amerikanische System Deutschland einführen möchte, nachdem es in so vielen Nachbarländern gescheitert ist?
+* [Milliardäre vermehren sich in Deutschland: >>Das sind die Leute, die Geld horten, und damit eine Konjunkturschwäche überhaupt erst auslösen.<<](https://blog.fefe.de/?ts=99fd0758)
