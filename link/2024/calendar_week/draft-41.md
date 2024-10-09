@@ -3,3 +3,10 @@
 * [>>Bei mir gehen inzwischen die Warnlampen an, wenn Leute "Observability" als Feature einbauen und bewerben.<<](https://blog.fefe.de/?ts=99fd0b72)
 * [>>A year after implementation over 90% of doctors in the affected hospitals considered the Epic system a threat to patient health<<](https://blog.fefe.de/?ts=99fd0ad8) - Ratet mal welches US-Amerikanische System Deutschland einführen möchte, nachdem es in so vielen Nachbarländern gescheitert ist?
 * [Milliardäre vermehren sich in Deutschland: >>Das sind die Leute, die Geld horten, und damit eine Konjunkturschwäche überhaupt erst auslösen.<<](https://blog.fefe.de/?ts=99fd0758)
+* [Was in den Beitrittsländern gut funktioniert hat, wird jetzt in der ganzen EU ausgerollt. Wer Geld will, muss sich gleichschalten lassen.](https://blog.fefe.de/?ts=99fb5fc7)
+* [PHPMailer wurde in der Version 6.9.2 veröffentlicht.](https://github.com/PHPMailer/PHPMailer/releases/tag/v6.9.2)
+* [Deno wurde in der Version 2.0.0 veröffentlicht.](https://github.com/denoland/deno/releases/tag/v2.0.0)
+* [redis_exporter wurde in der Version 1.64.1 veröffentlicht.](https://github.com/oliver006/redis_exporter/releases/tag/v1.64.1)
+* [python wurde in der Version 3.13 veröffentlicht.](https://www.phoronix.com/news/Python-3.13-Released)
+* [git wurde in der Version 2.47 veröffentlicht.](https://www.phoronix.com/news/Git-2.47-Released)
+* [Nein? Doch! Oh? DKIM bringt gar nicht so viel.](https://utcc.utoronto.ca/~cks/space/blog/spam/DKIMVsMailingListProviders)
