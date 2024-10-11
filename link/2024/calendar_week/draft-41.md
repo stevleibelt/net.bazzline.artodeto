@@ -10,3 +10,9 @@
 * [python wurde in der Version 3.13 veröffentlicht.](https://www.phoronix.com/news/Python-3.13-Released)
 * [git wurde in der Version 2.47 veröffentlicht.](https://www.phoronix.com/news/Git-2.47-Released)
 * [Nein? Doch! Oh? DKIM bringt gar nicht so viel.](https://utcc.utoronto.ca/~cks/space/blog/spam/DKIMVsMailingListProviders)
+* [Klimaerwärmung im Nordatlantik ist jetzt alle.](https://blog.fefe.de/?ts=99f86923) - Der Grund? Der Hurricane Helene hat die Sensoren zerstört und niemand hat die Absicht diese Sensoren zu erneuern
+* [Julia wurde in der Version 1.11.0 veröffentlicht.](https://lwn.net/Articles/993436/)
+* [>>Amnesty International, die Gesellschaft für Freiheitsrechte und die Humanistische Union fordern ein Ende des pauschalen Vermummungsverbotes.<<](https://netzpolitik.org/2024/automatisierte-gesichtserkennung-wie-das-vermummungsverbot-menschen-und-grundrechte-gefaehrdet/)
+* [Scheinbar sind alle Qualcomm-Chips kaputt.](https://blog.fefe.de/?ts=99f9d232) - Und dank der grandiosen Wegverfgesellschaft gibt es für alte Android-Geräte keine Updates
+* [nextcloud server wurde in der Version 29.0.8 veröffentlicht.](https://github.com/nextcloud/server/releases/tag/v29.0.8)
+* [TrueNAS Scale wurde in der Version 24.04.02.3 veröffentlicht.](https://github.com/truenas/documentation/releases/tag/TS24.04.02.3)
