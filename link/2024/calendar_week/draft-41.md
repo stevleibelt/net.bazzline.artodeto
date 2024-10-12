@@ -16,3 +16,8 @@
 * [Scheinbar sind alle Qualcomm-Chips kaputt.](https://blog.fefe.de/?ts=99f9d232) - Und dank der grandiosen Wegverfgesellschaft gibt es für alte Android-Geräte keine Updates
 * [nextcloud server wurde in der Version 29.0.8 veröffentlicht.](https://github.com/nextcloud/server/releases/tag/v29.0.8)
 * [TrueNAS Scale wurde in der Version 24.04.02.3 veröffentlicht.](https://github.com/truenas/documentation/releases/tag/TS24.04.02.3)
+* [Pharmakonzerne dürfen ihre Preise für neue Medikamente frei wählen und merkt jemand, dass dies nicht das Papier wert ist, auf dem es Gedruckt ist, darf man nicht viel machen außer hoffen.](https://blog.fefe.de/?ts=99f76fdd)
+* [Visual Studio Code is kaputt.](https://blog.fefe.de/?ts=99f763ab)
+* [Der Sachsenwald in Schleswig-Holstein ist eine Steueroase in Deutschland.](https://blog.fefe.de/?ts=99f763d8) - >>Millionenschwere Unternehmen betreiben Briefkästen an einer Holzhütte mitten im norddeutschen Wald.<<
+* [js-lingui wurde in der Version 4.12.0 veröffentlicht.](https://github.com/lingui/js-lingui/releases/tag/v4.12.0)
+* [penpot wurde in der Version 2.2.0 veröffentlicht.](https://github.com/penpot/penpot/releases/tag/2.2.0)
