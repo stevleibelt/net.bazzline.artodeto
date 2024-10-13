@@ -21,3 +21,16 @@
 * [Der Sachsenwald in Schleswig-Holstein ist eine Steueroase in Deutschland.](https://blog.fefe.de/?ts=99f763d8) - >>Millionenschwere Unternehmen betreiben Briefkästen an einer Holzhütte mitten im norddeutschen Wald.<<
 * [js-lingui wurde in der Version 4.12.0 veröffentlicht.](https://github.com/lingui/js-lingui/releases/tag/v4.12.0)
 * [penpot wurde in der Version 2.2.0 veröffentlicht.](https://github.com/penpot/penpot/releases/tag/2.2.0)
+* [Den Mitarbeitern der Verkehrsbetriebe nie den Personalausweis geben.](https://blog.fefe.de/?ts=99f41f6d) - Dann sollen sie halt die Polizei rufen.
+* [Auch Bayern hat Steueroasen im Wald.](https://blog.fefe.de/?ts=99f49100)
+* [Reinigungsroboter brauchen Cloud-Anbindung, damit man sie hacken kann.](https://blog.fefe.de/?ts=99f49272) - Oder so ähnlich ...
+* [>>Digitalisierung heißt ja in Deutschland, dass die Firmen ihre Arbeit nicht von eigenen, bezahlten Mitarbeitern erledigen lassen, sondern von ihren Kunden.<<](https://blog.fefe.de/?ts=99f552ec)
+* [Die zukünftigen LLM's werden dümmer (gemacht?). Wird wohl bald LLM's für gut betuchte und die Holzklasse geben.](https://blog.fefe.de/?ts=99f55d31) - Kennt ihr ja aus den dystopischen Filmen, reiche Kinder sind nicht schlauer, aber haben bessere Systeme und steigen deswegen auf
+* [Bei allen digitalen Ticketsystemen sind Fehler und Fehlerverfolgung nicht vorgesehen.](https://blog.fefe.de/?ts=99f50f1a) - Macht das System einen Fehler, gilt der Fahrgast automatisch als Schwarzfahrer. So wird es bei den Banken und anderen App-gesteuerten-Geschäftszweigen kommen
+* [Nein? Doch! Oh? Wenn jedes Land mit der Pharmaindustrie im geheimen verhandelt, gewinnt immer die Pharmaindustrie!](https://blog.fefe.de/?ts=99f511ec) - Ein klassischer CIA-Fund! Wenn alle Länder nur gemeinsam und einmal bestimmen würden ...
+* [FeFe erklärt auf drei Folien warum man nichts mit der Cloud machen möchte.](https://ptrace.fefe.de/cloud/#6)
+* [Freie Software wird von Deutschland mit 17 Millionen Euro pro Jahr gefördert während nur die Rahmenverträge mit Oracle und Microsoft 6 Milliarden Euro pro Jahr kostet.](https://netzpolitik.org/2024/open-source-bundestag-staerkt-sovereign-tech-fund/)
+* [Hier wird euch die Arbeit mit `git stash` näher gebracht.](https://www.freecodecamp.org/news/how-to-use-git-stash-to-manage-code/)
+* [>>Die Installation einer App auf Android oder iOS erfordert in der Regel ein Nutzerkonto, bindet die eigenen Daten an den Konzern und öffnet damit ein weiteres Einfallstor für Datensammler.<<](https://www.kuketz-blog.de/kommentar-digitale-erpressung-der-unaufhaltsame-vormarsch-des-app-zwangs/)
+* [LocalAI wurde in der Version 2.22.0 veröffentlicht.](https://github.com/mudler/LocalAI/releases/tag/v2.22.0)
+* [>>Ich habe nachfolgend die aktuelle Situation, wo Lobbyismus und der Bundeskanzler eine Lösung durchdrücken wollen, die Deutschland in totale Abhängigkeiten von Microsoft führt, nochmals in einer Gesamtschau dargestellt<<](https://www.borncity.com/blog/2024/10/12/enkel-faehige-digitale-souveraenitaet-statt-abhaengigkeit-von-der-delos-cloud/)
