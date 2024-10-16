@@ -9,3 +9,13 @@
 * [redis_exporter wurde in der Version 1.65.0 veröffentlicht.](https://github.com/oliver006/redis_exporter/releases/tag/v1.65.0) - Damit wird auch ValKey offiziell unterstützt :-)
 * [Scheinbar macht TikTok nach 30 Minuten süchtig.](https://netzpolitik.org/2024/interne-dokumente-tiktok-ist-sich-seines-suchtpotenzials-offenbar-bewusst/)
 * [Das EuGH dampft die freie Verwendung jeglicher Information auf Hackfressenbuch massiv ein.](https://noyb.eu/de/cjeu-meta-must-minimise-use-personal-data-ads-0) - Gern bin ich als Steuerzahler bereit ein paar Stellen zu bezahlen, die diese gesetzlichen Bestimmungen auch maximal überwachen
+* [Großbritanien schafft sich weiter ab und will für Alühabet, Aviva und GSK weitere Regulatorien abschaffen.](https://blog.fefe.de/?ts=99f0fdc8) - Regulatorien, dass sind die Dinger die deine Bevölkerung davon abhalten Bürgerkrieg zu machen
+* [sqlalchemy wurde in der Version 2.0.36 veröffentlicht.](https://github.com/sqlalchemy/sqlalchemy/releases/tag/rel_2_0_36)
+* [Joomla wurde in der Version 5.2.0 veröffentlicht.](https://github.com/joomla/joomla-cms/releases/tag/5.2.0)
+* [fwupd wurde in der Version 2.0.1 veröffentlicht.](https://github.com/fwupd/fwupd/releases/tag/2.0.1)
+* [js-lingui wurde in der Version 4.13.0 veröffentlicht.](https://github.com/lingui/js-lingui/releases/tag/v4.13.0)
+* [Ohha, debian und Konsorten unterstützen mal **kein** `.` in den Dateinamen unter `/etc/cron.daily` etc.](https://utcc.utoronto.ca/~cks/space/blog/linux/CronPeriodicDirsAndRunParts) - Das ist so ein Fehler wo ich ewig zum debuggen brauch, da ich doch gern mit Dateiendungen arbeite
+* [Anlasslose Massenüberwachung oder in Neusprech #sicherheitspaket](https://netzpolitik.org/2024/biometrische-ueberwachung-sicherheitspaket-als-buechse-der-pandora/)
+* [Log-Dateien in der Cloud? Die können auch mal vom Himmel fallen wenn ihr Nutzungszeiträume beim Microsoft-Himmel gemietet habt.](https://www.borncity.com/blog/2024/10/16/microsoft-verliert-log-daten-von-sicherheitsprodukten-in-der-cloud/)
+* [LibreSSL wurde in der Version 4.0.0 veröffentlicht.](https://lwn.net/Articles/994320/)
+* [Sicherheitspaket? Eher >>Sie verstoßen gegen EU-Recht und die deutsche Verfassung und brechen die Versprechen des Koalitionsvertrages, gegen biometrische Massenüberwachung vorzugehen.<<](https://www.ccc.de/de/updates/2024/die-groesste-enttauschung-seit-beginn-der-ampel-regierung)
