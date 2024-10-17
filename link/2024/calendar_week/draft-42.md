@@ -19,3 +19,5 @@
 * [Log-Dateien in der Cloud? Die können auch mal vom Himmel fallen wenn ihr Nutzungszeiträume beim Microsoft-Himmel gemietet habt.](https://www.borncity.com/blog/2024/10/16/microsoft-verliert-log-daten-von-sicherheitsprodukten-in-der-cloud/)
 * [LibreSSL wurde in der Version 4.0.0 veröffentlicht.](https://lwn.net/Articles/994320/)
 * [Sicherheitspaket? Eher >>Sie verstoßen gegen EU-Recht und die deutsche Verfassung und brechen die Versprechen des Koalitionsvertrages, gegen biometrische Massenüberwachung vorzugehen.<<](https://www.ccc.de/de/updates/2024/die-groesste-enttauschung-seit-beginn-der-ampel-regierung)
+* [Forgejo wurde in der Version 9.0 veröffentlicht.](https://forgejo.org/2024-10-release-v9-0/)
+* [Die TU Bergakademie Freiberg veranstaltet am 19.10.2024 (Samstag) ab 14 Uhr ein Schach-Herbstcup](https://www.tubaf.plus/post/19-10-2024-tubaf-schach-herbstcup)
