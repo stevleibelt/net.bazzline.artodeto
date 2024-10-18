@@ -30,3 +30,5 @@
 * [Auch so eine Sache, kann man nicht mal bei Nancy Faeser ansetzen und deren Ministerium dem "Lean State"-Programm unterwerfen?](https://netzpolitik.org/2024/statt-vorratsdatenspeicherung-wir-veroeffentlichen-den-gesetzentwurf-fuer-quick-freeze/) - Dafür könnte man ja bei den Schulen, Kitas, Feuerwehr, Polizei ...
 * [Lasst euch nicht verrückt machen, nirsevimab ist nicht der Knaller](https://impfentscheidung.online/nirsevimab-messbare-effekte-seit-dem-start-der-impfprogramme/) - Außer natürlich für die Pharmaunternehmen
 * [nextcloud server wurde in der Version 30.0.1 veröffentlicht.](https://github.com/nextcloud/server/releases/tag/v30.0.1)
+* [Die Software Puppet wird gerade von seiner eigenen Firma kaputt gemacht.](https://infosec.exchange/@isotopp/113310756647450391) - Kostenlose Community? Wer braucht die schon!
+* [Das flx1 von furilabs soll ein debian linux Mobiltelephone mit Android-unterstützung sein.](https://blog-d.luigi311.com/furilabs-flx1/)
