@@ -32,3 +32,9 @@
 * [nextcloud server wurde in der Version 30.0.1 veröffentlicht.](https://github.com/nextcloud/server/releases/tag/v30.0.1)
 * [Die Software Puppet wird gerade von seiner eigenen Firma kaputt gemacht.](https://infosec.exchange/@isotopp/113310756647450391) - Kostenlose Community? Wer braucht die schon!
 * [Das flx1 von furilabs soll ein debian linux Mobiltelephone mit Android-unterstützung sein.](https://blog-d.luigi311.com/furilabs-flx1/)
+* [Nein? Doch! Oh? Deepfakes werden primär von den Geheimdiensten genutzt.](https://blog.fefe.de/?ts=99ed7530)
+* [Ach Israel, ist euch wirklich nichts zu schade?](https://blog.fefe.de/?ts=99ec98bd)
+* [dacx5-ose wurde in der Version 4.4.3.1-ose veröffentlicht.](https://github.com/bitfireAT/davx5-ose/releases/tag/v4.4.3.1-ose)
+* [Das "Sicherheitspaket" wurde also beschlossen, Karlsruhe, bitte übernehmen Sie!](https://netzpolitik.org/2024/kw-42-die-woche-in-der-die-fortschrittskoalition-stirbt/)
+* [Hier findet ihr, wie ihr eure Wordpress-Blog-Einträge in reines Markdown verwandelt.](https://improveandrepeat.com/2024/10/python-friday-249-migrate-from-wordpress-to-markdown/)
+* [>>Dieses Gesetzespaket ist nicht nur ein Bruch der Vereinbarungen im Koalitionsvertrag und ein gefährliches Einknicken gegenüber dem aktuellen Rechtsdrall, sondern bedeutet auch einen massiven Vertrauensverlust für die Zivilgesellschaft<<](https://www.ccc.de/de/updates/2024/sicherheitspaket)
