@@ -15,3 +15,8 @@
 * [>>Wer maximale Sicherheit und regelmäßige Updates möchte, kommt an einem Google (Pixel) kaum vorbei.<<](https://www.kuketz-blog.de/sicherheit-worauf-du-beim-kauf-eines-neuen-android-smartphones-achten-solltest/) - Und ab da sollten wir als Gesellschaft uns fragen, ob einem diese monatlichen Kosten diesen Hauch von Bequemlichkeit das alles wirklich wert ist
 * [Dank dem BSI haben VaultWarden und Keepass weniger Sicherheitslücken.](https://www.borncity.com/blog/2024/10/21/bsi-prueft-findet-schwachstelle-in-passwort-manager-keepass-und-vaultwarden/)
 * [>>Gerade weil der kranke Mensch sich nicht auch noch um den Schutz seiner Daten kümmern kann, sind datenschutzrechtliche Regeln hier unverzichtbar, und weil es um höchst persönliche Daten geht, müssen diese Regeln streng sein<<](https://www.kuketz-blog.de/kommentar-die-elektronische-patientenakte-epa-datenschutz-und-medizinische-versorgung-im-spannungsfeld/)
+* [Wenn du selbst den Resten des Journalismus Schmiergelder zahlen musst, damit sie deine LLM's nutzen ...](https://blog.fefe.de/?ts=99e6784f)
+* [>>Alles Bekloppte, was die Amis machen, machen wir auch.<<](https://blog.fefe.de/?ts=99e964f0)
+* [Deswegen wird Google und Amazon immer schlechter: >>Die haben genau verstanden, was ich gesucht habe, und haben mir absichtlich Mist gezeigt, weil sie nur Geld verdienen, wenn du auf Werbung klickst.<<](https://blog.fefe.de/?ts=99e96284)
+* [hier wird euch gezeigt warum ihr Girsch im Garten wachsen lassen solltet und wie man Tee damit macht.](https://www.kostbarenatur.net/giersch-tee/)
+* [>>Ein Algorithmus entscheidet in Frankreich darüber mit, ob Familien vermeintlich zu viel Sozialhilfe erhalten.<<](https://netzpolitik.org/2024/social-scoring-klage-gegen-sozialhilfe-algorithmus-in-frankreich/)
