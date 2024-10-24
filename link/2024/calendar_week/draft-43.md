@@ -20,3 +20,12 @@
 * [Deswegen wird Google und Amazon immer schlechter: >>Die haben genau verstanden, was ich gesucht habe, und haben mir absichtlich Mist gezeigt, weil sie nur Geld verdienen, wenn du auf Werbung klickst.<<](https://blog.fefe.de/?ts=99e96284)
 * [hier wird euch gezeigt warum ihr Girsch im Garten wachsen lassen solltet und wie man Tee damit macht.](https://www.kostbarenatur.net/giersch-tee/)
 * [>>Ein Algorithmus entscheidet in Frankreich darüber mit, ob Familien vermeintlich zu viel Sozialhilfe erhalten.<<](https://netzpolitik.org/2024/social-scoring-klage-gegen-sozialhilfe-algorithmus-in-frankreich/)
+* [libsignal wurde in der Version 0.60.0 veröffentlicht.](https://github.com/signalapp/libsignal/releases/tag/v0.60.0)
+* [Nextcloud news wurde in der Version 25.0.0-alpha12 veröffentlicht.](https://github.com/nextcloud/news/releases/tag/25.0.0-alpha12) - Das ist ein tolles Projekt, aber es benötigt next.js-Entwickler. Falls ihr das also könnt, bitte helft ihm!
+* [Irland ist auch gemein, erst alle Firmen mit "Wir machen nichts" anfüttern und dann mit Sanktionen Gelder herausschlagen.](https://blog.fefe.de/?ts=99e786d5) - Gut, solange es dem Datenschutz hilft, drücke ich alle Hühneraugen zu ;-)
+* [Das bedrückt mich, nach dem Sport gibt es auch in der freien Software keinen Wunsch nach deeskalierender Völkerverständigung](https://blog.fefe.de/?ts=99e7f4c6)
+* [Fortinet baut und verkauft Firewalls ohne geschütztem Loginbereich](https://blog.fefe.de/?ts=99e7f1c3) - Ist das so ein Kommunengedanken den die da versuchen auszuleben?
+* [FDP will die Innenstädte frei für mehr leerstehende Bürogebäude machen.](https://blog.fefe.de/?ts=99e61903) - Die Wohnkosten sollen nicht mehr an die aktuelle Wohnsituation angepasst sondern pauschalisiert werden. Da nimmt man dann bestimmt die letzte Gemeinde in Brandenburg als Refernz. Furchtbar, so geht Sozialstaat definitiv nicht. Wie viele Milliarden man einsparen oder erzeugen könnte, wenn man mal Politik für die Bevölkerung machen würde.
+* [Der Tor Browser wurde in der Version 14.0 veröffentlicht.](https://lwn.net/Articles/995353/)
+* [Gentoo hat jetzt DTrace 2.0 am Start](https://www.phoronix.com/news/Gentoo-Linux-DTrace-2.0)
+* [>>Das Problem: die Nutzer:innen werden nie um ihre Einwilligung zum Tracking gebeten. Pinterest behauptet fälschlicherweise, ein „berechtigtes Interesse“ zu haben – und aktiviert das Tracking einfach standardmäßig.<<](https://noyb.eu/de/heres-idea-pinterest-ask-users-their-consent-tracking-them)
