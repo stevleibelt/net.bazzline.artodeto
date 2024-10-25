@@ -29,3 +29,11 @@
 * [Der Tor Browser wurde in der Version 14.0 veröffentlicht.](https://lwn.net/Articles/995353/)
 * [Gentoo hat jetzt DTrace 2.0 am Start](https://www.phoronix.com/news/Gentoo-Linux-DTrace-2.0)
 * [>>Das Problem: die Nutzer:innen werden nie um ihre Einwilligung zum Tracking gebeten. Pinterest behauptet fälschlicherweise, ein „berechtigtes Interesse“ zu haben – und aktiviert das Tracking einfach standardmäßig.<<](https://noyb.eu/de/heres-idea-pinterest-ask-users-their-consent-tracking-them)
+* [Ich hatte gerade etwas ähnliches, hier darf eine Kommune keine kostenfreie Jobbörse machen weil das den Profit vom freien Markt schmälert.](https://blog.fefe.de/?ts=99e545d1) - Als ob sich der freie Markt um die Kommune kümmert
+* [>>Der einzige Weg der Schadensbegrenzung ist, keine Daten zu haben, die wegkommen könnten.<<](https://blog.fefe.de/?ts=99e402eb)
+* [LibraChat wurde in der Version 0.7.5 veröffentlicht.](https://github.com/danny-avila/LibreChat/releases/tag/v0.7.5)
+* [Der private Journalismus empfindet den öffentlich-rechtlichen-Journalismus als marktverzerrende Maßnahme.](https://netzpolitik.org/2024/streit-um-ard-zdf-und-co-wir-muessen-ueber-journalismus-fuer-alle-reden/)
+* [>>Nicholas Banasevic war als Wettbewerbshüter für die EU-Kommission tätig, jetzt arbeitet er für Microsoft.<<](https://netzpolitik.org/2024/drehtuereffekt-bei-eu-kommission-lobby-waechter-kritisieren-beamtenwechsel-zu-microsoft/)
+* [Prüfbericht der ePA: >>Es werden mehr als ein Dutzend Schwachstellen, davon vier mit hohem Risiko, und sechs mit mittlerem Risiko benannt.<<](https://www.borncity.com/blog/2024/10/25/sicherheitsgutachten-zur-elektronischen-patientenakte-epa/) - Die Technik ist schon jetzt kaputt und dabei läuft der Bums noch nicht einmal
+* [Bitwarden Desktop scheint ab Version 2024.10.0 keine freie Software mehr zu sein](https://github.com/bitwarden/clients/issues/11611)
+* [Syncthing für Android wird eingestellt](https://forum.syncthing.net/t/discontinuing-syncthing-android/23002) - Weil wegen google, danke Alphabet
