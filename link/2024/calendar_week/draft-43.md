@@ -37,3 +37,6 @@
 * [Prüfbericht der ePA: >>Es werden mehr als ein Dutzend Schwachstellen, davon vier mit hohem Risiko, und sechs mit mittlerem Risiko benannt.<<](https://www.borncity.com/blog/2024/10/25/sicherheitsgutachten-zur-elektronischen-patientenakte-epa/) - Die Technik ist schon jetzt kaputt und dabei läuft der Bums noch nicht einmal
 * [Bitwarden Desktop scheint ab Version 2024.10.0 keine freie Software mehr zu sein](https://github.com/bitwarden/clients/issues/11611)
 * [Syncthing für Android wird eingestellt](https://forum.syncthing.net/t/discontinuing-syncthing-android/23002) - Weil wegen google, danke Alphabet
+* [Israel macht jetzt offiziell Vorwärtsverteidigung gegenüber Iran.](https://blog.fefe.de/?ts=99e2fd24)
+* [Dramatiq wurde in der Version 1.17.1 veröffentlicht.](https://github.com/Bogdanp/dramatiq/releases/tag/v1.17.1)
+* [Gut zu sehen, dass ich nicht alleine mit meiner Meinung bin, dass freie Software sich nicht dem US-Imperialismus beugen sollte.](https://laforge.gnumonks.org/blog/20241025-linux-maintainers-russian/)
