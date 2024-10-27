@@ -40,3 +40,5 @@
 * [Israel macht jetzt offiziell Vorwärtsverteidigung gegenüber Iran.](https://blog.fefe.de/?ts=99e2fd24)
 * [Dramatiq wurde in der Version 1.17.1 veröffentlicht.](https://github.com/Bogdanp/dramatiq/releases/tag/v1.17.1)
 * [Gut zu sehen, dass ich nicht alleine mit meiner Meinung bin, dass freie Software sich nicht dem US-Imperialismus beugen sollte.](https://laforge.gnumonks.org/blog/20241025-linux-maintainers-russian/)
+* [Die NSA empfiehlt das Schmierphone einmal pro Woche neu zu starten.](https://www.borncity.com/blog/2024/10/27/die-nsa-empfiehlt-woechentliches-smartphone-reboot/) - Bei der NSA ist dabei immer zu bedenken, ob es Pläne hinter den Plänen gibt. Etwaig nützt es denen zum Datenabgleich wenn alle einmal in der Woche neu zu starten, wer weiß schon welche Backdoors beim Neustart ausgelöst werden.
+* [pythononfriday hat einfach mal unglaublich viele Links über Python veröffentlicht.](https://pythonfriday.dev/2024/10/250/)
