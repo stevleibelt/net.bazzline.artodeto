@@ -17,3 +17,10 @@
 * [Schaut mal wer an der Idee "Grenzen von Europa sichern" am meisten Profit heraus holt.](https://netzpolitik.org/2024/festung-europa-die-profiteure-der-technischen-migrationsabwehr/) - Passenderweise sitzen die in Berlin, denn wenn sich jemand mit Mauern auskennt ...
 * [Cool, Sachsen hat ein Panoramaschinenbus "Alma".](https://www.mdr.de/video/mdr-videos/b/video-870854.html) - [Hier](https://schienenbusreisen.de/) findet ihr Informationen
 * [Apropos Festung Europa und Geld verdienen, Kindergärten und Schulen können wir wegen der schwarzen Null von Blackrock nicht sanieren, aber für die Bundeswehr wird es diese Woche schon noch ein paar Sondervermögen geben.](https://tuxproject.de/blog/2024/10/abschliessende-anmerkung-zu-den-diesjaehrigen-us-wahlen/) - Sondervermögen, ihr wisst schon, illegale Kredite
+* [>>Code Review ist viel aufwändiger als Code zu schreiben. Beim Schreiben des Codes hast du ein mentales Modell, was zu tun ist. Beim Reviewen musst du das erst reverse engineeren.<<](https://blog.fefe.de/?ts=99df388a)
+* ["Land of the free", dort scheint "Über die Straße gehen" illegal zu sein.](https://blog.fefe.de/?ts=99df317b) - Mich wundert, dass VM das in Deutschland noch nicht durchgedrückt hat. Die stört es doch bestimmt auch, dass es Bürgersteige und Fahrräder gibt
+* [Da weiß man was der Designer so denkt "Rechner? Mach ich nie aus!"](https://blog.fefe.de/?ts=99df4e27)
+* [Ihr habt Sorge vor latenter Gewalt von Beamten in Gefängnissen? Dann lasst euch nicht in Bayern veraften!](https://blog.fefe.de/?ts=99dfcfc3)
+* [Offenes Regierungshandeln? Nicht bei Nancy ALLESINDVERDÄCHTIG Faeser!](https://blog.fefe.de/?ts=99de32cf) - Wo kämen wir denn hin, wenn ihre Arbeit überwacht werden würde?
+* [TrueNAS Scale wurde in der Version 24.10.0 veröffentlicht.](https://github.com/truenas/documentation/tree/TS24.10.0)
+* [Der gute Kuketz hat einmal die Anwendungen für digitale Bildung unter die Lupe genommen.](https://www.kuketz-blog.de/die-digitale-bildung-unter-der-lupe-eine-analyse-von-schul-und-lern-apps/) - Schön zu sehen, dass es noch Anwendungen ohne Tracking gibt
