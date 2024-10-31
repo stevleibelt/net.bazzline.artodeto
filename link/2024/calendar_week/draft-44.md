@@ -24,3 +24,9 @@
 * [Offenes Regierungshandeln? Nicht bei Nancy ALLESINDVERDÄCHTIG Faeser!](https://blog.fefe.de/?ts=99de32cf) - Wo kämen wir denn hin, wenn ihre Arbeit überwacht werden würde?
 * [TrueNAS Scale wurde in der Version 24.10.0 veröffentlicht.](https://github.com/truenas/documentation/tree/TS24.10.0)
 * [Der gute Kuketz hat einmal die Anwendungen für digitale Bildung unter die Lupe genommen.](https://www.kuketz-blog.de/die-digitale-bildung-unter-der-lupe-eine-analyse-von-schul-und-lern-apps/) - Schön zu sehen, dass es noch Anwendungen ohne Tracking gibt
+* [Sophos gibt zu, dass Antivirensoftware nur alles schlimmer machen.](https://blog.fefe.de/?ts=99dd7f05)
+* [Klassiker, die eigene IT verkackt wegen hartem Sparkurs zum Wohle der Aktionäre. Denn bei Problemen kann man immer alles auf den Hacker schieben, nur original wenn aus Russland!](https://blog.fefe.de/?ts=99dd4b57)
+* [Schöner Sozialstaat den es nicht gibt, das BAföG-Amt stellt einmal klar, dass es laut Grundgesetz kein Grundrecht auf höhere Bildung gibt.](https://blog.fefe.de/?ts=99ddb566)
+* [Falls ihr WordPress und dazu das Plugin LiteSpeed Cache nutzt, solltet ihr dringend aktualisieren.](https://www.bleepingcomputer.com/news/security/litespeed-cache-wordpress-plugin-bug-lets-hackers-get-admin-access/)
+* [Shotcut wurde in der Version 24.10 veröffentlicht.](https://www.phoronix.com/news/Shotcut-24.10-Released)
+* [redis exporter wurde in der Version 1.66.0 veröffentlicht.](https://github.com/oliver006/redis_exporter/releases/tag/v1.66.0)
