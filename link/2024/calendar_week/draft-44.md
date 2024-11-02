@@ -30,3 +30,15 @@
 * [Falls ihr WordPress und dazu das Plugin LiteSpeed Cache nutzt, solltet ihr dringend aktualisieren.](https://www.bleepingcomputer.com/news/security/litespeed-cache-wordpress-plugin-bug-lets-hackers-get-admin-access/)
 * [Shotcut wurde in der Version 24.10 veröffentlicht.](https://www.phoronix.com/news/Shotcut-24.10-Released)
 * [redis exporter wurde in der Version 1.66.0 veröffentlicht.](https://github.com/oliver006/redis_exporter/releases/tag/v1.66.0)
+* [Durch Frankreich kann man bald auch nicht mehr fahren, LLM/"KI" entscheidet ob ihr nicht noch weitere Straftaten begangen habt.](https://blog.fefe.de/?ts=99da6856)
+* [Das Tor-Netzwerk wird jetzt über die Infrastruktur angegriffen.](https://blog.fefe.de/?ts=99da6776) - Denn ihr wisst ja, Zensur ist ***eiße
+* [Nein? Doch! Oh? Wie in der IT, sobald man anschaut Zahlen zu erfassen, fällt man erst einmal vom Hocker und ist schockiert.](https://blog.fefe.de/?ts=99da65bb) - Am Ende muss man die ersten Monate der ersfassten Zahlen als Basis nehmen und völlig wertungsfrei sein
+* [Kanidm wurde in der Version 1.4.0 veröffentlicht.](https://github.com/kanidm/kanidm/releases/tag/v1.4.0)
+* [NixOS räumt mit dem Vorurteil auf, dass es reproducible Builds garantiert.](https://linderud.dev/blog/nixos-is-not-reproducible/)
+* [`crypt` und `pam_unix` müssen nicht zwingend die gleichen Hashalgorithmen unterstützen.](https://utcc.utoronto.ca/~cks/space/blog/linux/PamUnixAndSupportedAlgorithms)
+* [Synology ist kaputt](https://blog.fefe.de/?ts=99d884a0)
+* [Falls ihr wissen wollt warum kein Geld mehr für Open Source Förderung im Bundeshaushalt ist, schaut mal hier.](https://blog.fefe.de/?ts=99dbb621) - Am Ende erscheint es unklar zu sein wie viel Geld die Bundesregierung in LLM und Blockchain verbrennt ohne etwas davon zu haben
+* [Okta ist auch wieder kaputt](https://blog.fefe.de/?ts=99dbb6f2) - USA! USA! USA!
+* [Jetzt wird sogar endlich vor Cloud-Projekten gewarnt.](https://blog.fefe.de/?ts=99dbf432) - Passend dazu auch, [Cloud Projekte sind eine Kostenbombe](https://blog.fefe.de/?ts=99da30c1) - Deswegen ist auch der Flughafen in Berlin so teuer geworden, der hat ja auch was mit Wolken zu tun *bwahaha*
+* [Realitätsabgleich Kernkraft ist in seiner Summe günstig - Die bisherigen Lager für Atommühl in England ist ein endloses Loch für Steuergelder](https://blog.fefe.de/?ts=99da0ed4)
+* [In den Niederlanden wurden KI-Radarfallen schon einmal probiert, Kopfkratzen kostet 380 Euro.](https://blog.fefe.de/?ts=99da0694)
