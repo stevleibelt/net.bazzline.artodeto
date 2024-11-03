@@ -42,3 +42,7 @@
 * [Jetzt wird sogar endlich vor Cloud-Projekten gewarnt.](https://blog.fefe.de/?ts=99dbf432) - Passend dazu auch, [Cloud Projekte sind eine Kostenbombe](https://blog.fefe.de/?ts=99da30c1) - Deswegen ist auch der Flughafen in Berlin so teuer geworden, der hat ja auch was mit Wolken zu tun *bwahaha*
 * [Realitätsabgleich Kernkraft ist in seiner Summe günstig - Die bisherigen Lager für Atommühl in England ist ein endloses Loch für Steuergelder](https://blog.fefe.de/?ts=99da0ed4)
 * [In den Niederlanden wurden KI-Radarfallen schon einmal probiert, Kopfkratzen kostet 380 Euro.](https://blog.fefe.de/?ts=99da0694)
+* [LocalSend wurdein der Version 1.16.0 veröffentlicht.](https://github.com/localsend/localsend/releases/tag/v1.16.0)
+* [>>Weil es für die Vielfalt der Softwareprogramme jedoch keine Standards gibt, werden die Datenhalden bei der Gematik aller Voraussicht nach erst einmal sehr unübersichtlich sein. Die Hoffnung liegt an dieser Stelle wohl darauf, dass Künstliche Intelligenz dabei helfen wird, den Datenwust zu durchdringen.<<](https://www.borncity.com/blog/2024/11/03/verdi-informiert-ueber-die-elektronische-patientenakte/)
+* [Siemens patcht einmal die hintere Zughälfte kaputt und nennt es >>entstandene Unannehmlichkeit<<](https://blog.fefe.de/?ts=99d961fe) - Getestet wird beim Kunden!
+* [Wie es mir auf den Geist geht, Lindner macht ein Jahr im Voraus Wahlkampf und biedert sich hart bei der CDU an.](https://blog.fefe.de/?ts=99d9846c)
