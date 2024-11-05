@@ -1,3 +1,12 @@
 * [Okta erleichtert den Passwortklau auf Windows Geräten welche mit MFA geschützt sind.](https://blog.fefe.de/?ts=99d66c74)
 * [Der TUBAF Schach Herbstcup 2024 ist beendet.](https://www.tubaf.plus/post/das-war-der-erste-tubaf-schach-herbstcup-2024)
 * [PostmarkOS hat aktuelles zu den anstehenden Anpassungen im Oktober geschrieben.](https://postmarketos.org/blog/2024/11/04/pmOS-update-2024-10/)
+* [Ihr findet eine offene Datenbank mit Daten die ihr nicht sehen dürft? Ihr lebt in Deutschland? Bei zweimal Ja gibt es seit dem LG Aachen nur eine Antwort: SCHAUT WEG UND GEHT WEITER!](https://blog.fefe.de/?ts=99d611bd)
+* [Renovate wurde in der Version 39.0.0 veröffentlicht.](https://blog.fefe.de/?ts=99d611bd)
+* [Was haben Zwiebel, echter Thymian und großblütige Königskerze gemeinsam? Sie lösen den Schleim!](https://www.kostbarenatur.net/schleimloesende-hausmittel/)
+* [CDU und FDP bestehen auf ihrer schwarzen Null. CDU findet Zwangskürzungen am ÖPNV wegen der schwarzen Null als falsches Signal.](https://blog.fefe.de/?ts=99d62358) - Bei mir kommen noch weitere falsche Signale an, fehlende Sanierung von Infrastruktur, Abschaffung des letzten Restes des Sozialstaates, fehlende Erbschaftssteuer etc.
+* [>>An der Korruption von Politik und Justiz ist die Automobilindustrie schuld.<<](https://blog.fefe.de/?ts=99d61f26)
+* [uv wurde in der Version 0.4.30 veröffentlicht und unterstützt jetzt `.env`-Dateien](https://github.com/astral-sh/uv/releases/tag/0.4.30)
+* [label-studio wurde in der Version 1.14.0 veröffentlicht.](https://github.com/HumanSignal/label-studio/releases/tag/1.14.0)
+* [Smart-Cities resilient gegen Cyberattacken machen?](https://www.borncity.com/blog/2024/11/05/smart-cities-gegen-cyberattacken-resilient-machen/) - Die Leute die solche Aussagen tätigen wollen euch im Regelfall anstandslose Massenüberwachung verkaufen. IT kriegt man sicher, aber nicht durch mehr Überwachung sondern durch simple Systeme in einfachen sowie gesonderten Netzen.
+* [>>Vor dem Ukraine-Krieg seien zehn Kinder aus dem Land in Freiberg gewesen, jetzt seien es 371. "Das sind umgerechnet zwei Kitas, zwei Grundschulen und eine weiterführende Schule, in die wir investieren müssten."<<](https://www.mdr.de/nachrichten/sachsen/chemnitz/freiberg/treffen-buergermeister-mittelsachsen-migration-100.html) - Das sind angenehme Vergleiche um zu zeigen warum die vom Bund arm gehaltenen Kommunen und Gemeinden dringend finanzielle Hilfe mit Perspektive benötigen. Den die Sozialisierung und die richtige Arbeit der Einbürgerung wird eben Vorort und nicht in Berlin gemacht.
