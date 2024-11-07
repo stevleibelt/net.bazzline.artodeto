@@ -15,3 +15,11 @@
 * [Librenms wurde in der Version 24.10.0 veröffentlicht.](https://github.com/librenms/librenms/releases/tag/24.10.0)
 * [Hirnfick zeigt wunderbar wie die private Bundesdruckerei Gesetze geschrieben hat.](https://tuxproject.de/blog/2024/11/liegengebliebenes-vom-5-november-2024/)
 * [Was macht Deutschland mit seiner kritischen Infrastruktur? Dem transatlantischem Unterdrücker natürlich.](https://www.borncity.com/blog/2024/11/05/us-finanzinvestor-will-klinik-software-spezialist-nexus-ag-uebernehmen/) - Dieses mal geht es erneut um die Patientendaten
+* [>>Wenn keiner "Copilot Pro" kaufen will, dann packen wir das halt in das MS 362-Abo rein und machen das entsprechend teurer<<](https://blog.fefe.de/?ts=99d27d7a)
+* [Bioforschungslabore, eine dieser atomaren Endlager die uns mal richtig in den Arsch ficken werden.](https://blog.fefe.de/?ts=99d274cb) - Wie gut das klappt können wir aktuell in South Carolina beobachten
+* [Microsoft patched ungefragt Windows Server 2022 auf Windows Server 2025](https://blog.fefe.de/?ts=99d2711c)
+* [Scholz neuer Finanzminister kommt direkt aus der Hölle](https://blog.fefe.de/?ts=99d24f3e) - Goldman Sachs-Wixer
+* [Tönnies nennt sich um in Premium Food Group](https://blog.fefe.de/?ts=99d5a613)
+* [mithril.js wurde in der Version 2.2.10 veröffentlicht.](https://github.com/MithrilJS/mithril.js/releases/tag/v2.2.10)
+* [Nextcloud server wurde in der Version 30.0.2 veröffentlicht.](https://github.com/nextcloud/server/releases/tag/v30.0.2)
+* [>>Mit seinem heute veröffentlichten Beschluss hat das Bundesverfassungsgericht die Befugnisse zur BND-Überwachung bestimmter internationaler Kommunikation teilweise für verfassungswidrig erklärt.<<](https://netzpolitik.org/2024/verfassungswidrig-bnd-muss-kommunikations-ueberwachung-einschraenken/)
