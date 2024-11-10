@@ -37,3 +37,4 @@
 * [>>Mangels digitaler Souveränität sei es bislang notwendig, Daten in die USA zu übermitteln.<<](https://www.borncity.com/blog/2024/11/09/eingelockt-deutschlands-fatale-digitale-abhaengigkeit-raecht-sich/) - Danke CDU für 20 Jahre gesteigerte Abhängigkeit
 * [Nein? Doch! Oh? "Social Media" ist gar nicht sozial sondern vom Journalismus und von Regeln entkoppelte, harte Meinungsmache](https://netzpolitik.org/2024/lehren-aus-dem-us-wahlkampf-soziale-medien-gehoeren-nicht-in-die-hand-von-milliardaeren-und-konzernen/)
 * [Netter Name für eine jQuery-Alternative ... Cash!](https://github.com/fabiospampinato/cash)
+* [Land of the free - außer du bist Kommunist.](https://tuxproject.de/blog/2024/11/ein-gespenst-geht-um-in-texas/)
