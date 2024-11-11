@@ -1,0 +1,5 @@
+* [Liegt es an Sachsen, dass die CDU gern die Bundestagswahl im Februar haben möchte?](https://blog.fefe.de/?ts=99cf85b7)
+* [Was macht Sophos? >>Sie haben selbst Spionage-Software entwickelt und die gezielt auf Systemen von Kunden platziert, um diese auszuforschen.<<](https://blog.fefe.de/?ts=99ce1acd)
+* [>>Automatisierung zerstört Karrieren, und zwar nachhaltig.<<](https://blog.fefe.de/?ts=99d12e9c)
+* [phpstan wurde in der Version 2.0 veröffentlicht.](https://github.com/phpstan/phpstan/releases/tag/2.0.0)
+* [Hier wird euch, auf westlicher Weise, der Pitta-Typ näher gebracht.](https://www.zauber-kraut.de/ayurveda-typen-pitta-typ) - Der Text hilft auch gegen das mediale "Schwarz-Weiß"-Denken anzugehen :-)
