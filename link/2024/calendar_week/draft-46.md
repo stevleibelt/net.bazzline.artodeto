@@ -9,3 +9,13 @@
 * [>>Entgegen anderslautender Beteuerungen misst Broadcom den mittel­ständischen Firmen offensichtlich keine große Bedeutung mehr zu.<<](https://www.windowspro.de/wolfgang-sommergut/broadcom-positioniert-vmware-gegen-public-clouds-kuendigt-advanced-services-fuer) - Genau dieses Beispiel sollten sich der Bund und die Länder immer vor Augen führen, wenn sie weiter an Microsoft, Oracle und SAP glauben
 * [>>Ein Entwickler hat eine Seite mit umfassenden IT-Sicherheitstipps veröffentlicht. Das Besondere daran: Die persönliche Reise zum Datenschutz ist in ein Spiel eingebettet.<<](https://netzpolitik.org/2024/smartphone-dont-spy-spielerischer-datenschutz/)
 * [Halliburton hat 35 Millionen USD durch einen Ransomware-Angriff verloren.](https://www.bleepingcomputer.com/news/security/halliburton-reports-35-million-loss-after-ransomware-attack/) - Wird die IT-Sicherheit deswegen bei Halliburton erhöht? Nein. Wird überlegt weniger Vernetzung und damit einen geringeren Angriffsvektor umzusetzen? Nein. Wird der Verlust auf die Preise und damit die Endkunden umgelegt? Ja!
+* [Icinga ist kaputt](https://blog.fefe.de/?ts=99caa11b)
+* [Ich hoffe sehr, dass das stimmt, aber scheinbar kriegen wir in Deutschland eine Produkthaftung für Software](https://blog.fefe.de/?ts=99cd9f98)
+* [Der Vorreiter des freien Marktes hat seine Bildung so kaputt gemacht, dass selbst Erwachsene ihren Kindern keine Kinderbücher mehr vorlesen können.](https://blog.fefe.de/?ts=99cde53d) - Ja, ja, Lesenkönnen ist jetzt wieder ein Reicheleutesport!
+* [Oh nein, reiche Leute wurden nicht vom Solidaritätszuschlag befreit. Wie kann das sein? Das fragt sich die FDP auch und will das abschaffen.](https://blog.fefe.de/?ts=99cde5fc) - FDP und abschaffen? Da fällt mir ein anderer Satz zu ein :-)
+* [Cemu wurde in der Version 2.4 veröffentlicht.](https://github.com/cemu-project/Cemu/releases/tag/v2.4)
+* [listmonk wurde in der Version 4.1.0 veröffentlicht.](https://github.com/knadh/listmonk/releases/tag/v4.1.0)
+* [Auf freecodecamp.org werdet ihr noch einmal richtig knackig in go eingeführt.](https://www.freecodecamp.org/news/key-golang-concepts-for-beginner-go-devs/)
+* [WordPress wurde in der Version 6.7 veröffentlicht.](https://wordpress.org/news/2024/11/rollins/)
+* [Wo wir bei Produkthaftung sind, D-Link würde das nicht gefallen. Die lassen lieber bestehende Hardware wegschmeißen weil sie keine Lust haben die Software zu reparieren.](https://www.bleepingcomputer.com/news/security/d-link-wont-fix-critical-bug-in-60-000-exposed-eol-modems/)
+* [Am 26.01.2025 wird im Landkreis Mittelsachsen ein neuer Landrat gewählt](https://www.freie-waehler-mittelsachsen.de/index.php/52-neues-design-4)
