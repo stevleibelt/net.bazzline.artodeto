@@ -19,3 +19,11 @@
 * [WordPress wurde in der Version 6.7 veröffentlicht.](https://wordpress.org/news/2024/11/rollins/)
 * [Wo wir bei Produkthaftung sind, D-Link würde das nicht gefallen. Die lassen lieber bestehende Hardware wegschmeißen weil sie keine Lust haben die Software zu reparieren.](https://www.bleepingcomputer.com/news/security/d-link-wont-fix-critical-bug-in-60-000-exposed-eol-modems/)
 * [Am 26.01.2025 wird im Landkreis Mittelsachsen ein neuer Landrat gewählt](https://www.freie-waehler-mittelsachsen.de/index.php/52-neues-design-4)
+* [Interessant, am Beispiel der Stahlproduzenten wird aufgezeigt, dass auch "nicht ganz so profitable Bereiche", die aber immer noch Gewinn machen, wichtig für das Unternehmen sind.](https://blog.fefe.de/?ts=99cb8483) - Ein FDP-Wähler und BWL-versteher hat Probleme dies zu aktzeptieren
+* [Haha, die CISA lobt sich selbst über ihr "Secure by Design"-Zertifikat und nennt Amazon, Microsoft, Okta, Sophos etc. als erfolgreiche Beispiele.](https://blog.fefe.de/?ts=99cbe20c) - Es ist schade, dass Cisco dort fehlt :-D
+* [Das Deutsche Forschungsnetz hat keine CA mehr, weil Sectigo glaubt, da könnte etwas nicht stimmen.](https://blog.fefe.de/?ts=99cbde9a) - Das ist die Sicherheit im nicht kommerziellen Sektor überall aktuell, man ist Abhängig von Jemanden der einfach alles beenden kann, weil er beim Stuhlgang so ein unschönes gefühl gespührt hat
+* [Die Itsmydata GmbH nimmt das mit dem My nicht so ernst.](https://www.borncity.com/blog/2024/11/13/itsmydata-wittmann-ruft-bonitaeten-von-schufa-co-ab/) - Ich würde die Bude direkt in den Boden verklagen
+* [Am 19.12.2024 um 18:30 in Aue und am 21.12.2024 um 15:30 in Oberschlema findet das Kirchenkonzert Weihnachten des Bermannsblasorchester Aue-Bad Schlema e.V. statt](https://knappenverein.de/weihnachtskonzerte-des-bergmannsblasorchesters-aue-bad-schlema/)
+* [Skopeo wurde in der Version 1.17.0 veröffentlicht.](https://github.com/containers/skopeo/releases/tag/v1.17.0)
+* [magic-di wurde in der Version 0.3.0 veröffentlicht.](https://github.com/woltapp/magic-di/releases/tag/0.3.0)
+* [FrankenPHP wurde in der Version 1.3 veröffentlicht.](https://github.com/dunglas/frankenphp/releases/tag/v1.3.0)
