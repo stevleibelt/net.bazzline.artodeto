@@ -37,3 +37,11 @@
 * [Nachdem LLM's jede Möglichkeit Ausnutzen um die Internetsuche mit Werbemüll zu verschmieren, haben die LLM-Betreiber nun ein Problem.](https://blog.fefe.de/?ts=99cb1ddd) - Sie selbst finden keine Inhalte mehr im Internet mit denen sie die neuen LLM's trainieren können
 * [Faststream wurde in der Version 0.5.30 veröffentlicht.](https://github.com/airtai/faststream/releases/tag/0.5.30)
 * [Hackfressenbuch darf 800 Millionen Euro Strafe zahlen.](https://www.borncity.com/blog/2024/11/15/facebook-eu-verhaengt-79772-millionen-euro-geldbusse/)
+* [wireup wurde in der Version 0.13.0 veröffentlicht.](https://github.com/maldoinc/wireup/releases/tag/v0.13.0)
+* [Fluent Bit wurde in der Version 3.2.0 veröffentlicht.](https://github.com/fluent/fluent-bit/releases/tag/v3.2.0)
+* [Tribler wurde in der Version 8.0.4 veröffentlicht.](https://github.com/Tribler/tribler/releases/tag/v8.0.4)
+* [ruff wurde in der Version 0.7.4 veröffentlicht.](https://github.com/astral-sh/ruff/releases/tag/0.7.4)
+* [forgejo wurde in der Version 9.0.2 veröffentlicht.](https://codeberg.org/forgejo/forgejo/releases/tag/v9.0.2)
+* [Tja! Meyer Burger macht keine Forschung und wundert sich jetzt, warum niemand ihre überteuerten Module haben möchte.](https://www.mdr.de/nachrichten/sachsen/chemnitz/freiberg/wirtschaft-kunde-auftrag-meyer-burger-solar-anlagen-100.html)
+* [Für Lau arbeiten? Das können sich nur reiche Leute leisten.](https://blog.fefe.de/?ts=99c64881) - Und für welchen Personenkreis werden Diese wohl Gesetze machen?
+* [>>[...] Merz für Vergewaltigungen in der Ehe und ganz frisch: CDU-Mann stellt Frauenwahlrecht infrage.<<](https://blog.fefe.de/?ts=99c645ca)
