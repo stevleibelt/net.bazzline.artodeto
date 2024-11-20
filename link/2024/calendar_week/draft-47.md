@@ -12,3 +12,16 @@
 * [Warum auch immer diese Datenbank im Internet hängt ... wenn ihr bei Maxar angestellt seid, weiß die Welt nun wo ihr wohnt und wer ihr im Detail seid.](https://www.bleepingcomputer.com/news/security/us-space-tech-giant-maxar-discloses-employee-data-breach/)
 * [Für nicht deutsche Firmen scheint es zu funktionieren, Hackfressenbuch wurde vom Bundesgerichtshof zum Leisten von Schadensersatz verdonnert.](https://www.borncity.com/blog/2024/11/18/bgh-entscheidung-schadensersatz-fuer-betroffene-nach-facebook-datenabfluss/)
 * [Apropos Urteile, der EuGH verurteilt Deutschland wie es mit seiner Verpflichtung zum Naturschutz so umgeht.](https://sachsen.nabu.de/news/2024/35648.html) - Wie auch in anderen Bereichen, haben die letzten 18 Jahre politischer Stillstand hier für tiefe Wunden im Volkseigentum Natur gesorgt
+* [nextcloud news wurde in der Version 25.0.0 veröffentlicht.](https://github.com/nextcloud/news/releases/tag/25.0.0)
+* [Israel kommt auf den Geschmack und schlachtet jetzt auch das Volk in Libanon fröhlich ab](https://blog.fefe.de/?ts=99c24f01) - Der Ami erlaubt es, dann muss es richtig sein!
+* [Streumunition ist unethisch, wird aber trotzdem im Ukrainekrieg genutzt.](https://blog.fefe.de/?ts=99c24e79)
+* [Unter Freunden tut man das doch nicht, oder? ODER? Naja, digitale Souveränität würde bei der Hardware anfangen, deswegen kauft Europa auch lieber bei den USA als bei Europa selbst.](https://blog.fefe.de/?ts=99c249ec)
+* [>>Dass diese FDP-betriebene Abmahnfirma auch noch neben CDU-Hasszerrbild Habeck auch noch Julia Klöckner (CDU!!!) zu ihren Kunden zählt, rundet das Schreckenslagebild ab.<<](https://blog.fefe.de/?ts=99c2ba60)
+* [>>Seit Politiker damit durchkommen, das Geheimhaltungsinteresse von Großkonzernen über das Informationsrecht der von ihnen vertretenen Bürger zu stellen, naja, Sie wissen schon: machen die das nun mal so<<](https://martinsonneborn.de/1000-jahre-knast/)
+* [ARD und ZDF leben in einer Parallelwelt und klagen deswegen die erhöhte Zwangsabgabe ein.](https://tuxproject.de/blog/2024/11/18-94-euro/) - Beim ÖR sind die Gehälter höher als wenn man Ministerpräsident eines Bundeslandes ist, ABER DARAN KANN ES NICHT LIEGEN!
+* [Kommt dem Weihnachtsmann zuvor, spenden jetzt an netzpolitik.org](https://netzpolitik.org/2024/gegen-die-autoritaere-wende-grundrechte-zuerst/)
+* [Socken stopfen? Onli zeigt dir wie es geht!](https://www.onli-blogging.de/2455/Socken-stopfen.html)
+* [Südwestfalen-IT? Leider ein trauriges Beispiel wie Firmen für kritische Infrastruktur genutzt werden um Politikern und deren Familien ein Zweitgehalt zu ermöglichen.](https://blog.fefe.de/?ts=99c3e9a1) - Korruption also. Würde man, in dem Fall, die IT-ler machen lassen was sie sollen und ab und an auf die Kosten und Nutzen schauen, wäre dieser Teil der Infrastruktur tip top
+* [Hier wird euch gezeigt, wie man mit Feature-Flags Anwendungen baut.](https://www.freecodecamp.org/news/build-a-flexible-api-with-feature-flags-using-open-source-tools/)
+* [FreeCAD wurde in der Version 1.0 veröffentlicht.](https://lwn.net/Articles/998807/)
+* [FLTK wurde in der Version 1.4.0 veröffentlicht.](https://www.fltk.org/articles.php?L1955) - Eins der letzten Toolkits wo Scrollbars noch Scrollbars sind
