@@ -25,3 +25,12 @@
 * [Hier wird euch gezeigt, wie man mit Feature-Flags Anwendungen baut.](https://www.freecodecamp.org/news/build-a-flexible-api-with-feature-flags-using-open-source-tools/)
 * [FreeCAD wurde in der Version 1.0 veröffentlicht.](https://lwn.net/Articles/998807/)
 * [FLTK wurde in der Version 1.4.0 veröffentlicht.](https://www.fltk.org/articles.php?L1955) - Eins der letzten Toolkits wo Scrollbars noch Scrollbars sind
+* [Was braucht ein Land nach über 1000 Tagen Krieg? Essen? Nein, Anti-Personen-Minen!](https://blog.fefe.de/?ts=99c0d496)
+* [Danke CIA! Die haben nämlich herausgefunden, dass ein Atomkrieg schlecht für die Wirtschaft der USA ist.](https://blog.fefe.de/?ts=99c320e7)
+* [>>Um die Lücke zu missbrauchen, benötigten Angreifer physischen oder Fernzugriff auf eine verwundbare Maschine, schränkt Trend Micro ein.<<](https://blog.fefe.de/?ts=99c310aa) - Ist also sicher vor schrödingers Katze, oder?
+* [Runde 1. Kapitalisten suchen noch so jedes kleine Schlupfloch um ihre Moral zu verbiegen. Runde 2. Kapitalisten lassen LLM's die Compliance-Anforderungen bearbeiten, die sie selbst verursacht haben.](https://blog.fefe.de/?ts=99c30c1c) - Würden die Geschäftsführer mal mit haftbar gemacht werden und würde man mal wieder Schiedsgerichte einführen, bräuchten die keine energie- und wirtschaftskraftraubende LLM's
+* [deno wurde in der Version 2.1.0 veröffentlicht.](https://github.com/denoland/deno/releases/tag/v2.1.0)
+* [librenms wurde in der Version 24.11.0 veröffentlicht.](https://github.com/librenms/librenms/releases/tag/24.11.0)
+* [Microsoft bietet eine Bing-Wallpaper "App" an und schiebt euch damit noch mal mehr Werbung unter das System.](https://www.borncity.com/blog/2024/11/21/windows-microsofts-bing-wallpaper-als-adware/)
+* [Die Finanzierung von Frauenhäuser vom Bund unterstützen? Nicht so mit der CDU!](https://netzpolitik.org/2024/gewalthilfegesetz-aus-vor-der-ziellinie/)
+* [Der CCC fordert den europäischen Verbot von Tracking und entsprechend gestützter Werbung](https://www.ccc.de/de/updates/2024/tracking-verbot)
