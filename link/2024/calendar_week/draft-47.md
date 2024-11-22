@@ -34,3 +34,11 @@
 * [Microsoft bietet eine Bing-Wallpaper "App" an und schiebt euch damit noch mal mehr Werbung unter das System.](https://www.borncity.com/blog/2024/11/21/windows-microsofts-bing-wallpaper-als-adware/)
 * [Die Finanzierung von Frauenhäuser vom Bund unterstützen? Nicht so mit der CDU!](https://netzpolitik.org/2024/gewalthilfegesetz-aus-vor-der-ziellinie/)
 * [Der CCC fordert den europäischen Verbot von Tracking und entsprechend gestützter Werbung](https://www.ccc.de/de/updates/2024/tracking-verbot)
+* [Endlich, der internatioale Strafgerichtshof sieht Netanjahu als das an was er sein möchte, einen Massenmörder](https://blog.fefe.de/?ts=99c19b6c)
+* [Sehr schön, Biohacking scheint zu funktionieren](https://blog.fefe.de/?ts=99c193c6) - Jeder Hack bringt einen näher zum Ziel und zum Abgrund, das ist der IT auch so
+* [Barman wurde in der Version 3.12.0 veröffentlicht.](https://github.com/EnterpriseDB/barman/releases/tag/release/3.12.0)
+* [Microsoft, die Firma ohne Qualitätskontrolle (DAS KANN LLM!) hat einen weiteren Fehler entwickelt und an die Kunden verteilt, heute steckt er in Office 2024](https://www.borncity.com/blog/2024/11/22/bugs-kontrollkaestchen-fehlen-in-office-gpmc-nach-update-fehlerhaft/)
+* [Kuketz zeigt auf, wie schlecht Moddle eure Daten schützt.](https://www.kuketz-blog.de/moodle-unterschaetzte-risiken-durch-externe-verbindungen-wie-youtube-schul-apps-teil-2/)
+* [Sich gesellschaftlich mit aktuelle Problemen beschäftigen oder verbieten? Australien wählt bei "Social Medias" den letzten Weg](https://netzpolitik.org/2024/australien-plant-verbot-sozialer-medien-fuer-alle-unter-16-jahren/)
+* [Zrythm wurde in der Version 1.0 veröffentlicht.](https://www.phoronix.com/news/Zrythm-1.0) - Damit soll unter Linux eine DAW (Digital Audio Workstation) verfügbar sein
+* [PHP wurde in der Version 8.4 veröffentlicht.](https://www.php.net/releases/8.4/en.php)
