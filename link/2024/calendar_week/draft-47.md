@@ -42,3 +42,12 @@
 * [Sich gesellschaftlich mit aktuelle Problemen beschäftigen oder verbieten? Australien wählt bei "Social Medias" den letzten Weg](https://netzpolitik.org/2024/australien-plant-verbot-sozialer-medien-fuer-alle-unter-16-jahren/)
 * [Zrythm wurde in der Version 1.0 veröffentlicht.](https://www.phoronix.com/news/Zrythm-1.0) - Damit soll unter Linux eine DAW (Digital Audio Workstation) verfügbar sein
 * [PHP wurde in der Version 8.4 veröffentlicht.](https://www.php.net/releases/8.4/en.php)
+* [xarray wurde in der Version 2024.11.0 veröffentlicht.](https://github.com/pydata/xarray/releases/tag/v2024.11.0)
+* [questdb wurde in der Version 8.2.0 veröffentlicht.](https://github.com/questdb/questdb/releases/tag/8.2.0)
+* [Genode wurde in der Version 24.11 veröffentlicht.](https://github.com/genodelabs/genode/releases/tag/24.11)
+* [>>Die Effizienzsteigerung durch "KI"-PCs ist negativ<<](https://blog.fefe.de/?ts=99bf741b)
+* [Nein? Doch! Oh? Die automatische Rechtschreibung von heute evaluiert bei jedem Buchstaben den ganzen Text und drückt euch dabei Zensur durch "Vorschläge" rein.](https://blog.fefe.de/?ts=99be4626)
+* [Citrix ist kaputt](https://blog.fefe.de/?ts=99be5fc4)
+* [>>Die Advents- und Weihnachtszeit in Olbernhau<<](https://www.youtube.com/watch?v=Pl9M4bUlugg)
+* [Seit 1919 wird versucht die Kirche aus dem Staat zu kriegen, seit über 100 Jahren will das die Kirche nicht.](https://tuxproject.de/blog/2024/11/liegengebliebenes-vom-22-november-2024/) - "From my cold dead hands"
+* [Nein? Doch! Oh? Die Azure-Cloud mit Compliance-Bullshit für deutsche Behörden kostet 20 Prozent mehr](https://www.borncity.com/blog/2024/11/22/delos-cloud-mit-azure-10-20-teurer-als-ms-cloud-pur/) - Wir werden bei 60 Prozent mehr laden
