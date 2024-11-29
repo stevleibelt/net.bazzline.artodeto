@@ -24,3 +24,4 @@
 * [Frankreich so "Ja gut, Internationaler Strafgerichtshof hin oder her, Freunde bleiben Freunde"](https://blog.fefe.de/?ts=99b9facd) - Danke, so geht Politik und so geht "Alle sind gleich, manche sind gleicher"
 * [Nicht nur Microsoft kann ohne Logging, auch CloudFlare kann das!](https://blog.fefe.de/?ts=99b9f5c0) - Wer will schon sehen was die Rechner anderer Leute mit den eigenen Daten machen ... da kriegt man eh nur Augenkrebs!
 * [Nein? Doch! Oh? Microsoft Copilot sendet alles an Daten an Microsoft, auch CEO E-Mails oder HR Dokumente.](https://blog.fefe.de/?ts=99b83bc0)
+* [Typer wurde in der Version 0.14.0 veröffentlicht.](https://github.com/fastapi/typer/releases/tag/0.14.0)
