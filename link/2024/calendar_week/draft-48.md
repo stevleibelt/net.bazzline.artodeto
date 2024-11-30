@@ -25,3 +25,11 @@
 * [Nicht nur Microsoft kann ohne Logging, auch CloudFlare kann das!](https://blog.fefe.de/?ts=99b9f5c0) - Wer will schon sehen was die Rechner anderer Leute mit den eigenen Daten machen ... da kriegt man eh nur Augenkrebs!
 * [Nein? Doch! Oh? Microsoft Copilot sendet alles an Daten an Microsoft, auch CEO E-Mails oder HR Dokumente.](https://blog.fefe.de/?ts=99b83bc0)
 * [Typer wurde in der Version 0.14.0 veröffentlicht.](https://github.com/fastapi/typer/releases/tag/0.14.0)
+* [edumfa wurde in der Version 2.4.0 veröffentlicht.](https://github.com/eduMFA/eduMFA/releases/tag/v2.4.0)
+* [Nein? Doch! Oh? Die Desinformationsstrategie der USA nutzen auch andere Länder.](https://blog.fefe.de/?ts=99b5ccbd)
+* [27 Grad Celsius im November in Frankreich? Klar, Klimaerwärmung wegen der freien Hand des Marktes ist eine Lüge!](https://blog.fefe.de/?ts=99b75fa2)
+* [Wie steht es eigentlich um das Thema Sicherheit bei KI? >>wir verlassen uns auf die anderen [...]<<](https://blog.fefe.de/?ts=99b629fa)
+* [Der Freiberger Christmarkt wurde am 26.11.2024 eröffnet: youtube.com](https://www.youtube.com/watch?v=bnMGfyJniVo)
+* [>>Wo doch die rich­ti­ge Ant­wort ist: Lie­be. Lie­be und Musik.<<](https://tuxproject.de/blog/2024/11/medienkritik-in-kuerze-black-christmas/)
+* [Das Justizministerium möchte gern einen Zweitschlüssel für alle Autos in Deutschland.](https://netzpolitik.org/2024/justizministerkonferenz-zweitschluessel-fuer-autos-und-mehr-staatstrojaner-bitte/)
+* [OpenWrt hat jetzt einen eigenen Router den ihr kaufen könnt.](https://sfconservancy.org/news/2024/nov/29/openwrt-one-wireless-router-now-ships-black-friday/)
