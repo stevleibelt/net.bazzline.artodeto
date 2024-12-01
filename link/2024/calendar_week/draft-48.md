@@ -33,3 +33,7 @@
 * [>>Wo doch die rich­ti­ge Ant­wort ist: Lie­be. Lie­be und Musik.<<](https://tuxproject.de/blog/2024/11/medienkritik-in-kuerze-black-christmas/)
 * [Das Justizministerium möchte gern einen Zweitschlüssel für alle Autos in Deutschland.](https://netzpolitik.org/2024/justizministerkonferenz-zweitschluessel-fuer-autos-und-mehr-staatstrojaner-bitte/)
 * [OpenWrt hat jetzt einen eigenen Router den ihr kaufen könnt.](https://sfconservancy.org/news/2024/nov/29/openwrt-one-wireless-router-now-ships-black-friday/)
+* [Nextcloud news wurde in der Version 25.1.0 veröffentlicht.](https://github.com/nextcloud/news/releases/tag/25.1.0)
+* [OpenEMS wurde in der Version 2024.12.0 veröffentlicht.](https://github.com/OpenEMS/openems/releases/tag/2024.12.0)
+* [CleanTalk von Wordpress ist kaputt.](https://blog.fefe.de/?ts=99b549fa)
+* [>>Junge Menschen nehmen ihr Leben als Film wahr. Und Unternehmen stellen die nötigen Requisiten für das besondere „Life as a Movie“-Gefühl. Doch das permanente Schauspiel hat seinen Preis.<<](https://netzpolitik.org/2024/trugbild-die-unendliche-inszenierung/)
