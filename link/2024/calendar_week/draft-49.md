@@ -9,3 +9,10 @@
 * [Der Fahrplan zum 38c3 steht in der Alphaversion zur Verfügung](https://fahrplan.events.ccc.de/congress/2024/fahrplan/schedule/)
 * [Seit 1999 bezieht die Gesellschaft klar Stellung gegen die WTO und deren Machthabern.](https://katika-kuehnreich.com/blog/2024/12/02/vor-25-jahren-die-schlacht-von-seattle/)
 * [Auch kurz vor Weihnachen wird die Idee der anlasslose Massenüberwachung weiter voran getrieben.](https://netzpolitik.org/2024/anlasslose-massenueberwachung-niederlaendische-regierung-klar-gegen-chatkontrolle/) - Was interessiert es schon die reichen und mächtigen Personen, dass es die 99 Prozent der normalen Bevölkerung wiederholt ablehnen
+* [Donald Trump lässt die Demokratie wieder aufleben und bietet Kanada an, der 51. Staat zu werden.](https://blog.fefe.de/?ts=99b1421e)
+* [Digitalisierung in Bayern, heute am Beispiel des zweiten juristischen Staatsexamens.](https://blog.fefe.de/?ts=99b1b24a) - Die dort vorhandenen Probleme lesen sich wie Probleme, die noch vor den IT-Problemen kommen :-O
+* [Statt Wissen im Land dauerhaft zu binden und aufzubauen, verballert der Staat lieber 230 Millionen Euro für Beratungsfirmen](https://blog.fefe.de/?ts=99b1e6a1) - Und das war 2023, wer weiß wo wir 2024 raus kommen
+* [Magisk wurde in der Version 28003 veröffentlicht.](https://github.com/topjohnwu/Magisk/releases/tag/canary-28003)
+* [rustdesk wurde in der Version 1.3.4 veröffentlicht.](https://github.com/rustdesk/rustdesk/releases/tag/1.3.4)
+* [Typer wurde in der Version 0.15.0 veröffentlicht.](https://github.com/fastapi/typer/releases/tag/0.15.0)
+* [>>Die Analyse der ANTON-App zeigt, dass sie im Hinblick auf den Datenschutz und das Datensendeverhalten insgesamt prima abschneidet.<<](https://www.kuketz-blog.de/anton-datenschutzfreundlich-und-verantwortungsbewusst-schul-apps-teil-3/)
