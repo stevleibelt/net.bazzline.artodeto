@@ -16,3 +16,10 @@
 * [rustdesk wurde in der Version 1.3.4 veröffentlicht.](https://github.com/rustdesk/rustdesk/releases/tag/1.3.4)
 * [Typer wurde in der Version 0.15.0 veröffentlicht.](https://github.com/fastapi/typer/releases/tag/0.15.0)
 * [>>Die Analyse der ANTON-App zeigt, dass sie im Hinblick auf den Datenschutz und das Datensendeverhalten insgesamt prima abschneidet.<<](https://www.kuketz-blog.de/anton-datenschutzfreundlich-und-verantwortungsbewusst-schul-apps-teil-3/)
+* [Nein? Doch! Oh? Jetzt wo nicht nur die USA cybern, finden die USA Verschlüsselung auf einmal gar nicht mehr ganz so scheiße](https://blog.fefe.de/?ts=99ae7750)
+* [Die Tagespresse aus Östereich hat einmal geschaut, was TikTok frischen Kindern so anbietet.](https://blog.fefe.de/?ts=99ae4e49) - Erschreckend und das schauen sich die Kinder dann tagein/tagaus an.
+* [Welcher politischer Posten passt am besten zu einem, wenn man gerade in all seinen Häusern eine Untersuchung wegen "Verdacht auf Geldwäsche" erfährt?](https://blog.fefe.de/?ts=99ae9609) - Genau! Wenn man den Posten als >>EU-Kommissar für Justiz und Rechtsstaatlichkeit<< inne hatte
+* [>>Demnach erreichte ein Bürger, beim Versuch, ein öffentliches Hinweisportal der Polizei im Internet zu nutzen, mit einem weiteren Klick einen eigentlich geheimen Netzwerkspeicher des Staatsschutzes, an den das Hinweisportal angebunden war.<<](https://blog.fefe.de/?ts=99aeee0b) - Daher wünsche ich mir weiterhin, dass sich das deutsche Volk mehr um das Gütesiegel "Datensparsamkeit" bemüht
+* [Söder kennt natürlich sein Franken nicht. Wenn Söder an seine Gastronomiebetriebe mit Arbeitsplätzen denkt, denkt Söder an ein US-amerikansichen Großkonzern der mit Lohndumping arbeitet.](https://blog.fefe.de/?ts=99aeeb66)
+* [Hier wird euch der Unterschied zwischen React.js und Next.js gezeigt.](https://www.freecodecamp.org/news/nextjs-vs-react-differences/) - TL;DR - React.js = Library, Next.js = Framework
+* [HURL wurde in der Version 6.0.0 veröffentlicht.](https://lwn.net/Articles/1000726/)
