@@ -13,7 +13,7 @@
 * [Digitalisierung in Bayern, heute am Beispiel des zweiten juristischen Staatsexamens.](https://blog.fefe.de/?ts=99b1b24a) - Die dort vorhandenen Probleme lesen sich wie Probleme, die noch vor den IT-Problemen kommen :-O
 * [Statt Wissen im Land dauerhaft zu binden und aufzubauen, verballert der Staat lieber 230 Millionen Euro für Beratungsfirmen](https://blog.fefe.de/?ts=99b1e6a1) - Und das war 2023, wer weiß wo wir 2024 raus kommen
 * [Magisk wurde in der Version 28003 veröffentlicht.](https://github.com/topjohnwu/Magisk/releases/tag/canary-28003)
-* [rustdesk wurde in der Version 1.3.4 veröffentlicht.](https://github.com/rustdesk/rustdesk/releases/tag/1.3.4)
+* [rustdesk wurde in der Version 1.3.5 veröffentlicht.](https://github.com/rustdesk/rustdesk/releases/tag/1.3.5)
 * [Typer wurde in der Version 0.15.0 veröffentlicht.](https://github.com/fastapi/typer/releases/tag/0.15.0)
 * [>>Die Analyse der ANTON-App zeigt, dass sie im Hinblick auf den Datenschutz und das Datensendeverhalten insgesamt prima abschneidet.<<](https://www.kuketz-blog.de/anton-datenschutzfreundlich-und-verantwortungsbewusst-schul-apps-teil-3/)
 * [Nein? Doch! Oh? Jetzt wo nicht nur die USA cybern, finden die USA Verschlüsselung auf einmal gar nicht mehr ganz so scheiße](https://blog.fefe.de/?ts=99ae7750)
@@ -23,3 +23,11 @@
 * [Söder kennt natürlich sein Franken nicht. Wenn Söder an seine Gastronomiebetriebe mit Arbeitsplätzen denkt, denkt Söder an ein US-amerikansichen Großkonzern der mit Lohndumping arbeitet.](https://blog.fefe.de/?ts=99aeeb66)
 * [Hier wird euch der Unterschied zwischen React.js und Next.js gezeigt.](https://www.freecodecamp.org/news/nextjs-vs-react-differences/) - TL;DR - React.js = Library, Next.js = Framework
 * [HURL wurde in der Version 6.0.0 veröffentlicht.](https://lwn.net/Articles/1000726/)
+* [Wird die Bevölkerung auf ein Leben mit weniger USA vorbereitet?](https://blog.fefe.de/?ts=99af0a09) - Auf einmal soll man nicht mehr so viele schnüffel-/smarte Geräte kaufen
++ [LLM in der Realität? 90 Prozent Fehlerquote](https://blog.fefe.de/?ts=99af57af)
+* [Nein? Doch! Oh? Glyphosat erzeugt Entzündungen und Demenzsymtpome](https://blog.fefe.de/?ts=99af5189)
+* [Krass, OpenAI ist jetzt Teil des Millitärisch-industriellem Komplexes](https://blog.fefe.de/?ts=99af50aa)
+* [Drei Prozent ist das neue zwei Prozent](https://blog.fefe.de/?ts=99af50ca) - Nicht bei Sozialleistungen, sondern beim Nato-Zuschuss
+* [Immich wurde in der Version 1.122.0 veröffentlicht.](https://github.com/immich-app/immich/releases/tag/v1.122.0)
+* [nextcloud server wurde in der Version 30.0.3 veröffentlicht.](https://github.com/nextcloud/server/releases/tag/v30.0.3)
+* [whipper als cd audio ripper tut sich direct gut hervor.](https://github.com/whipper-team/whipper/)
