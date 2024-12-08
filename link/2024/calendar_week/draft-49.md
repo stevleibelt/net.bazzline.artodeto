@@ -39,3 +39,4 @@
 * [In einer Sache sind sich die ehemaligen Volksparteien einig, Vorratsdatenspeicherung und Biometrie gegen das Volk jetzt!](https://netzpolitik.org/2024/vorratsdatenspeicherung-und-biometrie-union-und-spd-wollen-ueberwachung-noch-vor-neuwahl-ausbauen/)
 * [In der EU sollen Schmierphones ab 2025 länger sicher und reparierbar sein](https://s3nnet.de/eu-kracher-fuer-smartphones-reparieren-statt-wegwerfen-ab-2025/)
 * [>>Kanal 9 Zeitreise: Adventszeit in der Region 1999<<](https://www.youtube.com/watch?v=w3JDa6OOEoU)
+* [Cemu wurde in der Version 2.5 veröffentlicht.](https://github.com/cemu-project/Cemu/releases/tag/v2.5)
