@@ -7,3 +7,8 @@
 * [>>Softwarefehler, kann man nichts machen<<](https://www.borncity.com/blog/2024/12/09/eu-richtlinie-ueber-produkthaftung-seit-9-dezember-2024-in-kraft/) - Seit dem 09.12.2024 stimmt das zum Glück nicht mehr in Europa!
 * [GNU/Shepherd wurde in der Version 1.0 veröffentlicht.](https://www.phoronix.com/news/GNU-Shepherd-1.0)
 * [>>Datenschutz ist Heimatschutz<<](https://netzpolitik.org/2024/weil-das-internet-unser-zuhause-ist-datenschutz-ist-heimatschutz/)
+* [SAP gründet sich aus Deutschland aus.](https://blog.fefe.de/?ts=99a6787e) - Wie bei den Automobilherstellern. Die Verpflichtung und Treue zum eigenen Land hält nur solange wie die Subventionen fließen
+* [Syrien wird dann mal aufgeteilt.](https://blog.fefe.de/?ts=99a6e7cc) - Alles unter den Augen der Weltpolizei
+* [Was der Braunkohleausstieg in der Lausitz mit der Trinkwassergewinnung in Berlin zu tun hat?](https://sachsen.nabu.de/news/2024/35725.html) - Der NABU Sachsen klärt auf
+* [>>[...] dass Ermittlungsbehörden selbst auf verschlüsselte Inhalte zugreifen können, so ihre Kernforderungen.<<](https://netzpolitik.org/2024/digital-ngos-stellen-sich-gegen-forderungen-nach-entschluesselung/) - Danke, nein. Der CCC sagt dazu [>>Vorratsdatenspeicherung, nur mit noch mehr Daten<<](https://www.ccc.de/de/updates/2024/gegen-uberzogene-eu-uberwachungsplane)
+* [systemd wurde in der Version 257 veröffentlicht.](https://lwn.net/Articles/1001657/)
