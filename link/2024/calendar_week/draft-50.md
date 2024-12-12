@@ -12,3 +12,10 @@
 * [Was der Braunkohleausstieg in der Lausitz mit der Trinkwassergewinnung in Berlin zu tun hat?](https://sachsen.nabu.de/news/2024/35725.html) - Der NABU Sachsen klärt auf
 * [>>[...] dass Ermittlungsbehörden selbst auf verschlüsselte Inhalte zugreifen können, so ihre Kernforderungen.<<](https://netzpolitik.org/2024/digital-ngos-stellen-sich-gegen-forderungen-nach-entschluesselung/) - Danke, nein. Der CCC sagt dazu [>>Vorratsdatenspeicherung, nur mit noch mehr Daten<<](https://www.ccc.de/de/updates/2024/gegen-uberzogene-eu-uberwachungsplane)
 * [systemd wurde in der Version 257 veröffentlicht.](https://lwn.net/Articles/1001657/)
+* [Das Fiedlerbier aus Oberscheibe (Erzgebirge/Sachsen) ist aktuell eins der besten Biere der Welt](https://www.freiepresse.de/erzgebirge/annaberg/aus-dem-erzgebirge-kommt-eines-der-besten-biere-der-welt-artikel13628842) - Jetzt noch Specht dazu und alles ist gut
+* [Deutschland hat kein Ausgabenproblem, wenn die Veruntreuung wieder auf ein gesundes Maß reduziert wird.](https://blog.fefe.de/?ts=99a4f07a) - Danke lieber Bundesrechnungshof
+* [Mit Technologie gesellschaftliche Probleme lösen? Läuft nicht bei uns](https://blog.fefe.de/?ts=99a4e786)
+* [Nicht einmal EDPB/DSGVO wollen die Franzosen hinter BeReal](https://noyb.eu/de/bereal-app-cant-take-no-answer)
+* [OpenZFS wurde in der Version 2.2.7 veröffentlicht und bringt Unterstützung für Linux Kernel 6.12](https://www.phoronix.com/news/OpenZFS-2.2.7-Released) - Die [Changelogs](https://github.com/openzfs/zfs/releases/tag/zfs-2.2.7) sind auch sehr umfangreich
+* [Nicht einmal professionell Töten können die in den USA noch](https://tuxproject.de/blog/2024/12/usa-2024/) - Fachkräftemangel überall!
+* [archlinux-archzfs-linux-lts-dkms wurde in der Version 20241212 veröffentlicht.](https://github.com/stevleibelt/arch-linux-live-cd-iso-with-zfs/releases/tag/20241212)
