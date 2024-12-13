@@ -19,3 +19,14 @@
 * [OpenZFS wurde in der Version 2.2.7 veröffentlicht und bringt Unterstützung für Linux Kernel 6.12](https://www.phoronix.com/news/OpenZFS-2.2.7-Released) - Die [Changelogs](https://github.com/openzfs/zfs/releases/tag/zfs-2.2.7) sind auch sehr umfangreich
 * [Nicht einmal professionell Töten können die in den USA noch](https://tuxproject.de/blog/2024/12/usa-2024/) - Fachkräftemangel überall!
 * [archlinux-archzfs-linux-lts-dkms wurde in der Version 20241212 veröffentlicht.](https://github.com/stevleibelt/arch-linux-live-cd-iso-with-zfs/releases/tag/20241212)
+* [Nein? Doch! Oh? McKinsey und die ganzen Kokser empfehlen ihren Kunden, dass Sie alle Auszahlungen oder Mängelmeldungen einfach aussitzen.](https://blog.fefe.de/?ts=99a549f8) - Ein Dienstleister der für Fehler einsteht? Das passt nicht zum Turbokapitalismus!
+* [Der Hamburger Senat löst Problem durch Verbote](https://blog.fefe.de/?ts=99a41e8f) - Multitool im Rucksack weil ihr Fahrradfahrer seid? ELENDER TERRORIST!
+* [Banken rufen dazu auf, dass ihr Bargeld zu Hause habt.](https://blog.fefe.de/?ts=99a4176c)
+* [Kubernetes wurde in der Version 1.32 veröffentlicht.](https://lwn.net/Articles/1001930/)
+* [Forhejo wurde in der Version 9.0.3 veröffentlicht.](https://codeberg.org/forgejo/forgejo/releases/tag/v9.0.3)
+* [>>Überwachung ist die Mutter aller Probleme<<](https://netzpolitik.org/2024/gegen-den-trend-ueberwachung-ist-die-mutter-aller-probleme/) - Wir können mit Verboten und Technologie eben niemals gesellschaftliche Probleme lösen
+* [Wo wir bei den Kokser waren deren Strategie es ist, so lange zu verhindern bis der Kunde stirbt ... bei der anstandslosen Massenüberwachung/Chatkontrolle wird die gleiche Strategie gefahren.](https://netzpolitik.org/2024/anlasslose-massenueberwachung-auch-ungarn-scheitert-mit-chatkontrolle-im-eu-rat/#netzpolitik-pw)
+* [Thema elektronische Patientenakte: >>Stattdessen sorgt sie sich um die Folgen schlechter Aufklärung, das Ende der ärztlichen Schweigepflicht und Forschungsmüll.<<](https://netzpolitik.org/2024/elektronische-patientenakte-das-widerspricht-der-informationellen-selbstbestimmung/) - An den Forschungsmüll habe ich noch gar nicht gedacht. Aber das ist ja am ende wie bei LLM/KI, Bullshit in, Bullshit out. Das, was seit "big data" überall gemacht wird. Man schaut sich so lange Daten an, bis man sich zusammenhänge heraushalluziniert
+* [taskiq wurde in der Version 0.11.10 veröffentlicht.](https://github.com/taskiq-python/taskiq/releases/tag/0.11.10)
+* [Nextcloud server wurde in der Version 30.0.4 veröffentlicht.](https://github.com/nextcloud/server/releases/tag/v30.0.4)
+* [FreeRDP wurde in der Version 3.10.0 veröffentlicht.](https://github.com/FreeRDP/FreeRDP/releases/tag/3.10.0)
