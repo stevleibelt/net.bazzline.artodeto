@@ -30,3 +30,11 @@
 * [taskiq wurde in der Version 0.11.10 veröffentlicht.](https://github.com/taskiq-python/taskiq/releases/tag/0.11.10)
 * [Nextcloud server wurde in der Version 30.0.4 veröffentlicht.](https://github.com/nextcloud/server/releases/tag/v30.0.4)
 * [FreeRDP wurde in der Version 3.10.0 veröffentlicht.](https://github.com/FreeRDP/FreeRDP/releases/tag/3.10.0)
+* [Es weihnachtet sehr und so wird in Köln mit Maschinenpistolen die Fahrkarten im Zug geprüft.](https://blog.fefe.de/?ts=99a35ae6)
+* [Die Tafeln müssen die Lebensmittel rationieren, weil die Armut weiter steigt.](https://blog.fefe.de/?ts=99a24e84) - Bald wird das mit dem extra Teller für den möglichen Gast kein nutzloser Brauch mehr sein.
+* [Neuseeland stoppt die Finanzierung von Grundlagenforschung.](https://blog.fefe.de/?ts=99a2b31e)
+* [Du wurdest in Bayern unschuldig inhaftiert? Die Rechnung vom Gefängnis kriegst du dann mit der Entschuldigung.](https://blog.fefe.de/?ts=99a28a0d) - Klar, man hätte ja seine Bleibe währenddessen bei AirB&B anbieten können
+* [Netzpolitik.org fehlen noch 286.034,00 Euro um 2025 weitermachen zu können.](https://netzpolitik.org/2024/kw-50-die-woche-in-der-wir-eure-hilfe-brauchen/) - Ich kann das nicht alles alleine spenden
+* [In der TU Bergakademie laufen bereits Plasmabrenner für die Metalindustrie.](https://www.mdr.de/wissen/umwelt-klima/klima-metallindustrie-stahl-recycling-mit-strom-klimafreundliche-technologie-freiberg-100.html)
+* [GlückAufTV: Kinderbergparade zum Stollenmarkt in Brand-Erbisdorf](https://www.youtube.com/watch?v=Ky6WzpCo_ow)
+* [>>Menschen, die auf bestimmte Dienstleistungen angewiesen sind, haben ein Recht darauf, diese auch offline nutzen zu können. Das besagt ein juristisches Gutachten des Netzwerk Datenschutzexpertise.<<](https://netzpolitik.org/2024/digitalzwang-es-gibt-ein-recht-auf-eine-analoge-alternative/) - Ich wäre sehr dankbar über so ein Gesetz
