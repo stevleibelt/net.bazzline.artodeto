@@ -110,8 +110,11 @@ DELIM
 
     # bo git
     CURRENT_TAG="${CURRENT_YEAR}${CURRENT_CALENDAR_WEEK}"
-    echo "   Starting >>git gc --aggressive<<" >> "${FULL_FILE_PATH_OF_THE_DEBUG_LOG}"
-    /usr/bin/env git gc --aggressive
+    # ref: https://appwrite.io/blog/post/10-git-commands-you-should-start-using
+    echo "   Starting >>git maintenance run<<" >> "${FULL_FILE_PATH_OF_THE_DEBUG_LOG}"
+    /usr/bin/env git maintenance run
+    #echo "   Starting >>git gc --aggressive<<" >> "${FULL_FILE_PATH_OF_THE_DEBUG_LOG}"
+    #/usr/bin/env git gc --aggressive
 
     # In testing right now
     /usr/bin/env git add .
