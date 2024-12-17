@@ -6,3 +6,14 @@
 * [Im Wahlkampf kann man auch mal wieder von der nie kommenden Milliardärssteuer reden.](https://blog.fefe.de/?ts=99a1c7db) - Mal ehrlich, wer hat die Eier dazu? Milliardäre sind die normalen Menschen doch eh egal.
 * [redis_exporter wurde in der Version 1.67.0 veröffentlicht.](https://github.com/oliver006/redis_exporter/releases/tag/v1.67.0)
 * [hatch wurde in der Version 1.27.0 veröffentlicht.](https://github.com/pypa/hatch/releases/tag/hatchling-v1.27.0)
+* [Lynis wurde in der Version 3.1.3 veröffentlicht.](https://github.com/CISOfy/lynis/releases/tag/3.1.3)
+* [>>Wenn euch jemand mit "responsible" kommt, will der euch nichts Gutes, und ihr solltet euch genau angucken, wie und womit der euch gerade verarschen will.<<](https://blog.fefe.de/?ts=999e1a89)
+* [Wenn ihr vom OCCRP hört, hört lieber weg, das ist reine Meinungsmache mit viel Fingerzeig](https://blog.fefe.de/?ts=999e10d5)
+* [Nein? Doch! Oh? Die Korruptionsvorwürfe gegen Hunter Biden waren vom ersten Buchstaben an erlogen.](https://blog.fefe.de/?ts=999e73f2)
+* [Du hast Domains, die du gerade nicht nutzt? Auch dafür musst du SPF- und DMARC-Records setzen](https://www.kuketz-blog.de/warum-du-fuer-ungenutzte-domains-spf-und-dmarc-records-setzen-solltest/)
+* [Die Polizei nutzt LLM-/KI-Gesichtserkennung immer häufiger](https://netzpolitik.org/2024/neues-bka-system-polizeiliche-gesichtserkennung-geht-steil/)
+* [Kuketz klärt kurz auf, warum Google der Meinung ist entscheiden zu können was wichtig ist.](https://www.kuketz-blog.de/zwischen-sicherheit-und-kontrolle-warum-die-play-integrity-api-custom-roms-wie-grapheneos-benachteiligt/)
+* [Zabbix wurde in der Version 7.2 veröffentlicht.](https://www.borncity.com/blog/2024/12/17/zabbix-7-2-veroeffentlicht/)
+* [Auch DATEV empfiehlt endlich, dass man die Outlook-App im Smartphone blockieren soll](https://www.borncity.com/blog/2024/12/17/datev-empfiehlt-die-neue-outlook-app-zu-blockieren/) - Blockieren ist noch mal mindestens ein WaWaWaWums-Faktor mehr als "nicht benutzen"
+* [openssf.org informiert euch was hinter Sigstore steckt](https://openssf.org/blog/2024/12/16/sigstorecon-2024-advancing-software-supply-chain-security/)
+* [>>Diese Taktik der heimlichen Installation von Spionagesoftware auf den Geräten von Personen während der Festnahme oder Befragung scheint bei den Behörden weit verbreitet zu sei<<](https://netzpolitik.org/2024/ein-digitales-gefaengnis-wie-die-serbische-regierung-die-zivilgesellschaft-ausspioniert/) - Nur falls ihr wirklich denkt, dass UFT und NoviSpy nur gegen "Terroristen" eingesetzt wird
