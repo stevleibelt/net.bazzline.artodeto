@@ -30,3 +30,10 @@
 * [Heim ins Reich - die großen US-Amerikanischen Technologiefirmen werden endlich vom Rüstungssektor aufgefressen.](https://netzpolitik.org/2024/big-tech-und-das-us-militaer-ein-verlockendes-geschaeft/)
 * [Home Assistant OS wurde in der Version 14.1 veröffentlicht.](https://github.com/home-assistant/operating-system/releases/tag/14.1)
 * [slint wurde in der Version 1.9 veröffentlicht.](https://github.com/slint-ui/slint/releases/tag/v1.9.0)
+* [authentik wurde in der Version 2024.12.0 veröffentlicht.](https://github.com/goauthentik/authentik/releases/tag/version/2024.12.0)
+* [webpack-cli wurde in der Version 6.0.0 veröffentlicht.](https://github.com/webpack/webpack-cli/releases/tag/webpack-cli%406.0.0)
+* [freecodecamp.org zeigt euch wie ihr einen Honeypoot in Python baut.](https://www.freecodecamp.org/news/build-a-honeypot-with-python/) - Ganz nebenbei lernt ihr auch spannende Dinge über einen Dienst der HTTP spricht
+* [Weiterer Realitätsabgleich zum Thema "Contentmoderatoren von Hackfressenbuch aus Kenia"](https://netzpolitik.org/2024/facebook-moderatorinnen-leiden-unter-schweren-psychischen-erkrankungen/)
+* [Schön zusammengefasst, Law and Order bedeutet am Ende ein schleifen der Grund- und Freiheitsrechte.](https://netzpolitik.org/2024/gegen-den-autoritaeren-ordnungsstaat-die-volle-haerte-der-zivilgesellschaft/)
+* [Wow, PayPal holt sich einfach Geld von irgendeiner IBAN wenn es Bock hat.](https://www.borncity.com/blog/2024/12/19/paypal-betrug-per-gastkonto-verbraucherzentrale-warnt/)
+* [Ryanair? Dann rechne mit einem Gesichtsscan!](https://noyb.eu/de/want-book-ryanair-flight-prepare-face-scan)
