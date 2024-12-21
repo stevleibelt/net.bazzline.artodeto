@@ -37,3 +37,6 @@
 * [Schön zusammengefasst, Law and Order bedeutet am Ende ein schleifen der Grund- und Freiheitsrechte.](https://netzpolitik.org/2024/gegen-den-autoritaeren-ordnungsstaat-die-volle-haerte-der-zivilgesellschaft/)
 * [Wow, PayPal holt sich einfach Geld von irgendeiner IBAN wenn es Bock hat.](https://www.borncity.com/blog/2024/12/19/paypal-betrug-per-gastkonto-verbraucherzentrale-warnt/)
 * [Ryanair? Dann rechne mit einem Gesichtsscan!](https://noyb.eu/de/want-book-ryanair-flight-prepare-face-scan)
+* [>>Ich weiß ja gerade gar nicht, was ich großartiger finde: Die Idee, dass Netanjahu wegen Genozid oder Kriegsverbrechen in Auschwitz verhaftet wird, oder dass er nicht hingeht aus Angst vor Verhaftung.<<](https://blog.fefe.de/?ts=9998c185)
+* [In der Silberstadt Freiberg bringt der Weihnachtsmann im Jahr 2024 auch mal ein Löschgruppenfahrzeug für die Feuerwehr](https://www.youtube.com/watch?v=3KfkBAuILOg) - Glück Auf!
+* [netzpolitik.org braucht weiterhin eure Unterstützung.](https://netzpolitik.org/2024/wir-brauchen-jetzt-eure-hilfe-uns-fehlen-noch-190-000-euro/)
