@@ -40,3 +40,6 @@
 * [>>Ich weiß ja gerade gar nicht, was ich großartiger finde: Die Idee, dass Netanjahu wegen Genozid oder Kriegsverbrechen in Auschwitz verhaftet wird, oder dass er nicht hingeht aus Angst vor Verhaftung.<<](https://blog.fefe.de/?ts=9998c185)
 * [In der Silberstadt Freiberg bringt der Weihnachtsmann im Jahr 2024 auch mal ein Löschgruppenfahrzeug für die Feuerwehr](https://www.youtube.com/watch?v=3KfkBAuILOg) - Glück Auf!
 * [netzpolitik.org braucht weiterhin eure Unterstützung.](https://netzpolitik.org/2024/wir-brauchen-jetzt-eure-hilfe-uns-fehlen-noch-190-000-euro/)
+* [rustdesk wurde in der Version 1.3.6 veröffentlicht.](https://github.com/rustdesk/rustdesk/releases/tag/1.3.6)
+* [mStream wurde in der Version 5.13.0 veröffentlicht.](https://github.com/IrosTheBeggar/mStream/releases/tag/v5.13.0)
+* [Darktable wurde in der Version 5.0 veröffentlicht.](https://www.phoronix.com/news/Darktable-5.0)
