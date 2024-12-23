@@ -2,3 +2,5 @@
 * [>>[...] Menschen, die and­ren Men­schen Gewalt antun und absicht­lich Leid ver­ur­sa­chen, waren, sind und blei­ben schlicht das Letzte<<](https://tuxproject.de/blog/2024/12/gewalt-jemand-letzte-menschen/)
 * [OpenShot wurde in der Version 3.3 veröffentlicht](https://www.phoronix.com/news/OpenShot-3.3-Released)
 * [Darktable wurde in der Version 5.0.0 veröffentlicht.](https://lwn.net/Articles/1003200/)
+* [elysia wurde in der Version 1.2.2 veröffentlicht.](https://github.com/elysiajs/elysia/releases/tag/1.2.2)
+* [frankenphp wurde in der Version 1.3.6 veröffentlicht.](https://github.com/dunglas/frankenphp/releases/tag/v1.3.6)
