@@ -4,3 +4,7 @@
 * [Darktable wurde in der Version 5.0.0 veröffentlicht.](https://lwn.net/Articles/1003200/)
 * [elysia wurde in der Version 1.2.2 veröffentlicht.](https://github.com/elysiajs/elysia/releases/tag/1.2.2)
 * [frankenphp wurde in der Version 1.3.6 veröffentlicht.](https://github.com/dunglas/frankenphp/releases/tag/v1.3.6)
+* [USA, the land of the free ... wo eine Richterin mit einem Ex-Pfizer-Manager verheiratet ist.](https://blog.fefe.de/?ts=999460f3) - Und dieser Ex-Manager Rentenzahlungen von Pfizer erhält und beide Pfizer-Aktien im Wert von nahezu einer Millionen USD halten
+* [xrdp wurde in der Version 0.10.2 veröffentlicht.](https://github.com/neutrinolabs/xrdp/releases/tag/v0.10.2)
+* [davx5-ose wurde in der Version 4.4.5-ose veröffentlicht.](https://github.com/bitfireAT/davx5-ose/releases/tag/v4.4.5-ose)
+* [libcamera wurde in der Version 0.4 veröffentlicht.](https://www.phoronix.com/news/libcamera-0.4-Released)
