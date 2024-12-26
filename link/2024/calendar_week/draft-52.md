@@ -8,3 +8,5 @@
 * [xrdp wurde in der Version 0.10.2 veröffentlicht.](https://github.com/neutrinolabs/xrdp/releases/tag/v0.10.2)
 * [davx5-ose wurde in der Version 4.4.5-ose veröffentlicht.](https://github.com/bitfireAT/davx5-ose/releases/tag/v4.4.5-ose)
 * [libcamera wurde in der Version 0.4 veröffentlicht.](https://www.phoronix.com/news/libcamera-0.4-Released)
+* [Hätte ich auch gern in anderen Sprachen ... das `it` von ruby](https://www.phoronix.com/news/Ruby-3.4-Released)
+* [Born hat ein ähnliches Problem beim Stromlieferantenwechsel wie ich hinter sich](https://www.borncity.com/blog/2024/12/26/weihnachtsgeschichte-abenteuer-im-stromwechselland-und-mehr/)
