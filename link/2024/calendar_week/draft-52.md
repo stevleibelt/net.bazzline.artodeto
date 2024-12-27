@@ -10,3 +10,5 @@
 * [libcamera wurde in der Version 0.4 veröffentlicht.](https://www.phoronix.com/news/libcamera-0.4-Released)
 * [Hätte ich auch gern in anderen Sprachen ... das `it` von ruby](https://www.phoronix.com/news/Ruby-3.4-Released)
 * [Born hat ein ähnliches Problem beim Stromlieferantenwechsel wie ich hinter sich](https://www.borncity.com/blog/2024/12/26/weihnachtsgeschichte-abenteuer-im-stromwechselland-und-mehr/)
+* [mdbtools wurde in der Version 1.0.1 veröffentlicht.](https://github.com/mdbtools/mdbtools/releases/tag/v1.0.1)
+* [rector wurde in der Version 2.0.4 veröffentlicht.](https://github.com/rectorphp/rector/releases/tag/2.0.4)
