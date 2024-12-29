@@ -17,3 +17,4 @@
 * [Noch kann man niederschreiben wie man Medikamente syntetisiert um sie theoretisch selbst herstellen zu können.](https://blog.fefe.de/?ts=99902653)
 * [Netzpolitik.org fehlen noch 150.000 Euro für das Jahr 2025](https://netzpolitik.org/2024/gegen-die-normalisierung-faschismusfreie-zone/)
 * [>>[...] Wie erwartet kann auch die ePA 3.0 die Sicherheitsversprechen nicht halten. Die erneute Analyse des aktuellen Stands förderte Bedenkliches ans Licht. Sicherheitsforscher zeigen auf dem gerade stattfindenden 38C3 unter anderem, wie sie sich mit wenig Aufwand und zum wiederholten Male gültige Heilberufs- und Praxisausweise sowie Gesundheitskarten Dritter beschaffen. [...]<<](https://www.borncity.com/blog/2024/12/28/elektronische-patientenakte-epa-vernichtende-kritik-von-ccc-und-fachleuten/)
+* [Auf mdr.de findet ihr einen kurzen Beitrag über Burg Scharfstein](https://www.mdr.de/video/mdr-videos/a/video-887580.html)
