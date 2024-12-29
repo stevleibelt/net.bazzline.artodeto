@@ -96,7 +96,7 @@ DELIM
       echo "   Detected change of year" >> "${FULL_FILE_PATH_OF_THE_DEBUG_LOG}"
       echo "   Updating current_calendar_week_path" >> "${FULL_FILE_PATH_OF_THE_DEBUG_LOG}"
       /usr/bin/env rm current_calendar_week_path
-      /usr/bin/env mkdir +p "link/${NEXT_CALENDAR_WEEK_YEAR}/calendar_week"
+      /usr/bin/env mkdir -p "link/${NEXT_CALENDAR_WEEK_YEAR}/calendar_week"
       /usr/bin/env ln -s "link/${NEXT_CALENDAR_WEEK_YEAR}/calendar_week" current_calendar_week_path
     fi
 
