@@ -4,3 +4,8 @@
 * [Hey, die ePA ist noch gar nicht "online", da fordert die CDU schon das schamlose Ausnutzen der erfassten Daten.](https://blog.fefe.de/?ts=998de635) - Alles Terroristen für die CDU, außer CDU-Mitglieder
 * [phpstan wurde in der Version 2.1.0 veröffentlicht.](https://github.com/phpstan/phpstan/releases/tag/2.1.0)
 * [naps2 wurde in der Version 7.5.3 veröffentlicht.](https://github.com/cyanfish/naps2/releases/tag/v7.5.3)
+* [axum-extra wurde in der Version v.0.10.0 veröffentlicht.](https://github.com/tokio-rs/axum/releases/tag/axum-extra-v0.10.0)
+* [1Remote wurde in der Version 1.1.0 veröffentlicht.](https://github.com/1Remote/1Remote/releases/tag/1.1.0)
+* [Caddy wurde in der Version 2.9.0 veröffentlicht.](https://github.com/caddyserver/caddy/releases/tag/v2.9.0)
+* [workerman wurde in der Version 5.0.0 veröffentlicht.](https://github.com/walkor/workerman/releases/tag/v5.0.0)
+* [Nein? Doch! Oh? Man kann Sterne bei GitHub-Repositories kaufen](https://www.bleepingcomputer.com/news/security/over-31-million-fake-stars-on-github-projects-used-to-boost-rankings/)
