@@ -9,3 +9,5 @@
 * [Caddy wurde in der Version 2.9.0 veröffentlicht.](https://github.com/caddyserver/caddy/releases/tag/v2.9.0)
 * [workerman wurde in der Version 5.0.0 veröffentlicht.](https://github.com/walkor/workerman/releases/tag/v5.0.0)
 * [Nein? Doch! Oh? Man kann Sterne bei GitHub-Repositories kaufen](https://www.bleepingcomputer.com/news/security/over-31-million-fake-stars-on-github-projects-used-to-boost-rankings/)
+* [>>Any API the browser exposes to web pages is guaranteed to be used by bad actors, and this has been true for a long time.<<](https://utcc.utoronto.ca/~cks/space/blog/web/ModernWebWhyNoNiceThings)
+* [1Remote wurde in der Version 1.1.0 veröffentlicht.](https://github.com/1Remote/1Remote/releases/tag/1.1.0)
