@@ -11,3 +11,6 @@
 * [Nein? Doch! Oh? Man kann Sterne bei GitHub-Repositories kaufen](https://www.bleepingcomputer.com/news/security/over-31-million-fake-stars-on-github-projects-used-to-boost-rankings/)
 * [>>Any API the browser exposes to web pages is guaranteed to be used by bad actors, and this has been true for a long time.<<](https://utcc.utoronto.ca/~cks/space/blog/web/ModernWebWhyNoNiceThings)
 * [1Remote wurde in der Version 1.1.0 veröffentlicht.](https://github.com/1Remote/1Remote/releases/tag/1.1.0)
+* [uv wurde in der Version 0.5.14 veröffentlicht.](https://github.com/astral-sh/uv/releases/tag/0.5.14)
+* [>>That day, I realized programming isn’t just about fetching data from a database or making a website look good. It’s about understanding the layers beneath the surface.<<](https://www.freecodecamp.org/news/how-to-make-learning-to-code-easier-by-focusing-on-the-fundamentals/)
+* [Puh, netzpolitik.org hat es knapp geschafft.](https://netzpolitik.org/2025/spendenaktion-wir-danken-euch-von-ganzem-herzen/) - Hoffentlich schaffen wir es 2025 etwas weniger knapp
