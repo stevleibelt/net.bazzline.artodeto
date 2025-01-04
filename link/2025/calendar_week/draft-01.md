@@ -14,3 +14,7 @@
 * [uv wurde in der Version 0.5.14 veröffentlicht.](https://github.com/astral-sh/uv/releases/tag/0.5.14)
 * [>>That day, I realized programming isn’t just about fetching data from a database or making a website look good. It’s about understanding the layers beneath the surface.<<](https://www.freecodecamp.org/news/how-to-make-learning-to-code-easier-by-focusing-on-the-fundamentals/)
 * [Puh, netzpolitik.org hat es knapp geschafft.](https://netzpolitik.org/2025/spendenaktion-wir-danken-euch-von-ganzem-herzen/) - Hoffentlich schaffen wir es 2025 etwas weniger knapp
+* [ruff wurde in der Version 0.8.6 veröffentlicht.](https://github.com/astral-sh/ruff/releases/tag/0.8.6)
+* [Neovide wurde in der Version 0.14.0 veröffentlicht.](https://github.com/neovide/neovide/releases/tag/0.14.0)
+* [Das wäre ja was, angeblich muss man als Bürger von Deutschland keine Zettel mehr in Hotels ausfüllen.](https://blog.fefe.de/?ts=99864281)
+* [Home assistant erklärt euch selbst, wie ihr 3-2-1-Backup umsetzt.](https://www.home-assistant.io/blog/2025/01/03/3-2-1-backup/)
