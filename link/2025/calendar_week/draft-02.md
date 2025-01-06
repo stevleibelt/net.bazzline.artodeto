@@ -1,0 +1,3 @@
+* [Der Allianz-Chef, also eine Person ohne finanzielle Nöte, möchte gern die ersten Krankheitstage sozialisieren.](https://blog.fefe.de/?ts=9985146a) - Sprich der Arbeitnehmer soll dann die ersten Tage selbst bezahlen
+* [Microsoft definiert das erreichen von künstlicher Intelligenz damit als dass OpenAI 100 Milliarden Doller Gewinn erwirtschaftet haben muss](https://blog.fefe.de/?ts=9985131b)
+* [Venovia will in seinen Wohnungen gern Rauchmelder mit permanenter Datenerfassung einbauen.](https://www.borncity.com/blog/2025/01/06/eskaliert-der-streit-um-den-einbau-intelligenter-vonovia-rauchmelder/) - Natürlich darf der Mieter die Installation und die Betriebskosten pro Monat für die Dinger zahlen und nicht nein sagen
