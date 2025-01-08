@@ -5,3 +5,9 @@
 * [Im Landkreis Mittelsachsen kann ab jetzt mit der Briefwahl für den neuen Landrat abgestimmt werden](https://www.mdr.de/nachrichten/sachsen/chemnitz/freiberg/wahlen-landrat-kreis-mittelsachsen-briefwahl-100.html)
 * [dozzle wurde in der Version 8.10.0 veröffentlicht.](https://github.com/amir20/dozzle/releases/tag/v8.10.0)
 * [NUSpli wurde in der Version 1.154 veröffentlicht.](https://github.com/V10lator/NUSspli/releases/tag/v1.154)
+* [Kuketz ist so nett und listet euch die Domains auf, die ihr benötigt um die "DB Navigator"-App nutzen zu können.](https://www.kuketz-blog.de/neue-kategorie-im-kuketz-forum-android-firewall-regeln-fuer-rethinkdns-und-netguard/) - Irre was die da zusammenschustern
+* [Alles für den imaginären Profit! Nachdem bezahlte Krankentage wieder abgeschafft werden sollen, wird als nächtes das Abschaffen von Feiertagen gefordert](https://blog.fefe.de/?ts=9983fe7f) - Wer fordert dies? Natürlich die Personen, die nie im Leben Probleme mit zu wenig Geld haben werden
+* [immich wurde in der Version 1.124.0 veröffentlicht.](https://github.com/immich-app/immich/releases/tag/v1.124.0)
+* [Wenn eure Subdomain im DNS ist, ist sie auffindbar](https://www.freecodecamp.org/news/how-to-discover-hidden-subdomains-as-an-ethical-hacker/)
+* [firefox wurde in der Version 134.0 veröffentlicht](https://www.mozilla.org/en-US/firefox/134.0/releasenotes/)
+* [Hier wird euch die Idee eines Testcontainers nähergebracht](https://www.freecodecamp.org/news/how-to-run-integration-tests-with-github-service-containers/)
