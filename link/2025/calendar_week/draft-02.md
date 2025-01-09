@@ -7,7 +7,13 @@
 * [NUSpli wurde in der Version 1.154 veröffentlicht.](https://github.com/V10lator/NUSspli/releases/tag/v1.154)
 * [Kuketz ist so nett und listet euch die Domains auf, die ihr benötigt um die "DB Navigator"-App nutzen zu können.](https://www.kuketz-blog.de/neue-kategorie-im-kuketz-forum-android-firewall-regeln-fuer-rethinkdns-und-netguard/) - Irre was die da zusammenschustern
 * [Alles für den imaginären Profit! Nachdem bezahlte Krankentage wieder abgeschafft werden sollen, wird als nächtes das Abschaffen von Feiertagen gefordert](https://blog.fefe.de/?ts=9983fe7f) - Wer fordert dies? Natürlich die Personen, die nie im Leben Probleme mit zu wenig Geld haben werden
-* [immich wurde in der Version 1.124.0 veröffentlicht.](https://github.com/immich-app/immich/releases/tag/v1.124.0)
+* [immich wurde in der Version 1.124.1 veröffentlicht.](https://github.com/immich-app/immich/releases/tag/v1.124.1)
 * [Wenn eure Subdomain im DNS ist, ist sie auffindbar](https://www.freecodecamp.org/news/how-to-discover-hidden-subdomains-as-an-ethical-hacker/)
 * [firefox wurde in der Version 134.0 veröffentlicht](https://www.mozilla.org/en-US/firefox/134.0/releasenotes/)
 * [Hier wird euch die Idee eines Testcontainers nähergebracht](https://www.freecodecamp.org/news/how-to-run-integration-tests-with-github-service-containers/)
+* [Auf der DHCP 2024 gibt es einen wunderbaren Einstieg in die K8s Distribution Talos Linux](https://www.youtube.com/watch?v=fjNOYHrfVDE)
+* [Und noch ein Video von der DHCP 2024, hier zeigt die gleiche Person, wie man die Dokumentation in Netbox macht und dabei kostenloses Monitoring mit Prometheus gewinnt.](https://www.youtube.com/watch?v=Nn-vqN0rPBw)
+* [Habt ihr schon einmal etwas von der netzwerkbremse.de gehört? Ich auch nicht, aber auf dem 38C3 gibt es den tollen Vortrag >>net Neutrality: Why It Still Matters (More Than Ever!)<<](https://www.youtube.com/watch?v=T_gqhpLSc_8) - Immer wieder interessant was sich die Telekom in Deutschland so erlauben darf
+* [Ohha! Die Rüstungsausgaben von Deutschland beträgt 2 Prozent des Bruttoinlandsproduktes und sind damit bereits 125 Milliarden Euro.](https://blog.fefe.de/?ts=9980bcbe) - Der Bundeshaushalt hat ein Gesamtvolumen von 613 Milliarden Euro, passt also nicht
+* [Kauknochen aus China? Die sind aus Resten gebaut](https://blog.fefe.de/?ts=9980baad) - Tja! Wenn Nahrungsmittel dort zusammengeklebt werden, wo auch Chemieabfälle gelagert werden. Das kennt Deutschland, hat das Problem aber seit 30 Jahren ausgelagert. Nun ist das Auslagerungsland langsam voll.
+* [valkey wurde in der Version 7.2.8 veröffentlicht](https://github.com/valkey-io/valkey/releases/tag/7.2.8) - Diese Version wird dringend empfohlen, da es sicherheitsrelevante Fehlerbehebung beinhaltet
