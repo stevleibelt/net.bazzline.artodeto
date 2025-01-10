@@ -21,3 +21,10 @@
 * [Deutschland ist Spitzenreiter beim Abhören seiner Bürger](https://netzpolitik.org/2025/nach-durov-festnahme-telegram-gibt-deutlich-mehr-daten-an-behoerden-raus/)
 * [Das Tor Projekt lässt das Jahr 2024 Revue passieren.](https://blog.torproject.org/2024-year-in-review/)
 * [Wie sicher diese Digitalisierung ist, sieht man gerade an Nodex in Sankt Petersburg.](https://www.borncity.com/blog/2025/01/08/russischer-internet-provider-nodex-st-petersburg-gehackt-und-systeme-geloescht/)
+* [Nein? Doch! Oh? Google vergisst die Information ob ihr ein Opt-Out bei "Individualisierter Werbung" und "Massenüberwachung" beantragt habt.](https://blog.fefe.de/?ts=997e8a5f)
+* [Wunder der Digitalisierung. In der Slowakai sind die nur digital geführten Grundbuchdaten gerade nicht verfügbar](https://blog.fefe.de/?ts=99810b0a) - Oder für immer weg.
+* [Warum wird die ePA eigentlich nicht sicher gebaut? >>Bisher hatten Fälle in anderen Ländern, wo große Mengen an Gesundheitsdaten gestohlen wurden, keine schrecklichen Folgen.<<](https://blog.fefe.de/?ts=99810899)
+* [frankenphp wurde in der Version 1.4.0 veröffentlicht.](https://github.com/dunglas/frankenphp/releases/tag/v1.4.0)
+* [deno wurde in der Version 2.1.5 veröffentlicht.](https://github.com/denoland/deno/releases/tag/v2.1.5)
+* [ruff wurde in der Version 0.9.0 veröffentlicht.](https://github.com/astral-sh/ruff/releases/tag/0.9.0)
+* [Welche Parteien überhaupt beim Wahl-O-Mat (und Weiteren) aufgelistet werden sein darf, entscheiden CDU, CSU, SPD, FDP, die Grünen und die Linke.](https://netzpolitik.org/2025/wahlpruefsteine-parteien-definieren-wer-relevant-ist/) - Das nenne ich mal gelenkte Zensur. Warum die FDP das mit entscheiden darf? Ich weiß es nicht.
