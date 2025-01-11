@@ -28,3 +28,11 @@
 * [deno wurde in der Version 2.1.5 veröffentlicht.](https://github.com/denoland/deno/releases/tag/v2.1.5)
 * [ruff wurde in der Version 0.9.0 veröffentlicht.](https://github.com/astral-sh/ruff/releases/tag/0.9.0)
 * [Welche Parteien überhaupt beim Wahl-O-Mat (und Weiteren) aufgelistet werden sein darf, entscheiden CDU, CSU, SPD, FDP, die Grünen und die Linke.](https://netzpolitik.org/2025/wahlpruefsteine-parteien-definieren-wer-relevant-ist/) - Das nenne ich mal gelenkte Zensur. Warum die FDP das mit entscheiden darf? Ich weiß es nicht.
+* [LocalAI wurde in der Version 2.25.0 veröffentlicht.](https://github.com/mudler/LocalAI/releases/tag/v2.25.0)
+* [OpenDTU-OnBattery wurde in der Version 2025.01.10 veröffentlicht.](https://github.com/hoylabs/OpenDTU-OnBattery/releases/tag/2025.01.10)
+* [nextcloud news wurde in der Version 25.2.0 veröffentlicht.](https://github.com/nextcloud/news/releases/tag/25.2.0)
+* [Es wurde ein Weg herausgefunden, wie ihr Microsoft 365 ohne AI-50-Prozent-Preisaufschlag weiter nutzen könnt.](https://blog.fefe.de/?ts=997fea64)
+* [Wie denken zu reiche Menschen wie Eric Schmidt? Hier findet ihr einen Link zu einen YouTube-Video dazu](https://blog.fefe.de/?ts=997fc274) - Andere Menschen sind nur Gegenstände die man nutzt um reicher zu werden. Moral oder Patente gibt es nur, wenn es dem eigenen Konto nutzt, ansonsten stehlt, raubt, lügt, manipuliert, verbrennt Menschen und mordet was ihr könnt. Ach so, in AI wird unglaublich viel Geld verbrannt/in die Konten der Superreichen verschoben. Das Geld fehlt dann für unnütze Dinge wie Stromnetze, Feuerwehren, Schulen und das verbrannte Geld lässt euer Geld über die Inflation noch weniger werden. Nur falls ihr Ziele für eure Mistgabeln braucht.
+* [git wurde in der Version 2.48 veröffentlicht.](https://github.blog/open-source/git/highlights-from-git-2-48/)
+* [Bis zum 15.01.2025 könnt ihr der ePA noch wiedersprechen.](https://netzpolitik.org/2025/faq-wie-widerspreche-ich-der-elektronischen-patientenakte/)
+* [Rust wurde in der Version 1.84.0 veröffentlicht.](https://blog.rust-lang.org/2025/01/09/Rust-1.84.0.html)
