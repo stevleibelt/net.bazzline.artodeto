@@ -36,3 +36,6 @@
 * [git wurde in der Version 2.48 veröffentlicht.](https://github.blog/open-source/git/highlights-from-git-2-48/)
 * [Bis zum 15.01.2025 könnt ihr der ePA noch wiedersprechen.](https://netzpolitik.org/2025/faq-wie-widerspreche-ich-der-elektronischen-patientenakte/)
 * [Rust wurde in der Version 1.84.0 veröffentlicht.](https://blog.rust-lang.org/2025/01/09/Rust-1.84.0.html)
+* [Die IT Sicherheit ist so kaputt, dass sogar berühmte Persönlichkeiten eine Haftungspflicht für Manager fordern](https://blog.fefe.de/?ts=997cbeab)
+* [Dank Bildanalyse werden Personen auf Fotos direkt für die Werbung ausgewertet](https://www.borncity.com/blog/2025/01/12/bildanalyse-was-google-co-aus-einem-foto-herausloesen-koennen/) - Im Grunde wie die Fotos beim Lebenslauf damals, nur dass jetzt Versicherungen, Vermieter etc. diese Bilder kriegen
+* [Debian wurde in der Version 12.9 veröffentlicht.](https://www.phoronix.com/news/Debian-12.9-Released)
