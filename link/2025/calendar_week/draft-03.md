@@ -18,3 +18,22 @@
 * [Wenn die ePA schon damit beworben wird "das man sonst ja auch überall Datenschutzprobleme hat" ...](https://www.borncity.com/blog/2025/01/14/elektronische-patientenakte-epa-chaos-vor-dem-start-zum-15-1-2025/) - Deutlicher kann man das Problem der aktuellen Digitalwelt nicht verdeutlichen: >>Scheißegal, Malle ist nur einmal im Jahr<<
 * [Dank netzpolitik.org ist es einfach Herrn Lauterbach einen Brief mit Bedenken zur ePA zu schreiben.](https://netzpolitik.org/2025/offener-brief-fuenf-massnahmen-fuer-mehr-vertrauen-in-die-elektronische-patientenakte/)
 * [>>Türen öffnen<<, dies war das Motto des Neujahrsempfangs 2025 in Freiberg](https://www.youtube.com/watch?v=Kt4ncIKVGOw)
+* [Mit FOSSWarn gibt es eine freie und länderübergreifende Warn-Anwendungen.](https://media.ccc.de/v/38c3-wie-man-auch-mit-foss-katastrophen-warnungen-bekommt#t=957)
+* [librenms wurde in der Version 25.1.0 veröffentlicht.](https://github.com/librenms/librenms/releases/tag/25.1.0)
+* [Nextcloud server wurde in der Version 30.0.5 veröffentlicht.](https://github.com/nextcloud/server/releases/tag/v30.0.5)
+* Github geht einen schon wieder auf den Geist, sie packen jetzt folgendes an das Ende einer URL `?notification_referrer_id=NT_kwBAKVLodLMqN3MxBzP9Njh0VzoyMjg3MjIw&notifications_query=is:unread`
+* [Pelican wurde in der Version 4.11.0 veröffentlicht](https://github.com/getpelican/pelican/releases/tag/4.11.0)
+* [Keycloak wurde in der Version 26.1.0 veröffentlicht](https://github.com/keycloak/keycloak/releases/tag/26.1.0)
+* [Klar, die Welt muss sterben damit eine KI Müllübeltäter denunzieren kann](https://blog.fefe.de/?ts=99774709) - Genau noch rechtzeitig für den Wahlkampf in Deutschland (der viel zu früh anfängt). Nichts mag der Deutsche mehr als den kleinen Denunzianten in sich
+* [Der Täter in Magedburg war scheinbar allen Strafverfolgungsbehörden seit langem bekannt](https://blog.fefe.de/?ts=997784be) - Warum die nichts unternommen haben? Tja!
+* [Nintendo weiß selbst, dass die Hexenverfolgung gegen Emulatoren total illegal ist](https://blog.fefe.de/?ts=997780dd)
+* [LLM's sollen sich jetzt ihre eigenen Trainingsdaten halluzinieren](https://blog.fefe.de/?ts=9977eda5) - Als weißer Mann in Europa fühle ich mich weiterhin sicher
+* [Google kämpft weiterhin gegen ein freies und nutzerorientiertes Internet](https://blog.fefe.de/?ts=9977db60)
+* [Ohha, Lebensmittelfarben kennt ihr? Die FDA hat gerade einen Rotton gesperrt](https://blog.fefe.de/?ts=9976958b)
+* [Google kriegt ihre LLM's auch nicht an den Mann, also werden Produkte mit LLM zwangsverheiratet und entsprechend eingepreist](https://blog.fefe.de/?ts=99769448)
+* [Auch die kleine Garagenfirma Google versteht OAuth nicht](https://blog.fefe.de/?ts=997942b5)
+* [Forgejo wurde in der Version 10.0 veröffentlicht.](https://forgejo.org/2025-01-release-v10-0/)
+* [Hier sieht man was passieren würde, wenn die öffentlichen Medien über die Databroker Files berichten würden](https://netzpolitik.org/2025/databroker-files-schnauze-voll-das-sagen-betroffene/) - Bedenken Second my Ass
+* [Libvirt wurde in der Version 11.0.0 veröffentlicht.](https://lwn.net/Articles/1005203/)
+* [Die Easterhegg vom 18.04.2025 bis 21.04.2025 in Hamburg hat den Call for Participation gestartet](https://events.ccc.de/2025/01/16/easterhegg-2025-call-for-participation/)
+* [Hihi, erinnert an die Telekom, Apple verteidigt sein geschlossenes und nicht dokumentiertes Ökosystem mit "Nur so ist es sicher!"](https://netzpolitik.org/2025/ngos-fordern-apple-soll-echte-interoperabilitaet-umsetzen/)
