@@ -37,3 +37,11 @@
 * [Libvirt wurde in der Version 11.0.0 veröffentlicht.](https://lwn.net/Articles/1005203/)
 * [Die Easterhegg vom 18.04.2025 bis 21.04.2025 in Hamburg hat den Call for Participation gestartet](https://events.ccc.de/2025/01/16/easterhegg-2025-call-for-participation/)
 * [Hihi, erinnert an die Telekom, Apple verteidigt sein geschlossenes und nicht dokumentiertes Ökosystem mit "Nur so ist es sicher!"](https://netzpolitik.org/2025/ngos-fordern-apple-soll-echte-interoperabilitaet-umsetzen/)
+* [headscale wurde in der Version 0.24.0 veröffentlicht.](https://github.com/juanfont/headscale/releases/tag/v0.24.0)
+* [Land of the free!!! Aber nur für die, die auf Linie sind.](https://blog.fefe.de/?ts=9974bfe7)
+* [Der rbb hetzt gegen einen Politiker aus der Partei die Grünen - ohne dass der rbb seine Quellen überhaupt minimal überprüft hat.](https://blog.fefe.de/?ts=99742828)
+* [Ich nutze SSH auch nur mit Schlüsseln.](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/SSHOnExposingPasswordAuth)
+* [Wie kann das Europaparlament Datenschutz weiter verhindern? Man einigt sich einfach auf keinen Nachfolger](https://netzpolitik.org/2025/parlament-und-rat-uneins-nachfolge-fuer-eu-datenschutzbeauftragten-bleibt-offen/)
+* [Martin Sonneborn und seine gottgleiche Großzügigkeit mal wieder](https://www.die-partei.de/2025/01/17/martin-sonneborn-verzichtet-auf-kanzlerkandidatur-zugunsten-von-dominic-harapat/) - Fall es unklar ist welcher Gott referenziert wird, [den Gott](https://duckduckgo.com/?t=h_&q=gott%20belafarinrod) referenziere ich
+* [>>noyb hat nun sechs DSGVO-Beschwerden in fünf europäischen Ländern eingebracht.<<](https://www.borncity.com/blog/2025/01/17/noyb-beschwert-sich-ueber-datenweitergabe-an-tiktok-aliexpress-co/)
+* [D-Trust GmbH, deren Geschäftsmodel "Sicherheit" ist, kann keine Sicherheit](https://www.borncity.com/blog/2025/01/17/datenschutzvorfall-bei-der-d-trust-gmbh-13-1-2025/)
