@@ -45,3 +45,7 @@
 * [Martin Sonneborn und seine gottgleiche Großzügigkeit mal wieder](https://www.die-partei.de/2025/01/17/martin-sonneborn-verzichtet-auf-kanzlerkandidatur-zugunsten-von-dominic-harapat/) - Fall es unklar ist welcher Gott referenziert wird, [den Gott](https://duckduckgo.com/?t=h_&q=gott%20belafarinrod) referenziere ich
 * [>>noyb hat nun sechs DSGVO-Beschwerden in fünf europäischen Ländern eingebracht.<<](https://www.borncity.com/blog/2025/01/17/noyb-beschwert-sich-ueber-datenweitergabe-an-tiktok-aliexpress-co/)
 * [D-Trust GmbH, deren Geschäftsmodel "Sicherheit" ist, kann keine Sicherheit](https://www.borncity.com/blog/2025/01/17/datenschutzvorfall-bei-der-d-trust-gmbh-13-1-2025/)
+* [rust coreutil wurde in der Version 0.0.29 veröffentlicht.](https://github.com/uutils/coreutils/releases/tag/0.0.29)
+* [HeidoSQL wurde in der Version 12.9 veröffentlicht.](https://github.com/HeidiSQL/HeidiSQL/releases/tag/12.9)
+* [>>Das Gesundheitssystem ist halt ein natürliches Umfeld für Kartellbildung und andere kriminelle Machenschaften.<<](https://blog.fefe.de/?ts=99722c47)
+* [>>Cyberkriminelle brechen immer seltener ein, stattdessen nutzen sie ergaunerte Anmeldeinformationen, um sich in die Systeme ihrer Opfer einzuloggen<<](https://www.borncity.com/blog/2025/01/19/die-meisten-cyberkriminellen-hacken-nicht-sondern-loggen-sich-ein/)
