@@ -1,0 +1,1 @@
+* [Die Gewinne im freien Wohnungsmarkt wurden wohl bis auf das Letzte privatisiert, jetzt kann der Steuerzahler bitte wieder den Wohnungsmarkt verstaatlichen.](https://blog.fefe.de/?ts=99738dee) - Wenn dann der Investitionsstau mit Steuergeldern behoben wurde, würde sich der freie Markt wieder den Problem der Gewinnprivatisierung annehmen
