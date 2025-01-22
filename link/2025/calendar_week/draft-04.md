@@ -4,3 +4,8 @@
 * [Dillo wurde in der Version 3.2.0 veröffentlicht.](https://lwn.net/Articles/1005640/)
 * [Heute treffen sich in Davos wieder Menschen die die normale Bevölkerung nur als notwendiges Übel ansehen.](https://katika-kuehnreich.com/blog/2025/01/20/beginn-des-wef-der-gegenaktionen-das-interview-mit-tante-cc-auf-radio-rabe/)
 * [Wärend Deutschland die ePA verkackt, scheißt die EU mit dem >>European Digital Identity Wallet<< einfach einen Haufen daneben.](https://netzpolitik.org/2025/offener-brief-eu-kommission-soll-schlupfloecher-bei-digitaler-brieftasche-schliessen/) - Keins der dort genannten Möglichkeiten um an private Daten von EU-Bürgern zu kommen ist ein Versehen, dies hat alles Methode und ist gelieferter Vorsatz
+* [Mir war bewusst das LLM's eine Energieverschwendung sind, aber nach diesem Vortrag ist das nur noch ein WOW](https://media.ccc.de/v/38c3-resource-consumption-of-ai-degrow-or-die)
+* [Ihr entsperrt euer Telefon mit dem Finger? Das OLG Bremen findet das gut, denn so kann die Polizei euren Finger nutzen ohne euch fragen zu müssen.](https://blog.fefe.de/?ts=997107e0) - Beim Pin geht das meines Wissens nach noch nicht
+* [Dank des deutschen Sovereign Tech Fund will FreeBSD mit Version 15.0 reproduzierbare Builds schaffen.](https://www.phoronix.com/news/FreeBSD-Zero-Trust-Repro-Builds)
+* [Wine wurde in der Version 10.0 veröffentlicht.](https://www.phoronix.com/news/Wine-10.0-Released)
+* [>>A LLM will be just as confident when saying something completely wrong—and obviously so, to a human—as it will be when saying something true.<<](https://www.schneier.com/blog/archives/2025/01/ai-mistakes-are-very-different-from-human-mistakes.html)
