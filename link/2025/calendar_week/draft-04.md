@@ -9,3 +9,12 @@
 * [Dank des deutschen Sovereign Tech Fund will FreeBSD mit Version 15.0 reproduzierbare Builds schaffen.](https://www.phoronix.com/news/FreeBSD-Zero-Trust-Repro-Builds)
 * [Wine wurde in der Version 10.0 veröffentlicht.](https://www.phoronix.com/news/Wine-10.0-Released)
 * [>>A LLM will be just as confident when saying something completely wrong—and obviously so, to a human—as it will be when saying something true.<<](https://www.schneier.com/blog/archives/2025/01/ai-mistakes-are-very-different-from-human-mistakes.html)
+* [Die Spitze ist erreicht, Netzflix vermeldet Rekordgewinne und gleichzeitig Preiserhöhung wegen ... na wegen der Milch](https://www.golem.de/news/abos-werden-in-ersten-laendern-teurer-neues-netflix-abomodell-startet-in-deutschland-2501-192634.html)
+* [Sonicwall will nicht hinter Cisco stehen und liefert ihre SMA1000 direkt ab Werk kaputt aus](https://blog.fefe.de/?ts=996c8830)
+* [Antivieren Schlangenöl auf anderer Leuten Computer klickt jetzt auch auf die Links in euren E-Mails](https://blog.fefe.de/?ts=996cfa1e)
+* [Die Schweiz rudert bei der Digitalisierung der Gesundheitsdaten schon einmal zurück und setzt auf die Post.](https://blog.fefe.de/?ts=996cf934) - Mal schauen wie viele Millarden in Deutschland noch versumpfen müssen, bis das hier auch jemanden auffällt
+* [Wegfindungsproblem wurde schon vor Jahren gelöst, macht aber nix, können wir trotzdem mit LLM's kaputtoptimieren](https://blog.fefe.de/?ts=996cf553)
+* [Bun wurde in der Version 1.2.0 veröffentlicht.](https://github.com/oven-sh/bun/releases/tag/bun-v1.2.0)
+* [Alles halluziniert, die neusten nVidia-Grafikkarten sollen bis zu 16 ausgedachte Bilder nach jedem berechnetem Bild halluzinieren.](http://www.3dcenter.org/news/nvidia-erteilt-dlss4mfg-auf-frueherer-nvidia-hardware-eine-absage-und-stellt-sich-zukunft-bis-z) - Viel Erfolg beim versuchtem Treffen der Hitbox
+* [Das kann ich so unterschreiben, die votegrup GmbH hat fast alle Kommunen fest in der Hand](https://netzpolitik.org/2025/wahlsoftware-alle-wege-fuehren-nach-aachen/) - Wieder eine Frage warum das bewusst so offen gelassen wird. Mit einer Wahlsoftwarebude pro Bundesland könnte ich noch leben, aber diese Abartigkeit der Geldvernichtung in allen Bereichen ...
+* [Nein? Doch! Oh? Versicherungsunternehmen reichen untereinander lustig Daten von Versicherer hin und her](https://www.borncity.com/blog/2025/01/22/datenkartell-aufgeflogen-versicherer-teilen-persoenliche-versichertendaten/) - Dabei sind doch gerade die Versicherer eine noch integerer Gruppe Menschen als es schon die Bänker sind!
