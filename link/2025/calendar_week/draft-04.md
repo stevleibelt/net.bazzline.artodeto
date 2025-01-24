@@ -18,3 +18,11 @@
 * [Alles halluziniert, die neusten nVidia-Grafikkarten sollen bis zu 16 ausgedachte Bilder nach jedem berechnetem Bild halluzinieren.](http://www.3dcenter.org/news/nvidia-erteilt-dlss4mfg-auf-frueherer-nvidia-hardware-eine-absage-und-stellt-sich-zukunft-bis-z) - Viel Erfolg beim versuchtem Treffen der Hitbox
 * [Das kann ich so unterschreiben, die votegrup GmbH hat fast alle Kommunen fest in der Hand](https://netzpolitik.org/2025/wahlsoftware-alle-wege-fuehren-nach-aachen/) - Wieder eine Frage warum das bewusst so offen gelassen wird. Mit einer Wahlsoftwarebude pro Bundesland könnte ich noch leben, aber diese Abartigkeit der Geldvernichtung in allen Bereichen ...
 * [Nein? Doch! Oh? Versicherungsunternehmen reichen untereinander lustig Daten von Versicherer hin und her](https://www.borncity.com/blog/2025/01/22/datenkartell-aufgeflogen-versicherer-teilen-persoenliche-versichertendaten/) - Dabei sind doch gerade die Versicherer eine noch integerer Gruppe Menschen als es schon die Bänker sind!
+* [Das Volk in Serbien vollführt einen Generalstreik](https://blog.fefe.de/?ts=996d53d8)
+* [Die Leute in Davos machen nichts gegen den Klimawandeln weil sie nie gelernt haben jemals mit echten Herausforderungen umgehen zu müssen.](https://blog.fefe.de/?ts=996dba7c)
+* [Die große Zensur bei Hackfressenbuch nimmt weiter zu](https://blog.fefe.de/?ts=996dafbf) - Abtreibungsmittel sind jetzt auf der Zensurliste
+* [kanidm wurde in der Version 1.4.6 veröffentlicht.](https://github.com/kanidm/kanidm/releases/tag/v1.4.6)
+* [keycloakify wurde in der Version 11.8.10 veröffentlicht.](https://github.com/keycloakify/keycloakify/releases/tag/v11.8.10)
+* [Dein Programmierprojekt ist fertig, die API ist stabil und es gibt nichts im Bugtracker? Moderne Suchmaschinen oder "Sicherheitsrating"-Systeme werden dir deswegen eine schlechte Note geben.](http://lucumr.pocoo.org/2025/1/24/build-it-yourself)
+* [Kaum ist die ePA im Testbetrieb, schon will Doctolib an alle Daten](https://netzpolitik.org/2025/neue-datenschutzhinweise-doctolib-will-ki-modelle-mit-gesundheitsdaten-trainieren/)
+* [Könnte stimulus gerade genug Javascript sein?](https://stimulus.hotwired.dev/)
