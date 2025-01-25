@@ -26,3 +26,7 @@
 * [Dein Programmierprojekt ist fertig, die API ist stabil und es gibt nichts im Bugtracker? Moderne Suchmaschinen oder "Sicherheitsrating"-Systeme werden dir deswegen eine schlechte Note geben.](http://lucumr.pocoo.org/2025/1/24/build-it-yourself)
 * [Kaum ist die ePA im Testbetrieb, schon will Doctolib an alle Daten](https://netzpolitik.org/2025/neue-datenschutzhinweise-doctolib-will-ki-modelle-mit-gesundheitsdaten-trainieren/)
 * [Könnte stimulus gerade genug Javascript sein?](https://stimulus.hotwired.dev/)
+* [>>Jetzt rächt sich, dass die Amis nicht in Verständnis und Forschung investiert haben, sondern in mehr Hardware um den bestehenden Scheiß hochzuskalieren. Das funktioniert halt nur solange gut, bis jemand anderes in Verständnis und Forschung investiert [...]<<](https://blog.fefe.de/?ts=996bef34)
+* [>>Die USA haben sich ja weitgehend deindustrialisiert und exportieren jetzt Mais und Öl und nicht mehr Autos und Computer.<<](https://blog.fefe.de/?ts=996bc432) - Ich hoffe wenigstens hierbei versucht Blackrock Merz nicht dem US-Amerikaner nachzueifern
+* [Jellyfin Server wurde in der Version 10.10.5 veröffentlicht.](https://github.com/jellyfin/jellyfin/releases/tag/v10.10.5)
+* [>>Mit bedeutungsschwangerer Cyber-Rhetorik will d-trust von der Verantwortung für ein großes Datenleck ablenken. Der CCC erklärt die Hintergründe und fordert Konsequenzen.<<](https://www.ccc.de/de/updates/2025/dont-trust)
