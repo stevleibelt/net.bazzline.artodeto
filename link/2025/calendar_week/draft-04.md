@@ -30,3 +30,8 @@
 * [>>Die USA haben sich ja weitgehend deindustrialisiert und exportieren jetzt Mais und Öl und nicht mehr Autos und Computer.<<](https://blog.fefe.de/?ts=996bc432) - Ich hoffe wenigstens hierbei versucht Blackrock Merz nicht dem US-Amerikaner nachzueifern
 * [Jellyfin Server wurde in der Version 10.10.5 veröffentlicht.](https://github.com/jellyfin/jellyfin/releases/tag/v10.10.5)
 * [>>Mit bedeutungsschwangerer Cyber-Rhetorik will d-trust von der Verantwortung für ein großes Datenleck ablenken. Der CCC erklärt die Hintergründe und fordert Konsequenzen.<<](https://www.ccc.de/de/updates/2025/dont-trust)
+* [Mithriljs wurde in der Version 2.2.13 veröffentlicht.](https://github.com/MithrilJS/mithril.js/releases/tag/v2.2.13)
+* [Die USA entschleunigt sich durch den Einsatz von LLMs beim Schreiben von Gesetzen](https://blog.fefe.de/?ts=9968e766)
+* [Ach schau, der Stromhochpreis im Dezember 2024 wurde von den Kraftwerksbetreibern so erzeugt und künstlich verlängert](https://blog.fefe.de/?ts=996bbe9f)
+* [>>Im Gegensatz zur Anonymisierung, bei der die Fähigkeit, Daten mit einer Person zu verknüpfen, unwiderruflich aufgehoben wird, bleibt bei der Pseudonymisierung die Möglichkeit der Re-Identifizierung erhalten.<<](https://www.borncity.com/blog/2025/01/26/pseudonymisierung-von-daten-einige-informationen/)
+* [>>In Deutschland wurden im dritten Quartal 2024 durchschnittlich jede Sekunde 2 Benutzerkonten geknackt.<<](https://www.borncity.com/blog/2025/01/26/deutschland-bei-sicherheitsverletzungen-auf-spitzenplaetzen/)
