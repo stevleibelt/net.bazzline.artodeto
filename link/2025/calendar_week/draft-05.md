@@ -8,3 +8,17 @@
 * [Nicht unter der CDU aber es gibt noch Möglichkeiten die Steuerneinnahmen zu erhöhen, einfach die DSGVO nutzen und Geldstrafen verhängen.](https://noyb.eu/de/data-protection-day-only-13-cases-eu-dpas-result-fine) - Ganz der restlichen Welt folgend, kann die EU mit nicht EU-Firmen beginnen
 * [Sven Krüger wird neuer Landrat im Lrandkreis Mittelsachsen](https://www.freie-waehler-mittelsachsen.de/index.php/53-neues-design-5) - Das ist hoffentlich gut für den Landkreis und nun muss die Silberstadt Freiberg einen neuen Oberbürgermeister finden
 * [Während euch die CDU auf den Wahlplakaten anlügt, dass es bald mehr für die Fleißigen gibt, wollen Sie das Geld weiterhin für eigene Vorteile ausgeben.](https://netzpolitik.org/2025/massenueberwachungsplaene-der-union-trump-geleckt/) - Die CDU, die, die unsere Infrastruktur kaputt gemacht hat, will weiterhin keinen Eurocent in die Infrastruktur stecken, aber lieber in Überwachung der Bürger. Alles fein garniert mit mehr Polizeigewalt (laut Gesetz)
+* [Friedrich Merz: >>Für ein Deutschland, auf das wir wieder stolz sein können<<, auch Friedrich Merz: >>AUSLÄNDER RAUS!<<](https://blog.fefe.de/?ts=99679da0)
+* [Die Leitmedien bereiten uns schon einmal auf die alternativlosen Kohle- und Gaskraftwerke vor](https://blog.fefe.de/?ts=9967e805) - Das Framing was hier betrieben wird ist, "Die Bevölkerung will keinen günstigen Strom aus erneuerbaren Energien"
+* [Der Irrsinn mit dem "umetikettieren" von russischem Gas funktioniert](https://blog.fefe.de/?ts=99667995) - Was wohl die Antwort der Bürger wären, wenn man ihnen die Frage stellt ob man für 1 Euro Russlandgas oder für 2 Euro Russlandgas mit buntem Aufdruck kaufen solle?
+* [Nicht nur Politiker, Anwaltsfirmen oder Beraterfirmen machen die Zivilisation mit KI-Generierten Unwahrheiten kaputt, auch in der Wissenschaft ist das Problem angekommen.](https://blog.fefe.de/?ts=9966732c) - Etwaig ist dies auch eine Art Wirtschaftskriegsführung die hier umgesetzt wird? Überlaste die bestehenden Prüfsysteme und bringe damit das System zum Stillstand oder aus dem Tritt.
+* [black wurde in der Version 25.1.0 veröffentlicht.](https://github.com/psf/black/releases/tag/25.1.0)
+* [fwupd wurde in der Version 1.9.28 veröffentlicht.](https://github.com/fwupd/fwupd/releases/tag/1.9.28)
+* [authlib wurde in der Version 1.4.1 veröffentlicht.](https://github.com/lepture/authlib/releases/tag/v1.4.1)
+* [Apple CPUs sind kaputt.](https://blog.fefe.de/?ts=99679c66)
+* [Realitätsabgleich Was wissen Autohersteller über ihre Kunden.](https://netzpolitik.org/2025/intimes-ueberwachungsinstrument-das-wissen-autohersteller-ueber-dich-und-dein-fahrzeug/)
+* [Was kann ich bei Durchfall tun? Möhrensuppe, gekochten Reis, Bananen und geriebene Äpfel esse.](https://www.kostbarenatur.net/hausmittel-gegen-durchfall/)
+* [>>Für eine Digitalisierung, die Klima und Ressourcen schützt und fair und menschlich gestaltet ist<<](https://www.ccc.de/de/updates/2025/btw26-bb)
+* [Was bedeutet "Ich nutze LLMs/KI im Alltag?": Deine Eingabedaten werden genutzt und verkauft. Die Ausgabeantworten können falsch sein.](https://www.borncity.com/blog/2025/01/28/ki-im-alltag-was-verbraucher-wissen-sollten/)
+* [Der Bestand der Wintervögel in Sachen ging 2025 bis zu 18 Prozent zurück.](https://sachsen.nabu.de/news/2025/35851.html)
+* [LLMs lösen alle Probleme und können an bestehnde Prozesse angeschlossen werden? Selbst Martin Fowler als Berater sagt ganz offen "Nein, LLMs sind keine magischen Löser, es schafft nur andere Probleme"](https://martinfowler.com/articles/gen-ai-patterns/)
