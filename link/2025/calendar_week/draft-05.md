@@ -22,3 +22,17 @@
 * [Was bedeutet "Ich nutze LLMs/KI im Alltag?": Deine Eingabedaten werden genutzt und verkauft. Die Ausgabeantworten können falsch sein.](https://www.borncity.com/blog/2025/01/28/ki-im-alltag-was-verbraucher-wissen-sollten/)
 * [Der Bestand der Wintervögel in Sachen ging 2025 bis zu 18 Prozent zurück.](https://sachsen.nabu.de/news/2025/35851.html)
 * [LLMs lösen alle Probleme und können an bestehnde Prozesse angeschlossen werden? Selbst Martin Fowler als Berater sagt ganz offen "Nein, LLMs sind keine magischen Löser, es schafft nur andere Probleme"](https://martinfowler.com/articles/gen-ai-patterns/)
+* [Selbst die Teenager in den USA, die deutlich mehr mit Werbung bestrahlt werden, trauen den großen Technologiefirmen wie Google, Apple, Meta etc. keinen Zentimeter wenn es um Privatsspähre und Datenschutz geht.](https://blog.fefe.de/?ts=99647cb4) - Das bedeutet auch, dass eben diese Personen keine potentiellen Arbeitnehmer sind. Sehr schön, wie ich finde.
+* [Schade dass es in der Politik keine Pflicht gibt, Merz hat 2021 mal gesagt, dass jeder aus der CDU fliegt, der mit der AfD kooperiert. Nun hat besagter Merz ja kurz den Hitler gemacht und laut "Ausländer raus!" im Bundestag per Gesetzeswunsch verlautbart.](https://blog.fefe.de/?ts=99647bd6)
+* [Nein? Doch! Oh? Das LNG-Terminal auf Rügen wird nicht gebraucht.](https://blog.fefe.de/?ts=9964610c)
+* [Endlich wird Farbe bekannt, CDU, FDP und AFD bekennen sich zum Faschismus.](https://blog.fefe.de/?ts=99649cde)
+* [OpenAI klaut illegal alle Daten und begründet das mit "Muss so", auch OpenAI jammert weil DeepSeek genau das gleiche macht.](https://blog.fefe.de/?ts=99648670)
+* [Sehr gut, das Volk der Deutschen zeigt der CDU direkt, dass sie Fotzenfritz Geistiger Nachfolger von Goebbels nicht wollen.](https://blog.fefe.de/?ts=99650707)
+* [Wie sicher wird die ePA werden? Die ZAR-Reha-Kliniken in Deutschland zeigen uns den Weg auf.](https://blog.fefe.de/?ts=996553d1)
+* [Trump als Chance nutzen und Deutschland in eine Welt ohne US-Tech-Oligarchen führen.](https://www.kuketz-blog.de/unplugtrump-was-dem-internet-jetzt-droht-und-was-die-chance-ist/)
+* [gparted wurde in der Version 1.7 veröffentlicht.](https://www.phoronix.com/news/GParted-1.7-Released)
+* [Endlich mal gescheite Tests, die RTX 5090 braucht, für 20 Prozent mehr rohe Leistung gut 40 Prozent mehr Strom.](https://www.phoronix.com/review/nvidia-rtx5080-rtx5090-linux/6)
+* [Alleine das Trainieren der LLMs/KIs in den USA verbraucht fünf Prozent deren Jahresenergie.](https://netzpolitik.org/2025/generative-ki-klimaschaedlich-by-design/) - Nur für das Trainieren/Erstellen. Jede Nutzeranfrage ist nazuh ähnlich Teuer was den Strom angeht.
+* [freecodecamp.org schenkt euch ein zwei Stunden langes Video wie ihr eure APIs nach dem Stand der OWASP schützt.](https://www.freecodecamp.org/news/learn-the-basics-of-api-security/)
+* [netzpolitik.org zeigt einmal auf was die Regierung aus SPD, Grünen und FDP während ihrer drei Jahre umgesetzt hat](https://netzpolitik.org/2025/netzpolitische-bilanz-welche-ihrer-ziele-hat-die-ampel-erreicht-und-welche-nicht/)
+* [Real-O-Mat kann man lieber als den Wahl-O-Mat nutzen.](https://netzpolitik.org/2025/real-o-mat-taten-zaehlen-mehr-als-worte/)
