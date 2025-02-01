@@ -36,3 +36,5 @@
 * [freecodecamp.org schenkt euch ein zwei Stunden langes Video wie ihr eure APIs nach dem Stand der OWASP schützt.](https://www.freecodecamp.org/news/learn-the-basics-of-api-security/)
 * [netzpolitik.org zeigt einmal auf was die Regierung aus SPD, Grünen und FDP während ihrer drei Jahre umgesetzt hat](https://netzpolitik.org/2025/netzpolitische-bilanz-welche-ihrer-ziele-hat-die-ampel-erreicht-und-welche-nicht/)
 * [Real-O-Mat kann man lieber als den Wahl-O-Mat nutzen.](https://netzpolitik.org/2025/real-o-mat-taten-zaehlen-mehr-als-worte/)
+* [php async wurde in der Version 1.7.0 veröffentlicht.](https://github.com/spatie/async/releases/tag/1.7.0)
+* [Social Medias oder >>Die einzig gewinnbringende Strategie ist der Verzicht<<](https://www.kuketz-blog.de/warum-das-argument-man-muesse-in-sozialen-netzwerken-bleiben-um-opposition-zu-leisten-voelliger-unsinn-ist/)
