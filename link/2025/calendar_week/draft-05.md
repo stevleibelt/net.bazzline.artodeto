@@ -38,3 +38,5 @@
 * [Real-O-Mat kann man lieber als den Wahl-O-Mat nutzen.](https://netzpolitik.org/2025/real-o-mat-taten-zaehlen-mehr-als-worte/)
 * [php async wurde in der Version 1.7.0 veröffentlicht.](https://github.com/spatie/async/releases/tag/1.7.0)
 * [Social Medias oder >>Die einzig gewinnbringende Strategie ist der Verzicht<<](https://www.kuketz-blog.de/warum-das-argument-man-muesse-in-sozialen-netzwerken-bleiben-um-opposition-zu-leisten-voelliger-unsinn-ist/)
+* [Die Jugendorganisation der AfD wird vom Verfassungsschutz untersucht.](https://blog.fefe.de/?ts=996045cc) - Also löst man diese auf und gründet eine neue
+* [Microsoft nutzt euer bezahltes 365 um Werbung darin zu schalten.](https://www.borncity.com/blog/2025/02/02/microsoft-365-werbung-fuer-python-in-excel-gehts-noch/)
