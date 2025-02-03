@@ -1,0 +1,5 @@
+* [Die Leitmedien nutzen das Thema Migrationspolitik um das Volk von den wirklichen Problemen und Fragen abzulenken.](https://blog.fefe.de/?ts=9961a06a) - Lasst euch nicht auf das Glatteis führen, dies ist reine Ablenkung
+* [HedgeDoc wurde in der Version 1.10.1 veröffentlicht.](https://github.com/hedgedoc/hedgedoc/releases/tag/1.10.1)
+* [ran-sama hat mit firefox-preferences ein Repository veröffentlicht, was scheinbar dem Firefox gescheite Standardeinstellungen beibringt.](https://github.com/ran-sama/firefox-preferences) - Die Menge an Änderungen ist so groß als dass ich die noch nicht zuende gegengeprüft habe.
+* [Drillisch kann unter 5G wohl kein RCS (wodurch beim Umstieg dann weitere Kosten entstehen)](https://www.borncity.com/blog/2025/02/02/drillisch-kein-rcs-nach-umstieg-auf-5g-netzumstellung-per-sim/)
+* [Bei der Bundestagswahl zeigt sich das wahre Gesicht von Influencern und Streamern - Kritische Fragen? Niemals! Da brechen uns die Werbeträger weg!](https://netzpolitik.org/2025/trugbild-grosse-reichweite-wenig-reibung/)
