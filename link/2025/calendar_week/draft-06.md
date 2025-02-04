@@ -9,3 +9,7 @@
 * [playwright-python wurde in der Version 1.50.0 veröffentlicht.](https://github.com/microsoft/playwright-python/releases/tag/v1.50.0)
 * [WhatsApp wird als Transportschicht zur Installation von SpyWare von Paragon Solutions benutzt.](https://netzpolitik.org/2025/whatsapp-spyware-angriff-auf-medien-und-zivilgesellschaft/)
 * [Die Rust Creates scheinen den NPM-Weg zu gehen.](https://lucumr.pocoo.org/2025/2/4/fat-rand/) - Jede Zeile Code wird in ein Create ausgelagert
+* Ich durfte heute Bilder von [Kalr Schmidt-Rotluss](https://de.wikipedia.org/wiki/Karl_Schmidt-Rottluff) bewundern und konnte viel über die Moderne und den Expressionismus lernen.
+* [Was macht die Politik in den USA vor? Assoziales Verhalten wie ein Kleinkind.](https://blog.fefe.de/?ts=995cc16d)
+* [Im Land der Freiheit gibt es eine lange Liste von Wörtern die verboten sind.](https://blog.fefe.de/?ts=995cd8ea) - Tja! Zensur ist sch****
+* [Die Idee von Europa wird vom transatlantischen Turbokapitalismus weiter zerstört. Mit der "European Digital Identity Wallet" soll gleich ein Tracking für alle Bürger über das ganze Internet eingeführt werden.](https://netzpolitik.org/2025/digitale-brieftasche-eu-kommission-holt-den-super-cookie-zurueck/)
