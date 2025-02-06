@@ -16,3 +16,16 @@
 * [Google entfernt sich weiter von seinem "Don't be evil". Deren LLM's machen jetzt auch in Waffensystemen und Überwachungsstaat.](https://blog.fefe.de/?ts=995c7a80)
 * In der DDR gab es eine Mangelwirtschaft, also wurden Dinge nachhaltig produziert. Dann kam der Turbokapitalismus und seitdem ist Nachhaltigkeit ein Feind. In der [TU Bergakademie Freiberg wurde ein Verfahren aus der DDR zur Herstellung von bruchsicherem Glas optimiert.](https://www.mdr.de/video/mdr-videos/a/video-896972.html)
 * [Da gehe ich gern mit. Liebe Anwendungsentwickler, schreibt euren Kram bitte nach `~/.cache` oder `~/.local`, denn dort gehört es hin.](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/DotCacheDirectoriesProblem) - Ein `~/.mein_tolles_verzeichnis` zeugt vom Mangel an Respekt an Regeln
+* [Schön, dass die reichen Menschen von heute teilweise so ein starkes Geldungsbedürfnis haben. Da kriegt man raus, dass diese Multimilliadäre auch hart einen an der Waffel haben und Lügen wo es nur geht.](https://blog.fefe.de/?ts=995d0567) - Lügen ist ja gerade in den oberen Kreise wichtig. Wenn ich dir nicht ins Gesicht lüge, tauschst du dein gestohlenes Geld nicht gegen den Glauben an einer Idee.
+* [Israel zerbombt eine Minderheit und klagt in Deutschland wegen der Zerbombung ihrer Minderheit. Auch Israel, tritt aus dem UNO-Menschenrechtsrat aus, weil dieser Rat nachfragt wie man Menschenrechtlich so flexibel sein kann.](https://blog.fefe.de/?ts=995d03b3) - Wieder etwas mehr, wo Errungenschaften abgeschafft werden. Traurig unser Jahrhundert, so viel was zerstört wird.
+* [Techem ist aktuell kaputt. Wenn ihr eine Heizkostenabrechnung bekommt, widersprecht pro Forma innerhalb der Frist.](https://blog.fefe.de/?ts=995d8af5)
+* [Damit bleibt wohl nur noch die tierschutzpartei. Die Grünen machen jetzt auch Law-and-Order wie die anderen aus der Blockpartei.](https://netzpolitik.org/2025/10-punkte-plan-hardliner-habeck-im-law-and-order-strudel/)
+* Um die Wahlversprechen einmal hinunter zu dampfen, folgen meine Enschätzungen zu den bisher mir bekannten Webseiten:
+  * [agrar-o-mat](https://www.agrarheute.com/agrar-o-mat/) - Wie zu erwarten war, gibt es Fragen nur zum Themenkomplex Agrar. Der Ausflug hat sich gelohnt.
+  * [DeinWal](https://btw25.deinwal.de) - Bisher das Angebot mit der größten Themenvielfalt, für mit den großen Parteien
+  * [Real-O-Mat](https://real-o-mat.de/) - Enthält viele Themen, für mich auch viele Themen, die mir nicht wichtig genug sind
+  * [Steuer-o-mat](https://www.smartsteuer.de/online/steuer-o-mat) - Gibt eine grobe Richtung wie die Parteien im Bereich Haushalt denken
+  * [Voteswiper](https://www.voteswiper.org/de/deutschland/bundestagswahl-2025) - Schön viele Parteien und gute Mischung an Themen
+  * [Wahl-Kompass](https://wahl-kompass.de/de/background-questions) - Sehr schöne Auflistung, mehr Parteien als der Real-O-Mat aber weniger als Voteswiper. Viele Fragen die zu vielem passen
+  * [Wahl-O-Mat](https://www.wahl-o-mat.de/bundestagswahl2025/) - Greift viele Themengebiete auf
+  * [wahltraut](https://wahltraut.de/matowahl) - Die meisten dort angesprochenen Probleme betreffen mich nicht.
