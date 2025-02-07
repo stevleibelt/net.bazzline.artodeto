@@ -29,3 +29,13 @@
   * [Wahl-Kompass](https://wahl-kompass.de/de/background-questions) - Sehr schöne Auflistung, mehr Parteien als der Real-O-Mat aber weniger als Voteswiper. Viele Fragen die zu vielem passen
   * [Wahl-O-Mat](https://www.wahl-o-mat.de/bundestagswahl2025/) - Greift viele Themengebiete auf
   * [wahltraut](https://wahltraut.de/matowahl) - Die meisten dort angesprochenen Probleme betreffen mich nicht.
+* [Netanjahu bereite sich auf das Leben nach dem Politiker vor und schenkt Donald Trump einen goldenen Pager](https://blog.fefe.de/?ts=995bad6c)
+* [Nein? Doch! Oh? Das Land mit der größten Militärmacht droht immer offener damit, dass man sich fügt oder Bomben fallen ... so geschehen in Panama.](https://blog.fefe.de/?ts=995b8b94)
+* [Gut das Elon Musk freiwillige Selbstkontrolle praktiziert, deswegen gehen seine Empfehlungen auch zu erst gegen die Behörden, die seine Unternehmen unangenehme Fragen stellen.](https://blog.fefe.de/?ts=995a134c)
+* [Israel steht schon in den Startlöschen und hat extra noch einmal Avatar (das auf Pandora) geschaut um die Menschen im Gazastreifen ganz human beim Umsiedeln mit Brenngranaten zu helfen.](https://blog.fefe.de/?ts=995a0331) - Du rennst einfach schneller, wenn dich etwas verfolgt. In der ersten Welt sind es Maulschlüssel, woanders eben Granatsplitter.
+* [appsmith wurde in der Version 1.60 veröffentlicht.](https://github.com/appsmithorg/appsmith/releases/tag/v1.60)
+* [ruff wurde in der Version 0.9.5 veröffentlicht.](https://github.com/astral-sh/ruff/releases/tag/0.9.5)
+* [BetterReflection wurde in der Version 6.55.0 veröffentlicht.](https://github.com/Roave/BetterReflection/releases/tag/6.55.0)
+* [FreeDRP wurde in der Version 3.11.0 veröffentlicht.](https://github.com/FreeRDP/FreeRDP/releases/tag/3.11.0)
+* [LibreOffice wurde in der Version 25.2 veröffentlicht.](https://lwn.net/Articles/1008342/)
+* [OpenWRT wurde in der Version 24.10.0 veröffentlicht.](https://downloads.openwrt.org/releases/24.10.0/targets/)
