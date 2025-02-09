@@ -52,3 +52,5 @@
 * [>>Die für die Drohnen eingesetzte Künstliche Intelligenz zielt auf Familienhäuser, Kinder, Zivilist*innen. [...] Hat sie die Versprechen der Drohnenmythologie gehalten? Die Vorstellung, dass der Krieg durch den Einsatz von Technologie kürzer und sicherer wird, ist ein absoluter Mythos.<<](https://netzpolitik.org/2025/drohnenprogramm-whistleblowerin-wie-ein-internet-der-hoellischen-dinge/)
 * [F-Droid hat was 400k USD vom der Open Technology Funds FOSS Sustainability Fund bekommen.](https://f-droid.org/2025/02/05/f-droid-awarded-otf-grant.html) - F-Droid ist eine sehr wichtige Freiheit geworden
 * [>>If I think something is easy, that's a sure sign I don't understand it.<<](https://chriskiehl.com/article/thoughts-after-10-years)
+* [Hier wird euch das Parquet-Dateiformat und die Verwendung in Python vorgestellt.](https://pythonfriday.dev/2025/02/265-working-with-parquet-files/)
+* [>>Unser Luftabwehr-Ausbildungszentrum kann sich nicht gegen Drohnen aus der Luft verteidigen.<<](https://blog.fefe.de/?ts=9956629b)
