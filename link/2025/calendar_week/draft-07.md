@@ -4,3 +4,15 @@
 * [netavark wurde in der Version 1.14.0 veröffentlicht.](https://github.com/containers/netavark/releases/tag/v1.14.0) - [aardvark-dns][https://github.com/containers/aardvark-dns/releases/tag/v1.14.0] damit dann auch
 * [kanidm wurde in der Version 1.5.0 veröffentlicht.](https://github.com/kanidm/kanidm/releases/tag/v1.5.0)
 * [Groß Britanien fordert von Apple den Zugriff auf alle verschlüsselten Daten.](https://blog.fefe.de/?ts=9954d181)
+* [Wegen der Milch! Bei Disney+ müsst ihr auch als "Keine Werbung"-Vertragsbezahler Werbung erdulden.](https://blog.fefe.de/?ts=9953c632) - Softwareproblem, kann man nichts machen
+* [Gut, dass dies geklärt wurde, Executive Orders sind Verordnungen und keine Gesetze.](https://blog.fefe.de/?ts=995262cc)
+* [Palo Alto wird bald massenhaft kaputter sein.](https://blog.fefe.de/?ts=99525094)
+* [Bitte nutzt kein Wetter Online, das sind die Arschkrampen der Gesellschaft.](https://blog.fefe.de/?ts=99524e78)
+* [Schlechte Luftqualität im Winter bei Nebel? Das sind nicht die ganzen fossilen Kraftwerke, das ist die Wetterlage!](https://blog.fefe.de/?ts=99524923)
+* [Nein? Doch! Oh? Die CIA hat einen neuen Bereich, Immobilienweisen.](https://blog.fefe.de/?ts=99556ada) - Und was die rausgefunden haben, ist unglaublich komplex. Werden weniger Wohnungen gebaut, sinkt dadurch die Zahl an neuen Wohnungen. Der Zusammenhang ist mir ja neu und verändert mein Weltbild.
+* [Wie neutral ist der öffentlich-rechtliche Rundfunk? So neutral wie Bayern, solange du nichts linkes machst, ist alles gut.](https://blog.fefe.de/?ts=99554e46)
+* [Falls ihr beiden CDU-Werbeplakaten von dem "Wir" geblendet werden. Im CDU-Wir sind solche Kommunistendinger wie das Deutschlandticket nicht gemeint.](https://blog.fefe.de/?ts=995544a6) - Das Wir in der CDU endet bei unter 250.000 Euro Einnahmen pro Jahr (also der Teil der nicht illegal am Fiskus vorbeigeführt wird)
+* [BYD macht das, was Volkswagen hätte machen müssen.](https://blog.fefe.de/?ts=9955fbbf)
+* [skopeo wurde in der Version 1.18.0 veröffentlicht.](https://github.com/containers/skopeo/releases/tag/v1.18.0)
+* [ravendb python client wurde in der Version 7.0 veröffentlicht.](https://github.com/ravendb/ravendb-python-client/releases/tag/7.0.0)
+* [AnyDesk ist kaputt](https://www.borncity.com/blog/2025/02/11/anydesk-schwachstelle-cve-2024-12754-13-000-instanzen-betroffen/)
