@@ -16,3 +16,11 @@
 * [skopeo wurde in der Version 1.18.0 veröffentlicht.](https://github.com/containers/skopeo/releases/tag/v1.18.0)
 * [ravendb python client wurde in der Version 7.0 veröffentlicht.](https://github.com/ravendb/ravendb-python-client/releases/tag/7.0.0)
 * [AnyDesk ist kaputt](https://www.borncity.com/blog/2025/02/11/anydesk-schwachstelle-cve-2024-12754-13-000-instanzen-betroffen/)
+* [Die Daten der ePA sind offiziell nur eine Ware.](https://netzpolitik.org/2025/gesundheitsdaten-fuenf-thesen-zur-elektronischen-patientenakte/) - Der Staat verkauft dann die Gesundheitsdaten seiner Bürger und haftet aber nicht bei Schäden.
+* [label-studio wurde in der Version 1.16.0 veröffentlicht.](https://github.com/HumanSignal/label-studio/releases/tag/1.16.0)
+* [dozzle wurde in der Version 8.11.0 veröffentlicht.](https://github.com/amir20/dozzle/releases/tag/v8.11.0)
+* [phpqa wurde in der Versiopn 1.104.0 veröffentlicht.](https://github.com/jakzal/phpqa/releases/tag/v1.104.0)
+* [nextcloud server wurde in der Version 30.0.6 veröffentlicht.](https://github.com/nextcloud/server/releases/tag/v30.0.6)
+* [Ihr wollt ein Transparenzgesetz? Dann müsst ihr die Linke wählen.](https://netzpolitik.org/2025/gescheitertes-transparenzgesetz-eine-verpasste-jahrhundertchance/)
+* [So stellt sich die CDU eben die freie Meinungsäußerung vor - Gemeinnütizge Vereine sollen die Fresse halten, sonst wird die Gemeinnütigkeit ganz schnell aberkannt!](https://www.onli-blogging.de/2487/Linksammlung-072025.html) - Fördergelder kann man ja auch schnell streichen
+* [Hier wird euch gezeigt wie ihr LetsEncrypt auf debian mit einem nginx aufsetzt.](https://blog.miguelgrinberg.com/post/using-free-let-s-encrypt-ssl-certificates-in-2025)
