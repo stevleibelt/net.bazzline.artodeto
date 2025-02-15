@@ -24,3 +24,8 @@
 * [Ihr wollt ein Transparenzgesetz? Dann müsst ihr die Linke wählen.](https://netzpolitik.org/2025/gescheitertes-transparenzgesetz-eine-verpasste-jahrhundertchance/)
 * [So stellt sich die CDU eben die freie Meinungsäußerung vor - Gemeinnütizge Vereine sollen die Fresse halten, sonst wird die Gemeinnütigkeit ganz schnell aberkannt!](https://www.onli-blogging.de/2487/Linksammlung-072025.html) - Fördergelder kann man ja auch schnell streichen
 * [Hier wird euch gezeigt wie ihr LetsEncrypt auf debian mit einem nginx aufsetzt.](https://blog.miguelgrinberg.com/post/using-free-let-s-encrypt-ssl-certificates-in-2025)
+* [fwupd wurde in der Version 2.0.6 veröffentlicht.](https://github.com/fwupd/fwupd/releases/tag/2.0.6)
+* [FreeRDP wurde in der Version 3.12.0 veröffentlicht.](https://github.com/FreeRDP/FreeRDP/releases/tag/3.12.0)
+* [Die LINKE ist jetzt schon bei neun Prozentpunkte.](https://blog.fefe.de/?ts=99518ede)
+* [uv wurde in der Version 0.6.0 veröffentlicht.](https://github.com/astral-sh/uv/releases/tag/0.6.0)
+* [Go wurde in der Version 1.24 veröffentlicht.](https://www.phoronix.com/news/Go-1.24-Released)
