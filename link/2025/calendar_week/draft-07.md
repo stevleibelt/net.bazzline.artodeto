@@ -29,3 +29,11 @@
 * [Die LINKE ist jetzt schon bei neun Prozentpunkte.](https://blog.fefe.de/?ts=99518ede)
 * [uv wurde in der Version 0.6.0 veröffentlicht.](https://github.com/astral-sh/uv/releases/tag/0.6.0)
 * [Go wurde in der Version 1.24 veröffentlicht.](https://www.phoronix.com/news/Go-1.24-Released)
+* [Spielen wir das Spiel mal mit: >>vegetative electron microscopy<<](https://blog.fefe.de/?ts=994fc9be)
+* [Ihr müsst stark sein, der Wechsel zu regenerative Energien ist doch deutlich günstiger als Carbon capture.](https://blog.fefe.de/?ts=994e091a)
+* [Gerhart Baum ist gestorben.](https://netzpolitik.org/2025/nachruf-gerhart-baum-datenschuetzer-aus-ueberzeugung/)
+* [Inkay wurde in der Version 3.0.0 veröffentlicht.](https://wiidatabase.de/inkay-v3-0-0/)
+* [Private Videokameras machen uns den Datenschutz und den brechtigten Glauben an eine normale Welt kaputt.](https://www.borncity.com/blog/2025/02/16/datenschutzbeauftragte-besorgt-ueber-zunehmende-private-videoueberwachung/)
+* [Realitätsabgleich IT-Mitarbeiter](https://www.borncity.com/blog/2025/02/16/umgang-mit-it-mitarbeitern-und-abteilungen-stimmungsbild-gefragt/) - Man ist an allem schuld und steht immer nur im Weg?
+* [>>Daten sind längst zur wichtigsten Währung im digitalen Zeitalter geworden. Unternehmen, die darauf Zugriff haben, können weit mehr daraus ableiten als nur das Einkaufsverhalten einzelner Personen.<<](https://www.kuketz-blog.de/datenschutz-als-ware-wie-einkaufs-apps-unser-verhalten-und-unsere-gesellschaft-veraendern/)
+* [>>Wer nach 1945 immer noch der Meinung ist [...] mehr Geld [für Mordwerkzeug] ausgeben muss, [...] der ist [...] eine dumme Pottsau.<<](https://tuxproject.de/blog/2025/02/dies-ist-keine-wahlempfehlung/)
