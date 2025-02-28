@@ -9,3 +9,5 @@
 * [Herzlichen Glückwunsch Mittelsachsen! Der Landkreis erhält den Preis für Deutsche Fachkräfte im Jahr 2025](https://www.youtube.com/watch?v=32T7mZg93HA)
 * [EA hat überraschend einige Command and Conquer-Teile unter GPL veröffentlicht (Quelltext, nicht die Inhalte)](https://www.phoronix.com/news/EA-Open-Source-CnC-Red-Alert) - Danke
 * [Hier wird euch python's uv in aller Kürze erklärt.](https://pythonfriday.dev/2025/02/268-manage-projects-with-uv/)
+* [Genode wurde in der Version 25.02 veröffentlicht.](https://github.com/genodelabs/genode/releases/tag/25.02)
+* [immich wurde in der Version 1.127.0 veröffentlicht.](https://github.com/immich-app/immich/releases/tag/v1.127.0)
