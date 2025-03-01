@@ -11,3 +11,6 @@
 * [Hier wird euch python's uv in aller Kürze erklärt.](https://pythonfriday.dev/2025/02/268-manage-projects-with-uv/)
 * [Genode wurde in der Version 25.02 veröffentlicht.](https://github.com/genodelabs/genode/releases/tag/25.02)
 * [immich wurde in der Version 1.127.0 veröffentlicht.](https://github.com/immich-app/immich/releases/tag/v1.127.0)
+* [OpenEMS wurde in der Version 2025.3.0 veröffentlicht.](https://github.com/OpenEMS/openems/releases/tag/2025.3.0)
+* [Selbst die Transatlantiker kriegen langsam Flitzekacke in ihre Unterhose.](https://blog.fefe.de/?ts=993c38aa)
+* [Fotzenfritz muss man aber wohl ins Ultra-Lager der Transatlantiker packen.](https://blog.fefe.de/?ts=993c22ab)
