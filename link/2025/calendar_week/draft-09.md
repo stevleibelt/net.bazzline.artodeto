@@ -14,3 +14,7 @@
 * [OpenEMS wurde in der Version 2025.3.0 veröffentlicht.](https://github.com/OpenEMS/openems/releases/tag/2025.3.0)
 * [Selbst die Transatlantiker kriegen langsam Flitzekacke in ihre Unterhose.](https://blog.fefe.de/?ts=993c38aa)
 * [Fotzenfritz muss man aber wohl ins Ultra-Lager der Transatlantiker packen.](https://blog.fefe.de/?ts=993c22ab)
+* [Microsoft Office 365 ist mal wieder kaputt.](https://blog.fefe.de/?ts=993a40a2) - Mit so einem zentralen Dienst kann man auch wunderbar Wirtschaftssabotage betreiben. Europa sollte sich emanzipieren.
+* [Paris geht Airbnb so auf den Geist, dass das Ordnungsamt anfängt Schlüsselboxen abzuflexen.](https://blog.fefe.de/?ts=993adb28) - Airbnb ist wie Uber, das Ende des Kapitalismus
+* [Nextcloud Server 31 ist für einige Nutzer kaputt, wenn es um die Verschlüsselung von Nutzerdaten geht.](https://github.com/nextcloud/server/issues/51066)
+* [HeroicGamesLauncher wurde in der Version 2.16.0 veröffentlicht.](https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher/releases/tag/v2.16.0)
