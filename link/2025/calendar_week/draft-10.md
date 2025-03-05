@@ -8,3 +8,5 @@
 * [>>Old and busted: "KI" performt schlechter als was wir vorher hatten und ist Größenordnungen ineffizienter, außerdem halluziniert sie anstatt zu liefern.<<](https://blog.fefe.de/?ts=99368e2d)
 * [>>Rüstungsbranche schluckt ehemalige Autoindustrie-Mitarbeiter<<](https://blog.fefe.de/?ts=99368caa) - Wie es früher schon mal war.
 * [Die Tagesschau verhält sich weiterhin Linientreu zur Blockpartei](https://blog.fefe.de/?ts=9936fe58)
+* [tacticalrmm wurde in der Version 1.0.0 veröffentlicht.](https://github.com/amidaware/tacticalrmm/releases/tag/v1.0.0)
+* [Linux from Scratch wurde in der Version 12.3. veröffentlicht.](https://lwn.net/Articles/1013096/)
