@@ -24,3 +24,5 @@
 * [TL/DR; Niemals den `sub` für euren OIDC-Auth ändern.](https://utcc.utoronto.ca/~cks/space/blog/tech/OIDCLoadBearingSubClaim) - Womit ich aber nicht konform gehe ist, dass der `sub` kein `YXVzZXIxMi5zb21laWRw` sein darf. Der IDP garangiert nur, dass die Nutzer-ID (der Inhalt von `sub`) stabil bleibt
 * [Uberspace 8 wird Arch, Postfix, Caddy und und und](https://blog.uberspace.de/2025/03/unboxing-uberspace8/) - Ich hab direkt bock drauf
 * [Hallo liebe EU, wer 900 Milliarden für Kriegsinfrastruktur über hat, hat doch bestimmt noch 300 Milliarden für kritische Open Source Software übrig, oder?](https://netzpolitik.org/2025/projekte-fuer-internetfreiheit-das-gesamte-oekosystem-wird-gerade-zerstoert/)
+* [Rust Coreutils wurde in der Version 0.0.30 veröffentlicht.](https://www.phoronix.com/news/uutils-Coreutils-0.0.30)
+* [Hier wird euch OIDC und SAML sehr schön zusammengefasst und erklärt.](https://utcc.utoronto.ca/~cks/space/blog/tech/SAMLAndOIDCProvidingInformation)
