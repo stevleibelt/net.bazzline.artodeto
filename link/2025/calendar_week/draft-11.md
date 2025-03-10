@@ -1,0 +1,3 @@
+* [Die US-Amerikanischen Dienstleister müssen ganz offen "Alle Daten dem Präsidenten" umsetzen und was macht das BSI? Sichere Bundescloud mit Google!](https://blog.fefe.de/?ts=9932b2ac)
+* [Neue Stufe der Realität erreicht, Trump Anhänger verweisen auf den Faktenchecker indem enthalten ist, dass Trump's Aussagen falsch sind.](https://blog.fefe.de/?ts=99307e77) - Macht aber nicht, Trump hat recht, wie immer
+* [Die Porsche SE macht Verluste in zweistelliger Milliardenhöhe. Trotzdem erhalten die Anleger Dividenden.](https://blog.fefe.de/?ts=99300022) - Wurde uns nicht immer ins Gesicht gelogen, dass Dividenden nur bei erfolgreichen Geschäftsjahren ausgezahlt werden?
