@@ -8,3 +8,5 @@
 * Schaut euch mal die Bilder von Merz nach der Wahl an. Auf einmal sehen die Bilder seinem Alter entsprechend aus, da hängt das Kinn und die Wangen.
 * [Nein? Doch! Oh? >>Eine Ursache für Krankenhäuser mit Unterbesetzung, Kosten- und Zeitdruck ist die zunehmende Privatisierung des Gesundheitssystems.<<](https://www.deutschlandfunkkultur.de/wie-finanzinvestoren-unser-gesundheitssystem-pluendern-100.html)
 * [Netzpolitik vergleicht ganz neutral die bekanntesten Webbrowser.](https://netzpolitik.org/2025/sicher-surfen-gute-browser-schlechte-browser/)
+* [HP macht HP Dinge und macht Drucker durch eine Aktualisierung der Firmware kaputt](https://www.borncity.com/blog/2025/03/11/hp-firmware-update-macht-laserdrucker-unbrauchbar-error-11/)
+* [Nein? Doch! Oh? Gesetzte von Heute werden zur Zensur genutzt.](https://netzpolitik.org/2025/take-it-down-act-wie-ein-us-gesetz-gegen-sexualisierte-deepfakes-zum-zensurinstrument-werden-koennte/)
