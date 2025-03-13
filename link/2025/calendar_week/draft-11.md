@@ -10,3 +10,6 @@
 * [Netzpolitik vergleicht ganz neutral die bekanntesten Webbrowser.](https://netzpolitik.org/2025/sicher-surfen-gute-browser-schlechte-browser/)
 * [HP macht HP Dinge und macht Drucker durch eine Aktualisierung der Firmware kaputt](https://www.borncity.com/blog/2025/03/11/hp-firmware-update-macht-laserdrucker-unbrauchbar-error-11/)
 * [Nein? Doch! Oh? Gesetzte von Heute werden zur Zensur genutzt.](https://netzpolitik.org/2025/take-it-down-act-wie-ein-us-gesetz-gegen-sexualisierte-deepfakes-zum-zensurinstrument-werden-koennte/)
+* [Falls jemand noch Zweifel hatte das die COP nicht doch nur dafür genutzt wird um umweltschädigende Geschäfte zu machen (man ist ja eh gerade da)](https://blog.fefe.de/?ts=992f1bdf)
+* [Nein? Doch! Oh? Erst fordern die Briten, dass Apple eine Backdoor einbaut und nun haben die gleichen Leute Sorge, da Ihre Geräte ja nun auch diese Backdoor habe.](https://blog.fefe.de/?ts=992fac1c) - Freudscher Vertipper, Backdoof
+* [archlinux archzfs lts iso wurde in der Version 20250312 veröffentlicht.](https://github.com/stevleibelt/arch-linux-live-cd-iso-with-zfs/releases/tag/20250312) - Linux 6.12.18-1-lts mit zfs-2.3.0-1
