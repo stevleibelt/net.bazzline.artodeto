@@ -13,3 +13,8 @@
 * [Falls jemand noch Zweifel hatte das die COP nicht doch nur dafür genutzt wird um umweltschädigende Geschäfte zu machen (man ist ja eh gerade da)](https://blog.fefe.de/?ts=992f1bdf)
 * [Nein? Doch! Oh? Erst fordern die Briten, dass Apple eine Backdoor einbaut und nun haben die gleichen Leute Sorge, da Ihre Geräte ja nun auch diese Backdoor habe.](https://blog.fefe.de/?ts=992fac1c) - Freudscher Vertipper, Backdoof
 * [archlinux archzfs lts iso wurde in der Version 20250312 veröffentlicht.](https://github.com/stevleibelt/arch-linux-live-cd-iso-with-zfs/releases/tag/20250312) - Linux 6.12.18-1-lts mit zfs-2.3.0-1
+* [ruff wurde in der Version 0.10.0 veröffentlicht.](https://github.com/astral-sh/ruff/releases/tag/0.10.0)
+* [laragon wurde in der Version 8.0.0 veröffentlicht.](https://github.com/leokhoa/laragon/releases/tag/8.0.0)
+* [nextcloud server wurde in der Version 31.0.1 veröffentlicht.](https://github.com/nextcloud/server/releases/tag/v31.0.1)
+* [mermaidjs wurde in der Version 11.5.0 veröffentlicht.](https://github.com/mermaid-js/mermaid/releases/tag/mermaid%4011.5.0)
+* [dxvk wurde in der Version 2.6 veröffentlicht.](https://www.phoronix.com/news/DXVK-2.6-Released)
