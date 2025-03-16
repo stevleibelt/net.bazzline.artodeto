@@ -18,3 +18,10 @@
 * [nextcloud server wurde in der Version 31.0.1 veröffentlicht.](https://github.com/nextcloud/server/releases/tag/v31.0.1)
 * [mermaidjs wurde in der Version 11.5.0 veröffentlicht.](https://github.com/mermaid-js/mermaid/releases/tag/mermaid%4011.5.0)
 * [dxvk wurde in der Version 2.6 veröffentlicht.](https://www.phoronix.com/news/DXVK-2.6-Released)
+* [Der öffentliche Rundfunk in Deutschland gibt 400 Millionen Euro für Sportrechte aus, soll jetzt sparen und will natürlich Spartensendungen und Informationssendungen stilllegen.](https://www.telepolis.de/features/Spartenkanaele-beim-oeffentlich-rechtlichen-Rundfunk-Alles-dichtmachen-10313294.html) - Klar, öffentlicher Rundfunk hatte schon immer den Staatsauftrag der Bot und Spiele
+* [Nachdem jeder honk dängt, dass man Man-in-the-middle Angreifer wie Cloudflare braucht, ist es nur gerecht, dass Cloudflare jetzt die Gleichschaltung der Webbrowser aufzwingt.](https://www.theregister.com/2025/03/04/cloudflare_blocking_niche_browsers/) - Google's Wanzenbrowser Chrome oder 404!
+* [Kurze Erklärung warum sich der Staat früher überall Bürgerämter leisten konnte und es keinen Schwarzmarkt für Behördentermine gab.](https://blog.fefe.de/?ts=992b12c8) - Weniger teure Softwarelizenzen, mehr lokale Zellen die die Ansprüche der lokalen Nutzergruppe kannten
+* [Städte ohne Rechte der Arbeiter? Die USA nennen das "Freedom Cities"](https://www.heise.de/news/Unregulierte-Tech-Tests-Thiel-Altman-und-Co-wollen-Freedom-Cities-10309769.html)
+*
+* [Git wurde in der Version 2.49.0 veröffentlicht.](https://lwn.net/ml/all/xmqqfrjfilc8.fsf%40gitster.g/)
+* [Docspell wurde in der Version 0.43.0 veröffentlicht.](https://github.com/eikek/docspell/releases/tag/v0.43.0)
