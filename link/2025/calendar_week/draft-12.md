@@ -11,3 +11,4 @@
 * [S9y lebt und atmet unter PHP 8.4](https://www.onli-blogging.de/2499/Kuerzliche-Entwicklungen-bei-Serendipity.html)
 * [Nein? Doch! Oh? >>Hintertüren zur Überwachung sind schlecht für die Wirtschaft<<](https://netzpolitik.org/2025/ueberwachungsagenda-going-dark-lets-talk-to-business/)
 * [>>Je mehr Macht wir Technologien wie KI und ihren Entwickler:innen geben, desto stärker sollten wir uns fragen, ob wir das, was mit diesen Entwicklungen bewirkt werden soll, wollen.<<](https://katika-kuehnreich.com/blog/2025/03/17/video-zum-vortrag-zauberhafte-ki-welt/)
+* [Nein? Doch! Oh? "Kindersicherung" als App ist in Wirklichkeit eine Spionage-App](https://netzpolitik.org/2025/spionage-apps-neue-studie-enthuellt-risiken-von-spionage-apps-fuer-kinder/)
