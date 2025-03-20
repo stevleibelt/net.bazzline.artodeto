@@ -12,3 +12,13 @@
 * [Nein? Doch! Oh? >>Hintertüren zur Überwachung sind schlecht für die Wirtschaft<<](https://netzpolitik.org/2025/ueberwachungsagenda-going-dark-lets-talk-to-business/)
 * [>>Je mehr Macht wir Technologien wie KI und ihren Entwickler:innen geben, desto stärker sollten wir uns fragen, ob wir das, was mit diesen Entwicklungen bewirkt werden soll, wollen.<<](https://katika-kuehnreich.com/blog/2025/03/17/video-zum-vortrag-zauberhafte-ki-welt/)
 * [Nein? Doch! Oh? "Kindersicherung" als App ist in Wirklichkeit eine Spionage-App](https://netzpolitik.org/2025/spionage-apps-neue-studie-enthuellt-risiken-von-spionage-apps-fuer-kinder/)
+* [Warum nennt man Kybernetik eigentlich jetzt KI?](https://media.ccc.de/v/dgwk2025-56334-zauberhafte-ki-welt-energ) - Na um Geld zu kriegen. Schön auch die Aussage, dass den IT-Tech-Bros so langsam die SF-Literatur ausgeht und sie so langsam selbst kreativ werden müssen.
+* [Die Welt verbrennt für KI/LLM. Aktuell ist es Grok von Twitter/X, dort arbeiten Notstromer weil das reichste Land der Welt absolut schlechte Infrastruktur hat.](https://blog.fefe.de/?ts=99242944)
+* [Ein Glas Zuckerwasser pro Tag? Diabetes, Herzkrankheiten und Krebs gibt es für lau dazu.](https://blog.fefe.de/?ts=99242667)
+* [python xarray wurde in der Version 2025.03.0 veröffentlicht.](https://github.com/pydata/xarray/releases/tag/v2025.03.0)
+* [Nextcloud server wurde in der Version 31.0.2 veröffentlicht.](https://github.com/nextcloud/server/releases/tag/v31.0.2)
+* [Minority-Report, ich höre dich trapsen. ChatGPT behauptet, dass Person X ein Kindermörder ist.](https://noyb.eu/de/ai-hallucinations-chatgpt-created-fake-child-murderer) - Quellenprüfung ist so 80ziger, also fing der Staat mal an zu arbeiten
+* [Gnome wurde in der Version 48 veröffentlicht.](https://release.gnome.org/48/)
+* [peertube wurde in der Version 7.1 veröffentlicht.](https://joinpeertube.org/news/release-7.1)
+* [>>Die spielbasierte Kindheit wurde in den 90er-Jahren durch die Abkehr vom Spielen im Freien ersetzt, was zu einer „Schwäche und Zerbrechlichkeit“ unter Jugendlichen führte.<<](https://www.deutschlandfunk.de/mediennutzung-tv-computer-kinder-jugendliche-gehirn-100.html)
+* [Das MIT empfiehlt jetzt auch, lieber nicht in die USA einzureisen.](https://blog.fefe.de/?ts=9925136d)
