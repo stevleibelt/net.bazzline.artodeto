@@ -22,3 +22,10 @@
 * [peertube wurde in der Version 7.1 veröffentlicht.](https://joinpeertube.org/news/release-7.1)
 * [>>Die spielbasierte Kindheit wurde in den 90er-Jahren durch die Abkehr vom Spielen im Freien ersetzt, was zu einer „Schwäche und Zerbrechlichkeit“ unter Jugendlichen führte.<<](https://www.deutschlandfunk.de/mediennutzung-tv-computer-kinder-jugendliche-gehirn-100.html)
 * [Das MIT empfiehlt jetzt auch, lieber nicht in die USA einzureisen.](https://blog.fefe.de/?ts=9925136d)
+* [Wer auch immer auf die Idee kam die F-35 mit Cloud-Anbindung auszustatten.](https://blog.fefe.de/?ts=9922b19a) - Der wird nur von den Leuten überflügelt, der diese Dinger auch noch kauft
+* [Berlin, als Zeichen, geht weiter kaputt.](https://blog.fefe.de/?ts=9922f923) - Es ist wohl bald egal ob du Stromer oder Verbrenner fährst, du kommst eh nirgendswo mehr hin
+* [naps2 wurde in der Version 8.1.0 veröffentlicht.](https://github.com/cyanfish/naps2/releases/tag/v8.1.0)
+* [Nicht nur das die LLM/KI-Firmen unseren Planeten verbrennen, sie nutzen auch noch jegliche freie Infrastruktur über deren Belastungsgrenze hinaus.](https://www.onli-blogging.de/2500/Linksammlung-122025.html) - Wundert euch nicht, wenn es immer mehr "Captchas" und sonstigen mist gibt. Ohne den Rotz, kann bald keiner mehr das Internet bezahlen.
+* [Hier werden euch alle vorhandenen, magischen Dinge in Python grundlegend erklärt.](https://www.freecodecamp.org/news/python-magic-methods-practical-guide/)
+* [Digitale Souveränität bedeutet nicht "Freie Software kostet nichts"](https://netzpolitik.org/2025/jenseits-des-marketingbegriffs-was-digitale-souveraenitaet-fuer-die-oeffentliche-verwaltung-bedeutet/) - Es beudetet, dass einem die digitale Infrastruktur nicht kaputt geht, wenn ein Konzern mist macht.
+* [Danke Thorsten Müller für deine Stimme.](https://netzpolitik.org/2025/text-to-speech-dieser-mann-hat-seine-stimme-verschenkt/)
