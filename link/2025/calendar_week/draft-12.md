@@ -22,3 +22,8 @@
 * [peertube wurde in der Version 7.1 veröffentlicht.](https://joinpeertube.org/news/release-7.1)
 * [>>Die spielbasierte Kindheit wurde in den 90er-Jahren durch die Abkehr vom Spielen im Freien ersetzt, was zu einer „Schwäche und Zerbrechlichkeit“ unter Jugendlichen führte.<<](https://www.deutschlandfunk.de/mediennutzung-tv-computer-kinder-jugendliche-gehirn-100.html)
 * [Das MIT empfiehlt jetzt auch, lieber nicht in die USA einzureisen.](https://blog.fefe.de/?ts=9925136d)
+* [Langfristige Planung und Nutzung unserer Steuern, die Gülle kommt in Berlin nach oben](https://blog.fefe.de/?ts=9923aebc)
+* [Merz belastet unsere Kinder mit 500 Milliarden für Infrastruktur - die Bitkom so "100 Milliarden her für KI"](https://blog.fefe.de/?ts=9923fd13)
+* [Forgejo wurde in der Version 10.0.2 veröffentlicht.](https://codeberg.org/forgejo/forgejo/releases/tag/v10.0.2)
+* [Realitätsabgleich Alkoholkonsum: kein Alkohol ist doch besser](https://www.deutschlandfunk.de/alkoholsucht-alkoholabusus-alkohol-gesundheit-100.html)
+* [rq wurde in der Version 2.2 veröffentlicht.](https://github.com/rq/rq/releases/tag/v2.2)
