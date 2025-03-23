@@ -27,3 +27,12 @@
 * [Forgejo wurde in der Version 10.0.2 veröffentlicht.](https://codeberg.org/forgejo/forgejo/releases/tag/v10.0.2)
 * [Realitätsabgleich Alkoholkonsum: kein Alkohol ist doch besser](https://www.deutschlandfunk.de/alkoholsucht-alkoholabusus-alkohol-gesundheit-100.html)
 * [rq wurde in der Version 2.2 veröffentlicht.](https://github.com/rq/rq/releases/tag/v2.2)
+* [Wer auch immer auf die Idee kam die F-35 mit Cloud-Anbindung auszustatten.](https://blog.fefe.de/?ts=9922b19a) - Der wird nur von den Leuten überflügelt, der diese Dinger auch noch kauft
+* [Berlin, als Zeichen, geht weiter kaputt.](https://blog.fefe.de/?ts=9922f923) - Es ist wohl bald egal ob du Stromer oder Verbrenner fährst, du kommst eh nirgendswo mehr hin
+* [naps2 wurde in der Version 8.1.0 veröffentlicht.](https://github.com/cyanfish/naps2/releases/tag/v8.1.0)
+* [Nicht nur das die LLM/KI-Firmen unseren Planeten verbrennen, sie nutzen auch noch jegliche freie Infrastruktur über deren Belastungsgrenze hinaus.](https://www.onli-blogging.de/2500/Linksammlung-122025.html) - Wundert euch nicht, wenn es immer mehr "Captchas" und sonstigen mist gibt. Ohne den Rotz, kann bald keiner mehr das Internet bezahlen.
+* [Hier werden euch alle vorhandenen, magischen Dinge in Python grundlegend erklärt.](https://www.freecodecamp.org/news/python-magic-methods-practical-guide/)
+* [Digitale Souveränität bedeutet nicht "Freie Software kostet nichts"](https://netzpolitik.org/2025/jenseits-des-marketingbegriffs-was-digitale-souveraenitaet-fuer-die-oeffentliche-verwaltung-bedeutet/) - Es beudetet, dass einem die digitale Infrastruktur nicht kaputt geht, wenn ein Konzern mist macht.
+* [Danke Thorsten Müller für deine Stimme.](https://netzpolitik.org/2025/text-to-speech-dieser-mann-hat-seine-stimme-verschenkt/)
+* [Lan Commander wurde in der Version 1.1.5 veröffentlicht.](https://github.com/LANCommander/LANCommander/releases/tag/v1.1.5)
+* [War der Markt doch überhitzt? In den USA wurde jeder vierte IT-Job gestrichen](https://blog.fefe.de/?ts=9921094f) - Meine Vermutung, die Entwickeln alle so wie VW sein neues Betriebssystem und so langsam glaubt keiner mehr an die goldenen Zeiten
