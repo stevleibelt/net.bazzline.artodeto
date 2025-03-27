@@ -20,3 +20,8 @@
 * [Achtung, die CxU will euch digitale Souveränität ohne Open Source verkaufen.](https://netzpolitik.org/2025/koalitionsverhandlungen-wo-union-und-spd-bei-der-digitalpolitik-streiten/) - Nie fühlt man sich souveräner als wenn man die gestiegenen Lizenzkosten an den Vendor-Lockin der transatlantischen Brücke veruntreut
 * [Kuketz hat allen Eltern einen Dienst erwiesen und veröffentlicht eine Argumentationshilfe gegen WhatsApp in der Kita oder Schulen.](https://www.kuketz-blog.de/argumentationshilfe-fuer-elternabende-warum-whatsapp-in-kita-und-schule-keine-gute-wahl-ist/)
 * [mpv wurde in der Version 0.40.0 veröffentlicht.](https://github.com/mpv-player/mpv/releases/tag/v0.40.0)
+* [Ich bin mir unsicher warum diese "Die USA Regierung nutzt Signal um illegalen Scheiß zu machen" Thema durchs Dorf getrieben wird.](https://blog.fefe.de/?ts=991bd723) - Am Ende steht kommende Woche dann "Seht ihr, verschlüsselte Kommunikation gehört verboten" auf allen Leitmedien
+* [Nein? Doch! Oh? Europa braucht Gas und kann nicht binnen Sekunden davon wegmigrieren. Völlig überraschend nutzt Europa weiterhin Gas und da stellt sich raus, es ist das gleiche Gas, nur in anderer Verpackung und dafür doppelt so teuer.](https://blog.fefe.de/?ts=991bd6ca) - Das muss die CIA herausgefunden haben. Sonst ist keiner kompetent genug dafür!
+* [frankenphp wurde in der Version 1.5.0 veröffentlicht.](https://github.com/dunglas/frankenphp/releases/tag/v1.5.0)
+* [Hier wird euch c++ und playbackpress näher gebracht.](https://www.freecodecamp.org/news/learn-programming-in-cpp/)
+* [Hier wird euch gezeigt, wie ihr fastAPI und Svelt miteinander verbindet.](https://testdriven.io/blog/fastapi-svelte/)
