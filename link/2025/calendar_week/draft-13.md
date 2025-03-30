@@ -36,3 +36,10 @@
 * [Auch die IETF haben wir wohl International verloren.](https://boycott-ietf127.org/)
 * [Die Browser-Erweiterung "Go European" zeigt euch beim Surfen alternativen aus Europa an.](https://codeberg.org/K-Robin/GoEuropean) - Das bedeutet natürlich auch, dass die Erweiterung permanent eure URL auswertet
 * [waydroid wurden in der Version 1.5.0 veröffentlicht.](https://github.com/waydroid/waydroid/releases/tag/1.5.0)
+* [Scheinbar ist der Plan der Mütterrente nutzlos, so zumindest die Deutsche Rentenversicherung.](https://blog.fefe.de/?ts=9916dfc4)
+* [Lasst es die großen Anbieter machen, die können das nämlich. Orcale ist dann wohl einer eine kleine Softwarebude, die kann das nämlich nicht.](https://www.borncity.com/blog/2025/03/30/oracle-health-gehackt-us-patientendaten-abgeflossen/)
+* [Schade, seit TrueNAS 24.10.2 könnt ihr die ISO nicht mehr mit Ventoy starten.](https://forums.truenas.com/t/scale-24-10-2-is-there-an-issue-with-the-installer-iso-fails-to-boot-cannot-load-kernel-module/35510/11)
+* [Hier wird euch gezeigt, wie ihr euren Python-Code schneller macht.](https://www.freecodecamp.org/news/why-your-code-is-slow-common-performance-mistakes-beginners-make/)
+* [>>Die transatlantische Ära ist vorbei – höchste Zeit, daraus Konsequenzen zu ziehen. Die USA agieren nicht mehr als Partner, sondern als Gegner, der uns wirtschaftlich und technologisch unter Druck setzt.<<](https://www.kuketz-blog.de/digitale-souveraenitaet-statt-abhaengigkeit-warum-der-abschied-von-us-it-unvermeidlich-ist/)
+* [Mit pyinstaller erschafft ihr ein .deb aus euren Pythonanwendung.](https://linuxhandbook.com/package-python-app-deb/)
+* [In universities, sometimes simple questions aren't simple.](https://utcc.utoronto.ca/~cks/space/blog/tech/UniversityHowManyProfessors)
