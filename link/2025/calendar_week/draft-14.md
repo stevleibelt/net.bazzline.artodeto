@@ -7,3 +7,10 @@
 * [PostmarkOS bringt eine virtuelle Tastatur mit automatischer Wortkorrektur.](https://postmarketos.org/blog/2025/04/01/in-search-for-a-better-keyboard/)
 * [Nachdem man gemerkt hat, wie praktisch Vollverschlüsslung ist, unterstützt die USA eben jene Entwicklung nun doch.](https://netzpolitik.org/2025/open-technology-fund-us-regierung-will-nun-doch-projekte-fuer-internetfreiheit-finanzieren/)
 * [Ihr müsst Windows 11 installieren? `Shift + F10`, gefolgt von `start ms-cxh:localonly`, dann könnt ihr **noch** ohne Microsoft-Konto fortfahren.](https://www.kuketz-blog.de/windows-11-ohne-microsoft-zwangs-konto-nutzen/)
+* [Digitalisierung funktioniert auch im Gefängnis nicht, Türen öffnen sich einfach so - Softwarefehler.](https://blog.fefe.de/?ts=991235fa)
+* [War boys, proud boys, so langsam vermischt man Realität mit Fiktion.](https://blog.fefe.de/?ts=99122f23)
+* [Werden uns die deutschen Autobauer wirtschaftlich unterstützen oder retten? Die Antwort ist NEIN.](https://blog.fefe.de/?ts=9912936e)
+* [Die Superreichen sind in den USA endlich vom lästigen Datenschutz befreit.](https://blog.fefe.de/?ts=99157bc5)
+* [tenacity wurde in der Version 9.1.2 veröffentlicht.](https://github.com/jd/tenacity/releases/tag/9.1.2)
+* [>>Die zunehmende Verknüpfung von Künstlicher Intelligenz und massenhafter Datensammlung birgt erhebliche Risiken für Datenschutz, Privatsphäre und die Kontrolle über persönliche Informationen. Während Unternehmen und Anbieter KI als Fortschritt verkaufen, sind die Auswirkungen für die Nutzer oft intransparent und potenziell gravierend.<<](https://www.kuketz-blog.de/ki-der-elefant-im-datenladen-wie-der-datenrausch-den-datenschutz-erdrueckt/)
+* [Ach liebe EU, blah, blah, blah Bedrohung ... deswegen müssen Bürger gläsern werden.](https://netzpolitik.org/2025/going-dark-eu-stellt-strategie-zur-inneren-sicherheit-vor/) - Mir fehlt jeglicher Diskurs in diesem Bereich.
