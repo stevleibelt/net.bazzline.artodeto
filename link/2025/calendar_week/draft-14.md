@@ -14,3 +14,10 @@
 * [tenacity wurde in der Version 9.1.2 veröffentlicht.](https://github.com/jd/tenacity/releases/tag/9.1.2)
 * [>>Die zunehmende Verknüpfung von Künstlicher Intelligenz und massenhafter Datensammlung birgt erhebliche Risiken für Datenschutz, Privatsphäre und die Kontrolle über persönliche Informationen. Während Unternehmen und Anbieter KI als Fortschritt verkaufen, sind die Auswirkungen für die Nutzer oft intransparent und potenziell gravierend.<<](https://www.kuketz-blog.de/ki-der-elefant-im-datenladen-wie-der-datenrausch-den-datenschutz-erdrueckt/)
 * [Ach liebe EU, blah, blah, blah Bedrohung ... deswegen müssen Bürger gläsern werden.](https://netzpolitik.org/2025/going-dark-eu-stellt-strategie-zur-inneren-sicherheit-vor/) - Mir fehlt jeglicher Diskurs in diesem Bereich.
+* [Schade wenn man recht behält, die Bundesdatenschutzbeauftrage ist ein U-Boot der Werbe- und Datenverarbeitenden Industrie.](https://blog.fefe.de/?ts=991092e5)
+* [rq wurde in der Version 2.3 veröffentlicht.](https://github.com/rq/rq/releases/tag/v2.3.0)
+* [OpenDTU wurde in der Version 25.4.2 veröffentlicht.](https://github.com/tbnobody/OpenDTU/releases/tag/v25.4.2)
+* [php Carbon wurde in der Version 3.9.0 veröffentlicht.](https://github.com/briannesbitt/Carbon/releases/tag/3.9.0)
+* [Scheinbar fällt jeder Zweite bei der Theorieprüfung des KfZ-Führerscheins durch.](https://www.deutschlandfunkkultur.de/fuehrerschein-preis-kosten-teuer-100.html) - Ob da die Prüfungen zu schwer geworden sind? Gibt es zu viele Gesetze? Oder lernen die Menschen heute schlichtweg anders oder schlechter?
+* [Rockbox wurde in der Version 4.0 veröffentlicht.](https://www.rockbox.org/wiki/ReleaseNotes400)
+* [Bruce Schneier schreibt, warum wir nach über 70 Jahren IT so langsam mal Datenintegrität benötigen.](https://www.schneier.com/blog/archives/2025/04/web-3-0-requires-data-integrity.html)
