@@ -29,3 +29,6 @@
 * [Den Wunsch Bargeld zu verbieten wird wieder deutlicher.](https://blog.fefe.de/?ts=990e2479) - Natürlich hat sich die SPD wieder davorschieben lassen.
 * [Der öffentliche Rundfunk erzeugt mit Steuergelder ein sehr gutes Marktangebot, was fordert der freie Markt? "Das Angebot muss schlechter werden."](https://blog.fefe.de/?ts=990ef95c) - Schade, dass die Politiker dann immer wegen den Geldkoffern einknicken.
 * [Tooljet wurde in der Version 3.8.0 veröffentlicht.](https://github.com/ToolJet/ToolJet/releases/tag/v3.8.0)
+* [Nein? Doch! Oh? Durch die CO2-Einsparung und geringerer Belastung der Straßen spart der Bund auch noch Geld ein, auch wenn er das Deutschlandticket im vollen Umfang bezahlen würde.](https://blog.fefe.de/?ts=990fd88c)
+* [Debian APT wurde in der Version 3.0 veröffentlicht.](https://www.phoronix.com/news/Debian-APT-3.0-Released)
+* [Jellyfin Server wurde in der Version 10.10.7 veröffentlicht.](https://github.com/jellyfin/jellyfin/releases/tag/v10.10.7)
