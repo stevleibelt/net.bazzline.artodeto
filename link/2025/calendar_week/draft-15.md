@@ -1,3 +1,10 @@
 * [tacticalrmm wurde in der Version 1.1.0 veröffentlicht.](https://github.com/amidaware/tacticalrmm/releases/tag/v1.1.0)
 * [Europcar sind die Kundendaten abhanden gekommen.](https://www.borncity.com/blog/2025/04/06/europcar-hack/) - Solange IT-Sicherheit keine gesetzliche Pflicht ist, wird das so bleiben
 * [LensDeal geht es wie Europcar und hat Kundendaten verloren.](https://www.borncity.com/blog/2025/04/05/datenleck-bei-lensdeal-100-000-nutzerdaten-abgeflossen/)
+* [Sachsens Abhörzentrum wird nicht fertig, weil der Softwarehersteller seine vertragliche Lieferung auf unbestimmt verschiebt.](https://blog.fefe.de/?ts=990a3993) - Da frage ich mich wieder wer da Verträge macht. Bei mir würde der Softwarehersteller ein verpflichtendes Datum angeben müssen und dürfte danach für den Ausfall zahlen
+* [Nein? Doch! Oh? Die ganzen medialen Fortschritte der LLM's sind erfunden, da auf die Tests optimiert.](https://blog.fefe.de/?ts=990a2605) - Einen klassischen VW-Dieselskandal fahren OpenAI etc. da
+* [Infrastruktur reparieren, oder lieber Geld verbrennen damit der Kunde eher von der kaputten Infrastruktur erfährt?](https://www.heise.de/news/Prognoseautomat-Wie-KI-die-Reiseinformation-bei-der-Bahn-verbessern-soll-10343289.html) - Die Bahn setzt auf letzteres
+* [Warum die neuen gesetzlichen Regelungen beim Personalausweis? >>Die Antragsteller:innen zahlen für die Bilder auf dem Amt, und das Geld fließt an die Bundesdruckerei zurück.<<](https://netzpolitik.org/2025/personalausweise-und-paesse-heute-leider-noch-kein-foto-fuer-dich/)
+* [cosign wurde in der Version 2.5.0 veröffentlicht.](https://github.com/sigstore/cosign/releases/tag/v2.5.0)
+* [label-studio wurde in der Version 1.17.0 veröffentlicht.](https://github.com/HumanSignal/label-studio/releases/tag/1.17.0)
+* [>>Es ist daher nicht länger die Frage, ob die Systeme von Palantir und Co. ethisch und rechtlich problematisch sind und gesellschaftsfeindlich und demokratiezerstörend eingesetzt werden könnten, sondern wie dies verhindert werden kann.<<](https://netzpolitik.org/2025/automatisierte-rasterfahndung-tuer-zu-fuer-palantir-und-co/)
