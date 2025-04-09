@@ -8,3 +8,8 @@
 * [cosign wurde in der Version 2.5.0 veröffentlicht.](https://github.com/sigstore/cosign/releases/tag/v2.5.0)
 * [label-studio wurde in der Version 1.17.0 veröffentlicht.](https://github.com/HumanSignal/label-studio/releases/tag/1.17.0)
 * [>>Es ist daher nicht länger die Frage, ob die Systeme von Palantir und Co. ethisch und rechtlich problematisch sind und gesellschaftsfeindlich und demokratiezerstörend eingesetzt werden könnten, sondern wie dies verhindert werden kann.<<](https://netzpolitik.org/2025/automatisierte-rasterfahndung-tuer-zu-fuer-palantir-und-co/)
+* [Bestehende Infrastruktur- und Sozialprobleme angehen oder neue schaffen? Das transatlantische U-Boot Von der ähm Leyen hat sich entschieden.](https://blog.fefe.de/?ts=990bba70) - Wie viele Probleme willst du? Ja! Hauptsache die us-amerikansischen LLM-Firmen dürfen europäische Steuergelder verbrennen und gleichzeitig prikäre Geschäftsmodelle mit der EU als Sklaven etablieren.
+* [Es gibt einen JQ / Playground mit vorgefertigten "Standard"-Problemen in jquery.](https://jq.port.io/)
+* [Mit jnv könnt ihr json Dateien betrachten und dynamisch Filter schreiben.](https://github.com/ynqa/jnv)
+* [>>US-Polizei, Justiz oder Aufsichtsbehörden können im Rahmen zivil- oder strafrechtlicher Verfahren Daten direkt bei US-Cloudanbietern anfordern.<<](https://www.kuketz-blog.de/server-in-der-eu-und-eigene-schluessel-schuetzt-das-vor-us-zugriffen/) - Und das ist egal wo die Server stehen, solange der Anbieter in den USA sitzt
+* [Der CCC hat seine Unvereinbarkeitserklärung aktualisiert.](https://www.ccc.de/de/updates/2025/ccc-aktualisiert-unvereinbarkeitserklaerung)
