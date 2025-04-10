@@ -13,3 +13,9 @@
 * [Mit jnv könnt ihr json Dateien betrachten und dynamisch Filter schreiben.](https://github.com/ynqa/jnv)
 * [>>US-Polizei, Justiz oder Aufsichtsbehörden können im Rahmen zivil- oder strafrechtlicher Verfahren Daten direkt bei US-Cloudanbietern anfordern.<<](https://www.kuketz-blog.de/server-in-der-eu-und-eigene-schluessel-schuetzt-das-vor-us-zugriffen/) - Und das ist egal wo die Server stehen, solange der Anbieter in den USA sitzt
 * [Der CCC hat seine Unvereinbarkeitserklärung aktualisiert.](https://www.ccc.de/de/updates/2025/ccc-aktualisiert-unvereinbarkeitserklaerung)
+* [Nein? Doch! Oh? Das bedingungslose Grundeinkommen reduziert Stress und damit den Konsum von Drogen oder pharmazeutischen Produkten.](https://blog.fefe.de/?ts=99089756) - Das ist also schlecht für die Wirtschaft der Superreichen, KÖNNEN WIR NIE MACHEN!
+* [Realitätsabgleich: Den Aussagen der Wissenschaftlern wird weiterhin geglaub, man hört/liest/sieht sie aber nicht, WEIL DIE LLM's IM SEKUNDENTAKT ALTERNATIVE WAHRHEITEN DURCH DEN ETHER SCHREIEN.](https://blog.fefe.de/?ts=9908f239)
+* [Python Polars wurde in der Version 1.27.0 veröffentlicht.](https://github.com/pola-rs/polars/releases/tag/py-1.27.0)
+* [penpot wurde in der Version 2.6.0 veröffentlicht.](https://github.com/penpot/penpot/releases/tag/2.6.0)
+* [CxU und SPD wollen Stasi drölf punkt Null, dementsprechend muss der CCC reagieren.](https://www.ccc.de/de/updates/2025/ueberwachungshoelle)
+* [Netzpolitik.org ist so nett und hat den Koalitionsvertrag zusammengefasst.](https://netzpolitik.org/2025/koalitionsvertrag-das-planen-union-und-spd-in-der-netzpolitik/)
