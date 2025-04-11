@@ -19,3 +19,13 @@
 * [penpot wurde in der Version 2.6.0 veröffentlicht.](https://github.com/penpot/penpot/releases/tag/2.6.0)
 * [CxU und SPD wollen Stasi drölf punkt Null, dementsprechend muss der CCC reagieren.](https://www.ccc.de/de/updates/2025/ueberwachungshoelle)
 * [Netzpolitik.org ist so nett und hat den Koalitionsvertrag zusammengefasst.](https://netzpolitik.org/2025/koalitionsvertrag-das-planen-union-und-spd-in-der-netzpolitik/)
+* [php analytics wurde in der Version 3.0.0 veröffentlicht.](https://github.com/plausible/analytics/releases/tag/v3.0.0)
+* [nextcloud server wurde in der Version 31.0.3 veröffentlicht.](https://github.com/nextcloud/server/releases/tag/v31.0.3)
+* [DM muss man also wie Allianz meiden, scheinbar empfinden sie KZ's als gute Vorbilder für Ihre Firmen.](https://t3n.de/news/dm-chef-fordert-karenztag-krankenstand-zu-hoch-1681329/) - Statt nachzufragen warum die Mitarbeiter krank werden, schaut man lieber weg.
+* [Auf arte.tv kriegt ihr einen tollen Realitätsabgleich was die Gefängnisbedinungen in China bedeuten.](https://www.arte.tv/de/videos/109846-000-A/zwangsarbeit-sos-aus-china/) - Und glaubt nicht, dass es in den westlichen Ländern besser ist. Menschen die gegen die Aussagen der Leitmedien verstoßen, werden im Gefängnis gebrochen.
+* [Uberspace berichtet einmal was so passiert, wenn ein Gerät eines Mitarbeiters kompromitiert wird.](https://blog.uberspace.de/2025/04/wenn-der-passwortmanager-alarm-schlaegt/)
+* [Sehr schön, Bündnisse in der Welt funktionieren. Kanada, Europa und Japan haben sich wohl zusammengetan um zu zeigen wie unsicher us-amerikanische Schatzbriefe so sind.](https://blog.fefe.de/?ts=99061c1d)
+* [Elektronische Nachweissysteme? Ja, für Bürger und Bäcker muss das - Bei Staatsunternehmen ist das eher so "kann man machen".](https://blog.fefe.de/?ts=99061abb)
+* [Die EU ist mal wieder gegen den Bürger und will Mindestpreise für Elektroautos einführen.](https://blog.fefe.de/?ts=99061723) - Garantierte Gewinne für die Hersteller. Mit Mindestlöhnen tut sich die EU ja sehr schwer.
+* [Geil, all das in den USA angelegte Geld, darf die USA "im ernstfall" zum Schutze des Staates einziehen.](https://blog.fefe.de/?ts=99092ff9)
+* [NetApp, die Profis, wissen Sie schon, verkackt mit Anlauf ihr Zertifikatsbums.](https://blog.fefe.de/?ts=9909088c)
