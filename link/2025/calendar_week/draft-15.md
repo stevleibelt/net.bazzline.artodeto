@@ -29,3 +29,6 @@
 * [Die EU ist mal wieder gegen den Bürger und will Mindestpreise für Elektroautos einführen.](https://blog.fefe.de/?ts=99061723) - Garantierte Gewinne für die Hersteller. Mit Mindestlöhnen tut sich die EU ja sehr schwer.
 * [Geil, all das in den USA angelegte Geld, darf die USA "im ernstfall" zum Schutze des Staates einziehen.](https://blog.fefe.de/?ts=99092ff9)
 * [NetApp, die Profis, wissen Sie schon, verkackt mit Anlauf ihr Zertifikatsbums.](https://blog.fefe.de/?ts=9909088c)
+* [AD ACL Scanner wurde in der Version 8.0 veröffentlicht.](https://github.com/canix1/ADACLScanner/releases/tag/8.0)
+* [Keycloak wurde in der Version 26.2.0 veröffentlicht.](https://github.com/keycloak/keycloak/releases/tag/26.2.0)
+* [redis_exporter wurde in der Version 1.70.0 veröffentlicht.](https://github.com/oliver006/redis_exporter/releases/tag/v1.70.0)
