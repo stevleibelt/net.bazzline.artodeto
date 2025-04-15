@@ -3,3 +3,10 @@
 * [Nein? Doch! Oh? Domainfactory migriert seine Kunden-E-Mail-Konten auf Microsoft 365 und damit werden alle Kunden faktisch gezwungen eine aktuelle Office-Lizenz zu kaufen.](https://www.borncity.com/blog/2025/04/14/microsoft-365-falle-bei-domainfactory-umstellung/)
 * [>>Bei Doctolib, Jameda und Doctena sollte man besser keine Accounts erstellen. Die Anbieter haben Trackingeinbettungen, sind in den USA gehostet und Jameda und Doctolib verwenden eure Daten außerdem für eigene Zwecke.<<](https://www.kuketz-blog.de/online-terminvergabe-ohne-doctolib-diese-anbieter-sind-besser/)
 * [>>Nur wird dieses Wachstum kein nachhaltiges sein. Open Source ist kein kostenfreier Weg für Software. Sondern es braucht außerdem die nachhaltige Investition in ein Ökosystem und seine Akteur*innen, die einander bestmöglich unterstützen, um gemeinsam besser zu sein als jeder für sich allein.<<](https://netzpolitik.org/2025/degitalisierung-falsche-mythen/)
+* [Home Assistant OS wurde in der Version 15.2 veröffentlicht.](https://github.com/home-assistant/operating-system/releases/tag/15.2)
+* [FreeRDP wurde in der Version 3.15.0 veröffentlicht.](https://github.com/FreeRDP/FreeRDP/releases/tag/3.15.0)
+* [LibreNMS wurde in der Version 25.4.0 veröffentlicht.](https://github.com/librenms/librenms/releases/tag/25.4.0)
+* [Der Raub am deutschen Volk geht weiter, während das Ehrenamt in Sachsen zusammengestrichen wird, steigen die Gehälter der DAX-Vorstände überproportional.](https://blog.fefe.de/?ts=9900ce1a) - Das sind die Leistungsträger, wisst schon, deren kleiner Finger ist produktiver als 100 Arbeiter.
+* [Laut dem Wall Street Journal sollen die Mitarbeiter im AKW durch LLM's ersetzt werden.](https://blog.fefe.de/?ts=99039120) - Was soll schon schief gehen
+* [Immer mehr Menschen gehen in Deutschland auf die Straße.](https://netzpolitik.org/2025/weizenbaum-report-2025-das-jahr-in-dem-deutschland-auf-die-strasse-ging/) - Finanziell wird dies natürlich nur vom finanziell kleinstem Teil der Bevölkerung getragen
+* [Pinta wurde in der Version 3.0 veröffentlicht.](https://lwn.net/Articles/1017438/)
