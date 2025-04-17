@@ -20,3 +20,18 @@
 * [Püntklich wie ein Uhrwerk, TrueNAS SCALE wurde in der Version 25.04 veröffentlicht und wird ab jetzt TrueNAS genannt.](https://www.phoronix.com/news/TrueNAS-25.04-Released)
 * [Netzpolitik.org bringt Punkte zusammen, dies das mögliche "Digitalministerium" auch gesellschaftlich leisten muss.](https://netzpolitik.org/2025/neues-ministerium-digitalisierung-ist-mehr-als-faxverbot/)
 * [Deutschlandfunk berichtet über das Heimsterben.](https://www.deutschlandfunk.de/pflege-heimsterben-sozialkassen-insolvenz-100.html) - Leider wurde der Punkt "maßlose Gier" vergessen zu erwähnen. Die angeführten Punkte stimmen, Pflegefachkräfte wünsche von ihrem Gehalt leben zu können. Standorte, die durch stetig steigende Mieten belastet sind, kommen an ihre Grenzen. Standorte, die in den letzten Jahren 20 oder 30 Prozent Profit "erwirtschaftet" haben, können dies nicht mehr. Der "wilde Westen" muss in dieser Branche abgeschafft werden. Die Frage ob Heime nicht wieder kritische und damit verstaatlichte Infrastruktur ohne Profitabsichten werden müssen, wird leider ebenfalls nicht gestellt.
+* [Realitätsabgleich "Bild macht Meinungsmache und gern auch ohne Fakten."](https://blog.fefe.de/?ts=96fec292)
+* [Nein? Doch! Oh? Hätte sich die CxU um unsere Infrastruktur gekümmert, müssten wie sie jetzt nicht doppetlt so teuer ersetzen.](https://blog.fefe.de/?ts=990102e6) - Und noch verrückter, die Gesellschaft wäre viel stabiler, da stetige Instandhaltung über sehr lange Zeit feste Arbeitsplätze erschafft
+* [>>Immer mehr Reservisten verweigern den Dienst in der israelischen Armee. [...]<<](https://blog.fefe.de/?ts=9901ae24) - Oh bitte, liebes Volk aus Israel, ich habe euch moralisch noch nicht aufgegeben.
+* [SimpleSAMLphp wurde in der Version 2.4.0 veröffentlicht.](https://github.com/simplesamlphp/simplesamlphp/releases/tag/v2.4.0)
+* [questdb wurde in der VErsion 8.3.0 veröffentlicht.](https://github.com/questdb/questdb/releases/tag/8.3.0)
+* [harfbuzz wurde in der Version 11.1.0 veröffentlicht.](https://github.com/harfbuzz/harfbuzz/releases/tag/11.1.0)
+* [broot wurde in der Version 1.46.0 veröffentlicht.](https://github.com/Canop/broot/releases/tag/v1.46.0)
+* [Tasmota wurde in der Version 14.6.0 veröffentlicht.](https://github.com/arendst/Tasmota/releases/tag/v14.6.0)
+* [Wurde die DSGVO durch die EU verbessert? noyb hat die wichtigsten Änderungen zusammengefasst.](https://noyb.eu/de/eu-pledged-improve-gdpr-cooperation-and-made-it-worse)
+* [#Neusprech, Abbau von Sozialleistungen, Datenschutz und Transparenz heißt jetzt Entbürokratisierung.](https://www.kuketz-blog.de/kommentar-entbuerokratisierung-ist-das-neue-zauberwort/)
+* [forgejo wurde in der Version 11.0.0 veröffentlicht.](https://forgejo.org/2025-04-release-v11-0/)
+* [Hier wird euch gezeigt, wir ihr REST in einer Django-Anwendung einbaut.](https://www.freecodecamp.org/news/how-to-build-a-rest-api-in-django/)
+* [Und wie ihr JWT's in einer Django-Anwendung einsetzt, wird euch auch noch gezeigt.](https://www.freecodecamp.org/news/how-to-create-a-json-web-token-in-the-django-rest-framework/)
+* [>>Es ist ein toxisches Klima aus technischer Ignoranz, ideologischer Verbohrtheit und missionarischem Eifer. Dabei wäre eine offene, sachliche Debatte über sichere digitale Kommunikation wichtiger denn je. Aber das scheint im Social-Media-Zeitalter zu viel verlangt.<<](https://www.kuketz-blog.de/die-messenger-debatte-ist-kaputt/)
+* [>>Das VG Chemnitz stoppt vorläufig den Bebauungsplan in Oberwiesenthal.<<](https://sachsen.nabu.de/news/2025/36109.html) - Danke NABU Sachsen
