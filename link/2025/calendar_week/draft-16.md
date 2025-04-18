@@ -35,3 +35,17 @@
 * [Und wie ihr JWT's in einer Django-Anwendung einsetzt, wird euch auch noch gezeigt.](https://www.freecodecamp.org/news/how-to-create-a-json-web-token-in-the-django-rest-framework/)
 * [>>Es ist ein toxisches Klima aus technischer Ignoranz, ideologischer Verbohrtheit und missionarischem Eifer. Dabei wäre eine offene, sachliche Debatte über sichere digitale Kommunikation wichtiger denn je. Aber das scheint im Social-Media-Zeitalter zu viel verlangt.<<](https://www.kuketz-blog.de/die-messenger-debatte-ist-kaputt/)
 * [>>Das VG Chemnitz stoppt vorläufig den Bebauungsplan in Oberwiesenthal.<<](https://sachsen.nabu.de/news/2025/36109.html) - Danke NABU Sachsen
+* [LOL, die CDU, die uns seit Jahrzehnten erzählen, dass nur sie Wirtschaft kann, will das Wirtschaftsministerium nicht führen.](https://blog.fefe.de/?ts=96ff890b) - Warum sind die noch einmal zur Wahl angetreten?
+* [Atlassian kann weiterhin kaputte Software hochpreisig verkaufen.](https://blog.fefe.de/?ts=96fe288a)
+* [>>Lasst doch einfach andere Menschen ihr Leben führen, solange das niemandem weh tut.<<](https://blog.fefe.de/?ts=96fe279a)
+* [Wow LG TV's beobachten die Zuschauer bei der Benutzung um zur richtigen Zeit die passende Werbung abzuspielen.](https://blog.fefe.de/?ts=96fe0fca)
+* [Microsoft hatte vor Jahren ja die ganze Testabteilung entlassen und reduziert die Entwicklersparte um diese durch LLMs zu ersetzen. Seitdem nimmt die Anzahl und die Auswirkung der kaputten Aktualisierungen zu - so auch diese Woche.](https://blog.fefe.de/?ts=96fe0dfc)
+* [Nein? Doch! Oh? Die von den Konzernen geschaffene Klimaproblematik ist nun doch auch in Deutschland angekommen.](https://www.deutschlandfunk.de/duerre-deutschland-hitze-landwirtschaft-wasser-klimawandel-100.html) - Dabei wurde uns doch erzählt, dass es nur Afrika oder so betrifft.
+* [>>I really was just a fuckin cog in a mega corp.<<](https://nerdy.dev/ex-googler) - Scheinbar wurde ein Google Chrome Entwickler einfach gekündigt ohne Gründen
+* [Die CxU möchte gern alles in der Cloud, natürlich in der Klaut des transatlantischen Lobbyisten.](https://netzpolitik.org/2025/verwaltung-in-der-cloud-bund-macht-sich-abhaengig-von-amazon-und-co/)
+* [>>[...] keeping personal data safe isn't something you should be doing because it's good practice – it's something you have to do.<<](https://www.freecodecamp.org/news/developers-guide-to-protecting-personal-data/)
+* [Am 26.04.2025 findet die Landesdelegiertenversammlung des sächsichen Bergmanns-, Hütten- und Knappenverein in Scheeberg nach.](https://knappenverein.de/einladung-zur-landesdelegiertenversammlung-2025/)
+* [Unterdrückungstechnik aus den USA in Deutschland? Die CxU sagt JA!](https://netzpolitik.org/2025/us-analysesoftware-palantir-macht-polizei-und-militaer-politisch/) - Steuergelder für Unterdrückungstechnologie in Händen der USA, was will man mehr?
+* [Tor Browser wurde in der Version 14.5 veröffentlicht.](https://blog.torproject.org/new-release-tor-browser-145/)
+* [Sehr schön, Arch Linux wechselt von Redis auf Valkey.](https://archlinux.org/news/valkey-to-replace-redis-in-the-extra-repository/) - Valkey läuft stabil seit Jahren bei mir in produktiven Umgebungen
+* [Laragon wurde in der Version 8.1.0 veröffentlicht.](https://github.com/leokhoa/laragon/releases/tag/8.1.0)
