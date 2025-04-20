@@ -53,3 +53,6 @@
 * [Hier haben BND, CIA, FBI und Hassunichjesen zusammenarbeiten müssen, Googles digitaler Werbemarkt ist ein illegales Monopol.](https://blog.fefe.de/?ts=96fcf723)
 * [Dawn of War "Out of Sync error" scheint unter Linux gelöst zu sein.](https://github.com/ValveSoftware/Proton/issues/3481#issuecomment-2816343895)
 * [caddy wurde in der Version 2.10.0 veröffentlicht.](https://github.com/caddyserver/caddy/releases/tag/v2.10.0)
+* [pendulum wurde in der Version 3.1.0 veröffentlicht.](https://github.com/python-pendulum/pendulum/releases/tag/3.1.0)
+* [Ein Krieg den wir/die Pharmaindustrie nicht gewinnen kann. Statt biodynamische Landwirtschaft zu fördern soll es noch größere Monokulturen geben, inklusive Pflanzengifte die multiresitente Baktieren oder Pilze erschaffen.](https://blog.fefe.de/?ts=96fdae9a)
+* [>>Deutsche Behörden sollen künftig die Bilder von Überwachungskameras automatisch mit Fotos aus dem Netz abgleichen können.<<](https://netzpolitik.org/2025/biometrie-weltweit-hier-werden-protestierende-mit-gesichtserkennung-verfolgt/)
