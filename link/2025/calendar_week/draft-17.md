@@ -1,1 +1,5 @@
 * [Wine wurde in der Version 10.6.0 veröffentlicht.](https://www.phoronix.com/news/Wine-10.6-Released)
+* [>>Deshalb gibt es Regulierungsbehörden. Weil der Kapitalismus uns sonst alle umbringt!<<](https://blog.fefe.de/?ts=96f8d2f8)
+* [In den USA ist Atomkraft eben auch erneuerbar.](https://blog.fefe.de/?ts=96f86186)
+* [Fedora Linux in der Version 42 unterstütz RISC-V.](https://lwn.net/Articles/1018322/)
+* [adminforge bietet eine Software an um Dokumente zu signieren.](https://adminforge.de/tools/documenso-docusign-alternative/)
