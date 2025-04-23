@@ -3,3 +3,16 @@
 * [In den USA ist Atomkraft eben auch erneuerbar.](https://blog.fefe.de/?ts=96f86186)
 * [Fedora Linux in der Version 42 unterstütz RISC-V.](https://lwn.net/Articles/1018322/)
 * [adminforge bietet eine Software an um Dokumente zu signieren.](https://adminforge.de/tools/documenso-docusign-alternative/)
+* [copier wurde in der Version 9.7.0 veröffentlicht.](https://github.com/copier-org/copier/releases/tag/v9.7.0)
+* [Die USA macht sich und die Welt weiter kaputt.](https://blog.fefe.de/?ts=96f6645c)
+* [Jetzt wird das Deutschlandticket medial wieder kaputt genachrichtet, wegen den ganzen Betrugsfällen und den Geldern, die man zur Bekämpfung ausgeben muss.](https://blog.fefe.de/?ts=96f6606a) - Was man alles einsparen könnte, indem man den ÖPNV einfach kostenfrei macht
+* [Google zahlt Schmiergelder, damit Google Gemini auch bei Samsung-Telefonen vorinstalliert ist.](https://blog.fefe.de/?ts=96f65b9b)
+* [OpenAI will Chrome kaufen um ihn noch beschissener zu machen.](https://blog.fefe.de/?ts=96f65ab8)
+* [Wenn das Passwort >>1234<< ist, möchte ich ungern von >>hacken<< sprechen.](https://blog.fefe.de/?ts=96f65692)
+* [Simbabwe enteignet die Landlords aus der ersten Welt, damit die eigene Bevölkerung nicht verhungert - das mag der christiliche Westen natürlich nicht.](https://blog.fefe.de/?ts=96f928f9)
+* [Was ist in Software billiger als gute und sichere Software zu bauen? Werbung und Vendor-Lock-In!](https://blog.fefe.de/?ts=96f90db0)
+* [Microsoft erpresst die Welt, indem es Sicherheitsfunktionen aus Windows 10 entfernt.](https://blog.fefe.de/?ts=96f94e0f) - Sonst kauft halt keiner deren Datenschutzvorfall Windows 11
+* [Die deutsche Datagroup wird von transatlantischen Aggressor über KKR gekauft.](https://blog.fefe.de/?ts=96f9acb5)
+* [China will mit Europa ein Abkommen gegen die US-Zölle schließen.](https://blog.fefe.de/?ts=96f7cb0a)
+* [Hackfressenbuch ist als Konzern in sich ein Molloch.](https://blog.fefe.de/?ts=96f7c666)
+* [Intel baut schlechte Produkte und schmeißt die Ingeneure raus ... und macht das kurz danach noch einmal.](https://blog.fefe.de/?ts=96f6008b)
