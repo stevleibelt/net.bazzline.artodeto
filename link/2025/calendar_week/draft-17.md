@@ -23,3 +23,7 @@
 * [QEMU wurd ein der Version 10.0.0 veröffentlicht.](https://www.phoronix.com/news/QEMU-10.0-Released)
 * [Hier gibt es 27 Minuten über LLM Trainingsmodelle.](https://www.freecodecamp.org/news/essential-machine-learning-concepts-animated/)
 * [Huch! Wie ungeschickt, Microsoft aktiviert "ungewoll" Microsoft Copoliot.](https://www.borncity.com/blog/2025/04/22/microsoft-copilot-wird-ungewollt-aktiviert/)
+* [Die AKP-Regierung in der Türkei möchte den Kaiserschnitt verbieten.](https://blog.fefe.de/?ts=96f583ab) - Lieber Frauen bei der Geburt verrecken lassen als dass der maximale Durchsatz der Gebährmaschinen redizuert wird. Es sind natürlich die Männer, die etwas entscheiden was die Frauen betrifft.
+* [Mullvad hat mit Leta ein Suchmaschinen-Proxy in Betrieb genommen, der sich um eure Privatsspähre kümmern möchte.](https://www.kuketz-blog.de/mullvad-leta-privatsphaere-orientierte-suche-wie-sie-sein-sollte/)
+* [Auch in Kleinwaltersdorf wird am 30.04 ein Hexenfeuer stattfinden.](https://kleinwaltersdorf.de/index.php/2025/04/25/hexenfeuer-2025)
+* [Hier könnt ihr ein Blick in den Freiberger Dom vor seiner Sanierung werfen.](https://www.youtube.com/watch?v=CCQxyPnh4FI)
