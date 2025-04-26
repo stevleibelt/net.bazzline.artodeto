@@ -27,3 +27,9 @@
 * [Mullvad hat mit Leta ein Suchmaschinen-Proxy in Betrieb genommen, der sich um eure Privatsspähre kümmern möchte.](https://www.kuketz-blog.de/mullvad-leta-privatsphaere-orientierte-suche-wie-sie-sein-sollte/)
 * [Auch in Kleinwaltersdorf wird am 30.04 ein Hexenfeuer stattfinden.](https://kleinwaltersdorf.de/index.php/2025/04/25/hexenfeuer-2025)
 * [Hier könnt ihr ein Blick in den Freiberger Dom vor seiner Sanierung werfen.](https://www.youtube.com/watch?v=CCQxyPnh4FI)
+* [Nein? Doch! Oh? Web-Application-Firewalls sind nur zum Verbrennen des Geldes da.](https://blog.fefe.de/?ts=96f5102a)
+* [Anhand eines Tortendiagrams wird aufgezeigt, warum die fünf Prozent "Hürde" schlecht für die Demokratie ist.](https://blog.fefe.de/?ts=96f5b31c) - Kleinparteien werden ausgeschlossen und damit ein immer größer werdender Teil des Volkes
+* [Die Telekom macht mal wieder das Internet ihrer Zwangskunden kaputt.](https://www.borncity.com/blog/2025/04/25/wieder-dns-peering-probleme-bei-deutsche-telekom/)
+* [PHPMailer wurde in der Version 6.10.0 veröffentlicht.](https://github.com/PHPMailer/PHPMailer/releases/tag/v6.10.0)
+* [gradle wurde in der Version 8.14.0 veröffentlicht.](https://github.com/gradle/gradle/releases/tag/v8.14.0)
+* [Tooljet wurde in der Version 3.10.0 veröffentlicht.](https://github.com/ToolJet/ToolJet/releases/tag/v3.10.0)
