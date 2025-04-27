@@ -33,3 +33,7 @@
 * [PHPMailer wurde in der Version 6.10.0 veröffentlicht.](https://github.com/PHPMailer/PHPMailer/releases/tag/v6.10.0)
 * [gradle wurde in der Version 8.14.0 veröffentlicht.](https://github.com/gradle/gradle/releases/tag/v8.14.0)
 * [Tooljet wurde in der Version 3.10.0 veröffentlicht.](https://github.com/ToolJet/ToolJet/releases/tag/v3.10.0)
+* [Wenn ein Konzern oder Politiker "Wir haben verstanden" schreiben, meinen sie doch "Wir ziehen euch jetzt anders ab, wartet auf unser Neusprech!" - So jetzt auch bei Hackfressenbuch](https://blog.fefe.de/?ts=96f3f2b5)
+* [Sehr gut, auch Kuketz hat verstandne, dass "Social Media" nichts anderes als ein Kotzloch für Spackos ist.](https://www.kuketz-blog.de/in-eigener-sache-mein-zukuenftiger-umgang-mit-social-media/)
+* [Brent Roose erklärt euch wie automatisches Finden (Discovery) im PHP Framework Tempest funktioniert.](https://stitcher.io/blog/tempest-discovery-explained) - Keine Magie, das mag ich
+* [Microsoft Windows? Ab Version 10 nicht für Firmen einsetzbar (außgenommen Education-Version) und gebaut um den Nutzer beim Arbeiten zu behindern.](https://www.borncity.com/blog/2025/04/27/ex-entwickler-sagt-windows-as-a-service-fungiert-als-widersacher-fuer-den-nutzer/)
