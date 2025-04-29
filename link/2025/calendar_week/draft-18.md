@@ -4,3 +4,12 @@
 * [>>[...] today’s AIs are overly complicated, patched-together Rube Goldberg machines full of ad-hoc solutions for answering our prompts [...]<<](https://blog.fefe.de/?ts=96f33d33)
 * [mezzio wurde in der Version 3.21.0 veröffentlicht.](https://github.com/mezzio/mezzio/releases/tag/3.21.0)
 * [OpenBSD wurde in der Version 7.7 veröffentlicht.](https://www.phoronix.com/news/OpenBSD-7.7-Released)
+* [Listmonk wurde in der Version 5.0.0 veröffentlicht.](https://github.com/knadh/listmonk/releases/tag/v5.0.0)
+* [harfbuzz wurde in der Version 11.2.0 veröffentlicht.](https://github.com/harfbuzz/harfbuzz/releases/tag/11.2.0)
+* [ToolJet wurde in der Version 3.11.0 veröffentlicht.](https://github.com/ToolJet/ToolJet/releases/tag/v3.11.0)
+* [Atomkraftwerke von heute werden halt auch immer teurer.](https://blog.fefe.de/?ts=96ee6ebb) - Und dabei ist es nur der Bau, der den Stand der Sicherheitstechnik entsprechen muss, die ganze Inbetriebnahme, Stromerzeugung und Endlagerung wir weiterhin dem Volk und den Staatskasten zu Lasten gelegt
+* [Oracle selbst hat in den USA einmal 45 Krankenhäuser kaputt aktualisiert.](https://blog.fefe.de/?ts=96ee6342) - Die Cloud ist halt sicher!
+* [Oh Gott, die vier Jahre Blockpartei werden schlimmer als gedacht - Nur US-amerikanische U-Boote die jetzt als Minister die Geschicke des deutschen Volkes lenken.](https://blog.fefe.de/?ts=96f1a86d) - Vier Jahre massiver Ausverkauf
+* [Die versprochene Kernfunktionalität der ePA, dass man auswählen kann welcher Arzt welche Daten sieht ... wurde gestrichen.](https://blog.fefe.de/?ts=96f19dd2)
+* [Sehr schön, ich dachte, dass nur ich Probleme mit `venv`'s habe, aber scheinbar sind die von Haus aus ein wenig kaputt.](https://utcc.utoronto.ca/~cks/space/blog/python/VenvsReplaceNotUpdate)
+* [Endlich geht mal wieder jemand gegen die Telekom vor, welche permanent und zu Lasten ihrer Kunden die Netzneutralität kaputt macht.](https://netzpolitik.org/2025/netzneutralitaet-beschwerde-gegen-telekom-wegen-absichtlicher-netzbremse/) - Die Telekom möchte nämlich gern doppelt bezahlt werden
