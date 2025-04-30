@@ -13,3 +13,4 @@
 * [Die versprochene Kernfunktionalität der ePA, dass man auswählen kann welcher Arzt welche Daten sieht ... wurde gestrichen.](https://blog.fefe.de/?ts=96f19dd2)
 * [Sehr schön, ich dachte, dass nur ich Probleme mit `venv`'s habe, aber scheinbar sind die von Haus aus ein wenig kaputt.](https://utcc.utoronto.ca/~cks/space/blog/python/VenvsReplaceNotUpdate)
 * [Endlich geht mal wieder jemand gegen die Telekom vor, welche permanent und zu Lasten ihrer Kunden die Netzneutralität kaputt macht.](https://netzpolitik.org/2025/netzneutralitaet-beschwerde-gegen-telekom-wegen-absichtlicher-netzbremse/) - Die Telekom möchte nämlich gern doppelt bezahlt werden
+* [Sculpt Os wurde in der Version 25.04 veröffentlicht.](https://github.com/genodelabs/genode/releases/tag/sculpt-25.04)
