@@ -14,3 +14,12 @@
 * [Sehr schön, ich dachte, dass nur ich Probleme mit `venv`'s habe, aber scheinbar sind die von Haus aus ein wenig kaputt.](https://utcc.utoronto.ca/~cks/space/blog/python/VenvsReplaceNotUpdate)
 * [Endlich geht mal wieder jemand gegen die Telekom vor, welche permanent und zu Lasten ihrer Kunden die Netzneutralität kaputt macht.](https://netzpolitik.org/2025/netzneutralitaet-beschwerde-gegen-telekom-wegen-absichtlicher-netzbremse/) - Die Telekom möchte nämlich gern doppelt bezahlt werden
 * [Sculpt Os wurde in der Version 25.04 veröffentlicht.](https://github.com/genodelabs/genode/releases/tag/sculpt-25.04)
+* [RTorrent wurde in der Version 0.15.3 veröffentlicht.](https://github.com/rakshasa/rtorrent/releases/tag/v0.15.3)
+* [libsignal wurde in der Version 0.71.0 veröffentlicht.](https://github.com/signalapp/libsignal/releases/tag/v0.71.0)
+* [OpenZFS wurde in der Version 2.3.2 veröffentlicht.](https://github.com/openzfs/zfs/releases/tag/zfs-2.3.2)
+* [openems wurde in der Version 2025.5.0 veröffentlicht.](https://github.com/OpenEMS/openems/releases/tag/2025.5.0)
+* [>>Das BSI macht Compliance. Klar bringt das nichts am Ende. Dafür kriegst du einen tollen Sticker, dass der Hersteller versichert, ordentlich gearbeitet zu haben.<<](https://blog.fefe.de/?ts=96ea5649)
+* [Microsoft hat RDP mutwillig kaputt erstellt.](https://blog.fefe.de/?ts=96ea4feb)
+* [Google stuft Google als vertrauenswürdig ein.](https://blog.fefe.de/?ts=96ea4144)
+* [RehaVita hat Kundendaten veruntreut.](https://www.ccc.de/de/updates/2025/reha-plattform-mit-therapiebedarf)
+* [Hier wird euch IPv4 erklärt.](https://www.freecodecamp.org/news/how-ipv4-works-a-handbook-for-developers/)
