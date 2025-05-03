@@ -23,3 +23,7 @@
 * [Google stuft Google als vertrauenswürdig ein.](https://blog.fefe.de/?ts=96ea4144)
 * [RehaVita hat Kundendaten veruntreut.](https://www.ccc.de/de/updates/2025/reha-plattform-mit-therapiebedarf)
 * [Hier wird euch IPv4 erklärt.](https://www.freecodecamp.org/news/how-ipv4-works-a-handbook-for-developers/)
+* [Nein? Doch! Oh? Alle Versprechungen für den Kunden/Bürger wegen der ePA haben keine Priorität oder sind gar aktuell nicht umsetzbar.](https://blog.fefe.de/?ts=96ebf6b2) - Wer hätte das gedacht
+* [Selenium wurde in der Version 4.32.0 veröffentlicht.](https://github.com/SeleniumHQ/selenium/releases/tag/selenium-4.32.0)
+* [prefect wurde in der Version 3.4.0 veröffentlicht.](https://github.com/PrefectHQ/prefect/releases/tag/3.4.0)
+* [Schade das Deutschland gerade gewählt hat, wäre doch schön, wenn es bei uns auch der soziale Wind und nicht die Blackrockgier geschafft hätte](https://blog.fefe.de/?ts=96e8d92b)
