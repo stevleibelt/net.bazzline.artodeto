@@ -27,3 +27,6 @@
 * [Selenium wurde in der Version 4.32.0 veröffentlicht.](https://github.com/SeleniumHQ/selenium/releases/tag/selenium-4.32.0)
 * [prefect wurde in der Version 3.4.0 veröffentlicht.](https://github.com/PrefectHQ/prefect/releases/tag/3.4.0)
 * [Schade das Deutschland gerade gewählt hat, wäre doch schön, wenn es bei uns auch der soziale Wind und nicht die Blackrockgier geschafft hätte](https://blog.fefe.de/?ts=96e8d92b)
+* [PHP Smarty wurde in der Version 5.5.0 veröffentlicht.](https://github.com/smarty-php/smarty/releases/tag/v5.5.0)
+* [>>[...] die deutsche Bundesregierung hat sich verpflichtet, bis 2027 auf offene Standards umzustellen.<<](https://www.borncity.com/blog/2025/05/04/libeoffice-deutsche-behoerden-auf-dem-marsch-zu-offenen-austauschformaten/) - Wäre ja mal was, wenn ich keine kaputten docx-Dateien öffnen oder erzeugen müsste, weil Microsoft keine offenen Standards unterstützen möchte
+* [Wine wurde in der Version 10.7 veröffentlicht.](https://www.phoronix.com/news/Wine-10.7-Released)
