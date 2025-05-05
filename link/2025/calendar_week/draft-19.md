@@ -1,0 +1,3 @@
+* [>>Als Teil einer Verwertungsmaschine sitzen Nutzer also vor Handy-Bildschirmen und schuften, angelockt von einer eigentlich schönen Hoffnung auf Nähe – dass es nur bei einer Hoffnung bleibt, liegt im Interesse der Liebesvermittler [...]<<](https://netzpolitik.org/2025/trugbild-liebe-suchen-arbeit-finden/)
+* [Werden LLM's in der Arbeitswelt genutzt? Ja, solange sie kurzfristig gesehen, nicht zu viele Fehler machen.](https://utcc.utoronto.ca/~cks/space/blog/tech/LLMsVersusOurJobs) - Langfristige Planung und Erhaltung sinvoller Entscheidungen sind ja sowas von aus der Mode gekommen :-(
+* [redis exporter wurde in der Version 1.71.0 veröffentlicht.](https://github.com/oliver006/redis_exporter/releases/tag/v1.71.0)
