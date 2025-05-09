@@ -19,3 +19,8 @@
 * [eduMFA wurde in der Version 2.8.0 veröffentlicht.](https://github.com/eduMFA/eduMFA/releases/tag/v2.8.0)
 * [Bisher konnten wir über Philipp Amthor nur lachen, jetzt runiert das transatlantische U-Boot unsere digitale Infrastruktur.](https://netzpolitik.org/2025/neues-digitalministerium-so-will-schwarz-rot-das-land-digitalisieren/) - Das passiert halt, wenn man eine Partei voller bezahler US-U-Boote in die Regierung wählt
 * [Home Assistant wurde in der Version 2025.5 veröffentlicht.](https://www.home-assistant.io/blog/2025/05/07/release-20255/)
+* [Am 10.05.2025 findet in Chemnit der TUCtag statt](https://www.tu-chemnitz.de/tu/pressestelle/aktuell/12903)
+* [Passbilder bei einem externen Dienstleister gemacht? Dann landet es in der AWS](https://netzpolitik.org/2025/biometrie-passbilder-in-der-amazon-cloud/)
+* [SonicWall ist wieder kaputt.](https://www.bleepingcomputer.com/news/security/sonicwall-urges-admins-to-patch-vpn-flaw-exploited-in-attacks/)
+* [Nein? Doch! Oh? Auch beim privatisierten Rohstoffdiebstahl in Afrika reichen freiwillige Maßnahmen nicht aus.](https://netzpolitik.org/2025/kritische-rohstoffe-und-menschenrechte-ursula-von-der-leyen-muss-wort-halten/)
+* [Die Technik der Bundesdruckerei (GmbH) ist wohl noch nicht gebaut oder wurde selten geliefert.](https://blog.fefe.de/?ts=96e30ee3)
