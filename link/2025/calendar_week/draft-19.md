@@ -24,3 +24,13 @@
 * [SonicWall ist wieder kaputt.](https://www.bleepingcomputer.com/news/security/sonicwall-urges-admins-to-patch-vpn-flaw-exploited-in-attacks/)
 * [Nein? Doch! Oh? Auch beim privatisierten Rohstoffdiebstahl in Afrika reichen freiwillige Maßnahmen nicht aus.](https://netzpolitik.org/2025/kritische-rohstoffe-und-menschenrechte-ursula-von-der-leyen-muss-wort-halten/)
 * [Die Technik der Bundesdruckerei (GmbH) ist wohl noch nicht gebaut oder wurde selten geliefert.](https://blog.fefe.de/?ts=96e30ee3)
+* [Wie schlimm closed source Software ist, sieht man gerade bei Dataport und den Finanzämtern der Länder Bremen, Hamburg, Mecklenburg-Vorpommern, Niedersachsen, Sachsen-Anhalt und Schleswig-Holstein.](https://blog.fefe.de/?ts=96e32fdb) - Macht euch keine Sorge, der Softwarehersteller unterstützt Dataport und wird im Nachgang besonders hohe Sonderdienstleistungskosten als Rechnung schicken
+* [Wisst ihr noch, als uns gesagt wurde "Zensur wird nur gegen Terroristen" eingesetzt? Schwangerschaftsaufklärung ist wohl neuerdings auch Terrorismus](https://netzpolitik.org/2025/women-on-web-gegen-die-unsichtbarkeit-im-netz/) - [wommenonweb.org](https://www.womenonweb.org/)
+* [Das selbe Trauerspiel wie in den USA. Durch den Einsatz von Taser-Waffen, werden diese einfach häufiger und pro-forma eingesetzt.](https://netzpolitik.org/2025/erstmalig-oeffentliche-statistik-taser-einsaetze-nehmen-deutlich-zu/) - "Erst schlagen, dann fragen" muss hier für den Taser umgeschrieben werden. Und wenn das Opfer dabei stirbt, fehlt die Spalte im Dokument, so können diese Sachverhalte nie ausversehen in Verbindung gebracht werden
+* [davx5-ose wurde in der Version 4.4.10-ose veröffentlicht.](https://github.com/bitfireAT/davx5-ose/releases/tag/v4.4.10-ose)
+* [Merz möchte nun doch die Lieferkettenrichtline abschaffen.](https://blog.fefe.de/?ts=96de359e)
+* [Auch die RTX 5090 Grafikkarten verschmoren eure Kabel](https://www.borncity.com/blog/2025/05/11/msis-secure-rtx-5090-12v-2x6-kabel-verschmort-weiterhin/)
+* [>>Die vermeintliche Rechtssicherheit, die von solchen Gutachten und Stellungnahmen suggeriert wird, hält keiner Überprüfung stand. Sie ist nichts weiter als eine juristische Fassade, die nur so lange trägt, wie niemand genauer hinschaut. [...]<<](https://www.kuketz-blog.de/ms365-papier-schuetzt-keine-daten-warum-juristische-freibriefe-in-die-irre-fuehren/)
+* [Kennt einer von euch DevPod?](https://devpod.sh/)
+* [click wurde in der Version 8.2.0 veröffentlicht.](https://github.com/pallets/click/releases/tag/8.2.0)
+* [Mithril.js wurde in der Version 2.3.0 veröffentlicht.](https://github.com/MithrilJS/mithril.js/releases/tag/v2.3.0)
