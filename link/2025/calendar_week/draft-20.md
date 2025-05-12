@@ -1,0 +1,2 @@
+* [Shotcut wurde in der Version 25.05 veröffentlicht.](https://www.phoronix.com/news/Shotcut-25.05-Video-Editor)
+* [>>Wann merken die mittelständischen Unternehmen, dass sie mit all der Virtualisierung in Clouds in eine fatale Abhängigkeitsfalle gelockt wurden?<<](https://www.borncity.com/blog/2025/05/12/parallels-umfrage-63-prozent-der-mittelstaendischen-unternehmen-suchen-nach-einer-neuen-vdi-oder-daas-loesung/)
