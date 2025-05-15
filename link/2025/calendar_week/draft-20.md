@@ -12,3 +12,13 @@
 * [Intel baut weiterhin kaputte CPU's](https://blog.fefe.de/?ts=96ddbb10)
 * [Die USA will wohl Las Vegas abbauen und Pornografie an sich als kriminelle Handlung einstufen.](https://blog.fefe.de/?ts=96ddb0e1)
 * [GNU Screen ist kaputt.](https://www.openwall.com/lists/oss-security/2025/05/12/1)
+* [Haben wir den Punkt der Ideocracy überschritten? In Hamburg ist das Volksbegehren gegen die Belästigung der hamburger Bürgerschaft durch Dauerwerbebestrahlung gescheitert.](https://blog.fefe.de/?ts=96dbc268)
+* [Eilmeldungen und Terrorpanik durch den öffentlichen Rundfunk? Das liegt nur daran, weil die privaten Medienunternehmen so unreguliert Scheiße in das Volkshirn pumpen dürfen.](https://blog.fefe.de/?ts=96dbc1a5)
+* [Microsoft belastet das Internet mit seinen LLM's welche permanent alle Webseiten illegal belasten. Auch Microsoft, verbietet Menschen Webseiten anzuschauen, weil sie keine LLM's mehr wollen.](https://blog.fefe.de/?ts=96da4e22) - Leider ist die Microsoft-Seite, welche den Zugriff verbietet jetzt github
+* [Die USA beendet ihre öffentlich zugängliche "Vulnerability Database", die EU will etwas eigenens aufbauen ... und nutzt/bezahlt Microsoft Azure Cloud.](https://blog.fefe.de/?ts=96daaff1)
+* [Nein? Doch! Oh? Die neuen LLM's halluzinieren immer mehr.](https://blog.fefe.de/?ts=96daa66f)
+* [Deutschland hat zeitweise zu viel Strom. Was macht man? Man baut ein Rechenzentrum für LLM's.](https://blog.fefe.de/?ts=96daa450) - Was wird das Resultat sein? Steuergelder werden versenkt und nach dem Bau wird man merken, dass ein Rechenzentrum gern durchgehend viel Strom benötigt.
+* [libsignal wurde in der Version 0.72.0 veröffentlicht.](https://github.com/signalapp/libsignal/releases/tag/v0.72.0)
+* [Podman wurde in der Version 5.5.0 veröffentlicht.](https://github.com/containers/podman/releases/tag/v5.5.0)
+* [Hier gibt es ein 40 Minuten Video wie ihr mit Vite schnell ein Frontend-Projekt aufsetzt.](https://www.freecodecamp.org/news/learn-vite-for-a-better-web-development-workflow/)
+* [Nun ist es offiziell, Von der Leyen durfte die Preisabsprachen mit Pfizer nicht löschen.](https://netzpolitik.org/2025/gerichtsurteil-zu-pfizergate-von-der-leyen-hat-bei-der-transparenz-geschummelt/) - Passiert deswegen etwas? Aber nein, mein lieber EU-Bürger. Ihr wisst doch, einige sind weiterhin gleicher als andere
