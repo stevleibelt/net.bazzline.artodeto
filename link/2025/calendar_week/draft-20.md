@@ -22,3 +22,11 @@
 * [Podman wurde in der Version 5.5.0 veröffentlicht.](https://github.com/containers/podman/releases/tag/v5.5.0)
 * [Hier gibt es ein 40 Minuten Video wie ihr mit Vite schnell ein Frontend-Projekt aufsetzt.](https://www.freecodecamp.org/news/learn-vite-for-a-better-web-development-workflow/)
 * [Nun ist es offiziell, Von der Leyen durfte die Preisabsprachen mit Pfizer nicht löschen.](https://netzpolitik.org/2025/gerichtsurteil-zu-pfizergate-von-der-leyen-hat-bei-der-transparenz-geschummelt/) - Passiert deswegen etwas? Aber nein, mein lieber EU-Bürger. Ihr wisst doch, einige sind weiterhin gleicher als andere
+* [Cybersecurity gesetzlich hochfahren? ABER DANN VERDIENT DOCH KEINER MEHR WAS!!!](https://blog.fefe.de/?ts=96d8d474) - Alleine die ganzen Schattenzahlungen aus der Steuerkasse für und gegen Exploits. Also wirklich, wer das fordert, der ist eine rote Socke!
+* [Ein wunderbarer Vergleich zum Thema Sicherheit und Cyberversicherung: >>eine Feuerlöschanlage brauchen wir nicht, wir haben eine Feuerversicherung<<](https://blog.fefe.de/?ts=96db2139)
+* [Das erste CxU-transatlantik-U-Boot zündet: Die Zölle der USA gegenüber Deutschland sind in Ordnung.](https://blog.fefe.de/?ts=96db78c7)
+* [Nextcloud server wurde in der Version 31.0.5 veröffentlicht.](https://github.com/nextcloud/server/releases/tag/v31.0.5)
+* [redis-exporter wurde in der Version 1.72.0 veröffentlicht.](https://github.com/oliver006/redis_exporter/releases/tag/v1.72.0)
+* [Na endlich, ein belgisches Gericht urteilt, dass die Cookiebanner nicht rechtskonform sind.](https://netzpolitik.org/2025/urteil-zu-werbe-einwilligungen-ringen-um-deutungshoheit/) - Also besonders die Art, wie die Werbeindustrie und die großen Konzerne damit umgehen.
+* [Leider sehr kurzfristig, aber wenn ihr am 18.05.2025 nichts vor habt, die Bahnstrecke Freiberg-Holzhau-Modava-Most/Teplice wird am Bahnhof Louka in Betrieb genommen.](https://www.fva-holzhau.de/18052025-LOUKA-UNTER-DAMPF.6102-1.htm)
+* [Rust wurde in der Version 1.87.0 veröffentlicht.](https://blog.rust-lang.org/2025/05/15/Rust-1.87.0/)
