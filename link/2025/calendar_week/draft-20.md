@@ -30,3 +30,4 @@
 * [Na endlich, ein belgisches Gericht urteilt, dass die Cookiebanner nicht rechtskonform sind.](https://netzpolitik.org/2025/urteil-zu-werbe-einwilligungen-ringen-um-deutungshoheit/) - Also besonders die Art, wie die Werbeindustrie und die großen Konzerne damit umgehen.
 * [Leider sehr kurzfristig, aber wenn ihr am 18.05.2025 nichts vor habt, die Bahnstrecke Freiberg-Holzhau-Modava-Most/Teplice wird am Bahnhof Louka in Betrieb genommen.](https://www.fva-holzhau.de/18052025-LOUKA-UNTER-DAMPF.6102-1.htm)
 * [Rust wurde in der Version 1.87.0 veröffentlicht.](https://blog.rust-lang.org/2025/05/15/Rust-1.87.0/)
+* [Hier wird euch in drei Minuten erklärt, was Social Media mit euch macht.](https://youtu.be/RbjWFxzzCEU?t=4346)
