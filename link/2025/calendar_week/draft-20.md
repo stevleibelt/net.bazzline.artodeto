@@ -31,3 +31,10 @@
 * [Leider sehr kurzfristig, aber wenn ihr am 18.05.2025 nichts vor habt, die Bahnstrecke Freiberg-Holzhau-Modava-Most/Teplice wird am Bahnhof Louka in Betrieb genommen.](https://www.fva-holzhau.de/18052025-LOUKA-UNTER-DAMPF.6102-1.htm)
 * [Rust wurde in der Version 1.87.0 veröffentlicht.](https://blog.rust-lang.org/2025/05/15/Rust-1.87.0/)
 * [Hier wird euch in drei Minuten erklärt, was Social Media mit euch macht.](https://youtu.be/RbjWFxzzCEU?t=4346)
+* [Warum nicht in China wohnen? Microsoft stellt angeblich sein Cloudbums für China ein. Damit werden die eigene Dienste bauen.](https://blog.fefe.de/?ts=96d987f8) - Die machen also das, was wir in Europa auch dringend machen sollten.
+* [Am Beispiel der LLM Berichterstattung merkt ihr, wie sehr die ehemaligen Leitmedien zu reinen Werbeblättern verkommen sind.](https://blog.fefe.de/?ts=96d9f138)
+* [Was bedeutet "Smart Cities"? Das die Parkplatzschranke am gleichen System hängt wie ein Bestrahlungsgerät.](https://blog.fefe.de/?ts=96d9ea23)
+* [Diese ganzen erneuerbaren Energien machen die Wirtschaft kaputt, schaut nur nach China!](https://blog.fefe.de/?ts=96d9e535)
+* [Librenms wurde in der Version 25.5.0 veröffentlicht.](https://github.com/librenms/librenms/releases/tag/25.5.0)
+* [Die Netzflix Preiserhöhungen sind, laut dem Landgericht Köln, illegal.](https://www.borncity.com/blog/2025/05/17/landgericht-koeln-erklaert-netflix-preiserhoehungen-2017-2022-als-unrechtmaessig/)
+* ["Vereinfachen" im Neusprech bedeutet entfernen von den Dingen, was die Bürger vor Betrügern schützt.](https://netzpolitik.org/2025/stichwort-vereinfachen-eu-kommission-will-mehr-ausnahmen-beim-datenschutz/)
