@@ -15,3 +15,10 @@
 * [Ist das 4D-Schach? An den meisten VPN-Anbietern hängt der Staat aus China finanziell mit drinne.](https://www.schneier.com/blog/archives/2025/05/chinese-owned-vpns.html)
 * [Die CDU macht was die CDU so macht, Vorratsdatenspeicherung die Millausenste.](https://netzpolitik.org/2025/vorratsdatenspeicherung-dobrindt-nimmt-anlauf/) - Wie viel Volkszeit und Steuergelder für diesen feuchten Traum der Blackrock-Mafia schon verballert wurde, traurig.
 * [Weiter so, bevor die Staaten und Staatengemeinschaften die Hürden erhöhen - verklagt die Konzerne!](https://www.borncity.com/blog/2025/05/29/sammelklagen-gegen-big-tech-nehmen-zu/) - Erst wenn es billiger ist, moralisch richtig zu handeln, werden sich die Konzerne ändern
+* [Die TU Chemnitz bietet ab heute ein Dienstfahrten und Reservierungsportal für Bedienstete an.](https://blog.hrz.tu-chemnitz.de/urzcommunity/2025/05/30/dienstfahrten-digital-buchen-das-neue-reservierungsportal-der-tu-chemnitz/) - Jeder, der schon einmal ein Dienstreiseantrag ausführen durfte erhahnt, was dies für eine Erleichterung im Alltag ist
+* [Hier wird euch gezeigt, wie man mit DDEV eine alte PHP-Anwendung auf den neusten Stand bringen könnt.](https://ddev.com/blog/legacy-projects-with-unsupported-php-and-mysql-using-ddev/)
+* [`timeout` für die CLI kannte ich bisher noch nicht.](https://heitorpb.github.io/bla/timeout/)
+* [dramatiq wurde in der Version 1.18.0 veröffentlicht.](https://github.com/Bogdanp/dramatiq/releases/tag/v1.18.0)
+* [nextcloud news wurde in der Version 26.0.0 veröffentlicht.](https://github.com/nextcloud/news/releases/tag/26.0.0)
+* [webmin wurde in der Version 2.400 veröffentlicht.](https://github.com/webmin/webmin/releases/tag/2.400)
+* [Genode wurde in der Version 25.05 veröffentlicht.](https://github.com/genodelabs/genode/releases/tag/25.05)
