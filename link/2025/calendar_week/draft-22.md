@@ -22,3 +22,5 @@
 * [nextcloud news wurde in der Version 26.0.0 veröffentlicht.](https://github.com/nextcloud/news/releases/tag/26.0.0)
 * [webmin wurde in der Version 2.400 veröffentlicht.](https://github.com/webmin/webmin/releases/tag/2.400)
 * [Genode wurde in der Version 25.05 veröffentlicht.](https://github.com/genodelabs/genode/releases/tag/25.05)
+* [Achso, na dann ... die Superreichen können gar nicht besteuert werden, weil es keine Aufzeichnungen über deren Vermögen gibt.](https://www.deutschlandfunk.de/ungleichheit-vermoegenssteuer-vermoegensverteilung-superreiche-daten-100.html) - Case closed würde ich sagen, kann man nichts machen
+* [Alpine Linux wurde in der Version 3.22 veröffentlicht.](https://www.phoronix.com/news/Alpine-Linux-3.22)
