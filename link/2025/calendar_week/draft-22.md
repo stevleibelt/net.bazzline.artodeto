@@ -24,3 +24,4 @@
 * [Genode wurde in der Version 25.05 veröffentlicht.](https://github.com/genodelabs/genode/releases/tag/25.05)
 * [Achso, na dann ... die Superreichen können gar nicht besteuert werden, weil es keine Aufzeichnungen über deren Vermögen gibt.](https://www.deutschlandfunk.de/ungleichheit-vermoegenssteuer-vermoegensverteilung-superreiche-daten-100.html) - Case closed würde ich sagen, kann man nichts machen
 * [Alpine Linux wurde in der Version 3.22 veröffentlicht.](https://www.phoronix.com/news/Alpine-Linux-3.22)
+* [Roundcube wurde in der Version 1.6.11 veröffentlicht.](https://roundcube.net/news/2025/06/01/security-updates-1.6.11-and-1.5.10)
