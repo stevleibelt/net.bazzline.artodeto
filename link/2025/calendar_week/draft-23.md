@@ -14,3 +14,6 @@
 * [frankenphp wurde in der Version 1.7.0 veröffentlicht.](https://github.com/dunglas/frankenphp/releases/tag/v1.7.0)
 * [python StateMachine wurde in der Version 2.5.0 veröffentlicht.](https://github.com/fgmacedo/python-statemachine/releases/tag/v2.5.0)
 * [simdjson wurde in der Version 3.13.0 veröffentlicht.](https://github.com/simdjson/simdjson/releases/tag/v3.13.0)
+* [treestyletab wurde in der Version 4.2.0 veröffentlicht.](https://github.com/piroor/treestyletab/releases/tag/4.2.0)
+* [mock-oauth2-server wurde in der Version 2.2.0 veröffentlicht.](https://github.com/navikt/mock-oauth2-server/releases/tag/2.2.0)
+* [liibsignal wurde in der Version 0.74.0 veröffentlicht.](https://github.com/signalapp/libsignal/releases/tag/v0.74.0)
