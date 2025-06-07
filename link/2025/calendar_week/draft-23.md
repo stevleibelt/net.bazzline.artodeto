@@ -17,3 +17,10 @@
 * [treestyletab wurde in der Version 4.2.0 veröffentlicht.](https://github.com/piroor/treestyletab/releases/tag/4.2.0)
 * [mock-oauth2-server wurde in der Version 2.2.0 veröffentlicht.](https://github.com/navikt/mock-oauth2-server/releases/tag/2.2.0)
 * [liibsignal wurde in der Version 0.74.0 veröffentlicht.](https://github.com/signalapp/libsignal/releases/tag/v0.74.0)
+* [Quizlet ist leider keine datenschutzfreundliche Android-Anwendung]
+* [>>Hafenarbeiter verweigern Verschiffen von Rüstungsgütern nach Israel<<](https://www.onli-blogging.de/2528/Linksammlung-232025.html) - Danke, gern überall
+* [`/e/OS` wurde in der Version 3.0 veröffentlicht.](https://lwn.net/Articles/1024190/)
+* [Blackrock CDU halt, das Volk muss 500 Milliarden Euro Schulden über Generationen abbezahlen, aber die Länder kriegen nur 100 Milliarden und dann natürlich nur unter gewissen Bedinungen und niemals auf einmal.](https://netzpolitik.org/2025/fragen-und-antworten-das-sondervermoegen-die-infrastruktur-und-die-digitalisierung/)
+* [Kritische Berichterstattung? Das mag google nicht und da es ja die Zensur gibt, sind alle kritischen Berichterstattungen eben "Fake"-Berichterstattungen.](https://netzpolitik.org/2025/zensurheberrecht-mit-falschen-copyright-beschwerden-bei-google-gegen-kritische-berichterstattung/)
+* [Die goldene Pforte in Freiberg wurde 800 Jahre alt.](https://www.mdr.de/video/mdr-videos/a/video-929702.html)
+* [Nein? Doch! Oh? Hackfressenbuch und weitere Sprallos missbrauchen Android.](https://www.kuketz-blog.de/web-zu-app-tracking-wie-meta-yandex-android-nutzer-deanonymisieren/)
