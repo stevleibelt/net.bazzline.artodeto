@@ -24,3 +24,5 @@
 * [Kritische Berichterstattung? Das mag google nicht und da es ja die Zensur gibt, sind alle kritischen Berichterstattungen eben "Fake"-Berichterstattungen.](https://netzpolitik.org/2025/zensurheberrecht-mit-falschen-copyright-beschwerden-bei-google-gegen-kritische-berichterstattung/)
 * [Die goldene Pforte in Freiberg wurde 800 Jahre alt.](https://www.mdr.de/video/mdr-videos/a/video-929702.html)
 * [Nein? Doch! Oh? Hackfressenbuch und weitere Sprallos missbrauchen Android.](https://www.kuketz-blog.de/web-zu-app-tracking-wie-meta-yandex-android-nutzer-deanonymisieren/)
+* [In Freiberg wurde, bei einer Bodenprüfung, ein Steinbruch gefunden, welcher vermutlich für den Aufbau des Schloss Freudensteins genutzt wurde.](https://www.mdr.de/video/mdr-videos/a/video-929970.html)
+* [Redis Exporter wurde in der Version 1.74.0 veröffentlicht.](https://github.com/oliver006/redis_exporter/releases/tag/v1.74.0)
