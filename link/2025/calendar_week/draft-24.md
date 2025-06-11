@@ -3,3 +3,9 @@
 * [vacuum wurde in der Version 0.17.0 veröffentlicht.](https://github.com/daveshanley/vacuum/releases/tag/v0.17.0)
 * [Schöner Nachtrag zum Thema "betreibe deinen eigenen MFA". Das ist bewusst so komplex gebaut, dass es primär große Konzerne betreiben können.](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/OwnIdentityProviderIssues)
 * [Das Kramba fand auch im Jahr 2025 statt.](https://kramba-festival.de/)
+* [ddev zeigt wie Transparenz geht.](https://ddev.com/blog/sustainability-for-ddev/) - Und zeigt gleichzeitig auf, wie wenig Gelder in freie Software fließen
+* [Ach deswegen werden die selbstfahrenden Autos in Los Angeles angezündet! Die Polizei nutzt die Videoaufnahmen zur totalitären Überwachung.](https://netzpolitik.org/2025/los-angeles-robotaxis-als-fahrende-ueberwachungskameras/) - Schönes Beispiel wie in einem "lean state" Wirtschaft und Staat zusammenwachsen
+* [Immer wenn ich etwas über eine Verlängerung der Verbrennermotoren lese, lese ich auch "SUV's haben den meisten Gewinn".](https://www.deutschlandfunk.de/automobilindustrie-elektroautos-verbrenner-zukunft-100.html) - Kein deutscher Automobilhersteller hat die Lust ein günstiges Auto für das Volk zu bauen
+* [Ein U-Boot mehr ist aufgetaucht, auch Dobrindt bekennt sich offen zum Geldkoffer aus den USA.](https://netzpolitik.org/2025/palantir-dobrindt-ist-in-hoechstem-masse-unglaubwuerdig/)
+* [Spannende Aussage, "Wasserstoffexport ist eigentlich Wasserexport"](https://www.deutschlandfunk.de/energie-fuer-europa-kritik-in-tunesien-an-wasserstoffplaenen-100.html)
+* [label-studio wurde in der Version 1.19.0 veröffentlicht.](https://github.com/HumanSignal/label-studio/releases/tag/1.19.0)
