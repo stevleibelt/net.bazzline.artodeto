@@ -9,3 +9,9 @@
 * [Ein U-Boot mehr ist aufgetaucht, auch Dobrindt bekennt sich offen zum Geldkoffer aus den USA.](https://netzpolitik.org/2025/palantir-dobrindt-ist-in-hoechstem-masse-unglaubwuerdig/)
 * [Spannende Aussage, "Wasserstoffexport ist eigentlich Wasserexport"](https://www.deutschlandfunk.de/energie-fuer-europa-kritik-in-tunesien-an-wasserstoffplaenen-100.html)
 * [label-studio wurde in der Version 1.19.0 veröffentlicht.](https://github.com/HumanSignal/label-studio/releases/tag/1.19.0)
+* [Ihr wollt alle Anwendungen über ein Konto steuern das von einer privaten Firma verwaltet wird? Microsoft zeigt euch wie "schön" dieser Weg sein kann.](https://www.borncity.com/blog/2025/06/12/unternehmen-aus-der-hoelle-microsoft-kontensperren-wegen-teams-missbrauch/) - Automatisierte Sperrung und du bist damit "freigestellt" von jeglicher Arbeit
+* [Warum gibt es die illegal und zu lange Speicherfrist bei der Vorratsdatenspeicherung? Die Blackrock-Regierung findet eine Begründung als unnütz.](https://netzpolitik.org/2025/vorratsdatenspeicherung-keine-begruendung-fuer-ueberlange-speicherfrist-von-drei-monaten/)
+* [Die Hotelkette "Numa" sollte man direkt für immer meiden.](https://www.ccc.de/de/updates/2025/ausgecheckt-hotelkette-numa-veroffentlicht-ausweisdaten)
+* [Hyperion wurde in der Version 2.1 veröffentlicht.](https://github.com/hyperion-project/hyperion.ng/releases/tag/2.1)
+* [sanoid wurde in der Version 2.3.0 veröffentlicht.](https://github.com/jimsalterjrs/sanoid/releases/tag/v2.3.0)
+* [ADACLScanner wurde in der Version 6.4 veröffentlicht.](https://github.com/canix1/ADACLScanner/releases/tag/8.4)
