@@ -23,3 +23,8 @@
 * [archinstall wurde in der Version 3.0.8 veröffentlicht.](https://github.com/archlinux/archinstall/releases/tag/3.0.8)
 * [OpenZFS wurde in der Version 2.2.8 veröffentlicht.](https://github.com/openzfs/zfs/releases/tag/zfs-2.2.8)
 * [PHP Carbon wurde in der Version 3.10.0 veröffentlicht.](https://github.com/briannesbitt/Carbon/releases/tag/3.10.0)
+* [Wer die Meta AI-App installiert und nutzt, kann auch gleich einen 24/7 Livestream von seinem Smartphone ins Internet schieben.](https://www.borncity.com/blog/2025/06/14/die-meta-ai-app-ist-ein-datenschutz-gau/)
+* [Ein zunehmender Trend, immer mehr Software setzen teure GPU's voraus.](https://utcc.utoronto.ca/~cks/space/blog/tech/WillGPUsBecomeRequired) - Das Rad der schlecht optimierten Software dreht sich weiter. Alles soll mit immer mehr Rechenleistung beworfen werden.
+* [Radicle hat seine Desktop Anwendung veröffentlicht.](https://lwn.net/Articles/1025405/)
+* [rq wurde in der Version 2.4 veröffentlicht.](https://github.com/rq/rq/releases/tag/v2.4)
+* [Metabase wurde in der Version 55.3 veröffentlicht.](https://github.com/metabase/metabase/releases/tag/v0.55.3)
