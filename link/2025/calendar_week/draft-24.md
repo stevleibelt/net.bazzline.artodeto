@@ -28,3 +28,4 @@
 * [Radicle hat seine Desktop Anwendung veröffentlicht.](https://lwn.net/Articles/1025405/)
 * [rq wurde in der Version 2.4 veröffentlicht.](https://github.com/rq/rq/releases/tag/v2.4)
 * [Metabase wurde in der Version 55.3 veröffentlicht.](https://github.com/metabase/metabase/releases/tag/v0.55.3)
+* [Interessant, während die Leitmedien den Datenschutz als Störfaktor hinstelle, empfinden die Bürger den Datenschutz als dringed zu erweiternde Institution.](https://www.borncity.com/blog/2025/06/15/datenschutzbeauftragte-sieht-starkes-beduerfnis-nach-datenschutz/) - Schade das Blackrock Merz den Datenschutz weiter finanziell minimiert, so dass große Konzerne mit allen Schweinerein durchkommen während der Bäcker um die Ecke vor Bürokratismus stirbt
