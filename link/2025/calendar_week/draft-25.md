@@ -30,3 +30,7 @@
 * [Geil! Zweite Weltkriegsmunition vergiftet die Meere.](https://www.deutschlandfunk.de/ostsee-nordsee-weltkrieg-tnt-munition-gefahr-100.html)
 * [Warum eigentlich immer wieder? Soziale Probleme löst man nicht mit Technik! Auf das soziale Problem "Amoklauf in Graz" reagiert die Regierung in Österreich mit "Staatstreujaner" und "Registrierungspflichten".](https://netzpolitik.org/2025/staatstrojaner-und-registrierungspflicht-was-die-regierung-in-oesterreich-plant/) - Einfach Amoklauf per Gesetz verbieten, hilft ähnlich gut, kostet aber weniger.
 * [Illegale Inhalte zu löschen statt zu sperren mag das BKA nicht.](https://netzpolitik.org/2025/csam-ministerien-verruehren-loeschen-statt-sperren-mit-vorratsdatenspeicherung/) - Das BKA will lieber mehr Überwachung und weniger Bürgerrechte. JEDER IST DEIN FEIND!
+* [Serendipity, die Alternative zu WordPress.](https://www.onli-blogging.de/2534/Blogsysteme-jenseits-von-WordPress-Serendipity.html)
+* [Netzpolitik.org hat einen Liebesbrief an die Repaircafes geschrieben.](https://netzpolitik.org/2025/repaircafes-das-ist-doch-noch-gut/) - Die Idee gegen die Wegwerfgesellschaft zu sein, bring Menschen zusammen und hilft beim Durchmischen der Gesellschaft und beim Bewahren des Friedens
+* [Arch Linux und das kommende Plasma 6.4.0: >>Install plasma-x11-session if you are still using x11<<](https://archlinux.org/news/plasma-640-will-need-manual-intervention-if-you-are-on-x11/)
+* [Valinor wurde in der Version 1.17.0 veröffentlicht.](https://github.com/CuyZ/Valinor/releases/tag/1.17.0)
