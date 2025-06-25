@@ -7,3 +7,7 @@
 * [Die USA revoltiert im inneren gegen sich selbst, schnell mal einen Krieg anzünden.](https://www.deutschlandfunk.de/kriegseintritt-der-usa-interview-peter-wittig-ex-botschafter-in-washington-100.html) - Das nennt man wohl Öffentlichkeitsarbeit.
 * [freecodecamp.org konnte mir mit diesem Artikel Einblicke in das Embedded-Computing geben.](https://www.freecodecamp.org/news/learn-embedded-systems-firmware-basics-handbook-for-devs/)
 * [davx5-ose wurde in der Version 4.5-ose veröffentlicht.](https://github.com/bitfireAT/davx5-ose/releases/tag/v4.5-ose)
+* [>>Die Ray-Ban Meta tarnt sich als modisches Accessoire, ist aber ein tragbares Überwachungsgerät.<<](https://www.kuketz-blog.de/smartglass-ray-ban-meta-dauerueberwachung-im-sonnenbrillengehaeuse/) - Amerikanski, Faschist!
+* [Endlager von Atomstrom? Ach, das ist ein soziales Problem!](https://www.deutschlandfunk.de/atommuell-endlager-europa-100.html) - Hätten wir doch nur Ländereien in Afrika
+* [Scheiße Bernd, ich kotz im Strahl - Nun wird Dänemark ge-U-Bootet und will angeblich die anstandslose Massenüberwachung.](https://netzpolitik.org/2025/eu-ratspraesidentschaft-daenemark-setzt-chatkontrolle-wieder-auf-die-agenda/)
+* [libsignal wurde in der Version 0.76.0 veröffentlicht.](https://github.com/signalapp/libsignal/releases/tag/v0.76.0)
