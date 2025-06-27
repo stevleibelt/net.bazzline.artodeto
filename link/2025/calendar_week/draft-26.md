@@ -18,3 +18,8 @@
 * [>>[...] When the next new tool arrives, you'll recognise the pattern first and the product name second, which is precisely the habit that turns professionals into Expert Generalists.<<](https://martinfowler.com/articles/expert-generalist.html#GrowingExpertGeneralists)
 * [>>Deutsche Behörden haben im letzten Jahr [2024] 26,55 Millionen Mal gefragt, wer eine Telefonnummer registriert hat.<<](https://netzpolitik.org/2025/bestandsdatenauskunft-2024-behoerden-fragen-weiter-jede-sekunde-wem-eine-telefonnummer-gehoert/)
 * [Ich war gestern im Industriemuseum Chemnitz.](https://www.industriemuseum-chemnitz.de/) - Alleine die Ausstellung der Webmaschinen lohnt, dort seht ihr den Beginn der Rechentechnik und könnt sehen wie sich Sachen bewegen.
+* [Rust wurde in der Version 1.88.0 veröffentlicht.](https://blog.rust-lang.org/2025/06/26/Rust-1.88.0/)
+* [>>Palantir ist nicht einfach irgendeine Firma – sie ist eng mit Peter Thiel verbunden, einem der ideologischen Architekten des rechtsautoritären Flügels der US-Republikaner.<<](https://www.kuketz-blog.de/palantir-sicherheitssoftware-mit-demokratischem-kollateralschaden/) - Zu viel Macht in einer Hand verdirbt und macht blind.
+* [>>Am 28. Juni 2025 tritt in Deutschland das Barrierefreiheitsstärkungsgesetz (BFSG) in Kraft.<<](https://www.deutschlandfunk.de/inklusion-digital-barrierefreiheitsstaerkungsgesetz-bfsg-100.html) - Warum ist das richtig und wichtig? Die Konzerne und die Industrie haben unserem Land eine Rate von 10 Prozent Schwerbehinderten sozialisiert.
+* [LocalAI wurde in der Version 3.1 veröffentlicht.](https://github.com/mudler/LocalAI/releases/tag/v3.1.0)
+* [feishin wurde in der Version 0.16.0 veröffentlicht.](https://github.com/jeffvli/feishin/releases/tag/v0.16.0)
