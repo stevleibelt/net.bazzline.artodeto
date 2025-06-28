@@ -23,3 +23,11 @@
 * [>>Am 28. Juni 2025 tritt in Deutschland das Barrierefreiheitsstärkungsgesetz (BFSG) in Kraft.<<](https://www.deutschlandfunk.de/inklusion-digital-barrierefreiheitsstaerkungsgesetz-bfsg-100.html) - Warum ist das richtig und wichtig? Die Konzerne und die Industrie haben unserem Land eine Rate von 10 Prozent Schwerbehinderten sozialisiert.
 * [LocalAI wurde in der Version 3.1 veröffentlicht.](https://github.com/mudler/LocalAI/releases/tag/v3.1.0)
 * [feishin wurde in der Version 0.16.0 veröffentlicht.](https://github.com/jeffvli/feishin/releases/tag/v0.16.0)
+* [PHP Tempest wurde in der Version 1.0.0 veröffentlicht.](https://github.com/tempestphp/tempest-framework/releases/tag/v1.0.0)
+* [PHP Valinor wurde in der Version 2.0.0 veröffentlicht.](https://github.com/CuyZ/Valinor/releases/tag/2.0.0)
+* [Kriegsdienstverweigerung oder Kriegsflüchtlinge? Das möchte weder Russland noch die Ukraine.](https://www.deutschlandfunk.de/ukraine-russland-krieg-wehrpflicht-desertion-100.html) - Wo sind nur diese Menschenrechte, wenn man sie braucht?
+* [Landminen? Die CDU sagt ja!](https://www.deutschlandfunk.de/landminen-verbot-weg-nato-polen-finnland-grenze-russland-100.html)
+* [Mit pyttsx3 könnt ihr Text-To-Speech machen.](https://pythonfriday.dev/2025/06/285-intermediate-text-to-speech-with-pyttsx3/)
+* [>>[...] Integrity has always been important, but as we start using massive amounts of data to both train and operate AI systems, data integrity will become more critical than ever. [...]<<](https://www.schneier.com/blog/archives/2025/06/the-age-of-integrity.html)
+* [Das BKA-Gesetzt ist weiterhin verfassungswidrig. Doch solche Details hält die CDU nicht auf!](https://netzpolitik.org/2025/trotz-fristverlaengerung-schwarz-rot-peitscht-aenderung-des-bka-gesetzes-durch-den-bundestag/)
+* [Bei manitu.de bleibt alles anders.](https://hostblogger.de/blog/archives/7365-Veraenderungen-bei-manitu-ein-sehr-persoenliches-Update.html) - Manitu, eine der wenig guten Hoster. Wenn ich nicht schon bei uberspace wäre :-)
