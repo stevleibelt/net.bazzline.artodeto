@@ -1,0 +1,5 @@
+* [Das MDR berichtet über die große Bergparade zum Abschluss des Bergstadtfestes 2025 in Freiberg.](https://www.mdr.de/video/mdr-videos/a/video-935546.html)
+* [Nein? Doch! Oh? Brunnen in den Städten sind nützlich und wichtig.](https://www.deutschlandfunk.de/klimawandel-gesundheit-hitzetod-klimaangst-100.html) - Das mögen die Menschen hinter Blackrock natürlich gar nicht. Kostenfrei für die Bevölkerung Linderung wegen den konzengemachten Klimawandel schaffen? Wirklich schade dabei ist, dass die Menschheit so viel Zeit und Energie verschwendet hat, um doch wieder auf die alten Lösungen zu kommen.
+* [>>Einer der Gründe für die hohe Unfallgefahr ist, dass Fußgängern in Städten oft nur wenig Platz eingeräumt wird.<<](https://www.deutschlandfunk.de/fussgaenger-verkehr-stadtplanung-100.html) - Bei der starken Autolobby in Deutschland ist dies auch wenig verwunderlich.
+* [>>Hitzegeplagte können, um sich selbst abzukühlen, Fuß- und Armbäder mit kühlem Wasser nehmen.<<](https://www.deutschlandfunk.de/hitzewelle-gesundheit-hitzschlag-100.html)
+* [unmanic wurde in der Version 0.2.9 veröffentlicht.](https://github.com/Unmanic/unmanic/releases/tag/0.2.9)
