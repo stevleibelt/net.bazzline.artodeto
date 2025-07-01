@@ -3,3 +3,12 @@
 * [>>Einer der Gründe für die hohe Unfallgefahr ist, dass Fußgängern in Städten oft nur wenig Platz eingeräumt wird.<<](https://www.deutschlandfunk.de/fussgaenger-verkehr-stadtplanung-100.html) - Bei der starken Autolobby in Deutschland ist dies auch wenig verwunderlich.
 * [>>Hitzegeplagte können, um sich selbst abzukühlen, Fuß- und Armbäder mit kühlem Wasser nehmen.<<](https://www.deutschlandfunk.de/hitzewelle-gesundheit-hitzschlag-100.html)
 * [unmanic wurde in der Version 0.2.9 veröffentlicht.](https://github.com/Unmanic/unmanic/releases/tag/0.2.9)
+* [Hier wird euch eine schöne Demonstration von FastAPI mit WebSockets gezeigt.](https://testdriven.io/blog/fastapi-mongo-websockets/)
+* [Die Internationale muss wieder lauter erklingen. Egomane führen mit ihrem Handel dazu, dass die westlichen Länder lieber wieder Waffen, statt Schulen bauen lassen.](https://www.deutschlandfunk.de/kontrovers-nach-dem-nato-gipfel-aufruesten-um-jeden-preis-100.html) - Und das alles vom Geld der Bürger.
+* [Nein? Doch! Oh? Hackfressenbuch nutzt eure Hackfressen um deren Hackfresse zu trainieren.](https://www.borncity.com/blog/2025/06/30/facebook-verwendete-private-fotos-zum-ai-training/)
+* [Aussagen wie "85 Prozent der strafrechtlichen Ermittlungen basieren auf elektronischen Beweismitteln" machen mir sorge, nicht lässt sich schneller erzeugen und verändern wie digitale Dinge.](https://netzpolitik.org/2025/gesetzentwurf-polizeien-sollen-einfacher-an-digitale-beweise-kommen/)
+* [>>Utiq arbeitet mit Internetanbietern zusammen. Deshalb kann das Unternehmen Surfverhalten über den Internetanschluss wiedererkennen [...]<<](https://netzpolitik.org/2025/utiq-tracking-jetzt-auch-am-internetanschluss-zu-hause/)
+* [Mit fastapi-armor gibt es eine Middleware, die euch das Setzen von HTTP Securiy Headers vereinfacht.](https://github.com/inanpy/fastapi-armor)
+* [label-studio wurde in der Version 1.20.0 veröffentlicht.](https://github.com/HumanSignal/label-studio/releases/tag/1.20.0)
+* [gobuster wurde in der Version 3.7.0 veröffentlicht.](https://github.com/OJ/gobuster/releases/tag/v3.7.0)
+* [ADACLScanner wurde in der Version 8.6 veröffentlicht.](https://github.com/canix1/ADACLScanner/releases/tag/8.6)
