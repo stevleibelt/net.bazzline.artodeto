@@ -12,3 +12,11 @@
 * [label-studio wurde in der Version 1.20.0 veröffentlicht.](https://github.com/HumanSignal/label-studio/releases/tag/1.20.0)
 * [gobuster wurde in der Version 3.7.0 veröffentlicht.](https://github.com/OJ/gobuster/releases/tag/v3.7.0)
 * [ADACLScanner wurde in der Version 8.6 veröffentlicht.](https://github.com/canix1/ADACLScanner/releases/tag/8.6)
+* [GNU Health Hospital Information System wurde in der Version 5.0 veröffentlicht.](https://lwn.net/Articles/1028010/)
+* [Das ergibt einen Kreis, mehr Geld für Waffen, gleichzeitig eine halbherzig geführte Debatte über die Bundeswehrpflicht um am Ende den Heilsbringer "autonome Waffensysteme" durch die Medien zu prügeln.](https://netzpolitik.org/2025/ki-im-krieg-wir-brauchen-mehr-kritische-debatten-und-zivilgesellschaftliches-engagement/) - Ist das Motto "Ich mag keine Autonome, außer sie haben eine Waffe und sind von der Bundeswehr!" jetzt angesagt?
+* [Wir haben einen Hausarztmangel und kein Bundesland denkt daran, den ganzen IT-Bums als Landeslösung anzubieten?](https://www.deutschlandfunk.de/hausarzt-deutschland-demografie-mangel-gesundheitswesen-100.html)
+* [reflex wurde in der Version 0.8.0 veröffentlicht.](https://github.com/reflex-dev/reflex/releases/tag/v0.8.0)
+* [deno wurde in der Version 2.4.0 veröffentlicht.](https://github.com/denoland/deno/releases/tag/v2.4.0)
+* [OpenEMS wurde in der Version 2025.7.0 veröffentlicht.](https://github.com/OpenEMS/openems/releases/tag/2025.7.0)
+* [Magisk wurde in der Version 30.0.0 veröffentlicht.](https://github.com/topjohnwu/Magisk/releases/tag/v30.0)
+* [sudo-rs wurde in der Version 0.2.7 veröffentlicht.](https://github.com/trifectatechfoundation/sudo-rs/releases/tag/v0.2.7)
