@@ -24,3 +24,5 @@
 * [documenso wurde in der Version 1.12.0 veröffentlicht.](https://github.com/documenso/documenso/releases/tag/v1.12.0)
 * [keycloak wurde in der Version 26.3.0 veröffentlicht.](https://github.com/keycloak/keycloak/releases/tag/26.3.0)
 * [Tokio wurde in der Version 1.46.0 veröffentlicht.](https://github.com/tokio-rs/tokio/releases/tag/tokio-1.46.0)
+* [Mermaid wurde in der Version 11.8.0 veröffentlicht.](https://github.com/mermaid-js/mermaid/releases/tag/mermaid%4011.8.0)
+* [Die SPD hat wohl erkannt, dass die CDU ab der nächsten Wahl mit der AfD regieren möchte.](https://www.onli-blogging.de/2539/Linksammlung-272025.html)
