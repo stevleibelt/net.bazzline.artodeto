@@ -26,3 +26,8 @@
 * [Tokio wurde in der Version 1.46.0 veröffentlicht.](https://github.com/tokio-rs/tokio/releases/tag/tokio-1.46.0)
 * [Mermaid wurde in der Version 11.8.0 veröffentlicht.](https://github.com/mermaid-js/mermaid/releases/tag/mermaid%4011.8.0)
 * [Die SPD hat wohl erkannt, dass die CDU ab der nächsten Wahl mit der AfD regieren möchte.](https://www.onli-blogging.de/2539/Linksammlung-272025.html)
+* [Wüstenbildung kann man ganz einfach verhindern. Nur die großen Konzerne ohne Herz wollen das nicht.](https://www.deutschlandfunk.de/klimawandel-wueste-landwirtschaft-desertifikation-100.html) - >>Die gute Nachricht ist: Es gibt wirksame Gegenmaßnahmen, aber sie erfordern umfassende Anstrengungen und langfristige Strategien. Aufforstung, nachhaltige Landwirtschaft, Wasserrückhaltung, Mulchen und Begrünung durch robuste Pflanzenarten sind mögliche Wege. Außerdem sollte auf Monokulturen verzichtet werden.<<
+* [NUSGet wurde in der Version 1.4.2 veröffentlicht.](https://wiidatabase.de/nusget-v1-4-2/)
+* [Polizeigewalt gibt es jetzt auch im Netz.](https://netzpolitik.org/2025/hausdurchsuchung-wegen-tweet-dieser-mann-hat-sein-digitales-leben-verloren-weil-er-ein-foto-postete/)
+* [Bash wurde in der Version 5.3 veröffentlicht.](https://www.phoronix.com/news/GNU-Bash-5.3)
+* [PHP Tempest wurde in der Version 1.1.0 veröffentlicht.](https://github.com/tempestphp/tempest-framework/releases/tag/v1.1.0)
