@@ -31,3 +31,7 @@
 * [Polizeigewalt gibt es jetzt auch im Netz.](https://netzpolitik.org/2025/hausdurchsuchung-wegen-tweet-dieser-mann-hat-sein-digitales-leben-verloren-weil-er-ein-foto-postete/)
 * [Bash wurde in der Version 5.3 veröffentlicht.](https://www.phoronix.com/news/GNU-Bash-5.3)
 * [PHP Tempest wurde in der Version 1.1.0 veröffentlicht.](https://github.com/tempestphp/tempest-framework/releases/tag/v1.1.0)
+* [Turbokapitalismus im Endstadium oder >>Während meiner gesamten Ausbildung, von der Realschule, dem Gymnasium bis zur Fachhochschule und Universität bekam ich zu hören, dass die Chancen auf dem Jobmarkt schlecht stünden. Praktische Lösungsansätze gab es keine.<<](https://netzpolitik.org/2025/trugbild-das-suesse-leben/)
+* [Das ZDF zeigt Mut und erklärt, dass die AfD nicht wegen dem Wunsch nach Rassimus gewinnt, sondern weil die Idee der sozialen Umverteilung von den Überreichen vollständig pervertiert wurde.](https://www.youtube.com/watch?v=LZLZJWVFZvs) - Bravo Moriz Neumeier! Siehste mal CDU, was aus euer Idee mit dem ZDF geworden ist. Euch war die ARD doch zu weit links.
+* [phpqa wurde in der Version 1.112.0 veröffentlicht.](https://github.com/jakzal/phpqa/releases/tag/v1.112.0)
+* [frankenphp wurde in der Version 1.8.0 veröffentlicht.](https://github.com/php/frankenphp/releases/tag/v1.8.0)
