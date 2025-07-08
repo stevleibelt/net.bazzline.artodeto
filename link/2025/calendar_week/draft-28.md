@@ -3,3 +3,8 @@
 * [>>The easiest way to interact with programs is to run them in terminals<<](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/TerminalsForEasyInteraction) - Die Überschrifft trifft die Aussage perfekt. Jeder der programmiert, sollte so lange wie möglich das Terminal als UX lieben lernen.
 * [Die große Kreis-, Silber-, Berg- und UNESCO-Weltkulturerbestadt Freiberg ist modern, Jugendliche erkunden die weltweit bekannten Silbermann-Orgeln.](https://www.mdr.de/video/mdr-videos/a/video-937270.html)
 * [rqlite wurde in der Version 8.39.0 veröffentlicht.](https://github.com/rqlite/rqlite/releases/tag/v8.39.0)
+* [>>[...] Nutzung von urheberrechtlich geschützten Werken für den KI-Trainingsprozess ist damit auch für den kommerziellen Gebrauch und nicht nur für die Forschung erlaubt.<<](https://netzpolitik.org/2025/us-urheberrecht-ki-darf-weiter-buecher-lesen/) - Es wird gesetzlich geregelt, aber warum hier ein Opt-Out vom Autor nötig ist, empfinde ich als Kniefall vor den Konzernen
+* [Nein? Doch! Oh? Frontex schickt jahrelang illegal Daten an Europol](https://netzpolitik.org/2025/gefluechtete-und-aktivistinnen-frontex-schickte-jahrelang-unrechtmaessig-daten-an-europol/) - Also damit konnte niemand rechnen
+* [Die Verräterfirma Heim und Haus zeigt ihre Vertrauenswürdigkeit und spielt einen Sicherheitsvorfall als "Wartungsarbeiten" herunter.](https://www.borncity.com/blog/2025/07/07/sicherheitsvorfall-bei-heim-haus/) - Mit dieser Glaubhaftigkeit könnt ihr auch deren Verkaufsgespräche bewerten
+* [FastAPI wurde in der Version 0.116.0 veröffentlicht.](https://github.com/fastapi/fastapi/releases/tag/0.116.0)
+* [Auf freecodecamp.org wird euer Wissen über JWT's aufgefrischt.](https://www.freecodecamp.org/news/what-are-json-web-tokens-jwt/)
