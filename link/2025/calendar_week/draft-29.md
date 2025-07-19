@@ -20,3 +20,5 @@ Bundesarbeitsministerin Bärbel Bas (SPD) hat vorgeschlagen, dass auch Beamte in
 * [>>[...] I think some of these gatekeepers - above all Apple, do a lot to undermine this process, in some places genuinely damaging trust in democracy. [...]<<](https://formularsumo.co.uk/blog/2025/apple-vs-the-law/)
 * [frankenphp wurde in der Version 1.9.0 veröffentlicht.](https://github.com/php/frankenphp/releases/tag/v1.9.0)
 * [uv wurde in der Version 0.8.0 veröffentlicht.](https://github.com/astral-sh/uv/releases/tag/0.8.0)
+* [Lando wurde in der Version 3.25.0 veröffentlicht.](https://github.com/lando/lando/releases/tag/v3.25.0)
+* [Jemand hat im `aur` folgende drei Pakete hochgeladen: `librewolf-fix-bin`, `firefox-patch-bin` und `zen-browser-patched-bin`.](https://www.bleepingcomputer.com/news/security/arch-linux-pulls-aur-packages-that-installed-chaos-rat-malware/) - Falls ihr diese Pakete installiert habt, entfernt sie bitte.
