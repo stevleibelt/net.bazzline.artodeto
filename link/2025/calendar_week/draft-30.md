@@ -30,3 +30,7 @@
 * [SonicWall SMA 100-er Serie ist kaputt.](https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-critical-rce-flaw-in-sma-100-VPN-appliances/)
 * [LocalAI wurde in der Version 3.2.0 veröffentlicht.](https://github.com/mudler/LocalAI/releases/tag/v3.2.0)
 * [Stirling-PDF wurde in der Version 1.1.0 veröffentlicht.](https://github.com/Stirling-Tools/Stirling-PDF/releases/tag/v1.1.0)
+* [Auch die TK meint, Android APP nur für ausgewählte Systeme.](https://www.kuketz-blog.de/techniker%e2%80%91krankenkassen-app-unter-grapheneos-zwischen-gesetz-und-google%e2%80%91lock%e2%80%91in/)
+* [Frankreich will Palästina anerkennen.](https://www.deutschlandfunk.de/palaestina-anerkennung-staat-zweistaatenloesung-100.html) - Danke!
+* [Die TU Freiberg und die Universität Leipzig helfen auch im Kuhstall](https://www.mdr.de/video/mdr-videos/c/video-941744.html)
+* [Große BWL-Künste der neoliberalen Gedankenwelt findet man gerade bei Intel. Statt den Gesamtverlust zu verringern und in den eigenen Fabriken zu fertigen, gibt man lieber Geld aus um extern zu fertigen. Damit steht die eigene Fabrik faktisch dumm rum und kostet noch mehr Geld.](https://www.3dcenter.org/news/die-intel-geschaeftsergebnisse-im-zweiten-quartal-2025) - Damit kann man mehr Verluste vor der Steuer schreiben und kann ganz viel Mimimi in die Kamera weinen. "Kann man nichts machen, wir müssen 15 Prozent unserer Belegschaft die Lebensgrundlage wegnehmen, schade Marmelade!"
