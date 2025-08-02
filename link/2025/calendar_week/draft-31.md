@@ -33,3 +33,10 @@
 * [Influencer werden, mit Recht, gesellschaftlich schlecht angesehen - Also nutzen die Plattformen ihre Gehirnwäsche und arbeiten jetzt hart an einem "Reframing".](https://netzpolitik.org/2025/schmutzige-arbeit-deshalb-wollen-influencer-keine-influencer-mehr-sein/) - Influencer sind günstiger als normale Werbung, da sie über Schleichwerbung und Steuerhinterziehung einfach weniger Kosten und eine höhere Überredungsrate haben.
 * [Über den "KI-Hype" werden in der CxU wieder Milliarden von Steuergeldern privatisiert/veruntreut.](https://netzpolitik.org/2025/kuenstliche-intelligenz-die-hype-tech-agenda-der-bundesregierung/)
 * [>>Trump raube Banken quasi ohne Maske und am helllichten Tag aus, fasst der frühere FBI-Chef James Comey die Strategie des Republikaners zusammen. Dabei leugne der Politiker das mit Verweis auf die Offenheit seines Tuns.<<](https://www.deutschlandfunk.de/trump-usa-korruption-100.html)
+* [Dockur bietet euch Docker Container für Windows und MacOS an](https://github.com/dockur)
+* [Der Youtube-Kanal {ungeskripted} Ben hatte das Glück Herrn Dr. Eugen Drewermann zu Gast zu haben.](https://www.youtube.com/watch?v=dEow3kPoA8Q) - Für das Video benötigt ihr etwas mehr als zwei Stunden und maximal eine Aufgabe, die euch geistig nicht fordert. Aufräumen passt dazu und ich hoffe, dass ihr am Ende dieser Zeit eben Jene nicht als vergeudet erachtet.
+* [js-lingui wurde in der Version 5.4.0 veröffentlicht.](https://github.com/lingui/js-lingui/releases/tag/v5.4.0)
+* [Das traurige an der Sperrung des Microsoft-Kontos des LibreOffice-Entwicklers ist, dass man sieht was die wahre Kostenreduktion der Cloud ist - Jeglicher Support wurde deaktiviert.](https://mikekaganski.wordpress.com/2025/07/25/microsoft-anybody-home/)
+* [Samsung trocknet den Androidmarkt aus]
+* [Media Markt und Saturn werden nach China verkauft](https://www.heise.de/news/Media-Markt-und-Saturn-wird-mehrheitlich-nach-China-verkauft-10505016.html)
+* [rekor wurde in der Version 1.4.0 veröffentlicht.](https://github.com/sigstore/rekor/releases/tag/v1.4.0)
