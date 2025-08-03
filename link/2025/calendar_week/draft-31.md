@@ -40,3 +40,9 @@
 * [Samsung trocknet den Androidmarkt aus]
 * [Media Markt und Saturn werden nach China verkauft](https://www.heise.de/news/Media-Markt-und-Saturn-wird-mehrheitlich-nach-China-verkauft-10505016.html)
 * [rekor wurde in der Version 1.4.0 veröffentlicht.](https://github.com/sigstore/rekor/releases/tag/v1.4.0)
+* [>>Die Entscheidung zur Nutzung von Microsoft 365 durch die EU-Kommission ist kein datenschutzrechtlicher Fortschritt, sondern ein symbolischer Kniefall vor wirtschaftlichen und geopolitischen Realitäten. Die »Data Boundary« ist kein Schutzschild, sondern eine leere Worthülse. Wer beim Datenschutz solche leeren Papiertiger zulässt, der öffnet Schlupflöcher für Überwachung und Machtasymmetrie.<<](https://www.kuketz-blog.de/kommentar-zur-eu-data-boundary-die-illusion-europaeischer-souveraenitaet-bei-der-eu-kommission/)
+* [Vom 15.08 bis zum 17.08.2025 findet die 15. Erzgebirgsche Liedertour statt.](https://www.youtube.com/watch?v=ZpROlLwCfFw)
+* [>>Wer etwa häufig verpackte Lebensmittel konsumiert, nimmt tendenziell mehr Kunststoffpartikel auf.<<](https://www.deutschlandfunk.de/plastik-mikroplastik-im-gehirn-gesundheit-100.html)
+* [Pro Minute werden 10 deutsche Onlinekonten missbraucht oder von Plattformbetreibern verloren.](https://www.borncity.com/blog/2025/08/03/studie-52-millionen-deutsche-konten-im-jahr-2025-bisher-geleakt/)
+* [Nextcloud news wurde in der Version 26.1.0 veröffentlicht.](https://github.com/nextcloud/news/releases/tag/26.1.0)
+* [goverlay wurde in der Version 1.4.0 veröffentlicht.](https://github.com/benjamimgois/goverlay/releases/tag/1.4.0)
