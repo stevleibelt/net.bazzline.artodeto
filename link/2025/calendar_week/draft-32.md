@@ -37,3 +37,8 @@
 * [netzpolitik.org gönnt euch einen Realitätsabgleich zum Thema "Microsoft kümmert sich ganz dolle um den Datenschutz - echt!"](https://netzpolitik.org/2025/microsoft-365-eu-kommission-stellt-schutz-sensibler-behoerdendaten-auf-duennes-eis/)
 * [Auch AWS zeigt, dass LLM's dir den Tag bei großen Anbietern von heute auf morgen versauen können.](https://www.seuros.com/blog/aws-deleted-my-10-year-account-without-warning/) - Da wird einfach das Konto gelöscht
 * [Die freie Hand des Marktes setzt Zensur für NSFW-Inhalte global durch.](https://www.pcgamer.com/games/mastercard-deflects-blame-for-nsfw-games-being-taken-down-but-valve-says-payment-processors-specifically-cited-a-mastercard-rule-about-damaging-the-brand/) - Gäbe es einen echten freien Markt, wäre dies kein Problem
+* [Stirling-PDF wurde in der Version 1.2.0 veröffentlicht.](https://github.com/Stirling-Tools/Stirling-PDF/releases/tag/v1.2.0)
+* [dolibarr wurde in der Version 22.0.0 veröffentlicht.](https://github.com/Dolibarr/dolibarr/releases/tag/22.0.0)
+* [redis-exporter wurde in der Version 1.75.0 veröffentlicht.](https://github.com/oliver006/redis_exporter/releases/tag/v1.75.0)
+* [Debian wurde in der Version 13.0.0 veröffentlicht.](https://www.debian.org/News/2025/20250809)
+* [Der Chaos Communication Congress 2025 nennt sich "Power Cycles"](https://www.ccc.de/de/updates/2025/39c3-power-cycles)
