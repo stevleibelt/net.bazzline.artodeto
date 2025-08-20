@@ -6,3 +6,6 @@
 * [Maschinen statt Menschen! So sieht das Zumindest das SMK :-(](https://www.bildung.sachsen.de/blog/index.php/2025/08/18/intelligentes-lernsystem-bettermarks/) - Ob sich das SMK auch Gedanken darüber gemacht hat, dass die Bürger als bewusst gehaltene Niedriglöhner die ganze IT-Technik irgendwie bezahlen müssen?
 * [Die Blockpartei erlaubt auf einmal das Endlagern von CO2 - Ich bin gespannt in welchem Bundesland diese Tanks stehen "dürfen".](https://www.deutschlandfunk.de/co2-speicherung-abscheidung-ccs-kohlendioxid-100.html)
 * [DragonflyDB wurde in der Version 1.33.0 veröffentlicht.](https://github.com/dragonflydb/dragonfly/releases/tag/v1.33.0)
+* [mermaid wurde in der Version 11.10.0 veröffentlicht.](https://github.com/mermaid-js/mermaid/releases/tag/mermaid%4011.10.0)
+* [>>Deutschlands Klimapolitik bestimmt den Preis für ganz Europa<<](https://www.deutschlandfunk.de/emissionshandel-ets-europa-klimaschutz-100.html)
+* [Colt hat Nutzerdaten verloren und dies gemeldet.](https://www.borncity.com/blog/2025/08/19/cyber-vorfall-bei-sip-trunk-anbieter-colt/)
