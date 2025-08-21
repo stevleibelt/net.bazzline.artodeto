@@ -9,3 +9,10 @@
 * [mermaid wurde in der Version 11.10.0 veröffentlicht.](https://github.com/mermaid-js/mermaid/releases/tag/mermaid%4011.10.0)
 * [>>Deutschlands Klimapolitik bestimmt den Preis für ganz Europa<<](https://www.deutschlandfunk.de/emissionshandel-ets-europa-klimaschutz-100.html)
 * [Colt hat Nutzerdaten verloren und dies gemeldet.](https://www.borncity.com/blog/2025/08/19/cyber-vorfall-bei-sip-trunk-anbieter-colt/)
+* [Acht Konzerne bestimmen was ihr esset. (arte - warum essen wir, was wir essen | youtube.com)](https://www.youtube.com/watch?v=tNXsF7DUDCE) - Zumindest wenn man im Supermarkt kauft und diese stehen untereinander in Konkurenz **mehr** zu verkaufen
+* [K-9 Mail wurde in der Version 11.1.0 veröffentlicht.](https://github.com/thunderbird/thunderbird-android/releases/tag/K9MAIL_11_1)
+* [authentik wurde in der Version 2025.8.0 veröffentlicht.](https://github.com/goauthentik/authentik/releases/tag/version/2025.8.0)
+* [>>There's a future where much of the web simply isn't publicly available any more, at least not to anonymous people.<<](https://utcc.utoronto.ca/~cks/space/blog/web/WebIsKindOfFragile) - Und ich bin mir manchmal gar nicht sicher, ob nicht aktiv dafür gearbetet wurde.
+* [Wow, Online-Password-Manager sind wohl keine gute Idee.](https://www.bleepingcomputer.com/news/security/major-password-managers-can-leak-logins-in-clickjacking-attacks/)
+* [Die mediale Wende ist geschafft, die Bürger aus Europa sollen die Friedenssicherung in Europa mit Geld und Blut bezahlen.](https://www.deutschlandfunk.de/ukraine-sicherheitsgarantien-usa-europa-100.html) - Die USA und Großkonzerne werden die Bodenschätze des Landes rauben, fertig.
+* [Durch Papiere wie das von Leopoldina wird im Kopf medial zementiert, dass Alterskontrolle funktioniert und keine Zensurg bedeutet.](https://netzpolitik.org/2025/leopoldina-papier-unter-der-lupe-die-magische-anziehungskraft-des-social-media-verbots/) - Beide Annahmen sind nicht richtig.
