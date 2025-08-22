@@ -16,3 +16,7 @@
 * [Wow, Online-Password-Manager sind wohl keine gute Idee.](https://www.bleepingcomputer.com/news/security/major-password-managers-can-leak-logins-in-clickjacking-attacks/)
 * [Die mediale Wende ist geschafft, die Bürger aus Europa sollen die Friedenssicherung in Europa mit Geld und Blut bezahlen.](https://www.deutschlandfunk.de/ukraine-sicherheitsgarantien-usa-europa-100.html) - Die USA und Großkonzerne werden die Bodenschätze des Landes rauben, fertig.
 * [Durch Papiere wie das von Leopoldina wird im Kopf medial zementiert, dass Alterskontrolle funktioniert und keine Zensurg bedeutet.](https://netzpolitik.org/2025/leopoldina-papier-unter-der-lupe-die-magische-anziehungskraft-des-social-media-verbots/) - Beide Annahmen sind nicht richtig.
+* [libsignal wurde in der Version 0.79.0 veröffentlicht.](https://github.com/signalapp/libsignal/releases/tag/v0.79.0)
+* [Die Schweine greifen die Infrastruktur vom Arch Linux an.](https://lwn.net/Articles/1034716/) - Das ihr euch nicht schämt!
+* [Die Datenspuren in Dresden suchen Freiwillige](https://c3d2.de/news/datenspuren-2025-engel.html) - Wenn ihr Zeit habt, meldete euch bitte
+* [Die CDU nennt Krieg jetzt "Erhaltung von Frieden".](https://tuxproject.de/blog/2025/08/liegengebliebenes-vom-21-august-2025/)
