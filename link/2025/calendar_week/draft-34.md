@@ -20,3 +20,9 @@
 * [Die Schweine greifen die Infrastruktur vom Arch Linux an.](https://lwn.net/Articles/1034716/) - Das ihr euch nicht schämt!
 * [Die Datenspuren in Dresden suchen Freiwillige](https://c3d2.de/news/datenspuren-2025-engel.html) - Wenn ihr Zeit habt, meldete euch bitte
 * [Die CDU nennt Krieg jetzt "Erhaltung von Frieden".](https://tuxproject.de/blog/2025/08/liegengebliebenes-vom-21-august-2025/)
+* [redis exporter wurde in der Version 1.76.0 veröffentlicht.](https://github.com/oliver006/redis_exporter/releases/tag/v1.76.0)
+* [FreeRDP wurde in der Version 3.17.0 veröffentlicht.](https://github.com/FreeRDP/FreeRDP/releases/tag/3.17.0)
+* [Google macht wieder "WIR WOLLEN ABER RECHT HABEN DAMIT WIR MEHR WERBUNG VERKAUFEN KÖNNEN"](https://www.onli-blogging.de/2555/Linksammlung-342025.html)
+* [Hier wird euch gezeigt, wie man von gmail zu einem anderen Mailboxanbieter wechselt.](https://giuliomagnifico.blog/post/2025-08-18-leaving-gmail/)
+* [CloudFlare interessiert sich immer weniger für die echten Nutzer.](https://utcc.utoronto.ca/~cks/space/blog/web/WebsitesDontCareAboutClients)
+* [FFmpeg wurde in der Version 8.0.0 veröffentlicht.](https://lwn.net/Articles/1034813/)
