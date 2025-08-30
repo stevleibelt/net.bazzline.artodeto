@@ -24,3 +24,10 @@
 * [>>Wer als Deutsche:r in einem deutschen Hotel übernachtet, muss seine Meldedaten nicht mehr per Unterschrift quittieren und durch das Zeigen des Ausweises belegen.<<](https://netzpolitik.org/2025/daten-beim-hotel-check-in-wer-hat-in-meinem-bettchen-gelegen/)
 * [>>Mit einer ID würden Schüler*innen immer mehr zu Datenpunkten. „Ihr Verhalten kann dann natürlich genau verfolgt und vermessen werden.“<<](https://netzpolitik.org/2025/bildungs-id-bundesregierung-will-schueler-zentral-erfassen/)
 * [Fast 8 Millionen Deutsche Arbeitnehmer leben unter der Armutsgrenze weil sie "Minijobs" machen.](https://www.deutschlandfunk.de/minijob-geringfuegig-beschaeftigt-steuerfrei-sozialversicherung-reform-100.html)
+* [Auf Youtube findet ihr den Film "Python: The Documentary"](https://www.youtube.com/watch?v=GfH4QL4VqJ0)
+* [SonicWall verkürzt die garantierte Laufzeit ihrer SMA 100, weil sie Geld sparen wollen.](https://www.borncity.com/blog/2025/08/29/vorzeitige-beendigung-des-supports-fuer-sonicwall-sma100/) - Garantierte Softwarepflege kostet Geld und das Geld kann man doch lieber den Aktionäre geben
+* [Die meisten europäischen Ländern wolle die Chatkontrolle nicht, aber das ist der CxU ja egal.](https://netzpolitik.org/2025/umstrittene-massenueberwachung-von-diesen-laendern-haengt-ab-wie-es-mit-der-chatkontrolle-weitergeht/)
+* [>>[...] Nach fünfeinhalb Jahren hat die österreichische Datenschutzbehörde (DSB) endlich eine Entscheidung zu Gunsten von noyb getroffen. YouTube wurde angeordnet, dem Auskunftsersuchen des Beschwerdeführers gemäß Artikel 15 DSGVO nachzukommen. [...]<<](https://noyb.eu/de/noyb-win-youtube-ordered-honour-users-right-access)
+* [typer wurde in der Version 0.17.0 veröffentlicht.](https://github.com/fastapi/typer/releases/tag/0.17.0)
+* [immich wurde in der Version 1.140.0 veröffentlicht.](https://github.com/immich-app/immich/releases/tag/v1.140.0)
+* [penpot wurde in der Version 2.9.0 veröffentlicht.](https://github.com/penpot/penpot/releases/tag/2.9.0)
