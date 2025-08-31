@@ -31,3 +31,7 @@
 * [typer wurde in der Version 0.17.0 veröffentlicht.](https://github.com/fastapi/typer/releases/tag/0.17.0)
 * [immich wurde in der Version 1.140.0 veröffentlicht.](https://github.com/immich-app/immich/releases/tag/v1.140.0)
 * [penpot wurde in der Version 2.9.0 veröffentlicht.](https://github.com/penpot/penpot/releases/tag/2.9.0)
+* [>>Die Unterstellung ist hier: Der Mensch an sich kann wenig und dann kommt die KI, die aus dem unfähigen Menschen ein optimiertes Wesen macht.<<](https://netzpolitik.org/2025/interview-es-liegt-an-uns-ob-wir-ki-macht-ueber-uns-geben/)
+* [So, so, nachdem die CxU der kommenden Jugend 500 Milliarden Euro geschenkt hat, nimmt sie der Jugend hingegen den Sozialstaat weg.](https://www.deutschlandfunk.de/sozialstaat-reformkommission-cdu-csu-spd-buergergeld-100.html)
+* [Europa will den USA alle Biometriedaten von EU-Bürgern schenken.](https://netzpolitik.org/2025/grenzpartnerschaft-mit-den-usa-eu-kommission-will-biometriedaten-aus-mitgliedstaaten-freigeben/)
+* [Zwischen Bayern, Hessen und Sachsen gibt es ja schon immer ein Wettrennen wer seine Bürger weniger vertraut, nun hat Hessen ein Stück gewonnen.](https://netzpolitik.org/2025/als-erstes-bundesland-hessen-setzt-live-gesichtserkennung-ein/) - Einmal Gesichtserkennung für alle unschuldigen
