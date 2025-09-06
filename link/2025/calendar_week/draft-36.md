@@ -29,3 +29,4 @@
 * [GlückAuf TV stellt über zwei Stunden die aktuellen Oberbürgermeisterkandidaten für die Wahl in Freiberg  vor: youtube.com](https://www.youtube.com/watch?v=gjnGsSq2o2s)
 * [noyb erkämpft für gmail Nutzer das Recht darauf, dass Google ihre Werbung/Spam auch als solches kennzeichnen muss.](https://noyb.eu/de/noyb-win-french-dpa-fines-google-eu325-million-spam-emails-gmail)
 * [mock-oauth2-server wurde in der Version 2.3.0 veröffentlicht.](https://github.com/navikt/mock-oauth2-server/releases/tag/2.3.0)
+* [War ja klar, auch bei den Großkonzernen im Agrarsektor will sich die CxU wie eine billige Hure verhalten.](https://www.deutschlandfunk.de/landwirtschaft-kurswechsel-alois-rainer-minister-100.html)
