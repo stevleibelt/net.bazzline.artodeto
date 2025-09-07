@@ -30,3 +30,7 @@
 * [noyb erkämpft für gmail Nutzer das Recht darauf, dass Google ihre Werbung/Spam auch als solches kennzeichnen muss.](https://noyb.eu/de/noyb-win-french-dpa-fines-google-eu325-million-spam-emails-gmail)
 * [mock-oauth2-server wurde in der Version 2.3.0 veröffentlicht.](https://github.com/navikt/mock-oauth2-server/releases/tag/2.3.0)
 * [War ja klar, auch bei den Großkonzernen im Agrarsektor will sich die CxU wie eine billige Hure verhalten.](https://www.deutschlandfunk.de/landwirtschaft-kurswechsel-alois-rainer-minister-100.html)
+* [rq wurde in der Version 2.6.0 veröffentlicht.](https://github.com/rq/rq/releases/tag/v2.6)
+* [libsignal wurde in der Version 0.80.0 veröffentlicht.](https://github.com/signalapp/libsignal/releases/tag/v0.80.0)
+* [Stirling PDF wurde in der Version 1.3.0 veröffentlicht.](https://github.com/Stirling-Tools/Stirling-PDF/releases/tag/v1.3.0)
+* [rtorrent wurde in der Version 0.16.0 veröffentlicht.](https://github.com/rakshasa/rtorrent/releases/tag/v0.16.0)
