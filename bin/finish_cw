@@ -48,6 +48,30 @@ function _main ()
     NEXT_CALENDAR_WEEK=$(date -d '+1 week' '+%-V')
     NEXT_CALENDAR_WEEK_YEAR=$(date -d '+1 week' '+%-Y')
 
+    ## bo: user input
+    while getopts "c:hy:" CURRENT_OPTION;
+    do
+      case "${CURRENT_OPTION}" in
+        c)
+          NEXT_CALENDAR_WEEK="${OPTARG}"
+          ;;
+        h)
+          echo ":: Usage"
+          echo "${0} [-c <string: next_calendar_week>] [-h] [-y <string: next_calendar_week_year>]"
+          echo ""
+          echo "  -c: Defines the upcomming calender week, default is result of current calendar week plus one week"
+          echo "  -y: Defines the upcomming calender week year, default is result of current calendar week plus one week"
+          return 0
+          ;;
+        y)
+          NEXT_CALENDAR_WEEK_YEAR="${OPTARG}"
+          ;;
+        *)
+          ;;
+      esac
+    done
+    ## eo: user input
+
     if [[ ! -f current_calendar_week ]];
     then
       echo ":: Error"
@@ -128,4 +152,4 @@ DELIM
     cd -
 }
 
-_main
+_main "${@}"
