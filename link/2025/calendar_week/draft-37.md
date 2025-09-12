@@ -20,3 +20,7 @@
 * [deno wurde in der Version 2.5.0 veröffentlicht.](https://github.com/denoland/deno/releases/tag/v2.5.0)
 * [Schleswig-Holstein will uns wieder mehr Freiheit und Frieden gegen die transatlantischen Konzerne wie Meta erkämpfen.](https://netzpolitik.org/2025/druck-auf-bundesregierung-schleswig-holstein-draengt-auf-digitalabgabe/)
 * [Tjo, scheinbar über 20 Jahre Kampf für den Arsch, die Christdemokraten wollen nach der Staatsverschuldung noch das Gütesiegel Datensparsamkeit ad acta legen.](https://netzpolitik.org/2025/datenschutzreform-kommt-der-kahlschlag/)
+* [simdjson wurde in der Version 4.0.0 veröffentlicht.](https://github.com/simdjson/simdjson/releases/tag/v4.0.0)
+* [Nextcloud Server wurde in der Version 31.0.9 veröffentlicht.](https://github.com/nextcloud-releases/server/releases/tag/v31.0.9)
+* [redis exporter wurde in der Version 1.77.0 veröffentlicht.](https://github.com/oliver006/redis_exporter/releases/tag/v1.77.0)
+* [Peter Thiel, hier in Deutschland fehlen noch Geldsäcke. Die CDU lehnt dein Palantier noch zu 54 Prozent ab.](https://netzpolitik.org/2025/ueberwachungssoftware-mehr-als-zwei-drittel-lehnen-palantir-ab/)
