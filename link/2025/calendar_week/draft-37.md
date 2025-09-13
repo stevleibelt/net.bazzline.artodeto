@@ -24,3 +24,7 @@
 * [Nextcloud Server wurde in der Version 31.0.9 veröffentlicht.](https://github.com/nextcloud-releases/server/releases/tag/v31.0.9)
 * [redis exporter wurde in der Version 1.77.0 veröffentlicht.](https://github.com/oliver006/redis_exporter/releases/tag/v1.77.0)
 * [Peter Thiel, hier in Deutschland fehlen noch Geldsäcke. Die CDU lehnt dein Palantier noch zu 54 Prozent ab.](https://netzpolitik.org/2025/ueberwachungssoftware-mehr-als-zwei-drittel-lehnen-palantir-ab/)
+* [cloud-hypervisor wurde in der Version 48.0.0 veröffentlicht.](https://github.com/cloud-hypervisor/cloud-hypervisor/releases/tag/v48.0)
+* [cosign wurde in der Version 2.6.0 veröffentlicht.](https://github.com/sigstore/cosign/releases/tag/v2.6.0)
+* [harfbuzz wurde in der Version 11.5.0 veröffentlicht.](https://github.com/harfbuzz/harfbuzz/releases/tag/11.5.0)
+* [js-lingui wurde in der Version 5.5.0 veröffentlicht.](https://github.com/lingui/js-lingui/releases/tag/v5.5.0)
