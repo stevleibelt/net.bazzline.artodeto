@@ -1,0 +1,1 @@
+* [Kuketz hat in einem Satz zusammengefasst, was Vorratsdatenspeicherung bedeutet: >>Es erhebt systematisch viel öfter Daten als notwendig und trifft deswegen auch unschuldige Büger und Bürgerinnen<<](https://www.kuketz-blog.de/die-vergessene-vorratsdatenspeicherung-hintergrundbeitrag/)
