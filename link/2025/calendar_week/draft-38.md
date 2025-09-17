@@ -6,3 +6,7 @@
 * [Varnish wurde in der Version 8.0.0 veröffentlicht.](https://lwn.net/Articles/1038242/)
 * [Gleichschaltung aller privaten Überwachungsgeräte in Deutschland für den Überwachungsstaat? Berlin arbeitet daran.](https://netzpolitik.org/2025/berliner-verfassungsschutzgesetz-der-spion-im-einkaufszentrum/)
 * [Nein? Doch! Oh? Malawi zeigt, dass ein Vielvölkerstaat demokratisch funktionieren kann.](https://www.deutschlandfunk.de/malawi-praesidentschaftswahl-armut-krise-stabilitaet-100.html) - Oder die Bevölkerung hat keine Ahnung wie es von den reichen Staaten ausgeraubt wird
+* [harbor wurde in der Version 2.14.0 veröffentlicht.](https://github.com/goharbor/harbor/releases/tag/v2.14.0)
+* [libsignal wurde in der Version 0.81.0 veröffentlicht.](https://github.com/signalapp/libsignal/releases/tag/v0.81.0)
+* [webmin wurde in der Version 2.510 veröffentlicht.](https://github.com/webmin/webmin/releases/tag/2.510)
+* [tig wurde in der Version 2.6.0 veröffentlicht.](https://github.com/jonas/tig/releases/tag/tig-2.6.0)
