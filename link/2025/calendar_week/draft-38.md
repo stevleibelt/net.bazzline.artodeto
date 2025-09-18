@@ -10,3 +10,9 @@
 * [libsignal wurde in der Version 0.81.0 veröffentlicht.](https://github.com/signalapp/libsignal/releases/tag/v0.81.0)
 * [webmin wurde in der Version 2.510 veröffentlicht.](https://github.com/webmin/webmin/releases/tag/2.510)
 * [tig wurde in der Version 2.6.0 veröffentlicht.](https://github.com/jonas/tig/releases/tag/tig-2.6.0)
+* [Die CDU macht CDU-Dinge, damit die Energiekonzerne weiterhin steigende Gewinne habe, müssen die Kosten überproportional steigen - sonst fehlt das Geld endlich einmal die Netze zu erneuern.](https://www.deutschlandfunk.de/energiewende-katherina-reiche-photovoltaik-einspeiseverguetung-100.html)
+* [Hier wird euch ein wenig über die verschiedenen Buffer und Logs in MySQL geschrieben und wie diese bei einer schreibende Aufgabe genutzt werden.](https://www.percona.com/blog/mysql-with-diagrams-part-three-the-life-story-of-the-writing-process/)
+* [Das lowtechmagazine schreibt mir beim Thema Fahrrädern aus der Seele - Immer komplizierter und immer weniger nachhaltig wird dieses einst so wunderbare Fortbewegungsmittel.](https://solar.lowtechmagazine.com/de/2025/09/can-we-make-bicycles-sustainable-again/)
+* [Nein? Doch! Oh? - Auch die Gangart ist nicht eindeutig genug.](https://netzpolitik.org/2025/biometrische-gangerkennung-zeige-mir-wie-du-gehst-und-ich-sage-dir-wer-du-bist/) - WIR BRAUCHEN MEHR DATEN, DANN KLAPPT DAS BESTIMMT SCHON IRGENDWIE, so ungefährt argumentiert der Überwachungsstaat bei kleinen Nachfragen
+* [Die freie Anwendung Drip hilft euch, euren Menstruationszyklus ohne Datenschutzbedenken aufzeichnet.](https://netzpolitik.org/2025/datenschutzfreundliche-perioden-apps-zyklus-tracking-ohne-tracking/)
+* [mock-oauth2-server wurde in der Version 3.0.0 veröffentlicht.](https://github.com/navikt/mock-oauth2-server/releases/tag/3.0.0)
