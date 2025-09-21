@@ -35,3 +35,6 @@
 * [typer wurde in der Version 0.19.0 veröffentlicht.](https://github.com/fastapi/typer/releases/tag/0.19.0)
 * [Meshtastic für Android wurde in der Version 2.7.0 veröffentlicht.](https://github.com/meshtastic/Meshtastic-Android/releases/tag/v2.7.0)
 * [Neoliberalismus oder das, was Quartalsdenker immer unter Open Source verstehen, hat ein weiteres Opfer gefordert - LibXML2 verliert seinen Kernentwickler.](https://linuxiac.com/libxml2-maintainer-steps-down/) - Nur Arbeit und keine Entlohnung von Konzernen, immer wieder bewunderswert, wie lange manche durchhalten und ein Armutszeugnis für die Firmen, die damit Geld verdienen. Dies ist eines der Kernkomponenten, die gern vom Steuerzahler unter der Begründung "digitaler Souveränität" finanziert werden sollte.
+* [DietPi wurde in der Version 9.17.0 veröffentlicht.](https://github.com/MichaIng/DietPi/releases/tag/v9.17)
+* [fastapi wurde in der Version 0.117.0 veröffentlicht.](https://github.com/fastapi/fastapi/releases/tag/0.117.0)
+* [Ab November 2025 nutzt Microsoft die Profile und Inhalte von LinkedIn um deren LLM's zu trainieren.](https://www.borncity.com/blog/2025/09/21/microsoft-trainiert-ai-ab-nov-2025-mit-deinen-linkedin-inhalten/) - Es gibt aber eine Opt-Out-Möglichkeit unter den [Einstellungen](https://www.linkedin.com/mypreferences/d/categories/privacy)
