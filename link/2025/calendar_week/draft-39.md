@@ -11,3 +11,6 @@
 * [Netzpolitik.org fasst noch einmal zuammen, wo ihr welche Einstellungen auf LinkedIn setzen müsst, damit Microsoft eure Daten nicht zum Training derer LLM's einsetzt.](https://netzpolitik.org/2025/opt-out-anleitung-so-verhinderst-du-dass-linkedin-mit-deinen-daten-ki-trainiert/)
 * [TernFS wurde als freie Software bereitgestellt.](https://www.phoronix.com/news/TernFS-File-System-Open-Source) - Warum die Firma XTX Markets dies macht, konnte ich nicht wirklich herauslesen. Meine Skepsis bleibt damit erst einmal angeschaltet.
 * [Interessante These, führen Lautstärkenbeschränkungen von Demonstrationen dazu, dass diese weniger Wahrgenommen werden?](https://netzpolitik.org/2025/demonstrationen-wie-laermschutz-die-versammlungsfreiheit-beschraenkt/) - Wenn dich keiner schreien hört, leidest du nicht :-/.
+* [Der Altweibersommer 2025 in Kleinwaltersdorf war wieder großartig.](https://kleinwaltersdorf.de/index.php/2025/09/23/rueckblick-29-altweibersommer-2025/)
+* [Chatkontrolle will niemand? Dann erhöhen wir den politischen Druck und überzeugen mit Gewalt.](https://netzpolitik.org/2025/internes-protokoll-daenemark-will-chatkontrolle-durchdruecken/)
+* [Patrick Breyer hat zum Thema Chatkontrolle auch etwas geschrieben.](https://www.patrick-breyer.de/ex-europaabgeordneter-breyer-entlarvt-desinformationskampagne-zur-durchsetzung-der-chatkontrolle/)
