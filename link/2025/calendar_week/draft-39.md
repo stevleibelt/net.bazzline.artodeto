@@ -14,3 +14,8 @@
 * [Der Altweibersommer 2025 in Kleinwaltersdorf war wieder großartig.](https://kleinwaltersdorf.de/index.php/2025/09/23/rueckblick-29-altweibersommer-2025/)
 * [Chatkontrolle will niemand? Dann erhöhen wir den politischen Druck und überzeugen mit Gewalt.](https://netzpolitik.org/2025/internes-protokoll-daenemark-will-chatkontrolle-durchdruecken/)
 * [Patrick Breyer hat zum Thema Chatkontrolle auch etwas geschrieben.](https://www.patrick-breyer.de/ex-europaabgeordneter-breyer-entlarvt-desinformationskampagne-zur-durchsetzung-der-chatkontrolle/)
+* [Kali Linux wurde in der Version 2025.3 veröffentlicht.](https://www.bleepingcomputer.com/news/security/kali-linux-20253-released-with-10-new-tools-wifi-enhancements/) - Es gibt immer mehr Werkzeuge :-D
+* [Kleinwaltersdorf lädt zum 26.09.2025 eine Dokumentation zum Thema "20 Jahre Bürgerhaus" ein.](https://kleinwaltersdorf.de/index.php/2025/09/24/vortragsabend-20-jahre-buergerhaus/)
+* [Nein? Doch! Oh? Der europäische Digital Networks Act ist dafür geschaffen worden, damit nur noch große Netzbetreiber überleben.](https://netzpolitik.org/2025/digital-networks-act-kleine-anbieter-grosse-sorgen/) - Ist wie beim Strom, nur die Konzerne sollen überleben, die lästigen und kundenfreundlichen Stadtwerke oder lokalen Netzbetreibern stören nur die Gewinne
+* [Klingt erst einmal lustig, ist aber dann doch wieder wichtig: Vom 26.09.2025 bis 28.09.2025 findet in Leipzig ein Treffen der Hamsterexperten statt.](https://sachsen.nabu.de/news/2025/36598.html)
+* [colima wurde in der Version 0.9.0 veröffentlicht.](https://github.com/abiosoft/colima/releases/tag/v0.9.0)
