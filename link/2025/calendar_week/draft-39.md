@@ -19,3 +19,9 @@
 * [Nein? Doch! Oh? Der europäische Digital Networks Act ist dafür geschaffen worden, damit nur noch große Netzbetreiber überleben.](https://netzpolitik.org/2025/digital-networks-act-kleine-anbieter-grosse-sorgen/) - Ist wie beim Strom, nur die Konzerne sollen überleben, die lästigen und kundenfreundlichen Stadtwerke oder lokalen Netzbetreibern stören nur die Gewinne
 * [Klingt erst einmal lustig, ist aber dann doch wieder wichtig: Vom 26.09.2025 bis 28.09.2025 findet in Leipzig ein Treffen der Hamsterexperten statt.](https://sachsen.nabu.de/news/2025/36598.html)
 * [colima wurde in der Version 0.9.0 veröffentlicht.](https://github.com/abiosoft/colima/releases/tag/v0.9.0)
+* [libsignal wurde in der Version 0.82.0 veröffentlicht.](https://github.com/signalapp/libsignal/releases/tag/v0.82.0)
+* [broot wurde in der Version 1.50.0 veröffentlicht.](https://github.com/Canop/broot/releases/tag/v1.50.0)
+* [Das NABU-Magazin wurde in der Version 2/2025 veröffentlicht.](https://sachsen.nabu.de/news/2025/36608.html)
+* [Auch Bruce Schneier warnt laut vor der aktuellen Politik der westlichen Welt: >>Being Innocent Won’t Protect You<<](https://www.schneier.com/blog/archives/2025/09/digital-threat-modeling-under-authoritarianism.html)
+* [PostgreSQL wurde in der Version 18.0.0 veröffentlicht.](https://www.phoronix.com/news/PostgreSQL-18-Released)
+* [Baden-Wprttemberg will auf Bayern und Hessen aufschließen.](https://netzpolitik.org/2025/geplante-gesetzesaenderung-baden-wuerttemberg-will-huerden-fuer-videoueberwachung-senken/) - Mehr Überwachung!
