@@ -24,4 +24,6 @@
 * [Das NABU-Magazin wurde in der Version 2/2025 veröffentlicht.](https://sachsen.nabu.de/news/2025/36608.html)
 * [Auch Bruce Schneier warnt laut vor der aktuellen Politik der westlichen Welt: >>Being Innocent Won’t Protect You<<](https://www.schneier.com/blog/archives/2025/09/digital-threat-modeling-under-authoritarianism.html)
 * [PostgreSQL wurde in der Version 18.0.0 veröffentlicht.](https://www.phoronix.com/news/PostgreSQL-18-Released)
-* [Baden-Wprttemberg will auf Bayern und Hessen aufschließen.](https://netzpolitik.org/2025/geplante-gesetzesaenderung-baden-wuerttemberg-will-huerden-fuer-videoueberwachung-senken/) - Mehr Überwachung!
+* [Baden-Württemberg will auf Bayern und Hessen aufschließen.](https://netzpolitik.org/2025/geplante-gesetzesaenderung-baden-wuerttemberg-will-huerden-fuer-videoueberwachung-senken/) - Mehr Überwachung!
+* [Gibt es ein Überangebot von Empörung, damit die wirklich empörenden Dinge nicht mehr ersichtlich sind?](https://www.deutschlandfunk.de/boykott-verbraucher-konsumenten-konsumboykott-aktivismus-100.html)
+* [TikTok USA kommt in die Hände der Meinungsmacher, was soll schon schief gehn.](https://netzpolitik.org/2025/tiktok-goes-maga-trumps-tiktok-deal-ist-ein-geschenk-an-ihn-selbst/)
