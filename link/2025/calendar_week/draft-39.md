@@ -27,3 +27,5 @@
 * [Baden-Württemberg will auf Bayern und Hessen aufschließen.](https://netzpolitik.org/2025/geplante-gesetzesaenderung-baden-wuerttemberg-will-huerden-fuer-videoueberwachung-senken/) - Mehr Überwachung!
 * [Gibt es ein Überangebot von Empörung, damit die wirklich empörenden Dinge nicht mehr ersichtlich sind?](https://www.deutschlandfunk.de/boykott-verbraucher-konsumenten-konsumboykott-aktivismus-100.html)
 * [TikTok USA kommt in die Hände der Meinungsmacher, was soll schon schief gehn.](https://netzpolitik.org/2025/tiktok-goes-maga-trumps-tiktok-deal-ist-ein-geschenk-an-ihn-selbst/)
+* [Der 39 C3 lädt euch Mitmachern zum mitmachen ein.](https://events.ccc.de/2025/09/28/39c3-call-for-participation/)
+* [Nein? Doch! Oh? Der versprochene Individualismus des Kapitalismus ist nur das beworbene Kopieren von Kopien?](https://netzpolitik.org/2025/breakpoint-individuell-uniform/)
