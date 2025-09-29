@@ -1,0 +1,10 @@
+* [Methylenblau ist wohl das, was die Influencer gerade durch das Sommerloch treiben.](https://www.ndr.de/ratgeber/methylenblau-wirkung-und-gefahren-des-trend-supplements,methylenblau-100.html)
+* [Nein? Doch! Oh? Doch nicht unbedingt Litauen ... whitebridge.ai halluziniert sich Nutzerdaten zusammen und verkauft diese mit Teilen von echten Daten.](https://noyb.eu/de/whitebridgeai-your-personal-data-sale-you-and-anyone) - Ein Datenmixer der teilweise mit eurem Echtdaten irgendwelche Warnungen erzeugt, was soll schon schief gehen
+* [Wir leben in einer Welt, in der man froh sein muss, dass es Dienste wie noanruf.de gibt.](https://noanruf.de/)
+* [Wenn man sich diesen Status Quo vom Deutschlandfunk bezüglich der Ausbeutung ausländischer Mitarbeiter durchliest, bleibt der Geschmack, dass jeder außer der neoliberale Konzern verliert.](https://www.deutschlandfunk.de/arbeitsmarkt-lieferdienste-nagelstudio-migration-100.html) - Die Migranten werde verbittert in die Gesellschaft entlassen, da sie gebildet sind und trotzdem Tagelöhner sind. Die Deutschen sehen nur, dass andere die Arbeit machen und man selbst keine Arbeit angeboten bekommt. Die Kunden werden mit billigen Lieferungen falsch gebildet und der Konzern fährt Gewinne ein, ohne sich um die sozialen Schäden zu kümmern. Kurzfristige Gewinne, langfristige Probleme - hier haben die Neocons wieder mitgespielt.
+* [PHP Valinor wurde in der Version 2.2.0 veröffentlicht.](https://github.com/CuyZ/Valinor/releases/tag/2.2.0)
+* [Nextcloud news wurde in der Version 27.0.0 veröffentlicht.](https://github.com/nextcloud/news/releases/tag/27.0.0)
+* [python fastapi wurde in der Version 0.118.0 veröffentlicht.](https://github.com/fastapi/fastapi/releases/tag/0.118.0)
+* [python wireup wurde in der Version 2.1.0 veröffentlicht.](https://github.com/maldoinc/wireup/releases/tag/v2.1.0)
+* [harfbuzz wurde in der Version 12.0.0 veröffentlicht.](https://github.com/harfbuzz/harfbuzz/releases/tag/12.0.0)
+* [nextcloud server wurde in der Version 32.0.0 veröffentlicht.](https://github.com/nextcloud/server/releases/tag/v32.0.0)
