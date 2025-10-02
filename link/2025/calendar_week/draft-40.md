@@ -22,3 +22,6 @@
 * [Akkudoktor EOS wurde in der Version 0.1.0 veröffentlicht.](https://github.com/Akkudoktor-EOS/EOS/releases/tag/v0.1.0)
 * [keycloak wurde in der Version 26.4.0 veröffentlicht.](https://github.com/keycloak/keycloak/releases/tag/26.4.0)
 * [OpenEMS wurde in der Version 2025.10.0 veröffentlicht.](https://github.com/OpenEMS/openems/releases/tag/2025.10.0)
+* [LibreChat wurde in der Version 0.8.0 veröffentlicht.](https://github.com/danny-avila/LibreChat/releases/tag/v0.8.0)
+* [Immich wurde in der Version 2.0.0 veröffentlicht.](https://github.com/immich-app/immich/releases/tag/v2.0.0)
+* [Hier wird euch geklärt, wie ihr Cross-Origin Fehler im CORS beseitigt.](https://www.freecodecamp.org/news/how-to-fix-cross-origin-errors/)
