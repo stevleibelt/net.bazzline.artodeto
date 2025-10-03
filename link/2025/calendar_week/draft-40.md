@@ -25,3 +25,5 @@
 * [LibreChat wurde in der Version 0.8.0 veröffentlicht.](https://github.com/danny-avila/LibreChat/releases/tag/v0.8.0)
 * [Immich wurde in der Version 2.0.0 veröffentlicht.](https://github.com/immich-app/immich/releases/tag/v2.0.0)
 * [Hier wird euch geklärt, wie ihr Cross-Origin Fehler im CORS beseitigt.](https://www.freecodecamp.org/news/how-to-fix-cross-origin-errors/)
+* [>>Für neue Arbeitsplätze sorgen beispielsweise erneuerbare Energien, die Pflege- und Gesundheitsbranche, Rüstung, Erziehung und der Handel. Auch in der Informatik, Bauplanung oder Bauelektrik werden Fachkräfte gesucht.<<](https://www.deutschlandfunk.de/fachkraeftemangel-deutschland-wirtschaft-demografie-rezession-100.html) - Klar also, dass die CxU die erneuerbaen Energien abbaut und Erziehung auf gewohnter Sparflamme fährt.
+* [Selenium wurde in der Version 4.36.0 veröffentlicht.](https://github.com/SeleniumHQ/selenium/releases/tag/selenium-4.36.0)
