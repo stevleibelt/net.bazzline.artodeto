@@ -27,3 +27,12 @@
 * [Hier wird euch geklärt, wie ihr Cross-Origin Fehler im CORS beseitigt.](https://www.freecodecamp.org/news/how-to-fix-cross-origin-errors/)
 * [>>Für neue Arbeitsplätze sorgen beispielsweise erneuerbare Energien, die Pflege- und Gesundheitsbranche, Rüstung, Erziehung und der Handel. Auch in der Informatik, Bauplanung oder Bauelektrik werden Fachkräfte gesucht.<<](https://www.deutschlandfunk.de/fachkraeftemangel-deutschland-wirtschaft-demografie-rezession-100.html) - Klar also, dass die CxU die erneuerbaen Energien abbaut und Erziehung auf gewohnter Sparflamme fährt.
 * [Selenium wurde in der Version 4.36.0 veröffentlicht.](https://github.com/SeleniumHQ/selenium/releases/tag/selenium-4.36.0)
+* [LocalAI wurde in der Version 3.6.0 veröffentlicht.](https://github.com/mudler/LocalAI/releases/tag/v3.6.0)
+* [libsignal wurde in der Version 0.83.0 veröffentlicht.](https://github.com/signalapp/libsignal/releases/tag/v0.83.0)
+* [Wine wurde in der Version 10.16.0 veröffentlicht.](https://www.phoronix.com/news/Wine-10.16-Released)
+* [Wie konnte denn das passieren? Neben allen anderen Problemen hat die ePA auch noch ein Problem mit der Datenqualität.](https://www.borncity.com/blog/2025/10/04/epa-risiken-fragen-sie-ihren-arzt-demis-und-ueberforderte-praxen/)
+* [Am 14.10.2025 wird im EU-Rat erneut über die unveränderte und damit völkerrechtlich illegae anstandslose Massenüberwachung aller EU-Bürger ab.](https://www.ccc.de/de/updates/2025/absage-chatkontrolle)
+* [Apaches .htaccess läuft und läuft und läuft.](https://utcc.utoronto.ca/~cks/space/blog/web/ApacheHtaccessAndDelegation)
+* [Hier hat Herr Born einfach alles richtig geschrieben: >>Microsoft ist im AI-Geschäft hyperaktiv<<](https://www.borncity.com/blog/2025/10/03/vibe-coding-war-gestern-microsoft-macht-vibe-working-in-office/)
+* [kuketz zeigt euch, wie ihr nextpush in nextcloud konfiguriert und mit unifypush betreibgt.](https://www.kuketz-blog.de/push-benachrichtigungen-fuer-android-via-unifiedpush-nextpush-nextcloud-teil-6/)
+* [DrayTek ist kaputt](https://www.bleepingcomputer.com/news/security/draytek-warns-of-remote-code-execution-bug-in-vigor-routers/)
