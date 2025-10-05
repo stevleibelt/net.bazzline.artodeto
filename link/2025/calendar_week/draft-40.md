@@ -36,3 +36,7 @@
 * [Hier hat Herr Born einfach alles richtig geschrieben: >>Microsoft ist im AI-Geschäft hyperaktiv<<](https://www.borncity.com/blog/2025/10/03/vibe-coding-war-gestern-microsoft-macht-vibe-working-in-office/)
 * [kuketz zeigt euch, wie ihr nextpush in nextcloud konfiguriert und mit unifypush betreibgt.](https://www.kuketz-blog.de/push-benachrichtigungen-fuer-android-via-unifiedpush-nextpush-nextcloud-teil-6/)
 * [DrayTek ist kaputt](https://www.bleepingcomputer.com/news/security/draytek-warns-of-remote-code-execution-bug-in-vigor-routers/)
+* [broot wurde in der Version 1.51.0 veröffentlicht.](https://github.com/Canop/broot/releases/tag/v1.51.0)
+* [webmin wurde in der Version 2.520.0 veröffentlicht.](https://github.com/webmin/webmin/releases/tag/2.520)
+* [cerberus-core wurde in der Version 4.20.0 veröffentlicht.](https://github.com/cerberustesting/cerberus-core/releases/tag/cerberus-testing-4.20)
+* [>>[...] Die von der Technologie in Anspruch genommene Zeit fehlt an anderer, analoger Stelle. Für gute Unterhaltung und Erotik, die Verbindung schaffen, braucht es mindestens zwei. [...]<<](https://netzpolitik.org/2025/trugbild-die-neue-einsamkeit/)
