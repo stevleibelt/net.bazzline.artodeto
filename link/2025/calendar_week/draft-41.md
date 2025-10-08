@@ -4,3 +4,10 @@
 * [Ganz schön spät, oder muss das in der medial so hektisch getakteten Zeit so sein? Internetunternehmen finden die geplante Chatkontrolle auch blöd.](https://netzpolitik.org/2025/eu-ueberwachungsplaene-internetunternehmen-fuerchten-dass-chatkontrolle-innovation-erstickt/)
 * [Deutschlandfunk stellt eine wichtige Frage, wenn auch erst zum Schluss, zum Thema Wehrpflicht. Was würden die jungen Menschen, a.k.a die Betroffenen, davon halten?](https://www.deutschlandfunk.de/wehrpflicht-wehrdienst-bundeswehr-pistorius-gesetz-100.html) - Wäre ja nicht Auszudenken, wenn man mal offen mit der Bevölkerung darüber reden würde.
 * [ClamAV wurde in der Version 1.5.0 veröffentlicht.](https://github.com/Cisco-Talos/clamav/releases/tag/clamav-1.5.0)
+* [Valet wurde in der Version 2.11.0 veröffentlicht.](https://github.com/valet-sh/valet-sh/releases/tag/2.11.0)
+* [uv wurde in der Version 0.9.0 veröffentlicht.](https://github.com/astral-sh/uv/releases/tag/0.9.0)
+* [ruff wurde in der Version 0.14.0 veröffentlicht.](https://github.com/astral-sh/ruff/releases/tag/0.14.0)
+* [Ohha, macht Deutschlandfunk jetzt Angst, dass jeder weiter in LLMs investieren muss, weil der Kollaps sonst weltweit spürbar sein wird?](https://www.deutschlandfunk.de/ki-platzt-die-boersen-blase-100.html)
+* [Engel & Völkers hat all eure Daten verloren.](https://www.borncity.com/blog/2025/10/08/engel-voelkers-cybervorfall-mit-datenabfluss-im-september/)
+* [CDU und SPD wollen noch mehr Geldkoffer von Palantir, weswegen sie 2025 erst einmal gegen die anstandslose Massenüberwachung aller EU Bürger sind.](https://netzpolitik.org/2025/protest-wirkt-bundesregierung-ist-gegen-anlasslose-chatkontrolle/) - Behaltet eure Plakate, nächstes Jahr kommt es wieder
+* [Arduino wurde von Qualcomm aufgekauft.](https://www.borncity.com/blog/2025/10/07/qualcomm-uebernimmt-adurino/)
