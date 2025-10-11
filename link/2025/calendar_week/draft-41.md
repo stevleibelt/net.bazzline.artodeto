@@ -18,3 +18,5 @@
 * [Discord sammelt illegal Ausweiskopien und lässt sich diese klauen.](https://www.borncity.com/blog/2025/10/10/discord-desaster-nach-hack-werden-daten-geleakt/) - Gäbe es nur eine Möglichkeit Firmen wie Discord zu verbieten, solch sensible Daten zu sammeln. Ich würde das Ding DSGVO oder so nennen.
 * [Microsoft Domain Controller im Windows Server 2025 ist kaputt.](https://www.windowspro.de/news/microsoft-bestaetigt-bug-dcs-windows-server-2025/05980.html)
 * [Merz wurde erneut beim Lügen erwischt, Thema "Arbeitszeitvolumen in Deutschland"](https://www.deutschlandfunk.de/arbeitszeit-debatte-merz-100.html) - Natürlich geht die Gesamtmenge an Arbeitsstunden aller Arbeitnehmer in Deutschland zurück, wenn mehr Personen in Rente gehen als nachkommen
+* [fastapi wurde in der Version 0.119.0 veröffentlicht.](https://github.com/fastapi/fastapi/releases/tag/0.119.0) - Endlich wird intern auch Pydantic v2 genutzt :-)
+* [Faststream wurde in der Version 0.6.0 veröffentlicht.](https://github.com/ag2ai/faststream/releases/tag/0.6.0)
