@@ -5,3 +5,6 @@
 * [Das lowtech Magazine zeigt euch, wie ihr mit 100 Watt und einer Solarzelle, einen Backofen baut.](https://solar.lowtechmagazine.com/2025/10/how-to-build-a-solar-powered-electric-oven/) - 100 Watt und darin werden sachen gekocht, irre toll
 * [Und wie man ein passenden Heizelement baut, wird euch hier auch gezeigt.](https://solar.lowtechmagazine.com/2025/10/how-to-build-an-electric-heating-element-from-scratch/)
 * [Die Big Brother Awards 2025 gehen al den Innenminister Dobrindt.](https://netzpolitik.org/2025/big-brother-awards-ueberwachungs-oscar-geht-an-innenminister-dobrindt/)
+* [Backstage wurde in der Version 1.44.0 veröffentlicht.](https://github.com/backstage/backstage/releases/tag/v1.44.0)
+* [Joomla! wurde in der Version 6.0.0 veröffentlicht.](https://github.com/joomla/joomla-cms/releases/tag/6.0.0)
+* [Datenschutz? Auch bei der Alterskontrolle schielt die EU in die USA und vergisst sein USP.](https://netzpolitik.org/2025/erklaerung-zu-alterskontrollen-25-eu-staaten-waehlen-den-billigen-weg/)
