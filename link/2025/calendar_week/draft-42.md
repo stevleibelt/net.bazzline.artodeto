@@ -8,3 +8,13 @@
 * [Backstage wurde in der Version 1.44.0 veröffentlicht.](https://github.com/backstage/backstage/releases/tag/v1.44.0)
 * [Joomla! wurde in der Version 6.0.0 veröffentlicht.](https://github.com/joomla/joomla-cms/releases/tag/6.0.0)
 * [Datenschutz? Auch bei der Alterskontrolle schielt die EU in die USA und vergisst sein USP.](https://netzpolitik.org/2025/erklaerung-zu-alterskontrollen-25-eu-staaten-waehlen-den-billigen-weg/)
+* [hatch wurde in der Version 1.15.0 veröffentlicht.](https://github.com/pypa/hatch/releases/tag/hatch-v1.15.0)
+* [Kleinwaltersdorf lädt am 24.10.2025 zur Informationsveranstaltung für Verkehrsteilnehmer ein.](https://kleinwaltersdorf.de/index.php/2025/10/15/informationsveranstaltung-fuer-verkehrsteilnehmer/)
+* [Damit hat die US-amerikanische Firma Clearview nicht gerechnet, Datenschutz gilt auch über das eigene Land hinweg und muss damit auch im Ausland beachtet werde.](https://netzpolitik.org/2025/britisches-gericht-zu-clearview-ai-datenschutz-gilt-auch-fuer-biometrische-ueberwachung-aus-dem-ausland/)
+* [ripgrep wurde in der Version 15.0.0 veröffentlicht.](https://github.com/BurntSushi/ripgrep/releases/tag/15.0.0)
+* [libsignal wurde in der Version 0.85.0 veröffentlicht.](https://github.com/signalapp/libsignal/releases/tag/v0.85.0)
+* [immich wurde in der Version 2.1.0 veröffentlicht.](https://github.com/immich-app/immich/releases/tag/v2.1.0)
+* [Was? Hackfressenbuch und andere Social Medias werben die Nutzer mit Scam zum Bankrot?](https://netzpolitik.org/2025/angebliche-online-investments-eine-automatisierte-betrugsmaschine/) - Damit konnte ja niemand rechnen!
+* [Die US-Amerikanischen U-Boote in Dänemark treiben den Wunsch der totalen Überwachung aller Europäer medial weiter voran.](https://netzpolitik.org/2025/absurd-und-respektlos-daenischer-justizminister-diskreditiert-chatkontrolle-proteste/)
+* [Auch die Polizei in Sachen verteidigt die Demokratie auf der "richtigen" Seite und setzt den Adenauer-Protestbus fest.](https://netzpolitik.org/2025/adenauer-protestbus-ermittlungen-mit-schlagseite/)
+* [Verrückt, es ist doch tatsächlich gegen das Gesetz, dass man illegal biometrische Daten von Personen erfasst und diese gegen illegale und nicht geprüfte Datenbestände aus dem Internet abgleicht.](https://netzpolitik.org/2025/biometrische-ueberwachung-koerperdaten-sind-keine-freie-verfuegungsmasse/)
