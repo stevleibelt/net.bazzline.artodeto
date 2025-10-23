@@ -22,3 +22,12 @@
 * [psyma wurde in der Version 1.0.0 veröffentlicht.](https://github.com/kellerza/pysma/releases/tag/v1.0.0)
 * [slint wurde in der Version 1.14.0 veröffentlicht.](https://github.com/slint-ui/slint/releases/tag/v1.14.0)
 * [Valinor wurde in der Version 2.3.0 veröffentlicht.](https://github.com/CuyZ/Valinor/releases/tag/2.3.0)
+* [Hier wird euch Firecrawl vorgestellt und wie ihr damit Webseiten als Markdowndateien crawlen könnt.](https://www.freecodecamp.org/news/how-to-turn-websites-into-llm-ready-data-using-firecrawl/)
+* [TARmageddon oder aktualisiert mal all eure RUST-Abhängigkeiten/Pakete.](https://www.bleepingcomputer.com/news/security/tarmageddon-flaw-in-abandoned-rust-library-enables-rce-attacks/)
+* [Dankt der Bertelsmannstiftung und dem blinden Gehorsam der sächsichen Regierung. Die Bertelsmannstiftung hat beschlossen, dass Sachsen in 50 Jahren ausgestorben ist und jetzt wundern sich alle, dass unter dieser Aussicht keine Ärzte in den Freistaat ziehen.](https://www.mdr.de/nachrichten/sachsen/bautzen/bautzen-hoyerswerda-kamenz/kinderarzt-termin-suche-patienten-100.html)
+* [Die Bundesregierung schaltet medial das nächste Ablenkungsmanöver: "Los Volk, zerfleischt euch bei dem Thema Rente mit 63!"](https://www.deutschlandfunk.de/rente-vorzeitig-fruehrente-pro-contra-100.html)
+* [Der Bund lässt sich von US-Firmen weiter vorführen, bleibt aber bei der kostenintensiven Abhängigkeit - Microsoft bleibt, solange Microsoft die Geldkoffer nach Berlin und München sendet!](https://netzpolitik.org/2025/digitalministerium-ratlos-keine-strategie-fuer-umstieg-auf-windows-11/)
+* [Google macht Android weiter kaputt, die Google Kamera funktionert ab Version 10.x.x nur noch mit dem Google Playstore.](https://www.kuketz-blog.de/google-kamera-ab-version-10-x-erfordert-play-services-downgrade-noetig/) - Damit werden nachträglich Funktionen vom gekauften Produkt entfernt/zerstört.
+* [Apropos Microsoft, den U-Booten in der Bundesregierung haben wir die dummen Gedanken zu verdanken, dass SAP als Datenvermittler zu OpenAI aufspielen soll.](https://netzpolitik.org/2025/sap-und-openai-wie-die-oeffentliche-verwaltung-mit-ki-noch-abhaengiger-von-big-tech-wird/) - Natürlich alles von Steuergelder bezahlt.
+* [Der PHP soap-client wurde in der Version 4.4.0 veröffentlicht.](https://github.com/phpro/soap-client/releases/tag/4.4.0)
+* [ledger wurde in der Version 3.4.0 veröffentlicht.](https://github.com/ledger/ledger/releases/tag/v3.4.0)
