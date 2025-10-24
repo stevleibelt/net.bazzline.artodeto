@@ -38,3 +38,5 @@
 * [Die Weihnachtszeit beginnt, der Nabu Sachsen bittet um Spenden.](https://sachsen.nabu.de/tiereundpflanzen/amphibien/36668.html) - Wir reden hier von 800 Euro, das wäre doch gelacht, wenn wir dies nicht hinbekommen!
 * [Kapitalismus im Endstadium, wenn das Alter zur Kostenfalle wird - die prikären Beschäftigungsverhältnisse von Pflegern.](https://www.deutschlandfunk.de/haeusliche-pflege-24-stunden-betreuung-100.html) - Profit über alles, oder warum wird dieses Problem nicht gesellschaftlich besprochen und menschlich gelöst? Fehlt ihr wieder das sozial in der Marktwirtschaft?
 * [Der Deutschlandfunk fragt, ob wir durch die Klimarkise ein neues Wirtschaftssystem benötigen.](https://www.deutschlandfunk.de/geht-klimawende-im-kapitalismus-100.html) - Ich würde sagen, "es reicht ein ehrliches". Wenn die Folgekosten des Raubbaus der Rohstoffe nicht sozialisiert, sondern hart eingepreist werden, reguliert sich das Wirtschaftssystem selbständig.
+* [FastAPI wurde in der Version 0.120.0 veröffentlicht.](https://github.com/fastapi/fastapi/releases/tag/0.120.0)
+* [sftpgo wurde in der Version 2.7.0 veröffentlicht.](https://github.com/drakkan/sftpgo/releases/tag/v2.7.0)
