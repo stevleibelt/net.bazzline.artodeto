@@ -40,3 +40,5 @@
 * [Der Deutschlandfunk fragt, ob wir durch die Klimarkise ein neues Wirtschaftssystem benötigen.](https://www.deutschlandfunk.de/geht-klimawende-im-kapitalismus-100.html) - Ich würde sagen, "es reicht ein ehrliches". Wenn die Folgekosten des Raubbaus der Rohstoffe nicht sozialisiert, sondern hart eingepreist werden, reguliert sich das Wirtschaftssystem selbständig.
 * [FastAPI wurde in der Version 0.120.0 veröffentlicht.](https://github.com/fastapi/fastapi/releases/tag/0.120.0)
 * [sftpgo wurde in der Version 2.7.0 veröffentlicht.](https://github.com/drakkan/sftpgo/releases/tag/v2.7.0)
+* [core utils in rust wurden in der Version 0.3.0 veröffentlicht.](https://github.com/uutils/coreutils/releases/tag/0.3.0)
+* [Wie sicher ist die ePA? Nun, nach einer kleinen Anfrage ist das alles nicht so eindeutig.](https://netzpolitik.org/2025/elektronische-patientenakte-mit-sicherheitsrisiken-und-nebenwirkungen/)
