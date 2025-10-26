@@ -42,3 +42,12 @@
 * [sftpgo wurde in der Version 2.7.0 veröffentlicht.](https://github.com/drakkan/sftpgo/releases/tag/v2.7.0)
 * [core utils in rust wurden in der Version 0.3.0 veröffentlicht.](https://github.com/uutils/coreutils/releases/tag/0.3.0)
 * [Wie sicher ist die ePA? Nun, nach einer kleinen Anfrage ist das alles nicht so eindeutig.](https://netzpolitik.org/2025/elektronische-patientenakte-mit-sicherheitsrisiken-und-nebenwirkungen/)
+* [python dotenv wurde in der Version 1.2.0 veröffentlicht.](https://github.com/theskumar/python-dotenv/releases/tag/v1.2.0)
+* [nextcloud news wurde in der Version 27.1.0 veröffentlicht.](https://github.com/nextcloud/news/releases/tag/27.1.0)
+* [Selenium wurde in der Version 4.38.0 veröffentlicht.](https://github.com/SeleniumHQ/selenium/releases/tag/selenium-4.38.0)
+* [Sehr gute Frage, last ihr auch eure intimen Briefe oder Mitteilungen an eure Liebsten von LLM's schreiben?](https://netzpolitik.org/2025/breakpoint-lasst-ihr-chatgpt-auch-eure-liebesbriefe-schreiben/)
+* [>>If a [ZFS] scrub passes, you also know that the disks haven't done anything obviously bad with your data.<<](https://utcc.utoronto.ca/~cks/space/blog/solaris/ZFSScrubsSomeThingsTheyDetect)
+* [>>Den Kontoauszug geprüft und einen Abbuchung in Höhe von 89,90 Euro von einer Megatipp Emergency Call Services vorgefunden? Aber nicht mit diesem Anbieter anfangen können?<<](https://www.borncity.com/blog/2025/10/26/unberechtigte-megatipp-emergency-call-services-abbuchung-von-8990-euro/)
+* [Probleme mit dem WiFi und Paketverluste? Das kann auch an einem schlecht geschirmten HDMI-Kabel liegen.](https://www.borncity.com/blog/2025/10/26/krude-ursache-fuer-paketverluste-bei-wifi-verbindung/)
+* [Wird die weiter gesunkene Softwarequalität von den Konzernen zunehmend als Normalität verkauft?](https://www.borncity.com/blog/2025/10/26/absturz-der-softwarequalitaet-normalisierung-einer-katastrophe/) - Könnten wir nur das "Made in Germany" ins Gesetz gießen und Firmen für schlampige Softwarequalität haftbar machen. Vorstellen, mit der fehlenden Qualität würden wir Autos bauen lassen.
+* [>>I'm extremely not interested in the security versus availability tradeoff that passkeys make in favour of security.<<](https://utcc.utoronto.ca/~cks/space/blog/web/PasskeysWhatIWant) - So geht es mir auch, vor allem gefällt es mir nicht, dass die Passkeys entweder auf einem Gerät liegen, was ich nicht sichern kann oder in einer Cloud von Fremden.
