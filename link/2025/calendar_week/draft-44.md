@@ -14,3 +14,9 @@
 * [Apropos Geheimdienste, der MAD soll bundesweit ebenfalls "von der Leine" gelassen werden.](https://netzpolitik.org/2025/neues-mad-gesetz-ein-militaergeheimdienst-wird-aufgeruestet/)
 * [appsmith wurde in der Version 1.90.0 veröffentlicht.](https://github.com/appsmithorg/appsmith/releases/tag/v1.90)
 * [davx5-ose wurde in der Version 4.5.5 veröffentlicht.](https://github.com/bitfireAT/davx5-ose/releases/tag/v4.5.5-ose)
+* [OpenEMS wurde in der Version 2025.11.0 veröffentlicht.](https://github.com/OpenEMS/openems/releases/tag/2025.11.0)
+* [gradle wurde in der Version 9.2.0 veröffentlicht.](https://github.com/gradle/gradle/releases/tag/v9.2.0)
+* [Können die Medien bitte aufhören bei der Ablenkung "Missbrauch der Sozialsysteme" mitzumachen? Wir müssen dringend über eine faire Umverteilung sprechen, wenn wir weiterhin an einer sozialen Marktwirtschaft festhalten wollen.](https://netzpolitik.org/2025/zivilgesellschaft-kritik-an-debatte-um-missbrauch-von-sozialleistungen/)
+* [Donald Trump baut über die Auswanderungsbehörde seinen überwachten Polizeistaat weiter aus.](https://netzpolitik.org/2025/in-echtzeit-us-abschiebebehoerde-ice-baut-ueberwachungsarsenal-weiter-aus/) - Schaut genau, was sich Europol und weitere Landesbehörden abschauen. Nach den Ausländern sind wir alle dran mit der totalen Überwachung
+* [Der Tor-Browser wurde in der Version 15.0.0 veröffentlicht.](https://blog.torproject.org/new-release-tor-browser-150/)
+* [Danke für den Service bisher und ich verstehe, dass auch ihr euch anpassen müsst. Uberspace muss seine Preise um einen Euro pro Monat anpassen.](https://blog.uberspace.de/2025/10/sechs-neun-zwoelf-mindestens-zwei/)
