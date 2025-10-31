@@ -20,3 +20,7 @@
 * [Donald Trump baut über die Auswanderungsbehörde seinen überwachten Polizeistaat weiter aus.](https://netzpolitik.org/2025/in-echtzeit-us-abschiebebehoerde-ice-baut-ueberwachungsarsenal-weiter-aus/) - Schaut genau, was sich Europol und weitere Landesbehörden abschauen. Nach den Ausländern sind wir alle dran mit der totalen Überwachung
 * [Der Tor-Browser wurde in der Version 15.0.0 veröffentlicht.](https://blog.torproject.org/new-release-tor-browser-150/)
 * [Danke für den Service bisher und ich verstehe, dass auch ihr euch anpassen müsst. Uberspace muss seine Preise um einen Euro pro Monat anpassen.](https://blog.uberspace.de/2025/10/sechs-neun-zwoelf-mindestens-zwei/)
+* [immich wurde in der Version 2.2.0 veröffentlicht.](https://github.com/immich-app/immich/releases/tag/v2.2.0)
+* [Rust wurde in der Version 1.91.0 veröffentlicht.](https://blog.rust-lang.org/2025/10/30/Rust-1.91.0/)
+* [Der Nabu Sachsen hat in Leipzig eine offene Stelle zu besetzen.](https://sachsen.nabu.de/wirueberuns/stellenangebote/36685.html)
+* [Leider wohl auch ein zahnloser Tiger, die EU möchte ein "Digital Fairness Act" erschaffen.](https://netzpolitik.org/2025/digital-fairness-act-grosse-wuensche-fuer-mehr-verbraucherschutz-im-netz/)
