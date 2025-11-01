@@ -24,3 +24,10 @@
 * [Rust wurde in der Version 1.91.0 veröffentlicht.](https://blog.rust-lang.org/2025/10/30/Rust-1.91.0/)
 * [Der Nabu Sachsen hat in Leipzig eine offene Stelle zu besetzen.](https://sachsen.nabu.de/wirueberuns/stellenangebote/36685.html)
 * [Leider wohl auch ein zahnloser Tiger, die EU möchte ein "Digital Fairness Act" erschaffen.](https://netzpolitik.org/2025/digital-fairness-act-grosse-wuensche-fuer-mehr-verbraucherschutz-im-netz/)
+* [Ich finde es schade, dass die LLM-Blase reguliert werden muss, weil die wahren Kosten eben nicht vollständig von dem LLM-Unternehmen bezahlt werden muss.](https://netzpolitik.org/2025/umfrage-zu-rechenzentren-die-mehrheit-folgt-dem-hype-nicht/) - Wer für 30 Eurocent Strom kaufen und für einen garantierten Rückbau ihrer erschaffenen Infrastruktur Rückstellungen vorhalten müsste, würde ich überlegen diese Technologie als heiligen Gral zu bewerben.
+* [Nein? Doch! Oh? Übertourismus in den Alpen führt zur Überbelastung der ehrenamtlichen Notrettung.](https://www.deutschlandfunk.de/alpen-gletscher-klimawandel-bergsturz-lawinen-steinschlag-bergrettung-100.html) - Wenn dir Instagram durch wiederholte Bilder die Gefahr verschleiert, denkst du als unsportlicher Knecht eben, dass du auch alles kannst
+* [Passt ja zur verklagten Flinten Uschi, auch der ehemalige Mitarbeiter von Hackfressenbuch, der jetzt irischer Datenschutzbeauftragter ist, sieht es überhaupt nicht ein zuürckzutreten.](https://netzpolitik.org/2025/neue-irische-datenschutzbeauftragte-menschenrechtsorganisation-reicht-beschwerde-bei-eu-kommission-ein/)
+* [Keep Android Open](https://keepandroidopen.org/) - Vereinigt euch, damit Google Andorid nicht weiter kaputt machen darf
+* [LocalAI wurde in der Version 3.7.0 veröffentlicht.](https://github.com/mudler/LocalAI/releases/tag/v3.7.0)
+* [python prefect wurde in der Version 3.5.0 veröffentlicht.](https://github.com/PrefectHQ/prefect/releases/tag/3.5.0)
+* [rqlite wurde in der Version 9.2.0 veröffentlicht.](https://github.com/rqlite/rqlite/releases/tag/v9.2.0)
