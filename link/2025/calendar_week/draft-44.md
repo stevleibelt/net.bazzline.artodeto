@@ -31,3 +31,4 @@
 * [LocalAI wurde in der Version 3.7.0 veröffentlicht.](https://github.com/mudler/LocalAI/releases/tag/v3.7.0)
 * [python prefect wurde in der Version 3.5.0 veröffentlicht.](https://github.com/PrefectHQ/prefect/releases/tag/3.5.0)
 * [rqlite wurde in der Version 9.2.0 veröffentlicht.](https://github.com/rqlite/rqlite/releases/tag/v9.2.0)
+* [>>[...] Zu zaghaft hat sich die deutsche Autobranche der E-Mobilität angenähert, zu lange an den Verbrennern festgehalten, weil sie damit schlichtweg mehr Geld verdienen kann. [...]<<](https://www.deutschlandfunk.de/stellenabbau-automobilbranche-autoindustrie-zulieferer-100.html)
