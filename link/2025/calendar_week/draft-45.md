@@ -35,3 +35,8 @@
 * [Oha! Incus als OS und dann auch noch mit ZFS?](https://www.phoronix.com/news/Incus-IncusOS-Announced) - Da gibt es ja direkt feuchte Schlüpfer
 * [Guter Blick in die nahe Zukunft, die schlecht gesicherten Datenhalden der "ID Überprüfungsplattformen", sind die Datenschutzvorfälle von Morgen.](https://www.bleepingcomputer.com/news/security/id-verification-laws-are-fueling-the-next-wave-of-breaches/)
 * [Schau an, Flintenuschi steckt so im Arsch der US-Amerikaner, dass sie natürlich gerne die moralischen Standards der EU im Bereich Datenschutz und KI-Regulierung reduzieren möchte.](https://netzpolitik.org/2025/digitaler-omnibus-eu-kommission-will-datenschutzgrundverordnung-und-ki-regulierung-schleifen/)
+* [pytest wurde in der Version 9.0.0 veröffentlicht.](https://github.com/pytest-dev/pytest/releases/tag/9.0.0)
+* [broot wurde in der Version 1.53.0 veröffentlicht.](https://github.com/Canop/broot/releases/tag/v1.53.0)
+* [YMMD >>Throw it into a container, who cares what it sprays where across the filesystem and how much it wants to be the exclusive owner and controller of everything in sight.<<](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/ContainersAbandonInstalling)
+* [Akkudoktors EOS wurde in der Version 0.2.0 veröffentlicht.](https://github.com/Akkudoktor-EOS/EOS/releases/tag/v0.2.0)
+* [Ihr bezahlt die teuersten Wirtschaftsprüfer der Welt und diese maximieren den Koksaustoß und setzen LLM's ein, um deren Arbeit zu machen.](https://www.borncity.com/blog/2025/11/09/ki-irrsinn-teil-5-deloitte-die-ki-und-der-versemmelte-report-in-australien/)
