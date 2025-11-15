@@ -24,3 +24,10 @@
 * [>>Die EU sollte eher ein Auge auf die Fehlentwicklungen bei der KI haben, statt den Tech-Bossen die Füße zu küssen.<<](https://netzpolitik.org/2025/kuenstliche-intelligenz-ursula-von-der-leyen-als-papagei-der-tech-bosse/)
 * [FreeRDP wurde in der Version 3.18.0 veröffentlicht.](https://github.com/FreeRDP/FreeRDP/releases/tag/3.18.0)
 * [js-lingui wurde in der Version 5.6.0 veröffentlicht.](https://github.com/lingui/js-lingui/releases/tag/v5.6.0)
+* [QuestDB wurde in der Version 9.2.0 veröffentlicht.](https://github.com/questdb/questdb/releases/tag/9.2.0)
+* [Auch in Baden-Württemberg hat die CDU, die eigene Bevölkerung mit Vorsatz belogen und betrogen.](https://www.kuketz-blog.de/kommentar-palantir-desaster-in-baden-wuerttemberg-wenn-machtpolitik-wichtiger-ist-als-grundrechte/)
+* [Was vermindert Vertrauen beim Impfen? Wenn Inhaltsstoffe fehlen.](https://impfentscheidung.online/fehlende-angaben-bezueglich-inhaltsstoffen-in-impfstoffen/)
+* [Thunderbird wurde in der Version 145.0.0 veröffentlicht.](https://www.thunderbird.net/en-US/thunderbird/145.0/releasenotes/)
+* [Die EU-Kommission möchte Menschen vor dem Erreichen der europäischen Grenze töten. Was benötigt man also? Ganz genau! Drohnenabwehrrakete!](https://netzpolitik.org/2025/eu-ruestet-auf-drohnenverteidigung-soll-menschen-an-grenzen-abwehren/)
+* [Tja, dann ist Baden-Württemberg jetzt wie die USA, man kann nicht mehr hinfahren.](https://netzpolitik.org/2025/baden-wuerttemberg-gruene-geben-polizeidaten-fuer-palantir-frei/)
+* [freecodecamp.org erklärt euch "Dependency Injection" in FastAPI.](https://www.freecodecamp.org/news/how-to-implement-dependency-injection-in-fastapi/) - Sehr schön finde ich, dass alle unterstützten Arten im Detail und aufeinander aufbauend erklärt werden.
