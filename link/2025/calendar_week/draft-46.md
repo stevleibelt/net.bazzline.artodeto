@@ -31,3 +31,6 @@
 * [Die EU-Kommission möchte Menschen vor dem Erreichen der europäischen Grenze töten. Was benötigt man also? Ganz genau! Drohnenabwehrrakete!](https://netzpolitik.org/2025/eu-ruestet-auf-drohnenverteidigung-soll-menschen-an-grenzen-abwehren/)
 * [Tja, dann ist Baden-Württemberg jetzt wie die USA, man kann nicht mehr hinfahren.](https://netzpolitik.org/2025/baden-wuerttemberg-gruene-geben-polizeidaten-fuer-palantir-frei/)
 * [freecodecamp.org erklärt euch "Dependency Injection" in FastAPI.](https://www.freecodecamp.org/news/how-to-implement-dependency-injection-in-fastapi/) - Sehr schön finde ich, dass alle unterstützten Arten im Detail und aufeinander aufbauend erklärt werden.
+* [DietPi wurde in der Version 9.19.0 veröffentlicht.](https://github.com/MichaIng/DietPi/releases/tag/v9.19)
+* [goverlay wurde in der Version 1.6.0 veröffentlicht.](https://github.com/benjamimgois/goverlay/releases/tag/1.6.0)
+* [Ulrich Rossnagel hat sich als U-Boot von Microsoft geoutet.](https://www.borncity.com/blog/2025/11/15/hessischer-datenschuetzer-office-365-kann-dsgvo-konform-eingesetzt-werden/) - Anders ist seine Aussage "Office 365 kann DSGVO-konform eingesetzt werden" nicht gedeutet werden. Wie ein solcher Einsatz auszusehen hat und ob sich dafür die Millionen an Lizenzkosten lohnen, bleibt er dem Steuerzahler und dem deutschen Volk schuldig.
