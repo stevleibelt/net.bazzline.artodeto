@@ -142,8 +142,8 @@ DELIM
 
     # In testing right now
     /usr/bin/env git add .
-    /usr/bin/env git commit -m "Released cw ${CURRENT_CALENDAR_WEEK} of ${CURRENT_YEAR}"
-    /usr/bin/env git tag -a "${CURRENT_TAG}" -m "Released cw ${CURRENT_CALENDAR_WEEK} of ${CURRENT_YEAR}"
+    /usr/bin/env git commit -m "Release cw ${CURRENT_CALENDAR_WEEK} of ${CURRENT_YEAR}"
+    /usr/bin/env git tag -a "${CURRENT_TAG}" -m "Release cw ${CURRENT_CALENDAR_WEEK} of ${CURRENT_YEAR}"
     /usr/bin/env git push origin master
     /usr/bin/env git push origin "${CURRENT_TAG}"
     # eo git
