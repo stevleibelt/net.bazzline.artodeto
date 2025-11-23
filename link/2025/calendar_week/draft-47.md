@@ -29,3 +29,10 @@
 * [>>[...] I don’t worry about the end of work so much as I worry about what comes after — when the infrastructure that powers AI becomes more valuable than the AI itself, when the people who control that infrastructure hold more sway over policy and resources than elected governments.[...]<<](https://www.chrbutler.com/what-ai-is-really-for)
 * [>>These features don't exist because language designers are idiots (especially since error handling isn't a solved problem).<<](https://utcc.utoronto.ca/~cks/space/blog/programming/AlwaysUncodedErrorHandling) - dem stimme ich leider zu. >>Fail fast, fail often<< wird zwar gepredigt, aber selten in der IT wirklich umgesetzt oder gewünscht. Fehler zu lösen kostet Zeit, da die Entstehung meist komplex ist. Zeit und Komplexität reduziert aber den Shareholder Value und wird damit gern auf "den nächsten Milestone" geschoben.
 * [netzpolitik.org hat sich die Mühe gemacht und ein FAQ zum Thema Omnibus, KI und Datenschutz zusammengestellt.](https://netzpolitik.org/2025/faq-zum-digitalen-omnibus-was-plant-die-eu-kommission-bei-ki-und-datenschutz/) - Ausverkauf der Bürgerdaten, um es in drei Worten zusammenzufassen.
+* [Waydroid wurde in der Version 1.6.0 veröffentlicht.](https://github.com/waydroid/waydroid/releases/tag/1.6.0)
+* [Auch für den 39c3 werden Engel gesucht.](https://events.ccc.de/2025/11/22/39c3-call-for-angels/)
+* [Kriegsdienstverweigerer können wohl im Kriegsfall nicht von der Bundesregierung eingezogen werden.](https://www.deutschlandfunk.de/krieg-deutschland-verteidigungsfall-ausnahmezustand-wehrpflicht-grundrechte-100.html)
+* [Wenn man pythons uv verstehen will, lohnt es sich mit poetry zu beschäftigen.](https://www.freecodecamp.org/news/how-to-manage-your-python-projects-with-poetry/)
+* [php wurde in der Version 8.5.0 veröffentlicht.](https://www.php.net/releases/8_5_0.php)
+* [Frankenphp wurde in der Version 1.10.0 veröffentlicht.](https://github.com/php/frankenphp/releases/tag/v1.10.0)
+* [freecodecamp.org zeigt euch, wie ihr das Django REST Framework nutzt.](https://www.freecodecamp.org/news/how-to-use-the-django-rest-framework/)
