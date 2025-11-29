@@ -26,3 +26,8 @@
 * [Schöner Schlusssatz, Medikamente und Heilpflanzen sollten sich ergänzen und nicht gegenseitig ausgeschlossen werden.](https://www.kostbarenatur.net/heilpflanzen-vs-medikamente-was-ist-besser/)
 * [Europäische Souveränität darf auf keinen Fall Freie Software beinhalten!](https://netzpolitik.org/2025/digitale-souveraenitaet-wie-die-eu-freie-software-ausblendet/) - Also wird aktiv genau das ausgeblendet, was wir in Europa haben und was uns Vertrauen gegenüber der Regierung und den anderen Europäern näher bringen würde.
 * [Wer darf nicht am Tisch sitzen wenn Europa über ihre Souveränität spricht? Ein Palantirmitarbeiter! Ratet mal wer dabei war?](https://netzpolitik.org/2025/lobbyismus-palantir-mitarbeiterin-sass-beim-souveraenitaetsgipfel-mit-macron-und-merz-am-tisch/)
+* [Europa gibt der ESA mehr Geld.](https://www.deutschlandfunk.de/esa-universum-raumfahrt-rolle-100.html)
+* [Patrick Breyer listet sechs Fehler in der freiwilligen Chatkontrolle auf.](https://www.patrick-breyer.de/erneut-verheerende-bilanz-der-freiwilligen-chatkontrolle/) - Das erste ist die beliebte Beweislastumkehr. Danach kann man also schon aufhören zu lesen.
+* [FastAPI-Template wurde in der Version 6.0.0 veröffentlicht.](https://github.com/s3rius/FastAPI-template/releases/tag/6.0.0) - Diese Version zeigt gut, wie ihr euer Projekt von `pip` auf `uv` migrieren könnt
+* [Wine wurde in der Version 10.20 veröffentlicht.](https://www.phoronix.com/news/Wine-10.20-Released)
+* [Weil Cloudanbieter Geld verbrennen um euch alle mit LLM-Dreck nerven zu müssen, werden auch die Speicherpreise teurer.](https://www.3dcenter.org/news/news-des-28-november-2025)
