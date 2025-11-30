@@ -31,3 +31,7 @@
 * [FastAPI-Template wurde in der Version 6.0.0 veröffentlicht.](https://github.com/s3rius/FastAPI-template/releases/tag/6.0.0) - Diese Version zeigt gut, wie ihr euer Projekt von `pip` auf `uv` migrieren könnt
 * [Wine wurde in der Version 10.20 veröffentlicht.](https://www.phoronix.com/news/Wine-10.20-Released)
 * [Weil Cloudanbieter Geld verbrennen um euch alle mit LLM-Dreck nerven zu müssen, werden auch die Speicherpreise teurer.](https://www.3dcenter.org/news/news-des-28-november-2025)
+* [php paratest wurde in der Version 7.15.0 veröffentlicht.](https://github.com/paratestphp/paratest/releases/tag/v7.15.0)
+* [fastapi wurde in der Version 0.123.0 veröffentlicht.](https://github.com/fastapi/fastapi/releases/tag/0.123.0)
+* [>>SELinux is just too complex for a casual Dev to handle, everything is uncommon, hard to debug and outside normal application code.<<](https://lwn.net/Articles/1048708/)
+* [Realitätsabgleich "Faulheit der Firmen" und wie unangenehm es ist, wenn das Smartphone ausfällt.](https://utcc.utoronto.ca/~cks/space/blog/tech/SmartphoneInfiltratedMyLife)
