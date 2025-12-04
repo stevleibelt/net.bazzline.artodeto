@@ -20,3 +20,11 @@
 * [freecodecamp.org bietet euch jetzt eine "Responsive Web Designe certification" an.](https://www.freecodecamp.org/news/freecodecamps-new-responsive-web-design-certification-is-now-live/)
 * [>>[...] Today social media dominates our time and attention, assaults our mental health, and—together with its Big Tech parent companies—captures an unfathomable fraction of our economy, even as it poses risks to our democracy.<<](https://www.schneier.com/blog/archives/2025/12/like-social-media-ai-requires-difficult-choices.html)
 * [Der Fahrplan zum 39C3 steht.](https://events.ccc.de/2025/12/02/39c3-fahrplan/)
+* [Stirling-PDF wurde in der Version 2.1.0 veröffentlicht.](https://github.com/Stirling-Tools/Stirling-PDF/releases/tag/v2.1.0)
+* [Skopeo wurde in der Version 1.21.0 veröffentlicht.](https://github.com/containers/skopeo/releases/tag/v1.21.0)
+* [Nein? Doch! Oh? Gäbe es eine Option "Keine Bezahlung, kein Tracking aber Werbung", würden dies die meisten Menschen gerne nutzen.](https://noyb.eu/de/pay-or-okay-study-users-prefer-tracking-free-third-option)
+* [freecodecamp.org stellt euch, in aller Kürze, FastMCP vor.](https://www.freecodecamp.org/news/how-to-build-your-first-mcp-server-using-fastmcp/) - Mit diesem python Framework, was viel Pydantic nutzt, könnt ihr recht schnell euren eigenen "digitalen LLM Helfer" bauen
+* [Home assistant wurde in der Version 2025.12 veröffentlicht.](https://www.home-assistant.io/blog/2025/12/03/release-202512/)
+* [Der Knappenverein hat einen Adventskalender für das immaterielle Kulturerbe Sachsens online gestellt.](https://knappenverein.de/adventskalender-immaterielles-kulturerbe-in-sachsen/)
+* [Django wurde in der Version 6.0 veröffentlicht.](https://www.djangoproject.com/weblog/2025/dec/03/django-60-released/)
+* [Schwere Gemengelage in Gießen.](https://netzpolitik.org/2025/pressefreiheit-polizei-behindert-presse-bei-protesten-in-giessen/) - Ich hoffe sehr, dass "die Journalisten" und "die Polizisten" die andere Person immer als Mensch sehen. Jede Gruppe wird medial und intern vorher so hart mit faktastischem Halbwissen vollgeladen, dass man sich zu schnell als "Feinde" ansieht.
