@@ -37,3 +37,5 @@
 * [Nein? Doch! Oh? Seit 30 Jahren werden Steuergelder für die Digitalisierung der Verwaltung veruntreut.](https://netzpolitik.org/2025/datenatlas-der-bundesdruckerei-verwaltungsmodernisierung-von-vorvorgestern/) - Vetternwirtschaft, proprietäre Software mit steigenden Lizenzkosten. Ja, eure Gedanken gehen in die richtige Richtung, den Lobby-U-Booten aus der CDU dürfen wir hier "Danke" sagen.
 * [Stichwort Lobby-U-Boote, dazu folgendes Zitat aus der EU zum Thema anstandslose Massenüberwachung aller EU-Bürger: >>Während in Brüssel Bewegung in die Sache kommt, scheint die Bundesregierung weiter zu bremsen.<<](https://www.patrick-breyer.de/vor-trilog-start-zur-chatkontrolle-eu-innenkommissar-brunner-stellt-sich-ueberraschend-gegen-eu-regierungen-rueckenwind-fuer-starkes-parlamentsmandat/)
 * [Nach Berlin darf man also auch nicht mehr fahren.](https://netzpolitik.org/2025/neues-polizeigesetz-berlin-wirft-die-freiheit-weg/)
+* [xarray wurde in der Version 2025.12.0 veröffentlicht.](https://github.com/pydata/xarray/releases/tag/v2025.12.0)
+* [FreeRDP wurde in der Version 3.19.0 veröffentlicht.](https://github.com/FreeRDP/FreeRDP/releases/tag/3.19.0)
