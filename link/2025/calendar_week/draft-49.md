@@ -39,3 +39,7 @@
 * [Nach Berlin darf man also auch nicht mehr fahren.](https://netzpolitik.org/2025/neues-polizeigesetz-berlin-wirft-die-freiheit-weg/)
 * [xarray wurde in der Version 2025.12.0 veröffentlicht.](https://github.com/pydata/xarray/releases/tag/v2025.12.0)
 * [FreeRDP wurde in der Version 3.19.0 veröffentlicht.](https://github.com/FreeRDP/FreeRDP/releases/tag/3.19.0)
+* [FastAPI wurde in der Version 0.124.0 veröffentlicht.](https://github.com/fastapi/fastapi/releases/tag/0.124.0)
+* [Microsoft bringt sich selbst in Weihnachtsstimmung und verteidigt die christlichen Werte mit einer Preiserhöhung von bis zu 25 Prozent bei ihrem Microsoft 365.](https://www.borncity.com/blog/2025/12/05/microsoft-365-preise-steigen-2026-ki-seit-dank/)
+* [Hier gibt es einen Link sich über die Möglichkeit der Kriegsdienstverweiverung zu informieren.](https://kdv.dfg-vk.de/)
+* [Klappt ja in den USA schon so toll, auch in Deutschland dürfen sich die Geheimdienste jetzt gegenseitig belauschen und bekriegen.](https://netzpolitik.org/2025/geheimdienstreform-der-mad-hat-ein-neues-gesetz-bekommen/)
