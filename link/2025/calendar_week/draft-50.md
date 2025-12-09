@@ -1,2 +1,7 @@
 * [documenso wurde in der Version 2.2.0 veröffentlicht.](https://github.com/documenso/documenso/releases/tag/v2.2.0)
 * [black wurde in der Version 25.12.0 veröffentlicht.](https://github.com/psf/black/releases/tag/25.12.0)
+* [Playwright-python wurde in der Version 1.57.0 veröffentlicht.](https://github.com/microsoft/playwright-python/releases/tag/v1.57.0)
+* [>>[...] we Europeans have been trained to feel a lot of guilt over the years, which makes us hesitant to stand up for ourselves.<<](https://lucumr.pocoo.org/2025/12/9/fixing-europe/) - Das ist politisch natürlich gewollt. Die aktuellen und selbst ernannen "Nummer Einsen" der Welt wollen alle kein erstarktes und einheitlich stehendes Europa, aber das steht am Ende auch alles in dem Beitrag.
+* [Microsoft macht 30 Prozent Gewinn, da sie die Testabteilung weggespart haben. Als nächstes Fällt das mittlere Management.](https://www.borncity.com/blog/2025/12/09/microsoft-mit-seinem-ai-kurs-in-trouble/) - Als Kunde könnt ihr damit noch schlechtere Produkte zu noch höheren Preisen mit noch weniger nützlichen Funktionen erwarten.
+* [Wieder etwas gelernt, `systemd-cat` ist `logger`. `systemd-run` ist `exec`.](https://utcc.utoronto.ca/~cks/space/blog/linux/SystemdCatAndRunForLogging)
+* [Das ist ja komisch, die Schweiz setzt wegen den hohen Risiken kein Palantir ein.](https://netzpolitik.org/2025/schweiz-palantir-software-hat-verheerende-risiken/) - Warum erhält diese US-Amerikanische Firma dann eine Unbedenklichkeitserklärung von der deutschen Bundesregierung?
