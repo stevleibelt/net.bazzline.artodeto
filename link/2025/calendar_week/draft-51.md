@@ -24,3 +24,6 @@
 * [FreeRDP wurde in der Version 3.20.0 veröffentlicht.](https://github.com/FreeRDP/FreeRDP/releases/tag/3.20.0)
 * [Soziale Medien und die aktuelle Gesellschaft? >>Wir lassen da eine ganze Generation gegen die Wand laufen<<](https://netzpolitik.org/2025/aufwachsen-im-internet-die-verantwortung-fuer-alles-was-auf-dem-kinderhandy-passiert-liegt-bei-den-eltern/)
 * [>>Reporter ohne Grenzen hat eine Spionage-Software identifiziert, die gegen einen journalistisch arbeitenden Menschen aus Belarus eingesetzt wurde.<<](https://netzpolitik.org/2025/bedrohung-fuer-die-pressefreiheit-neue-spionage-software-entdeckt/)
+* [immich wurde in der Version 2.4.0 veröffentlicht.](https://github.com/immich-app/immich/releases/tag/v2.4.0)
+* [frankenphp wurde in der Version 1.11.0 veröffentlicht.](https://github.com/php/frankenphp/releases/tag/v1.11.0)
+* [openzfs wurde in der Version 2.4.0 veröffentlicht.](https://github.com/openzfs/zfs/releases/tag/zfs-2.4.0) - Damit baut es jetzt gegen Linux-Kernel 6.18
