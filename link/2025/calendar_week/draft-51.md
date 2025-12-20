@@ -27,3 +27,9 @@
 * [immich wurde in der Version 2.4.0 veröffentlicht.](https://github.com/immich-app/immich/releases/tag/v2.4.0)
 * [frankenphp wurde in der Version 1.11.0 veröffentlicht.](https://github.com/php/frankenphp/releases/tag/v1.11.0)
 * [openzfs wurde in der Version 2.4.0 veröffentlicht.](https://github.com/openzfs/zfs/releases/tag/zfs-2.4.0) - Damit baut es jetzt gegen Linux-Kernel 6.18
+* [Kaum erhebt sich die Bevölkerung, schon gehen Parteien auf Stimmenfang und finden das selbst erschaffene Polizeigesetz als "viel zu streng."](https://netzpolitik.org/2025/sachsen-sogar-dem-koalitionspartner-ist-dieses-polizeigesetz-zu-hart/)
+* [Die Bürgerinnen und Bürger der USA werden nun auch via TikTok auf Linie gebracht.](https://borncity.com/blog/2025/12/19/bytedance-verkauft-tiktok-an-ein-us-konsortium/)
+* [Über den Schutz der Kinder verrät die SPD erneut jegliche Bürger- und Menschenrechte.](https://netzpolitik.org/2025/anlasslose-massenueberwachung-spd-politiker-fordert-inhaltskontrolle-auf-allen-endgeraeten/)
+* [Digitaler Euro? In Zeiden der ausgerufenen, digitalen Souveränität kann dies doch nur von europäischen Unternehmen umgesetzt werden, oder? Oder?](https://netzpolitik.org/2025/google-amazon-und-mastercard-wo-us-konzerne-beim-digitalen-euro-mitreden/)
+* [fastapi wurde in der Version 0.126.0 veröffentlicht.](https://github.com/fastapi/fastapi/releases/tag/0.126.0)
+* [nohan wurde in der Version 0.3.0 veröffentlicht.](https://github.com/hakavlad/nohang/releases/tag/v0.3.0)
