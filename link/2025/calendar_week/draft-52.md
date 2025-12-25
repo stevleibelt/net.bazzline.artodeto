@@ -7,3 +7,8 @@
 * [pomatez wurde in der Version 1.10.0 veröffentlicht.](https://github.com/zidoro/pomatez/releases/tag/v1.10.0)
 * [Wenn Microsoft, für den Shareholder-Value, den ganzen Quelltext von LLM's halluzinieren lässt und damit zeigt, dass man keine Menschen mehr braucht, warum sollen dann Menschen deren Produkte kaufen?](https://borncity.com/blog/2025/12/24/microsoft-will-bis-2030-allen-c-c-code-per-ai-in-rust-umsetzen/)
 * [>>Wenn dir Wissen fehlt, sieht die Welt anders aus<<](https://borncity.com/blog/2025/12/24/meme-junge-generation-fragt-was-die-speichern-schaltflaeche-in-excel-darstellt/) - Daher prüfe stetig und immer.
+* [typer wurde in der Version 0.21.0 veröffentlicht.](https://github.com/fastapi/typer/releases/tag/0.21.0)
+* [LocalAI wurde in der Version 3.9.0 veröffentlicht.](https://github.com/mudler/LocalAI/releases/tag/v3.9.0)
+* [FreshRSS wurde in der Version 1.28.0 veröffentlicht.](https://github.com/FreshRSS/FreshRSS/releases/tag/1.28.0)
+* [QEMU wurde in der Version 10.2.0 veröffentlicht.](https://www.phoronix.com/news/QEMU-10.2-Released)
+* [>>Konsum erfüllt, zumindest vermeintlich, viele Bedürfnisse: nach Zugehörigkeit, Identität, Genuss und wir empfinden Lust dabei [...]<<](https://www.deutschlandfunkkultur.de/konsum-nachhaltigkeit-wuensche-100.html)
