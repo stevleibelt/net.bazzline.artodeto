@@ -13,3 +13,4 @@
 * [QEMU wurde in der Version 10.2.0 veröffentlicht.](https://www.phoronix.com/news/QEMU-10.2-Released)
 * [>>Konsum erfüllt, zumindest vermeintlich, viele Bedürfnisse: nach Zugehörigkeit, Identität, Genuss und wir empfinden Lust dabei [...]<<](https://www.deutschlandfunkkultur.de/konsum-nachhaltigkeit-wuensche-100.html)
 * [Rector wurde in der Version 2.3.0 veröffentlicht.](https://github.com/rectorphp/rector/releases/tag/2.3.0)
+* [Jetzt sagt das MIT auch noch, dass LLM's am Ende doch mehr Geld kosten und die keiner sehen will.](https://borncity.com/blog/2025/12/26/ai-software-entwicklung-the-hidden-cost-of-ai-coding/)
