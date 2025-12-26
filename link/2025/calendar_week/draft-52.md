@@ -12,3 +12,4 @@
 * [FreshRSS wurde in der Version 1.28.0 veröffentlicht.](https://github.com/FreshRSS/FreshRSS/releases/tag/1.28.0)
 * [QEMU wurde in der Version 10.2.0 veröffentlicht.](https://www.phoronix.com/news/QEMU-10.2-Released)
 * [>>Konsum erfüllt, zumindest vermeintlich, viele Bedürfnisse: nach Zugehörigkeit, Identität, Genuss und wir empfinden Lust dabei [...]<<](https://www.deutschlandfunkkultur.de/konsum-nachhaltigkeit-wuensche-100.html)
+* [Rector wurde in der Version 2.3.0 veröffentlicht.](https://github.com/rectorphp/rector/releases/tag/2.3.0)
