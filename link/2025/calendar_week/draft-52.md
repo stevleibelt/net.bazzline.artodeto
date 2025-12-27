@@ -1,5 +1,5 @@
 * [Schon zweimal hat die Zivilgesellschaft die Vorratsdatenspeicherung auf EU und auf Bundesebene verhindert. Doch die Einheitspartei erhebt stetig einen immer größer werdenden Mittelfinger gegenüber das eigene Volk - Heute wird die SPD, mal wieder, als Sprachrohr genutzt.](https://netzpolitik.org/2025/anlasslose-speicherung-justizministerium-veroeffentlicht-gesetzentwurf-zur-vorratsdatenspeicherung/#netzpolitik-pw) - Das **S** in SPD steht für Spionage.
-* [sqlmodel wurde in der Version 0.0.29 veröffentlicht.](https://github.com/fastapi/sqlmodel/releases/tag/0.0.29)
+* [sqlmodel wurde in der Version 0.0.30 veröffentlicht.](https://github.com/fastapi/sqlmodel/releases/tag/0.0.30)
 * [>>Geld verdienen Musiker mit Konzerten und mit Tonträgerverkäufen [...]<<](https://tuxproject.de/blog/2025/12/vinyl-17/)
 * [Mit der Ausländerzentrale werden weiterhin Überwachungsmethoden erweitert und ausprobiert.](https://netzpolitik.org/2025/auslaenderzentralregister-ein-datentrog-waechst-weiter/#netzpolitik-pw)
 * [Incus wurde in der Version 6.20.0 veröffentlicht.](https://lwn.net/Articles/1051664/)
@@ -14,3 +14,5 @@
 * [>>Konsum erfüllt, zumindest vermeintlich, viele Bedürfnisse: nach Zugehörigkeit, Identität, Genuss und wir empfinden Lust dabei [...]<<](https://www.deutschlandfunkkultur.de/konsum-nachhaltigkeit-wuensche-100.html)
 * [Rector wurde in der Version 2.3.0 veröffentlicht.](https://github.com/rectorphp/rector/releases/tag/2.3.0)
 * [Jetzt sagt das MIT auch noch, dass LLM's am Ende doch mehr Geld kosten und die keiner sehen will.](https://borncity.com/blog/2025/12/26/ai-software-entwicklung-the-hidden-cost-of-ai-coding/)
+* [Ruby wurde in der Version 4.0 veröffentlicht.](https://www.phoronix.com/news/Ruby-4.0-Released)
+* [Easy Transit Tallin schickt sich an eine freie Software zur Navigation mit dem ÖPNV überall zu sein.](https://easytransit.app/)
