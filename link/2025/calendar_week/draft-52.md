@@ -16,3 +16,8 @@
 * [Jetzt sagt das MIT auch noch, dass LLM's am Ende doch mehr Geld kosten und die keiner sehen will.](https://borncity.com/blog/2025/12/26/ai-software-entwicklung-the-hidden-cost-of-ai-coding/)
 * [Ruby wurde in der Version 4.0 veröffentlicht.](https://www.phoronix.com/news/Ruby-4.0-Released)
 * [Easy Transit Tallin schickt sich an eine freie Software zur Navigation mit dem ÖPNV überall zu sein.](https://easytransit.app/)
+* [FastAPI wurde in der Version 0.128.0 veröffentlicht.](https://github.com/fastapi/fastapi/releases/tag/0.128.0)
+* [Die Gematik kümmert sich schlichtweg nicht um gravierende Sicherheitslücken im `Kommunikation im Medizinwesen`](https://netzpolitik.org/2025/sicherheitsluecke-wenn-die-nachricht-vom-fake-doktor-kommt/)
+* [adminForge bietet eine öffentliche Instanz eines `Alert Server` an.](https://adminforge.de/tools/warn-app-foss-public-alert-server/) - Das ist nützlich, wenn ihr die `FOSS Warn Ap` nutzt
+* [>>WhatsApp, Instagram, X oder Facebook sind Milliarden wert. Ihr eigentlicher Wert sind wir – die Nutzer*innen.<<](https://www.ccc.de/de/updates/2025/ccc-unterstutzt-den-monatlichen-digital-independence-day)
+* [harfbuzz wurde in der Version 12.3.0 veröffentlicht.](https://github.com/harfbuzz/harfbuzz/releases/tag/12.3.0)
