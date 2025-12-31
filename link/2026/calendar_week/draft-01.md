@@ -11,3 +11,14 @@
 * [Mit localsend könnt ihr Daten zwischen Geräten tauschen](https://localsend.org/de)
 * [Mit mopla könnt ihr das Deutschlandticket ohne die nutzerfeindlichen und illegalen Beschränkungen der Deutschen Bahn erwerben.](https://play.google.com/store/apps/details?id=solutions.mopla.apps.passenger)
 * [Shattered Pixel ist ein feies Spiel auf dem Smartphone](https://shatteredpixel.com/)
+* [tokei wurde in der Version 14.0.0 veröffentlicht.](https://github.com/XAMPPRocky/tokei/releases/tag/v14.0.0)
+* [Mit mailcow könnt ihr euren eigenen Mailserver aufsetzen.](https://mailcow.email/)
+* [Sieht so aus, als würde die EUDI-Wallet genau so kaputt zum Zwangsnutzer kommen, wie die ePA.](https://netzpolitik.org/2025/digitale-brieftasche-auf-einem-aehnlich-unguten-weg-wie-die-elektronische-patientenakte/)
+* [LLMs in der echten Welt sind gut auf "der grünen Wiese" und sehr schlecht wenn es um sicheren Quelltext angeht.](https://openssf.org/blog/2025/12/29/ai-software-development-security-tips-and-the-future-part-1/)
+* [>>Huduma Namba sollte zur „einzigen Quelle der Wahrheit“ über die Menschen in Kenia werden, erklärt Yousif. Und das in einem Land, das unter britischer Kolonialherrschaft alles andere als gute Erfahrungen mit Identitätssystemen gemacht hat. Denn für die Kolonialherren war die Identitätskontrolle ein Herrschaftsinstrument, mit dem sie die unterdrückte Bevölkerung spalten und in ihrer Bewegungsfreiheit einschränken konnte.<<](https://netzpolitik.org/2025/huduma-namba-wie-kenias-zivilgesellschaft-die-totalerfassung-der-bevoelkerung-bekaempfte/)
+* [Wieder etwas gelernt, die >>Frommser<< kommen von Israel From aus Berlin.](https://www.deutschlandfunk.de/julius-fromm-kondom-fabrikant-unternehmer-100.html)
+* [Bilder kann man dank LLM's nicht mehr trauen - Weder kaputte Pakete, noch Wohnungen etc. pp.](https://www.schneier.com/blog/archives/2025/12/using-ai-generated-images-to-get-refunds.html)
+* [Die USA hat wohl die militärische Spezialoperation gegen Venzuela begonnen.](https://www.deutschlandfunk.de/trump-venezuela-maduro-drogen-oel-angriff-100.html) - Ob dieser Angriffskrieg medial ebenso begleitet wird?
+* ["Nett", dank SVG im iframe kann man außerhalb des iframes Nutzereingaben (wie Captchas) bauen.](https://lyra.horse/blog/2025/12/svg-clickjacking/) - >>But yeah, that’s a QR code generator built inside an SVG filter!<<
+* [Neben CSS-Nesting wird euch hier noch viel mehr beigebracht.](https://lyra.horse/blog/2025/08/you-dont-need-js/)
+* [>>What’s more, the session is shared between the [telegram] web clients, so an exploit in the old web client might still be useful even if the target uses a modern web client.<<](https://lyra.horse/blog/2024/05/stealing-your-telegram-account-in-10-seconds-flat)
