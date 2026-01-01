@@ -22,3 +22,7 @@
 * ["Nett", dank SVG im iframe kann man außerhalb des iframes Nutzereingaben (wie Captchas) bauen.](https://lyra.horse/blog/2025/12/svg-clickjacking/) - >>But yeah, that’s a QR code generator built inside an SVG filter!<<
 * [Neben CSS-Nesting wird euch hier noch viel mehr beigebracht.](https://lyra.horse/blog/2025/08/you-dont-need-js/)
 * [>>What’s more, the session is shared between the [telegram] web clients, so an exploit in the old web client might still be useful even if the target uses a modern web client.<<](https://lyra.horse/blog/2024/05/stealing-your-telegram-account-in-10-seconds-flat)
+* [OpenEMS wurde in der Version 2026.1.0 veröffentlicht.](https://github.com/OpenEMS/openems/releases/tag/2026.1.0)
+* [feishin wurde in der Version 1.1.0 veröffentlicht.](https://github.com/jeffvli/feishin/releases/tag/v1.1.0)
+* [wireup wurde in der Version 2.3.0 veröffentlicht.](https://github.com/maldoinc/wireup/releases/tag/v2.3.0)
+* [netzpolitik.org schenkt euch ein paar Werke, die endlich gemeinfrei sind und damit dem kapitalistischen System entzogen wurden.](https://netzpolitik.org/2026/public-domain-day-diese-werke-sind-ab-heute-gemeinfrei/)
