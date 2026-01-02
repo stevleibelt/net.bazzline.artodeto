@@ -26,3 +26,6 @@
 * [feishin wurde in der Version 1.1.0 veröffentlicht.](https://github.com/jeffvli/feishin/releases/tag/v1.1.0)
 * [wireup wurde in der Version 2.3.0 veröffentlicht.](https://github.com/maldoinc/wireup/releases/tag/v2.3.0)
 * [netzpolitik.org schenkt euch ein paar Werke, die endlich gemeinfrei sind und damit dem kapitalistischen System entzogen wurden.](https://netzpolitik.org/2026/public-domain-day-diese-werke-sind-ab-heute-gemeinfrei/)
+* [zfsbootmenu wurde in der Version 3.1.0 veröffentlicht.](https://github.com/zbm-dev/zfsbootmenu/releases/tag/v3.1.0)
+* [Covenant Health hat eine halbe Millionen Patientendaten verloren.](https://www.bleepingcomputer.com/news/security/covenant-health-says-may-data-breach-impacted-nearly-478-000-patients/)
+* [Poly Luy hat, aus Dresden, hat es auf netzpolitik.org geschafft :-)](https://netzpolitik.org/2026/strategien-fuer-politisches-engagement-vier-vortraege-vom-hackerkongress-die-mut-machen/)
