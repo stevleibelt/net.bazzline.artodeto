@@ -1,0 +1,3 @@
+* [feishin wurde in der Version 1.2.0 veröffentlicht.](https://github.com/jeffvli/feishin/releases/tag/v1.2.0)
+* [>>[...] Debian currently has no active Data Protection Team. All previous delegates have stepped back, and the delegation has therefore been revoked.<<](https://www.phoronix.com/news/No-Debian-Data-Protection-Team)
+* [>>[...] warum die Prävention in Deutschland verbesserungswürdig ist: mangelnder politischer Wille, eine starke Lobbyarbeit der Industrie und die unzureichende Berücksichtigung wissenschaftlicher Erkenntnisse.<<](https://www.deutschlandfunk.de/gesundheit-praevention-deutschland-politik-100.html) - Am Ende ist auch dies nur Ablenkung, damit man erst einmal nichts machen muss
