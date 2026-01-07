@@ -5,3 +5,11 @@
 * [K-9 Mail wurde in der Version 15.0.0 veröffentlicht.](https://github.com/thunderbird/thunderbird-android/releases/tag/K9MAIL_15_0)
 * [Auch Bose "verdummt" eure teuer gekauften "schlau"-Boxen.](https://borncity.com/blog/2026/01/06/erinnerung-ab-18-feb-2026-sind-bose-soundtouch-einheiten-unsmart/)
 * [GNU ddrescue wurde in der Version 1.30.0 veröffentlicht.](https://lwn.net/Articles/1052796/)
+* [dozzle wurde in der Version 9.0.0 veröffentlicht.](https://github.com/amir20/dozzle/releases/tag/v9.0.0)
+* [pysma wurde in der Version 1.1.0 veröffentlicht.](https://github.com/kellerza/pysma/releases/tag/v1.1.0)
+* [freecodecamp.org hat euch ein zwei Stunden-Video über OAuth 2.0 veröffentlicht.](https://www.freecodecamp.org/news/oauth-2-course-for-beginners/)
+* [>>[...] Even if I don’t want a Github account, I’m mostly forced to have one if I want to contribute or report bugs to projects I care about. I’m forced to interact with Github to grade my students’ projects<<](https://ploum.net/2026-01-05-unteaching_github.html)
+* [Kapitalismus zusammengefasst: >>Die Aktien von Chevron, dem einzigen großen US-Konzern, der derzeit noch in Venezuela tätig ist, stiegen [nach Start des Angriffskrieges der USA auf Venezuela] um fünf Prozent. Aktien von Raffineriebetreibern legten um drei bis neun Prozent zu.<<](https://www.deutschlandfunk.de/venezuela-erdoel-trump-china-schweroel-geopolitik-100.html) - Was sind schon Natur- und Menschenschicksale, wenn imaginäres Geld dafür mehr wird?
+* [Argentinen zeigt schon einmal, in was Deutschland umgebaut werden soll.](https://netzpolitik.org/2026/argentinien-per-dekret-in-die-dunkle-vergangenheit/) - Egal ob SPD, CDU oder AFD, alle wollen diese Version eines Staates, da das Großkapital genau diese Vision finanziert.
+* [NUSGet wurde in der Version 1.5.0 veröffentlicht.](https://wiidatabase.de/nusget-v1-5-0/)
+* [Wie weit weg von Technik muss man eigentlich sein, dass man den zentralen Verzeichnisdienst einer lokalen Microsoft-Umgebung in die Cloud auslagern soll?](https://borncity.com/blog/2026/01/06/microsoft-wirbt-fuer-active-directory-minimierung-alles-in-die-cloud/) - Und wie wenig hat man die Preissteigerungen der Cloud in den letzten Jahren "übersehen"?
