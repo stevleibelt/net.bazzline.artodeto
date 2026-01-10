@@ -24,3 +24,8 @@
 * [Hier wird auf ein Bilderband aus den früher Raver-Zeiten verlinkt.](https://www.rave-strikes-back.de/?p=13223) - Beim Rave ging es zu dieser Zeit viel um Gemeinschaft. Man hat zusammen den Moment erlebt und dadurch Erinnerung mit der Umgebung geschaffen.
 * [Seit dem 03.12.2025 erlaubt Microsoft keine telefonische Freischaltung eurer gekauften Software.](https://borncity.com/blog/2026/01/09/microsoft-bestaetigt-die-abschaltung-der-telefonaktivierung-am-3-de-2025/) - Ich habe für die freiwilligen Nutzer von Windows aber auch kein Mitleid mehr übrig.
 * [Cisco-Switche sind kaputt, respektive starten nicht mehr durch.](https://borncity.com/blog/2026/01/09/cisco-switches-gehen-wegen-dns-fehler-in-boot-schleifen/) - Blöd, wenn es für das gekaufte Produkt wichtiger ist die Lizenz zu prüfen als sein fucking Job zu machen
+* [zola wurde in der Version 0.22.0 veröffentlicht.](https://github.com/getzola/zola/releases/tag/v0.22.0)
+* [questdb wurde in der Version 9.3.0 veröffentlicht.](https://github.com/questdb/questdb/releases/tag/9.3.0)
+* [mezzio wurde in der Version 3.27.0 veröffentlicht.](https://github.com/mezzio/mezzio/releases/tag/3.27.0)
+* [Hier wird euch pythons Paket DiskCache erklärt.](https://pythonfriday.dev/2026/01/313-persisted-cache-for-function-calls/)
+* [Hier wird euch versucht, über den Ansatz eines Datenmodels, die Funktionsweise von GIT zu erklären.](https://lwn.net/Articles/1053595/)
