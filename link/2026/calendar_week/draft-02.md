@@ -29,3 +29,9 @@
 * [mezzio wurde in der Version 3.27.0 veröffentlicht.](https://github.com/mezzio/mezzio/releases/tag/3.27.0)
 * [Hier wird euch pythons Paket DiskCache erklärt.](https://pythonfriday.dev/2026/01/313-persisted-cache-for-function-calls/)
 * [Hier wird euch versucht, über den Ansatz eines Datenmodels, die Funktionsweise von GIT zu erklären.](https://lwn.net/Articles/1053595/)
+* [Goverlay wurde in der Version 1.7.0 veröffentlicht.](https://github.com/benjamimgois/goverlay/releases/tag/1.7.0)
+* [Python Polars wurde in der Version 1.37.0 veröffentlicht.](https://github.com/pola-rs/polars/releases/tag/py-1.37.0)
+* Das Landratsam Mittelsachsen hatte im Januar 2026 ein Pressegespräch und ihr findet das, aufgeteilt in [1](https://www.youtube.com/watch?v=hJlh7vgiBBY), [2](https://www.youtube.com/watch?v=LZKGFQq6ywk), [3](https://www.youtube.com/watch?v=TlQjKKDGFzo), [4](https://www.youtube.com/watch?v=gCQ1uQu1ZxQ), [5](https://www.youtube.com/watch?v=0RQ61c0_vEs), [6](https://www.youtube.com/watch?v=uGPf3x-5I3E) und [7](https://www.youtube.com/watch?v=GbQ3wNPdMYA)
+* [Debian wurde in der Version 13.3.0 veröffentlicht.](https://www.phoronix.com/news/Debian-13.3-Released)
+* [Instagramm hat endlich offiziell Nutzerdaten verloren.](https://borncity.com/blog/2026/01/10/berichte-ueber-instagram-datenleck-jan-2026/)
+* [Microsoft verschlechtert eure gekauften Produkte und entfernt die Option Metadaten von CD's abrufen zu können.](https://borncity.com/blog/2026/01/11/windows-media-player-kann-keine-cd-metadaten-mehr-anzeigen/) - Müsst ihr verstehen, eine Firma wie Microsoft macht nur Milliarden Euro Gewinn
