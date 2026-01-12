@@ -1,0 +1,1 @@
+* [Dr. Ansay als externer, Medizin-Dienstleister hat wieder Nutzerdaten verloren.](https://borncity.com/blog/2026/01/11/neuer-datenschutzvorfall-in-2025-bei-dr-ansay/) - So ist das halt, wenn es "bedenken Second" beworben wird
