@@ -1,1 +1,2 @@
 * [Dr. Ansay als externer, Medizin-Dienstleister hat wieder Nutzerdaten verloren.](https://borncity.com/blog/2026/01/11/neuer-datenschutzvorfall-in-2025-bei-dr-ansay/) - So ist das halt, wenn es "bedenken Second" beworben wird
+* [>>KI in der heutigen Form sind oftmals nur verschlimmbesserte Mittel zu einem kapitalistischen Zweck mit all den schlimmen negativen Konsequenzen.<<](https://netzpolitik.org/2026/degitalisierung-entfremdung/)
