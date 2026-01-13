@@ -1,4 +1,5 @@
 * [Dr. Ansay als externer, Medizin-Dienstleister hat wieder Nutzerdaten verloren.](https://borncity.com/blog/2026/01/11/neuer-datenschutzvorfall-in-2025-bei-dr-ansay/) - So ist das halt, wenn es "bedenken Second" beworben wird
+* [>>KI in der heutigen Form sind oftmals nur verschlimmbesserte Mittel zu einem kapitalistischen Zweck mit all den schlimmen negativen Konsequenzen.<<](https://netzpolitik.org/2026/degitalisierung-entfremdung/)
 * [Auch JetBrains drückt AI/LLM in jedes Produkt und nervt ihre Kunden.](https://www.jetbrains.com/help/ai-assistant/disable-ai-assistant.html#restrict-ai-assistant-usage-in-specific-files-or-folders)
 * [everest wurde in der Version 1.11.0 veröffentlicht.](https://github.com/percona/everest/releases/tag/v1.11.0)
 * [librenms wurde in der Version 26.1.0 veröffentlicht.](https://github.com/librenms/librenms/releases/tag/26.1.0)
