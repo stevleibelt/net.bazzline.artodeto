@@ -36,3 +36,6 @@
 * [Gnome 50 bekommt etwas Kontrolle für die Eltern.](https://www.phoronix.com/news/GNOME-50-Screen-Lock-Bedtime)
 * [Was ist, wenn die ICE-Show in den USA nur eine Verkaufsveranstaltung von Palantir ist?](https://netzpolitik.org/2026/us-einwanderungsbehoerde-mit-palantir-und-paragon-auf-migrantenjagd/)
 * [UUID7 ist also sortierbar und gibt dadurch etwas von seiner Zufälligkeit auf.](https://pythonfriday.dev/2026/01/314-sortable-guids-with-uuid-v7/)
+* [black wurde in der Version 26.1.0 veröffentlicht.](https://github.com/psf/black/releases/tag/26.1.0)
+* [Nein? Doch! Oh? Generative-LLM-Bilder erzeugen prikäre Beschäftigungen in Afrika.](https://netzpolitik.org/2026/generative-ki-finger-weg-von-bildgeneratoren/)
+* [>>In general photography is a great education on how much our visual system lies to us. For example, daytime shadows are blue, not black.<<](https://utcc.utoronto.ca/~cks/space/blog/tech/PeopleCannotPayAttention)
