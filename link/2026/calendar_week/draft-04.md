@@ -16,3 +16,13 @@
 * [Nein? Doch! Oh? Die Christdemokraten opfern Mutter Natur für den eigenen Profit.](https://sachsen.nabu.de/news/2026/36893.html) - Wie überraschend *gähn*
 * [Evernote möchte keine Kunden mehr, anders kann man Preiserhöhungen um das 18-fache nicht erklären.](https://borncity.com/blog/2026/01/22/evernote-fette-preiserhoehung-um-das-5-17fache-noch-jemand-betroffen/)
 * [Cool, die LLM Gläubiger arbeiten jetzt mit Erpressung: "Kauft endlich LLM, oder wir reißen die Weltwirtschaft in den Boden."](https://borncity.com/blog/2026/01/21/microsoft-chef-warnt-vor-platzen-der-ki-blase-wenn-die-leute-nicht-endlich-spuren/) - Das sind die Gedanken der Wirtschaftselite die in Davos sich gerade gegenseitig verbal anwichsen.
+* [Nuxt wurde in der Version 3.21.0 veröffentlicht.](https://github.com/nuxt/nuxt/releases/tag/v3.21.0)
+* [wireup wurde in der Version 2.4.0 veröffentlicht.](https://github.com/maldoinc/wireup/releases/tag/v2.4.0)
+* [LLM's werden ja mittlerweile auch in den Browser gedrückt. Zum Glück gibt es "Just the Browser".](https://justthebrowser.com/)
+* [Zoom ist kaputt.](https://borncity.com/blog/2026/01/23/zoom-mmrs-schwachstelle-cve-2026-22844/)
+* [Das historische Zylindergebläse in Muldenhütten darf am 18.04.2026 geputzt werden.](https://meldebogen.hfbhk.de/adm_program/modules/events/events.php?dat_uuid=aee94732-617f-4718-8bc6-549928b8343f&view=detail) - Wer hat Lust und Zeit?
+* [Und wo wir beim Frühjahrsputz sind, wer hat am 15.05.2026 Lust die Radstube in Oberschöna zu putzen?](https://meldebogen.hfbhk.de/adm_program/modules/events/events.php?dat_uuid=5e9ec3a0-5325-4aa2-8afc-d5ba0770c035&view=detail)
+* [LLM's machen alles kaputt, den Markt und nun auch das Bug Bounty Programm in CURL.](https://www.bleepingcomputer.com/news/security/curl-ending-bug-bounty-program-after-flood-of-ai-slop-reports/)
+* [Rust wurde in der Version 1.93.0 veröffentlicht.](https://blog.rust-lang.org/2026/01/22/Rust-1.93.0/)
+* [Es gibt eine Statusseite zum US-Amerikanische Projekt 2025](https://www.project2025.observer/de) - 51 Prozent haben die Weltenverbrenner schon geschafft
+* [>>Module-level instances are Python's natural singleton. Import a module, and you get the same instance every time.<<](https://www.freecodecamp.org/news/how-to-build-a-singleton-in-python-and-why-you-probably-shouldnt/) - Lest euch dies in Ruhe durch und ihr müsst euch weniger Fragen stellen warum Python so funktioniert, wie es funktioniert
