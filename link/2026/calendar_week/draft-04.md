@@ -26,3 +26,9 @@
 * [Rust wurde in der Version 1.93.0 veröffentlicht.](https://blog.rust-lang.org/2026/01/22/Rust-1.93.0/)
 * [Es gibt eine Statusseite zum US-Amerikanische Projekt 2025](https://www.project2025.observer/de) - 51 Prozent haben die Weltenverbrenner schon geschafft
 * [>>Module-level instances are Python's natural singleton. Import a module, and you get the same instance every time.<<](https://www.freecodecamp.org/news/how-to-build-a-singleton-in-python-and-why-you-probably-shouldnt/) - Lest euch dies in Ruhe durch und ihr müsst euch weniger Fragen stellen warum Python so funktioniert, wie es funktioniert
+* [js-lingui wurde in der Version 5.9.0 veröffentlicht.](https://github.com/lingui/js-lingui/releases/tag/v5.9.0)
+* [Roblox in einem Satz: "Die Altersempfehlung für dieses Spiel ist ab 16 Jahre, aber die Freigabe bei Roblox ist ab 5 Jahre."](https://netzpolitik.org/2026/gaming-plattform-roblox-gewalt-und-bauchfreie-oberteile/)
+* [freecodecamp.org stellt euch in diesem Artikel den Umgang mit PyPDF vor.](https://www.freecodecamp.org/news/how-to-work-with-pdf-files-in-python-a-pypdf-guide/)
+* [>>Es entbehrt nicht einer gewissen Ironie, dass die Regierung Söder in Bayern die Zeichen der Zeit nicht erkennt, während der CDU-Kollege Daniel Günther im Norden auf digitale Souveränität setzt.<<](https://netzpolitik.org/2026/bayerischer-landtag-streit-um-microsoft-eskaliert/)
+* [Deutschlands Goldreserven liegen weiterhin in den USA.](https://www.deutschlandfunk.de/deutschland-goldreserven-lagerung-usa-fed-trump-sicherheit-100.html) - Und seit Jahrzehnten finden die USA das Gold des deutschen Volkes irgendwie nicht.
+* [Danke NABU Sachsen! Dank eurer Klage dürfen im Landkreis Meißen doch nicht einfach Kabel durch die Natur verlegen.](https://sachsen.nabu.de/news/2026/36905.html)
