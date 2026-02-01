@@ -36,3 +36,8 @@
 * [>>
 
 Mit »Big Tech« ist in der Regel nicht einfach »groß« gemeint, sondern ein Geschäftsmodell und ein Machtapparat: Plattformen, die durch Ökosysteme, Lock-in und Datenauswertung dominieren [...]<<](https://www.kuketz-blog.de/ist-der-messenger-signal-big-tech-oder-nicht/)
+* [Wieder ein Schritt weiter, GNU/Hurd kann mitterlweile gegen viel mehr Open Source Pakete gebaut werden.](https://www.phoronix.com/news/GNU-Hurd-In-2026)
+* [>>Mit ETFs bereichere ich mich am Reicherwerden der Reichen<<](https://netzpolitik.org/2026/trugbild-altersvorsorge-mit-amazon/) - Solche Sprüche zeigen, wie gut die Werbung funktioniert und wie wenig solche leute vom gelebten Neokapitalismus verstehen.
+* [sqlmodel wurde in der Version 0.0.32 veröffentlicht.](https://github.com/fastapi/sqlmodel/releases/tag/0.0.32)
+* [OpenEMS wurde in der Version 2026.2.0 veröffentlicht.](https://github.com/OpenEMS/openems/releases/tag/2026.2.0)
+* [PHP BetterReflection wurde in der Version 6.69.0 veröffentlicht.](https://github.com/Roave/BetterReflection/releases/tag/6.69.0)
