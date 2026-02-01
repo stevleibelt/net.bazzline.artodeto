@@ -33,9 +33,7 @@
 * [Logbuch:Netzpolitik wurde in der Version 544 veröffentlicht.](https://logbuch-netzpolitik.de/lnp544-nihilistischer-pinguin)
 * [Am 24.02.2026 treffen sich Interessierte der Hausautomation beim C3D2.](https://c3d2.de/news/event-20260224-home-automation.html) - Erstes Thema lautet "automatische Heizungssteuerung"
 * [Statt einen Volksentscheid über das Thema Staatsrundfunk und was man gerne hätte zu machen, wird wieder ein Bundesgericht dafür bemüht.](https://www.deutschlandfunk.de/rundfunkbeitrag-oeffentlich-rechtlicher-rundfunk-bundesverfassungsgericht-100.html) - Ich bin für einen öffentlichen Rundfunk, inklusive regionalem Teil. Ich bin gegen Millionen Euro für Angestellte die selbst bereits Millionäre sind und gegen Veranstaltungen, die Millionen Euro kosten. Ich finde es einfach nur frech, dass von Steuergelder bezahlte Beiträge dem Volk nicht auf ewig bereit gestellt wird, nur weil die privaten Medienfirmen die Politiker bestochen haben. Ich hätte gern eine Art "Nordstory" für jedes Bundesland - so als Beispiel
-* [>>
-
-Mit »Big Tech« ist in der Regel nicht einfach »groß« gemeint, sondern ein Geschäftsmodell und ein Machtapparat: Plattformen, die durch Ökosysteme, Lock-in und Datenauswertung dominieren [...]<<](https://www.kuketz-blog.de/ist-der-messenger-signal-big-tech-oder-nicht/)
+* [>>Mit »Big Tech« ist in der Regel nicht einfach »groß« gemeint, sondern ein Geschäftsmodell und ein Machtapparat: Plattformen, die durch Ökosysteme, Lock-in und Datenauswertung dominieren [...]<<](https://www.kuketz-blog.de/ist-der-messenger-signal-big-tech-oder-nicht/)
 * [Wieder ein Schritt weiter, GNU/Hurd kann mitterlweile gegen viel mehr Open Source Pakete gebaut werden.](https://www.phoronix.com/news/GNU-Hurd-In-2026)
 * [>>Mit ETFs bereichere ich mich am Reicherwerden der Reichen<<](https://netzpolitik.org/2026/trugbild-altersvorsorge-mit-amazon/) - Solche Sprüche zeigen, wie gut die Werbung funktioniert und wie wenig solche leute vom gelebten Neokapitalismus verstehen.
 * [sqlmodel wurde in der Version 0.0.32 veröffentlicht.](https://github.com/fastapi/sqlmodel/releases/tag/0.0.32)
