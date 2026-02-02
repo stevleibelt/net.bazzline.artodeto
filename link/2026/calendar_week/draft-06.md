@@ -1,0 +1,6 @@
+* [LLM's sollen jetzt auch neue Antibiotika finden.](https://www.deutschlandfunk.de/antibiotika-resistenz-ki-medizin-100.html) - Was soll schon passieren, wenn in kurzer Zeit Dinge in das angeschlagene Ökosystem Welt entlassen wird. Schaut euch an, wie gut das mit Plastik oder PFA's funktioniert.
+* [>>Yes. The people who aren’t you. The ones you chase off. The ones you mock for needing stability, usability, accessibility. You treat compassion like contamination. That’s not freedom. That’s a fortress.<<](https://fireborn.mataroa.blog/blog/you-dont-own-the-word-freedom-a-full-burn-response-to-the-gnulinux-comment-that-tried-to-gatekeep-me-off-my-own-machine/)
+* [Marco Bülow ist gestorben.](https://de.wikipedia.org/wiki/Marco_B%C3%BClow) - Mein Beileid an die Familie, er hat versucht Gutes in die Welt zu tragen (und wurde für sein Tun etwaig eher belohnt, als es uns lieb ist?)
+* [Feishin wurde in der Version 1.4.0 veröffentlicht.](https://github.com/jeffvli/feishin/releases/tag/v1.4.0)
+* [Argo-CD wurde in der Version 3.3.0 veröffentlicht.](https://github.com/argoproj/argo-cd/releases/tag/v3.3.0)
+* [archlinux-archzfs-linux-lts-dkms wurde in der version 20260201 veröffentlicht.](https://github.com/stevleibelt/arch-linux-live-cd-iso-with-zfs/releases/tag/20260201)
