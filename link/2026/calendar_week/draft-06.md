@@ -4,3 +4,21 @@
 * [Feishin wurde in der Version 1.4.0 veröffentlicht.](https://github.com/jeffvli/feishin/releases/tag/v1.4.0)
 * [Argo-CD wurde in der Version 3.3.0 veröffentlicht.](https://github.com/argoproj/argo-cd/releases/tag/v3.3.0)
 * [archlinux-archzfs-linux-lts-dkms wurde in der version 20260201 veröffentlicht.](https://github.com/stevleibelt/arch-linux-live-cd-iso-with-zfs/releases/tag/20260201)
+* [libsignal wurde in der Version 0.87.0 veröffentlicht.](https://github.com/signalapp/libsignal/releases/tag/v0.87.0)
+* [Android Thunderbird wurde in der Version 16.0 veröffentlicht.](https://github.com/thunderbird/thunderbird-android/releases/tag/THUNDERBIRD_16_0)
+* [rust coreutils wurde in der Version 0.6.0 veröffentlicht.](https://github.com/uutils/coreutils/releases/tag/0.6.0)
+* [Notepad++ Upater ist seit 2025 leider kaputt.](https://borncity.com/blog/2026/02/03/notepad-update-prozess-von-staatlich-hackern-seit-sommer-2025-gekapert/) - Einmal deinstallieren und neu installieren.
+* [Ich weiß noch nicht so recht für was und wann ich das einsetze, aber steamlit hilft euch in Python HTML-Seiten zu bauen.](https://github.com/streamlit/streamlit/releases/tag/1.53.1)
+* [Interessant, Russland möchte den Vertrag der atomaren Rüstungskontrolle weiterführen, die USA wohl nicht.](https://www.deutschlandfunk.de/new-start-atomwaffen-russland-usa-100.html) - Nur für den Fall, dass die USA ab dem 06.02.2026 wieder offiziell Atomraketen bauen.
+* [Nachdem ich den Status-Quo-Bericht auf Netzpolitik bezüglich X gelesen habe](https://netzpolitik.org/2026/medien-auf-x-im-permanenten-shitstorm/), würde ich meine Zwangsabgaben ungern dazu verwendet sehen die Datenbanken des US-Amerikanischen Konzerns anzureichen.
+* [Die Packstationen sind scheinbar fundamental kaputt.](https://www.kuketz-blog.de/dhl-packstation-sicherheitsluecke-ueberraschungsei-im-schliessfach/) - Die Gewinnmaximierung hat gegenüber der Sicherheite gewonnen.
+* [ruff wurde in der Version 0.15.0 veröffentlicht.](https://github.com/astral-sh/ruff/releases/tag/0.15.0)
+* [ddev wurde in der Version 1.25.0 veröffentlicht.](https://github.com/ddev/ddev/releases/tag/v1.25.0)
+* [penpot wurde in der Version 2.13.0 veröffentlicht.](https://github.com/penpot/penpot/releases/tag/2.13.0)
+* [Netbox-docker wurde in der Version 4.0.0 veröffentlicht.](https://github.com/netbox-community/netbox-docker/releases/tag/4.0.0)
+* [Hyperion wurde in der Version 2.2.0 veröffentlicht.](https://github.com/hyperion-project/hyperion.ng/releases/tag/2.2.0)
+* [>>Ein möglicher Ausgangspunkt für die Debatte ist, dass es sich bei der polizeilichen Öffentlichkeitsarbeit um die Ausübung hoheitlicher Gewalt handelt. Denn die Polizei bleibt nach wie vor eine mit Hoheits- und Zwangsbefugnissen ausgestattete Behörde. So sehr sie sich auch bemühen mag, „auf Augenhöhe“ und in Dialog mit den Menschen zu treten: Das Spielfeld ist alles andere als eben.<<](https://netzpolitik.org/2026/polizei-im-netz-wie-die-polizei-soziale-netzwerke-mit-copaganda-flutet/)
+* [Der Freistaat Sachsen beschließt ein Handyverbot, für die dafür nötige Infrastruktur hat er aber kein Geld übrig.](https://www.bildung.sachsen.de/blog/index.php/2026/02/03/faq-handyverbot-in-der-primarstufe/) - Bedeutet am Ende, eure Kinder werden auf andere Dinge verzichten müssen, damit sich die Schule die Durchsetzung des Gesetzes leisten kann
+* [Auf ddec.com ist ein schöner Artikel erschienen der euch Podman und Docker Rootless erklärt.](https://ddev.com/blog/podman-and-docker-rootless/#open-source-alternatives-to-docker-desktop)
+* [>>Arbeit dehnt sich in genau dem Maß aus, wie Zeit für ihre Erledigung zur Verfügung steht.<< - Wieder etwas gelernt, Parkinsonsche Gesetze](https://de.wikipedia.org/wiki/Parkinsonsche_Gesetze)
+* [>>Die anlasslose Speicherung sämtlicher IP-Adressen für einen Zeitraum von drei Monaten lehnt die GI [Gesellschaft für Informatik] konsequent ab.<<](https://gi.de/meldung/gi-bezieht-stellung-zum-erneuten-vorstoss-der-vorratsdatenspeicherung) - Nur falls die CxU sich mal getraut jemanden zu fragen, der sich damit auskennt.
