@@ -1,0 +1,6 @@
+* [fastapi-limiter wurde in der Version 0.2.0 veröffentlicht.](https://github.com/long2ice/fastapi-limiter/releases/tag/v0.2.0)
+* [Der Freistaat Sachsen hat drei Tage Bildungsurlaub pro Jahr beschlossen.](https://www.mdr.de/nachrichten/sachsen/politik/bildungsurlaub-anspruch-abstimmung-beschluss-landtag-100.html) - Schade, dass sich Sachsen nach so langer Zeit nicht auf die [übliche Menge von fünf Tagen](https://de.wikipedia.org/wiki/Bildungsurlaub) geeinigt hat
+* [>>In der Digitalisierung der Verwaltung, aber auch des Gesundheitswesens, ist eines in Deutschland immer gewiss: Dass aus großen Digitalprojekten immer ein für die Wirtschaft durchaus erträglicher Markt wird, ganz egal, ob digitale Leistungen bei Bürger*innen auch wirklich ankommen.<<](https://netzpolitik.org/2026/degitalisierung-grosses-kino/)
+* [D7VK wurde in der Version 1.3 veröffentlicht und kann jetzt Direct3D 5 mit Vulkan.](https://www.phoronix.com/news/D7VK-1.3-Released)
+* [Pipes wurde in der Version 3.0 veröffentlicht.](https://www.onli-blogging.de/2610/Pipes-v3-Datenbloecke-XML-+-JSON-statt-nur-RSS-und-Update-der-freien-Version.html)
+* [>>Wenn ihr ein Google-Konto nutzt – egal in welcher Art – kann euch Google praktisch über das gesamte Internet verfolgen.<<](https://www.kuketz-blog.de/google-als-mitleser-warum-so-viele-webseiten-deinen-besuch-verraten/)
