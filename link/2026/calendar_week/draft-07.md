@@ -23,3 +23,10 @@
 * [Wo wir beim freien Markt sind, Microsoft entlässt hunderte oder gar tausende Mitarbeiter aus der Testabteilung, nur um später einen Qualitätsbeauftragten zu ernennen.](https://borncity.com/blog/2026/02/10/microsoft-bekommt-qualitaets-zar-und-einen-sicherheitsverantwortlichen/) - Und wenn die LLM's weiterhin rotz abliefern ist der Beauftragte dann schuld?
 * [Beneidenswert: >>Nur 13 Prozent der Polen leben heute zur Miete [...]<<](https://www.deutschlandfunkkultur.de/rueckkehr-polen-deutschland-100.html)
 * [Meta erzählt seinen Kunden über Werbung, dass Meta die Demokratie nicht mag.](https://netzpolitik.org/2026/werbung-auf-instagram-das-wort-demokratie-kann-problematisch-sein/)
+* [PHP Tempest Framework wurde in der Version 3.0.0 veröffentlicht.](https://github.com/tempestphp/tempest-framework/releases/tag/v3.0.0) - Dynasty forever!
+* [redis-exporter wurde in der Version 1.81.0 veröffentlicht.](https://github.com/oliver006/redis_exporter/releases/tag/v1.81.0)
+* [sqlmodel wurde in der Version 0.0.33 veröffentlicht.](https://github.com/fastapi/sqlmodel/releases/tag/0.0.33)
+* [Hat Microsoft den Fall UEFI-Zertifikat aktualisieren einfach nicht getestet oder ist das geplante Obsoleszenz? Microsoft ist beides zuzutrauen und das sogar gleichzeitig.](Fehlgeschlagene Installationen oder nicht mehr bootende Systeme waren die Folge.)
+* [Etwas, was die DDR schon wusste, wird heute modern, der Wunsch nach Souveränität bei Chips.](https://www.kuketz-blog.de/computerchips-lebensader-der-digitalen-souveraenitaet/)
+* [Hihi, die Welt wird ein Fest für Hacker werden. LLM's kann man dann entspannt über Verkehrsführungszeichen programmieren.](https://www.schneier.com/blog/archives/2026/02/prompt-injection-via-road-signs.html)
+* [Düsseldorf schafft die Demokratie im Stadtrat ab, damit die Stadträte nicht mehr vor Ort anwesend sein müssen.](https://netzpolitik.org/2026/trotz-sicherheitsbedenken-duesseldorfer-stadtrat-will-anonyme-digitale-abstimmungen/)
