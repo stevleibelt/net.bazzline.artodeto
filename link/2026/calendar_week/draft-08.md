@@ -2,3 +2,12 @@
 * [Das Tempes Framework wurde in der Version 3.1.0 veröffentlicht.](https://github.com/tempestphp/tempest-framework/releases/tag/v3.1.0)
 * [zrepl wurde in der Version 0.7.0 veröffentlicht.](https://github.com/zrepl/zrepl/releases/tag/v0.7.0)
 * [php smarty wurde in der Version 5.8.0 veröffentlicht.](https://github.com/smarty-php/smarty/releases/tag/v5.8.0)
+* [php parsedown wurde in der Version 1.8.0 veröffentlicht.](https://github.com/erusev/parsedown/releases/tag/1.8.0)
+* [librenms wurde in der Version 26.2.0 veröffentlicht.](https://github.com/librenms/librenms/releases/tag/26.2.0)
+* [Nein? Doch! Oh? >>Menschen nehmen vor allem Informationen wahr, die ihre bestehenden Überzeugungen bestätigen – und übersehen, was nicht in ihr Weltbild passt.<<](https://www.deutschlandfunk.de/verzerrte-wahrnehmung-confirmation-bias-bestaetigungsfehler-fake-news-algorithmen-100.html)
+* [Die CDU verrät uns weiter >>Die ePA soll zur „Gesundheits(daten)plattform“ werden<<](https://netzpolitik.org/2026/bundesgesundheitsministerium-so-umfassend-will-warken-die-gesundheitsdaten-aller-versicherten-verknuepfen/)
+* [Kanidm wurde in der Version 1.9.0 veröffentlicht.](https://github.com/kanidm/kanidm/releases/tag/v1.9.0)
+* [typier wurde in der Version 0.24.0 veröffentlicht.](https://github.com/fastapi/typer/releases/tag/0.24.0)
+* [Stirling-PDF wurde in der Version 2.5.0 veröffentlicht.](https://github.com/Stirling-Tools/Stirling-PDF/releases/tag/v2.5.0)
+* [sqlmodel wurde in der Version 0.0.34 veröffentlicht.](https://github.com/fastapi/sqlmodel/releases/tag/0.0.34)
+* [>>Laut einer Studie im Auftrag der Otto Brenner Stiftung bewerben fast ein Drittel der TV-Spots klimaschädliche Produkte.<<](https://www.deutschlandfunk.de/werbung-fuer-klima-killer-obs-studie-kritisiert-regeln-100.html) - Was? Der entfesselte und unreglementierte Kapitalismus scheißt auf den Planeten für den Profit und der Mehrung von Fantasiezahlen? Das hätte ich nicht gedacht!
