@@ -11,3 +11,7 @@
 * [Stirling-PDF wurde in der Version 2.5.0 veröffentlicht.](https://github.com/Stirling-Tools/Stirling-PDF/releases/tag/v2.5.0)
 * [sqlmodel wurde in der Version 0.0.34 veröffentlicht.](https://github.com/fastapi/sqlmodel/releases/tag/0.0.34)
 * [>>Laut einer Studie im Auftrag der Otto Brenner Stiftung bewerben fast ein Drittel der TV-Spots klimaschädliche Produkte.<<](https://www.deutschlandfunk.de/werbung-fuer-klima-killer-obs-studie-kritisiert-regeln-100.html) - Was? Der entfesselte und unreglementierte Kapitalismus scheißt auf den Planeten für den Profit und der Mehrung von Fantasiezahlen? Das hätte ich nicht gedacht!
+* [Nextcloud server wurde in der Version 33.0.0 veröffentlicht.](https://github.com/nextcloud/server/releases/tag/v33.0.0)
+* [Hier wird docker, podman und containerd miteinander verglichen.](https://www.freecodecamp.org/news/how-to-use-different-container-runtimes-docker-podman-and-containerd-explained/)
+* [Noch zwei schöne Beispiele für die Moral des unregulierten, freien Marktes - Shein und Temu.](https://netzpolitik.org/2026/kinderaehnliche-sexpuppen-und-suechtig-machendes-design-eu-eroeffnet-verfahren-gegen-shein/) - Sexpuppen in Kindergestallt, danke, mehr muss ich nicht lesen.
+* [ddev kann jetzt auch xdebug](https://ddev.com/blog/xdebug-step-debugging-understanding-and-troubleshooting/)
