@@ -139,6 +139,7 @@ DELIM
     /usr/bin/env git maintenance run
     #echo "   Starting >>git gc --aggressive<<" >> "${FULL_FILE_PATH_OF_THE_DEBUG_LOG}"
     #/usr/bin/env git gc --aggressive
+    #/usr/bin/env git fsck --full
 
     # In testing right now
     /usr/bin/env git add .
