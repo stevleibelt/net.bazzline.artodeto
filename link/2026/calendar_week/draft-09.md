@@ -1,7 +1,7 @@
 * [Magisk wurde in der Version 30.7.0 veröffentlicht.](https://github.com/topjohnwu/Magisk/releases/tag/v30.7)
 * [In 189 Tagen wird Google Android so verändern, dass ihr keine freien Anwendungen mehr privat installieren könnt.](https://keepandroidopen.org/de/) - Noch könnt ihr etwas dagegen machen, Google mitteilen, dass das mist ist, Petitionen unterschreiben, Politiker informieren.
 * [rdfind wurde in der Version 1.8.0 veröffentlicht.](https://github.com/pauldreik/rdfind/releases/tag/releases/1.8.0)
-* [fastapi wurde in der Version 0.133.0 veröffentlicht.](https://github.com/fastapi/fastapi/releases/tag/0.133.0)
+* [fastapi wurde in der Version 0.134.0 veröffentlicht.](https://github.com/fastapi/fastapi/releases/tag/0.134.0)
 * [rq wurde in der Version 2.7.0 veröffentlicht.](https://github.com/rq/rq/releases/tag/v2.7)
 * [Gmail baut Google auch weiter so um, dass es nur noch mit Google-Produkte geht.](https://borncity.com/blog/2026/02/23/google-beendet-gmailify-und-pop3-zugriff-auf-gmail/)
 * [snipe-it wurde in der Version 8.4.0 veröffentlicht.](https://github.com/grokability/snipe-it/releases/tag/v8.4.0)
@@ -42,3 +42,5 @@
 * [sudo-rs macht den ersten Fehler und zeigt dem Nutzer an, wie viele Buchstaben er eingegeben hat.](https://www.phoronix.com/news/sudo-rs-password-feedback)
 * [>>Die sächsische Polizei soll Bilder im Internet biometrisch auswerten dürfen [..]<<](https://netzpolitik.org/2026/polizeirechtsnovelle-in-sachsen-mit-minimalen-anpassungen-in-richtung-ueberwachungsstaat/) - Das ist dann wohl Herrn Kretschmers "Law and Order"! Der [C3D2](https://c3d2.de/news/20260226-pm-SaechsPDVG.html) bleibt stabil und ist dagegen.
 * [Komisch, Österreich schafft es Bürgerdaten zu schützen, ohne einen gläsernen Bürger zu erschaffen.](https://netzpolitik.org/2026/interview-zu-personenkennzeichen-den-glaesernen-buerger-nicht-nur-rechtlich-sondern-auch-technisch-verhindern/) - Aber die CxU sagt doch, dass das nicht geht.
+* [>>Die Wahrung der Privatsphäre ist in der EU ein Grundrecht. Sie wird garantiert durch die Artikel 7 und 8 der Grundrechtecharta. [...]<<](https://kleindatenverein.org/posts/26/0228-brief-chatkontrolle/)
+* [Warum Metzgereien schließen?](https://www.deutschlandfunk.de/fleischereien-metzgereien-krise-100.html) - Meine Gründe sind etwas anders. Die Arbeit ist den Angestellt, wie bei der Bäckerzunft, zu anstrengend. Gute Ware kann gegen die verseuchte Pest aus dem Supermarkt vom Preis her nicht mithalten. Die neumodischen Stattbewohner empfinden den Geruch einer Metzgerei als eklig. Dem Metzger vor Ort wird Hass entgegengebracht, da er Tiere tötet.
