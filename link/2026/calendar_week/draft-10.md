@@ -36,3 +36,12 @@
 * [LANCommander wurde in der Version 2.0.0 veröffentlicht.](https://github.com/LANCommander/LANCommander/releases/tag/v2.0.0)
 * [RatOS wurde in der Version 2.1.0 veröffentlicht.](https://github.com/Rat-OS/RatOS/releases/tag/v2.1.0)
 * [Nextcloud News wurde in der Version 28.0.0 veröffentlicht.](https://github.com/nextcloud/news/releases/tag/28.0.0)
+* [black wurde in der Version 26.3.0 veröffentlicht.](https://github.com/psf/black/releases/tag/26.3.0)
+* [borg wurde in der Version 0.26.0 veröffentlicht.](https://github.com/borgbackup/borg/releases/tag/0.26.0)
+* [Stirling-PDF wurde in der Version 2.7.0 veröffentlicht.](https://github.com/Stirling-Tools/Stirling-PDF/releases/tag/v2.7.0)
+* [Schade, erneut bleibt Freiberg im Würgegriff von Händen aus dem Schatten.](https://www.mdr.de/nachrichten/sachsen/chemnitz/freiberg/amtsverweser-abgelehnt-oberbuergermeisterwahl-100.html) - Politische Machtspiele werden auf dem Rücken unserer Bürger ausgetragen. Freiberg braucht eine starke und vereinte Führungsriege aus Oberbürgermeister, Baubürgermeister und Stadtrat. Jeder, der nicht konstruktiv mitarbeiten will und nur seine eigene Interessen verfolgt, darf gern umziehen.
+* [>>Das Bundesverwaltungsgericht hat eine Klage der Bundesdatenschutzbeauftragten gegen den BND abgewiesen.<<](https://netzpolitik.org/2026/geheimdienstkontrolle-kontrolle-darf-nicht-davon-abhaengen-ob-der-geheimdienst-freiwillig-kooperiert/) - Es wird schlimmer Freunde, zieht euch alles an Krypto auf die Rechner und in die Backups solange ihr noch könnt.
+* [Realitätsabgleich "wie viel Moral wohnt dem freien Markt inne" - es ist weniger als ihr gehofft habt.](https://www.deutschlandfunk.de/medizinskandal-kinderheime-medikamententests-pharmaindustrie-100.html)
+* [Apropos Moral, wie ist das bei den Geheimdiensten? >>Die Bundesregierung lässt jetzt sogar Buchhandlungen vom Verfassungsschutz überprüfen [...]<<](https://netzpolitik.org/2026/attacke-auf-die-zivilgesellschaft-wenn-der-geheimdienst-buchhandlungen-ins-visier-nimmt/)
+* [OpenWrt wurde in der Version 25.12.0 veröffentlicht.](https://openwrt.org/releases/25.12/notes-25.12.0)
+* [Hier wird euch beigebracht wie ihr euren eigenen E-Mail-Server betreibt.](https://blog.miguelgrinberg.com/post/how-to-host-your-own-email-server)
