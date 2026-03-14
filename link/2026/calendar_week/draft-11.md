@@ -25,3 +25,7 @@
 * [Thüringen kehrt sich von Bürgern ab und möchte lieber Sklaven haben. Anders kann man die geplante Abschaffung der Unschuldsvermutung nicht lesen.](https://netzpolitik.org/2026/polizeigesetz-in-thueringen-das-kehrt-die-unschuldsvermutung-um/)
 * [Nein? Doch! Oh? Die ewig konzernorientierte, irische Datenschützerin ist jetzt bei Hackfressenbuch/Meta angestellt.](https://netzpolitik.org/2026/ploetzlich-facebook-lobbyistin-irlands-einst-hoechste-datenschuetzerin-wechselt-die-seite/) - DAMIT KONNTE DOCH KEINER RECHNEN!
 * [Lable Studio wurde in der Version 1.23.0 veröffentlicht.](https://github.com/HumanSignal/label-studio/releases/tag/1.23.0)
+* [Tempest-Framework wurde in der Version 3.4.0 veröffentlicht.](https://github.com/tempestphp/tempest-framework/releases/tag/v3.4.0)
+* [FreeRDP wurde in der Version 3.24.0 veröffentlicht.](https://github.com/FreeRDP/FreeRDP/releases/tag/3.24.0)
+* [Criteo wurde endlich bestraft, leider nur 40 Millionen Euro.](https://noyb.eu/de/conseil-detat-upholds-criteos-eu40m-gdpr-fine)
+* [In der kaputten Welt leben wir, die Antwort vom Server hängt davon ab, als wem du dich ausgibst.](https://utcc.utoronto.ca/~cks/space/blog/web/HTTPResultsAndUserAgents)
