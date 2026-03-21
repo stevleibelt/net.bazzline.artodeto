@@ -35,3 +35,12 @@
 * [>>In der Pflegebranche funktioniert das Ausbeutungsmodell jedoch weiter: Es sind gering qualifizierte Frauen, die oft in der häuslichen Betreuung deutscher Pflegebedürftiger arbeiten. Und das zu Bedingungen, die kaum mit europäischen Sozialstandards vereinbar sind.<<](https://www.deutschlandfunk.de/arbeitsmarkt-lieferdienste-nagelstudio-migration-100.html) - Wir brauchen halt langsam mal eine zweite Erde, sonst haben die Rentner in 30 Jahren keine soziale Masse mehr zum ausbeuten.
 * [harbor wurde in der Version 2.15.0 veröffentlicht.](https://github.com/goharbor/harbor/releases/tag/v2.15.0)
 * [immich wurde in der Version 2.6.0 veröffentlicht.](https://github.com/immich-app/immich/releases/tag/v2.6.0)
+* [Die Kirchensteuer wird weiter vom Steuergeld bezahlt.](https://www.deutschlandfunk.de/kirche-staatsleistungen-grundgesetz-abloesung-politik-100.html) - Komisch, dass dies gesetzlich nicht mehr haltbar ist, aber niemand etwas dagegen unternimmt. Vorstellen, ein Arbeitssuchender würde einen Eurocent zu viel Geld bekommen, da würde Merz aber das ganze SEK schicken!
+* [Plastikmüll, primär bei Verpackung.](https://www.deutschlandfunk.de/kunststoff-plastik-muell-recycling-kreislaufwirtschaft-100.html) - Nein? Doch! Oh? Ich weiß.
+* [phrocs wurde in der Version 1.0.0 veröffentlicht.](https://github.com/PostHog/posthog/releases/tag/phrocs-1.0.0)
+* [roundcube wurde in der Version 1.6.14 veröffentlicht.](https://github.com/roundcube/roundcubemail/releases/tag/1.6.14) - Da wurd ein CSV gelöst, bitte einmal aktualisieren
+* [OpenShot wurde in der Version 3.5.0 veröffentlicht.](https://www.phoronix.com/news/OpenShot-3.5-Released)
+* [b4 wurde in der Version 0.15.0 veröffentlicht.](https://lwn.net/Articles/1064097/) - Das sieht nach einem sehr interessanten Patch-Management-Werkzeug aus, besonders weil es eine TUI mitbringt. Mir geht das ganze GUI-Zeugs zunehmend auf den Geist, aber ich werde auch alt und hab keine Zeit mehr.
+* [Wine wurde in der Version 11.5.0 veröffentlicht.](https://www.phoronix.com/news/Wine-11.5-Released)
+* [Wieder mal etwas, was die Regierung nicht kann/will. Die EU fordert den Schutz der Pressefreiheit, dass passt den Überwachungsgewünsche der Blockpartei natürlich nicht.](https://netzpolitik.org/2026/politische-online-werbung-bundestag-soll-schutz-der-pressefreiheit-sicherstellen/)
+* [Armut ist ein Problem der hoch komplexen Anträge.](https://www.deutschlandfunk.de/haeusliche-ambulante-pflege-armut-sozialhilfe-100.html)
