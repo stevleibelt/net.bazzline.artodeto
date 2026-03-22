@@ -44,3 +44,4 @@
 * [Wine wurde in der Version 11.5.0 veröffentlicht.](https://www.phoronix.com/news/Wine-11.5-Released)
 * [Wieder mal etwas, was die Regierung nicht kann/will. Die EU fordert den Schutz der Pressefreiheit, dass passt den Überwachungsgewünsche der Blockpartei natürlich nicht.](https://netzpolitik.org/2026/politische-online-werbung-bundestag-soll-schutz-der-pressefreiheit-sicherstellen/)
 * [Armut ist ein Problem der hoch komplexen Anträge.](https://www.deutschlandfunk.de/haeusliche-ambulante-pflege-armut-sozialhilfe-100.html)
+* [>>Es besteht die Gefahr, dass dein Körper nach einer Impfung überreagiert: Allergien und Autoimmunerkrankungen werden häufig nach HPV-Impfungen berichtet.<<](https://impfentscheidung.online/was-geht-da-eigentlich-warum-es-jetzt-hpv-impfungen-an-deiner-schule-gibt/)
