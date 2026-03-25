@@ -12,3 +12,8 @@
 * [uv wurde in der Version 0.11.0 veröffentlicht.](https://github.com/astral-sh/uv/releases/tag/0.11.0)
 * [Valinor wurde in der Version 2.4.0 veröffentlicht.](https://github.com/CuyZ/Valinor/releases/tag/2.4.0)
 * [openITCOCKPIT wurde in der Version 5.5.0 veröffentlicht.](https://github.com/openITCOCKPIT/openITCOCKPIT/releases/tag/openITCOCKPIT-5.5.0)
+* [penpot wurde in der Version 2.14.0 veröffentlicht.](https://github.com/penpot/penpot/releases/tag/2.14.0)
+* [umu-launcher wurde in der Version 1.4.0 veröffentlicht.](https://github.com/Open-Wine-Components/umu-launcher/releases/tag/1.4.0)
+* [Wir Menschen lernen so wenig aus unserer Vergangenheit. Das Baumrinde auch heilende Wirkung haben, hat mich für heute total überrascht.](https://www.kostbarenatur.net/rinde-ernten-baumrinde-entfernen/)
+* [Kleinwaltersdorf ruft am 11.04.2026 zum Frühjahrsputz auf.](https://kleinwaltersdorf.de/index.php/2026/03/24/fruehjahrsputz/)
+* [1200 Fragen umfasst der aktuelle Katalog zur Führerscheinprüfung.](https://www.deutschlandfunk.de/fuehrerschein-auto-kosten-reform-fahrschule-schnieder-100.html) - Danke, ich habe keine weiteren Fragen warum der Führerschein so teuer geworden ist.
