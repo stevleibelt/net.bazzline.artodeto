@@ -4,7 +4,7 @@
 * [Es gibt endlich eine Wettbewerbsbeschwerde gegen VMware in Europa - eingereicht von der CISPE.](https://borncity.com/blog/2026/03/23/cispe-reicht-eu-wettbewerbsbeschwerde-gegen-vmware-by-broadcom-ein/)
 * Woran erkennt man Lügen? An den Details und die seint meist gar nicht so klein. [Die FCC stuft alle nicht us-amerikanischen Router als gefährlich ein, aber nur alle neuen Router!](https://stadt-bremerhaven.de/usa-fcc-verbannt-alle-im-ausland-gefertigten-router/)
 * Gestern durften meine Ohren das erste Mal Texte von [Edgar Wasser](https://www.edgarwasser.com/) hören und ich bin sehr dankbar darüber. Kein dummer Gangsta-Rap, sondern ehrliche Sozialkritik mit Beats die bumsen.
-* [Avocado.de kümmert sich nen scheiß um den Datenschutz.](https://www.ccc.de/de/updates/2026/debug-modus-bei-legal-tech-plattform-advocado-legt-sensible-daten-offen)
+* [Advocado.de kümmert sich nen scheiß um den Datenschutz.](https://www.ccc.de/de/updates/2026/debug-modus-bei-legal-tech-plattform-advocado-legt-sensible-daten-offen)
 * Betrachtet was in der EU wegen dem Nein zur Chatkontrolle passiert und ihr erkennt [wie viel Lobbyismus](https://www.patrick-breyer.de/entscheidungsschlacht-um-die-chatkontrolle-wie-eu-regierungen-und-tech-lobby-das-nein-des-eu-parlaments-kippen-wollen-der-grosse-faktencheck/) dort vorhanden ist
 * Schon wild, aber [hier liest jemand docker container logs aus, übergibt diese strukturiert an ein LLM und schmeißt die Lösung des LLM auf den Container los.](https://www.freecodecamp.org/news/docker-container-doctor-how-i-built-an-ai-agent-that-monitors-and-fixes-my-containers/)
 * [>>KI-Unternehmen bauen ihre Produkte auf Inhalten auf, die andere mit Zeit, Mühe und Idealismus erstellt haben – und verkaufen das Ergebnis als eigene Leistung.<<](https://www.kuketz-blog.de/kommentar-ki-frisst-ihre-eigene-grundlage-auf/) - Kapitalismus im Endstadium auf dem Weg zur wahren Dunkelheit.
@@ -17,3 +17,8 @@
 * [Wir Menschen lernen so wenig aus unserer Vergangenheit. Das Baumrinde auch heilende Wirkung haben, hat mich für heute total überrascht.](https://www.kostbarenatur.net/rinde-ernten-baumrinde-entfernen/)
 * [Kleinwaltersdorf ruft am 11.04.2026 zum Frühjahrsputz auf.](https://kleinwaltersdorf.de/index.php/2026/03/24/fruehjahrsputz/)
 * [1200 Fragen umfasst der aktuelle Katalog zur Führerscheinprüfung.](https://www.deutschlandfunk.de/fuehrerschein-auto-kosten-reform-fahrschule-schnieder-100.html) - Danke, ich habe keine weiteren Fragen warum der Führerschein so teuer geworden ist.
+* [jnv wurde in der Version 0.7.0 veröffentlicht.](https://github.com/ynqa/jnv/releases/tag/v0.7.0)
+* [>>Stellungnahme der Gesellschaft für Informatik zu Text- und Data-Mining zu Forschungszwecken<<](https://gi.de/meldung/stellungnahme-zu-text-und-data-mining-zu-forschungszwecken)
+* [Wie ist der Weg aus der Family-Link-Falle? >>Das Kind nutzt ein separates Alltagsprofil, in dem es selbst keine Apps installieren kann.<<](https://www.kuketz-blog.de/grapheneos-android-kindersicher-einrichten-ohne-google-family-link/) - Ich bin dir so dankbar Kuketz! Liebe Menschen, spendet dem guten Kuketz doch bitte etwas.
+* [>>KI kann Kartelle bilden<<](https://www.deutschlandfunkkultur.de/ki-agenten-online-shopping-preisvergleiche-adrian-lobe-100.html)
+* [CxU macht CxU Dinge und SPD fällt um: Staatlich, private erhobene Biometriedaten sollen jetzt allen Fluglinien kostenfrei geschenkt werden.](https://netzpolitik.org/2026/flugreisen-bundesregierung-will-unternehmen-zugriff-auf-staatliche-biometrie-daten-geben/)
