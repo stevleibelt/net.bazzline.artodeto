@@ -25,3 +25,5 @@
 * [Die hälfte aller Magento-Shops sind gefallen.](https://borncity.com/blog/2026/03/27/gut-50-der-magento-shops-mit-schwachstelle-ueber-polyshell-angegeriffen/) - So sieht Open Source bei Adobe aus
 * [>>Mehr als 1.000 Organisationen und Personen des öffentlichen Lebens wehren sich in einem offenen Brief gegen den Umgang der Bundesregierung mit der Zivilgesellschaft [...]<<](https://netzpolitik.org/2026/1-000-erstunterzeichnerinnen-volle-breitseite-gegen-die-feinde-der-demokratie/)
 * [>>Ab dem 4. April läuft die EU-Ausnahmeverordnung endgültig aus. US-Konzerne wie Meta, Google und Microsoft müssen das anlasslose Scannen privater Chats europäischer Bürgerinnen und Bürger einstellen. Das digitale Briefgeheimnis gilt wieder!<<](https://www.patrick-breyer.de/ende-der-chatkontrolle-eu-parlament-stoppt-massenscans-im-abstimmungskrimi-weg-frei-fuer-echten-kinderschutz/)
+* [ollama wurde in der Version 0.19.0 veröffentlicht.](https://github.com/ollama/ollama/releases/tag/v0.19.0-rc0)
+* [soap-client wurde in der Version 6.0.0 veröffentlicht.](https://github.com/phpro/soap-client/releases/tag/6.0.0)
