@@ -1,0 +1,2 @@
+* [Roundcube wurde in der Version 1.6.15 veröffentlicht.](https://roundcube.net/news/2026/03/29/security-updates-1.7-rc6-1.6.15-1.5.15) - Da gibt es wieder ein CVE, bitte aktualisiert eure Installationen.
+* [Nein? Doch! Oh? Deutschlandfunk hat auch verstanden, dass die USA den Iran nur angreift, ob die Abhängigkeit zu den fossilien Rohstoffen als Waffe zu nutzen.](https://www.deutschlandfunk.de/oelpreis-energiewende-strasse-von-hormus-geopolitik-100.html)
