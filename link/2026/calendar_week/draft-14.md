@@ -1,2 +1,9 @@
 * [Roundcube wurde in der Version 1.6.15 veröffentlicht.](https://roundcube.net/news/2026/03/29/security-updates-1.7-rc6-1.6.15-1.5.15) - Da gibt es wieder ein CVE, bitte aktualisiert eure Installationen.
 * [Nein? Doch! Oh? Deutschlandfunk hat auch verstanden, dass die USA den Iran nur angreift, ob die Abhängigkeit zu den fossilien Rohstoffen als Waffe zu nutzen.](https://www.deutschlandfunk.de/oelpreis-energiewende-strasse-von-hormus-geopolitik-100.html)
+* [simdjson wurde in der Version 4.6.0 veröffentlicht.](https://github.com/simdjson/simdjson/releases/tag/v4.6.0)
+* [neovide wurde in der Version 0.16.0 veröffentlicht.](https://github.com/neovide/neovide/releases/tag/0.16.0)
+* Die [Chemnitzer Linux Tage 2026](https://github.com/stevleibelt/notes/tree/master/conference/2026/chemnitzer_linux_tage) sind durch und eine Ernüchterung macht sich breit. Hardware Hersteller sind sich unsicher, ob es sich noch lohnt, ein [Trackpoint](https://de.wikipedia.org/wiki/Trackpoint) mit in das Sortiment aufzunehmen, oder ob der Nutzerkreis nicht eh bald ausstirbt. Das macht mich wahrlich betroffen. Für mich ist der Trackpoint mein "Vendor Lockin".
+* [Nein? Doch! Oh? Auch Copilot rutscht ab und an mal Werbung aus der API.](https://borncity.com/blog/2026/03/30/microsoft-copilot-werbung-in-github-pull-requests/)
+* [SystemRescue wurde in der Version 13.0.0 veröffentlicht.](https://www.system-rescue.org/Changes-x86/)
+* [Der lange Weg zur Kreislaufwirtschaft.](https://netzpolitik.org/2026/recht-auf-reparatur-der-lange-weg-zu-einer-nachhaltigen-konsumkultur/) - Das "Recht auf Reparatur" ist erst der Anfang. Es hilft nichts, wenn Ersatzteile nach wenigen Monaten nur noch zu Mondpreisen vorhanden sind.
+* Die [Videos zu den Chemnitzer Linux Tage 2026](https://media.ccc.de/c/clt26) sind im Chaos verfügbar.
