@@ -29,3 +29,6 @@
 * Passend dazu auch, [die Geschichte der deutschen Bahnhöfe](https://www.deutschlandfunk.de/bahnhoefe-qualitaet-infrastruktur-sicherheit-maengel-sanierung-100.html). - Die CxU lässt die "Aushängeschilder" der Städte verkommen, privatisiert sie und lässt sie dann von den klammen Kommunen zurückkaufen und in Stand setzen. Tafelsilber verkaufen, runterwirtschaften und dann überteuert zurückkaufen lassen.
 * [mStream wurde in der Version 5.16.0 veröffentlicht.](https://github.com/IrosTheBeggar/mStream/releases/tag/v5.16.0)
 * [LocalAI wurde in der Version 4.1.0 veröffentlicht.](https://github.com/mudler/LocalAI/releases/tag/v4.1.0)
+* [php rector wurde in der Version 2.4.0 veröffentlicht.](https://github.com/rectorphp/rector/releases/tag/2.4.0)
+* [php paratest wurde in der Version 7.22.0 veröffentlicht.](https://github.com/paratestphp/paratest/releases/tag/v7.22.0)
+* Winkeladvokatentricks, Microsoft's Copilot dürft ihr nur noch [>>[...] zum Spaß [...]<<](https://borncity.com/blog/2026/04/04/nur-zum-spass-microsofts-bedingungen-erlauben-copilot-nur-fuer-unterhaltung/) nutzen. Nutzt ihr die Software wie gewohnt und eigentlich auch gedacht, so ist das eure Schuld. Wichtig für Microsoft, sie versuchen sich so aus rechtlichen Klagen rauszuschlingeln.
