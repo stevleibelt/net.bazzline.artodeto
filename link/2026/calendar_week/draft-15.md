@@ -9,3 +9,6 @@
 * Scheinbar gibt es [keinen Standard](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/EmailRetryPeriodWondering), wie lange ein E-Mail-Server versucht eine E-Mail zuzustellen.
 * Am [25.04.2026 finden im Bonner Makerspace die Campdays](https://teckids.org/blog/2026/04/einladung-campdays/) statt. Die Campdays werden von den Techkiddies betreut.
 * Die Tech-Konzerne sagen immer mehr "müsst ihr wissen, wir bieten nur die Technologie an - völlig wert- und moralfrei". Dem gegenüber steht die gelebte da nicht aufgeklärte Realität von [>>[...] In vielen Fällen der Beratungsarbeit im Frauenhauskontext geht es inzwischen auch um digitale Gewalt.<<](https://netzpolitik.org/2026/frauenhaeuser-ausklinken-darf-nicht-die-loesung-sein/)
+* [keycloak wurde in der Version 26.6.0 veröffentlicht.](https://github.com/keycloak/keycloak/releases/tag/26.6.0)
+* [immich wurde in der Version 2.7.0 veröffentlicht.](https://github.com/immich-app/immich/releases/tag/v2.7.0)
+* Wenn Taler und Dolibarr etwas machen, entsteht [TalerBarr](https://www.taler.net/de/news/2026-05.html)
