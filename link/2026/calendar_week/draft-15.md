@@ -33,3 +33,8 @@
 * [Python litellm version 1.82.8 wurde infiltriert und ist kaputt.](https://www.schneier.com/blog/archives/2026/04/python-supply-chain-compromise.html)
 * Die USA hacken jetzt mit russischen IP-Adressen [TP-Link-Router](https://borncity.com/blog/2026/04/10/bundesamt-fuer-verfassungsschutz-warnt-vor-russischen-cyberangriffen-auf-tp-link-router/)
 * Nein? Doch! Oh? Nach der permanenten Werbelüge der souveränen EU-Cloud muss man jetzt aktiv [Opt-Out schalten, dass die Daten nicht in die USA geschickt werden.](https://borncity.com/blog/2026/04/10/microsoft-copilot-sendet-mit-flex-routing-daten-aus-eu-heraus/) - Wie geht das denn, dass man in einer souveränen Cloud Daten woanders hin gesendet werden?
+* [You're the os wurde in der Version 1.11.0 veröffentlicht.](https://github.com/plbrault/youre-the-os/releases/tag/v1.11.0)
+* [Selenium wurde in der Version 4.43.0 veröffentlicht.](https://github.com/SeleniumHQ/selenium/releases/tag/selenium-4.43.0)
+* Das Experiment "Social Media" scheint zu gelingen. Über diese Hetze wurde der [freie Austausch im Internet korrumpiert.](https://netzpolitik.org/2026/studie-der-medienanstalten-debattenkultur-im-netz-erodiert/)
+* [Prediction Markets sind ethisch fragwürdig und stark Anfällig für Manipulationen.](https://netzpolitik.org/2026/hype-um-prediction-markets-wetten-dass-jesus-vor-2027-zurueckkehren-wird/)
+* Verlieren wir die Kneipen und Restaurants, so [verlieren wir Orte des freien Meinungsaustauschs](https://www.deutschlandfunk.de/gastronomie-krise-100.html).
