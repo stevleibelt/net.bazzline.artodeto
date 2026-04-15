@@ -6,3 +6,9 @@
 * [Dragonfyldb wurde in der Version 1.38.0 veröffentlicht.](https://github.com/dragonflydb/dragonfly/releases/tag/v1.38.0)
 * [>>Eine NHI bezeichnet eine mit Zugangsdaten versehene Identität, die beispielsweise einer Anwendung, einem Gerät, einem Skript, einem Bot oder einem KI-Agenten zugewiesen wird, damit diese sich authentifizieren und auf Ressourcen zugreifen kann, ohne dass eine Eingabe von Benutzername und Passwort durch einen Menschen erforderlich ist.<<](https://borncity.com/blog/2026/04/14/identity-management-day-am-14-april/)
 * Kuketz stellt es noch einmal klar, [GMail wertet alle privaten Daten von euch aus](https://www.kuketz-blog.de/gmail-liest-deine-e-mails-mit/).
+* [Android Thunderbird wurde in der Version 18.0.0 veröffentlicht.](https://github.com/thunderbird/thunderbird-android/releases/tag/THUNDERBIRD_18_0)
+* [python huey wurde in der Version 3.0.0 veröffentlicht.](https://github.com/coleifer/huey/releases/tag/3.0.0)
+* [Joomla! wurde in der Version 6.1.0 veröffentlicht.](https://github.com/joomla/joomla-cms/releases/tag/6.1.0)
+* Wenn [Von der ähm Leyen von komplett anonym redent, meint Sie eigentlich pseudonyme](https://netzpolitik.org/2026/gesichtsscan-und-handy-zwang-von-der-leyen-erklaert-alterskontroll-app-fuer-fertig/) - Kurzum, die Alterskontroll-App ist ein Kind der "Bedenken Second"-Zeit. Wie die ePA wurden alle wichtigen Funktionen, die zu einer breiten Akzeptanz führen würden, auf "später mal" verschoben - kommen also nie
+* Wenn ihr eure heimischen Kräuter als Tee nutzen wollt, [schenkt diesen Hinweisen zur Zubereitung die entsprechende Aufmerksamkeit](https://www.kostbarenatur.net/die-richtige-teezubereitung-fuer-maximale-wirkkraft/)
+* [Hier findet ihr ein Projekt mit React+Vite und FastAPI](https://www.freecodecamp.org/news/how-to-build-a-fashion-app-to-organize-your-wardrobe/)
