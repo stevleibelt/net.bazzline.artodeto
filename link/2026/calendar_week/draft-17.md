@@ -1,0 +1,7 @@
+* Netzpolitik.org hat sich die polizeiliche Kriminalstatistik einmal [genau angeschaut - Fast sieben Prozent weniger Kriminalität ist das Ergebnis.](https://netzpolitik.org/2026/polizeiliche-kriminalstatistik-kriminalitaetsrate-sinkt-um-fast-sechs-prozent/) - Warum brauchen wir jetzt noch einmal mehr Überwachung?
+* Kuketz ist so nett und zeigt euch den [Klickpfad unter Android auf, um Werbung einzuschränken](https://www.kuketz-blog.de/google-tracking-unter-android-einschraenken/)
+* Realitätsabgleich [Bundesbeauftrage für den Datenschud und die Informationsfreiheit müssen kleingedruckt in der Apothekenschau gegen die ePA mahnen](https://borncity.com/blog/2026/04/20/bffdi-anzeige-maerz-2026-klaert-ueber-die-elektronische-patientenakte-auf/) - Gelder für große Kampagnen oder gar ein Auftritt in öffentlichen Medien beliebt ihnen verboten. Damit wird das BfDI wohl bewusst als Feigenblatt instrumentalisiert.
+* [Vercel ist kaputt, alle Daten sind weg.](https://www.bleepingcomputer.com/news/security/vercel-confirms-breach-as-hackers-claim-to-be-selling-stolen-data/) - Anderer Leute Computer eben
+* [nextcloud news wurde in der Version 28.2.0 veröffentlicht.](https://github.com/nextcloud/news/releases/tag/28.2.0)
+* [librenms wurde in der Version 26.4.0 veröffentlicht.](https://github.com/librenms/librenms/releases/tag/26.4.0)
+* [python authlib wurde in der Version 1.7.0 veröffentlicht.](https://github.com/authlib/authlib/releases/tag/v1.7.0)
