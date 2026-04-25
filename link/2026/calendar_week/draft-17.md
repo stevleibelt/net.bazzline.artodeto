@@ -33,3 +33,4 @@
 * Die Verluste durch das explodierte AKW Tschernobyl wird [seit 40 Jahren von Steuergelder finanziert](https://www.deutschlandfunk.de/tschernobyl-katastrophe-reaktor-ukraine-krieg-100.html) und trotzdem wird öffentlich darüber "nachgedacht", weiterhin AKW's zu bauen. Solange die Verluste sozialisiert und die Gewinne privatisiert werden, wird an dieser Idotie festgehalten. Wäre Fotzenfritz doch nur ehrlich "Deutschland braucht AKW's, damit wir Atomwaffen bauen können".
 * Die Betrüger der vielen selbst erdachten Nachhaltigkeitssiegel müssen sich [etwas neues Ausdenken](https://www.watson.de/leben/good-news/767259000-supermarkt-neues-greenwashing-gesetz-geht-unternehmen-an-den-kragen). Ab September 2026 gibt es strengere Regeln.
 * [FreeRDP wurde in der Version 3.25.0 veröffentlicht.](https://github.com/FreeRDP/FreeRDP/releases/tag/3.25.0)
+* [Mopidy wurde in der Version 4.0.0 veröffentlicht.](https://github.com/mopidy/mopidy/releases/tag/v4.0.0)
