@@ -50,3 +50,6 @@
 * [Unter dem Deckmantel "Minderjährige schützen", baut Hackfressenbuch an einer zentralisierten Datenerfassung.](https://netzpolitik.org/2026/du-siehst-aber-jung-aus-meta-will-uns-bis-auf-die-knochen-ueberwachen/) - LLM's werten Texte und Bilder aus, natürlich nur um herauszubekommen, ob der Nutzer minderjährig ist. Wie viel Lügen verkraftet so eine Pressemitteilung eigentlich?
 * [>>Smart Glasses for the Authorities<<](https://www.schneier.com/blog/archives/2026/05/smart-glasses-for-the-authorities.html) - Damit ist alles gesagt. Dies ist auch der Grund, warum das Gelumpe als "hip" verkauft wird, die Konzerne benötigen Daten.
 * [>>Die europäische Polizeibehörde Europol hat offenbar jahrelang eine Schatten-IT betrieben.<<](https://netzpolitik.org/2026/correctiv-recherche-europol-betreibt-mutmasslich-illegale-datenanalyseplattformen/) - Warum sollte Europol auch anders als andere Geheimdienste sein?
+* [python flet wurde in der Version 0.85.0 veröffentlicht.](https://github.com/flet-dev/flet/releases/tag/v0.85.0)
+* [mergerfs wurde in der Version 2.42.0 veröffentlicht.](https://github.com/trapexit/mergerfs/releases/tag/2.42.0)
+* [betterleaks wurde in der Version 1.2.0 veröffentlicht.](https://github.com/betterleaks/betterleaks/releases/tag/v1.2.0)
