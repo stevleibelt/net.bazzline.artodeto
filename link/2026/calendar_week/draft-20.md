@@ -34,3 +34,11 @@
 * [Die US-Bevölkerung scheint damit angefangen zu haben ihre Umwelt aufzuräumen](https://www.goodnewsnetwork.org/study-shows-litter-declined-34-across-america-since-2020/).
 * Nein? Doch! Oh? [>>The tax code isn’t computer code, but it’s a series of algorithms with inputs and outputs. It has vulnerabilities; we call them tax loopholes. It has exploits; we call them tax avoidance strategies. And it has black hat hackers: attorneys and accountants.<<](https://www.schneier.com/blog/archives/2026/05/how-dangerous-is-anthropics-mythos-ai.html) - Auch im Rechtssystem wird es zu einer gesteigerten Ausnutzung kommen. Reiche Leute können sich teure LLM's nutzen, gleichzeitig werden alle öffentlichen Behörden mit LLM Endlostexten verstopft werden.
 * [Vom 11.09.2026 bis zum 13.09.2026 finden die MRMCD in Darmstadt statt.](https://events.ccc.de/2026/05/14/mrmcd2026/)
+* [Miniflux wurde in der Version 2.3.0 veröffentlicht.](https://github.com/miniflux/v2/releases/tag/2.3.0)
+* [python-statemachine wurde in der Version 3.1.0 veröffentlicht.](https://github.com/fgmacedo/python-statemachine/releases/tag/v3.1.0)
+* [PHPMailer wurde in der Version 7.1.0 veröffentlicht.](https://github.com/PHPMailer/PHPMailer/releases/tag/v7.1.0)
+* [SkeySend wurde in der Version 2.9.0 veröffentlicht.](https://github.com/Skyfay/SkySend/releases/tag/v2.9.0)
+* Cloud Computer machen Cloud Computer Dinge, [IONOS zeigt Verzeichnisse von andern Kunden](https://borncity.com/blog/2026/05/16/ionos-fremde-ordner-bei-hosted-exchange-public-foldern-angezeigt/)
+* [freecodecamp.org zeigt euch wie ihr mit TKinter in Python nutzt](https://www.freecodecamp.org/news/build-a-calculator-with-tkinter-in-python/)
+* Kapitalist tut kapitalistische Dinge, [bedenken second! - Karsten Wildberger möchte den Datenschutz abschaffen](https://netzpolitik.org/2026/digitalministerkonferenz-wildberger-will-datenschutz-fuer-ki-einsatz-in-der-verwaltung-schleifen/) - Mit Logik wird nicht argumentiert, reflektiert auch nicht, stattdessen ist das Ziel alle Bürgerdaten in die USA zu verkaufen
+* Die Wissenschaft zeigt täglich, dass die [Erderwärmung reduziert werden muss](https://www.deutschlandfunk.de/atlantische-umwaelzstroemung-amoc-100.html) - Gleichzeitig die fossile Lobbyminister "Lass das mal, mit den Wärmepumpen"
