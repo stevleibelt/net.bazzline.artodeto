@@ -20,3 +20,15 @@
 * [Prinz William verkauft Eigentum um Naturschutzgebiete und bezahlbare Häuser zu erschaffen](https://www.goodnewsnetwork.org/prince-william-to-sell-20-of-his-duchy-landholdings-to-build-affordable-housing-and-restore-nature/)
 * [>>Der Chaos Computer Club (CCC) hat im Verfahren gegen das Hessische Gesetz über die öffentliche Sicherheit und Ordnung (HSOG) eine Stellungnahme zur automatisierten Datenanalyse an das Bundesverfassungsgericht abgegeben.<<](https://www.ccc.de/de/updates/2026/palantir-hsog)
 * [Der python redis_exporter wurde in der Version 1.84.0 veröffentlicht.](https://github.com/oliver006/redis_exporter/releases/tag/v1.84.0)
+* [Bitwarden ist gefallen :-(](https://blog.ppb1701.com/the-quiet-renovation-at-bitwarden) - Danke an [onli](https://www.onli-blogging.de/2643/Linksammlung-212026.html) für den Hinweis
+* [>>I strongly believe there are entire companies right now under heavy AI psychosis and its impossible to have rational conversations about it with them. [...]<<](https://xcancel.com/mitchellh/status/2055380239711457578) - Dem muss ich mich anschließen. Wir leben in einer post-faktischen Zeit.
+* Wieder ein Beispiel dafür, dass "Bedenken Second" scheiße ist. [Unimed](https://borncity.com/blog/2026/05/22/gesundheitsdienstleister-unimed-im-april-2026-durch-cyberangriff-getroffen/), als Abrechnungsdienstleister von ärtzlichen Leistungen hat alle Kundendaten verloren.
+* [>>With little attention to the code, vibed software can rapidly produce many lines of code of a very low quality.<<](https://martinfowler.com/bliki/VibeCoding.html)
+* [>>Tannennadeln sind echte Kraftpakete. Sie stecken voller ätherischer Öle und reichlich Vitamin C.<<](https://www.kostbarenatur.net/zitronen-tannennadel-risotto-so-holst-du-dir-den-wald-auf-den-teller/) - Ein Rezept, wo man Tannennadeln nutzt. Ich bin schwer beeindruckt!
+* [chipStar wurde in der VErsion 1.3.0 veröffentlicht.](https://github.com/CHIP-SPV/chipStar/releases/tag/v1.3.0)
+* [>>Den Abbau der Demokratie durch Oligarchen und Krieger stoppen!<<](https://katika-kuehnreich.com/blog/2026/05/21/konferenz-in-bonn-radikal-fuer-demokratie-2026/) - Vom 26.06.2026 bis zum 28.06.2026 findet im Gustav Stresemann-Institut e.V. (Bonn) eine Konferenz statt
+* [>>[...] Don't forget that clearing caches is one of the most difficult parts of software development. [...]<<](https://stitcher.io/blog/static_sites_vs_caching)
+* [>>Die USA belegten HateAid-Geschäftsführerin Josephine Ballon und ihre Kollegin mit Einreiseverboten – weil sie dabei helfen, EU-Gesetze gegen Plattformen durchzusetzen.<<](https://netzpolitik.org/2026/hateaid-nach-us-einreiseverbot-wir-sollten-nicht-fuerchten-muessen-vor-den-bus-geschubst-zu-werden/) - Das muss die große Freiheit sein, von dem die US-Amerikaner immer so schön reden.
+* [jan wurde in der Version 0.8.0 veröffentlicht.](https://github.com/janhq/jan/releases/tag/v0.8.0)
+* [nextcloud news wurde in der Version 28.4.0 veröffentlicht.](https://github.com/nextcloud/news/releases/tag/28.4.0)
+* [js-lingui wurde in der Version 6.1.0 veröffentlicht.](https://github.com/lingui/js-lingui/releases/tag/v6.1.0)
