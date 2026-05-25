@@ -1,0 +1,4 @@
+* [LocalAI wurde in der Version 4.3.0 veröffentlicht.](https://github.com/mudler/LocalAI/releases/tag/v4.3.0)
+* [>>[...] right now, few or no robots or crawlers will make that HTTP POST request; they only do HTTP GETs<< [...]](https://utcc.utoronto.ca/~cks/space/blog/web/RobotsVsLowAttentionWebsites)
+* [Varnish nennt sich jetzt vinyl-cache](https://archlinux.org/news/breaking-changes-for-all-users-of-varnish-which-is-renamed-to-vinyl-cache/)
+* [>>[...]Die Buchung Ihres Urlaubs mithilfe einer experimentellen agentenbasierten KI ist das digitale Äquivalent dazu, Ihr entsperrtes Handy und Ihre Brieftasche einem Fremden auf der Straße zu übergeben, der ein Schild hochhält, auf dem steht: ‚Ich bin gut darin, günstige Flüge zu finden.' [...]<<](https://borncity.com/blog/2026/05/25/agentische-ki-die-bombe-die-jederzeit-hoch-gehen-kann/)
