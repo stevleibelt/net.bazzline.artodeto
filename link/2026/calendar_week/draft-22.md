@@ -2,3 +2,8 @@
 * [>>[...] right now, few or no robots or crawlers will make that HTTP POST request; they only do HTTP GETs<< [...]](https://utcc.utoronto.ca/~cks/space/blog/web/RobotsVsLowAttentionWebsites)
 * [Varnish nennt sich jetzt vinyl-cache](https://archlinux.org/news/breaking-changes-for-all-users-of-varnish-which-is-renamed-to-vinyl-cache/)
 * [>>[...]Die Buchung Ihres Urlaubs mithilfe einer experimentellen agentenbasierten KI ist das digitale Äquivalent dazu, Ihr entsperrtes Handy und Ihre Brieftasche einem Fremden auf der Straße zu übergeben, der ein Schild hochhält, auf dem steht: ‚Ich bin gut darin, günstige Flüge zu finden.' [...]<<](https://borncity.com/blog/2026/05/25/agentische-ki-die-bombe-die-jederzeit-hoch-gehen-kann/)
+* [>>Lasst uns bitte die Bewertung dieser Enzyklika trennen von der Fundamentalkritik an der katholischen Kirche. [...]<<](https://borncity.com/blog/2026/05/26/ki-splitter-1-die-enzyklika-von-papst-leo-xiv/)
+* [Nein? Doch! Oh? Litauen, das magische Vorbild der Digitalisierung, hat soeben 600.000 Datensätze seiner Bürger verloren.](https://borncity.com/blog/2026/05/26/massiver-hack-tangiert-600-000-datensaetze-von-litauern/)
+* Wie sicher sind eure Daten in eurer privat gemieteten Cloud? [Nicht so sehr, passt es dem LLM nicht, wird eurer zentrales Konto gesperrt.](https://borncity.com/blog/2026/05/25/google-sperrt-konto-von-manga-zeichner-der-ist-danach-digital-tot/) - Zentralisierung und direkte Abhängigkeit von einem Konzern ist immer schlecht.
+* [Lachen hilft euren Kindern resilienter zu werden.](https://www.goodnewsnetwork.org/making-children-laugh-can-help-make-their-brains-more-resilient/)
+* [feishin wurde in der Version 1.12.0 veröffentlicht.](https://github.com/jeffvli/feishin/releases/tag/v1.12.0)
