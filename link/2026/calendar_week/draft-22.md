@@ -22,3 +22,9 @@
 * Wichtige Liste: [Don't Roll Your Own ...](https://susam.net/do-not-roll-your-own.html) - Danke an [onli-logging.de](https://www.onli-blogging.de/2644/Linksammlung-222026.html)
 * [Rust wurde in der Version 1.96.0 veröffentlicht.](https://blog.rust-lang.org/2026/05/28/Rust-1.96.0/)
 * [>>In den USA sollen Krypto- und Prognosemärkte so unreguliert wie möglich wachsen können – und Familie Trump profitiert mit.<<](https://netzpolitik.org/2026/hype-um-prognosemaerkte-haelt-an-wetten-dass-familie-trump-gewinnt/) - Die Bank gewinnt immer, bei jedem Glücksspiel!
+* [Genode OS wurde in der Version 26.05 veröffentlicht.](https://genode.org/documentation/release-notes/26.05)
+* [Ein Friedhof in New York bietet Heimat für über fünf Millionen Bienen.](https://www.goodnewsnetwork.org/a-new-york-cemetery-was-hiding-over-5-million-burrowing-bees-one-of-the-worlds-largest-concentrations/)
+* [VW und Audi vernageln ihre Autos jetzt auch.](https://borncity.com/blog/2026/05/29/vw-und-audi-sperren-api-schnittstelle-smart-home-blackout-seit-27-05-2026-teil-1/) - Ihr besitzt nichts, ihr dürft täglich an unseren Segen glauben, dass ihr unsere Ware nutzen dürft und das es kein Elektroschrott ist.
+* [Die Angst vor Staatsgewalt wächst in den USA, der Wiederstand bricht zusammen.](https://www.schneier.com/blog/archives/2026/05/chilling-effects.html)
+* [rqlite wurde in der Version 10.2.0 veröffentlicht.](https://github.com/rqlite/rqlite/releases/tag/v10.2.0)
+* [php soap-client wurde in der Version 6.2.0 veröffentlicht.](https://github.com/phpro/soap-client/releases/tag/6.2.0)
