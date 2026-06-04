@@ -18,3 +18,11 @@
 * [openfoodnetwork wurde in der Version 5.5.0 veröffentlicht.](https://github.com/openfoodfoundation/openfoodnetwork/releases/tag/v5.5.0)
 * [mStream wurde in der Version 6.10.0 veröffentlicht.](https://github.com/IrosTheBeggar/mStream/releases/tag/v6.10.0)
 * [js-lingui wurde in der Version 6.2.0 veröffentlicht.](https://github.com/lingui/js-lingui/releases/tag/v6.2.0)
+* Da war ich leider nicht der Erste: Epstein, Epstein, alles muss versteckt sein
+* [Mehrzweckeier](https://www.langenscheidt.com/jugendwort-des-jahres)
+* [Hier wird euch erklärt, wie ihr Daten in Python aus PDF-Dateien extrahiert.](https://www.freecodecamp.org/news/how-to-automate-pdf-data-extraction-using-python/)
+* [Die Gemeinschaft in Kleinwaltersdorf zeigt weiterhin wie es geht und erweitert den Spielplatz um zwei weitere Holzattraktionen.](https://kleinwaltersdorf.de/index.php/2026/06/03/der-spielplatz-in-kleinwaltersdorf-nimmt-gestalt-an/)
+* Ein weiterer Ruck nach Rechts: [>>Europaparlament und Regierungen verschärfen die Abschieberegeln. Auch Abschiebezentren in Drittstaaten und Razzien nach dem Vorbild der US-Abschiebe-Miliz ICE werden möglich. [...]<<](https://netzpolitik.org/2026/eu-rat-und-parlament-einigen-sich-ein-abschieberegime-von-dem-rechtsextreme-getraeumt-haben/) - Auch das europäische Volk wird von den marktfreien Personen zu einem Unrechtsstaat umgebaut.
+* Nach Google nun auch Microsoft, die Phase der kostenlosen Drogen sind vorbei, [ab jetzt wird kassiert!](https://borncity.com/blog/2026/06/03/github-drama-2-kostenexplosion-bei-copilot-seit-1-juni-2026/)
+* [>>Der norwegische Verbraucherschutzverband (Forbrukerrådet) und noyb haben heute eine Beschwerde gegen den norwegischen Nachrichtenverlag Schibsted eingereicht, weil dieser ein „Pay or Okay“-System eingeführt hat.<<](https://noyb.eu/de/nordic-media-giant-schibsted-switches-pay-or-okay-complaint-filed)
+* [Github im VSCode ist kaputt.](https://borncity.com/blog/2026/06/03/github-drama-1-sicherheitsforscher-veroeffentlicht-0-day-schwachstelle/)
