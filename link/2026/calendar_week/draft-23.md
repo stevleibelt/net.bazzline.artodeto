@@ -47,3 +47,4 @@
 * [LANCommander wurde in der Version 2.1.0 veröffentlicht.](https://github.com/LANCommander/LANCommander/releases/tag/v2.1.0)
 * [structlog wurde in der Version 26.1.0 veröffentlicht.](https://github.com/hynek/structlog/releases/tag/26.1.0)
 * [paratest wurde in Version 7.23.0 veröffentlicht.](https://github.com/paratestphp/paratest/releases/tag/v7.23.0)
+* [Asynchrone Programmierung sieht mittlerweile überall gleich aus.](https://stitcher.io/blog/asynchronous-php) - Und das ist was gutes, die API für den Entwickler sollte einfach sein. Die Details darf die Bibliothek gern im Hintergrund lösen.
