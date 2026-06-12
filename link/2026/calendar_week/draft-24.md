@@ -19,3 +19,6 @@
 * [Vor 91 Jahren wurden die anonymen Alkoholiker gegründet.](https://www.goodnewsnetwork.org/events060610/) - Neben dem eigentlichen Problem, haben sie es vor allem Geschafft, dass "die Abhängigkeit" an sich in das Licht von öffentlichen und tolleranten Debatten geholt wird. Den Einfluss der Alkohollobby in die deutsche Leitkultur hat es leider noch nicht geschadet.
 * [Am 13.06.2026 wird in Berlin gegen eine automatisierte Überwachung und Verurteilung durch LLM's im öffentlichen Raum demonstriert.](https://netzpolitik.org/2026/demo-gegen-ueberwachung-wir-koennen-die-welle-brechen/)
 * [Nur die Grünen und die Linken stimmen dagegen, dass sich der Staat auf illegalen Marktplätzen personenbezogene Daten zur massenhaften und anstandslosen Überwachung von Bürgern mit Steuergelder kauft.](https://netzpolitik.org/2026/databroker-deals-der-polizei-opposition-fordert-aufklaerung-in-acht-bundeslaendern/)
+* [PenPot wurde in der Version 2.16.0 veröffentlicht.](https://github.com/penpot/penpot/releases/tag/2.16.0)
+* [LocalAI wurde in der Version 4.4.0 veröffentlicht.](https://github.com/mudler/LocalAI/releases/tag/v4.4.0)
+* [js-lingui wurde in der Version 6.3.0 veröffentlicht.](https://github.com/lingui/js-lingui/releases/tag/v6.3.0)
