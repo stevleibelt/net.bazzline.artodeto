@@ -18,3 +18,8 @@
 * [Wieder etwas gelernt](https://www.phoronix.com/news/Linux-7.2-Reading-Proc-FS), `cat /proc/filesystems` zeigt an, welche Dateisysteme euer Linux so verarbeiten kann
 * [>>Vorratsdatenspeicherung macht das Einhorn traurig<<](https://netzpolitik.org/2026/proteste-gegen-polizeigesetz-verschaerfungen-eine-welle-von-widerstand/)
 * [Kleinwaltersdorf bleibt stabil und zeigt wie Zusammenhalt funktioniert - einmal mehr.](https://kleinwaltersdorf.de/index.php/2026/06/15/dank-spende-sandkasten-bereichert-den-spielplatz/) - Ein Sandkasten befindet sich nun im Spielplatz. Dank euch vor euer Vorbild!
+* [Ubuntu-Server erscheint mir wegen Netplan einfach keine gute Lösung zu sein.](https://utcc.utoronto.ca/~cks/space/blog/linux/UbuntuNetplanWaitForCarrier)
+* [Hier wird euch gezeigt, wie ihr unter Linux ein NTFS mit Bitlocker einhängt.](https://www.endpointdev.com/blog/2026/02/how-to-mount-a-bitlocker-drive-on-linux-at-login/) - `dislocker` und `ntfs-3` sind hier der Schlüssel
+* [Das Gericht stimmt den Aussagen von "Die Republik" über Palantir zu.](https://netzpolitik.org/2026/schweiz-die-republik-setzt-sich-gegen-palantir-durch/) - Alles, was "die Republik" geschrieben hat, entspricht den Tatsachen. TL;DR: Palantir ist ein Paradebeispiel eines Konzerns.
+* [dramatiq wurde in der Version 2.2.0 veröffentlicht.](https://github.com/Bogdanp/dramatiq/releases/tag/v2.2.0)
+* [Selenium wurde in der Version 4.45.0 veröffentlicht.](https://github.com/SeleniumHQ/selenium/releases/tag/selenium-4.45.0)
