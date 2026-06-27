@@ -41,3 +41,8 @@
 * [Fotzenfritz und Gaskathi sparen wo es sich lohnt, 22 Millionen Euro setzen Ende 2026 unabhängige Berater für Asylrecht auf die Straße.](https://netzpolitik.org/2026/asylpolitik-auskunft-ist-keine-beratung/) - CDU wie immer, Einschnitte für alles unterhalb der Marktfreien!
 * [Deno wurde in der Version 2.9.0 veröffentlicht.](https://github.com/denoland/deno/releases/tag/v2.9.0)
 * [SingularityCE wurde in der Version 4.5.0 veröffentlicht.](https://github.com/sylabs/singularity/releases/tag/v4.5.0)
+* [mStream wurde in der Version 6.14.0 veröffentlicht.](https://github.com/IrosTheBeggar/mStream/releases/tag/v6.14.0)
+* [betterleaks wurde in der Version 1.6.0 veröffentlicht.](https://github.com/betterleaks/betterleaks/releases/tag/v1.6.0)
+* [>>"Traditionelle DLP-Systeme" waren uns sind Schlangenöl und werden es auch sein. Wer Daten "raustragen" will, der wird es tun und auch an diesen DLP-Systemen vorbei auch immer können, ob mit oder ohne AI Buzzwords.<<](https://borncity.com/blog/2026/06/27/data-loss-prevention-shadow-ai-als-grosses-risiko/#comment-259818)
+* [>>[...] Effektiver Kinderschutz braucht gezielte Strafverfolgung keine Massenüberachung<<](https://gi.de/meldung/chatkontrolle-durch-die-hintertuer)
+* [>>EP-Präsidentin Metsola (EVP) versucht, die temporäre Chatkontrolle 1.0 (Interimsverordnung) wiederzubeleben. Dieser Schritt ignoriert völlig die Tatsache, dass das Europäische Parlament dies im März in erster Lesung klar abgelehnt hat – mit den Stimmen der EVP. [...]<<](https://www.patrick-breyer.de/doppelte-gefahr-fuer-private-kommunikation-undemokratische-hinterzimmer-deals-zur-chatkontrolle-lassen-widerstand-wieder-aufflammen/) - So ist das, wenn marktfreie Lobby-U-Boot gegen die eigenen Wähler arbeitet
