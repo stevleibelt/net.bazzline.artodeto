@@ -46,3 +46,7 @@
 * [>>"Traditionelle DLP-Systeme" waren uns sind Schlangenöl und werden es auch sein. Wer Daten "raustragen" will, der wird es tun und auch an diesen DLP-Systemen vorbei auch immer können, ob mit oder ohne AI Buzzwords.<<](https://borncity.com/blog/2026/06/27/data-loss-prevention-shadow-ai-als-grosses-risiko/#comment-259818)
 * [>>[...] Effektiver Kinderschutz braucht gezielte Strafverfolgung keine Massenüberachung<<](https://gi.de/meldung/chatkontrolle-durch-die-hintertuer)
 * [>>EP-Präsidentin Metsola (EVP) versucht, die temporäre Chatkontrolle 1.0 (Interimsverordnung) wiederzubeleben. Dieser Schritt ignoriert völlig die Tatsache, dass das Europäische Parlament dies im März in erster Lesung klar abgelehnt hat – mit den Stimmen der EVP. [...]<<](https://www.patrick-breyer.de/doppelte-gefahr-fuer-private-kommunikation-undemokratische-hinterzimmer-deals-zur-chatkontrolle-lassen-widerstand-wieder-aufflammen/) - So ist das, wenn marktfreie Lobby-U-Boot gegen die eigenen Wähler arbeitet
+* [documenso wurde in der Version 2.14.0 veröffentlicht.](https://github.com/documenso/documenso/releases/tag/v2.14.0)
+* [invidious wurde in der Version 2.20260626.0 veröffentlicht.](https://github.com/iv-org/invidious/releases/tag/v2.20260626.0)
+* [Das BSZ Julius Weisbach in Freiberg zeigt, dass es noch Momente gibt wo man als Elternteil neidisch auf die eigenen Kinder sein kann, was sie für Möglichkeiten haben.](https://www.youtube.com/watch?v=xSqwLVDM01c)
+* [Heute ist der Tag des Tau.](https://www.tauday.com/)
