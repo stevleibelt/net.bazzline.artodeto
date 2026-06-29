@@ -1,0 +1,8 @@
+* [php Valinor wurde in der Version 2.5.0 veröffentlicht.](https://github.com/CuyZ/Valinor/releases/tag/2.5.0)
+* [php infection wurde in der Version 0.34.0 veröffentlicht.](https://github.com/infection/infection/releases/tag/0.34.0)
+* [czkawka wurde in der Version 12.0.0 veröffentlicht.](https://github.com/qarmin/czkawka/releases/tag/12.0.0)
+* [peewee wurde in der Version 4.1.0 veröffentlicht.](https://github.com/coleifer/peewee/releases/tag/4.1.0)
+* [>>[...] blocking all 'Googlebot' activity that isn't from one of their listed IP ranges is an obvious thing to do.<<](https://utcc.utoronto.ca/~cks/space/blog/web/GooglebotImpersonatorPlague) - Danke, google, ihr kackt Probleme in die Welt und ich muss mich privat darum kümmern um eure Scheiße von mir fern zu halten.
+* [Matthias Eberl schreibt auf Kuketz über vier Alternativen zu Bandcamp und co.](https://www.kuketz-blog.de/graswurzel-musik-plattformen-spotify-alternativen-teil-4/) - Spannend für mich war die Erkenntniss, dass es Firmen gibt die genossenschaftlich aufgebaut sind.
+* [Mit CVE-2026-46331 aka pedit COW gibt es wieder ein Problem in den Linux Kernels.](https://borncity.com/blog/2026/06/28/pedit-cow-linux-schwachstelle-cve-2026-46331-ermoeglicht-root/) - Debian Trixi 6.12.94-1 ist sicher. Laut [hier](https://borncity.com/blog/2026/06/28/pedit-cow-linux-schwachstelle-cve-2026-46331-ermoeglicht-root/#comment-259955) regelt `echo 'install act_pedit /bin/true' | sudo tee /etc/modprobe.d/disable_act_pedit.conf`
+* [>>Überwachung macht Spaß, wenn man es selbst tut. Mit dem Gefühl, Kontrolle über Andere zu haben, vermarkten Großkonzerne ihre neuen Überwachungssysteme für den privaten Gebrauch. [...]<<](https://netzpolitik.org/2026/breakpoint-whos-your-big-brother/)
