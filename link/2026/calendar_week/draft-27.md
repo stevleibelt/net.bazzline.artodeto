@@ -6,3 +6,7 @@
 * [Matthias Eberl schreibt auf Kuketz über vier Alternativen zu Bandcamp und co.](https://www.kuketz-blog.de/graswurzel-musik-plattformen-spotify-alternativen-teil-4/) - Spannend für mich war die Erkenntniss, dass es Firmen gibt die genossenschaftlich aufgebaut sind.
 * [Mit CVE-2026-46331 aka pedit COW gibt es wieder ein Problem in den Linux Kernels.](https://borncity.com/blog/2026/06/28/pedit-cow-linux-schwachstelle-cve-2026-46331-ermoeglicht-root/) - Debian Trixi 6.12.94-1 ist sicher. Laut [hier](https://borncity.com/blog/2026/06/28/pedit-cow-linux-schwachstelle-cve-2026-46331-ermoeglicht-root/#comment-259955) regelt `echo 'install act_pedit /bin/false' | sudo tee /etc/modprobe.d/disable_act_pedit.conf`
 * [>>Überwachung macht Spaß, wenn man es selbst tut. Mit dem Gefühl, Kontrolle über Andere zu haben, vermarkten Großkonzerne ihre neuen Überwachungssysteme für den privaten Gebrauch. [...]<<](https://netzpolitik.org/2026/breakpoint-whos-your-big-brother/)
+* [TagStudio wurde in der Version Alpha 9.6.0 veröffentlicht.](https://github.com/TagStudioDev/TagStudio/releases/tag/v9.6.0)
+* [Playwright Python wurde in der Version 1.61.0 veröffentlicht.](https://github.com/microsoft/playwright-python/releases/tag/v1.61.0)
+* [git wurde in der Version 2.55.0 veröffentlicht.](https://lwn.net/Articles/1080188/)
+* [>>A Bloom filter is a bit array plus a few hash functions.<<](https://www.freecodecamp.org/news/how-bloom-filters-work-build-one-from-scratch-python/)
