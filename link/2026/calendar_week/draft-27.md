@@ -38,3 +38,4 @@
 * [LibreBooking wurde in der Version 5.2.0 veröffentlicht.](https://github.com/LibreBooking/librebooking/releases/tag/v5.2.0)
 * [Kuketz zeigt euch, wie ihr Instagramm etc. den Mittelfinger zeigt und lieber zum Federvise geht.](https://www.kuketz-blog.de/unplugbigtech-das-fediverse-als-alternative-zu-x-instagram-und-facebook-teil-7/)
 * Wie cool ist diese Leihgesellschaft? [PlayStation löscht über 500 Filme für die die Kunden bereits bezahlt haben.](https://kotaku.com/playstation-store-movies-digital-studio-canal-terminator-2000711013)
+* Schade, dass die "neuen Bundesländer" wieder zu erst leiden müssen. Die Löhne sind niedriger, es werden mehr Stunden gearbeitet, kaum eine Familie konnte deswegen seit Jahrzehnten Rücklagen bilden und da dort keine DAX-Hauptsitze sind, werden diese Arbeitnehmer bei schlechter Marktlage zu Hauf geopfert, bevor im Stammsitz über den Sinn des dritten Hausmeisters hinterfragt wird.
