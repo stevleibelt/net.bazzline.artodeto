@@ -1,0 +1,6 @@
+* [MySQLTuner-perl wurde in der Version 2.9.0 veröffentlicht.](https://github.com/major/MySQLTuner-perl/releases/tag/V2.9.0)
+* [mStream wurde in der Version 6.16.0 veröffentlicht.](https://github.com/IrosTheBeggar/mStream/releases/tag/v6.16.0)
+* [D7VK wurde in der Version 1.12.0 veröffentlicht.](https://www.phoronix.com/news/D7VK-1.12)
+* [>>Datenschützer warnen vor Grundrechtseingriffen massivster Art, und IT-Experten warnen vor ungeprüften Updates und Kontrollverlust bei der Software. Der Freistaat hat, trotz Warnungen und ohne saubere Grundlage, bisher 13,4 Mio. Euro Steuergelder für eine US-Blackbox mit erheblichen verfassungsrechtlichen Risiken versenkt. Die CSU verkauft Kontrollverlust als Sicherheit, heißt es. Details hat Erik Bärwaldt im dreiteiligen Artikel für Golem nachgezeichnet.<<](https://borncity.com/blog/2026/07/06/bayern-kontrollverlust-bei-palantir/)
+* [Kuketz zeigt euch Alternativen zu den großen VPN-Anbietern auf.](https://www.kuketz-blog.de/empfehlenswerte-vpn-alternativen-zu-mullvad-und-proton/)
+* [Roundcube wurde in der Version 1.7.2 veröffentlicht.](https://github.com/roundcube/roundcubemail/releases/tag/1.7.2)
