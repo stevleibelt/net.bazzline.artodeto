@@ -1,5 +1,5 @@
 * [LocalAI wurde in de rVersion 4.7.0 veröffentlicht.](https://github.com/mudler/LocalAI/releases/tag/v4.7.0)
-* [FreeRDP wurde in der Version 3.29.0 veröffentlicht.](https://github.com/FreeRDP/FreeRDP/releases/tag/3.29.0)
+* [FreeRDP wurde in der Version 3.30.0 veröffentlicht.](https://github.com/FreeRDP/FreeRDP/releases/tag/3.30.0)
 * [cerberus core wurde in der Version 5.0.0 veröffentlicht.](https://github.com/cerberustesting/cerberus-core/releases/tag/cerberus-testing-5.0)
 * [feishin wurde in der Version 1.14.0 veröffentlicht.](https://github.com/jeffvli/feishin/releases/tag/v1.14.0)
 * [FokusLauncher wurde in der Version 1.8.0 veröffentlicht.](https://github.com/luantak/FokusLauncher/releases/tag/v1.8.0)
@@ -33,3 +33,6 @@
 * [SUN muss eine so geile Firma gewesen sein, ich wusste bisher nicht, dass die auch NFS erfunden haben.](https://utcc.utoronto.ca/~cks/space/blog/solaris/SunOSDisklessWithoutNFS)
 * [Sachsen macht sich selbst kaputt, nur noch wenige Gebiete können sich selbst reparieren und vor dem Wetter schutz bieten.](https://sachsen.nabu.de/news/2026/37341.html) - Gleichzeitig zeigt der Bericht auch, Renaturierung wirkt sehr schnell.
 * [Hier werdet ihr an grundlegende Bewegungen erinnert, für die euer Körper gemacht wurde.](https://franzsnideman.substack.com/p/the-5-forgotten-movements-that-keep?r=oc5d&triedRedirect=true) - Gleichzeitig helfen diese Übungen Blockaden und Verspannungen zu lösen.
+* [typer wurde in der Version 0.27.0 veröffentlicht.](https://github.com/fastapi/typer/releases/tag/0.27.0)
+* [Neben dem Sozialstaat will die CxU auch den Datenschutz abschaffen.](https://netzpolitik.org/2026/reformpaket-schwarz-rot-will-99-prozent-der-deutschen-unternehmen-vom-datenschutz-ausnehmen/)
+* [Apropos CxU, die Christen ... wo Gesetze nur für den Pöbel gelten.](https://tuxproject.de/blog/2026/07/der-liebe-gott-freut-sich-ueber-jedes-kind/)
