@@ -52,3 +52,6 @@
 * [Sonneborn hat eine neue Webseite, leider ohne RSS oder Atom](https://parteieuropa.eu/) und damit zukünftig ohne mich
 * [Nachdem die europäischen Pharmakonzerne ohne Herz alles nach China ausgelagert haben, bauen Sie nun Druck mit "der Abhängigkeit" auf.](https://www.deutschlandfunk.de/medikamente-china-biotech-europa-100.html)
 * [Nach der Weltraumtheorie nun die "sind ja alles öffentliche Daten"-Theorie](https://netzpolitik.org/2026/aufruestung-der-geheimdienste-innenministerium-laesst-datenkaeufe-in-der-grauzone/) - Da die deutschen Geheimdienste illegale Daten im Darknet kauft, stuft es diese Daten einfach als "allgemein zugänglich" ein und schwuppst, ist die Verschwendung der Steuergelder rechtlich OK.
+* [feishin wurde in der Version 1.15.0 veröffentlicht.](https://github.com/jeffvli/feishin/releases/tag/v1.15.0)
+* [nuxt wurde in der Version 4.5.0 veröffentlicht.](https://github.com/nuxt/nuxt/releases/tag/v4.5.0)
+* [Das BSI darf mal wieder nur schöne Anleitungen für Arztpraxen herausgeben.](https://borncity.com/blog/2026/07/19/bsi-kurzleitfaden-fuer-cybersicherheit-in-arztpraxen/) - Arztpraxen mussen dem Bundesgesetz genügen, warum es da kein Bundes-Arztpraxen-OS gibt, verstehen nur Lobbyhuren.
