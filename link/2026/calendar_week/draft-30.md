@@ -1,0 +1,4 @@
+* [Europa möchte durch TiBeRIUM grün werden.](https://tiberium-horizon.com/) - Das kollidiert hart mit meiner "Erfahrung" als PC-Spieler
+* [Vom 02.10.2026 bis zum 04.10.2026 finden in Hamburg die DIDAYS statt.](https://events.ccc.de/2026/07/19/didays-2026-hamburg/) - Ich bin da gerade in einer anderen Hansestadt unterwegs, aber ihr könnt ja hingehen.
+* [xobbu.com hat Schwungübungen veröffentlicht.](https://www.xobbu.com/schwunguebungen-zum-ausdrucken/) - Das sind Übungen zur Schriftführung, die auch Erwachsene machen sollten. Feinmotorik ist ein hohes Gut, was ich mir auch im Alter erhalte.
+* [>>Das Gutachten macht unmissverständlich klar, dass öffentliche Stellen sich in ihren Ausschreibungen auf Open Source Software festlegen können. Das ist wichtig, weil bei vielen Verwaltungsmitarbeitenden immer noch Unsicherheiten vorherrschen. [...]<<](https://borncity.com/blog/2026/07/20/bundestags-gutachten-open-source-first-ist-vergaberechtlich-zulaessig/)
