@@ -6,3 +6,8 @@
 * [documenso wurde in der Version 2.15.0 veröffentlicht.](https://github.com/documenso/documenso/releases/tag/v2.15.0)
 * [naps2 wurde in der Version 8.3.0 veröffentlicht.](https://github.com/cyanfish/naps2/releases/tag/v8.3.0)
 * [vufind wurde in der Version 11.1.0 veröffentlicht.](https://github.com/vufind-org/vufind/releases/tag/v11.1.0)
+* [Schwarz Digits baut eine EU-Cloud ... und nutzt US-Software in US-Clouds](https://borncity.com/blog/2026/07/21/verraten-und-verkauft-schwarz-digits-xm-cyber-und-crowdstrike/) - Kurzum, Schwarz Digits ist verloren und jede Daten von euch gehören den USA
+* [2024 hat die Polizei bundesweit aller fünf Tage einen privaten Computer gehackt.](https://netzpolitik.org/2026/justizstatistik-2024-polizei-hackt-alle-fuenf-tage-mit-staatstrojanern/) - Tendenz rapide steigend
+* [>>Code generation is no longer the bottleneck — verification is.<<](https://martinfowler.com/fragments/2026-07-21.html)
+* [>>Der autoritäre Umbau in den USA ist auch das Ergebnis einer Entwicklung, in der Überreiche ihre wirtschaftliche Macht systematisch in politische Macht übersetzen. [...]<<](https://www.lobbycontrol.de/reichtum-und-einfluss/wie-trump-netzwerke-die-afd-an-die-macht-bringen-wollen-125965/)
+* [>>As we saw with this tiny example, Claude Code may follow the yes-man attitude even when we ask to review a document. If we want an honest answer, we need to put in extra effort in our prompt or use a hack like /brutal to get what we ask for.<<](https://improveandrepeat.com/2026/07/when-claude-code-lies-to-you/) - LLM's sind also reine "Ja-Sager"
