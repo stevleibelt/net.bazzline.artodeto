@@ -11,3 +11,5 @@
 * [>>Code generation is no longer the bottleneck — verification is.<<](https://martinfowler.com/fragments/2026-07-21.html)
 * [>>Der autoritäre Umbau in den USA ist auch das Ergebnis einer Entwicklung, in der Überreiche ihre wirtschaftliche Macht systematisch in politische Macht übersetzen. [...]<<](https://www.lobbycontrol.de/reichtum-und-einfluss/wie-trump-netzwerke-die-afd-an-die-macht-bringen-wollen-125965/)
 * [>>As we saw with this tiny example, Claude Code may follow the yes-man attitude even when we ask to review a document. If we want an honest answer, we need to put in extra effort in our prompt or use a hack like /brutal to get what we ask for.<<](https://improveandrepeat.com/2026/07/when-claude-code-lies-to-you/) - LLM's sind also reine "Ja-Sager"
+* [Penpot wurde in der Version 2.17.0 veröffentlicht.](https://github.com/penpot/penpot/releases/tag/2.17.0)
+* [streamlit wurde in der Version 1.60.o veröffentlicht.](https://github.com/streamlit/streamlit/releases/tag/1.60.0)
