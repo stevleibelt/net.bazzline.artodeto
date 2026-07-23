@@ -13,3 +13,11 @@
 * [>>As we saw with this tiny example, Claude Code may follow the yes-man attitude even when we ask to review a document. If we want an honest answer, we need to put in extra effort in our prompt or use a hack like /brutal to get what we ask for.<<](https://improveandrepeat.com/2026/07/when-claude-code-lies-to-you/) - LLM's sind also reine "Ja-Sager"
 * [Penpot wurde in der Version 2.17.0 veröffentlicht.](https://github.com/penpot/penpot/releases/tag/2.17.0)
 * [streamlit wurde in der Version 1.60.o veröffentlicht.](https://github.com/streamlit/streamlit/releases/tag/1.60.0)
+* [Die Anstalt lässt es mit ihrer 100-ten Folge richtig krachen.](https://www.3sat.de/kabarett/die-anstalt/die-anstalt-vom-21-juli-2026-100.html)
+* [HTML hat das Attribut `contenteditable` mit dem der Browser jedes HTML-Element manipulierbar macht.](https://www.freecodecamp.org/news/how-to-make-a-static-html-page-editable-in-the-browser-with-vanilla-javascript/)
+* [PyPI verbietet das nachträgliche Verändern von alten Dateien.](https://lwn.net/Articles/1084218/) - Gut, dass sie es einführen. Über das "Warum erst jetzt" bin ich müde zu diskutieren, lieber als Fehlern lernen als Fehler verheimlichen.
+* [Warum musste Ulrich Kelber nun eigentlich gehen? Nun, weil er für das Volk und sein Recht über die Bestimmung der eigenen Daten als schützenswertes Gut angesehen hat.](https://netzpolitik.org/2026/geheimdienst-gesetz-masslos-unkontrolliert-und-intransparent/)
+* [>>[...] the security of most of our accounts hangs on the security of our email accounts.<<](https://www.schneier.com/blog/archives/2026/07/first-person-identity-theft-story.html) - Und diese E-Mail-Adresse kontrollieren die wenigsten Menschen.
+* [Der "versentliche" Angriff von OpenAI auf Hugging Face ist für mich eine reine Werbemaßnahme.](https://borncity.com/blog/2026/07/22/openai-modelle-fuer-cyberangriff-auf-hugging-face-verantwortlich/) - Da wird Infrastruktur zerstört um zu zeigen wie gut/gefährlich die eigenen LLM-Modelle sind - Wie im Krieg "Schaut nur, wie viele Menschenleben meine Bombe wegrotzen kann!"
+* [docsify wurde in der Version 5.0.0 veröffentlicht.](https://github.com/docsifyjs/docsify/releases/tag/v5.0.0)
+* [huey wurde in der Version 3.3.0 veröffentlicht.](https://github.com/coleifer/huey/releases/tag/3.3.0)
