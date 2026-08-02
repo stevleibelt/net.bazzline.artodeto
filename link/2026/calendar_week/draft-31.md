@@ -25,3 +25,9 @@
 * [Hier wird euch gezeigt, wie ihr mit shadcn eine Startseite baut.](https://www.freecodecamp.org/news/how-to-create-a-marketing-landing-page-using-shadcn-ui/)
 * [>>[...] Außerdem einfach erwähnenswert, wenn selbst die UEFA den Bogen bei der kapitalistischen Ausbeutung des Sports überspannt sieht und die Anbiederung an den Faschisten Trump nicht mittragen will.<<](https://www.onli-blogging.de/2667/Linksammlung-312026.html)
 * Legt all eure Daten in die Cloud sagen sie, [die wissen wie das mit der Sicherheit geht](https://borncity.com/blog/2026/07/31/sicherheitforscher-finden-masterkey-fuer-microsoft-azure-cosmos-db/) sagen sie :-D.
+* [Kanidm wurde in der Version 1.11.0 veröffentlicht.](https://github.com/kanidm/kanidm/releases/tag/v1.11.0)
+* [OpenEMS wurde in der Version 2026.8.0 veröffentlicht.](https://github.com/OpenEMS/openems/releases/tag/2026.8.0)
+* [Wenn die AfD in Sachsen-Anhalt die Landesregierung stellt, wird sie als erstes die Meinungsfreiheit beschneiden.](https://netzpolitik.org/2026/freier-radiosender-corax-die-afd-will-uns-zermuerben-das-lassen-wir-nicht-zu/)
+* [Kuketz stellt die verschiedenen Alternativen zur Offnline-Navigation auf dem Smartphone vor.](https://www.kuketz-blog.de/unplugbigtech-von-a-nach-b-ohne-dass-jemand-mitfaehrt-teil-8/) - Sucht euch ein Werkzeug aus und spendet bitte.
+* [>>Vor 1 Jahr hat das Auswärtige Amt jegliche Finanzierung der zivilen Seenotrettung gestrichen. Eierlecker Merz und Bis-zur-Wade-in-Scheiße-Phul zeichnen verantwortlich für das Regierungsprojekt „Dann doch lieber ersaufen lassen“. [...]<<](https://www.die-partei.de/2026/08/01/jetzt-spenden-fuer-seenotrettung-gegen-die-parteien/)
+* Lieber [Morten Linderud, danke für die 10 Jahre](https://linderud.dev/blog/resigning-from-arch-linux/)
