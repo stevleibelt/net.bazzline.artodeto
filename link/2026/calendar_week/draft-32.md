@@ -1,0 +1,6 @@
+* [>>Modern AI models exhibit genie behavior: They can do what you ask in ways that you don’t expect or want. [...]<<](https://www.schneier.com/blog/archives/2026/08/the-openai-hack-shows-the-genie-is-out-of-the-bottle.html)
+* [>>Der wahre Zweck von KI ist es, den Reichen Zugang zu Können zu verschaffen, ohne den Könnern Zugang zu Reichtum zu gewähren.<<](https://tuxproject.de/blog/2026/08/the-rolling-stones-side-effects-der-gema-viel-erfolg/)
+* [Doctolib tut Dinge und als seit dem 01.08.2026 besonders mit den Daten "französischer" Nutzer ihre eigenen LLM's trainieren.](https://borncity.com/blog/2026/08/02/doctolib-france-trainiert-ki-system-seit-1-august-2026-mit-patientendaten/) - Natürlich werden nur die Gesundheitsdaten der Franzosen der KI zum Fraß vorgeworfen ... ganz klar und absolut sicher!
+* [Das Herold-Jahrbuch wurde im Band 30 (2025) veröffentlicht.](https://herold-verein.de/neuerscheinung-herold-jahrbuch-neue-folge-band-30-2025/)
+* [mock-oauth2-server wurde in der Version 6.0.0 veröffentlicht.](https://github.com/navikt/mock-oauth2-server/releases/tag/6.0.0)
+* [PHP Rector wurde in der Version 2.6.0 veröffentlicht.](https://github.com/rectorphp/rector/releases/tag/2.6.0)
