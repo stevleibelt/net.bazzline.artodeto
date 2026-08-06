@@ -22,3 +22,15 @@
 * [>>Obwohl an den Verkaufsstellen mit NFC gezahlt wird, also über einen Chip, der auf elektromagnetische Wellen in direkter Nähe reagiert, wird für das Bezahlen am Automaten eine Internet-Verbindung benötigt werden. Ein Test für das Offline-Bezahlen an der Kasse ist nicht vorgesehen. Das überrascht, weil der Digitale Euro explizit als On- und Offline-Variante konzipiert wurde, auch um das Zahlungssystem resilienter zu machen gegenüber Cyberangriffen und Stromausfällen. [...]<<](https://netzpolitik.org/2026/digitaler-euro-an-echten-zentralbankerinnen-getestet/) - Danke, reicht. Also wie bei der ePA, "bedenken second, security last".
 * [>>AI revenue is growing very fast, but if these calculations are right, it’ll have to grow by 17x from where it is now in order to justify the capital being spent. [...]<<](https://www.noahpinion.blog/p/why-did-south-korean-stocks-just) - Kurzum, alle, die sich aktuell von den kostenlosen oder kostengünstigen Angeboten der LLM-Branche fangen lassen, ihre Daten im Vendor-Lock-In verschenken und ihre Kernprozesse umbauen, sollten innerlich schon jetzt mit den 20-fachen Kosten rechnen.
 * [Zu spät und zu wenig. Das ist das Resultat aus der Strafzahlung, die Google aktuel gegenüber der EU zahlen muss.](https://www.lobbycontrol.de/macht-der-digitalkonzerne/jetzt-also-doch-google-muss-erste-grosse-dma-strafe-bezahlen-126214/)
+* [Streamlit wurde in der Version 1.61.0 veröffentlicht.](https://github.com/streamlit/streamlit/releases/tag/1.61.0)
+* [alembic wurde in der Version 1.19.0 veröffentlicht.](https://github.com/sqlalchemy/alembic/releases/tag/rel_1_19_0) - [PEP 604](https://peps.python.org/pep-0604/) ist drinne :-)
+* [librebooking wurde in der Version 5.3.0 veröffentlicht.](https://github.com/LibreBooking/librebooking/releases/tag/v5.3.0)
+* [rust coreutils wurden in der Version 0.10.0 veröffentlicht.](https://github.com/uutils/coreutils/releases/tag/0.10.0)
+* [python tenacity wurde in der Version 9.2.0 veröffentlicht.](https://github.com/jd/tenacity/releases/tag/9.2.0)
+* [nocodb wurde in der Version 2026.08.0 veröffentlicht.](https://github.com/nocodb/nocodb/releases/tag/2026.08.0)
+* [LocalAI wurde in der Version 4.8.0 veröffentlicht.](https://github.com/mudler/LocalAI/releases/tag/v4.8.0)
+* [nltk wurde in der Version 3.10.0 veröffentlicht.](https://github.com/nltk/nltk/releases/tag/v3.10.0)
+* [b4 wurde in der Version 0.16.0 veröffentlicht.](https://lwn.net/Articles/1087388/)
+* [Nein? Doch! Oh? Eine Firma wie Palantier vermeidet die Zahlung von Steuern bis auf das äußerste.](https://netzpolitik.org/2026/dubiose-praktiken-palantir-drueckt-sich-vor-steuern/) - Klar, wenn man sich als einzige Stelle der Wahrheit sieht, weiß man halt auch, dass man keine Steuern zahlen muss. Man leistet der Gesellschaft mit seiner Wahrheitsmaschine ja nun schon einen Bärendienst!
+* [Buku, linkwarden, 42 Links oder doch was eigenes? Hirnfick schreibt darüber.](https://tuxproject.de/blog/2026/08/schoener-lesezeichnen-ohne-lesezeichen/)
+* [Hier werdet ihr in Transactional outbox eingeführt.](https://www.freecodecamp.org/news/how-to-fix-the-dual-write-problem-in-node-js-with-the-outbox-pattern/)
