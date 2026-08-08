@@ -40,3 +40,7 @@
 * [Berichtswesen im BMDS? Fehlanzeige!](https://netzpolitik.org/2026/verwaltungsdigitalisierung-digitalminister-wildberger-wiederholt-alte-fehler/) - Es wäre doch schlimm, wenn das Volk nachverfolgen könnte was mit den Steuergeldern passiert und wie wenig "Bang for the bucket" die CDU liefert
 * Nein? Doch! Oh? [Die privaten Plattformen in Austrailen prüfen gar nicht so genau.](https://netzpolitik.org/2026/australien-zieht-bilanz-fuenf-erste-lehren-aus-dem-social-media-verbot/#2) - Ohne Strafen und personellem Aufwand vom Staat passiert gegenüber Konzernen nie etwas, deswegen will die CDU auch gern einen "lean State"
 * [>>Without serious testing, there is no reason to trust the technology. And even with testing, there is no reason to trust that a new version of the facial recognition software doesn’t break the anti-surveillance properties.<<](https://www.schneier.com/blog/archives/2026/08/adversarial-clothing-designed-to-fool-facial-recognition-systems.html)
+* [paratest wurde in der Version 7.24.0 veröffentlicht.](https://github.com/paratestphp/paratest/releases/tag/v7.24.0)
+* [LightDM wurde in der Version 1.33.0 veröffentlicht.](https://lwn.net/Articles/1087759/)
+* [DuckDB scheint eine echte Alternative zu InnoDB werden](https://www.percona.com/blog/the-duckdb-mysql-engine-at-500-gb/)
+* [>>In the age of cards and codes, freedom is not lost with a gunshot, but with a signature.<<](https://www.schneier.com/blog/archives/2026/08/ice-is-buying-access-to-credit-card-records.html)
