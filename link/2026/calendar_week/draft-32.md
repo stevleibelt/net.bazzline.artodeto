@@ -44,3 +44,8 @@
 * [LightDM wurde in der Version 1.33.0 veröffentlicht.](https://lwn.net/Articles/1087759/)
 * [DuckDB scheint eine echte Alternative zu InnoDB werden](https://www.percona.com/blog/the-duckdb-mysql-engine-at-500-gb/)
 * [>>In the age of cards and codes, freedom is not lost with a gunshot, but with a signature.<<](https://www.schneier.com/blog/archives/2026/08/ice-is-buying-access-to-credit-card-records.html)
+* [Roundcube Webmail wurde in der Version 1.7.3 veröffentlicht.](https://roundcube.net/news/2026/08/09/security-updates-1.6.18-and-1.7.3)
+* [DietPi wurde in der Version 10.6.0 veröffentlicht.](https://github.com/MichaIng/DietPi/releases/tag/v10.6)
+* Nein? Doch! Oh? [>>Kurz: Unternehmen aus der Cloud holen, Internetzugang nur für Arbeitsplätze wo zwingend nötig. [...]](https://borncity.com/blog/2026/08/09/sans-institute-raet-sicherheitsteams-offene-tueren-fuer-ki-agenten-zu-schliessen/#comment-263265)
+* [Levi Strauss hat seine Unternehmensdaten verloren.](https://borncity.com/blog/2026/08/08/jeans-hersteller-levi-strauss-co-erleidet-datenpanne/)
+* [>>[...] Der Digitale Euro würde den Banken Einlagen entziehen, er würde die Branche bis zu 30 Milliarden Euro kosten. [...]<<](https://netzpolitik.org/2026/lobbyismus-zum-digitalen-euro-banken-fuerchten-um-ihre-profite/)
