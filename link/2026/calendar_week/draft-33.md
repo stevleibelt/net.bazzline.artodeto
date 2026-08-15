@@ -39,3 +39,6 @@
 * [hirnfick](https://tuxproject.de/blog/2026/08/programmieren-2026/) hat ein wunderbares Zitat von James Randall über den Stand der Programmierung im Jahr 2026 gefunden
 * [>>[AI][...] can be a tool for public good, if we choose to solve its sociopolitical problems. Our goal should not be to slow its pace of improvement or scale of deployment, but rather to steer it away from consolidating power and towards the public benefit.[...]<<](https://www.schneier.com/blog/archives/2026/08/separating-ais-technological-problems-from-its-capitalism-problems.html)
 * [>>Welches auffällige Verhalten zu einer Alarmierung führt, dazu macht das Mannheimer Polizeipräsidium auf Nachfrage von netzpolitik.org keine Angaben. [...]<<](https://netzpolitik.org/2026/verhaltenserkennung-in-mannheim-10-000-filme-fuer-ein-hallelujah/) - Die Polizei in Mannheim hat also gar kein Interesse daran, dass die Bevölkerung die anstandslose Massenüberwachung der Bevölkerung als sinnvoll erachtet.
+* [mStream wurde in der Version 6.20.0 veröffentlicht.](https://github.com/IrosTheBeggar/mStream/releases/tag/v6.20.0)
+* [Laragon wurde in der Version 8.7.0 veröffentlicht.](https://github.com/leokhoa/laragon/releases/tag/8.7.0)
+* [D7VK wurde in der Version 2.1.0 veröffentlicht.](https://www.phoronix.com/news/D7VK-2.1)
