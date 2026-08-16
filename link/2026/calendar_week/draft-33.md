@@ -42,3 +42,5 @@
 * [mStream wurde in der Version 6.20.0 veröffentlicht.](https://github.com/IrosTheBeggar/mStream/releases/tag/v6.20.0)
 * [Laragon wurde in der Version 8.7.0 veröffentlicht.](https://github.com/leokhoa/laragon/releases/tag/8.7.0)
 * [D7VK wurde in der Version 2.1.0 veröffentlicht.](https://www.phoronix.com/news/D7VK-2.1)
+* [py-couchdb wurde in der Version 1.17.0 veröffentlicht.](https://github.com/histrio/py-couchdb/releases/tag/v1.17.0)
+* [phpqa wurde in der Version 1.125.0 veröffentlicht.](https://github.com/jakzal/phpqa/releases/tag/v1.125.0)
