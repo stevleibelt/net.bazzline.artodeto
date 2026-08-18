@@ -1,3 +1,13 @@
 * [Linux wurde in der Version 7.2.0 veröffentlicht.](https://lwn.net/Articles/1088991/)
 * [fluffychat wurde in der Version 2.9.0 veröffentlicht.](https://github.com/krille-chan/fluffychat/releases/tag/v2.9.0)
 * [python rq qurde in der Version 2.11.0 veröffentlicht.](https://github.com/rq/rq/releases/tag/v2.11)
+* [librenms wurde in der Version 26.8.0 veröffentlicht.](https://github.com/librenms/librenms/releases/tag/26.8.0)
+* [Die Azurecloud hat Nutzerdaten von mehreren Konzernen verloren.](https://borncity.com/blog/2026/08/18/36-millionen-azure-daten-von-mcdonalds-vodafone-tcs-hcl-ihg-etc-im-verkauf/) - Ist halt praktisch, dass alles an einer Stelle liegt.
+* Noch ein Beispiel für "gut, wenn alles an einer Stelle liegt", [Copilot und GitHub sind gemeinsam ausgefallen](https://borncity.com/blog/2026/08/18/github-ausfall-am-17-august-2026-und-copilot-down/)
+* [freecodecamp.org zeigt euch was in der AGENTS.md und in den Skills zu stehen hat.](https://www.freecodecamp.org/news/how-to-manage-context-files-in-your-codebase-and-get-better-agent-output/)
+* [Der ARTIC Fan Controller funktioniert sehr gut unter Linux](https://www.phoronix.com/review/arctic-fan-controller)
+* [>>Wenn ein Überwachungssystem durch ein Stück Stoff außer Kraft gesetzt werden kann, wie viel Vertrauen sollten wir dann in es setzen, bevor wir es auf den öffentlichen Raum loslassen<<](https://netzpolitik.org/2026/protest-kuenstler-verwirrt-ki-ueberwachung-mit-hypnose-shirt/)
+* [Schleswig-Holstein überholt Hessen, Sachsen und Bayern rechts bei den Polizeigesetzen.](https://netzpolitik.org/2026/polizeigesetz-schleswig-holstein-direkt-aus-dem-roman-1984/) - CDU geführte Bundesländer sind halt sehr rechts, sehr christlich und sehr gut!
+* Wie viel Lobbyismus ist in der deutschen Politik? So viel, dass [erst das Kartellamt Apple ermahnen muss](https://netzpolitik.org/2026/bundeskartellamt-apple-muss-tracking-schutz-anpassen/) - Klar, es gibt Gesetze, aber doch nicht für marktfreie Konzerne
+* [Die Lüge des Fachkräftemangels wird direkt dank der Gegenüberstellung von Personen ohne Arbeit und Ausbildung entkräftet.](https://tuxproject.de/blog/2026/08/aktuelles-zum-fachkraeftebezahlungsmangel/) - Die Arbeit in Deutschland wird zu schlecht bezahlt. "Fachkräfte" sind ausgebildete, notleidende Personen aus dem Ausland die für zu geringes Gehalt undwürdig leben aber verdammt viel arbeiten sollen.
+* [Das SMK ersetzt Sport und Deutsch durch Medien- und Digitalisierungsbildung, während es gleichzeitig mit erhobenen Finger wegen der gestiegenen Bildschirmzeit rumwedelt.](https://www.bildung.sachsen.de/blog/index.php/2026/08/17/schuljahr-2026-27-modernisierung-aller-lehrplaene-mehr-medienbildung-handyverbot-bis-klassenstufe-8/)
