@@ -23,3 +23,9 @@
 * [>>Den Chef des Verfassungsschutzes auszutauschen, ist für eine Regierung also verhältnismäßig einfach. In Sachsen-Anhalt besetzt diese Position seit 14 Jahren Jochen Hollmann. Ginge es nach der AfD, wäre er wohl nicht mehr lange im Amt. [...]<<](https://netzpolitik.org/2026/polizei-und-verfassungsschutz-was-bei-einer-machtuebernahme-durch-rechtsextreme-droht/) - Damit verstehe ich noch weniger, warum mehr Stasi in allen Bundesländern installiert wird.
 * [Hier wird euch aufgezeigt, wie ihr Skills für Claude Code nutzt.](https://improveandrepeat.com/2026/08/create-your-own-skills-for-claude-code/) - Die Skills funktionieren auch in anderen LLM's
 * [>>[...] There is an old saying I pass down to my students when I give them career advice - if you are a jerk to people on your way up, don’t expect them to catch you when you are on your way down.[...]<<](https://martinfowler.com/fragments/2026-08-18.html)
+* [valet-sh wurde in der Version 2.15.0 veröffentlicht.](https://github.com/valet-sh/valet-sh/releases/tag/2.15.0)
+* [PCAPdroid wurde in der VErsion 2.0.0 veröffentlicht.](https://github.com/emanuele-f/PCAPdroid/releases/tag/v2.0.0)
+* [colibri wurde in der Version 1.7.0 veröffentlicht.](https://github.com/JustVugg/colibri/releases/tag/v1.7.0)
+* [>>Das Wirtschaftsministerium unter Katherina Reiche hat sich mit Exxon über die Abschwächung der europäischen Lieferkettenrichtlinie ausgetauscht und im Anschluss Lobbywünsche des Konzerns umgesetzt. [...]<<](https://www.lobbycontrol.de/pressemitteilung/geheime-lobby-treffen-mit-exxon-reiche-setzt-wuensche-der-us-gaslobby-um-126236/) - Merzleckeier!
+* [Rio Reiser ist vor 30 Jahren gestorben.](https://tuxproject.de/blog/2026/08/der-traum-ist-aus-seit-1996/)
+* [>>[...] Durch Smart Glasses wird nun eine besonders unauffällige Überwachungstechnologie als Alltagsgegenstand getarnt. [...]<<](https://netzpolitik.org/2026/heimliches-filmen-kann-man-ueberwachungsbrillen-verbieten/)
