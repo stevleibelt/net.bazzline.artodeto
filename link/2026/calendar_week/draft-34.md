@@ -11,7 +11,7 @@
 * Wie viel Lobbyismus ist in der deutschen Politik? So viel, dass [erst das Kartellamt Apple ermahnen muss](https://netzpolitik.org/2026/bundeskartellamt-apple-muss-tracking-schutz-anpassen/) - Klar, es gibt Gesetze, aber doch nicht für marktfreie Konzerne
 * [Die Lüge des Fachkräftemangels wird direkt dank der Gegenüberstellung von Personen ohne Arbeit und Ausbildung entkräftet.](https://tuxproject.de/blog/2026/08/aktuelles-zum-fachkraeftebezahlungsmangel/) - Die Arbeit in Deutschland wird zu schlecht bezahlt. "Fachkräfte" sind ausgebildete, notleidende Personen aus dem Ausland die für zu geringes Gehalt undwürdig leben aber verdammt viel arbeiten sollen.
 * [Das SMK ersetzt Sport und Deutsch durch Medien- und Digitalisierungsbildung, während es gleichzeitig mit erhobenen Finger wegen der gestiegenen Bildschirmzeit rumwedelt.](https://www.bildung.sachsen.de/blog/index.php/2026/08/17/schuljahr-2026-27-modernisierung-aller-lehrplaene-mehr-medienbildung-handyverbot-bis-klassenstufe-8/)
-* [Uberspace shellinspector wurde in der Version 0.37.0 veröffentlicht.](https://github.com/Uberspace/shellinspector/releases/tag/v0.37.0)
+* [Uberspace shellinspector wurde in der Version 0.38.0 veröffentlicht.](https://github.com/Uberspace/shellinspector/releases/tag/v0.38.0)
 * [siege wurde in der Version 2.4.0 veröffentlicht.](https://github.com/JoeDog/siege/releases/tag/v.2.4.0)
 * [backstage wurde in der Version 1.54.0 veröffentlicht.](https://github.com/backstage/backstage/releases/tag/v1.54.0)
 * [betterleaks wurde in der Version 1.8.0 veröffentlicht.](https://github.com/betterleaks/betterleaks/releases/tag/v1.8.0)
@@ -29,3 +29,8 @@
 * [>>Das Wirtschaftsministerium unter Katherina Reiche hat sich mit Exxon über die Abschwächung der europäischen Lieferkettenrichtlinie ausgetauscht und im Anschluss Lobbywünsche des Konzerns umgesetzt. [...]<<](https://www.lobbycontrol.de/pressemitteilung/geheime-lobby-treffen-mit-exxon-reiche-setzt-wuensche-der-us-gaslobby-um-126236/) - Merzleckeier!
 * [Rio Reiser ist vor 30 Jahren gestorben.](https://tuxproject.de/blog/2026/08/der-traum-ist-aus-seit-1996/)
 * [>>[...] Durch Smart Glasses wird nun eine besonders unauffällige Überwachungstechnologie als Alltagsgegenstand getarnt. [...]<<](https://netzpolitik.org/2026/heimliches-filmen-kann-man-ueberwachungsbrillen-verbieten/)
+* [>>[...] Aaron Swartz wurde in den Selbstmord getrieben für das Herunterladen von akademischen Veröffentlichungen – die aus öffentlichen Geldern stammen und nie für die Öffentlichkeit gesperrt sein sollten. [...]<<](https://www.onli-blogging.de/2674/Linksammlung-342026.html) - Hackfressenbuch und die ganzen LLM-Geldverbrenner fressen sich täglich durch alle öffentliche Informationen und es passiert nichts.
+* [HTML Can Do That](https://chrisburnell.com/html-can-do-that/)
+* [webmin wurde in der Version 2.660.0 veröffentlicht.](https://github.com/webmin/webmin/releases/tag/2.660)
+* [mStream wurde in der Version 6.22.0 veröffentlicht.](https://github.com/IrosTheBeggar/mStream/releases/tag/v6.22.0)
+* [Dolibarr wurde in der Version 24.0.0 veröffentlicht.](https://github.com/Dolibarr/dolibarr/releases/tag/24.0.0)
