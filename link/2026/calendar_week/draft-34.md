@@ -34,3 +34,6 @@
 * [webmin wurde in der Version 2.660.0 veröffentlicht.](https://github.com/webmin/webmin/releases/tag/2.660)
 * [mStream wurde in der Version 6.22.0 veröffentlicht.](https://github.com/IrosTheBeggar/mStream/releases/tag/v6.22.0)
 * [Dolibarr wurde in der Version 24.0.0 veröffentlicht.](https://github.com/Dolibarr/dolibarr/releases/tag/24.0.0)
+* [Typische CxU, wenn die USA-Lobby mit Geldern winkt, wird der eigene Kontinent verkauft.](https://netzpolitik.org/2026/intransparente-rechenzentren-ein-armutszeugnis-fuer-die-bundesregierung/)
+* [>>[...] Europäische Haushalte halten über Indexfonds und Pensionsfonds rund 440 Milliarden Euro in Aktien der als Mag7 bezeichneten großen sieben US-Anbieter Amazon, Apple, Alphabet, Meta, Microsoft, Nvidia und Tesla/X. Wenn es da kriselt, schlägt dies auf die Investitionen in Fond durch [...]<<](https://borncity.com/blog/2026/08/22/europaeische-zentralbank-fordert-vorbereitung-auf-ende-des-ki-hypes/) - Ein greibares Beispiel warum die von der CxU geplanten Aktienrente gegen das Volk arbeitet. Eine Zwangsabgabe in die Aktienmärkte bedeutet nur eine Sache, große Konzerne erhalten verlässlich Gelder, können sich weiter zu Oligopole verdichten um den Bürger als Kunde maximal und mangels Konkurenz auszupressen.
+* [OpenZFS wurde in der Version 2.4.4 veröffentlicht.](https://github.com/openzfs/zfs/releases/tag/zfs-2.4.4)
