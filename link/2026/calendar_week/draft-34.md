@@ -11,7 +11,7 @@
 * Wie viel Lobbyismus ist in der deutschen Politik? So viel, dass [erst das Kartellamt Apple ermahnen muss](https://netzpolitik.org/2026/bundeskartellamt-apple-muss-tracking-schutz-anpassen/) - Klar, es gibt Gesetze, aber doch nicht für marktfreie Konzerne
 * [Die Lüge des Fachkräftemangels wird direkt dank der Gegenüberstellung von Personen ohne Arbeit und Ausbildung entkräftet.](https://tuxproject.de/blog/2026/08/aktuelles-zum-fachkraeftebezahlungsmangel/) - Die Arbeit in Deutschland wird zu schlecht bezahlt. "Fachkräfte" sind ausgebildete, notleidende Personen aus dem Ausland die für zu geringes Gehalt undwürdig leben aber verdammt viel arbeiten sollen.
 * [Das SMK ersetzt Sport und Deutsch durch Medien- und Digitalisierungsbildung, während es gleichzeitig mit erhobenen Finger wegen der gestiegenen Bildschirmzeit rumwedelt.](https://www.bildung.sachsen.de/blog/index.php/2026/08/17/schuljahr-2026-27-modernisierung-aller-lehrplaene-mehr-medienbildung-handyverbot-bis-klassenstufe-8/)
-* [Uberspace shellinspector wurde in der Version 0.38.0 veröffentlicht.](https://github.com/Uberspace/shellinspector/releases/tag/v0.38.0)
+* [Uberspace shellinspector wurde in der Version 0.41.0 veröffentlicht.](https://github.com/Uberspace/shellinspector/releases/tag/v0.41.0)
 * [siege wurde in der Version 2.4.0 veröffentlicht.](https://github.com/JoeDog/siege/releases/tag/v.2.4.0)
 * [backstage wurde in der Version 1.54.0 veröffentlicht.](https://github.com/backstage/backstage/releases/tag/v1.54.0)
 * [betterleaks wurde in der Version 1.8.0 veröffentlicht.](https://github.com/betterleaks/betterleaks/releases/tag/v1.8.0)
@@ -37,3 +37,10 @@
 * [Typische CxU, wenn die USA-Lobby mit Geldern winkt, wird der eigene Kontinent verkauft.](https://netzpolitik.org/2026/intransparente-rechenzentren-ein-armutszeugnis-fuer-die-bundesregierung/)
 * [>>[...] Europäische Haushalte halten über Indexfonds und Pensionsfonds rund 440 Milliarden Euro in Aktien der als Mag7 bezeichneten großen sieben US-Anbieter Amazon, Apple, Alphabet, Meta, Microsoft, Nvidia und Tesla/X. Wenn es da kriselt, schlägt dies auf die Investitionen in Fond durch [...]<<](https://borncity.com/blog/2026/08/22/europaeische-zentralbank-fordert-vorbereitung-auf-ende-des-ki-hypes/) - Ein greibares Beispiel warum die von der CxU geplanten Aktienrente gegen das Volk arbeitet. Eine Zwangsabgabe in die Aktienmärkte bedeutet nur eine Sache, große Konzerne erhalten verlässlich Gelder, können sich weiter zu Oligopole verdichten um den Bürger als Kunde maximal und mangels Konkurenz auszupressen.
 * [OpenZFS wurde in der Version 2.4.4 veröffentlicht.](https://github.com/openzfs/zfs/releases/tag/zfs-2.4.4)
+* [Wii64 wurde in der Version 1.4.4 veröffentlicht.](https://wiidatabase.de/wii64-v1-4-4/)
+* [>>Am Kottbusser Tor in Berlin werden seit heute rund 30 Überwachungskameras installiert und an ein KI-System angeschlossen, das prüft, wer artig ist und wer nicht. [...]<<](https://netzpolitik.org/2026/verhaltensscanner-in-berlin-jetzt-beginnt-die-automatisierte-ueberwachung/)
+* [>>Der Chilling Effect beschreibt eine Selbstzensur aus der Angst heraus, etwas zu tun, was der Überwachende gegen einen selbst verwenden könnten. [...]<<](https://netzpolitik.org/2026/breakpoint-aufruf-zu-digitalem-ungehorsam/)
+* [phpseclib wurde in der Version 4.0.0 veröffentlicht.](https://github.com/phpseclib/phpseclib/releases/tag/4.0.0)
+* [broot wurde in der Version 1.59.0 veröffentlicht.](https://github.com/Canop/broot/releases/tag/v1.59.0)
+* [Cisco ist wieder einmal vollständig kaputt.](https://borncity.com/blog/2026/08/22/cisco-amaggadon-cves-mit-score-10-10-9-9-9-6-7-5/) - So etwas passiert einer Firma, die nur noch aus dem Namen und massenhaft Zulieferern besteht bei der die BWL'er mehr Gehör finden als die Techniker.
+* [>>Ein Reiseportal ist kein neutrales Schaufenster<<](https://www.konsumguerilla.net/reiseportale-im-vergleich-wo-versteckte-zusatzkosten-lauern/)
