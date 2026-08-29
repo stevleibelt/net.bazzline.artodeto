@@ -39,3 +39,11 @@
 * Womit Punkten europäische LLM-Anbieter? [Mit der Sicherheit für den Kunden, den das strenger regulierte Europa rechtlich bietet](https://www.deutschlandfunk.de/ki-kuenstliche-intelligenz-europa-deepl-mistral-digitale-souveraenitaet-100.html) - Und dem gegenüber stehen die neoliberalen Kräfte in der EU die "bedenken second" proklamieren ... kannst du dir nicht ausdenken.
 * Kaum drückt man etwas bei Meta, schon bewegt sich diese Drecksbude - [Hackfressenbuch baut jetzt ein Minijugendschutz mit Ablaufdatum ein](https://netzpolitik.org/2026/jugendschutz-im-sonderangebot-meta-kauft-sich-frei/) - Und auch dieses Minimalvorhaben werden sie nicht umsetzen, außer man drückt weiter.
 * [treestyletab wurde in der Version 4.4.0 veröffentlicht.](https://github.com/piroor/treestyletab/releases/tag/4.4.0)
+* [colibri wurde in der Version 1.9.0 veröffentlicht.](https://github.com/JustVugg/colibri/releases/tag/v1.9.0)
+* [PaperCut ist kaputt.](https://borncity.com/blog/2026/08/29/bestaetigte-angriffe-auf-papercut-27-august-2026/)
+* [ServiceNow ist kaputt.](https://borncity.com/blog/2026/08/28/servicenow-mit-drei-kritischen-schwachstellen-cvss-3-x-10-0/)
+* [Freie Software in Sicherheitsbehörden?](https://gi.de/meldung/open-source-bei-sicherheitsbehoerden-kann-das-gehen) - Kann ich mit leben, aber nur, wenn sie ebenfalls Schwachstellen melden oder gleich reparieren.
+* [RSA wird aus den eGK-CAs entfernt.](https://borncity.com/blog/2026/08/28/gematik-entfernt-am-28-august-2026-die-rsa-egk-cas/)
+* [Am Linux-Kernel merkt man wie hart die freie Softwareentwicklnung von den LLMs belastet wird.](https://www.phoronix.com/news/Linux-Kernel-CVEs-Nearly-2000) - Würden Konzerne, die ihre Gewinne durch den kostenfreien Einsatz von freier Software generieren, mal ein paar feste Entwickler bezahlen.
+* [>>[...] Die rasant steigende Zahl von Rechenzentren treibt den Einsatz fossiler Energie nach oben und befeuert damit die Klimakatastrophe.<<](https://netzpolitik.org/2026/interaktive-karte-an-diesen-orten-sollen-bundesweit-neue-rechenzentren-entstehen/)
+* [Der NABU Sachsen möchte gern folgende Stelle besetzen: Frontoffice & Buchhaltung](https://sachsen.nabu.de/wirueberuns/stellenangebote/37450.html)
