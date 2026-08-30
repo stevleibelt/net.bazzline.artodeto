@@ -47,3 +47,5 @@
 * [Am Linux-Kernel merkt man wie hart die freie Softwareentwicklnung von den LLMs belastet wird.](https://www.phoronix.com/news/Linux-Kernel-CVEs-Nearly-2000) - Würden Konzerne, die ihre Gewinne durch den kostenfreien Einsatz von freier Software generieren, mal ein paar feste Entwickler bezahlen.
 * [>>[...] Die rasant steigende Zahl von Rechenzentren treibt den Einsatz fossiler Energie nach oben und befeuert damit die Klimakatastrophe.<<](https://netzpolitik.org/2026/interaktive-karte-an-diesen-orten-sollen-bundesweit-neue-rechenzentren-entstehen/)
 * [Der NABU Sachsen möchte gern folgende Stelle besetzen: Frontoffice & Buchhaltung](https://sachsen.nabu.de/wirueberuns/stellenangebote/37450.html)
+* [Just the Browser wurde in der Version 1.9.0 veröffentlicht.](https://github.com/corbindavenport/just-the-browser/releases/tag/v1.9)
+* [Phising geht auch über Termineinladungen.](https://borncity.com/blog/2026/08/30/kalender-phishing-ueber-ics-dateien/)
