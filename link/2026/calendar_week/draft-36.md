@@ -6,3 +6,12 @@
 * Wie sind wir eigentlich zum aktuellen Softwarestand in der Welt gekommen? Chris Siebenmann sagt dazu: [>>[...] technologies that are merely uneconomical are much harder to get rid of than technologies that are ineffective.<<](https://utcc.utoronto.ca/~cks/space/blog/tech/UneconomicalVsNotWorking)
 * [dozzle wurde in der Vesion 10.8.0 veröffentlicht.](https://github.com/amir20/dozzle/releases/tag/v10.8.0)
 * [authlib wurde in der Version 1.8.0 veröffentlicht.](https://github.com/authlib/authlib/releases/tag/v1.8.0)
+* [freecodecamp.org erklärt euch Bloom Filter](https://www.freecodecamp.org/news/bloom-filters-explained/#heading-prerequisites)
+* [Wie muss ich eine LLM-Skill-Datei aufbauen? freecodecamp.org zeigt es euch.](https://www.freecodecamp.org/news/learn-the-ai-sdlc-the-complete-guide-to-building-agent-skills/#heading-anatomy-of-a-skill)
+* [>>A common mistake is to write tests around the structure you're planning to create.<<](https://www.freecodecamp.org/news/characterization-tests-before-refactoring-legacy-code/)
+* [>>Breaking News….. VPN ist nicht anonym!<<](https://borncity.com/blog/2026/08/31/proton-warnt-85-der-vpn-apps-in-us-app-stores-enthalten-tracker/#comment-264945)
+* [OpenShot wurde in der Version 4.0.0 veröffentlicht.](https://lwn.net/Articles/1091606/)
+* [Hackfressenbuch gibt Milliarden dafür aus um mehr Werbung in ihre Produkte zu pressen, doch Geld für mögliche Kunden mit Beeinträchtigungen gibt der Konzern nicht aus - zu kleiner Markt, zu geringe Marge.](https://netzpolitik.org/2026/smart-glasses-und-barrierefreiheit-meta-hat-kein-blinden-hilfsmittel-entwickelt/)
+* [Die CDU wandelt sich weiter nach Rechts und der sächsische Innenminister Armin Schuster marschiert ganz vorn mit.](https://netzpolitik.org/2026/eu-verordnung-saechsischer-innenminister-fordert-ausweitung-der-chatkontrolle/) - Überholen ohne Einzuholen wird hier praktiziert, leider nicht für die Völkerverständigung. Armin Schuster ist Rheinland-Pfalz geboren und wurde 2022 durch innerparteiliche Kämpfe nach Sachsen geschoben.
+* [>>noyb hat im Juni 2026 eine Unterlassungsklage gegen die rechtswidrige Datensammlung der Kreditauskunftei CRIF eingebracht.<<](https://noyb.eu/de/supreme-court-crif-illegally-collected-data-millions-austria-way-clear-class-action)
+* [rust coreutils wurde in der Version 0.11.0 veröffentlicht.](https://github.com/uutils/coreutils/releases/tag/0.11.0)
