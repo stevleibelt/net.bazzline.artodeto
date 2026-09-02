@@ -4,7 +4,7 @@
 * Auch der Ärzteschaft geht die geplante Erweiterung der Geheimdienstgesetze zu weit, diese [>>[...] untergräbt das Vertrauen zwischen Ärzten und Patienten<<](https://netzpolitik.org/2026/die-geheimdienstreform-untergraebt-das-vertrauen-zwischen-aerzten-und-patienten/). Nach der Erweiterung der Geheimdienstgesetze dürfen die Geheimdienste das Patientengeheimnis ignorieren und alle Patientendaten in ihre zentrale Bürgerdatenbank speichern.
 * [>>[...] wer auf einer Bühne steht, der bekommt seinen Willen. Antifaschismus endet am Bühnenrand.<<](https://tuxproject.de/blog/2026/08/emma-ruth-rundle-thou-into-being-antifaschismus-endet-am-buehnenrand/) - :-D
 * Wie sind wir eigentlich zum aktuellen Softwarestand in der Welt gekommen? Chris Siebenmann sagt dazu: [>>[...] technologies that are merely uneconomical are much harder to get rid of than technologies that are ineffective.<<](https://utcc.utoronto.ca/~cks/space/blog/tech/UneconomicalVsNotWorking)
-* [dozzle wurde in der Vesion 10.8.0 veröffentlicht.](https://github.com/amir20/dozzle/releases/tag/v10.8.0)
+* [dozzle wurde in der Vesion 10.9.0 veröffentlicht.](https://github.com/amir20/dozzle/releases/tag/v10.9.0)
 * [authlib wurde in der Version 1.8.0 veröffentlicht.](https://github.com/authlib/authlib/releases/tag/v1.8.0)
 * [freecodecamp.org erklärt euch Bloom Filter](https://www.freecodecamp.org/news/bloom-filters-explained/#heading-prerequisites)
 * [Wie muss ich eine LLM-Skill-Datei aufbauen? freecodecamp.org zeigt es euch.](https://www.freecodecamp.org/news/learn-the-ai-sdlc-the-complete-guide-to-building-agent-skills/#heading-anatomy-of-a-skill)
@@ -15,3 +15,8 @@
 * [Die CDU wandelt sich weiter nach Rechts und der sächsische Innenminister Armin Schuster marschiert ganz vorn mit.](https://netzpolitik.org/2026/eu-verordnung-saechsischer-innenminister-fordert-ausweitung-der-chatkontrolle/) - Überholen ohne Einzuholen wird hier praktiziert, leider nicht für die Völkerverständigung. Armin Schuster ist Rheinland-Pfalz geboren und wurde 2022 durch innerparteiliche Kämpfe nach Sachsen geschoben.
 * [>>noyb hat im Juni 2026 eine Unterlassungsklage gegen die rechtswidrige Datensammlung der Kreditauskunftei CRIF eingebracht.<<](https://noyb.eu/de/supreme-court-crif-illegally-collected-data-millions-austria-way-clear-class-action)
 * [rust coreutils wurde in der Version 0.11.0 veröffentlicht.](https://github.com/uutils/coreutils/releases/tag/0.11.0)
+* [freecodecamp.com erklärt euch an einem gewachsenem Flutter-Projekt wie ihr DDD-Konzepte zur Transformation einsetzen könnt.](https://www.freecodecamp.org/news/feature-modularization-in-flutter-combine-clean-architecture-and-domain-driven-design/#heading-the-building-blocks-clean-architecture-meets-ddd)
+* [Microsoft Exchange ist kaputt.](https://borncity.com/blog/2026/09/02/fast-22-000-exchange-server-angreifbar-sept-2026/)
+* [>>Die EU-Kommission stuft ChatGPT, Reddit und Roblox als große Online-Dienste ein<<](https://borncity.com/blog/2026/09/01/die-eu-kommission-stuft-chatgpt-reddit-und-roblox-als-grosse-online-dienste-ein/) - Und damit können diese Dienste endlich hart durchreguliert werden. Konzerne haben kein Herz. Konzerne interessiert das erschaffene Leid des Kunden nicht.
+* [>>Chrome [...] belongs to an advertising company. Firefox and Brave block trackers by default and are built with privacy in mind.<<](https://www.freecodecamp.org/news/how-to-protect-your-privacy-while-browsing-the-web/)
+* [Firefox wurde in der Version 155 veröffentlicht.](https://lwn.net/Articles/1091926/)
