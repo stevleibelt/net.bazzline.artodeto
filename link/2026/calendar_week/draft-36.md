@@ -33,3 +33,4 @@
 * [nVidia hat eine weitere Firma in ihr Geld-Rumschick-Maschinerie aufgekauft, Hugging Face.](https://www.phoronix.com/news/NVIDIA-Hugging-Face)
 * [huey wurde in der Version 3.4.0 veröffentlicht.](https://github.com/coleifer/huey/releases/tag/3.4.0)
 * [complexipy wurde in der Version 8.0.0 veröffentlicht.](https://github.com/rohaquinlop/complexipy/releases/tag/8.0.0)
+* [Magisk wurde in der Version 31.0.0. veröffentlicht.](https://github.com/topjohnwu/Magisk/releases/tag/v31.0)
