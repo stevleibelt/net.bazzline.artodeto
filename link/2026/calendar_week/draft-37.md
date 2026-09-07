@@ -1,0 +1,5 @@
+* [redis_exporter wurde in der Version 1.91.0 veröffentlicht.](https://github.com/oliver006/redis_exporter/releases/tag/v1.91.0)
+* [>>[...] Schaltet jetzt eure PCs aus, verlasst eure Wohnungen, kämpft, umarmt einander und lächelt weiter. Bleibt menschlich. [...]<<](https://netzpolitik.org/2026/folge-von-us-sanktionen-internetkollektiv-autistici-inventati-stellt-betrieb-ein/)
+* [Magento und Adobe Commerce sind kaputt.](https://borncity.com/blog/2026/09/07/style-smuggler-0-day-in-magento-adobe-commerce-instanzen/)
+* [>>[...] Die Aushöhlung der Sozialsysteme durch Merz, kein Konzept gegen die Erderwärmung (weder langfristige CO2-Ausstoßreduzierung noch kurzfristige Schutzmaßnahmen gegen die Hitze), braucht man mal einen anderen Arzt als den Hausarzt kriegt man keine Termine, die hohen Preise für Miete oder Wohnungskauf. Sowas waren schon vorher massive Probleme. [...]<<](https://www.onli-blogging.de/2679/Zum-Naziwahlsieg.html?serendipity[csuccess]=true#feedback)
+* [Anhand der 0patch-Kosten zeigt sich wie teuer Closed Software gegen Ende wird.](https://borncity.com/blog/2026/09/07/0patch-liefert-drei-jahre-support-fuer-microsoft-office-2021/)
