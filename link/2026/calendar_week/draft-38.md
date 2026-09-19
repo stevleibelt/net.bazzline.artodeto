@@ -32,3 +32,4 @@
 * Was löst der geplante Kids Act der EU-Kommission wieder nicht? Die [echten Probleme wie Pädokriminalität, Mobbing, Extremismus und den illegalen Datenraub von den Konzernen](https://netzpolitik.org/2026/eu-kids-act-dieses-gesetz-macht-es-fuer-eltern-nicht-besser-sondern-schlimmer/) - Was bringt damit dieser Verwaltungsaufwand? Für den Bürger wie Eltern und Kinder absolut nichts. Aufklärung, pädagogische Hilfe, Einrichten sowie Erhalten oder Ausbau von Anlaufstellen würden helfen, aber so kann man keine Steuermilliarden veruntreuen.
 * [LocalAI wurde in der Version 4.10.0 veröffentlicht.](https://github.com/mudler/LocalAI/releases/tag/v4.10.0)
 * [jemalloc wurde in der Version 5.4.0 veröffentlicht.](https://github.com/jemalloc/jemalloc/releases/tag/5.4.0)
+* [xcat-core wurde in der Version 2.19.0 veröffentlicht.](https://github.com/xcat2/xcat-core/releases/tag/2.19.0)
