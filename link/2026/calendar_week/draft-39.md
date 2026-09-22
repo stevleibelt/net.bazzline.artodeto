@@ -6,3 +6,7 @@
 * [LibreNMS wurde in der Version 26.9.0 veröffentlicht.](https://github.com/librenms/librenms/releases/tag/26.9.0)
 * [harfbuzz wurde in der Version 14.5.0 veröffentlicht.](https://github.com/harfbuzz/harfbuzz/releases/tag/14.5.0)
 * [FairScan wurde in der Version 2.3.0 veröffentlicht.](https://github.com/pynicolas/FairScan/releases/tag/v2.3.0)
+* [docsufy-this wurde in der Version 2.1.0 veröffentlicht.](https://github.com/hibbitts-design/docsify-this/releases/tag/v2.1.0)
+* [>>[...] In a university, what you get in practice is more like a field with a certain amount of desire paths in it. You can build paths and exhort people to not step on the grass, but they're going to do it anyway. [...]<<](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/UniversityPeopleDoStuff)
+* Wie zu erwarten war, [alle Flock Kameras sind kaputt](https://www.schneier.com/blog/archives/2026/09/reverse-engineering-flock-cameras.html) - Es gibt also Kameras, die ungefragt alles fotografieren und dies jedem bereit stellen.
+* In Zeiten, in denen [Politiker Gesetze präsentieren die unseren Rechtsstaat mit Vorsatz verstopfen](https://netzpolitik.org/2026/sicherheitspaket-2-0-sachverstaendige-halten-gesetzentwuerfe-fuer-verfassungswidrig/) möchte ich die Option ein Kostenbeteiligung durch Einbehaltung des Lohns solcher Politiker ins Spiel bringen. Fehler macht jeder einmal, aber hier ist ein Kalkül zu erkennen.
