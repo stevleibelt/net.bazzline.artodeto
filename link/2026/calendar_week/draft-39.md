@@ -40,3 +40,4 @@
 * [Mir hat es kurzfristig das Gesicht gelähmt, als ich "90 Grad am Stromstecker" gelesen habe](https://www.3dcenter.org/news/news-des-24-september-2026)
 * [>>[...] Mit dem Ende des Braunkohleabbaus in der Lausitz droht dem Fluss [Spree] das Wasser auszugehen.<<](https://sachsen.nabu.de/news/2026/37557.html)
 * [>>[...] Sicherheit in Gesellschaften würde nicht dadurch geschaffen, dass man beim Sozialstaat immer weiter kürze, sondern im Gegenteil in diesen investiere.<<](https://netzpolitik.org/2026/kreativer-protest-hunderte-demonstrieren-gegen-preisverleihung-an-peter-thiel/)
+* [mStream wurde in der Version 6.30.0 veröffentlicht.](https://github.com/IrosTheBeggar/mStream/releases/tag/v6.30.0)
