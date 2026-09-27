@@ -41,3 +41,7 @@
 * [>>[...] Mit dem Ende des Braunkohleabbaus in der Lausitz droht dem Fluss [Spree] das Wasser auszugehen.<<](https://sachsen.nabu.de/news/2026/37557.html)
 * [>>[...] Sicherheit in Gesellschaften würde nicht dadurch geschaffen, dass man beim Sozialstaat immer weiter kürze, sondern im Gegenteil in diesen investiere.<<](https://netzpolitik.org/2026/kreativer-protest-hunderte-demonstrieren-gegen-preisverleihung-an-peter-thiel/)
 * [mStream wurde in der Version 6.30.0 veröffentlicht.](https://github.com/IrosTheBeggar/mStream/releases/tag/v6.30.0)
+* [taskiq wurde in der Version 0.13.0 veröffentlicht.](https://github.com/taskiq-python/taskiq/releases/tag/0.13.0)
+* [Nach nicht einmal zwei Jahren ist das LLM-Notebook von Microsoft wieder Geschichte.](https://borncity.com/blog/2026/09/25/microsofts-abschied-von-copilotpc-als-marke/)
+* [Fielmann und Apollo Optik haben die Big Brother Awards (Oscars gegen Überwachung) 2026 gewonnen.](https://netzpolitik.org/2026/big-brother-awards-fielmann-und-apollo-optik-erhalten-ueberwachungs-oscar/) - Nicht so schön, wie ein Mr. Olympia-Titel, dafür deutlich schwerer.
+* [>>Trends und Labels berauben uns der Möglichkeit, unsere Persönlichkeit auszudrücken. Sie machen uns gleichförmig und ebnen den Weg für eine sprachlose Gesellschaft, die sich autoritären Zwängen unterwirft, weil wir verlernen, Regeln zu brechen.<<](https://netzpolitik.org/2026/breakpoint-im-gleichschritt-der-cowboystiefel/)
