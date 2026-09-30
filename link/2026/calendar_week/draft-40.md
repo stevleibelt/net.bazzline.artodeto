@@ -8,3 +8,11 @@
 * [>>[...] Wittmann darf die Dokumente an Presse und Ermittlungsbehörden weitergeben. Und sie darf sich über die MGA so äußern, wie sie es auf LinkedIn getan hat. [...]<<](https://netzpolitik.org/2026/malta-versus-lilith-wittmann-gerichtsurteil-staerkt-meinungs-und-pressefreiheit/)
 * Am Beispiel des Kollektivs Autistic/Inventati seht ihr [wie stark und zentral die Zensur](https://netzpolitik.org/2026/autistici-inventati-es-ist-immer-noch-viel-zu-still/) in der digitalen Welt vorhanden ist.
 * [mkosi wurde in der Version 27.1.0 veröffentlicht.](https://github.com/systemd/mkosi/releases/tag/v27.1)
+* [Betterleaks wurde in der Version 1.9.0 veröffentlicht.](https://github.com/betterleaks/betterleaks/releases/tag/v1.9.0)
+* [rqlite wurde in der Version 10.4.0 veröffentlicht.](https://github.com/rqlite/rqlite/releases/tag/v10.4.0)
+* [librephotos wurde in der Version 1.2.0 veröffentlicht.](https://github.com/LibrePhotos/librephotos/releases/tag/1.2.0)
+* Die neoliberalen Kräfte bauen nicht nur den Sozialstaat ab, auch beim Thema [Informationszugang und Transparenz](https://netzpolitik.org/2026/informationsfreiheit-in-brandenburg-die-verhoehnung-von-transparenz/) fahren sie einen vollen Angriff auf die Errungenschaften der letzten Jahrzehnte
+* Wir haben es 2026 und schreiben noch immer über [unsachgemäßes Nutzen von ORM sowie dadurch entstehende SQL-Injections](https://www.freecodecamp.org/news/how-orms-still-let-sql-injection-through-and-how-to-close-the-gaps/)
+* Da Software individuell ist und die eigenen Geschäftsprozesse abbildet, empfiehlt Martin Fowler ["Best Practices" durch "Sensible Defaults" zu ersetzen](https://martinfowler.com/bliki/SensibleDefault.html)
+* [hw-monitor sieht nach einer sehr netten "All-in-one"-Lösung aus.](https://github.com/husseinhareb/hw-monitor) - Aktuell nutze ich [btop](https://github.com/aristocratos/btop) und [drain](https://github.com/isene/drain), da beide auf der CLI funktionieren
+* [>>The more time I spend working with coding agents, the more convinced I am that they make software engineering even harder [...]<<](https://martinfowler.com/fragments/2026-09-29.html) - Beworben als "Werkzeug für die Massen" sind LLM's wohl doch nur "Werkzeuge für Spezialisten"
