@@ -21,3 +21,8 @@
 * [KeyCloak wurde in der Version 26.8.0 veröffentlicht.](https://github.com/keycloak/keycloak/releases/tag/26.8.0)
 * [Librebooking wurde in der VErsion 6.0.0 veröffentlicht.](https://github.com/LibreBooking/librebooking/releases/tag/v6.0.0)
 * [Snipe-IT wurde in der VErsion 8.8.0 veröffentlicht.](https://github.com/grokability/snipe-it/releases/tag/v8.8.0)
+* [Naps2 wurde in der Version 8.4.0 veröffentlicht.](https://github.com/cyanfish/naps2/releases/tag/v8.4.0)
+* [js-lingui wurde in der Version 6.9.0 veröffentlicht.](https://github.com/lingui/js-lingui/releases/tag/v6.9.0)
+* [Rust wurde in der Version 1.99.0 veröffentlicht.](https://blog.rust-lang.org/2026/10/01/Rust-1.99.0/)
+* Nein? Doch! Oh! [>>Connected Cars Are a Surveillance Platform<<](https://www.schneier.com/blog/archives/2026/10/connected-cars-are-a-surveillance-platform.html) - Das ist der ganze Grund, warum die Firmen von selbstfahrenden Autos oder auch Tesla so hoch bewertet werden. Sie sind Datensammler und der Kunde bezahlt für diesen Verlust der Freiheit auch noch freiwillig.
+* [Eure ePA-Daten werden jetzt grundsätzlich privaten Konzernen zur Forschung bereitgestellt.](https://www.kuketz-blog.de/epa-forschungsdaten-wer-nicht-widerspricht-dessen-daten-werden-genutzt/) - Wer das nicht möchte, muss dagegen widersprechen. Wo und wie dieser Widerspruch funktioniert, lässt die Bundesregierung offen. Deutlicher kann man dem Volk nicht sagen, dass man sich einen Scheiß für deren Probleme interessiert.
