@@ -1,0 +1,5 @@
+* [black wurde in der Version 26.10.0 veröffentlicht.](https://github.com/psf/black/releases/tag/26.10.0)
+* [frankenphp wurde in der Version 1.13.0 veröffentlicht.](https://github.com/php/frankenphp/releases/tag/v1.13.0)
+* Ein Mensch meldet Microsoft, dass er Zugriff auf 17 Billionen Datensätze, Microsoft bedankt sich mit [5000 USD](https://borncity.com/blog/2026/10/04/microsoft-titan-schwachstelle-16-jaehriger-erhielt-zugriff-auf-17-billionen-datensaetze/) - Da braucht sich Microsoft nicht wundern, dass sich wenig Mensche bei Microsoft melden.
+* [Citrix patcht seine NetScaler immer kaputter.](https://borncity.com/blog/2026/10/04/citrix-netscaler-adc-gateway-schwachstelle-cve-2026-88779-patchen/)
+* Google bewirbt sein LLM damit, dass es nur noch [zu 15 Prozent bewusst lügt](https://martinfowler.com/fragments/2026-10-04.html) - Das ist die wunderbare Welt, die uns als "Der Computer hat immer recht" verkauft wird. Dir wird dein Konto gesperrt, weil das LLM halt zu 15 Prozent - mit Absicht - daneben liegt.
