@@ -13,3 +13,13 @@
 * [MusicBrainz Picard wurde in der Version 3.0.0 veröffentlicht.](https://blog.metabrainz.org/2026/10/04/picard-3-0-released/)
 * [>>CCC warnt vor Gesetz zur Schwächung der Cybersicherheit<<](https://www.ccc.de/updates/2026/gesetz-zur-schwaechung-der-cybersicherheit)
 * Nutzt euer Arzt Spracheingaben für die Praxisverwaltung? Fragt mal lieber nach [ob der ganze Bums nicht über ein LLM in die Cloud geblasen wird](https://borncity.com/blog/2026/10/06/praxisverwaltungssoftware-rechtsfalle-spracheingabe/)
+* Mit der Cloud erlebt der neoliberale und enthumanisierende Markt ja gerade seine "Frühling der Zentralisierung" und so muss man eben weniger große Firmen hacken, um an alle Daten zu kommen. Gestern hat es [ASOS/Snowflake](https://borncity.com/blog/2026/10/06/britischer-online-haendler-asos-gehackt-kunden-erhalten-push-nachrichten-der-hacker/) erwischt. Und mit was hat es sie erwischt? Mit Recht!
+* [AWS hat seine Cloud-Agenten-Plattform Loom auch direkt kaputt gemacht.](https://borncity.com/blog/2026/10/06/kritische-auth-bypass-schwachstelle-cve-2026-103956-cvss-10-0-in-loom-for-aws/) - Oder eben, getreu dem Gedanken des volkseigenen Betriebes, für alle geöffnet.
+* [Microsoft verkackt gewohnt an allen Fronten, auch Outlook 365 hat es kaputt gemacht.](https://borncity.com/blog/2026/10/06/microsoft-bestaetigt-outlook-365-suche-kaputt/)
+* Wieder etwas gelernt, was macht eigentlich [`/proc/sysrq`](https://www.kernel.org/doc/html/latest/admin-guide/sysrq.html)?
+* Docker erlaubt euch die LLM's in eine [Sandbox](https://www.freecodecamp.org/news/claude-code-in-a-docker-sandbox/#heading-what-the-experiment-showed) zu sperren
+* [OpenSSH wurde in der Version 10.6.0 veröffentlicht.](https://lwn.net/Articles/1098980/)
+* Die [Deutschland-App ist Telekoms Blankoscheck von der CDU-Bundesregierung](https://netzpolitik.org/2026/verwaltungsdigitalisierung-vieles-unklar-bei-der-deutschland-app/) - Schön, dass Lobbyismus weiterhin gut funktioniert!
+* Die Menschenrechtsliga stuft die Gewalt der französischen Polizei gegenüber französische Schüler als [>>Kriegswaffen gegen Minderjährige<<](https://netzpolitik.org/2026/frankreich-massive-kritik-an-polizeigewalt-gegen-schueler-proteste/) ein
+* [coligri wurde in der Version 2.0.0 veröffentlicht.](https://github.com/JustVugg/colibri/releases/tag/v2.0.0)
+* [Librebooking wurde in der Version 7.0.0 veröffentlicht.](https://github.com/LibreBooking/librebooking/releases/tag/v7.0.0)
