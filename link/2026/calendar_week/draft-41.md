@@ -23,3 +23,5 @@
 * Die Menschenrechtsliga stuft die Gewalt der französischen Polizei gegenüber französische Schüler als [>>Kriegswaffen gegen Minderjährige<<](https://netzpolitik.org/2026/frankreich-massive-kritik-an-polizeigewalt-gegen-schueler-proteste/) ein
 * [coligri wurde in der Version 2.0.0 veröffentlicht.](https://github.com/JustVugg/colibri/releases/tag/v2.0.0)
 * [Librebooking wurde in der Version 7.0.0 veröffentlicht.](https://github.com/LibreBooking/librebooking/releases/tag/v7.0.0)
+* [nicegui wurde in der Version 3.18.0 veröffentlicht.](https://github.com/zauberzeug/nicegui/releases/tag/v3.18.0)
+* [PrivacyOdea wurde in der Version 3.14.0 veröffentlicht.](https://github.com/privacyidea/privacyidea/releases/tag/v3.14)
