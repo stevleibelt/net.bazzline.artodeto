@@ -25,3 +25,13 @@
 * [Librebooking wurde in der Version 7.0.0 veröffentlicht.](https://github.com/LibreBooking/librebooking/releases/tag/v7.0.0)
 * [nicegui wurde in der Version 3.18.0 veröffentlicht.](https://github.com/zauberzeug/nicegui/releases/tag/v3.18.0)
 * [PrivacyOdea wurde in der Version 3.14.0 veröffentlicht.](https://github.com/privacyidea/privacyidea/releases/tag/v3.14)
+* [Accenture ist kaputt](https://borncity.com/blog/2026/10/07/shinyhunters-fbi-hack-dienstleister-accenture-hat-patch-vermasselt-und-ist-rausgeflogen/)
+* [>>Wenig hat mir in letzter Zeit mehr Spaß gemacht, als diesen alten Pullover von mir zu reparieren.<<](https://www.onli-blogging.de/2685/Ein-ausgebesserter-Pulli.html)
+* [reflex wurde in der Version 0.10.0 veröffentlicht.](https://github.com/reflex-dev/reflex/releases/tag/v0.10.0)
+* [SkySend wurde in der Version 3.0.0 veröffentlicht.](https://github.com/Skyfay/SkySend/releases/tag/v3.0.0)
+* [Viele Vereine und Institutionen in Deutschland sind gegen den EU Kids Act](https://netzpolitik.org/2026/gefaehrlicher-kontrollzirkus-so-breit-ist-die-kritik-an-alterskontrollen-im-eu-kids-act/) - Er hilft weder Kindern noch Eltern
+* [Die öffentliche Verwaltung benötigt Gelder und Personal um die Digitalisierung sicher betreiben zu können, doch Blackrock sieht keinen Grund dafür.](https://netzpolitik.org/2026/bundesrechnungshof-digitalminister-macht-it-sicherheit-per-vogelstimmen-app/)
+* [>>Wer Europa als Opfer eines digitalen Kolonialismus inszeniert, negiert historisches Unrecht und übersieht den Ausweg aus Europas selbstverschuldeter Unmündigkeit.<<](https://netzpolitik.org/2026/digitale-souveraenitaet-nein-europa-ist-keine-kolonie-von-big-tech/)
+* [>>[...] Verbesserte Sicherheit sei nötig, um Vertrauen für d‑you zu schaffen.<<](https://netzpolitik.org/2026/fachleute-warnen-vor-sicherheitsrisiken-und-vertrauensverlust/)
+* [>>Der ehemalige BND-Präsident August Hanning soll über Jahre geheime Dokumente aus dem BND erhalten und diese für seine privaten Beratertätigkeiten genutzt haben, wie der Generalbundesanwalt gestern bekannt gab. LobbyControl fordert eine lebenslange Karenzzeit für sicherheitsrelevante Positionen, um Integrität und Sicherheitsinteressen zu schützen.<<](https://www.lobbycontrol.de/pressemitteilung/fall-hanning-lobbycontrol-fordert-lebenslange-karenzzeit-127142/)
+* [>>Reddit stellt RSS-Feeds ein und schließt öffentliche API<<](https://www.onli-blogging.de/2686/Linksammlung-412026.html)
