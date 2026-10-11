@@ -43,3 +43,6 @@
 * [sqlite wurde in der Version 3.54.0 veröffentlicht.](https://www.phoronix.com/news/SQLite-3.54-Released)
 * [python wurde in der Version 3.15.0 veröffentlicht.](https://www.python.org/downloads/release/python-3150/)
 * [Fünf CVSS 10 von Microsoft](https://borncity.com/blog/2026/10/09/microsoft-bestaetigt-5-kritische-schwachstellen-cvss-10-0-im-partner-center/)
+* [schedium wurde in der Version 1.2.0 veröffentlicht.](https://github.com/MarcBresson/schedium/releases/tag/v1.2.0)
+* [librephotos wurde in der Version 1.3.0 veröffentlicht.](https://github.com/LibrePhotos/librephotos/releases/tag/1.3.0)
+* [Microsoft nimmt seinen bezahlenden Kunden jetzt spontan Speicherplatz weg.](https://borncity.com/blog/2026/10/10/microsoft-schrumpft-den-onedrive-cloud-speicher-bei-m365-family/)
