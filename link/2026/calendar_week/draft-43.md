@@ -1,5 +1,5 @@
 * [librenms wurde in der Version 26.10.0 veröffentlicht.](https://github.com/librenms/librenms/releases/tag/26.10.0)
-* [FastAPI wurde in der Version 0.148.0 veröffentlicht.](https://github.com/fastapi/fastapi/releases/tag/0.148.0)
+* [FastAPI wurde in der Version 0.151.0 veröffentlicht.](https://github.com/fastapi/fastapi/releases/tag/0.151.0)
 * [fluffychat wurde in der Version 2.11.0 veröffentlicht.](https://github.com/krille-chan/fluffychat/releases/tag/v2.11.0)
 * [python complexipy wurde in der Version 8.1.0 veröffentlicht.](https://github.com/rohaquinlop/complexipy/releases/tag/8.1.0)
 * [documenso wurde in der Version 2.21.0 veröffentlicht.](https://github.com/documenso/documenso/releases/tag/v2.21.0)
