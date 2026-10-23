@@ -1,5 +1,5 @@
 * [librenms wurde in der Version 26.10.0 veröffentlicht.](https://github.com/librenms/librenms/releases/tag/26.10.0)
-* [FastAPI wurde in der Version 0.159.0 veröffentlicht.](https://github.com/fastapi/fastapi/releases/tag/0.159.0)
+* [FastAPI wurde in der Version 0.161.0 veröffentlicht.](https://github.com/fastapi/fastapi/releases/tag/0.161.0)
 * [fluffychat wurde in der Version 2.11.0 veröffentlicht.](https://github.com/krille-chan/fluffychat/releases/tag/v2.11.0)
 * [python complexipy wurde in der Version 8.1.0 veröffentlicht.](https://github.com/rohaquinlop/complexipy/releases/tag/8.1.0)
 * [documenso wurde in der Version 2.21.0 veröffentlicht.](https://github.com/documenso/documenso/releases/tag/v2.21.0)
@@ -19,3 +19,12 @@
 * Die Realität von freier Software in einem Satz [>>[...] We won't pretend otherwise: the delay was a structural failure, caused by both the security team's decision process and its lack of resources.<<](https://lwn.net/Articles/1102060/) - Solange Konzerne Milliarden privatisieren und freie Software nehmen ohne zu geben, wird das so bleiben.
 * [>>Es gibt keinen ‚Grundsatz der Vollständigkeit’, der es der Polizei erlauben würde, alle Menschen zu identifizieren, die einmal zusammen mit einer tatverdächtigen Person demonstriert haben. [...]<<](https://netzpolitik.org/2026/lka-baden-wuerttemberg-kritik-an-gesichtserkennung-bei-demo-teilnehmenden/) - Und trotzdem setzt die Polizei in BaWü dieses neue Spielzeug ein.
 * [>>[...] CDU, CSU und SPD sollten erklären, weshalb die Öffentlichkeit künftig mehr begründen und bezahlen soll, um staatliches Handeln zu kontrollieren – während das Innenministerium nicht einmal die behauptete Notwendigkeit der Einschränkungen belegen kann. Ein Staat wird nicht besser, wenn er kritische Nachfragen erschwert. Er wird weniger kontrollierbar. [...]<<](https://www.kuketz-blog.de/ifg-die-peinliche-blamage-der-bundesregierung/)
+* [jellyfin wurde in der Version 12.3.0 veröffentlicht.](https://github.com/jellyfin/jellyfin/releases/tag/v12.3)
+* [harfbuzz wurde in der Version 15.0.0 veröffentlicht.](https://github.com/harfbuzz/harfbuzz/releases/tag/15.0.0)
+* [questdb wurde in der Version 10.1.0 veröffentlicht.](https://github.com/questdb/questdb/releases/tag/10.1.0)
+* [>>MCP bridges [...] comes with [...] massive security risks.<<](https://www.freecodecamp.org/news/learn-model-context-protocol-mcp-security/)
+* Dank Quad4 wissen wir, [dass DNS in Frankreich ab dem 24.11.2026 nicht mehr frei von Zensur ist.](https://quad9.net/news/blog/au-revoir-france/)
+* Long Story Short, [Omnibus der EU wird so schlecht wie es zu erwarten war.](https://netzpolitik.org/2026/eu-laender-einig-beim-daten-omnibus-mehr-ki-training-weniger-datenschutz/) - Auch [Kuketz](https://www.kuketz-blog.de/der-omnibus-der-eu-kommission-wette-auf-die-zukunft-mit-unserer-privatsphaere/) schreibt es in seiner Art.
+* [>>Der „Feminismus heute“ fragt nicht, er nimmt pauschal in Haft<<](https://tuxproject.de/blog/2026/10/feminismus-entweiblicht/)
+* [>>[...] Wenn die Trainingsdaten überwiegend von männlichen Personen stammen, würde ein darauf trainiertes Modell die Versorgungslücke bei Frauen im schlechtesten Fall nicht schließen, sondern eher verstärken [...]<<](https://gi.de/meldung/blind-spots-datenluecken-machen-die-medizin-der-zukunft-ungerecht)
+* [>>Gregor Ziegltrum und Dennis Schulz fragten mehr als hundert Unternehmen nach einer Kopie ihrer Daten – eine Möglichkeit, die die Datenschutzgrundverordnung (DSGVO) explizit einräumt. Sie wollten herausfinden: Was wissen die Unternehmen eigentlich über mich? Jeweils mehr als 6.000 Dateien bekamen die beiden zurück – und haben sie fleißig ausgewertet<<](https://netzpolitik.org/2026/interview-lasst-euch-nicht-mit-dem-ersten-datensatz-abspeisen/)
