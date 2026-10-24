@@ -1,5 +1,5 @@
 * [librenms wurde in der Version 26.10.0 veröffentlicht.](https://github.com/librenms/librenms/releases/tag/26.10.0)
-* [FastAPI wurde in der Version 0.161.0 veröffentlicht.](https://github.com/fastapi/fastapi/releases/tag/0.161.0)
+* [FastAPI wurde in der Version 0.162.0 veröffentlicht.](https://github.com/fastapi/fastapi/releases/tag/0.162.0)
 * [fluffychat wurde in der Version 2.11.0 veröffentlicht.](https://github.com/krille-chan/fluffychat/releases/tag/v2.11.0)
 * [python complexipy wurde in der Version 8.1.0 veröffentlicht.](https://github.com/rohaquinlop/complexipy/releases/tag/8.1.0)
 * [documenso wurde in der Version 2.21.0 veröffentlicht.](https://github.com/documenso/documenso/releases/tag/v2.21.0)
@@ -28,3 +28,11 @@
 * [>>Der „Feminismus heute“ fragt nicht, er nimmt pauschal in Haft<<](https://tuxproject.de/blog/2026/10/feminismus-entweiblicht/)
 * [>>[...] Wenn die Trainingsdaten überwiegend von männlichen Personen stammen, würde ein darauf trainiertes Modell die Versorgungslücke bei Frauen im schlechtesten Fall nicht schließen, sondern eher verstärken [...]<<](https://gi.de/meldung/blind-spots-datenluecken-machen-die-medizin-der-zukunft-ungerecht)
 * [>>Gregor Ziegltrum und Dennis Schulz fragten mehr als hundert Unternehmen nach einer Kopie ihrer Daten – eine Möglichkeit, die die Datenschutzgrundverordnung (DSGVO) explizit einräumt. Sie wollten herausfinden: Was wissen die Unternehmen eigentlich über mich? Jeweils mehr als 6.000 Dateien bekamen die beiden zurück – und haben sie fleißig ausgewertet<<](https://netzpolitik.org/2026/interview-lasst-euch-nicht-mit-dem-ersten-datensatz-abspeisen/)
+* [redis exporter wurde in der Version 1.96.0 veröffentlicht.](https://github.com/oliver006/redis_exporter/releases/tag/v1.96.0)
+* [SykSend wurde in der Version 3.2.0 veröffentlicht.](https://github.com/Skyfay/SkySend/releases/tag/v3.2.0)
+* [huey wurde in der Version 3.5.0 veröffentlicht.](https://github.com/coleifer/huey/releases/tag/3.5.0)
+* [>>[...] A hobby project that gets popular, including with corporations, is one where the two worlds of FOSS are especially likely to come up and you may start tapping the sign for various reasons.<<](https://utcc.utoronto.ca/~cks/space/blog/tech/FOSSAndHobbyProgramming)
+* [>>[...] Doch statt den Energieverbrauch zu begrenzen und Abwärme zu nutzen, will die Bundesregierung Energieeffizienzvorgaben aufweichen. Sie gibt damit den Interessen der großen Tech-Giganten nach.<<](https://netzpolitik.org/2026/ki-boom-wie-die-bundesregierung-die-regulierung-von-rechenzentren-aushoehlt/) - Effizenz, kein anderes Wort wurde mir in meiner Bildung so in die "Deutsche DNA" eingepeitscht, nur um in einer Gegenwart leben zu müssen, wo die Bundesregierung alles außer eben dies fördert. Zur Klärung, ich meine Effizenz aus der Sicht eines Ingenieurs, nicht eines BWLs
+* [Mit `pytest-xdist` könnt ihr pytests parallel ablaufen lassen.](https://pythonfriday.dev/2026/10/354-run-pytest-in-parallel/)
+* [>>EU-Mitgliedstaaten stimmen für „digitale Enteignung“ zugunsten von KI-Firmen<<](https://noyb.eu/de/ai-eu-member-states-approve-digital-expropriation-europeans-ai-companies) - Danke für nichts, ich fühle mich als Bürger nur ausgenutzt, aber nicht vertreten.
+* [Am 30.10.2026 könnt ihr zuhören wie man Schulen in Deutschlan digital Unabhängig bekommt.](https://gi.de/meldung/did-you-know-digitale-unabhaengigkeit-an-hochschulen-zwischen-lehre-und-forschung)
