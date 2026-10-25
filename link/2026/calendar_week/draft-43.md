@@ -36,3 +36,4 @@
 * [Mit `pytest-xdist` könnt ihr pytests parallel ablaufen lassen.](https://pythonfriday.dev/2026/10/354-run-pytest-in-parallel/)
 * [>>EU-Mitgliedstaaten stimmen für „digitale Enteignung“ zugunsten von KI-Firmen<<](https://noyb.eu/de/ai-eu-member-states-approve-digital-expropriation-europeans-ai-companies) - Danke für nichts, ich fühle mich als Bürger nur ausgenutzt, aber nicht vertreten.
 * [Am 30.10.2026 könnt ihr zuhören wie man Schulen in Deutschlan digital Unabhängig bekommt.](https://gi.de/meldung/did-you-know-digitale-unabhaengigkeit-an-hochschulen-zwischen-lehre-und-forschung)
+* [Seit Oktober 2025 ist die SEPA-Überprüfung nun aktiv und natürlich benötigt es eine Verbrauchzentrale um den Banken zu erklären, dass die umgesetzte Lösung schlecht ist.](https://borncity.com/blog/2026/10/25/verbraucherzentrale-kritisiert-sepa-pruefung-vop-der-banken/)
