@@ -1,0 +1,4 @@
+* [mStream wurde in der Version 6.32.0 veröffentlicht.](https://github.com/IrosTheBeggar/mStream/releases/tag/v6.32.0)
+* [complexipy wurde in der Version 8.2.0 veröffentlicht.](https://github.com/rohaquinlop/complexipy/releases/tag/8.2.0)
+* [naps2 wurde in der Version 8.6.0 veröffentlicht.](https://github.com/cyanfish/naps2/releases/tag/v8.6.0)
+* Realitätsabgleich und Erkenntnis zu dem Problem, dass Kühlschränke in Frankreich flächendeckend kompromitiert wurden: [>>Die Geräte einfach NICHT über das Internet steuerbar zu machen ist natürlich keine Empfehlung wert. [...] Jeglicher Kostenvorteil, die so ein Remoteanbindung erbringen könnte, ist durch den Schaden längst dahin. Schuld sind andere und den Schaden bezahlen die Kunden. Mit der Einstellung wird sich nichts ändern oder besser<<](https://borncity.com/blog/2026/10/26/forescout-vedere-labs-zum-cyberangriff-auf-franz-supermarkt-kuehlschraenke/#comment-269931)
