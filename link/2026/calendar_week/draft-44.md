@@ -1,4 +1,9 @@
 * [mStream wurde in der Version 6.32.0 veröffentlicht.](https://github.com/IrosTheBeggar/mStream/releases/tag/v6.32.0)
-* [complexipy wurde in der Version 8.2.0 veröffentlicht.](https://github.com/rohaquinlop/complexipy/releases/tag/8.2.0)
+* [complexipy wurde in der Version 8.3.0 veröffentlicht.](https://github.com/rohaquinlop/complexipy/releases/tag/8.3.0)
 * [naps2 wurde in der Version 8.6.0 veröffentlicht.](https://github.com/cyanfish/naps2/releases/tag/v8.6.0)
 * Realitätsabgleich und Erkenntnis zu dem Problem, dass Kühlschränke in Frankreich flächendeckend kompromitiert wurden: [>>Die Geräte einfach NICHT über das Internet steuerbar zu machen ist natürlich keine Empfehlung wert. [...] Jeglicher Kostenvorteil, die so ein Remoteanbindung erbringen könnte, ist durch den Schaden längst dahin. Schuld sind andere und den Schaden bezahlen die Kunden. Mit der Einstellung wird sich nichts ändern oder besser<<](https://borncity.com/blog/2026/10/26/forescout-vedere-labs-zum-cyberangriff-auf-franz-supermarkt-kuehlschraenke/#comment-269931)
+* [jellyfin wurde in der Version 12.4.0 veröffentlicht.](https://github.com/jellyfin/jellyfin/releases/tag/v12.4)
+* [tacticalrmm wurde in der Version 1.6.0 veröffentlicht.](https://github.com/amidaware/tacticalrmm/releases/tag/v1.6.0)
+* [Der MDR hat ein Podcast über das Steigerlied veröffentlicht - fünf Jahrhunderte ist das gute Lied schon alt.](https://knappenverein.de/mdr-kultur-podcast-glueck-auf-wenn-ihr-kumpel-seid-5-jahrhunderte-steigerlied/)
+* [>>[...] AI is absolutely and without a doubt will be used to intentionally nudge the public opinion. [...]<<](https://www.schneier.com/blog/archives/2026/10/bias-in-qwen3-coder-model.html)
+* [>>Die Bundesregierung hat das digitale Großprojekt „Mein Bildungsraum“ begraben. Von dem Versprechen, lebenslanges Lernen zu fördern, ist nurmehr eine digitale Zeugnismappe geblieben. Die Gründe für das Scheitern lassen sich benennen.<<](https://netzpolitik.org/2026/mein-bildungsraum-millionengrab-fuer-eine-digitale-zeugnismappe/) - Was mit den 236 Millionen Euro hätte passieren können, wenn die Bundesregierung gezielt bestehende Open Source Projekte gefördert hätte.
