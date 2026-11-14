@@ -1,0 +1,18 @@
+* [FokusLauncher wurde in der Version 1.9.9 veröffentlicht.](https://github.com/luantak/FokusLauncher/releases/tag/v1.9.9)
+* [FairScan wurde in der Version 2.4.0 veröffentlicht.](https://github.com/pynicolas/FairScan/releases/tag/v2.4.0)
+* [complexipy wurde in der Version 9.0.0 veröffentlicht.](https://github.com/rohaquinlop/complexipy/releases/tag/9.0.0)
+* [open workflow specification wurde in der Version 1.1.0 veröffentlicht.](https://github.com/open-workflow-specification/specification/releases/tag/v1.1.0)
+* [immich wurde in der Version 3.4.0 veröffentlicht.](https://github.com/immich-app/immich/releases/tag/v3.4.0)
+* [typer wurde in der Version 0.29.0 veröffentlicht.](https://github.com/fastapi/typer/releases/tag/0.29.0)
+* [flameshot wurde in der Version 15.0.0 veröffentlicht.](https://github.com/flameshot-org/flameshot/releases/tag/v15.0.0)
+* [you dont need jquery wurde in der Version 3.0.0 veröffentlicht.](https://github.com/camsong/You-Dont-Need-jQuery/releases/tag/v3.0)
+* [nicegui wurde in der Version 4.0.0 veröffentlicht.](https://github.com/zauberzeug/nicegui/releases/tag/v4.0.0)
+* [FreeRDP wurde in der Version 3.33.0 veröffentlicht.](https://github.com/FreeRDP/FreeRDP/releases/tag/3.33.0)
+* [Zabbix wurde in der Version 8.0.0 LTS veröffentlicht.](https://borncity.com/blog/2026/11/10/zabbix-8-0-lts-veroeffentlicht/)
+* [>>[...] you know, the technology that in the best case scenario is going to take everyone’s jobs, and in the worst case scenario end the human race. [...]<<](https://martinfowler.com/fragments/2026-11-10.html)
+* [LLM-Agenten sind mit "Bedenken Second" gebaut und senden bei Webanfragen so viele privaten Informationen an die Gegenstelle, wie möglich.](https://tuxproject.de/blog/2026/11/this-is-what-happens-when-you-store-your-data-in-the-ai/)
+* [Mit den neuen Geheimdienstgesetzen schleudert uns die CDU und die SPD wieder ein Stück mehr zurück in die Zeit um Adolf Hitler.](https://netzpolitik.org/2026/geheimdienstreform-das-ist-keine-sicherheit/)
+* [Digitalminister Wildberger liefert, was man von einem Neoliberalen erwartet, Datenschutz runter und Verkauf aller Bürgerdaten für LLM's hoch.](https://netzpolitik.org/2026/bundeshaushalt-bund-verschleiert-ki-ausgaben/) - Und um den Verkauf zu vereinfachen werden Steuergelder in Millionenhöhe investiert.
+* [Die SPD tut auch in MV, was die SPD so tut, Ausbau nennt man dort jetzt Stärkung (von Überwachung)](https://netzpolitik.org/2026/analyse-des-koalitionsvertrages-automatisierte-datenanalyse-kommt-auch-in-mecklenburg-vorpommern/)
+* [>>Der BND soll dem Gesetzentwurf der Bundesregierung nach künftig in Privatwohnungen im Inland eindringen dürfen. [...]<<](https://netzpolitik.org/2026/kurz-vor-bundestagsabstimmung-an-welchen-stellen-union-und-spd-die-geheimdienstreform-ausbauen/) - Der Auslandsgeheimdienst darf "nach Gefühl" die Rechte der eigenen Bürger im Inneren brechen.
+* [Während das SMK tolle Bilder und tollen Text über Programmieren bei jungen Schülern schreibt, ist "Computer und Technik" bei den eigenen Kindern seit Beginn des Schuljahres zu 90 Prozent ausgefallen.](https://www.bildung.sachsen.de/blog/index.php/2026/11/05/digitale-bildung-in-der-grundschule/)
