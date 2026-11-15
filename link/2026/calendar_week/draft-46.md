@@ -16,3 +16,11 @@
 * [Die SPD tut auch in MV, was die SPD so tut, Ausbau nennt man dort jetzt Stärkung (von Überwachung)](https://netzpolitik.org/2026/analyse-des-koalitionsvertrages-automatisierte-datenanalyse-kommt-auch-in-mecklenburg-vorpommern/)
 * [>>Der BND soll dem Gesetzentwurf der Bundesregierung nach künftig in Privatwohnungen im Inland eindringen dürfen. [...]<<](https://netzpolitik.org/2026/kurz-vor-bundestagsabstimmung-an-welchen-stellen-union-und-spd-die-geheimdienstreform-ausbauen/) - Der Auslandsgeheimdienst darf "nach Gefühl" die Rechte der eigenen Bürger im Inneren brechen.
 * [Während das SMK tolle Bilder und tollen Text über Programmieren bei jungen Schülern schreibt, ist "Computer und Technik" bei den eigenen Kindern seit Beginn des Schuljahres zu 90 Prozent ausgefallen.](https://www.bildung.sachsen.de/blog/index.php/2026/11/05/digitale-bildung-in-der-grundschule/)
+* [PegaProx wurde in der Version 1.5.0 veröffentlicht.](https://github.com/PegaProx/project-pegaprox/releases/tag/v1.5.0)
+* [ramsey UUID wurde in der Version 4.10.0 veröffentlicht.](https://github.com/ramsey/uuid/releases/tag/4.10.0)
+* [mock-oauth2-server wurde in der Version 7.0.0 veröffentlicht.](https://github.com/navikt/mock-oauth2-server/releases/tag/7.0.0)
+* [paratest wurde in der Version 7.29.0 veröffentlicht.](https://github.com/paratestphp/paratest/releases/tag/v7.29.0)
+* [python-email-validator wurde in der Version 2.4.0 veröffentlicht.](https://github.com/JoshData/python-email-validator/releases/tag/v2.4.0)
+* [fastapi wurde in der Version 0.163.0 veröffentlicht.](https://github.com/fastapi/fastapi/releases/tag/0.163.0)
+* [>> [...] Wer eine Entwicklungsumgebung manuell einrichtet, entwickelt mit der Zeit ein Bewusstsein dafür, welche Komponenten benötigt werden und welche nicht. Ein KI-Agent verfolgt dagegen ein anderes Ziel: Er soll eine konkrete Aufgabe möglichst schnell und zuverlässig erledigen. [...]<<](https://borncity.com/blog/2026/11/15/risiken-des-vibe-coding-im-entwicklungsprozess/)
+* [>>One web future: different versions of sites for different visitors<<](https://utcc.utoronto.ca/~cks/space/blog/web/OneWebFutureDifferentSiteViews)
