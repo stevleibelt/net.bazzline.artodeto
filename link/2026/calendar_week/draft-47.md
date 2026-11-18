@@ -9,3 +9,9 @@
 * [Die USA zeigen wie gut LLM/KI funktioniert, erst die Flughäfen, jetzt die Banken, alles fällt aus.](https://borncity.com/blog/2026/11/16/ausfaelle-bei-us-banken-16-11-2026/) - Oder ist das politisch gewollt? Man hat gar keinen Durchblick mehr.
 * [Apache KVRocks spircht das Redis/Valkey Protokoll RESP, speichert die Daten aber in einer RocksDB. Percona.com erklärt euch, wie das genau geht.](https://www.percona.com/blog/inside-kvrocks/)
 * [Was kann man von den medialen Aussagen der CDU und SPD halten? Prüfet selbst, beim Thma Mordroboter.](https://tuxproject.de/blog/2026/11/schroedingers-mordroboterablehnung/)
+* [fastapi wurde in der Version 0.164.0 veröffentlicht.](https://github.com/fastapi/fastapi/releases/tag/0.164.0)
+* [backstage wurde in der Version 1.57.0 veröffentlicht.](https://github.com/backstage/backstage/releases/tag/v1.57.0)
+* [>>EU-Verbraucherschützer beklagen DMA-Verstöße bei Apple, Microsoft & Co.<<](https://borncity.com/blog/2026/11/18/eu-verbraucherschuetzer-beklagen-dma-verstoesse-bei-apple-microsoft-co/)
+* [Die SCHUFA bleibt weiterhin scheiße.](https://netzpolitik.org/2026/unterschaetzte-schufa-urteile-des-bundesgerichtshofs-transparenz-erst-wenn-es-wehtut/)
+* [Microsoft hat sein Windows 11 wieder kaputt gemacht.](https://borncity.com/blog/2026/11/18/windows-11-25h2-26h2-boot-schleife-durch-pxhlpa64-sys-nach-nov-2026-update-kb5132061/)
+* [>>[...] Nach Einschätzung der Autoren schwächt der [Omnibus] Vorschlag die Datenschutzrechte von Beschäftigten in der EU.<<](https://netzpolitik.org/2026/geplante-aenderungen-der-dsgvo-datenmissbrauch-am-arbeitsplatz-koennte-bald-schwerer-aufzudecken-sein/)
