@@ -16,3 +16,7 @@
 * [Die EU macht die Chatkontrolle wieder kaputt, weil es Überwachung noch mit reinverhandeln möchte.](https://netzpolitik.org/2026/chatkontrolle-verhandlungen-eu-rat-will-fuer-mehr-ueberwachung-offenbar-tricksen/)
 * [>>Rechtmäßiger Einsatz der Meta-Brille im Alltag „kaum möglich“<<](https://netzpolitik.org/2026/verbraucherzentrale-rechtmaessiger-einsatz-der-meta-brille-im-alltag-kaum-moeglich/)
 * [Die Industrielobby und die Rechtsetremen bekämpfen alle NGOs](https://www.lobbycontrol.de/lobbyismus-in-der-eu/defunding-wie-konservative-und-rechte-die-zivilgesellschaft-schwaechen-wollen-127664/)
+* [rqlite wurde in der Version 10.8.0 veröffentlicht.](https://github.com/rqlite/rqlite/releases/tag/v10.8.0)
+* [Die Telematik ist am 27.11.2026 erneut ausgefallen](https://borncity.com/blog/2026/11/27/ausfall-telematik-medisign-beim-erezept-27-11-2026/) - Rezepte oder sonstige Grundbedürfnisse konnten somit wieder nicht erfüllt werden.
+* [Die Deutschlandticket-App ist auch defekt.](https://borncity.com/blog/2026/11/27/stoerung-bei-handyticket-deutschland-app-und-deutschlandticket-app/)
+* [Kuketz erklärt euch wie RethinkDNS funktioniert.](https://www.kuketz-blog.de/rethinkdns-netzwerkaktivitaet-verstehen-werbung-und-tracker-blockieren-teil-1/)
